@@ -553,7 +553,7 @@ def index_html(fiches):
                    f'<circle class="halo" cx="{x:.1f}" cy="{y:.1f}" r="10.5"/><circle class="c" cx="{x:.1f}" cy="{y:.1f}" r="7.2" style="fill:var(--d{dd})"/>'
                    f'<text x="{x:.1f}" y="{y + .4:.1f}" style="fill:var(--t{dd})">{dd}</text></a>')
     svg = (f'<svg viewBox="0 0 {MAP["W"]} {MAP["H"]}" role="group" aria-label="Carte du monde : un cercle par communauté, placé près de son territoire, avec son degré d\'autonomie">'
-           f'<path class="grat" d="{MAP["grat"]}"/><path class="land" d="{MAP["land"]}"/><path class="borders" d="{MAP["borders"]}"/>'
+           f'<path class="grat" d="{MAP["grat30"]}"/><path class="land" d="{MAP["land"]}"/><path class="borders" d="{MAP["borders"]}"/>'
            f'<path class="sphere" d="{MAP["sphere"]}"/>{"".join(pts)}</svg>')
     rows = []
     for f in fiches:
@@ -578,7 +578,7 @@ def index_html(fiches):
 <div class="degbar" data-degbar>{degbar}</div></div>
 </section>
 <figure class="map" data-map>{svg}<div class="tip" data-tip></div>
-<figcaption class="maplegend"><span class="only-light">Un cercle par communauté, déplacé au plus près de son territoire pour rester lisible ; le chiffre est le degré d'autonomie. Sans frontières d'États.</span><span class="only-dark">Un point par communauté, sans terres dessinées ; plus le point est clair, plus le degré d'autonomie calculé est élevé.</span><span>Projection Equal Earth</span></figcaption></figure>
+<figcaption class="maplegend"><span class="only-light">Un cercle par communauté, déplacé au plus près de son territoire pour rester lisible ; le chiffre est le degré d'autonomie. Sans frontières d'États.</span><span class="only-dark">Un point par communauté ; plus le point est clair, plus le degré d'autonomie calculé est élevé. Fond : côtes Natural Earth 1:110 m, frontières d'États volontairement omises.</span><span>Projection Equal Earth</span></figcaption></figure>
 
 <form class="filters" role="search" aria-label="Filtrer l'atlas" onsubmit="return false">
 <label>Rechercher<input type="search" name="q" placeholder="Nom, territoire, État…" autocomplete="off"></label>

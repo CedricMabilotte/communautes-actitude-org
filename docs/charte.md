@@ -17,7 +17,7 @@ Références : Forensic Architecture, Bertin (variable de valeur), cartographie 
 - Empreinte : cadran de 12 secteurs, le premier à midi, dans l'ordre du cadre ; secteur éclairé = inscrit, moitié = partiel, hachures ambre = remis en cause, pointillé = aucune source.
 - Accueil : grand cadran commenté (part des fiches où chaque droit est inscrit, partiel, remis en cause).
 - Degré : rampe de luminance, plus clair = plus autonome.
-- Carte : pas de terres dessinées, seulement le graticule ; un point par communauté, sa clarté dit le degré.
+- Carte : continents en aplat très sombre `#151C2E` avec côte `#2B3449` (0,6), graticule à 30° sur l'océan seulement, frontières d'États volontairement omises (mention en légende) ; un point par communauté, sa clarté dit le degré, liseré `#6B7590` (0,7) pour que les degrés 0 et 1 restent visibles.
 - Typographie : Newsreader (texte, titres), Martian Mono (libellés, chiffres).
 
 ## Règles communes

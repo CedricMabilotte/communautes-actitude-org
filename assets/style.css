@@ -21,7 +21,7 @@
   --d0:#F1F2EE;--d1:#D3DBE7;--d2:#A4B5D0;--d3:#6F89B4;--d4:#3F6098;--d5:#1C3766;
   --t0:#1B1D1F;--t1:#1B1D1F;--t2:#1B1D1F;--t3:#FFFFFF;--t4:#FFFFFF;--t5:#FFFFFF;
   --lit:#1B1D1F;--half:#8A8F94;--off:#EEF0EC;--dline:#B8BCB5;
-  --land:#E9EBE6;--grat:transparent;--sphere:#D3D6D0;--borders:transparent;
+  --land:#E9EBE6;--coast:transparent;--grat:transparent;--sphere:#D3D6D0;--borders:transparent;--ptline:var(--bg);
   --display:"Jost",Futura,"Century Gothic",system-ui,sans-serif;
   --text:"Libre Franklin",system-ui,-apple-system,"Segoe UI",sans-serif;
   --labelf:"Jost",Futura,system-ui,sans-serif;
@@ -37,7 +37,7 @@
   --d0:#1B2336;--d1:#2E374F;--d2:#4A5470;--d3:#6E7894;--d4:#B4BBCC;--d5:#F1EEE6;
   --t0:#E9E5D9;--t1:#E9E5D9;--t2:#E9E5D9;--t3:#E9E5D9;--t4:#0D1321;--t5:#0D1321;
   --lit:#F1EEE6;--half:#7C849A;--off:#1B2336;--dline:#56607A;
-  --land:transparent;--grat:#1D2539;--sphere:#56607A;--borders:transparent;
+  --land:#151C2E;--coast:#2B3449;--grat:#1D2539;--sphere:#56607A;--borders:transparent;--ptline:#6B7590;
   --display:"Newsreader",Georgia,serif;--text:"Newsreader",Georgia,serif;
   --labelf:"Martian Mono",ui-monospace,monospace;--mono:"Martian Mono",ui-monospace,monospace;
   --h-weight:400;--h-track:-.015em;
@@ -49,7 +49,7 @@
   --d0:#1B2336;--d1:#2E374F;--d2:#4A5470;--d3:#6E7894;--d4:#B4BBCC;--d5:#F1EEE6;
   --t0:#E9E5D9;--t1:#E9E5D9;--t2:#E9E5D9;--t3:#E9E5D9;--t4:#0D1321;--t5:#0D1321;
   --lit:#F1EEE6;--half:#7C849A;--off:#1B2336;--dline:#56607A;
-  --land:transparent;--grat:#1D2539;--sphere:#56607A;--borders:transparent;
+  --land:#151C2E;--coast:#2B3449;--grat:#1D2539;--sphere:#56607A;--borders:transparent;--ptline:#6B7590;
   --display:"Newsreader",Georgia,serif;--text:"Newsreader",Georgia,serif;
   --labelf:"Martian Mono",ui-monospace,monospace;--mono:"Martian Mono",ui-monospace,monospace;
   --h-weight:400;--h-track:-.015em;
@@ -148,7 +148,7 @@ h3{font-size:1.2rem;margin:1.6em 0 .4em}
 /* ---------- carte */
 .map{position:relative;margin:8px 0 0;padding:8px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 .map svg{display:block;width:100%;height:auto}
-.map .land{fill:var(--land)}
+.map .land{fill:var(--land);stroke:var(--coast);stroke-width:.6;stroke-linejoin:round}
 .map .borders{fill:none;stroke:var(--borders)}
 .map .sphere{fill:none;stroke:var(--sphere);stroke-width:1}
 .map .grat{fill:none;stroke:var(--grat);stroke-width:.6}
@@ -158,8 +158,8 @@ h3{font-size:1.2rem;margin:1.6em 0 .4em}
 .pt:hover .halo,.pt:focus .halo,.pt.on .halo{opacity:1}
 .pt.off{display:none}
 .pt:focus{outline:none}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .pt circle.c{r:3.4px;stroke:none}:root:not([data-theme="light"]) .pt text{display:none}}
-:root[data-theme="dark"] .pt circle.c{r:3.4px;stroke:none}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .pt circle.c{r:3.4px;stroke:var(--ptline);stroke-width:.7}:root:not([data-theme="light"]) .pt text{display:none}}
+:root[data-theme="dark"] .pt circle.c{r:3.4px;stroke:var(--ptline);stroke-width:.7}
 :root[data-theme="dark"] .pt text{display:none}
 .tip{position:absolute;pointer-events:none;background:var(--ink);color:var(--bg);font:500 .75rem/1.35 var(--labelf);padding:6px 9px;transform:translate(-50%,calc(-100% - 12px));white-space:nowrap;display:none;z-index:3}
 .tip b{font-family:var(--display);font-size:.95rem;font-weight:500}
