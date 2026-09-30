@@ -1,0 +1,54 @@
+uid: "alaska-autochtones"
+nom: "Autochtones d'Alaska"
+endonyme: ""
+territoire: "Alaska"
+etats: ["États-Unis"]
+region: "ameriques"
+coord: [64.0, -152.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 180000, annee: 2026, perimetre: "membres des 229 tribus reconnues au niveau fédéral (« plus de 180 000 », BIA)", source: "https://www.bia.gov/regional-office/alaska-region"}
+lieux: {valeur: 229, unite: "tribus reconnues au niveau fédéral", annee: 2026, source: "https://www.bia.gov/regional-office/alaska-region"}
+surface_km2: {valeur: 179501, annee: 2025, perimetre: "terres transférées aux corporations autochtones au titre de l'ANCSA (44 355 611 acres)", source: "https://www.blm.gov/programs/lands-and-realty/regional-information/alaska/land_transfer"}
+resume: >-
+  Les peuples autochtones d'Alaska forment 229 tribus reconnues par le gouvernement fédéral des États-Unis, qui comptent plus de 180 000 membres selon le Bureau des affaires indiennes. La loi de 1971 sur le règlement des revendications des autochtones d'Alaska (ANCSA) a éteint les titres ancestraux et transféré des terres à des sociétés autochtones régionales et de village, sans créer de réserves. Le gouvernement propre des tribus repose sur la reconnaissance fédérale, non sur l'ANCSA. La réserve d'Annette Island relève de la région Nord-Ouest du BIA et non de sa région Alaska.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Les États-Unis, qui avaient voté contre la Déclaration en 2007, ont déclaré leur appui le 16 décembre 2010 (Rapporteur spécial, A/HRC/21/47/Add.1, § 80).", annee: 2010, source: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport sur la mission aux États-Unis (A/HRC/21/47/Add.1), § 58 à 63 : régime propre à l'Alaska, effets de l'ANCSA sur les terres, la chasse et la pêche de subsistance.", annee: 2012, source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+base_nationale:
+  - {instrument: "Alaska Native Claims Settlement Act (ANCSA), 43 U.S.C. § 1601 et suivants", nature: "loi", annee: 1971, source: "https://www.law.cornell.edu/uscode/text/43/1601"}
+  - {instrument: "Liste fédérale des entités tribales reconnues (Federal Register, 8 janvier 2024), section des entités autochtones de l'État d'Alaska", nature: "loi", annee: 2024, source: "https://www.govinfo.gov/content/pkg/FR-2024-01-08/pdf/2024-00109.pdf"}
+  - {instrument: "Alaska c. Native Village of Venetie Tribal Government, 522 U.S. 520 (1998)", nature: "jurisprudence", annee: 1998, source: "https://www.law.cornell.edu/supremecourt/text/522/520"}
+  - {instrument: "Décret présidentiel 13175 sur la consultation des gouvernements tribaux", nature: "loi", annee: 2000, source: "https://www.govinfo.gov/content/pkg/FR-2000-11-09/pdf/00-29003.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "229 tribus reconnues relèvent de la région Alaska du Bureau des affaires indiennes (BIA) et figurent sur la liste fédérale publiée en 2024 ; depuis l'arrêt Venetie (1998), les terres ANCSA ne sont pas un « pays indien » (Indian country, territoire où s'exerce la compétence tribale), ce qui limite leur compétence territoriale.", source: "https://www.bia.gov/regional-office/alaska-region"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "L'ANCSA (1971) transfère des terres à des sociétés de village (surface) et régionales, sans créer de système de réserves ni d'institution fondée sur la race, 43 U.S.C. § 1601 (b) et § 1611 ; ces terres appartiennent à des sociétés dont les autochtones sont actionnaires.", source: "https://www.law.cornell.edu/uscode/text/43/1601"}
+  ressources: {valeur: "partiel", note: "Chaque société régionale reverse 70 % des revenus tirés du bois et du sous-sol qui lui ont été transférés, répartis entre les douze sociétés régionales, 43 U.S.C. § 1606 (i).", source: "https://www.law.cornell.edu/uscode/text/43/1606"}
+  consentement: {valeur: "partiel", note: "Le décret présidentiel 13175 du 6 novembre 2000 impose une consultation « régulière et significative » des gouvernements tribaux sur les politiques fédérales qui les concernent ; il ne prévoit pas de consentement.", source: "https://www.govinfo.gov/content/pkg/FR-2000-11-09/pdf/00-29003.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "conteste", note: "La Cour suprême juge en 1998 que les terres ANCSA de Venetie ne sont pas un « pays indien » et que la tribu ne peut y imposer une taxe aux non-membres (Alaska c. Native Village of Venetie Tribal Government).", source: "https://www.law.cornell.edu/supremecourt/text/522/520"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Chaque tribu et village reconnu détermine lui-même ses membres (Rapporteur spécial, A/HRC/21/47/Add.1, § 3, 2012).", source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Rapporteur spécial (2012) relève que l'ANCSA a remplacé les droits sur les terres et les ressources par des actions de sociétés, que la chasse et la pêche de subsistance relèvent d'un régime réglementaire dominé par l'État d'Alaska, et que ce cadre limite les moyens d'autodétermination (§ 59 et 60).", source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+chronologie:
+  - {annee: 1971, evenement: "Adoption de l'ANCSA : extinction des titres ancestraux et création des sociétés autochtones."}
+  - {annee: 1998, evenement: "Arrêt Venetie : les terres ANCSA ne sont pas un « pays indien »."}
+  - {annee: 2012, evenement: "Rapport du Rapporteur spécial sur les États-Unis, avec une section sur l'Alaska."}
+fiabilite:
+  verifie: ["43 U.S.C. § 1601 (b), § 1606 (i), § 1611 (Cornell LII).", "Sommaire de l'arrêt Venetie (1998).", "Nombre de tribus et de membres (page BIA région Alaska).", "Liste fédérale 2024, section Alaska (Federal Register).", "§ 3, 58 à 63 et 80 du rapport du Rapporteur spécial (2012)."]
+  non_confirme: ["Critère §0 : rempli par la reconnaissance fédérale des tribus comme gouvernements, non par l'ANCSA seule, qui exclut toute institution fondée sur la race ; ce choix de rattachement est discutable.", "Superficie totale transférée par l'ANCSA : non vérifiée sur le texte.", "Tribunaux tribaux d'Alaska et jurisprudence de la Cour suprême de l'Alaska (John c. Baker, 1999) : sources non consultées.", "Le chiffre de population est celui des membres inscrits des tribus relevant de la région Alaska du BIA (« plus de 180 000 »)."]
+sources:
+  - {titre: "Alaska Region — Bureau of Indian Affairs", url: "https://www.bia.gov/regional-office/alaska-region"}
+  - {titre: "43 U.S.C. § 1601 — Cornell LII", url: "https://www.law.cornell.edu/uscode/text/43/1601"}
+  - {titre: "43 U.S.C. § 1606 — Cornell LII", url: "https://www.law.cornell.edu/uscode/text/43/1606"}
+  - {titre: "43 U.S.C. § 1611 — Cornell LII", url: "https://www.law.cornell.edu/uscode/text/43/1611"}
+  - {titre: "Alaska v. Native Village of Venetie Tribal Government (1998) — Cornell LII", url: "https://www.law.cornell.edu/supremecourt/text/522/520"}
+  - {titre: "Indian Entities Recognized by and Eligible To Receive Services From the BIA — Federal Register (2024)", url: "https://www.govinfo.gov/content/pkg/FR-2024-01-08/pdf/2024-00109.pdf"}
+  - {titre: "Executive Order 13175 (2000) — Federal Register", url: "https://www.govinfo.gov/content/pkg/FR-2000-11-09/pdf/00-29003.pdf"}
+  - {titre: "Rapport du Rapporteur spécial, mission aux États-Unis, A/HRC/21/47/Add.1 (2012) — HCDH", url: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+  - {titre: "Déclaration des Nations Unies sur les droits des peuples autochtones — ONU DESA", url: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}

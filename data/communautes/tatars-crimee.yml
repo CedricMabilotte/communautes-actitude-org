@@ -1,0 +1,53 @@
+uid: "tatars-crimee"
+nom: "Tatars de Crimée"
+endonyme: "Qırımtatarlar"
+territoire: "Péninsule de Crimée (République autonome de Crimée et Sébastopol)"
+etats: ["Ukraine"]
+region: "europe"
+coord: [45.0, 34.1]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 248200, annee: 2001, perimetre: "Tatars de Crimée recensés en Crimée (recensement ukrainien de 2001)", source: "https://minorityrights.org/communities/crimean-tatars/"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Tatars de Crimée sont reconnus comme peuple autochtone de l'Ukraine par une résolution de la Verkhovna Rada (Parlement) de 2014 et par la Loi sur les peuples autochtones de l'Ukraine du 1er juillet 2021, qui vise aussi les Karaïmes et les Krymtchaks. La résolution de 2014 reconnaît le Qurultay comme organe représentatif suprême et le Mejlis comme son organe exécutif. La loi de 2021 leur reconnaît un droit à l'autodétermination au sein de l'Ukraine. La Crimée est occupée par la Russie depuis 2014, qui a interdit le Mejlis en 2016.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "La Verkhovna Rada déclare soutenir la Déclaration des Nations unies sur les droits des peuples autochtones et reconnaît le peuple tatar de Crimée comme autochtone, résolution n° 1140-VII du 20 mars 2014, points 1 et 4 ; la loi de 2021 vise la Déclaration dans son préambule.", annee: 2014, source: "https://zakon.rada.gov.ua/laws/show/1140-18"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale sur l'Ukraine (CERD/C/UKR/CO/22-23), § 23 et 24 sur la situation des Tatars de Crimée.", annee: 2016, source: "https://documents.un.org/doc/undoc/gen/g16/223/14/pdf/g1622314.pdf"}
+base_nationale:
+  - {instrument: "Constitution de l'Ukraine, art. 11 et 92", nature: "constitution", annee: 1996, source: "https://www.constituteproject.org/constitution/Ukraine_2019"}
+  - {instrument: "Résolution de la Verkhovna Rada n° 1140-VII du 20 mars 2014 sur la garantie des droits du peuple tatar de Crimée", nature: "loi", annee: 2014, source: "https://zakon.rada.gov.ua/laws/show/1140-18"}
+  - {instrument: "Loi n° 1616-IX du 1er juillet 2021 sur les peuples autochtones de l'Ukraine", nature: "loi", annee: 2021, source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'Ukraine reconnaît le Qurultay comme organe représentatif suprême et le Mejlis comme son organe exécutif, résolution de 2014, point 3 ; la loi de 2021, art. 2 et 8, reconnaît un droit à l'autonomie dans les affaires internes et confère un statut aux organes représentatifs par décision du Conseil des ministres.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le Conseil des ministres fixe, après consultation des organes représentatifs, la réservation de terres pour les membres des peuples autochtones qui reviennent en Crimée, loi de 2021, art. 7, al. 4.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  ressources: {valeur: "partiel", note: "Les organes représentatifs interagissent avec les autorités sur l'usage des terres, eaux et forêts de Crimée, loi de 2021, art. 7, al. 2 ; le droit à une part des recettes tirées des ressources naturelles, art. 7, al. 3, n'entrera en vigueur qu'après le retour de la Crimée sous juridiction ukrainienne, art. 11.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  consentement: {valeur: "partiel", note: "Participation aux programmes publics qui les concernent sur la base du consentement libre, préalable et éclairé, loi de 2021, art. 7, al. 1 ; consultation obligatoire des organes représentatifs avant les actes de l'exécutif sur la langue, la culture, l'éducation et les médias, art. 8, al. 2.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  langue: {valeur: "partiel", note: "L'État garantit la possibilité d'apprendre les langues des peuples autochtones et leur préservation, loi de 2021, art. 5, al. 3 et 4 ; le tatar de Crimée n'a pas de statut de langue officielle.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  education: {valeur: "partiel", note: "Les peuples autochtones peuvent créer leurs propres établissements d'enseignement, y compris avec enseignement dans leur langue, dans le cadre de la loi sur l'éducation, loi de 2021, art. 5, al. 1.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  fiscalite: {valeur: "partiel", note: "L'activité des organes représentatifs est financée par le budget de l'État au titre d'un programme budgétaire distinct, loi de 2021, art. 9, al. 2 ; aucun pouvoir fiscal.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "La Russie a interdit le Mejlis comme « extrémiste » en 2016 ; la Cour internationale de justice a jugé le 31 janvier 2024 que la Russie, en maintenant des restrictions au Mejlis, a violé son ordonnance de mesures conservatoires du 19 avril 2017.", source: "https://www.icj-cij.org/node/203486"}
+chronologie:
+  - {annee: 2014, evenement: "Résolution de la Verkhovna Rada reconnaissant le peuple tatar de Crimée comme autochtone, ainsi que le Qurultay et le Mejlis (20 mars) ; occupation de la Crimée par la Russie."}
+  - {annee: 2016, evenement: "Interdiction du Mejlis par les autorités russes."}
+  - {annee: 2017, evenement: "Ordonnance de la Cour internationale de justice : la Russie doit s'abstenir de restreindre les institutions représentatives tatares, dont le Mejlis (19 avril)."}
+  - {annee: 2021, evenement: "Loi sur les peuples autochtones de l'Ukraine (1er juillet)."}
+  - {annee: 2024, evenement: "Arrêt de la Cour internationale de justice constatant la violation de l'ordonnance de 2017 (31 janvier)."}
+fiabilite:
+  verifie: ["Résolution 1140-VII (2014), points 1 à 7 (texte officiel ukrainien).", "Loi 1616-IX (2021), art. 1 à 11, version du 31 mars 2023 (texte officiel ukrainien).", "Constitution, art. 11 et 92 (Constitute Project).", "CERD/C/UKR/CO/22-23, § 23 et 24.", "Ordonnance de la CIJ du 19 avril 2017 et arrêt du 31 janvier 2024 (résumés officiels)."]
+  non_confirme: ["Décision du Conseil des ministres conférant le statut juridique au Qurultay et au Mejlis (loi de 2021, art. 8) : non vérifiée.", "Population : recensement ukrainien de 2001 cité par Minority Rights Group ; aucun chiffre postérieur vérifié.", "Position de l'Ukraine lors du vote de la Déclaration en 2007 : non vérifiée."]
+sources:
+  - {titre: "Loi sur les peuples autochtones de l'Ukraine (1616-IX) — Verkhovna Rada", url: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  - {titre: "Résolution 1140-VII du 20 mars 2014 — Verkhovna Rada", url: "https://zakon.rada.gov.ua/laws/show/1140-18"}
+  - {titre: "Constitution de l'Ukraine — Constitute Project", url: "https://www.constituteproject.org/constitution/Ukraine_2019"}
+  - {titre: "CERD/C/UKR/CO/22-23 (2016) — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g16/223/14/pdf/g1622314.pdf"}
+  - {titre: "Résumé de l'ordonnance du 19 avril 2017 — Cour internationale de justice", url: "https://www.icj-cij.org/node/105445"}
+  - {titre: "Arrêt du 31 janvier 2024, communiqué — Cour internationale de justice", url: "https://www.icj-cij.org/node/203486"}
+  - {titre: "Crimean Tatars in Ukraine — Minority Rights Group", url: "https://minorityrights.org/communities/crimean-tatars/"}

@@ -1,0 +1,51 @@
+uid: "tuhoe-te-urewera"
+nom: "Tūhoe"
+endonyme: "Ngāi Tūhoe"
+territoire: "Te Urewera (île du Nord, Nouvelle-Zélande)"
+etats: ["Nouvelle-Zélande"]
+region: "oceanie"
+coord: [-38.6, 177.0]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 34887, annee: 2013, perimetre: "personnes déclarant une affiliation à Tūhoe au recensement", source: "https://www.tkm.govt.nz/iwi/tuhoe/"}
+lieux: {valeur: 43, unite: "marae (lieux de rassemblement) recensés dans l'annuaire officiel des iwi", annee: 2026, source: "https://www.tkm.govt.nz/iwi/tuhoe/"}
+surface_km2: {valeur: 2127, annee: 2014, perimetre: "Te Urewera, ancien parc national devenu personne juridique ; le rohe (territoire) de Tūhoe est plus étendu", source: "https://www.britannica.com/place/Urewera-National-Park"}
+resume: >-
+  Iwi (peuple māori) de Te Urewera, région de forêts et de collines de l'est de l'île du Nord. Le Tūhoe Claims Settlement Act 2014 contient les excuses de la Couronne, qui reconnaît avoir porté atteinte au mana motuhake (autorité autonome) de Tūhoe. Le Te Urewera Act 2014 retire Te Urewera de la propriété de la Couronne et du statut de parc national et en fait une entité juridique, gouvernée par un conseil dont Tūhoe Te Uru Taumatua nomme la majorité des membres après les trois premières années.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Le Rapporteur spécial décrit la revendication de Tūhoe sur Te Urewera et demande au gouvernement de reconsidérer son refus de lui rendre ses terres du parc national (A/HRC/18/35/Add.4, § 44 b) et § 76)", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+  - {mecanisme: "dnudpa", detail: "La Nouvelle-Zélande a annoncé son appui à la Déclaration en avril 2010 (A/HRC/18/35/Add.4)", annee: 2010, source: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Tūhoe Claims Settlement Act 2014", nature: "accord_revendication", annee: 2014, source: "https://www.legislation.govt.nz/act/public/2014/0050/latest/whole.html"}
+  - {instrument: "Te Urewera Act 2014", nature: "loi", annee: 2014, source: "https://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Tūhoe Te Uru Taumatua, fiducie créée en 2011 et entité de gouvernance du règlement (Tūhoe Claims Settlement Act 2014, s. 12), nomme six des neuf membres du conseil de Te Urewera après les trois premières années (quatre sur huit auparavant) (Te Urewera Act 2014, s. 16 et 21).", source: "https://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La pleine propriété des terres de Te Urewera est dévolue à Te Urewera elle-même (Te Urewera Act 2014, s. 11 et 12), et non à Tūhoe ; Tūhoe en maîtrise la gestion par sa majorité au conseil, qui doit tenir compte des valeurs et du droit coutumiers de Tūhoe.", source: "https://maorilawreview.co.nz/2014/10/tuhoe-crown-settlement-te-urewera-act-2014/"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune évaluation indépendante du fonctionnement du conseil de Te Urewera depuis 2014 n'a été consultée. En 2011, le Rapporteur spécial relevait que Tūhoe figure parmi les communautés iwi les plus pauvres selon l'indice de développement du gouvernement.", source: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1954, evenement: "Création du parc national d'Urewera."}
+  - {annee: 2009, evenement: "Premier volume du rapport du Tribunal de Waitangi sur les confiscations de terres en Te Urewera (second volume en 2010)."}
+  - {annee: 2010, evenement: "Le gouvernement renonce à transférer la propriété du parc national à Tūhoe."}
+  - {annee: 2014, evenement: "Tūhoe Claims Settlement Act et Te Urewera Act (entrée en vigueur le 27 juillet)."}
+fiabilite:
+  verifie: ["Art. 11, 12, 16 et 21 du Te Urewera Act 2014 (legislation.govt.nz).", "Art. 8, 10 et 12 du Tūhoe Claims Settlement Act 2014.", "Surface de Te Urewera (Britannica).", "Population 2013 et marae (Te Kāhui Māngai).", "Passages du rapport A/HRC/18/35/Add.4 sur Tūhoe."]
+  non_confirme: ["Pouvoir du conseil de Te Urewera d'édicter des règlements (bylaws).", "Accord de gestion des services publics entre Tūhoe et la Couronne (mana motuhake) : texte non consulté.", "Population au recensement de 2023."]
+sources:
+  - {titre: "Te Urewera Act 2014 — legislation.govt.nz", url: "https://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html"}
+  - {titre: "Tūhoe Claims Settlement Act 2014 — legislation.govt.nz", url: "https://www.legislation.govt.nz/act/public/2014/0050/latest/whole.html"}
+  - {titre: "Māori Law Review — Tūhoe-Crown settlement, Te Urewera Act 2014", url: "https://maorilawreview.co.nz/2014/10/tuhoe-crown-settlement-te-urewera-act-2014/"}
+  - {titre: "Te Kāhui Māngai — Tūhoe", url: "https://www.tkm.govt.nz/iwi/tuhoe/"}
+  - {titre: "Britannica — Te Urewera", url: "https://www.britannica.com/place/Urewera-National-Park"}
+  - {titre: "Rapporteur spécial — Situation du peuple maori en Nouvelle-Zélande, A/HRC/18/35/Add.4 (2011)", url: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}

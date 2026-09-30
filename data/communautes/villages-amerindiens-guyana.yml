@@ -1,0 +1,48 @@
+uid: "villages-amerindiens-guyana"
+nom: "Villages amérindiens titrés du Guyana"
+endonyme: ""
+territoire: "Terres des villages amérindiens titrés, surtout dans l'intérieur et les savanes du Guyana"
+etats: ["Guyana"]
+region: "ameriques"
+coord: [4.5, -59.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "résidents des villages titrés ; aucun chiffre officiel récent ouvert", source: ""}
+lieux: {valeur: 96, unite: "communautés amérindiennes titrées (sur 169 communautés, y compris hameaux et établissements)", annee: null, source: "https://moaa.gov.gy/land-tenure/"}
+surface_km2: {valeur: null, annee: null, perimetre: "surface titrée totale ; le ministère indique environ 6 % du territoire national après les titres de 1991, sans chiffre à jour", source: ""}
+resume: >-
+  Fiche agrégée. Au Guyana, neuf peuples amérindiens vivent surtout dans l'intérieur du pays. La loi amérindienne de 2006 (Amerindian Act, n° 6 de 2006) confie à chaque village titré un conseil élu (Village Council), présidé par un toshao, qui détient les terres du village, en règle l'usage et fait des règles locales. Les terres de village ne peuvent être aliénées hors des cas prévus par la loi. Un conseil national des toshaos (National Toshaos Council) conseille le ministre. Le ministère des Affaires amérindiennes recense 96 communautés titrées.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Guyana vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Amerindian Act 2006 (loi n° 6 de 2006)", nature: "loi", annee: 2006, source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Chaque village a un conseil composé d'un toshao et de conseillers élus (Amerindian Act 2006, art. 11 à 13) ; le conseil représente le village et en planifie le développement.", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil fait des règles sur la résidence, l'usage des terres, la faune, l'agriculture, l'ordre et le commerce (art. 14) ; une règle exige l'accord des deux tiers de l'assemblée du village, l'approbation du ministre et la publication officielle (art. 15).", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  justice_propre: {valeur: "partiel", note: "Le conseil instruit les manquements à ses règles, entend la personne et peut infliger une amende ou des travaux communautaires (art. 16).", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  terres: {valeur: "reconnu", note: "Le conseil détient pour le village les droits et titres sur les terres (art. 13) ; toute cession hors des cas prévus par la loi est nulle (art. 44) ; baux limités en surface et en durée (art. 46).", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  ressources: {valeur: "partiel", note: "Les mineurs doivent négocier un tribut avec le village (art. 48 et 51) ; 20 % des redevances minières vont à un fonds pour les villages ; l'entrée et la recherche sur les terres exigent la permission du conseil (art. 5).", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  consentement: {valeur: "partiel", note: "L'exploitation minière sur les terres de village exige le consentement des deux tiers de l'assemblée du village (art. 48) ; pour la grande mine, le refus peut être levé si les ministres déclarent le projet d'intérêt public (art. 50).", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le conseil peut lever des taxes sur les résidents (art. 13(1) l).", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  representation: {valeur: "partiel", note: "Le conseil national des toshaos conseille le ministre sur les lois et politiques touchant les villages et nomme des membres de la Commission des peuples autochtones prévue par l'art. 212 S de la Constitution (art. 41 de la loi).", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  statut_personnel: {valeur: "partiel", note: "Le conseil fixe par ses règles les conditions de la qualité de résident du village (art. 14(1) a).", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le ministère, un programme de démarcation n'a couvert que 39 des 74 communautés alors titrées ; plus de 25 communautés demandaient un titre ; intrusions de mineurs, forestiers et colons signalées sur les terres titrées. Page non datée.", source: "https://moaa.gov.gy/land-tenure/"}
+chronologie:
+  - {annee: 1969, evenement: "Rapport de la commission des terres amérindiennes."}
+  - {annee: 1976, evenement: "Amendement de la loi amérindienne de 1951 : 64 communautés reçoivent des terres."}
+  - {annee: 1991, evenement: "Titres (absolute grants) pour ces communautés et dix autres."}
+  - {annee: 2006, evenement: "Nouvelle loi amérindienne (Amerindian Act 2006)."}
+fiabilite:
+  verifie: ["Articles 5, 11 à 16, 41, 44, 46, 48, 50 et 51 de l'Amerindian Act 2006 (texte du Parlement).", "Nombre de communautés et historique des titres (ministère des Affaires amérindiennes)."]
+  non_confirme: ["Date de la page du ministère (le chiffre de 96 communautés titrées n'est pas daté).", "Population amérindienne : aucun résultat de recensement ouvert.", "Surface titrée totale : un article de presse de 2025 donne un chiffre ambigu, non retenu.", "Le texte de l'art. 212 S de la Constitution n'a pas été ouvert ; il est cité d'après l'art. 41 de la loi."]
+sources:
+  - {titre: "Amerindian Act 2006 (Act No. 6 of 2006) — Parlement du Guyana", url: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  - {titre: "Land Tenure — Ministry of Amerindian Affairs", url: "https://moaa.gov.gy/land-tenure/"}
+  - {titre: "Between 2020 and 2024, 16,174 Amerindians received titles to their lands — Stabroek News, 31 décembre 2025", url: "https://www.stabroeknews.com/2025/12/31/news/guyana/between-2020-and-2024-16174-amerindians-received-titles-to-their-lands-minister-browne-shadeek/"}
+  - {titre: "Our Land, Our Life, Our Culture: The Indigenous Movement in Guyana — Cultural Survival Quarterly", url: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/our-land-our-life-our-culture-indigenous-movement-guyana"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

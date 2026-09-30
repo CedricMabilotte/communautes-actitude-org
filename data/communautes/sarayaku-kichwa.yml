@@ -1,0 +1,54 @@
+uid: "sarayaku-kichwa"
+nom: "Peuple kichwa de Sarayaku"
+endonyme: "Sarayaku runakuna"
+territoire: "Territoire de Sarayaku, moyenne vallée du Bobonaza, province de Pastaza"
+etats: ["Équateur"]
+region: "ameriques"
+coord: [-1.7, -77.5]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1200, annee: 2012, perimetre: "habitants selon le recensement du peuple cité par la Cour interaméricaine ; le peuple indique environ 1 500 habitants dans des sources plus récentes", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_245_esp.pdf"}
+lieux: {valeur: 5, unite: "centres de peuplement (Sarayaku Centro, Cali Cali, Sarayakillo, Shiwacocha, Chontayacu) ; le peuple en compte sept en 2026", annee: 2012, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_245_esp.pdf"}
+surface_km2: {valeur: 1350, annee: 2012, perimetre: "territoire traditionnel de Sarayaku (135 000 ha) à l'intérieur du titre collectif du « Bloque 9 » attribué en 1992 aux communautés du Bobonaza", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_245_esp.pdf"}
+resume: >-
+  Sarayaku est un peuple kichwa d'Amazonie équatorienne. En 1992, l'État attribue un titre collectif aux communautés du fleuve Bobonaza ; le statut du peuple est enregistré par l'État en 2004. En 1996, l'État concède à une compagnie pétrolière un bloc couvrant son territoire sans le consulter ; des explosifs (pentolite) sont enterrés sur son territoire lors des travaux de la compagnie à partir de fin 2002. Le 27 juin 2012, la Cour interaméricaine des droits de l'homme condamne l'Équateur pour violation des droits à la consultation, à la propriété communale et à l'identité culturelle. En 2018, l'assemblée du peuple déclare son territoire Kawsak Sacha (« forêt vivante »), être vivant et sujet de droits.
+reconnaissance_regionale:
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Pueblo Indígena Kichwa de Sarayaku c. Équateur (série C n° 245) : violation des art. 21, 4, 5, 8 et 25 de la Convention américaine ; ordre de retirer la pentolite, de consulter le peuple avant tout projet et d'adopter une loi sur la consultation préalable.", annee: 2012, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_245_esp.pdf"}
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "L'Équateur ratifie la Convention 169 de l'OIT le 15 mai 1998.", annee: 1998, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "L'Équateur vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Constitution de la République de l'Équateur (2008), art. 2, 57, 71 et 171", nature: "constitution", annee: 2008, source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  - {instrument: "Titre d'adjudication collective aux communautés du Bobonaza (12 mai 1992)", nature: "loi", annee: 1992, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_245_esp.pdf"}
+  - {instrument: "Statut du Peuple originaire kichwa de Sarayaku, enregistré par le CODENPE (accord n° 24, 10 juin 2004)", nature: "coutume_reconnue", annee: 2004, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_245_esp.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La Constitution (art. 57.9) garantit les formes propres d'organisation et d'exercice de l'autorité sur les territoires reconnus ; le statut du peuple a été enregistré par un organe de l'État en 2004.", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La Constitution (art. 57.10) reconnaît le droit de créer et d'appliquer un droit propre ou coutumier, qui ne peut porter atteinte aux droits constitutionnels.", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  justice_propre: {valeur: "partiel", note: "Les autorités des communautés, peuples et nationalités autochtones exercent des fonctions juridictionnelles selon leurs traditions (Constitution, art. 171).", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  terres: {valeur: "reconnu", note: "Titre collectif de 1992 ; la Constitution (art. 57.4) garantit la propriété imprescriptible des terres communautaires, inaliénables, insaisissables et indivisibles.", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  ressources: {valeur: "partiel", note: "Participation à l'usage et à la gestion des ressources renouvelables (art. 57.6) ; le titre de 1992 réserve le sous-sol à l'État.", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_245_esp.pdf"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 57.7) impose une consultation préalable, libre et informée sur les ressources non renouvelables ; sans consentement, il est procédé « conformément à la Constitution et à la loi ». La Cour interaméricaine ordonne en 2012 de consulter Sarayaku avant tout projet.", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  langue: {valeur: "partiel", note: "Le kichwa et le shuar sont langues officielles de relation interculturelle (Constitution, art. 2).", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  education: {valeur: "partiel", note: "La Constitution (art. 57.14) garantit un système d'éducation interculturelle bilingue.", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "En juin 2022, les représentants de Sarayaku indiquent que l'État n'a retiré aucun des plus de 1 400 kg d'explosifs, n'a pas adopté de loi sur la consultation et n'a pas consulté le peuple sur de nouvelles concessions.", source: "https://cejil.org/exigimos-retirar-explosivos-y-reconocer-la-selva-viviente-como-sujeto-de-derechos-pueblo-kichwa-sarayaku/"}
+chronologie:
+  - {annee: 1992, evenement: "Titre collectif aux communautés du Bobonaza (12 mai)."}
+  - {annee: 1996, evenement: "Contrat de participation avec la compagnie CGC pour le bloc 23 (26 juillet), sans consultation."}
+  - {annee: 2004, evenement: "Enregistrement du statut du peuple par le CODENPE (10 juin)."}
+  - {annee: 2008, evenement: "Nouvelle Constitution : droits collectifs (art. 57) et droits de la nature (art. 71)."}
+  - {annee: 2012, evenement: "Arrêt de la Cour interaméricaine (27 juin)."}
+  - {annee: 2018, evenement: "Déclaration Kawsak Sacha : le territoire est déclaré être vivant et sujet de droits."}
+fiabilite:
+  verifie: ["Dispositif de l'arrêt de 2012 et faits établis (§ 52, 61-62).", "Articles 2, 57, 171 et 257 de la Constitution de 2008 (édition de l'Assemblée nationale).", "Déclaration Kawsak Sacha de 2018 (Territoires de vie)."]
+  non_confirme: ["La déclaration Kawsak Sacha n'a pas de reconnaissance légale par l'État trouvée.", "Suivi de l'exécution de l'arrêt par la Cour après 2022.", "Quantité exacte d'explosifs enterrés (chiffre de 1 400 kg avancé par les représentants du peuple)."]
+sources:
+  - {titre: "Corte IDH, Pueblo Indígena Kichwa de Sarayaku vs. Ecuador, sentence du 27 juin 2012", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_245_esp.pdf"}
+  - {titre: "Constitution de la République de l'Équateur — Assemblée nationale", url: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  - {titre: "Exigimos retirar explosivos y reconocer la selva viviente — CEJIL, 10 juin 2022", url: "https://cejil.org/exigimos-retirar-explosivos-y-reconocer-la-selva-viviente-como-sujeto-de-derechos-pueblo-kichwa-sarayaku/"}
+  - {titre: "Sarayaku — Territorios de vida (ICCA)", url: "https://report.territoriesoflife.org/es/territorios/sarayaku-ecuador/"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}

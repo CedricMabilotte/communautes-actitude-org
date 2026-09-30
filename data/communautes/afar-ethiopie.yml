@@ -1,0 +1,47 @@
+uid: "afar-ethiopie"
+nom: "Afar d'Éthiopie"
+endonyme: "Qafar"
+territoire: "État régional afar (capitale : Semera)"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [11.8, 41.0]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1411092, annee: 2007, perimetre: "population de l'État régional afar au recensement de 2007, y compris une estimation de 21 410 personnes pour huit kebele non recensés", source: "https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf"}
+lieux: {valeur: 6, unite: "zones administratives (plus un woreda spécial)", annee: 2025, source: "https://en.wikipedia.org/wiki/Afar_Region"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Afar sont un peuple pastoral de la dépression de l'Afar et de la vallée de l'Awash, répartis entre l'Éthiopie, Djibouti et l'Érythrée.
+  En Éthiopie, ils forment une « nation, nationalité et peuple » au sens de la Constitution fédérale de 1994 et disposent d'un État régional, l'un des neuf États fondateurs de la fédération.
+  L'État afar a son conseil, son gouvernement et l'afar comme langue de travail ; comme les autres nations de la fédération, les Afar ont un droit constitutionnel à l'autodétermination, sécession comprise (art. 39).
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme note la reconnaissance du droit des communautés ethniques et linguistiques à l'autodétermination au niveau de l'État régional (CCPR/C/ETH/CO/1, par. 26). Vise la catégorie, pas les Afar nommément.", annee: 2011, source: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 5, 34, 39, 40, 47, 50, 52, 61, 78 et 97", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Art. 39(3) : droit de chaque nation, nationalité et peuple à l'autogouvernement et à ses propres institutions ; art. 47(1) : l'État afar est l'un des États membres de la fédération.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Art. 52(2) : les États exercent tous les pouvoirs non attribués à la fédération, dont l'adoption de leur constitution et de leurs lois.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  justice_propre: {valeur: "reconnu", note: "Art. 50(2) : les États détiennent le pouvoir judiciaire ; art. 78(5) : leurs conseils peuvent créer ou reconnaître des tribunaux religieux et coutumiers ; art. 34(5) : le statut personnel et familial peut être jugé selon le droit religieux ou coutumier avec l'accord des parties.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  terres: {valeur: "partiel", note: "Art. 40(3) : la propriété de la terre appartient exclusivement à l'État et aux peuples d'Éthiopie, propriété commune inaliénable ; art. 52(2)(d) : les États l'administrent selon la loi fédérale.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "partiel", note: "Art. 52(2)(d) : les États administrent la terre et les autres ressources naturelles conformément aux lois fédérales.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Art. 5(3) : chaque État membre fixe par la loi sa langue de travail ; art. 39(2) : droit de parler, écrire et développer sa langue.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Art. 97 : les États lèvent l'impôt sur le revenu des salariés de l'État et des entreprises privées, les redevances d'usufruit foncier et d'autres impôts.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  representation: {valeur: "reconnu", note: "Art. 61(2) : chaque nation, nationalité et peuple a au moins un siège à la Chambre de la Fédération, plus un par million d'habitants.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) : droit inconditionnel à l'autodétermination, y compris la sécession, par vote aux deux tiers du conseil législatif puis référendum organisé par l'État fédéral dans les trois ans. Jamais exercé.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "non_etablie", note: "L'État régional afar fonctionne depuis 1994 ; aucune évaluation onusienne ou indépendante de son autonomie n'a été consultée.", source: ""}
+chronologie:
+  - {annee: 1994, evenement: "Adoption de la Constitution fédérale ; l'État afar figure parmi les neuf États membres (art. 47)."}
+  - {annee: 2007, evenement: "Recensement national : 1 411 092 habitants dans l'État afar (estimation comprise)."}
+fiabilite:
+  verifie: ["Texte des art. 5, 34, 39, 40, 47, 50, 52, 61, 78 et 97 de la Constitution (Constitute Project).", "Population de 2007 (rapport du recensement, Agence centrale de la statistique, copie archivée).", "Par. 26 de CCPR/C/ETH/CO/1 (2011)."]
+  non_confirme: ["Surface : 72 053 km² ou 96 707 km² selon les sources ; aucune valeur retenue.", "Langue de travail afar : lue dans une encyclopédie, loi régionale non consultée.", "Constitution régionale afar et reconnaissance du droit coutumier afar (madaa) : non vérifiées.", "Effets de la guerre de 2020-2022 dans le nord de l'Éthiopie sur l'État afar : non documentés ici.", "Éthiopie absente lors du vote de la DNUDPA (A/61/PV.107)."]
+sources:
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur l'Éthiopie, CCPR/C/ETH/CO/1 (2011)", url: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+  - {titre: "Agence centrale de la statistique — Résumé du recensement de 2007 (copie archivée)", url: "https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf"}
+  - {titre: "Afar Region — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Afar_Region"}

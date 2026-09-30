@@ -1,0 +1,43 @@
+# Exemple de fiche — respecter exactement les clés. Chaînes entre guillemets doubles.
+uid: "aland"                      # slug ASCII minuscule, tirets, neutre, unique
+nom: "Ålandais"                   # nom usuel en français
+endonyme: "Ålänningar"            # nom dans la langue de la communauté, "" si inconnu
+territoire: "Îles Åland"
+etats: ["Finlande"]
+region: "europe"                  # afrique | ameriques | asie | europe | oceanie
+coord: [60.1, 19.9]               # [lat, lon] centre approximatif du territoire (1 décimale)
+type: "minorite_nationale"
+types_secondaires: ["collectivite_insulaire_ou_regionale"]
+population: {valeur: 30541, annee: 2023, perimetre: "population du territoire", source: "https://www.asub.ax/"}   # valeur null si inconnue ; perimetre dit ce qui est compté
+lieux: {valeur: 16, unite: "communes", annee: 2024, source: "https://..."}   # nombre de lieux concernés (communes, réserves, resguardos, villages, terres, conseils…) ; valeur null si inconnu
+surface_km2: {valeur: 1580, annee: 2024, perimetre: "terres émergées", source: "https://..."}   # surface du territoire concerné ; null si inconnue
+resume: >-
+  Deux à quatre phrases factuelles. Qui, où, quel régime, depuis quand. Aucun adjectif d'appréciation.
+reconnaissance_regionale: []   # ex. [{mecanisme: "commission_africaine", detail: "...", annee: 2010, source: "https://..."}] ; mécanismes : commission_africaine, cour_africaine, cour_interamericaine, commission_interamericaine, conseil_europe_fcnm, charte_langues_regionales, union_europeenne
+reconnaissance_onu:   # peut être vide [] si la reconnaissance est seulement nationale ou régionale
+  - {mecanisme: "accord_sous_egide", detail: "Décision du Conseil de la Société des Nations du 24 juin 1921 et garanties d'autonomie", annee: 1921, source: "https://..."}
+base_nationale:
+  - {instrument: "Loi sur l'autonomie d'Åland (1144/1991)", nature: "statut_autonomie", annee: 1991, source: "https://www.finlex.fi/..."}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Parlement (Lagting) et gouvernement (Landskapsregering) propres, loi sur l'autonomie de 1991.", source: "https://..."}
+  pouvoir_normatif: {valeur: "reconnu", note: "...", source: "https://..."}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "...", source: ""}
+  ressources: {valeur: "partiel", note: "...", source: ""}
+  consentement: {valeur: "reconnu", note: "...", source: ""}
+  langue: {valeur: "reconnu", note: "...", source: ""}
+  education: {valeur: "reconnu", note: "...", source: ""}
+  fiscalite: {valeur: "partiel", note: "...", source: ""}
+  representation: {valeur: "reconnu", note: "...", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Droit de domicile régional (hembygdsrätt).", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Phrase + source.", source: "https://..."}
+chronologie:
+  - {annee: 1921, evenement: "La SDN attribue les îles à la Finlande avec garanties d'autonomie."}
+  - {annee: 1991, evenement: "Troisième loi sur l'autonomie."}
+fiabilite:
+  verifie: ["Liste courte des faits vérifiés directement sur une source primaire."]
+  non_confirme: ["Ce qui reste incertain."]
+sources:
+  - {titre: "Loi sur l'autonomie d'Åland — Finlex", url: "https://..."}
+  - {titre: "...", url: "https://..."}

@@ -1,0 +1,49 @@
+uid: "communautes-noires-pacifique-colombie"
+nom: "Communautés noires du Pacifique colombien"
+endonyme: ""
+territoire: "Terres collectives des communautés noires du bassin du Pacifique"
+etats: ["Colombie"]
+region: "ameriques"
+coord: [4.0, -77.2]
+type: "communaute_afrodescendante"
+base: "territoriale"
+types_secondaires: ["peuple_tribal"]
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 336, unite: "titres collectifs de conseils communautaires, tout le pays (226 dans les départements de Chocó, Cauca, Valle del Cauca et Nariño)", annee: 2026, source: "https://data-agenciadetierras.opendata.arcgis.com/datasets/agenciadetierras::consejo-comunitario-titulado"}
+surface_km2: {valeur: 57678, annee: 2026, perimetre: "superficie des titres collectifs de communautés noires, tout le pays (54 551 km² dans les départements de Chocó, Cauca, Valle del Cauca et Nariño)", source: "https://data-agenciadetierras.opendata.arcgis.com/datasets/agenciadetierras::consejo-comunitario-titulado"}
+resume: >-
+  La loi 70 de 1993 reconnaît aux communautés noires qui occupent les terres riveraines des fleuves du bassin du Pacifique un droit de propriété collective. Chaque communauté forme un conseil communautaire (consejo comunitario) pour recevoir et administrer le titre. La loi applique l'article transitoire 55 de la Constitution de 1991. La Cour constitutionnelle a jugé en 2001 que ces communautés relèvent de la Convention 169 de l'OIT en tant que peuple tribal.
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La Colombie ratifie la Convention 169 de l'OIT le 7 août 1991 ; l'arrêt C-169 de 2001 de la Cour constitutionnelle l'applique aux communautés noires.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+base_nationale:
+  - {instrument: "Constitution politique de la Colombie (1991), art. 7, 63 et 176", nature: "constitution", annee: 1991, source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  - {instrument: "Loi 70 du 27 août 1993, qui développe l'article transitoire 55 de la Constitution", nature: "loi", annee: 1993, source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0070_1993.html"}
+  - {instrument: "Cour constitutionnelle, arrêt C-169 de 2001", nature: "jurisprudence", annee: 2001, source: "https://www.corteconstitucional.gov.co/relatoria/2001/C-169-01.htm"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi 70 de 1993 (art. 5) fait du conseil communautaire la forme d'administration interne des terres collectives ; il choisit le représentant légal de la communauté.", source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0070_1993.html"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "La loi 70 de 1993 (art. 5) charge le conseil communautaire d'agir en « amigable componedor » (conciliateur) dans les conflits internes.", source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0070_1993.html"}
+  terres: {valeur: "reconnu", note: "La loi 70 de 1993 (art. 1 et 7) reconnaît la propriété collective et rend la partie à usage collectif inaliénable, imprescriptible et insaisissable ; la Constitution (art. 63) protège les terres communales des groupes ethniques.", source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0070_1993.html"}
+  ressources: {valeur: "partiel", note: "La loi 70 de 1993 (art. 6) inclut les sols et les forêts dans le titre collectif mais exclut le sous-sol et les autres ressources ; l'article 19 dispense d'autorisation les usages traditionnels.", source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0070_1993.html"}
+  consentement: {valeur: "partiel", note: "La loi 70 de 1993 (art. 44) prévoit la participation des communautés aux études d'impact des projets sur leurs terres ; l'arrêt C-169 de 2001 leur applique la Convention 169 de l'OIT.", source: "https://www.corteconstitucional.gov.co/relatoria/2001/C-169-01.htm"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "La loi 70 de 1993 (art. 32 et 35) garantit une éducation adaptée aux communautés noires et leur droit de créer leurs propres institutions éducatives, sous réserve des normes nationales.", source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0070_1993.html"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "La Constitution (art. 176) réserve deux sièges de la Chambre des représentants à la circonscription nationale des communautés afrodescendantes.", source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Une étude de 2022 relève 401 demandes de titres collectifs afrodescendants non résolues en 2021 ; le HCDH recense en 2023 des assassinats de responsables de conseils communautaires dans le Nariño et le Cauca.", source: "https://www.sciencedirect.com/science/article/pii/S0962629822000208"}
+chronologie:
+  - {annee: 1991, evenement: "L'article transitoire 55 de la Constitution prévoit une loi sur les terres des communautés noires."}
+  - {annee: 1993, evenement: "Adoption de la loi 70."}
+  - {annee: 2001, evenement: "L'arrêt C-169 de la Cour constitutionnelle qualifie les communautés noires de peuple tribal au sens de la Convention 169."}
+fiabilite:
+  verifie: ["Articles 1, 5, 6, 7, 19, 24, 32, 35 et 44 de la loi 70 de 1993.", "Article 176 de la Constitution.", "Passage de l'arrêt C-169 de 2001 sur la Convention 169."]
+  non_confirme: ["Nombre de titres collectifs délivrés et superficie totale.", "Population des territoires collectifs.", "Existence d'une obligation légale de consentement distincte de la consultation."]
+sources:
+  - {titre: "Loi 70 de 1993 — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0070_1993.html"}
+  - {titre: "Constitution de Colombie (1991, rév. 2015) — Constitute Project", url: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  - {titre: "Arrêt C-169 de 2001 — Cour constitutionnelle", url: "https://www.corteconstitucional.gov.co/relatoria/2001/C-169-01.htm"}
+  - {titre: "Hougaard, « Unsettled Rights: Afro-descendant recognition and ex-situ titling in Colombia », Political Geography, 2022", url: "https://www.sciencedirect.com/science/article/pii/S0962629822000208"}
+  - {titre: "Rapport annuel du HCDH sur la Colombie (A/HRC/55/23)", url: "https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session55/advance-versions/A_HRC_55_23_English_unofficial_translation.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}

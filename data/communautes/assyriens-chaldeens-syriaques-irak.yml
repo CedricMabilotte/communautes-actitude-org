@@ -1,0 +1,49 @@
+uid: "assyriens-chaldeens-syriaques-irak"
+nom: "Assyriens, Chaldéens et Syriaques d'Irak"
+endonyme: "Sūrāyē"
+territoire: "Plaine de Ninive, Bagdad, Kirkouk et région du Kurdistan"
+etats: ["Irak"]
+region: "asie"
+coord: [36.4, 43.3]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Assyriens, Chaldéens et Syriaques sont des communautés chrétiennes de langue néo-araméenne (syriaque), présentes surtout dans la plaine de Ninive, à Bagdad et au Kurdistan irakien.
+  La Constitution irakienne de 2005 fait du syriaque une langue officielle dans les unités administratives où ils sont nombreux et leur garantit des droits administratifs, politiques, culturels et éducatifs (art. 125), jamais mis en œuvre sous forme d'unité administrative propre.
+  Cinq sièges du Conseil des représentants sont réservés aux chrétiens.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité pour l'élimination de la discrimination raciale nomme les Assyriens, Chaldéens et Syriaques parmi les groupes frappés par la violence armée et le déplacement, avec une baisse de population dans la plaine de Ninive (par. 17 d)), et juge le quota électoral insuffisant (par. 25-26).", annee: 2019, source: "https://docs.un.org/en/CERD/C/IRQ/CO/22-25"}
+base_nationale:
+  - {instrument: "Constitution de la République d'Irak, art. 2, 4, 41, 49 et 125", nature: "constitution", annee: 2005, source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
+droits:
+  autogouvernement: {valeur: "conteste", note: "Art. 125 de la Constitution de 2005 : la Constitution garantit les droits administratifs, politiques, culturels et éducatifs des Turkmènes, Chaldéens, Assyriens et autres composantes, selon une loi. Aucune unité administrative propre n'a été créée.", source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Art. 4 de la Constitution de 2005 : le syriaque est langue officielle dans les unités administratives où ses locuteurs forment une densité de population.", source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Art. 49 de la Constitution : représentation de toutes les composantes du peuple au Conseil des représentants ; la loi électorale réserve cinq sièges aux chrétiens sur neuf sièges de minorités.", source: "https://minorityrights.org/country/iraq/"}
+  statut_personnel: {valeur: "partiel", note: "Art. 41 de la Constitution de 2005 : chacun est libre de suivre le statut personnel de sa religion, de sa confession ou de ses croyances, selon une loi.", source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Le CERD relève en 2019 que le quota électoral ne permet pas une représentation proportionnée ; des responsables chrétiens décrivent l'élection de candidats soutenus par les grands partis sur les sièges réservés. La population chrétienne est passée d'environ 1,4 million avant 2003 à moins de 300 000 selon Minority Rights Group.", source: "https://docs.un.org/en/CERD/C/IRQ/CO/22-25"}
+chronologie:
+  - {annee: 2005, evenement: "Constitution : syriaque langue officielle locale (art. 4), droits des Chaldéens et Assyriens (art. 125)."}
+  - {annee: 2014, evenement: "Offensive de Daech dans la plaine de Ninive ; déplacement massif des chrétiens."}
+  - {annee: 2019, evenement: "Observations finales du CERD sur l'Irak."}
+  - {annee: 2024, evenement: "La Cour suprême fédérale supprime en février les sièges de minorités au Parlement de la région du Kurdistan, selon Minority Rights Group."}
+fiabilite:
+  verifie: ["Art. 2, 4, 41, 49 et 125 de la Constitution (Constitute Project).", "Par. 17 et 25-26 de CERD/C/IRQ/CO/22-25 (2019)."]
+  non_confirme: ["Endonyme : « Sūrāyē » est courant chez les Assyriens ; les Chaldéens et Syriaques emploient aussi d'autres noms.", "Répartition des neuf sièges réservés (5 chrétiens) lue chez Minority Rights Group et Kirkuk Now, texte de la loi électorale non consulté.", "Sièges de minorités au Parlement du Kurdistan après février 2024 : sources divergentes sur un éventuel rétablissement partiel.", "Population : 1,4 million avant 2003, moins de 300 000 ou moins de 500 000 aujourd'hui selon les sources, sans année précise.", "L'Irak a voté pour la DNUDPA en 2007, mais ne reconnaît pas ces communautés comme autochtones : mécanisme non retenu.", "Existence et portée d'un enseignement en syriaque : non vérifiées."]
+sources:
+  - {titre: "Constitution de l'Irak (2005) — Constitute Project", url: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
+  - {titre: "CERD — Observations finales sur l'Irak, CERD/C/IRQ/CO/22-25 (2019)", url: "https://docs.un.org/en/CERD/C/IRQ/CO/22-25"}
+  - {titre: "Minority Rights Group — Iraq", url: "https://minorityrights.org/country/iraq/"}
+  - {titre: "Kirkuk Now — Religious and ethnic minorities quota seats", url: "https://kirkuknow.com/en/news/62182"}

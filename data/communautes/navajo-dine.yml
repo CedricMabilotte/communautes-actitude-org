@@ -1,0 +1,56 @@
+uid: "navajo-dine"
+nom: "Nation navajo"
+endonyme: "Diné"
+territoire: "Réserve navajo (Arizona, Nouveau-Mexique, Utah)"
+etats: ["États-Unis"]
+region: "ameriques"
+coord: [36.2, -109.5]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: 63271.17, annee: 2020, perimetre: "superficie terrestre de la réserve et des terres en fiducie hors réserve (US Census Gazetteer)", source: "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_Gaz_aiannh_national.zip"}
+resume: >-
+  La Nation navajo est une tribu reconnue par le gouvernement fédéral des États-Unis, sur une réserve établie par le traité de 1868 qui s'étend sur l'Arizona, le Nouveau-Mexique et l'Utah. Elle n'a pas adopté le régime de l'Indian Reorganization Act de 1934. Son Conseil légifère ; ses résolutions sont codifiées dans le Code de la Nation navajo en 26 titres. Un système judiciaire propre existe depuis 1959.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Les États-Unis, qui avaient voté contre la Déclaration en 2007, ont déclaré leur appui le 16 décembre 2010 (Rapporteur spécial, A/HRC/21/47/Add.1, § 80).", annee: 2010, source: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport sur la mission aux États-Unis (A/HRC/21/47/Add.1) : la Nation navajo a aidé à organiser la visite ; le rapport traite des San Francisco Peaks (§ 44) et de la contamination liée aux anciennes mines d'uranium sur la réserve navajo (annexe I).", annee: 2012, source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+base_nationale:
+  - {instrument: "Liste fédérale des entités tribales reconnues (Federal Register, 8 janvier 2024) : « Navajo Nation, Arizona, New Mexico & Utah »", nature: "loi", annee: 2024, source: "https://www.govinfo.gov/content/pkg/FR-2024-01-08/pdf/2024-00109.pdf"}
+  - {instrument: "Traité de 1868 établissant la réserve navajo (tel qu'interprété dans Arizona c. Nation navajo, 2023)", nature: "traite", annee: 1868, source: "https://www.law.cornell.edu/supremecourt/text/21-1484"}
+  - {instrument: "Kerr-McGee Corp. c. Navajo Tribe, 471 U.S. 195 (1985)", nature: "jurisprudence", annee: 1985, source: "https://www.law.cornell.edu/supremecourt/text/471/195"}
+  - {instrument: "Décret présidentiel 13175 sur la consultation des gouvernements tribaux", nature: "loi", annee: 2000, source: "https://www.govinfo.gov/content/pkg/FR-2000-11-09/pdf/00-29003.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Nation navajo figure sur la liste fédérale des 574 entités tribales reconnues publiée au Federal Register le 8 janvier 2024 ; les tribus reconnues entretiennent des relations de gouvernement à gouvernement avec l'État fédéral (Rapporteur spécial, 2012, § 3).", source: "https://www.govinfo.gov/content/pkg/FR-2024-01-08/pdf/2024-00109.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Les résolutions du Conseil de la Nation navajo sont codifiées dans le Code de la Nation navajo (26 titres) ; par exemple, la Diné Natural Resources Protection Act de 2005 (18 N.N.C. § 1303) interdit l'extraction et le traitement de l'uranium en territoire navajo.", source: "https://www.nnols.org/navajo-nation-code/"}
+  justice_propre: {valeur: "reconnu", note: "Système judiciaire créé en 1959, qui comprend des tribunaux de district, une Cour suprême et des services de médiation traditionnelle (peacemaking) ; ils appliquent le droit fondamental diné (Diné bi beenahaz'áanii), qui comprend le droit traditionnel et coutumier. La compétence pénale sur les non-Indiens est limitée à ceux qui ont noué des liens tribaux.", source: "https://courts.navajo-nsn.gov/publicguide.htm"}
+  terres: {valeur: "partiel", note: "Réserve établie par le traité de 1868 ; la Cour suprême rappelle en 2023 que ce traité a réservé l'eau nécessaire à la réserve (Arizona c. Nation navajo). Les terres de réserve relèvent du régime fédéral de fiducie, non vérifié ici sur un texte.", source: "https://www.law.cornell.edu/supremecourt/text/21-1484"}
+  ressources: {valeur: "partiel", note: "La Nation réglemente les ressources de son territoire (interdiction de l'uranium, 18 N.N.C. § 1303, 2005) ; la Cour suprême a jugé en 2023 que le traité de 1868 réserve l'eau nécessaire mais n'oblige pas l'État fédéral à prendre des mesures pour la garantir.", source: "https://www.law.cornell.edu/supremecourt/text/21-1484"}
+  consentement: {valeur: "partiel", note: "Le décret présidentiel 13175 du 6 novembre 2000 impose une consultation « régulière et significative » des gouvernements tribaux sur les politiques fédérales qui les concernent ; il ne prévoit pas de consentement.", source: "https://www.govinfo.gov/content/pkg/FR-2000-11-09/pdf/00-29003.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "Le titre 10 du Code de la Nation navajo porte sur l'éducation ; son contenu et son articulation avec les écoles fédérales et des États n'ont pas été vérifiés.", source: "https://www.nnols.org/navajo-nation-code/"}
+  fiscalite: {valeur: "reconnu", note: "La Cour suprême juge en 1985 que les impôts de la Nation navajo contestés par l'entreprise requérante n'avaient pas à être approuvés par le secrétaire à l'Intérieur, la Nation n'ayant pas adopté l'Indian Reorganization Act (Kerr-McGee c. Navajo Tribe).", source: "https://www.law.cornell.edu/supremecourt/text/471/195"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Chaque tribu reconnue détermine elle-même ses membres (Rapporteur spécial, A/HRC/21/47/Add.1, § 3, 2012).", source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Rapporteur spécial (2012) relève la contamination liée aux anciennes mines d'uranium sur la réserve et la limite de la compétence pénale des tribus sur les non-autochtones ; en 2023, la Cour suprême écarte l'obligation fédérale de garantir l'eau de la réserve.", source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+chronologie:
+  - {annee: 1868, evenement: "Traité établissant la réserve navajo."}
+  - {annee: 1959, evenement: "Création du système judiciaire de la Nation navajo."}
+  - {annee: 1985, evenement: "Arrêt Kerr-McGee : pouvoir fiscal de la Nation sans approbation fédérale."}
+  - {annee: 2005, evenement: "Diné Natural Resources Protection Act (19 avril) : interdiction de l'extraction de l'uranium."}
+  - {annee: 2023, evenement: "Arrêt Arizona c. Nation navajo sur les droits d'eau."}
+fiabilite:
+  verifie: ["Inscription sur la liste fédérale du 8 janvier 2024 (Federal Register).", "Sommaire des arrêts Kerr-McGee (1985) et Arizona c. Nation navajo (2023) (Cornell LII).", "Titres du Code de la Nation navajo (NNOLS).", "Résolution CAP-18-05 du 19 avril 2005 et 18 N.N.C. § 1303 (document NRC).", "Guide public des tribunaux navajo.", "Décret 13175 (Federal Register).", "§ 3, 44 et 80 du rapport du Rapporteur spécial (2012)."]
+  non_confirme: ["Superficie de la réserve et régime de fiducie des terres : non vérifiés sur un texte officiel.", "Population inscrite de la Nation navajo : aucun chiffre officiel consulté.", "Statut juridique de la langue navajo dans le Code : non vérifié.", "Le Rapporteur spécial rapporte ces constats sur la base d'informations reçues ; l'annexe I est un inventaire de programmes fédéraux."]
+sources:
+  - {titre: "Indian Entities Recognized by and Eligible To Receive Services From the BIA — Federal Register (2024)", url: "https://www.govinfo.gov/content/pkg/FR-2024-01-08/pdf/2024-00109.pdf"}
+  - {titre: "Arizona v. Navajo Nation (2023) — Cornell LII", url: "https://www.law.cornell.edu/supremecourt/text/21-1484"}
+  - {titre: "Kerr-McGee Corp. v. Navajo Tribe (1985) — Cornell LII", url: "https://www.law.cornell.edu/supremecourt/text/471/195"}
+  - {titre: "Navajo Nation Code — Navajo Nation Office of Legislative Services", url: "https://www.nnols.org/navajo-nation-code/"}
+  - {titre: "Public Guide to the Navajo Nation Courts — Pouvoir judiciaire navajo", url: "https://courts.navajo-nsn.gov/publicguide.htm"}
+  - {titre: "Résolution CAP-18-05, Diné Natural Resources Protection Act of 2005 — archive NRC", url: "https://www.nrc.gov/docs/ML0721/ML072150173.pdf"}
+  - {titre: "Executive Order 13175 (2000) — Federal Register", url: "https://www.govinfo.gov/content/pkg/FR-2000-11-09/pdf/00-29003.pdf"}
+  - {titre: "Rapport du Rapporteur spécial, mission aux États-Unis, A/HRC/21/47/Add.1 (2012) — HCDH", url: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+  - {titre: "Déclaration des Nations Unies sur les droits des peuples autochtones — ONU DESA", url: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}

@@ -1,0 +1,52 @@
+uid: "territoires-autochtones-costa-rica"
+nom: "Peuples autochtones des 24 territoires du Costa Rica"
+endonyme: ""
+territoire: "24 territoires (« reservas indígenas » de la loi de 1977), surtout dans le sud et la cordillère de Talamanca"
+etats: ["Costa Rica"]
+region: "ameriques"
+coord: [9.5, -83.5]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 48500, annee: 2011, perimetre: "résidents des 24 territoires au recensement de 2011, dont 35 943 personnes se déclarant autochtones", source: "https://inie.ucr.ac.cr/descarga/KOHA-PDF/Territorios_Indigenas.pdf"}
+lieux: {valeur: 24, unite: "territoires autochtones (8 peuples : Cabécar, Bribri, Boruca, Ngäbe, Huetar, Maleku, Térraba, Chorotega)", annee: 2011, source: "https://inie.ucr.ac.cr/descarga/KOHA-PDF/Territorios_Indigenas.pdf"}
+surface_km2: {valeur: 3344, annee: null, perimetre: "surface totale des 24 territoires (334 447 ha), chiffre non daté de la stratégie REDD+ consultée en 2026", source: "https://reddcr.go.cr/pueblos-indigenas/"}
+resume: >-
+  Fiche agrégée. La loi n° 6172 du 29 novembre 1977 (Ley Indígena) déclare les « reservas indígenas » propriété des communautés, inaliénables, imprescriptibles et réservées à leurs habitants autochtones ; tout transfert à des non-autochtones est nul. Chaque territoire est administré par un conseil directeur représentant sa population. Huit peuples vivent dans 24 territoires couvrant environ 334 000 hectares. Une part des terres reste occupée par des non-autochtones, faute d'application des procédures de rachat prévues par la loi.
+reconnaissance_regionale:
+  - {mecanisme: "commission_interamericaine", detail: "Mesures conservatoires accordées en avril 2015 en faveur de dirigeants engagés dans la récupération des terres ; non appliquées cinq ans plus tard selon l'IWGIA.", annee: 2015, source: "https://iwgia.org/es/costa-rica/4130-mi-2021-costa-rica.html"}
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Le Costa Rica ratifie la Convention 169 de l'OIT le 2 avril 1993.", annee: 1993, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "Le Costa Rica vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Loi n° 6172 du 29 novembre 1977 (Ley Indígena)", nature: "loi", annee: 1977, source: "https://conagebio.go.cr/sites/default/files/2023-08/LEY-INDIGENA-6172.pdf"}
+  - {instrument: "Décret exécutif n° 40932-MP-MJP, Mécanisme général de consultation des peuples autochtones", nature: "loi", annee: 2018, source: "https://iwgia.org/es/costa-rica/4130-mi-2021-costa-rica.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi de 1977 (art. 4) prévoit que les territoires sont régis par les autochtones selon leurs structures communautaires traditionnelles, chacun administré par un conseil directeur, sous la coordination de la CONAI ; un règlement a imposé des associations de développement intégral (ADII) critiquées comme étrangères aux gouvernements traditionnels.", source: "https://conagebio.go.cr/sites/default/files/2023-08/LEY-INDIGENA-6172.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Les territoires sont propriété des communautés (art. 2), inaliénables, imprescriptibles, non transférables et exclusifs ; toute vente ou location à des non-autochtones est nulle (art. 3).", source: "https://conagebio.go.cr/sites/default/files/2023-08/LEY-INDIGENA-6172.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le Mécanisme général de consultation (décret de 2018) est mis en œuvre par des instances territoriales de consultation, avec des moyens jugés insuffisants.", source: "https://iwgia.org/es/costa-rica/4130-mi-2021-costa-rica.html"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Les territoires ont été titrés sans assainissement ni démarcation ; l'État n'a pas financé le rachat des terres occupées par des non-autochtones ; les dirigeants Sergio Rojas (2019) et Jerhy Rivera (2020) ont été tués après des actions de récupération.", source: "https://iwgia.org/es/costa-rica/4130-mi-2021-costa-rica.html"}
+chronologie:
+  - {annee: 1977, evenement: "Loi n° 6172, dite Ley Indígena (29 novembre)."}
+  - {annee: 1993, evenement: "Ratification de la Convention 169 de l'OIT."}
+  - {annee: 2015, evenement: "Mesures conservatoires de la Commission interaméricaine (avril)."}
+  - {annee: 2018, evenement: "Décret sur le Mécanisme général de consultation."}
+  - {annee: 2019, evenement: "Assassinat du dirigeant bribri Sergio Rojas."}
+fiabilite:
+  verifie: ["Articles 1 à 6 de la loi n° 6172.", "Population totale et autochtone des territoires au recensement 2011 (INEC).", "Surface des 24 territoires (stratégie REDD+ du Costa Rica)."]
+  non_confirme: ["Texte du décret 40932-MP-MJP (NATLEX non ouvert) ; son contenu vient de l'IWGIA.", "Résolution de la Commission interaméricaine (oas.org inaccessible) ; date et objet viennent de l'IWGIA.", "Part des terres occupée par des non-autochtones en 2026.", "Densité publiée par l'INEC incompatible avec la surface REDD+ : les deux sources n'utilisent peut-être pas les mêmes limites."]
+sources:
+  - {titre: "Ley Indígena n° 6172 et réformes — CONAGEBIO", url: "https://conagebio.go.cr/sites/default/files/2023-08/LEY-INDIGENA-6172.pdf"}
+  - {titre: "X Censo Nacional de Población 2011 : Territorios Indígenas — INEC", url: "https://inie.ucr.ac.cr/descarga/KOHA-PDF/Territorios_Indigenas.pdf"}
+  - {titre: "Pueblos Indígenas — REDD+ Costa Rica", url: "https://reddcr.go.cr/pueblos-indigenas/"}
+  - {titre: "El Mundo Indígena 2021 : Costa Rica — IWGIA", url: "https://iwgia.org/es/costa-rica/4130-mi-2021-costa-rica.html"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}

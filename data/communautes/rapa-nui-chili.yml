@@ -1,0 +1,53 @@
+uid: "rapa-nui-chili"
+nom: "Rapa Nui"
+endonyme: "Rapa Nui"
+territoire: "Territoire spécial de l'île de Pâques (Rapa Nui)"
+etats: ["Chili"]
+region: "ameriques"
+coord: [-27.1, -109.4]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 4800, annee: 2024, perimetre: "population de la commune d'Isla de Pascua, toutes origines (recensement INE)", source: "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2026&idcom=5201"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: 163.6, annee: null, perimetre: "commune d'Isla de Pascua", source: "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2026&idcom=5201"}
+resume: >-
+  Les Rapa Nui sont le peuple autochtone de l'île de Pâques, rattachée au Chili par l'acte de cession de souveraineté du 9 septembre 1888. La loi indigène 19.253 de 1993 crée la Commission de développement de l'île de Pâques, qui comprend six membres rapa nui élus. La loi 21.070 de 2018 limite à 30 jours le séjour des personnes non rapa nui et crée un conseil de gestion de la capacité de charge démographique. Depuis 2017, la communauté Ma'u Henua administre le parc national Rapa Nui par concession. Le recensement de 2017 compte 6 081 habitants sur l'île, toutes origines confondues.
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Le Chili ratifie la Convention 169 de l'OIT le 15 septembre 2008 (en vigueur le 15 septembre 2009).", annee: 2008, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "Le Chili vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+  - {mecanisme: "rapporteur_special", detail: "Déclaration du Rapporteur spécial James Anaya sur les expulsions de Rapa Nui ; il demande la reconnaissance des droits fonciers ancestraux des clans au titre de la Convention 169.", annee: 2011, source: "https://www.ohchr.org/es/statements/2011/01/default-title"}
+base_nationale:
+  - {instrument: "Loi 19.253 de 1993 (loi indigène), art. 28, 32 et 66 à 70", nature: "loi", annee: 1993, source: "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=Ley-19253&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=30620.2024-01-01.0.0%23"}
+  - {instrument: "Loi 21.070 de 2018 sur la résidence, le séjour et les déplacements vers et depuis le territoire spécial de l'île de Pâques", nature: "loi", annee: 2018, source: "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=Ley-21070_23-MAR-2018&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=1116414.2018-08-01.0.0%23"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi 19.253 (art. 67 et 68) crée la Commission de développement de l'île de Pâques, où siègent six membres rapa nui élus aux côtés de représentants de l'État.", source: "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=Ley-19253&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=30620.2024-01-01.0.0%23"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La loi 19.253 (art. 69) charge la Commission de constituer la propriété des membres rapa nui possesseurs de terres ; l'État conserve le parc national, soit environ la moitié de l'île.", source: "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=Ley-19253&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=30620.2024-01-01.0.0%23"}
+  ressources: {valeur: "partiel", note: "Depuis novembre 2017, la communauté Ma'u Henua administre par concession de 50 ans le parc national, qui comprend les sites sacrés et les moai.", source: "https://www.interior.gob.cl/noticias/2017/11/23/presidenta-bachelet-entrega-administracion-del-parque-nacional-rapa-nui-a-la-comunidad-de-isla-de-pascua/"}
+  consentement: {valeur: "partiel", note: "La loi 21.070 de 2018 (art. 25) place les six commissaires rapa nui élus et trois représentants du peuple rapa nui dans le conseil qui intervient sur la capacité de charge démographique ; la Convention 169 (ratifiée en 2008) impose la consultation.", source: "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=Ley-21070_23-MAR-2018&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=1116414.2018-08-01.0.0%23"}
+  langue: {valeur: "partiel", note: "La loi 19.253 (art. 28 a) prévoit l'usage des langues indigènes aux côtés de l'espagnol dans les zones de forte densité indigène, sans statut officiel.", source: "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=Ley-19253&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=30620.2024-01-01.0.0%23"}
+  education: {valeur: "partiel", note: "La loi 19.253 (art. 32) prévoit un système d'éducation interculturelle bilingue dans les zones de forte densité indigène, conduit par l'État.", source: "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=Ley-19253&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=30620.2024-01-01.0.0%23"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "La loi 21.070 de 2018 (art. 2, 5 et 6) limite à 30 jours le séjour des personnes non rapa nui ; les membres du peuple rapa nui, définis par l'article 66 de la loi 19.253, ne sont pas soumis à cette limite.", source: "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=Ley-21070_23-MAR-2018&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=1116414.2018-08-01.0.0%23"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2011, le Rapporteur spécial de l'ONU s'inquiète d'expulsions violentes de Rapa Nui et demande un dialogue de bonne foi sur les revendications foncières des clans.", source: "https://www.ohchr.org/es/statements/2011/01/default-title"}
+chronologie:
+  - {annee: 1888, evenement: "Acte de cession de souveraineté entre l'État chilien et les chefs rapa nui (9 septembre)."}
+  - {annee: 1993, evenement: "La loi 19.253 crée la Commission de développement de l'île de Pâques."}
+  - {annee: 2011, evenement: "Déclaration du Rapporteur spécial de l'ONU sur les expulsions de Rapa Nui."}
+  - {annee: 2017, evenement: "L'administration du parc national est confiée à la communauté Ma'u Henua (23 novembre)."}
+  - {annee: 2018, evenement: "Publication de la loi 21.070 (23 mars)."}
+fiabilite:
+  verifie: ["Articles 28, 32 et 66 à 70 de la loi 19.253.", "Articles 1, 2, 5, 6, 11 et 25 de la loi 21.070.", "Durée de la concession Ma'u Henua (communiqué du ministère de l'Intérieur)."]
+  non_confirme: ["Décret fondant la concession Ma'u Henua (décret 119 de 2018, non ouvert).", "Nombre de Rapa Nui résidant sur l'île.", "Texte de la réforme constitutionnelle de 2012 (loi 20.573, art. 126 bis), connu par la loi 21.070 et une étude universitaire."]
+sources:
+  - {titre: "Loi 19.253 — Bibliothèque du Congrès national du Chili", url: "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=Ley-19253&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=30620.2024-01-01.0.0%23"}
+  - {titre: "Loi 21.070 — Bibliothèque du Congrès national du Chili", url: "https://nuevo.leychile.cl/servicios/Consulta/Exportar?radioExportar=Normas&exportar_formato=pdf&nombrearchivo=Ley-21070_23-MAR-2018&exportar_con_notas_bcn=False&exportar_con_notas_originales=False&exportar_con_notas_al_pie=False&hddResultadoExportar=1116414.2018-08-01.0.0%23"}
+  - {titre: "Remise de l'administration du parc national Rapa Nui — ministère de l'Intérieur (2017)", url: "https://www.interior.gob.cl/noticias/2017/11/23/presidenta-bachelet-entrega-administracion-del-parque-nacional-rapa-nui-a-la-comunidad-de-isla-de-pascua/"}
+  - {titre: "Déclaration du Rapporteur spécial James Anaya sur les expulsions de Rapa Nui (2011) — HCDH", url: "https://www.ohchr.org/es/statements/2011/01/default-title"}
+  - {titre: "« Rapa Nui y Ley 21.070. Un análisis interpretativo desde la acción geopolítica chilena » — Dialnet", url: "https://dialnet.unirioja.es/descarga/articulo/9029624.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

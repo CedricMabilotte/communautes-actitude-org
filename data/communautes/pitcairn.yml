@@ -1,0 +1,48 @@
+uid: "pitcairn"
+nom: "Pitcairniens"
+endonyme: ""
+territoire: "Îles Pitcairn, Henderson, Ducie et Oeno"
+etats: ["Royaume-Uni"]
+region: "oceanie"
+coord: [-25.1, -130.1]
+type: "peuple_territoire_non_autonome"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 42, annee: 2022, perimetre: "population du territoire, personnes temporairement à l'étranger comprises", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+lieux: {valeur: 1, unite: "île habitée (Pitcairn, 4,35 km²)", annee: 2024, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+surface_km2: {valeur: 35.5, annee: 2024, perimetre: "terres émergées des quatre îles ; zone économique exclusive, devenue aire marine protégée, de 842 000 km²", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+resume: >-
+  Territoire britannique du Pacifique Sud inscrit sur la liste des territoires non autonomes de l'ONU, dont la plupart des habitants descendent des mutinés du Bounty et de leurs compagnons tahitiens arrivés en 1790. La Constitution entrée en vigueur en mars 2010 confie les lois au gouverneur, qui est le haut-commissaire britannique en Nouvelle-Zélande, après consultation du Conseil de l'île. Ce conseil de sept membres élus gère les affaires internes et prend des règlements. Une ordonnance de 2006 garantit à chaque habitant une attribution de terres.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "liste_tna", detail: "Territoire non autonome administré par le Royaume-Uni ; document de travail annuel du Comité spécial de la décolonisation (A/AC.109/2024/12)", annee: 2024, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution de Pitcairn (entrée en vigueur en mars 2010)", nature: "constitution", annee: 2010, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+  - {instrument: "Local Government Ordinance (Laws of Pitcairn, édition révisée 2017)", nature: "loi", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+  - {instrument: "Ordonnance de réforme foncière (fin 2006)", nature: "loi", annee: 2006, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Conseil de l'île, prévu par la Constitution de 2010, compte sept membres votants élus (maire, maire adjoint, cinq conseillers) et trois membres de droit sans vote (gouverneur, gouverneur adjoint, administrateur) ; il gère les affaires internes sous réserve des instructions du gouverneur (Local Government Ordinance, 2017).", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le Conseil peut prendre des règlements pour la bonne administration, l'ordre public et le progrès économique et social ; les lois (ordonnances) sont prises par le gouverneur après consultation du Conseil et le Royaume-Uni garde un pouvoir général de légiférer.", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+  justice_propre: {valeur: "partiel", note: "Le magistrat de l'île est nommé par le gouverneur parmi les résidents ; les affaires plus graves relèvent d'un tribunal de magistrats, d'une Cour suprême et d'une Cour d'appel de Pitcairn.", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+  terres: {valeur: "partiel", note: "L'ordonnance de réforme foncière de 2006 garantit à chaque habitant une attribution de terres pour la maison, le jardin, le verger et la forêt ; la mise à jour des registres est en cours.", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le gouverneur légifère après consultation du Conseil de l'île (Constitution de 2010).", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La population est faible et vieillissante ; selon la puissance administrante, 85 % des habitants auront plus de 65 ans dans cinq ans. Aucune position du gouvernement de l'île sur son statut futur n'a été exprimée devant l'ONU depuis 2004.", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+chronologie:
+  - {annee: 1767, evenement: "L'île est aperçue par Robert Pitcairn, aspirant britannique."}
+  - {annee: 1790, evenement: "Arrivée de 9 mutinés du Bounty et de 18 Polynésiens sur l'île inhabitée."}
+  - {annee: 2006, evenement: "Ordonnance de réforme foncière."}
+  - {annee: 2010, evenement: "Entrée en vigueur de la Constitution (mars)."}
+  - {annee: 2019, evenement: "Première femme élue maire."}
+  - {annee: 2022, evenement: "42 habitants recensés."}
+fiabilite:
+  verifie: ["Constitution de 2010, composition et pouvoirs du Conseil, organisation judiciaire, réforme foncière, population et superficie (document de travail A/AC.109/2024/12)."]
+  non_confirme: ["Texte de la Constitution de 2010 et de la Local Government Ordinance (non consultés directement).", "Existence d'un droit de résidence ou d'immigration propre."]
+sources:
+  - {titre: "Comité spécial de la décolonisation — Pitcairn, document de travail A/AC.109/2024/12", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}

@@ -1,0 +1,59 @@
+uid: "maori-aotearoa"
+nom: "Māori"
+endonyme: "Māori (tangata whenua)"
+territoire: "Aotearoa (Nouvelle-Zélande)"
+etats: ["Nouvelle-Zélande"]
+region: "oceanie"
+coord: [-40.9, 174.9]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 887493, annee: 2023, perimetre: "personnes du groupe ethnique māori, recensement 2023", source: "https://www.stats.govt.nz/assets/Infographics/2023-Census-infographics/2023-Census-infographics-National.pdf"}
+lieux: {valeur: 27742, unite: "blocs de terres māori (coutumières et en pleine propriété)", annee: 2025, source: "https://www.maorilandcourt.govt.nz/assets/Documents/Maori-Land-Data/2025-10-28-MLC-Maori-Land-Update-2025.pdf"}
+surface_km2: {valeur: 14134, annee: 2025, perimetre: "terres coutumières māori et terres māori en pleine propriété (1 413 375 ha)", source: "https://www.maorilandcourt.govt.nz/assets/Documents/Maori-Land-Data/2025-10-28-MLC-Maori-Land-Update-2025.pdf"}
+resume: >-
+  Peuple autochtone d'Aotearoa, 17,8 % de la population au recensement de 2023. Le Traité de Waitangi (Te Tiriti o Waitangi), signé en 1840 entre la Couronne britannique et des chefs māori, fonde leurs relations ; sa version māori garantit le tino rangatiratanga (pleine autorité) sur les terres et ressources. Le Tribunal de Waitangi, créé en 1975, examine les manquements de la Couronne aux principes du Traité. Des circonscriptions électorales māori existent au Parlement et le te reo Māori est langue officielle.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "La Nouvelle-Zélande a soutenu la Déclaration des Nations Unies sur les droits des peuples autochtones en 2010, après avoir voté contre (IWGIA 2025)", annee: 2010, source: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport du Rapporteur spécial sur les droits des peuples autochtones sur la situation du peuple maori (A/HRC/18/35/Add.4), après la visite de juillet 2010", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale (CERD/C/NZL/CO/23-24) sur le Traité de Waitangi, les droits fonciers et la participation politique des Maoris", annee: 2025, source: "https://documents.un.org/api/symbol/access?s=CERD/C/NZL/CO/23-24&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Te Tiriti o Waitangi / Traité de Waitangi", nature: "traite", annee: 1840, source: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2025.pdf"}
+  - {instrument: "Treaty of Waitangi Act 1975", nature: "loi", annee: 1975, source: "https://www.waitangitribunal.govt.nz/en/about/about-the-waitangi-tribunal/about-the-waitangi-tribunal"}
+  - {instrument: "Electoral Act 1993, s. 45", nature: "loi", annee: 1993, source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/34658/NZL34658.pdf"}
+  - {instrument: "Te Ture Whenua Māori Act 1993", nature: "loi", annee: 1993, source: "https://www.maorilandcourt.govt.nz/en/who-we-are"}
+  - {instrument: "Te Ture mō Te Reo Māori 2016 (Māori Language Act 2016)", nature: "loi", annee: 2016, source: "https://www.legislation.govt.nz/act/public/2016/0017/latest/DLM6174518.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Accords de cogouvernance et de partenariat entre la Couronne et des iwi fondés sur le Traité et la législation ; en 2025, le CERD demande de les préserver face aux propositions qui les affaiblissent.", source: "https://documents.un.org/api/symbol/access?s=CERD/C/NZL/CO/23-24&l=fr&t=pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Te Ture Whenua Māori Act 1993 : les terres māori sont reconnues comme taonga tuku iho (bien transmis entre générations) ; la Cour foncière māori (Māori Land Court), juridiction d'enregistrement, documente leur succession et leur gestion.", source: "https://www.maorilandcourt.govt.nz/en/who-we-are"}
+  ressources: {valeur: "partiel", note: "Loi sur les zones marines et côtières (Takutai Moana) reconnaissant des droits coutumiers ; le CERD s'inquiète en 2025 du projet de loi qui la modifie et de la loi de 2024 sur les autorisations accélérées.", source: "https://documents.un.org/api/symbol/access?s=CERD/C/NZL/CO/23-24&l=fr&t=pdf"}
+  consentement: {valeur: "partiel", note: "Plusieurs lois obligent l'État à consulter les Maoris, dont la loi sur les collectivités locales qui impose d'offrir aux Maoris des occasions de contribuer aux décisions (art. 81 a)).", source: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+  langue: {valeur: "reconnu", note: "« The Māori language is an official language of New Zealand » (Te Ture mō Te Reo Māori 2016, s. 5).", source: "https://www.legislation.govt.nz/act/public/2016/0017/latest/DLM6174518.html"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "La Commission de représentation découpe le pays en circonscriptions électorales māori pour la représentation des Maoris à la Chambre des représentants (Electoral Act 1993, s. 45).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/34658/NZL34658.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "En 2025, le CERD relève des initiatives visant à réinterpréter le Traité et à réviser les références législatives à ses principes sans consentement libre, préalable et éclairé des Maoris, la suppression des circonscriptions et sièges māori dans 24 conseils locaux après des référendums locaux, et l'abrogation de dispositions relatives au Traité dans la loi sur l'éducation.", source: "https://documents.un.org/api/symbol/access?s=CERD/C/NZL/CO/23-24&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1840, evenement: "Signature du Traité de Waitangi (versions māori et anglaise)."}
+  - {annee: 1975, evenement: "Treaty of Waitangi Act : création du Tribunal de Waitangi."}
+  - {annee: 1993, evenement: "Electoral Act (circonscriptions māori) et Te Ture Whenua Māori Act."}
+  - {annee: 2010, evenement: "La Nouvelle-Zélande soutient la DNUDPA."}
+  - {annee: 2016, evenement: "Te Ture mō Te Reo Māori : le māori langue officielle."}
+  - {annee: 2024, evenement: "Dépôt du projet de loi sur les principes du Traité de Waitangi ; marche (hīkoi) de protestation vers le Parlement."}
+  - {annee: 2025, evenement: "Observations finales du CERD ; suppression de circonscriptions māori dans 24 conseils locaux."}
+fiabilite:
+  verifie: ["Section 45 de l'Electoral Act 1993 (réimpression de 2014, NATLEX).", "Section 5 du Māori Language Act 2016.", "Rôle du Tribunal de Waitangi (site du Tribunal) et de la Cour foncière māori (site de la Cour).", "Observations finales CERD/C/NZL/CO/23-24 (décembre 2025).", "Recensement 2023 (Stats NZ)."]
+  non_confirme: ["Nombre actuel de circonscriptions māori.", "Sort final du projet de loi sur les principes du Traité de Waitangi.", "Institutions iwi issues des règlements de revendications (ex. Te Rūnanga o Ngāi Tahu) : textes non consultés.", "Écoles en langue māori (kura kaupapa) : base légale non vérifiée."]
+sources:
+  - {titre: "Stats NZ — 2023 Census national data (infographie)", url: "https://www.stats.govt.nz/assets/Infographics/2023-Census-infographics/2023-Census-infographics-National.pdf"}
+  - {titre: "Tribunal de Waitangi — About the Waitangi Tribunal", url: "https://www.waitangitribunal.govt.nz/en/about/about-the-waitangi-tribunal/about-the-waitangi-tribunal"}
+  - {titre: "Cour foncière māori — Who we are", url: "https://www.maorilandcourt.govt.nz/en/who-we-are"}
+  - {titre: "Electoral Act 1993, réimpression 2014 — NATLEX (OIT)", url: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/34658/NZL34658.pdf"}
+  - {titre: "Te Ture mō Te Reo Māori 2016, s. 5 — legislation.govt.nz", url: "https://www.legislation.govt.nz/act/public/2016/0017/latest/DLM6174518.html"}
+  - {titre: "Rapporteur spécial — Situation du peuple maori en Nouvelle-Zélande, A/HRC/18/35/Add.4 (2011)", url: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+  - {titre: "CERD — Observations finales sur la Nouvelle-Zélande, CERD/C/NZL/CO/23-24 (2025)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/NZL/CO/23-24&l=fr&t=pdf"}
+  - {titre: "IWGIA — The Indigenous World 2025, chapitre Aotearoa (New Zealand)", url: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2025.pdf"}

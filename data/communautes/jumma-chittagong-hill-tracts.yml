@@ -1,0 +1,56 @@
+uid: "jumma-chittagong-hill-tracts"
+nom: "Peuples des Chittagong Hill Tracts"
+endonyme: "Jumma"
+territoire: "Chittagong Hill Tracts (districts de Rangamati, Khagrachari et Bandarban)"
+etats: ["Bangladesh"]
+region: "asie"
+coord: [22.6, 92.2]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: ["peuple_tribal"]
+population: {valeur: 500000, annee: 1991, perimetre: "membres des 11 peuples autochtones de la région (« environ 500 000 », d'après le recensement de 1991)", source: "https://docs.un.org/fr/E/C.19/2011/6"}
+lieux: {valeur: 3, unite: "districts (Rangamati, Khagrachari, Bandarban)", annee: 2011, source: "https://docs.un.org/fr/E/C.19/2011/6"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Onze peuples (Bawm, Chak, Chakma, Khumi, Khyang, Lushai, Marma, Mro, Pangkhua, Tanchangya, Tripura) vivent dans les Chittagong Hill Tracts, au sud-est du Bangladesh. L'accord du 2 décembre 1997 entre le gouvernement et le Parbatya Chattagram Jana Samhati Samiti (PCJSS) définit la région comme « région habitée par des tribus » et crée un conseil régional et trois conseils de district. L'État les désigne comme « tribus » (upajati) et non comme peuples autochtones. Les institutions prévues sont dirigées par des membres nommés, sans élection depuis 1989.
+reconnaissance_onu:
+  - {mecanisme: "instance_permanente", detail: "Étude de l'Instance permanente sur l'état de mise en œuvre de l'Accord des Chittagong Hill Tracts de 1997, présentée par Lars-Anders Baer (E/C.19/2011/6)", annee: 2011, source: "https://docs.un.org/fr/E/C.19/2011/6"}
+  - {mecanisme: "organe_traite", detail: "Comité des droits de l'homme, CCPR/C/BGD/CO/1 : reconnaissance juridique des peuples autochtones et Commission de règlement des différends fonciers des Chittagong Hill Tracts", annee: 2017, source: "https://docs.un.org/en/CCPR/C/BGD/CO/1"}
+  - {mecanisme: "organe_traite", detail: "Comité des droits économiques, sociaux et culturels, E/C.12/BGD/CO/1, § 17-18 : mise en œuvre de l'accord de paix des Chittagong Hill Tracts", annee: 2018, source: "https://docs.un.org/fr/E/C.12/BGD/CO/1"}
+base_nationale:
+  - {instrument: "Accord des Chittagong Hill Tracts entre le Comité national sur les affaires des CHT et le PCJSS", nature: "accord_paix", annee: 1997, source: "http://peaceaccords.nd.edu/wp-content/accords/Chittagong_Hill_Tracts_Peace_Accord.pdf"}
+  - {instrument: "Loi de 1998 sur le Conseil régional des Chittagong Hill Tracts (loi n° 12 de 1998)", nature: "loi", annee: 1998, source: "http://bdlaws.minlaw.gov.bd/act-details-822.html"}
+  - {instrument: "Loi de 2001 sur la Commission de règlement des différends fonciers des Chittagong Hill Tracts, modifiée", nature: "loi", annee: 2001, source: "http://bdlaws.minlaw.gov.bd/act-details-877.html"}
+  - {instrument: "Constitution, art. 23A, inséré par le quinzième amendement (loi XIV de 2011) : protection de la culture des tribus, petites races, sectes et communautés ethniques", nature: "constitution", annee: 2011, source: "http://bdlaws.minlaw.gov.bd/act-367/act-part-print-199.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Conseil régional à présidence réservée à un membre tribal et aux deux tiers tribal, loi de 1998 sur le Conseil régional, section 5 ; trois conseils de district créés en 1989 et renforcés par l'accord de 1997, partie B ; les membres élus prévus sont remplacés par des membres nommés.", source: "http://bdlaws.minlaw.gov.bd/act-details-822.html"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les conseils de district adoptent des règlements, le gouvernement pouvant en demander la modification, accord de 1997, partie B, § 30 (section 69 de la loi de 1989).", source: "http://peaceaccords.nd.edu/wp-content/accords/Chittagong_Hill_Tracts_Peace_Accord.pdf"}
+  justice_propre: {valeur: "partiel", note: "Le Conseil régional coordonne et supervise les coutumes tribales et la « justice sociale » (justice coutumière), loi de 1998 sur le Conseil régional, section 22 (e) ; le droit tribal est une compétence des conseils de district, accord de 1997, partie B, § 34.", source: "http://bdlaws.minlaw.gov.bd/act-details-822.html"}
+  terres: {valeur: "partiel", note: "Aucune terre ne peut être attribuée, vendue ou louée sans l'accord préalable du conseil de district, hors forêts réservées et terres de l'État, accord de 1997, partie B, § 26 ; les différends fonciers sont réglés selon les lois, coutumes et pratiques des CHT, loi de 2001 sur la Commission foncière, section 6.", source: "http://bdlaws.minlaw.gov.bd/act-details-877.html"}
+  ressources: {valeur: "partiel", note: "Compétence des conseils de district sur l'usage de l'eau des rivières, canaux et étangs, sauf le lac de Kaptai, et sur la culture sur brûlis (jhum), accord de 1997, partie B, § 34.", source: "http://peaceaccords.nd.edu/wp-content/accords/Chittagong_Hill_Tracts_Peace_Accord.pdf"}
+  consentement: {valeur: "partiel", note: "Le gouvernement consulte le Conseil régional avant toute loi sur les CHT, loi de 1998 sur le Conseil régional, section 53 ; aucune terre, colline ou forêt ne peut être expropriée sans consultation et consentement du conseil de district, accord de 1997, partie B, § 26.", source: "http://bdlaws.minlaw.gov.bd/act-details-822.html"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "L'enseignement primaire dans la langue maternelle et l'enseignement secondaire sont transférés aux conseils de district, accord de 1997, partie B, § 33.", source: "http://peaceaccords.nd.edu/wp-content/accords/Chittagong_Hill_Tracts_Peace_Accord.pdf"}
+  fiscalite: {valeur: "partiel", note: "Les conseils de district perçoivent l'impôt foncier et une liste de taxes locales, accord de 1997, partie B, § 27 et 35.", source: "http://peaceaccords.nd.edu/wp-content/accords/Chittagong_Hill_Tracts_Peace_Accord.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "conteste", note: "L'accord de 1997 (partie B, § 3) réserve le statut de « résident permanent non tribal » aux personnes qui possèdent légalement une terre dans le district ; en 2010, la Haute Cour a déclaré illégales la délivrance des certificats de résidence par les chefs traditionnels et la loi de 1998 sur le Conseil régional, décision suspendue en appel.", source: "https://docs.un.org/fr/E/C.19/2011/6"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "L'étude de l'Instance permanente (2011) constate que les dispositions sur les terres, la démilitarisation et le transfert de pouvoirs ne sont pas ou peu appliquées ; en 2018, le Comité des droits économiques, sociaux et culturels note une mise en œuvre insuffisante ; IWGIA (2025) décrit la Commission foncière comme non fonctionnelle et recense 200 violations des droits de l'homme en 2024.", source: "https://docs.un.org/fr/E/C.12/BGD/CO/1"}
+chronologie:
+  - {annee: 1989, evenement: "Lois XIX, XX et XXI créant les conseils de district de Rangamati, Khagrachari et Bandarban."}
+  - {annee: 1997, evenement: "Signature de l'accord des Chittagong Hill Tracts le 2 décembre."}
+  - {annee: 1998, evenement: "Loi sur le Conseil régional et modification des lois sur les conseils de district."}
+  - {annee: 2001, evenement: "Loi sur la Commission de règlement des différends fonciers."}
+  - {annee: 2010, evenement: "La Haute Cour déclare la loi sur le Conseil régional inconstitutionnelle ; décision suspendue en appel."}
+  - {annee: 2011, evenement: "Étude de l'Instance permanente sur la mise en œuvre de l'accord ; l'article 23A de la Constitution désigne les « tribus » et « petites races »."}
+fiabilite:
+  verifie: ["Sections 5, 22 et 53 de la loi de 1998 sur le Conseil régional (texte bengali officiel, bdlaws).", "Section 6 de la loi de 2001 sur la Commission foncière (texte bengali officiel).", "Paragraphes B.3, B.26, B.27, B.30, B.33, B.34 et B.35 de l'accord de 1997 (texte anglais, Peace Accords Matrix, Université de Notre Dame).", "Article 23A de la Constitution et son insertion en 2011 (bdlaws).", "Documents E/C.19/2011/6, CCPR/C/BGD/CO/1 et E/C.12/BGD/CO/1."]
+  non_confirme: ["Issue de l'appel contre le jugement de 2010 de la Haute Cour : aucune décision définitive consultée.", "Population des peuples des CHT au recensement de 2022 : seul le chiffre national (1 650 478) a été consulté.", "Effets des réformes engagées après août 2024 sur les institutions des CHT."]
+sources:
+  - {titre: "Accord des Chittagong Hill Tracts (1997) — Peace Accords Matrix, Université de Notre Dame", url: "http://peaceaccords.nd.edu/wp-content/accords/Chittagong_Hill_Tracts_Peace_Accord.pdf"}
+  - {titre: "Loi de 1998 sur le Conseil régional des CHT — Laws of Bangladesh", url: "http://bdlaws.minlaw.gov.bd/act-details-822.html"}
+  - {titre: "Loi de 2001 sur la Commission foncière des CHT — Laws of Bangladesh", url: "http://bdlaws.minlaw.gov.bd/act-details-877.html"}
+  - {titre: "Instance permanente, E/C.19/2011/6 (2011)", url: "https://docs.un.org/fr/E/C.19/2011/6"}
+  - {titre: "Comité des droits économiques, sociaux et culturels, E/C.12/BGD/CO/1 (2018)", url: "https://docs.un.org/fr/E/C.12/BGD/CO/1"}
+  - {titre: "Comité des droits de l'homme, CCPR/C/BGD/CO/1 (2017)", url: "https://docs.un.org/en/CCPR/C/BGD/CO/1"}
+  - {titre: "IWGIA, The Indigenous World 2025: Bangladesh", url: "https://iwgia.org/en/bangladesh/5652-iw-2025-bangladesh.html"}

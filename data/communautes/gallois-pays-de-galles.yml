@@ -1,0 +1,50 @@
+uid: "gallois-pays-de-galles"
+nom: "Gallois"
+endonyme: "Cymry"
+territoire: "Pays de Galles (Cymru)"
+etats: ["Royaume-Uni"]
+region: "europe"
+coord: [52.3, -3.7]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 3187000, annee: 2024, perimetre: "population du pays de Galles au 30 juin", source: "https://www.gov.wales/mid-year-estimates-population-2024-html"}
+lieux: {valeur: 22, unite: "collectivités locales (local authorities)", annee: 2024, source: "https://www.gov.wales/mid-year-estimates-population-2024-html"}
+surface_km2: {valeur: 20779, annee: null, perimetre: "pays de Galles", source: "https://www.wales.com/about/welcome-wales/facts-and-information-about-wales"}
+resume: >-
+  Le Government of Wales Act 2006 organise le Senedd (Parlement gallois) et le gouvernement gallois. Depuis 2017, la loi déclare qu'ils ne peuvent être abolis que sur décision du « peuple du pays de Galles » par référendum. Le Senedd vote des lois dans les matières non réservées, fixe les taux gallois de l'impôt sur le revenu et légifère sur deux impôts dévolus. Le gallois a un statut officiel au pays de Galles depuis 2011. Le Royaume-Uni applique la Convention-cadre du Conseil de l'Europe aux Gallois comme minorité nationale.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Quatrième avis du Comité consultatif sur le Royaume-Uni (ACFC/OP/IV(2016)005) : les Gallois sont reconnus comme minorité nationale sur la base de l'origine nationale ; le Comité salue les mesures du gouvernement gallois pour l'usage du gallois dans l'administration et l'école.", annee: 2016, source: "https://cain.ulster.ac.uk/issues/europe/docs/coe_2017-02-27_fcnm-uk.pdf"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Government of Wales Act 2006 (modifié par les Wales Acts 2014 et 2017)", nature: "statut_autonomie", annee: 2006, source: "https://www.legislation.gov.uk/ukpga/2006/32/section/107"}
+  - {instrument: "Welsh Language (Wales) Measure 2011", nature: "loi", annee: 2011, source: "https://www.legislation.gov.uk/mwa/2011/1/section/1"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le Senedd et le gouvernement gallois ne peuvent être abolis que sur décision du peuple du pays de Galles par référendum, Government of Wales Act 2006, s. A1 (ajoutée par le Wales Act 2017).", source: "https://www.legislation.gov.uk/ukpga/2006/32/section/A1"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le Senedd fait des lois (Acts of Senedd Cymru), Government of Wales Act 2006, s. 107, al. 1, sous réserve des matières réservées de l'annexe 7A.", source: "https://www.legislation.gov.uk/ukpga/2006/32/section/107"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le Parlement du Royaume-Uni ne légifère pas normalement dans les matières dévolues sans le consentement du Senedd, Government of Wales Act 2006, s. 107, al. 6 (ajouté en 2017) ; disposition sans force obligatoire devant les tribunaux.", source: "https://www.legislation.gov.uk/ukpga/2006/32/section/107"}
+  langue: {valeur: "reconnu", note: "Le gallois a un statut officiel au pays de Galles, Welsh Language (Wales) Measure 2011, s. 1 ; la loi crée un commissaire à la langue galloise.", source: "https://www.legislation.gov.uk/mwa/2011/1/section/1"}
+  education: {valeur: "reconnu", note: "L'éducation n'est pas une matière réservée, Government of Wales Act 2006, annexe 7A.", source: "https://www.legislation.gov.uk/ukpga/2006/32/schedule/7A"}
+  fiscalite: {valeur: "partiel", note: "Le Senedd fixe les taux gallois de l'impôt sur le revenu ; les droits de mutation foncière et la taxe sur les décharges sont des impôts dévolus, Government of Wales Act 2006, partie 4A (ajoutée par le Wales Act 2014).", source: "https://www.legislation.gov.uk/ukpga/2006/32/part/4A"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Comité consultatif de la Convention-cadre relève en 2016 le développement de l'usage du gallois dans l'administration et les écoles ; les juridictions restent communes à l'Angleterre et au pays de Galles (annexe 7A, para. 8).", source: "https://cain.ulster.ac.uk/issues/europe/docs/coe_2017-02-27_fcnm-uk.pdf"}
+chronologie:
+  - {annee: 2006, evenement: "Government of Wales Act."}
+  - {annee: 2011, evenement: "Welsh Language (Wales) Measure : statut officiel du gallois."}
+  - {annee: 2014, evenement: "Wales Act 2014 : impôts dévolus (partie 4A, en vigueur le 17 février 2015)."}
+  - {annee: 2017, evenement: "Wales Act 2017 : permanence du Senedd (s. A1) et modèle des matières réservées."}
+fiabilite:
+  verifie: ["Government of Wales Act 2006, s. A1, 107, partie 4A et annexe 7A (legislation.gov.uk).", "Welsh Language (Wales) Measure 2011, s. 1.", "Population au 30 juin 2024 et 22 collectivités (gouvernement gallois).", "Surface de 20 779 km² (wales.com, site du gouvernement gallois)."]
+  non_confirme: ["Référendum de 1997 créant l'Assemblée nationale et loi de 1998 : non consultés.", "Ressources naturelles (eau, énergie) : l'annexe 7A réserve l'essentiel de l'énergie et une partie de l'eau ; le détail des exceptions dévolues n'a pas été vérifié."]
+sources:
+  - {titre: "Government of Wales Act 2006 — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukpga/2006/32/section/107"}
+  - {titre: "Government of Wales Act 2006, section A1 — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukpga/2006/32/section/A1"}
+  - {titre: "Welsh Language (Wales) Measure 2011 — legislation.gov.uk", url: "https://www.legislation.gov.uk/mwa/2011/1/section/1"}
+  - {titre: "Mid year estimates of the population: 2024 — Gouvernement gallois", url: "https://www.gov.wales/mid-year-estimates-population-2024-html"}
+  - {titre: "Facts and information about Wales — wales.com", url: "https://www.wales.com/about/welcome-wales/facts-and-information-about-wales"}
+  - {titre: "Fourth Opinion on the United Kingdom, ACFC (2016) — hébergé par CAIN, Université d'Ulster", url: "https://cain.ulster.ac.uk/issues/europe/docs/coe_2017-02-27_fcnm-uk.pdf"}

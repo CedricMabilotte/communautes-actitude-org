@@ -1,0 +1,61 @@
+uid: "nations-tribales-etats-unis"
+nom: "Nations tribales reconnues par l'État fédéral (États-Unis)"
+endonyme: ""
+territoire: "Réserves, pueblos, rancherias, villages et terres en fiducie des nations tribales reconnues, y compris en Alaska"
+etats: ["États-Unis"]
+region: "ameriques"
+coord: [39.8, -98.6]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 1900000, annee: 2026, perimetre: "Amérindiens et Autochtones de l'Alaska desservis par les Affaires indiennes (directement ou par contrats et compacts), chiffre arrondi", source: "https://www.bia.gov/about-us"}
+lieux: {valeur: 575, unite: "nations tribales et villages autochtones reconnus par l'État fédéral", annee: 2026, source: "https://www.bia.gov/frequently-asked-questions"}
+surface_km2: {valeur: 227434, annee: 2026, perimetre: "terres détenues en fiducie par les États-Unis pour les nations tribales et des individus (56,2 millions d'acres convertis en km²) ; environ 326 réserves", source: "https://www.bia.gov/frequently-asked-questions"}
+resume: >-
+  Fiche agrégée. Les États-Unis entretiennent une relation « de gouvernement à gouvernement » avec 575 nations amérindiennes et villages autochtones de l'Alaska inscrits sur une liste publiée par le secrétaire à l'Intérieur (25 U.S.C. 5131). Ces nations tribales conservent une souveraineté inhérente, limitée par le Congrès : gouvernement propre, tribunaux, fiscalité, définition de leurs membres. Les terres de réserve sont détenues en fiducie (trust) par l'État fédéral. Les Navajo, les Autochtones de l'Alaska et la Nation cherokee ont une fiche propre.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Les États-Unis, qui avaient voté contre la Déclaration en 2007, ont annoncé leur appui en décembre 2010 (Rapporteur spécial, A/HRC/21/47/Add.1).", annee: 2010, source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport de mission aux États-Unis de James Anaya (A/HRC/21/47/Add.1) : relations avec environ 566 nations tribales reconnues à l'époque, restitution de terres (Taos Pueblo, Timbisha Shoshone).", annee: 2012, source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+base_nationale:
+  - {instrument: "Federally Recognized Indian Tribe List Act, 25 U.S.C. 5131 (1994)", nature: "loi", annee: 1994, source: "https://www.law.cornell.edu/uscode/text/25/5131"}
+  - {instrument: "Indian Self-Determination and Education Assistance Act, 25 U.S.C. 5321 (1975)", nature: "loi", annee: 1975, source: "https://www.law.cornell.edu/uscode/text/25/5321"}
+  - {instrument: "Indian Tribal Justice Act, 25 U.S.C. 3601 (1993)", nature: "loi", annee: 1993, source: "https://www.law.cornell.edu/uscode/text/25/3601"}
+  - {instrument: "Native American Languages Act, 25 U.S.C. 2903 (1990)", nature: "loi", annee: 1990, source: "https://www.law.cornell.edu/uscode/text/25/2903"}
+  - {instrument: "Merrion v. Jicarilla Apache Tribe, 455 U.S. 130 (1982)", nature: "jurisprudence", annee: 1982, source: "https://www.law.cornell.edu/supremecourt/text/455/130"}
+  - {instrument: "Santa Clara Pueblo v. Martinez, 436 U.S. 49 (1978)", nature: "jurisprudence", annee: 1978, source: "https://www.law.cornell.edu/supremecourt/text/436/49"}
+  - {instrument: "Executive Order 13175, Consultation and Coordination With Indian Tribal Governments (2000)", nature: "loi", annee: 2000, source: "https://www.govinfo.gov/content/pkg/FR-2000-11-09/pdf/00-29003.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le Congrès reconnaît l'autorité inhérente des nations tribales à établir leur propre forme de gouvernement (25 U.S.C. 3601).", source: "https://www.law.cornell.edu/uscode/text/25/3601"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Les nations tribales reconnues possèdent des droits inhérents d'autogouvernement (souveraineté tribale), limités par les traités, les lois du Congrès et la jurisprudence ; les États n'ont pas d'autorité sur elles sans autorisation du Congrès.", source: "https://www.bia.gov/frequently-asked-questions"}
+  justice_propre: {valeur: "reconnu", note: "Les systèmes de justice tribaux sont reconnus comme partie des gouvernements tribaux (Indian Tribal Justice Act, 25 U.S.C. 3601) ; la loi Public Law 280 de 1953 a transféré la compétence pénale à certains États.", source: "https://www.law.cornell.edu/uscode/text/25/3601"}
+  terres: {valeur: "partiel", note: "Environ 56,2 millions d'acres sont détenus en fiducie par les États-Unis pour les nations tribales et des individus ; le titre appartient à l'État fédéral.", source: "https://www.bia.gov/frequently-asked-questions"}
+  ressources: {valeur: "partiel", note: "Le Bureau des affaires indiennes administre 57 millions d'acres de droits miniers souterrains détenus en fiducie pour les nations tribales et les individus.", source: "https://www.bia.gov/about-us"}
+  consentement: {valeur: "partiel", note: "Le décret présidentiel 13175 (2000) impose aux agences fédérales une consultation « significative » des gouvernements tribaux, sans droit de veto.", source: "https://www.govinfo.gov/content/pkg/FR-2000-11-09/pdf/00-29003.pdf"}
+  langue: {valeur: "partiel", note: "La Native American Languages Act (1990) reconnaît le droit des nations tribales de donner un statut officiel à leurs langues pour leurs propres affaires (25 U.S.C. 2903).", source: "https://www.law.cornell.edu/uscode/text/25/2903"}
+  education: {valeur: "partiel", note: "Les nations tribales peuvent gérer par contrat les programmes fédéraux, dont l'éducation (25 U.S.C. 5321) ; la loi de 1990 reconnaît l'usage des langues autochtones comme langue d'enseignement dans les écoles financées par l'Intérieur.", source: "https://www.law.cornell.edu/uscode/text/25/5321"}
+  fiscalite: {valeur: "reconnu", note: "La Cour suprême juge que le pouvoir de taxer est un attribut essentiel de la souveraineté tribale, y compris envers des non-Autochtones exerçant sur la réserve (Merrion v. Jicarilla Apache Tribe, 1982).", source: "https://www.law.cornell.edu/supremecourt/text/455/130"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Le droit d'une nation tribale de définir ses membres est reconnu comme central à son existence politique (Santa Clara Pueblo v. Martinez, 1978).", source: "https://www.law.cornell.edu/supremecourt/text/436/49"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Rapporteur spécial relève en 2012 que de nombreux groupes se déclarant autochtones ne sont pas reconnus par l'État fédéral.", source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+chronologie:
+  - {annee: 1934, evenement: "Indian Reorganization Act : fin de la politique de lotissement des terres (General Allotment Act de 1887)."}
+  - {annee: 1953, evenement: "Public Law 280 : transfert de compétences pénales à certains États."}
+  - {annee: 1975, evenement: "Indian Self-Determination and Education Assistance Act."}
+  - {annee: 1994, evenement: "Loi sur la liste des nations tribales reconnues par l'État fédéral."}
+  - {annee: 2010, evenement: "Les États-Unis annoncent leur appui à la Déclaration des Nations unies."}
+fiabilite:
+  verifie: ["Nombre de nations tribales reconnues (575), surfaces en fiducie et nombre de réserves (FAQ et page « About us » du Bureau des affaires indiennes).", "Textes de 25 U.S.C. 2903, 3601, 5131 et 5321.", "Attendus de Merrion (1982) et de Santa Clara Pueblo (1978).", "Section 5 du décret 13175."]
+  non_confirme: ["Le chiffre de 574 nations tribales souvent cité correspond à une liste antérieure ; le Bureau des affaires indiennes indique 575 en 2026 (liste du Federal Register non ouverte).", "Population totale des membres inscrits de toutes les nations tribales (le chiffre retenu est celui des personnes desservies)."]
+sources:
+  - {titre: "Frequently Asked Questions — Bureau of Indian Affairs", url: "https://www.bia.gov/frequently-asked-questions"}
+  - {titre: "About Us — Bureau of Indian Affairs", url: "https://www.bia.gov/about-us"}
+  - {titre: "25 U.S.C. 3601 — Legal Information Institute", url: "https://www.law.cornell.edu/uscode/text/25/3601"}
+  - {titre: "25 U.S.C. 5131 — Legal Information Institute", url: "https://www.law.cornell.edu/uscode/text/25/5131"}
+  - {titre: "25 U.S.C. 5321 — Legal Information Institute", url: "https://www.law.cornell.edu/uscode/text/25/5321"}
+  - {titre: "25 U.S.C. 2903 — Legal Information Institute", url: "https://www.law.cornell.edu/uscode/text/25/2903"}
+  - {titre: "Merrion v. Jicarilla Apache Tribe, 455 U.S. 130 — Legal Information Institute", url: "https://www.law.cornell.edu/supremecourt/text/455/130"}
+  - {titre: "Santa Clara Pueblo v. Martinez, 436 U.S. 49 — Legal Information Institute", url: "https://www.law.cornell.edu/supremecourt/text/436/49"}
+  - {titre: "Executive Order 13175 — Federal Register, 9 novembre 2000", url: "https://www.govinfo.gov/content/pkg/FR-2000-11-09/pdf/00-29003.pdf"}
+  - {titre: "Report of the Special Rapporteur on the rights of indigenous peoples, James Anaya — The situation of indigenous peoples in the United States of America (A/HRC/21/47/Add.1)", url: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}

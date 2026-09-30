@@ -1,0 +1,51 @@
+uid: "municipalites-systemes-normatifs-oaxaca"
+nom: "Municipalités d'Oaxaca régies par leurs systèmes normatifs propres"
+endonyme: ""
+territoire: "État d'Oaxaca : municipalités inscrites au catalogue des « sistemas normativos indígenas »"
+etats: ["Mexique"]
+region: "ameriques"
+coord: [17.1, -96.7]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "population des municipalités inscrites au catalogue ; aucun total publié trouvé", source: ""}
+lieux: {valeur: 418, unite: "municipalités inscrites au catalogue de l'Institut électoral d'Oaxaca (413 avis de détermination du mode électoral disponibles)", annee: 2025, source: "https://www.laondaoaxaca.com.mx/2025/06/ieepco-aprueba-catalogo-de-municipios-de-sistemas-normativos-indigenas/"}
+surface_km2: {valeur: null, annee: null, perimetre: "surface cumulée des municipalités inscrites ; non trouvée", source: ""}
+resume: >-
+  Fiche agrégée. La Constitution de l'État d'Oaxaca reconnaît aux peuples et communautés autochtones l'autonomie comme expression de leur libre détermination, la personnalité juridique de droit public et leurs systèmes normatifs internes. Des municipalités de l'État élisent leurs autorités selon ces systèmes, la volonté exprimée en assemblée communautaire étant garantie par la Constitution de l'État. Le catalogue approuvé par l'Institut électoral d'Oaxaca le 25 juin 2025 compte 418 municipalités. L'État reconnaît quinze peuples autochtones et les communautés afromexicaines.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Le Mexique ratifie la Convention 169 de l'OIT le 5 septembre 1990.", annee: 1990, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "Le Mexique vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Constitution politique de l'État libre et souverain d'Oaxaca, art. 16, 25 et 112", nature: "constitution", annee: 1998, source: "https://www.oaxaca.gob.mx/citybus/wp-content/uploads/sites/94/2024/02/CONSTITUCION-POLITICA-DEL-ESTADO-LIBRE-Y-SOBERANO-DE-OAXACA.pdf"}
+  - {instrument: "Constitution politique des États-Unis mexicains, art. 2 (réforme du 30 septembre 2024)", nature: "constitution", annee: 2024, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  - {instrument: "Loi générale des droits linguistiques des peuples autochtones (Ley General de Derechos Lingüísticos de los Pueblos Indígenas)", nature: "loi", annee: 2003, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Constitution d'Oaxaca (art. 25, réforme de 2015) garantit l'élection des conseils municipaux selon les institutions et pratiques des communautés et la volonté exprimée en assemblée communautaire.", source: "https://www.oaxaca.gob.mx/citybus/wp-content/uploads/sites/94/2024/02/CONSTITUCION-POLITICA-DEL-ESTADO-LIBRE-Y-SOBERANO-DE-OAXACA.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'art. 16 de la Constitution d'Oaxaca reconnaît les systèmes normatifs internes ; ils ne doivent pas être contraires aux droits fondamentaux (art. 25).", source: "https://www.oaxaca.gob.mx/citybus/wp-content/uploads/sites/94/2024/02/CONSTITUCION-POLITICA-DEL-ESTADO-LIBRE-Y-SOBERANO-DE-OAXACA.pdf"}
+  justice_propre: {valeur: "partiel", note: "La juridiction autochtone est exercée par les autorités communautaires selon leurs usages, dans le cadre de l'ordre juridique en vigueur (art. 16 et 112) ; la loi fixe homologation et validation des décisions.", source: "https://www.oaxaca.gob.mx/citybus/wp-content/uploads/sites/94/2024/02/CONSTITUCION-POLITICA-DEL-ESTADO-LIBRE-Y-SOBERANO-DE-OAXACA.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "L'État reconnaît le droit social à l'usage et à la jouissance des ressources naturelles des terres et territoires, selon la loi réglementaire (art. 16).", source: "https://www.oaxaca.gob.mx/citybus/wp-content/uploads/sites/94/2024/02/CONSTITUCION-POLITICA-DEL-ESTADO-LIBRE-Y-SOBERANO-DE-OAXACA.pdf"}
+  consentement: {valeur: "partiel", note: "La Constitution fédérale (art. 2, fraction XIII, réforme de 2024) impose une consultation visant à obtenir le consentement ou un accord.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  langue: {valeur: "partiel", note: "La loi générale de 2003 fait des langues autochtones des langues nationales ayant la même validité que l'espagnol.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"}
+  education: {valeur: "partiel", note: "L'art. 16 de la Constitution d'Oaxaca reconnaît la participation des peuples et communautés à l'action éducative.", source: "https://www.oaxaca.gob.mx/citybus/wp-content/uploads/sites/94/2024/02/CONSTITUCION-POLITICA-DEL-ESTADO-LIBRE-Y-SOBERANO-DE-OAXACA.pdf"}
+  fiscalite: {valeur: "partiel", note: "La Constitution fédérale (art. 2, réforme de 2024) prévoit des dotations budgétaires administrées directement par les peuples et communautés.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "L'Institut électoral d'Oaxaca met à jour le catalogue et valide les élections par systèmes normatifs ; cinq communautés ne pouvaient pas identifier leur méthode électorale en 2025 en raison d'obstacles juridiques.", source: "https://www.laondaoaxaca.com.mx/2025/06/ieepco-aprueba-catalogo-de-municipios-de-sistemas-normativos-indigenas/"}
+chronologie:
+  - {annee: 1990, evenement: "Réforme de la Constitution d'Oaxaca sur la prise en compte des pratiques autochtones dans la justice."}
+  - {annee: 1998, evenement: "Réforme de l'art. 16 : autonomie et personnalité juridique de droit public des peuples et communautés."}
+  - {annee: 2015, evenement: "Réforme électorale : garantie des élections municipales par systèmes normatifs et de la participation des femmes."}
+  - {annee: 2025, evenement: "Mise à jour du catalogue : 418 municipalités (25 juin)."}
+fiabilite:
+  verifie: ["Articles 16, 25 et 112 de la Constitution d'Oaxaca (version publiée par le gouvernement de l'État).", "Article 2 de la Constitution fédérale après la réforme de 2024.", "Article 4 de la loi générale des droits linguistiques."]
+  non_confirme: ["Le catalogue officiel de l'Institut électoral (ieepco.org.mx) n'a pas pu être ouvert : certificat du site non vérifiable ; le chiffre vient d'un article de presse.", "Le chiffre de 417 municipalités souvent cité correspond à des catalogues antérieurs.", "Régime foncier des communautés (biens communaux et ejidos) non documenté ici.", "La version en ligne de la Constitution d'Oaxaca s'arrête à la réforme de 2016."]
+sources:
+  - {titre: "Constitution politique de l'État libre et souverain d'Oaxaca — gouvernement d'Oaxaca", url: "https://www.oaxaca.gob.mx/citybus/wp-content/uploads/sites/94/2024/02/CONSTITUCION-POLITICA-DEL-ESTADO-LIBRE-Y-SOBERANO-DE-OAXACA.pdf"}
+  - {titre: "IEEPCO aprueba catálogo de municipios de Sistemas Normativos Indígenas — La Onda Oaxaca, juin 2025", url: "https://www.laondaoaxaca.com.mx/2025/06/ieepco-aprueba-catalogo-de-municipios-de-sistemas-normativos-indigenas/"}
+  - {titre: "Constitution politique des États-Unis mexicains — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  - {titre: "Loi générale des droits linguistiques des peuples autochtones — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}

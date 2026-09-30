@@ -1,0 +1,55 @@
+uid: "druzes-liban"
+nom: "Druzes du Liban"
+endonyme: "Al-Muwaḥḥidūn"
+territoire: "Chouf, Aley, Hasbaya, Rachaya, Metn et Beyrouth"
+etats: ["Liban"]
+region: "asie"
+coord: [33.7, 35.6]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 136, unite: "villages", annee: 2018, source: "https://en.wikipedia.org/wiki/Lebanese_Druze"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Druzes, qui se nomment « unitaires » (muwaḥḥidūn), forment l'une des 18 communautés confessionnelles reconnues du Liban et vivent surtout dans les montagnes à l'est et au sud de Beyrouth.
+  Une loi du 9 juin 2006 organise la communauté : un Conseil confessionnel gère ses affaires temporelles, sociales et financières et ses biens de mainmorte (waqfs), et élit le cheikh al-Aql, chef spirituel.
+  Leur statut personnel relève d'une loi du 24 février 1948, appliquée par des tribunaux druzes ; huit sièges de la Chambre des députés leur sont réservés.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution libanaise de 1926, art. 9, 10, 19, 24 et 95", nature: "constitution", annee: 1926, source: "https://www.constituteproject.org/constitution/Lebanon_2004?lang=en"}
+  - {instrument: "Loi du 24 février 1948 sur le statut personnel de la communauté druze, modifiée par la loi n° 58 du 19 septembre 2017", nature: "loi", annee: 1948, source: "https://english.legal-agenda.com/lebanons-druze-personal-status-law-developing-deference-to-the-constitution/"}
+  - {instrument: "Loi du 9 juin 2006 portant organisation de la communauté druze unitaire (Journal officiel n° 30 du 12 juin 2006)", nature: "loi", annee: 2006, source: "https://mouwahidoundruze.gov.lb/haykaliya/33/1"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Loi du 9 juin 2006, art. 7 : le Conseil confessionnel administre les affaires temporelles, sociales et financières et les intérêts religieux de la communauté ; il élit le cheikh al-Aql (art. 8) pour quinze ans renouvelables (art. 30).", source: "https://mouwahidoundruze.gov.lb/haykaliya/33/1"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "reconnu", note: "Des tribunaux druzes, dont une Haute Cour d'appel druze, appliquent la loi de 1948 sur le statut personnel ; art. 9 de la Constitution : l'État respecte le régime du statut personnel des communautés.", source: "https://english.legal-agenda.com/lebanons-druze-personal-status-law-developing-deference-to-the-constitution/"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Loi du 9 juin 2006, art. 8 : le Conseil confessionnel supervise les waqfs (biens de mainmorte) et les institutions de la communauté.", source: "https://mouwahidoundruze.gov.lb/haykaliya/33/1"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "Les Druzes du Liban sont arabophones ; l'arabe est la langue officielle nationale.", source: ""}
+  education: {valeur: "partiel", note: "Art. 10 de la Constitution : les communautés peuvent avoir leurs propres écoles, sous réserve des règles générales de l'instruction publique.", source: "https://www.constituteproject.org/constitution/Lebanon_2004?lang=en"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Art. 24 de la Constitution : sièges répartis également entre chrétiens et musulmans et proportionnellement entre les confessions ; 8 sièges druzes sur 128 selon la répartition issue de l'accord de Taëf et de la loi électorale de 2017.", source: "https://en.wikipedia.org/wiki/Parliament_of_Lebanon"}
+  statut_personnel: {valeur: "reconnu", note: "Loi du 24 février 1948 sur le statut personnel des Druzes (mariage, divorce, garde, successions), modifiée sur 16 articles par la loi n° 58 du 19 septembre 2017 ; art. 19 de la Constitution : les chefs des communautés reconnues peuvent saisir le Conseil constitutionnel en matière de statut personnel.", source: "https://english.legal-agenda.com/lebanons-druze-personal-status-law-developing-deference-to-the-constitution/"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le cheikh al-Aql Sami Abi al-Mouna a été élu le 10 septembre 2021 par le Conseil confessionnel et a pris ses fonctions le 5 novembre 2021, succédant au cheikh Naïm Hassan.", source: "https://www.asianews.it/news-en/Sheikh-Sami-Abil-Muna-is-the-new-Druze-spiritual-leader-54064.html"}
+chronologie:
+  - {annee: 1926, evenement: "Constitution libanaise : respect du statut personnel des communautés (art. 9)."}
+  - {annee: 1948, evenement: "Loi du 24 février sur le statut personnel druze."}
+  - {annee: 1989, evenement: "Accord de Taëf : parité des sièges entre chrétiens et musulmans."}
+  - {annee: 2006, evenement: "Loi du 9 juin sur l'organisation de la communauté druze."}
+  - {annee: 2017, evenement: "Loi n° 58 du 19 septembre modifiant 16 articles de la loi de 1948."}
+  - {annee: 2021, evenement: "Élection du cheikh al-Aql Sami Abi al-Mouna (10 septembre)."}
+fiabilite:
+  verifie: ["Art. 9, 10, 19, 24 et 95 de la Constitution (Constitute Project).", "Loi du 9 juin 2006, art. 7, 8 et 30 (site officiel du cheikhat al-Aql).", "Loi de 1948 et loi n° 58 de 2017 (Legal Agenda)."]
+  non_confirme: ["Aucune reconnaissance onusienne ou régionale propre trouvée ; le Liban a voté pour la DNUDPA en 2007, sans objet ici.", "Nombre de sièges (8) lu dans une encyclopédie citant la loi électorale de 2017 ; texte de la loi non consulté.", "Population : environ 5,2 % de la population (Département d'État, 2015) ou 5,3 % d'après les listes électorales de 2022 ; aucun recensement depuis 1932.", "Nombre de villages (136) lu dans une encyclopédie citant BBC Arabic ; année de référence approximative (article de 2018).", "Loi d'organisation des tribunaux druzes : non consultée.", "Le Liban compte 18 communautés reconnues (EUAA) ; le régime druze est une application d'un système général."]
+sources:
+  - {titre: "Constitution du Liban — Constitute Project", url: "https://www.constituteproject.org/constitution/Lebanon_2004?lang=en"}
+  - {titre: "Legal Agenda — Lebanon's Druze Personal Status Law", url: "https://english.legal-agenda.com/lebanons-druze-personal-status-law-developing-deference-to-the-constitution/"}
+  - {titre: "Cheikhat al-Aql de la communauté druze unitaire — Élection", url: "https://mouwahidoundruze.gov.lb/haykaliya/33/1"}
+  - {titre: "AsiaNews — Sheikh Sami Abil-Muna is the new Druze spiritual leader (2021)", url: "https://www.asianews.it/news-en/Sheikh-Sami-Abil-Muna-is-the-new-Druze-spiritual-leader-54064.html"}
+  - {titre: "EUAA — Lebanon country focus: personal status law and courts", url: "https://www.euaa.europa.eu/lebanon-country-focus/311-personal-status-law-and-courts"}
+  - {titre: "Lebanese Druze — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Lebanese_Druze"}
+  - {titre: "Parliament of Lebanon — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Parliament_of_Lebanon"}

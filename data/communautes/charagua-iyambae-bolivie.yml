@@ -1,0 +1,51 @@
+uid: "charagua-iyambae-bolivie"
+nom: "Guarani de Charagua Iyambae"
+endonyme: "Charagua Iyambae"
+territoire: "Autonomie guarani Charagua Iyambae (ancienne commune de Charagua), département de Santa Cruz"
+etats: ["Bolivie"]
+region: "ameriques"
+coord: [-19.8, -62.5]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 40000, annee: 2020, perimetre: "habitants du territoire (« unos 40.000 », projection de l'INE pour 2020 citée par l'auteur)", source: "https://dialnet.unirioja.es/descarga/articulo/8331297.pdf"}
+lieux: {valeur: 4, unite: "capitanías guarani (plus de 100 communautés rurales), outre sept colonies mennonites et deux bourgs", annee: 2021, source: "https://dialnet.unirioja.es/descarga/articulo/8331297.pdf"}
+surface_km2: {valeur: 74000, annee: 2021, perimetre: "territoire de l'autonomie, ancienne commune de Charagua (« más de 74.000 km2 »)", source: "https://dialnet.unirioja.es/descarga/articulo/8331297.pdf"}
+resume: >-
+  Charagua Iyambae est la première autonomie indigène originaire paysanne (AIOC, collectivité territoriale indigène prévue par la Constitution de 2009) en fonctionnement en Bolivie. Son statut est approuvé par référendum le 20 septembre 2015 et ses 46 autorités prennent leurs fonctions le 8 janvier 2017, date de disparition de la commune. Le territoire compte environ 40 000 habitants selon une projection de 2020, répartis entre plus de 100 communautés guarani, sept colonies mennonites et deux bourgs.
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La Bolivie ratifie la Convention 169 de l'OIT le 11 décembre 1991.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "La Bolivie vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Constitution politique de l'État plurinational de Bolivie (2009), art. 2, 5, 30, 190, 289, 290, 304 et 403", nature: "constitution", annee: 2009, source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {instrument: "Statut de l'autonomie guarani Charagua Iyambae", nature: "statut_autonomie", annee: 2015, source: "https://web.oep.org.bo/wp-content/uploads/2017/01/estatuto_charaguaiyambae.pdf"}
+  - {instrument: "Loi 026 du régime électoral, art. 57 et 61", nature: "loi", annee: 2010, source: "https://web.oep.org.bo/wp-content/uploads/2019/07/LEY_026.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Constitution (art. 289 et 290) définit l'AIOC comme autogouvernement exercé selon les normes et institutions propres ; le statut de 2015 crée un organe de décision collective (Ñemboati Reta), un organe législatif et un organe exécutif.", source: "https://web.oep.org.bo/wp-content/uploads/2017/01/estatuto_charaguaiyambae.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le statut (art. 27) attribue à l'organe législatif (Mborokuai Simbika Iyapoa Reta) une faculté législative ; la Constitution (art. 304) liste les compétences exclusives de l'AIOC.", source: "https://web.oep.org.bo/wp-content/uploads/2017/01/estatuto_charaguaiyambae.pdf"}
+  justice_propre: {valeur: "reconnu", note: "La Constitution (art. 190 et 304.I.8) reconnaît la juridiction indigène originaire paysanne, exercée par les autorités propres selon leurs normes et procédures.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  terres: {valeur: "partiel", note: "La Constitution (art. 30.II.6 et 403) reconnaît le titre collectif des territoires indigènes ; le territoire de l'autonomie inclut aussi des bourgs à majorité non indigène et des colonies mennonites.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  ressources: {valeur: "partiel", note: "La Constitution (art. 30.II.17 et 304.I.3) donne la gestion et l'usage exclusif des ressources renouvelables ; les ressources non renouvelables restent à l'État, avec participation aux bénéfices (art. 30.II.16).", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 30.II.15) impose une consultation préalable obligatoire et de bonne foi, sans exiger le consentement.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  langue: {valeur: "reconnu", note: "La Constitution (art. 5) fait du guarani une langue officielle de l'État ; le statut (art. 5) fait du guarani et du castillan les langues officielles de l'autonomie.", source: "https://web.oep.org.bo/wp-content/uploads/2017/01/estatuto_charaguaiyambae.pdf"}
+  education: {valeur: "partiel", note: "Le statut (art. 52 et 86) fait de l'éducation une compétence partagée avec l'État, fondée sur la vision du monde guarani ; la Constitution (art. 30.II.12) garantit une éducation interculturelle et plurilingue.", source: "https://web.oep.org.bo/wp-content/uploads/2017/01/estatuto_charaguaiyambae.pdf"}
+  fiscalite: {valeur: "partiel", note: "La Constitution (art. 304.I.12 à 14) permet de créer des taxes, d'administrer les impôts de sa compétence et d'adopter son budget ; le statut (art. 53) liste les impôts propres et les transferts.", source: "https://web.oep.org.bo/wp-content/uploads/2017/01/estatuto_charaguaiyambae.pdf"}
+  representation: {valeur: "partiel", note: "La loi 026 de 2010 (art. 57) crée une circonscription spéciale indigène en Santa Cruz, partagée entre Chiquitano, Guarani, Guarayo, Ayoreo et Yuracaré-Mojeño.", source: "https://web.oep.org.bo/wp-content/uploads/2019/07/LEY_026.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Une étude de terrain publiée en 2021 décrit un fonctionnement effectif des assemblées zonales, avec des continuités fortes avec l'ancien système communal et un premier chef de l'exécutif issu de la mairie (Morell i Torra).", source: "https://dialnet.unirioja.es/descarga/articulo/8331297.pdf"}
+chronologie:
+  - {annee: 2009, evenement: "Référendum ouvrant la voie de la conversion de la commune en autonomie indigène."}
+  - {annee: 2014, evenement: "Le Tribunal constitutionnel plurinational déclare le statut conforme à la Constitution (12 juin)."}
+  - {annee: 2015, evenement: "Le statut est approuvé par référendum avec 53 % des voix (20 septembre)."}
+  - {annee: 2017, evenement: "Les 46 autorités du gouvernement autonome prennent leurs fonctions (8 janvier) ; la commune disparaît."}
+fiabilite:
+  verifie: ["Articles 2, 5, 30, 146, 190, 289, 290, 304 et 403 de la Constitution de 2009.", "Articles 5, 27, 53 et 86 du statut de Charagua Iyambae.", "Article 57 de la loi 026 de 2010."]
+  non_confirme: ["Superficie titrée en territoire indigène (TIOC) à l'intérieur de l'autonomie.", "Population actuelle issue du recensement de 2024."]
+sources:
+  - {titre: "Constitution de Bolivie (2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {titre: "Statut de l'autonomie guarani Charagua Iyambae — Organe électoral plurinational", url: "https://web.oep.org.bo/wp-content/uploads/2017/01/estatuto_charaguaiyambae.pdf"}
+  - {titre: "Loi 026 du régime électoral — Organe électoral plurinational", url: "https://web.oep.org.bo/wp-content/uploads/2019/07/LEY_026.pdf"}
+  - {titre: "Morell i Torra, « Los primeros pasos de Charagua Iyambae », REAF, 2021", url: "https://dialnet.unirioja.es/descarga/articulo/8331297.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

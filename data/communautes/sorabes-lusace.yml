@@ -1,0 +1,53 @@
+uid: "sorabes-lusace"
+nom: "Sorabes (Wendes) de Lusace"
+endonyme: "Serbja / Serby"
+territoire: "Lusace : aire d'implantation sorabe en Saxe (arrondissements de Bautzen et de Görlitz) et dans le Brandebourg (Cottbus et arrondissements de Dahme-Spreewald, Oberspreewald-Lausitz, Spree-Neisse)"
+etats: ["Allemagne"]
+region: "europe"
+coord: [51.5, 14.3]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 60000, annee: null, perimetre: "Sorabes de Saxe et du Brandebourg, estimation (aucun recensement ethnique en Allemagne)", source: "https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/339351/sorben/"}
+lieux: {valeur: null, unite: "communes de l'aire d'implantation", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Sorabes, ou Wendes dans le Brandebourg, sont une des quatre minorités nationales reconnues par l'Allemagne. Le traité d'unification de 1990 garantit la préservation de leur culture. La loi saxonne de 1999 et la loi brandebourgeoise de 1994 délimitent une aire d'implantation où le sorabe peut être employé devant les autorités avec le même effet juridique que l'allemand. Chaque Land a un conseil pour les affaires sorabes de cinq membres. La Fondation pour le peuple sorabe, financée par l'État fédéral, la Saxe et le Brandebourg, soutient la langue et la culture.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième avis du Comité consultatif sur l'Allemagne (adopté le 3 février 2022) : Danois, Frisons, Sintés et Roms, et Sorabes sont les quatre minorités couvertes ; § 95 sur la Fondation pour le peuple sorabe, dont six des quinze membres du conseil de fondation représentent les Sorabes.", annee: 2022, source: "https://rm.coe.int/5th-op-germany-en/1680a6e008"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Traité d'unification (1990), protocole n° 14 relatif à l'art. 35", nature: "traite", annee: 1990, source: "https://www.minderheitensekretariat.de/wp-content/uploads/2022/08/rechtsvorschriften.pdf"}
+  - {instrument: "Loi sur les droits des Sorabes/Wendes dans le Land de Brandebourg (Sorben/Wenden-Gesetz, SWG), 7 juillet 1994", nature: "loi", annee: 1994, source: "https://bravors.brandenburg.de/gesetze/swg"}
+  - {instrument: "Loi sur les droits des Sorabes dans l'État libre de Saxe (Sächsisches Sorbengesetz), 31 mars 1999", nature: "loi", annee: 1999, source: "https://www.revosax.sachsen.de/vorschrift/3019-Saechsisches-Sorbengesetz"}
+  - {instrument: "Traité entre le Brandebourg et la Saxe sur la Fondation pour le peuple sorabe, 28 août 1998", nature: "traite", annee: 1998, source: "https://zalozba.de/stiftung/geschichte-und-finanzierung/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Dans le Brandebourg, un conseil pour les affaires sorabes/wendes de cinq membres est élu par les électeurs sorabes inscrits, SWG, § 5 ; en Saxe, le Landtag élit cinq membres sur proposition des associations sorabes et des communes, loi saxonne, § 6 ; ces conseils sont consultatifs.", source: "https://bravors.brandenburg.de/gesetze/swg"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Les membres du conseil brandebourgeois siègent à titre consultatif dans les commissions parlementaires qui traitent des affaires sorabes/wendes, SWG, § 5 ; les associations reconnues peuvent exercer des recours administratifs au nom de la communauté.", source: "https://bravors.brandenburg.de/gesetze/swg"}
+  langue: {valeur: "reconnu", note: "Dans l'aire d'implantation, les habitants peuvent employer le sorabe devant les autorités et les institutions publiques avec le même effet juridique que l'allemand, loi saxonne, § 9, et SWG, § 8 ; la règle s'applique aussi devant les tribunaux des arrondissements de Bautzen et de Görlitz.", source: "https://www.revosax.sachsen.de/vorschrift/3019-Saechsisches-Sorbengesetz"}
+  education: {valeur: "partiel", note: "Les enfants de l'aire d'implantation peuvent apprendre le bas-sorabe ; l'histoire et la culture sorabes/wendes sont intégrées aux programmes des crèches et des écoles, SWG, § 10.", source: "https://bravors.brandenburg.de/gesetze/swg"}
+  fiscalite: {valeur: "partiel", note: "La Fondation pour le peuple sorabe reçoit un financement annuel de l'État fédéral, de la Saxe et du Brandebourg (3:2:1), environ 29,3 millions d'euros en 2026 ; aucun pouvoir fiscal.", source: "https://zalozba.de/stiftung/geschichte-und-finanzierung/"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Appartient au peuple sorabe quiconque s'en réclame ; cette déclaration ne peut être ni contrôlée ni sanctionnée, loi saxonne, § 1.", source: "https://www.revosax.sachsen.de/vorschrift/3019-Saechsisches-Sorbengesetz"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité consultatif de la Convention-cadre note en 2022 que la mise en œuvre, notamment dans l'éducation, varie selon les Länder et décrit un financement pluriannuel de la Fondation de 18,6 millions d'euros par an pendant la période de suivi.", source: "https://rm.coe.int/5th-op-germany-en/1680a6e008"}
+chronologie:
+  - {annee: 1990, evenement: "Traité d'unification, protocole n° 14 relatif à l'art. 35 : liberté de se déclarer sorabe et garantie de la culture sorabe."}
+  - {annee: 1991, evenement: "Création de la Fondation pour le peuple sorabe (19 octobre)."}
+  - {annee: 1994, evenement: "Loi brandebourgeoise sur les Sorabes/Wendes (7 juillet)."}
+  - {annee: 1998, evenement: "Traité entre le Brandebourg et la Saxe donnant la personnalité juridique à la Fondation (28 août)."}
+  - {annee: 1999, evenement: "Loi saxonne sur les Sorabes (31 mars)."}
+fiabilite:
+  verifie: ["SWG du Brandebourg, § 1, 3, 5, 8 et 10 (BRAVORS, version modifiée le 5 mars 2024).", "Loi saxonne sur les Sorabes, § 1, 3, 5, 6 et 9 (REVOSax).", "Historique et financement de la Fondation (site de la Fondation).", "Cinquième avis ACFC sur l'Allemagne (2022)."]
+  non_confirme: ["Population de 60 000 personnes : estimation de l'Agence fédérale pour l'éducation civique, sans année ni méthode.", "Nombre de communes de l'aire d'implantation : l'annexe de la loi brandebourgeoise en compte 27 (communes ou parties de communes) ; l'annexe saxonne n'a pas été comptée.", "Constitutions de Saxe (art. 5 et 6) et du Brandebourg (art. 25) : textes non consultés.", "Le Serbski Sejm, assemblée constituée hors cadre légal par des Sorabes, n'a pas été étudié."]
+sources:
+  - {titre: "Sorben/Wenden-Gesetz — BRAVORS, Land de Brandebourg", url: "https://bravors.brandenburg.de/gesetze/swg"}
+  - {titre: "Sächsisches Sorbengesetz — REVOSax, État libre de Saxe", url: "https://www.revosax.sachsen.de/vorschrift/3019-Saechsisches-Sorbengesetz"}
+  - {titre: "Geschichte und Finanzierung — Fondation pour le peuple sorabe", url: "https://zalozba.de/stiftung/geschichte-und-finanzierung/"}
+  - {titre: "Fifth Opinion on Germany — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/5th-op-germany-en/1680a6e008"}
+  - {titre: "Rechtsvorschriften zum Schutz und zur Förderung des sorbischen Volkes — Secrétariat des minorités", url: "https://www.minderheitensekretariat.de/wp-content/uploads/2022/08/rechtsvorschriften.pdf"}
+  - {titre: "Sorben — Agence fédérale pour l'éducation civique (bpb)", url: "https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/339351/sorben/"}

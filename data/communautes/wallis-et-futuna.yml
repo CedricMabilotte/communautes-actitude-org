@@ -1,0 +1,50 @@
+uid: "wallis-et-futuna"
+nom: "Wallisiens et Futuniens"
+endonyme: ""
+territoire: "Îles Wallis et Futuna (royaumes d'Uvea, d'Alo et de Sigave)"
+etats: ["France"]
+region: "oceanie"
+coord: [-13.3, -176.2]
+type: "peuple_autochtone"
+types_secondaires: ["collectivite_insulaire_ou_regionale"]
+base: "territoriale"
+population: {valeur: 11151, annee: 2023, perimetre: "population municipale de la collectivité (recensement Insee)", source: "https://www.insee.fr/fr/statistiques/7756937?sommaire=2121453"}
+lieux: {valeur: 36, unite: "villages (21 à Uvea, 9 à Alo, 6 à Sigave)", annee: 2023, source: "https://www.insee.fr/fr/statistiques/7756937?sommaire=2121453"}
+surface_km2: {valeur: 142, annee: 2020, perimetre: "superficie totale des îles (Wallis 77,9 km², Futuna 46,3 km², Alofi 17,8 km²)", source: "https://www.ieom.fr/IMG/pdf/rapport-annuel-economique-wallis-et-futuna-2020.pdf"}
+resume: >-
+  Population des îles Wallis et Futuna, collectivité d'outre-mer française régie par la loi statutaire du 29 juillet 1961. La loi garantit le respect des croyances et des coutumes tant qu'elles ne sont pas contraires aux principes généraux du droit. Trois rois coutumiers (le Lavelua à Uvea, le Tuiagaifo à Alo, le Keletaona à Sigave) siègent au conseil territorial et président les conseils des trois circonscriptions, calquées sur les royaumes. La chefferie règle les questions foncières et les différends entre familles.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi n° 61-814 du 29 juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'outre-mer", nature: "statut_autonomie", annee: 1961, source: "https://www.ieom.fr/IMG/pdf/rapport-annuel-economique-wallis-et-futuna-2020.pdf"}
+  - {instrument: "Décret n° 62-287 du 14 mars 1962 (attributions du conseil territorial)", nature: "loi", annee: 1962, source: "https://www.ieom.fr/IMG/pdf/rapport-annuel-economique-wallis-et-futuna-2020.pdf"}
+  - {instrument: "Constitution française, art. 74 (collectivité d'outre-mer depuis la révision du 28 mars 2003)", nature: "constitution", annee: 2003, source: "https://www.ieom.fr/IMG/pdf/rapport-annuel-economique-wallis-et-futuna-2020.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le conseil territorial réunit les trois rois et trois membres nommés par le préfet après approbation de l'Assemblée territoriale ; chaque roi préside le conseil de sa circonscription (décret de 1962, loi de 1961). L'exécutif du territoire reste confié au représentant de l'État et le conseil territorial a un rôle consultatif.", source: "https://www.ieom.fr/IMG/pdf/rapport-annuel-economique-wallis-et-futuna-2020.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "conteste", note: "L'article 5 de la loi de 1961 institue une juridiction de droit local ; faute de consensus local, elle n'a jamais été mise en place.", source: "https://www.senat.fr/rap/r14-103/r14-103_mono.html"}
+  terres: {valeur: "partiel", note: "Le régime local des droits et biens fonciers relève de l'Assemblée territoriale ; l'essentiel des terres est divisé en propriétés familiales coutumières, perpétuelles et inaliénables, et la chefferie règle les litiges fonciers.", source: "https://www.senat.fr/rap/r14-103/r14-103_mono.html"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le président de la République a rappelé en 2016 que toute réforme de l'équilibre institutionnel issu de la loi de 1961 est soumise à l'approbation des autorités coutumières.", source: "https://www.ieom.fr/IMG/pdf/rapport-annuel-economique-wallis-et-futuna-2020.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les trois circonscriptions ont la personnalité morale et un budget autonome, mais aucune ressource fiscale propre ; elles dépendent des dotations de l'État. L'État verse une dotation annuelle aux rois et une indemnité aux ministres et chefs coutumiers.", source: "https://www.ieom.fr/IMG/pdf/rapport-annuel-economique-wallis-et-futuna-2020.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Les personnes relevant du statut de droit local conservent un statut civil coutumier ; ce statut figure parmi les compétences de l'Assemblée territoriale.", source: "https://www.senat.fr/rap/r14-103/r14-103_mono.html"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La loi de 1961 n'a pas fait l'objet de modifications majeures ; les projets de réforme se heurtent à l'attachement des autorités coutumières au texte d'origine. L'Assemblée territoriale a des attributions limitées : ses délibérations ne deviennent effectives qu'après approbation de l'administrateur supérieur.", source: "https://www.ieom.fr/IMG/pdf/rapport-annuel-economique-wallis-et-futuna-2020.pdf"}
+chronologie:
+  - {annee: 1842, evenement: "Première demande de protectorat émanant du roi de Wallis."}
+  - {annee: 1888, evenement: "Protectorat français."}
+  - {annee: 1959, evenement: "Référendum : la population choisit le statut de territoire d'outre-mer."}
+  - {annee: 1961, evenement: "Loi n° 61-814 du 29 juillet : statut de territoire d'outre-mer."}
+  - {annee: 2003, evenement: "Révision constitutionnelle : collectivité d'outre-mer (art. 74)."}
+  - {annee: 2023, evenement: "Recensement : 11 151 habitants dans 36 villages."}
+fiabilite:
+  verifie: ["Composition du conseil territorial, organisation des circonscriptions et de la chefferie (rapport annuel de l'IEOM 2020).", "Juridiction de droit local non installée, statut civil coutumier, propriété familiale (rapport du Sénat n° 103, 2014-2015).", "Population et liste des villages (Insee, 2023)."]
+  non_confirme: ["Texte consolidé de la loi de 1961 (Légifrance et site de la préfecture inaccessibles) : numéro exact des articles sur le statut personnel et les biens.", "Place des langues wallisienne et futunienne dans l'enseignement."]
+sources:
+  - {titre: "IEOM — Rapport annuel économique Wallis-et-Futuna 2020", url: "https://www.ieom.fr/IMG/pdf/rapport-annuel-economique-wallis-et-futuna-2020.pdf"}
+  - {titre: "Sénat — Les îles Wallis et Futuna : assurer le développement dans le respect des spécificités locales (rapport n° 103, 2014-2015)", url: "https://www.senat.fr/rap/r14-103/r14-103_mono.html"}
+  - {titre: "Insee — Populations légales des villages des îles Wallis et Futuna en 2023", url: "https://www.insee.fr/fr/statistiques/7756937?sommaire=2121453"}
+  - {titre: "Ministère des Outre-mer — Wallis-et-Futuna", url: "https://www.outre-mer.gouv.fr/territoires/wallis-et-futuna"}

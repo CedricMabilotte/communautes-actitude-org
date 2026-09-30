@@ -1,0 +1,53 @@
+uid: "itaukei-fidji"
+nom: "iTaukei de Fidji"
+endonyme: "iTaukei"
+territoire: "Îles Fidji"
+etats: ["Fidji"]
+region: "oceanie"
+coord: [-17.8, 178.0]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "mixte"
+population: {valeur: 555499, annee: 2017, perimetre: "personnes recensées comme iTaukei (62,8 % de la population)", source: "https://minorityrights.org/country/fiji-islands/"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: 2026, perimetre: "terres iTaukei, soit 91 % des terres de Fidji selon le Bureau fiduciaire des terres iTaukei ; aucune surface en km² publiée trouvée", source: "https://tltb.com.fj/corporate-profile/"}
+resume: >-
+  Peuple autochtone de Fidji, majoritaire dans la population. La Constitution de 2013 reconnaît dans son préambule les iTaukei et leur propriété des terres iTaukei, et interdit l'aliénation définitive de ces terres (art. 28). Les terres sont administrées pour leurs propriétaires coutumiers par le Bureau fiduciaire des terres iTaukei (iTaukei Land Trust Board), organisme créé en 1940. Le Grand Conseil des chefs (Bose Levu Vakaturaga), dissous en 2007, a été rétabli par une loi de 2023.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Fidji a ratifié la Convention n° 169 relative aux peuples indigènes et tribaux en 1998, seul État membre du Pacifique à l'avoir fait ; atelier de mise en œuvre à Suva avec des représentants iTaukei en août 2025", annee: 1998, source: "https://www.ilo.org/resource/news/fiji-advances-dialogue-indigenous-peoples-rights-under-ilo-convention-no"}
+base_nationale:
+  - {instrument: "Constitution de la République de Fidji (2013), préambule et art. 26, 28, 30 et 31", nature: "constitution", annee: 2013, source: "https://www.constituteproject.org/constitution/Fiji_2013"}
+  - {instrument: "iTaukei Lands Trust Act (Bureau fiduciaire des terres iTaukei, créé en 1940)", nature: "loi", annee: 1940, source: "https://tltb.com.fj/corporate-profile/"}
+  - {instrument: "iTaukei Affairs (Amendment) Act 2023 (rétablissement du Grand Conseil des chefs)", nature: "loi", annee: 2023, source: "https://pina.com.fj/2023/11/24/fiji-parliament-approves-reinstatement-of-great-council-of-chiefs/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Grand Conseil des chefs (Bose Levu Vakaturaga), rétabli par l'iTaukei Affairs (Amendment) Act 2023, est un organe consultatif sur les questions qui touchent les iTaukei.", source: "https://pina.com.fj/2023/11/24/fiji-parliament-approves-reinstatement-of-great-council-of-chiefs/"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "« La propriété de toutes les terres iTaukei demeure aux propriétaires coutumiers » ; ces terres ne peuvent être aliénées définitivement, sauf à l'État pour un usage public, et reviennent aux propriétaires quand l'État n'en a plus besoin (Constitution 2013, art. 28 al. 1 et 2).", source: "https://www.constituteproject.org/constitution/Fiji_2013"}
+  ressources: {valeur: "partiel", note: "Les minéraux appartiennent à l'État ; les propriétaires des terres coutumières et des droits de pêche coutumiers enregistrés ont droit à une part équitable des redevances d'extraction (Constitution 2013, art. 30).", source: "https://www.constituteproject.org/constitution/Fiji_2013"}
+  consentement: {valeur: "partiel", note: "La loi de 2023 impose au ministre de soumettre au Conseil des affaires iTaukei ou au Grand Conseil des chefs les projets de loi qui touchent les droits et intérêts des iTaukei ; leur mémorandum est versé au débat parlementaire.", source: "https://pina.com.fj/2023/11/24/fiji-parliament-approves-reinstatement-of-great-council-of-chiefs/"}
+  langue: {valeur: "partiel", note: "La Constitution est traduite en iTaukei (art. 3) ; l'iTaukei conversationnel est matière obligatoire dans toutes les écoles primaires, comme le hindi fidjien (art. 31 al. 3). L'anglais prévaut en cas de divergence.", source: "https://www.constituteproject.org/constitution/Fiji_2013"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Environ 90 % des terres appartiennent aux propriétaires coutumiers ; ils les louent le plus souvent par un système coordonné par l'État. Le Grand Conseil des chefs a été supprimé entre 2007 et 2023 (rapport du gouvernement australien, 2025).", source: "https://www.dfat.gov.au/sites/default/files/country-information-report-fiji.pdf"}
+chronologie:
+  - {annee: 1874, evenement: "Cession de Fidji à la Couronne britannique ; environ 83 % des terres reconnues aux groupes fonciers autochtones."}
+  - {annee: 1940, evenement: "Création du Bureau fiduciaire des terres autochtones (aujourd'hui iTaukei Land Trust Board)."}
+  - {annee: 1998, evenement: "Fidji ratifie la Convention n° 169 de l'OIT."}
+  - {annee: 2007, evenement: "Dissolution du Grand Conseil des chefs après le coup d'État de 2006."}
+  - {annee: 2013, evenement: "Nouvelle Constitution : terres iTaukei inaliénables (art. 28)."}
+  - {annee: 2023, evenement: "iTaukei Affairs (Amendment) Act : rétablissement du Grand Conseil des chefs (28 voix contre 22)."}
+fiabilite:
+  verifie: ["Préambule et art. 26, 28, 30, 31 de la Constitution de 2013 (texte Constitute Project).", "Ratification de la Convention n° 169 en 1998 (OIT).", "Rôle et part des terres gérées par le Bureau fiduciaire (site du Bureau).", "Vote de la loi de 2023 (PINA)."]
+  non_confirme: ["Texte consolidé de l'iTaukei Lands Trust Act et de l'iTaukei Affairs Act (base PacLII inaccessible).", "Rôle actuel des conseils provinciaux iTaukei.", "Nombre d'unités foncières coutumières (mataqali)."]
+sources:
+  - {titre: "Constitution de Fidji (2013) — Constitute Project", url: "https://www.constituteproject.org/constitution/Fiji_2013"}
+  - {titre: "OIT — Fiji advances dialogue on indigenous peoples' rights under ILO Convention No. 169 (2025)", url: "https://www.ilo.org/resource/news/fiji-advances-dialogue-indigenous-peoples-rights-under-ilo-convention-no"}
+  - {titre: "iTaukei Land Trust Board — Corporate profile", url: "https://tltb.com.fj/corporate-profile/"}
+  - {titre: "PINA — Fiji Parliament approves reinstatement of Great Council of Chiefs (2023)", url: "https://pina.com.fj/2023/11/24/fiji-parliament-approves-reinstatement-of-great-council-of-chiefs/"}
+  - {titre: "Minority Rights Group — Fiji", url: "https://minorityrights.org/country/fiji-islands/"}
+  - {titre: "DFAT — Country Information Report Fiji (2025)", url: "https://www.dfat.gov.au/sites/default/files/country-information-report-fiji.pdf"}

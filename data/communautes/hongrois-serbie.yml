@@ -1,0 +1,50 @@
+uid: "hongrois-serbie"
+nom: "Hongrois de Serbie"
+endonyme: "Vajdasági magyarok / Délvidéki magyarok"
+territoire: "Serbie, surtout la Province autonome de Voïvodine"
+etats: ["Serbie"]
+region: "europe"
+coord: [45.8, 19.8]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 184442, annee: 2022, perimetre: "personnes déclarant l'appartenance hongroise au recensement, Serbie entière", source: "https://www.stat.gov.rs/en-us/vesti/20230428-konacnirezpopisa/?a=0&s=1904"}
+lieux: {valeur: null, unite: "communes où le hongrois est en usage officiel", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "autonomie non territoriale", source: ""}
+resume: >-
+  La Constitution serbe de 2006 garantit aux minorités nationales des droits individuels et collectifs, dont l'élection de conseils nationaux dans la culture, l'éducation, l'information et l'usage officiel de la langue (art. 75). La loi de 2009 sur les conseils nationaux des minorités nationales en fait des organes investis de compétences publiques pour exercer le « droit collectif d'une minorité nationale à l'autogouvernement » dans ces domaines. Le Conseil national hongrois compte 35 membres. Un arrêt de la Cour constitutionnelle de 2014 a supprimé plusieurs de ses compétences.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Suivi de la Serbie au titre de la Convention-cadre ; avis du cinquième cycle du Comité consultatif adopté le 26 février 2025 et publié le 5 mai 2025.", annee: 2025, source: "https://www.coe.int/en/web/minorities/serbia"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République de Serbie (2006), art. 75, 79, 100 et 182", nature: "constitution", annee: 2006, source: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  - {instrument: "Loi sur les conseils nationaux des minorités nationales (Journal officiel n° 72/09, 20/14, 55/14 et 47/18)", nature: "loi", annee: 2009, source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les membres d'une minorité nationale élisent un conseil national pour exercer leur droit à l'autogouvernement dans la culture, l'éducation, l'information et l'usage officiel de la langue, Constitution, art. 75 ; loi sur les conseils nationaux, art. 1a et 2.", source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil national fixe les noms traditionnels des communes, localités et lieux dans la langue de la minorité ; ces noms deviennent officiels avec les noms serbes, loi sur les conseils nationaux, art. 22, al. 1.", source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le conseil national donne son consentement préalable à l'approbation des manuels et matériels pédagogiques dans la langue de la minorité ; sans réponse sous 30 jours, l'approbation est réputée donnée, loi sur les conseils nationaux, art. 14.", source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  langue: {valeur: "partiel", note: "Droit d'utiliser sa langue et d'obtenir des procédures dans cette langue devant les organes de l'État, Constitution, art. 79 ; le conseil national propose l'usage officiel de la langue dans une commune, loi sur les conseils nationaux, art. 22, al. 3.", source: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  education: {valeur: "partiel", note: "Le conseil national propose au ministre les programmes d'enseignement pour les contenus propres à la minorité et les programmes de langue, loi sur les conseils nationaux, art. 13 ; enseignement dans la langue de la minorité, Constitution, art. 79.", source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  fiscalite: {valeur: "partiel", note: "Les conseils nationaux sont financés par les budgets de la République, de la province autonome et des communes ; 30 % des crédits de l'État sont répartis à parts égales et 70 % selon la population et le nombre d'institutions, loi sur les conseils nationaux, art. 114 et 115 ; aucun pouvoir fiscal.", source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  representation: {valeur: "partiel", note: "L'Assemblée nationale assure la représentation des minorités nationales conformément à la loi, Constitution, art. 100.", source: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Un arrêt de la Cour constitutionnelle de 2014 a supprimé les compétences du Conseil national hongrois sur la création d'institutions et la gestion des médias ; la participation aux élections du conseil est passée de 55,45 % en 2010 à 40,60 % en 2014 (World Autonomies).", source: "https://www.world-autonomies.info/non-territorial-autonomies/serbia"}
+chronologie:
+  - {annee: 2006, evenement: "Constitution de la Serbie : art. 75 sur les conseils nationaux."}
+  - {annee: 2009, evenement: "Loi sur les conseils nationaux des minorités nationales."}
+  - {annee: 2010, evenement: "Première élection directe du Conseil national hongrois."}
+  - {annee: 2014, evenement: "Arrêt de la Cour constitutionnelle (Journal officiel 20/14) annulant plusieurs articles de la loi."}
+  - {annee: 2018, evenement: "Modification de la loi (Journal officiel 47/18)."}
+fiabilite:
+  verifie: ["Loi sur les conseils nationaux, texte consolidé non officiel en anglais publié par la Commission électorale de la République (art. 1, 1a, 2, 13, 14, 22, 114, 115).", "Constitution, art. 75, 79, 100 et 182 (Constitute Project).", "184 442 Hongrois au recensement de 2022 (Office statistique de la République)."]
+  non_confirme: ["Le texte de l'avis de 2025 du Comité consultatif sur la Serbie n'a pas été lu ; seule sa date a été vérifiée.", "Nombre de communes où le hongrois est en usage officiel et statut de la langue hongroise dans les organes de la Voïvodine : non vérifiés.", "Mécanisme électoral favorable aux listes des minorités (seuil) : texte non consulté."]
+sources:
+  - {titre: "Law on National Councils of National Minorities, texte consolidé en anglais — Commission électorale de la République", url: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  - {titre: "Constitution de la Serbie — Constitute Project", url: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  - {titre: "Final results of the Census 2022 — Office statistique de la République de Serbie", url: "https://www.stat.gov.rs/en-us/vesti/20230428-konacnirezpopisa/?a=0&s=1904"}
+  - {titre: "The National Councils of National Minorities in Serbia — World Autonomies (Eurac Research)", url: "https://www.world-autonomies.info/non-territorial-autonomies/serbia"}
+  - {titre: "Hungarians in Serbia — Minority Rights Group", url: "https://minorityrights.org/communities/hungarians/"}

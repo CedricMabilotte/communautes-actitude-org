@@ -1,0 +1,49 @@
+uid: "titre-autochtone-australie"
+nom: "Détenteurs du titre autochtone en Australie (native title)"
+endonyme: ""
+territoire: "Australie (zones où le titre autochtone a été reconnu)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-25.0, 134.0]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 295, unite: "organismes de gestion du titre autochtone enregistrés (RNTBC ou PBC)", annee: 2026, source: "https://nativetitle.org.au/find/pbc"}
+surface_km2: {valeur: 3321766, annee: 2023, perimetre: "surfaces où la Cour fédérale a déterminé que le titre autochtone existe, exclusif (1 133 105 km²) ou non exclusif (2 188 661 km²), au 1er avril 2023", source: "https://www.nntt.gov.au/Maps/Determinations_map.pdf"}
+resume: >-
+  Fiche agrégée. Depuis l'arrêt Mabo (1992) de la Haute Cour, qui a écarté la doctrine de la terra nullius, le droit australien reconnaît les droits des peuples aborigènes et des insulaires du détroit de Torres sur leurs terres et leurs eaux, antérieurs à la colonisation (titre autochtone, native title). Le Native Title Act 1993, loi fédérale, organise leur reconnaissance par la Cour fédérale, un droit de négocier sur certains projets et la gestion du titre par des personnes morales (Prescribed Bodies Corporate). Au 1er avril 2023, le titre autochtone était reconnu sur 3 321 766 km².
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le CERD relève des projets d'extraction menés sans consentement préalable, libre et éclairé sur des terres autochtones et recommande d'appliquer les principes de la Déclaration des Nations Unies sur les droits des peuples autochtones (CERD/C/AUS/CO/18-20)", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Native Title Act 1993 (loi fédérale)", nature: "loi", annee: 1993, source: "https://www.legislation.gov.au/C2004A04665/latest/text"}
+  - {instrument: "Mabo v Queensland (No 2), Haute Cour d'Australie, 1992", nature: "jurisprudence", annee: 1992, source: "https://www.clc.org.au/native-title/"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La Cour fédérale détermine l'existence du titre autochtone ; les détenteurs exercent leurs droits par une personne morale désignée (prescribed body corporate), en vertu du Native Title Act 1993. Le titre peut coexister avec un bail pastoral.", source: "https://www.clc.org.au/native-title/"}
+  ressources: {valeur: "partiel", note: "Selon les décisions de la Cour fédérale, les détenteurs du titre peuvent chasser, cueillir et utiliser les ressources de la terre, y compris à des fins économiques (Native Title Act 1993).", source: "https://www.clc.org.au/native-title/"}
+  consentement: {valeur: "partiel", note: "Droit de négocier sur certains actes futurs, dont les projets miniers (Native Title Act 1993, sous-division P, à partir de la s. 25), sans droit de veto.", source: "https://www.clc.org.au/native-title/"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le CERD relève en 2017 des projets d'extraction menés sans consentement préalable, libre et éclairé sur des terres autochtones.", source: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1992, evenement: "Arrêt Mabo (n° 2) de la Haute Cour."}
+  - {annee: 1993, evenement: "Native Title Act."}
+  - {annee: 1996, evenement: "Arrêt Wik : coexistence du titre autochtone et des baux pastoraux."}
+  - {annee: 2023, evenement: "Titre autochtone reconnu sur 3 321 766 km² (Tribunal national du titre autochtone)."}
+fiabilite:
+  verifie: ["Surfaces déterminées au 1er avril 2023 (carte du Tribunal national du titre autochtone).", "Nombre d'organismes de gestion enregistrés (annuaire nativetitle.org.au, consulté en 2026).", "Contenu général des droits et rôle des PBC (Central Land Council).", "Intitulés des s. 25, 56, 57 et 211 (table des matières officielle de la loi)."]
+  non_confirme: ["Nombre total de déterminations et de détenteurs du titre.", "Rédaction exacte des s. 25 à 44, 56, 57, 211 et 223 (texte intégral non lu).", "Les droits varient d'une détermination à l'autre ; cette fiche ne décrit que le cadre commun."]
+sources:
+  - {titre: "Native Title Act 1993 — Federal Register of Legislation", url: "https://www.legislation.gov.au/C2004A04665/latest/text"}
+  - {titre: "Tribunal national du titre autochtone — carte des déterminations (avril 2023)", url: "https://www.nntt.gov.au/Maps/Determinations_map.pdf"}
+  - {titre: "Native title — annuaire des PBC", url: "https://nativetitle.org.au/find/pbc"}
+  - {titre: "Central Land Council — Native title", url: "https://www.clc.org.au/native-title/"}
+  - {titre: "CERD — Observations finales sur l'Australie, CERD/C/AUS/CO/18-20 (2017)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}

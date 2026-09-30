@@ -1,0 +1,49 @@
+uid: "bangsamoro-philippines"
+nom: "Bangsamoro"
+endonyme: "Bangsamoro"
+territoire: "Région autonome bangsamoro en Mindanao musulman (BARMM)"
+etats: ["Philippines"]
+region: "asie"
+coord: [7.2, 124.2]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 5691583, annee: 2024, perimetre: "population de la région au recensement du 1er juillet 2024, province de Sulu et zone géographique spéciale incluses", source: "https://psa.gov.ph/content/highlights-bangsamoro-autonomous-region-muslim-mindanao-barmm-population-2024-census"}
+lieux: {valeur: 2595, unite: "barangays (Sulu inclus)", annee: 2024, source: "https://psa.gov.ph/content/highlights-bangsamoro-autonomous-region-muslim-mindanao-barmm-population-2024-census"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Bangsamoro sont les populations musulmanes originaires de Mindanao et de l'archipel de Sulu. La loi organique bangsamoro (Republic Act No. 11054, 2018) crée une région autonome à régime parlementaire, qui remplace la Région autonome en Mindanao musulman créée en 1989. Une autorité de transition gouverne la région depuis 2019. La province de Sulu en est exclue depuis une décision de la Cour suprême de septembre 2024.
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité des droits de l'homme, observations finales sur le cinquième rapport des Philippines (CCPR/C/PHL/CO/5), § 11-12 : justice transitionnelle et réconciliation pour la région autonome bangsamoro", annee: 2022, source: "https://docs.un.org/fr/CCPR/C/PHL/CO/5"}
+base_nationale:
+  - {instrument: "Constitution de 1987, article X, sections 15 à 21 (régions autonomes en Mindanao musulman et dans les Cordillères)", nature: "constitution", annee: 1987, source: "https://lawphil.net/consti/cons1987.html"}
+  - {instrument: "Republic Act No. 11054, loi organique de la Région autonome bangsamoro en Mindanao musulman", nature: "loi_organique", annee: 2018, source: "https://lawphil.net/statutes/repacts/ra2018/ra_11054_2018.html"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Parlement élu qui désigne un Chief Minister (ministre en chef) à la tête du cabinet, loi organique de 2018, art. VII, sections 2 à 4.", source: "https://lawphil.net/statutes/repacts/ra2018/ra_11054_2018.html"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le Parlement adopte des lois dans les domaines attribués par l'art. V, section 2, loi organique de 2018, art. VII, section 3 ; le président de la République garde un pouvoir de supervision générale (Constitution de 1987, art. X, section 16).", source: "https://lawphil.net/statutes/repacts/ra2018/ra_11054_2018.html"}
+  justice_propre: {valeur: "reconnu", note: "Tribunaux de la Shari'ah (droit musulman) et pouvoir du Parlement de légiférer sur la Shari'ah, loi organique de 2018, art. X, sections 2 et 4 ; bureau des systèmes de justice tribale, art. X, sections 17 et 18.", source: "https://lawphil.net/statutes/repacts/ra2018/ra_11054_2018.html"}
+  terres: {valeur: "partiel", note: "Compétence régionale sur le domaine ancestral (terres traditionnelles) et les ressources naturelles, dans le cadre de la Constitution, loi organique de 2018, art. V, section 2 (d) ; Constitution de 1987, art. X, section 20.", source: "https://lawphil.net/statutes/repacts/ra2018/ra_11054_2018.html"}
+  ressources: {valeur: "partiel", note: "Les recettes tirées des ressources naturelles reviennent au gouvernement bangsamoro, sauf l'uranium et les combustibles fossiles, cogérés avec l'État et partagés à parts égales, loi organique de 2018, art. XII, section 24, et art. XIII, sections 8 et 10.", source: "https://lawphil.net/statutes/repacts/ra2018/ra_11054_2018.html"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "Système éducatif régional intégré, sous-système du système national soumis aux normes minimales nationales, et système des madaris (écoles islamiques), loi organique de 2018, art. IX, sections 16 et 18.", source: "https://lawphil.net/statutes/repacts/ra2018/ra_11054_2018.html"}
+  fiscalite: {valeur: "reconnu", note: "Autonomie fiscale, pouvoir de lever des impôts, block grant (dotation globale annuelle) inscrite d'office au budget national et part de 75 % des impôts nationaux perçus dans la région, loi organique de 2018, art. XII, sections 1, 6, 10 et 15.", source: "https://lawphil.net/statutes/repacts/ra2018/ra_11054_2018.html"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Droit des descendants des habitants d'origine de Mindanao et de Sulu de s'identifier comme Bangsamoro, loi organique de 2018, art. II, section 1 ; compétence des tribunaux de la Shari'ah en matière de statut personnel entre musulmans, art. X, sections 5 et 6.", source: "https://lawphil.net/statutes/repacts/ra2018/ra_11054_2018.html"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "L'International Crisis Group (rapport n° 355, 2026) relève les reports successifs des premières élections parlementaires, le remplacement du ministre en chef issu du MILF par Manille en mars 2025, la sortie de Sulu et le blocage du désarmement des anciens combattants ; les premières élections parlementaires ont eu lieu en septembre 2026.", source: "https://www.crisisgroup.org/rpt/asia-pacific/philippines/355-peace-philippines-bangsamoros-moment-truth"}
+chronologie:
+  - {annee: 1987, evenement: "La Constitution prévoit une région autonome en Mindanao musulman (art. X)."}
+  - {annee: 2018, evenement: "Adoption de la loi organique bangsamoro (Republic Act No. 11054)."}
+  - {annee: 2019, evenement: "Ratification par plébiscite et installation de l'Autorité de transition bangsamoro."}
+  - {annee: 2024, evenement: "La Cour suprême confirme la validité de la loi organique et exclut la province de Sulu, qui l'avait rejetée au plébiscite."}
+  - {annee: 2026, evenement: "Premières élections du Parlement bangsamoro."}
+fiabilite:
+  verifie: ["Articles de la loi organique de 2018 cités (texte sur Lawphil).", "Constitution de 1987, art. X, sections 15 à 21.", "Mention du Bangsamoro dans CCPR/C/PHL/CO/5 (2022).", "Reports électoraux, sortie de Sulu et remplacement du ministre en chef (Crisis Group, 2026)."]
+  non_confirme: ["Date exacte du scrutin de septembre 2026 (14 ou 16 septembre selon les sources de presse) et composition définitive du Parlement.", "Population de la région après la sortie de Sulu : pas de chiffre officiel consulté.", "Texte de l'arrêt de la Cour suprême sur Sulu (G.R. No. 242255) : site de la Cour inaccessible, fait connu par Crisis Group."]
+sources:
+  - {titre: "Republic Act No. 11054 — Lawphil", url: "https://lawphil.net/statutes/repacts/ra2018/ra_11054_2018.html"}
+  - {titre: "Constitution des Philippines de 1987 — Lawphil", url: "https://lawphil.net/consti/cons1987.html"}
+  - {titre: "Comité des droits de l'homme, CCPR/C/PHL/CO/5 (2022)", url: "https://docs.un.org/fr/CCPR/C/PHL/CO/5"}
+  - {titre: "International Crisis Group, Peace in the Philippines: The Bangsamoro's Moment of Truth (2026)", url: "https://www.crisisgroup.org/rpt/asia-pacific/philippines/355-peace-philippines-bangsamoros-moment-truth"}
+  - {titre: "GMA News, résultats des élections parlementaires 2026", url: "https://www.gmanetwork.com/news/topstories/regions/1002392/live-updates-2026-barmm-parliamentary-election-results/story/"}

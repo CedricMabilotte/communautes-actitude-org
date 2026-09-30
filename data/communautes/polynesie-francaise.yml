@@ -1,0 +1,46 @@
+uid: "polynesie-francaise"
+nom: "Peuple de la Polynésie française"
+endonyme: "Mā’ohi"
+territoire: "Polynésie française"
+etats: ["France"]
+region: "oceanie"
+coord: [-17.6, -149.4]
+type: "peuple_territoire_non_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 279500, annee: 2024, perimetre: "population de la collectivité (estimation de l'Institut de la statistique de la Polynésie française, citée par l'ONU)", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/7&l=fr&t=pdf"}
+lieux: {valeur: 48, unite: "communes", annee: 2026, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/7&l=fr&t=pdf"}
+surface_km2: {valeur: 3500, annee: 2026, perimetre: "terres émergées des 118 îles (valeur approchée)", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/7&l=fr&t=pdf"}
+resume: >-
+  Collectivité d'outre-mer française dont l'autonomie relève de l'article 74 de la Constitution et de la loi organique du 27 février 2004. Elle dispose d'une assemblée, d'un gouvernement et d'un président propres. L'Assemblée générale des Nations unies l'a réinscrite sur la liste des territoires non autonomes par la résolution 67/265 du 17 mai 2013, à la demande de l'Assemblée de la Polynésie française (résolution du 18 août 2011).
+reconnaissance_onu:
+  - {mecanisme: "liste_tna", detail: "Résolution 67/265 « L'autodétermination de la Polynésie française » : réinscription sur la liste des territoires non autonomes", annee: 2013, source: "https://documents.un.org/api/symbol/access?s=A/RES/67/265&l=fr&t=pdf"}
+  - {mecanisme: "liste_tna", detail: "Résolution 79/104 « Question de la Polynésie française », qui rappelle le droit inaliénable du peuple à l'autodétermination et les conséquences des essais nucléaires", annee: 2024, source: "https://documents.un.org/api/symbol/access?s=A/RES/79/104&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française, examinée par la décision n° 2004-490 DC du Conseil constitutionnel", nature: "statut_autonomie", annee: 2004, source: "https://www.conseil-constitutionnel.fr/decision/2004/2004490DC.htm"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Assemblée, gouvernement et président de la Polynésie française ; compétence de principe dans toutes les matières non dévolues à l'État (loi organique de 2004, art. 13 et 14).", source: "https://www.conseil-constitutionnel.fr/decision/2004/2004490DC.htm"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'Assemblée adopte des « lois du pays » (art. 140) ; le Conseil constitutionnel précise en 2004 qu'elles gardent le caractère d'actes administratifs.", source: "https://www.conseil-constitutionnel.fr/decision/2004/2004490DC.htm"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Régime de déclaration des transferts fonciers et droit de préemption du conseil des ministres « dans le but de préserver l'appartenance de la propriété foncière au patrimoine culturel de la population » (art. 19).", source: "https://www.conseil-constitutionnel.fr/decision/2004/2004490DC.htm"}
+  ressources: {valeur: "partiel", note: "Les hydrocarbures liquides et gazeux sont exclus de la compétence de l'État (art. 14, 4°), sous réserve des prérogatives de sécurité et de défense.", source: "https://www.conseil-constitutionnel.fr/decision/2004/2004490DC.htm"}
+  consentement: {valeur: "partiel", note: "Consultation obligatoire des institutions de la Polynésie française sur les actes énumérés à l'art. 9 ; il s'agit d'un avis.", source: "https://www.conseil-constitutionnel.fr/decision/2004/2004490DC.htm"}
+  langue: {valeur: "partiel", note: "Le français est la langue officielle ; la langue tahitienne et les autres langues polynésiennes peuvent être utilisées et enseignées (art. 57).", source: "https://www.conseil-constitutionnel.fr/decision/2004/2004490DC.htm"}
+  education: {valeur: "partiel", note: "Enseignement du tahitien ou d'une autre langue polynésienne dans l'horaire normal des écoles, sans caractère obligatoire selon le Conseil constitutionnel (art. 57).", source: "https://www.conseil-constitutionnel.fr/decision/2004/2004490DC.htm"}
+  fiscalite: {valeur: "reconnu", note: "Impôts, droits et taxes perçus au profit du budget général de la Polynésie française, dont une quote-part alimente le fonds intercommunal de péréquation (art. 52).", source: "https://www.conseil-constitutionnel.fr/decision/2004/2004490DC.htm"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Mesures favorisant l'accès à l'emploi des personnes justifiant d'une durée suffisante de résidence (art. 18) ; aucune citoyenneté locale.", source: "https://www.conseil-constitutionnel.fr/decision/2004/2004490DC.htm"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "L'ONU affirme le droit du peuple à l'autodétermination et à l'indépendance (résolutions 67/265 et 79/104) ; aucun texte national ne prévoit de consultation sur l'indépendance.", source: "https://documents.un.org/api/symbol/access?s=A/RES/79/104&l=fr&t=pdf"}
+chronologie:
+  - {annee: 2004, evenement: "Loi organique n° 2004-192 portant statut d'autonomie ; décision 2004-490 DC du Conseil constitutionnel."}
+  - {annee: 2011, evenement: "L'Assemblée de la Polynésie française demande la réinscription sur la liste des territoires non autonomes (18 août)."}
+  - {annee: 2013, evenement: "Résolution 67/265 : réinscription (17 mai)."}
+  - {annee: 2024, evenement: "Résolution 79/104 « Question de la Polynésie française »."}
+fiabilite:
+  verifie: ["Articles 9, 13, 14, 18, 19, 52, 57 et 140 de la loi organique, tels que cités dans la décision 2004-490 DC.", "Texte des résolutions 67/265 et 79/104."]
+  non_confirme: ["Texte consolidé de la loi organique en vigueur en 2026 (Légifrance et Lexpol inaccessibles lors de la recherche).", "Population au dernier recensement.", "Endonyme « Mā’ohi » : usage attesté mais non consensuel."]
+sources:
+  - {titre: "Conseil constitutionnel — Décision n° 2004-490 DC du 12 février 2004", url: "https://www.conseil-constitutionnel.fr/decision/2004/2004490DC.htm"}
+  - {titre: "Résolution 67/265 « L'autodétermination de la Polynésie française » (2013)", url: "https://documents.un.org/api/symbol/access?s=A/RES/67/265&l=fr&t=pdf"}
+  - {titre: "Résolution 79/104 « Question de la Polynésie française » (2024)", url: "https://documents.un.org/api/symbol/access?s=A/RES/79/104&l=fr&t=pdf"}

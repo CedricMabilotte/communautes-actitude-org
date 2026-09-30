@@ -1,0 +1,49 @@
+uid: "mariannes-du-nord"
+nom: "Chamorros et Caroliniens des Mariannes du Nord"
+endonyme: ""
+territoire: "Commonwealth des Îles Mariannes du Nord"
+etats: ["États-Unis"]
+region: "oceanie"
+coord: [15.2, 145.7]
+type: "peuple_autochtone"
+types_secondaires: ["collectivite_insulaire_ou_regionale"]
+base: "mixte"
+population: {valeur: 47329, annee: 2020, perimetre: "population totale du Commonwealth, toutes origines ; le nombre de personnes d'ascendance nord-mariannaise n'est pas publié dans la source", source: "https://www.census.gov/newsroom/press-releases/2021/2020-census-cnmi.html"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Chamorros et Caroliniens, peuples autochtones des îles Mariannes du Nord, ancien élément du Territoire sous tutelle des îles du Pacifique administré par les États-Unis. Le Pacte (Covenant) de 1976 établit un Commonwealth en union politique avec les États-Unis ; la fin de la tutelle a été constatée par le Conseil de sécurité en 1990. La Constitution du Commonwealth réserve l'acquisition de droits permanents ou de longue durée sur les terres aux personnes « d'ascendance nord-mariannaise » (art. XII) et déclare les terres publiques propriété collective de ces personnes (art. XI). Le chamorro et le carolinien sont langues officielles avec l'anglais.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "accord_sous_egide", detail: "Résolution 683 du Conseil de sécurité : les populations des îles Mariannes septentrionales ont exercé leur droit à l'autodétermination en approuvant le pacte de Commonwealth par un plébiscite observé par une mission de visite du Conseil de tutelle ; l'accord de tutelle cesse de s'appliquer", annee: 1990, source: "https://documents.un.org/api/symbol/access?s=S/RES/683(1990)&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, art. VIII, s. 805", nature: "traite", annee: 1976, source: "https://cnmilaw.org/cons.php"}
+  - {instrument: "Constitution du Commonwealth des Îles Mariannes du Nord, art. XI, XII, XXII", nature: "constitution", annee: 1978, source: "https://cnmilaw.org/cons.php"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La Constitution, dont plusieurs dispositions sont imposées par le Covenant, établit un exécutif, une législature et une justice propres au Commonwealth ; ces institutions sont celles de tous les habitants, non des seuls Chamorros et Caroliniens. Un assistant exécutif aux affaires caroliniennes, agréé par la communauté carolinienne, conseille le gouverneur (art. III, s. 18).", source: "https://cnmilaw.org/cons.php"}
+  pouvoir_normatif: {valeur: "partiel", note: "La législature du Commonwealth adopte des lois dans le cadre du Covenant et du droit fédéral applicable.", source: "https://cnmilaw.org/cons.php"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "« L'acquisition de droits permanents et de longue durée sur les biens immobiliers du Commonwealth est réservée aux personnes d'ascendance nord-mariannaise » (art. XII, s. 1), en application du Covenant (s. 805) ; est d'ascendance nord-mariannaise un citoyen ou ressortissant des États-Unis ayant une ascendance chamorro ou carolinienne des Mariannes du Nord (art. XII, s. 4).", source: "https://cnmilaw.org/cons.php"}
+  ressources: {valeur: "partiel", note: "Les terres publiques et les terres submergées au large du Commonwealth appartiennent collectivement au peuple du Commonwealth d'ascendance nord-mariannaise (art. XI, s. 1) ; leur gestion a été confiée à une corporation publique dont les directeurs devaient être de cette ascendance et agir à son bénéfice (art. XI, s. 4) ; la Constitution prévoyait sa dissolution après douze ans et le transfert de ses fonctions à l'exécutif (s. 4 f)).", source: "https://cnmilaw.org/cons.php"}
+  consentement: {valeur: "conteste", note: "La Constitution réserve le vote sur les amendements à l'article XII aux électeurs d'ascendance nord-mariannaise (art. XVIII, s. 5 c)) ; la Cour d'appel du neuvième circuit a jugé cette restriction contraire au quinzième amendement en 2016 (Davis v. Commonwealth Election Commission).", source: "https://cdn.ca9.uscourts.gov/datastore/opinions/2016/12/27/14-16090.pdf"}
+  langue: {valeur: "reconnu", note: "« La langue officielle du Commonwealth est le chamorro, le carolinien et l'anglais » (art. XXII, s. 3).", source: "https://cnmilaw.org/cons.php"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Le gouverneur nomme, avec l'avis conforme du Sénat, un représentant résident pour les affaires autochtones, d'ascendance nord-mariannaise (art. III, s. 23) ; au moins un administrateur des organismes fonciers publics doit être d'ascendance carolinienne.", source: "https://cnmilaw.org/cons.php"}
+  statut_personnel: {valeur: "partiel", note: "Statut d'« ascendance nord-mariannaise » défini par la Constitution (art. XII, s. 4), certifié par la Cour supérieure pour les personnes de moins d'un quart d'ascendance ; il conditionne l'accès à la propriété foncière.", source: "https://cnmilaw.org/cons.php"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La restriction foncière de l'article XII reste en vigueur ; la Cour d'appel du neuvième circuit ne l'a pas examinée en 2016, mais a invalidé la réservation aux personnes d'ascendance nord-mariannaise du vote sur sa modification.", source: "https://cdn.ca9.uscourts.gov/datastore/opinions/2016/12/27/14-16090.pdf"}
+chronologie:
+  - {annee: 1947, evenement: "Accord de tutelle : Territoire sous tutelle des îles du Pacifique administré par les États-Unis."}
+  - {annee: 1976, evenement: "Covenant établissant le Commonwealth des Îles Mariannes du Nord."}
+  - {annee: 1990, evenement: "Résolution 683 du Conseil de sécurité : fin de la tutelle pour les Mariannes du Nord."}
+  - {annee: 2016, evenement: "Davis v. Commonwealth Election Commission : invalidation du vote réservé sur l'article XII."}
+  - {annee: 2020, evenement: "Recensement : 47 329 habitants."}
+fiabilite:
+  verifie: ["Entrée en vigueur de la Constitution le 9 janvier 1978 ; art. III s. 18 et 23, XI, XII, XVIII s. 5 c) et XXII s. 3 de la Constitution et citation du Covenant s. 805 (cnmilaw.org).", "Résolution 683 (1990) du Conseil de sécurité.", "Arrêt Davis v. Commonwealth Election Commission (2016).", "Recensement 2020 (U.S. Census Bureau)."]
+  non_confirme: ["Nombre de personnes d'ascendance nord-mariannaise.", "Surface terrestre."]
+sources:
+  - {titre: "Constitution du Commonwealth des Îles Mariannes du Nord — cnmilaw.org", url: "https://cnmilaw.org/cons.php"}
+  - {titre: "Conseil de sécurité — Résolution 683 (1990)", url: "https://documents.un.org/api/symbol/access?s=S/RES/683(1990)&l=fr&t=pdf"}
+  - {titre: "Davis v. Commonwealth Election Commission, 9e circuit (2016)", url: "https://cdn.ca9.uscourts.gov/datastore/opinions/2016/12/27/14-16090.pdf"}
+  - {titre: "U.S. Census Bureau — 2020 Census, Commonwealth of the Northern Mariana Islands", url: "https://www.census.gov/newsroom/press-releases/2021/2020-census-cnmi.html"}

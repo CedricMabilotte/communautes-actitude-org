@@ -1,0 +1,32 @@
+# Format d'un dossier thématique : data/dossiers/<slug>.yml — clés exactes, chaînes entre guillemets.
+slug: "entites-naturelles"
+titre: "Rivières, forêts, montagnes : quand une entité naturelle devient sujet de droit"
+chapeau: >-
+  Deux à trois phrases qui posent la question du dossier, factuelles.
+introduction: >-
+  Un à trois paragraphes (séparés par une ligne vide) : de quoi parle-t-on, quels mécanismes juridiques distingue-t-on, pourquoi ces communautés.
+mecanismes:            # typologie propre au dossier, 3 à 7 entrées ; chaque cas s'y rattache
+  - {cle: "personnalite_juridique", libelle: "Personnalité juridique", definition: "Une entité naturelle devient une personne au sens du droit, avec des représentants qui agissent en son nom."}
+concepts:              # notions des communautés elles-mêmes (dans leur langue), 1 ligne par concept
+  - {terme: "Te Awa Tupua", langue: "te reo māori", communautes: ["maori-aotearoa"], sens: "La rivière Whanganui comme un tout vivant et indivisible, des montagnes à la mer.", source: "https://..."}
+cas:
+  - id: "whanganui"                         # slug ASCII unique dans le dossier
+    atlas_uid: "maori-aotearoa"             # uid d'une fiche de l'atlas si elle existe, sinon ""
+    communaute: "Iwi de la Whanganui"
+    etats: ["Nouvelle-Zélande"]
+    entite: "Rivière Whanganui"
+    mecanisme: "personnalite_juridique"     # clé de la liste mecanismes
+    annee: 2017
+    concept_local: "Te Awa Tupua"
+    resume: >-
+      Trois à cinq phrases : ce que dit le texte, qui représente l'entité, quel rôle a la communauté.
+    gouvernance: "Qui agit au nom de l'entité (organe, composition)."
+    effectivite: "Ce qui s'applique réellement, avec source ; « inconnue » sinon."
+    textes:
+      - {titre: "Te Awa Tupua (Whanganui River Claims Settlement) Act 2017", nature: "loi", annee: 2017, source: "https://..."}
+    sources:
+      - {titre: "...", url: "https://..."}
+synthese: >-
+  Un à deux paragraphes : ce que les cas ont en commun, où ils divergent, sans conclusion militante.
+limites: ["Ce que le dossier ne couvre pas ou n'a pas pu vérifier."]
+candidats_atlas: ["communautés rencontrées qui mériteraient une fiche dans l'atlas, avec 1 ligne de justification"]

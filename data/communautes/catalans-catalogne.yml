@@ -1,0 +1,49 @@
+uid: "catalans-catalogne"
+nom: "Catalans de Catalogne"
+endonyme: "Catalans / Poble de Catalunya"
+territoire: "Communauté autonome de Catalogne"
+etats: ["Espagne"]
+region: "europe"
+coord: [41.8, 1.5]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 8210710, annee: 2026, perimetre: "population de la Catalogne (chiffre provisoire de l'Idescat)", source: "https://www.idescat.cat/indicadors/?id=aec&n=15223&lang=es"}
+lieux: {valeur: null, unite: "municipis", annee: null, source: ""}
+surface_km2: {valeur: 32108, annee: 2026, perimetre: "Catalogne (32 107,98 km²)", source: "https://www.idescat.cat/pub/?id=inddt&n=396"}
+resume: >-
+  Le Statut d'autonomie de 2006 (loi organique 6/2006) définit la Catalogne comme une nationalité qui exerce son autogouvernement en Communauté autonome. Le Parlement « représente le peuple de Catalogne » et vote les lois et le budget. Le catalan est langue propre et officielle avec le castillan ; l'aranais (occitan) est officiel en Catalogne et le Val d'Aran a un statut d'entité territoriale singulière. Le Tribunal constitutionnel a réduit la portée de plusieurs articles en 2010 et annulé en 2017 la loi catalane sur le référendum d'autodétermination.
+reconnaissance_regionale:
+  - {mecanisme: "charte_langues_regionales", detail: "La Charte européenne des langues régionales ou minoritaires couvre le catalan (Catalogne, Baléares, Communauté valencienne) et l'aranais ; rapport du Comité d'experts publié le 24 septembre 2024.", annee: 2024, source: "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/-/spain-s-system-to-protect-regional-and-minority-languages-is-well-developed-but-gaps-persist-in-justice-healthcare-and-public-administration-1"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Statut d'autonomie de la Catalogne (loi organique 6/2006 du 19 juillet)", nature: "statut_autonomie", annee: 2006, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
+  - {instrument: "Arrêt du Tribunal constitutionnel 114/2017 du 17 octobre 2017 (nullité de la loi catalane 19/2017)", nature: "jurisprudence", annee: 2017, source: "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12206"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Parlement de 100 à 150 députés élus au suffrage universel direct, qui représente le peuple de Catalogne, Statut, art. 55 et 56 ; la Generalitat est le système institutionnel de l'autogouvernement, art. 2.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le Parlement exerce le pouvoir législatif, Statut, art. 55 ; la Generalitat a la compétence exclusive sur le droit civil, sauf les matières réservées à l'État par l'article 149.1.8 de la Constitution, art. 129.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
+  justice_propre: {valeur: "partiel", note: "Le Tribunal supérieur de justice de Catalogne, juridiction de l'État, est l'organe où culmine l'organisation judiciaire en Catalogne, Statut, art. 95.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Compétence exclusive sur les eaux des bassins hydrographiques situés entièrement en Catalogne, Statut, art. 117 ; compétence partagée sur l'environnement et les ressources naturelles, art. 144.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
+  consentement: {valeur: "reconnu", note: "Toute réforme du Statut exige le vote des deux tiers du Parlement et un référendum positif des électeurs de Catalogne, Statut, art. 222 et 223.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
+  langue: {valeur: "reconnu", note: "Le catalan est la langue propre et officielle de la Catalogne avec le castillan ; l'occitan (aranais) est officiel, Statut, art. 6 ; le Tribunal constitutionnel a annulé le terme « préférente » à l'article 6.1 (arrêt 31/2010).", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
+  education: {valeur: "reconnu", note: "Compétence exclusive sur l'enseignement non universitaire dans les domaines énumérés, Statut, art. 131.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
+  fiscalite: {valeur: "partiel", note: "Finances autonomes, impôts propres et part des impôts de l'État cédés, Statut, art. 202 ; l'Agence fiscale de Catalogne gère les impôts propres et, par délégation, les impôts cédés, art. 204.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "La condition politique de Catalan est attribuée aux citoyens espagnols ayant leur domicile administratif en Catalogne et, sur demande, aux résidents à l'étranger dont c'était le dernier domicile, Statut, art. 7.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
+  autodetermination_externe: {valeur: "conteste", note: "La loi du Parlement de Catalogne 19/2017 « du référendum d'autodétermination » a été déclarée inconstitutionnelle et nulle en totalité par le Tribunal constitutionnel (arrêt 114/2017 du 17 octobre 2017).", source: "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12206"}
+effectivite: {valeur: "partielle", note: "Le Tribunal constitutionnel a restreint l'interprétation de plusieurs articles du Statut en 2010 (dont l'art. 6.1 et les art. 122 et 129) et annulé la loi référendaire de 2017 ; le Comité d'experts de la Charte relève en 2024 l'usage réduit des langues régionales dans la justice.", source: "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12206"}
+chronologie:
+  - {annee: 1979, evenement: "Premier Statut d'autonomie de la Catalogne."}
+  - {annee: 2006, evenement: "Nouveau Statut d'autonomie (loi organique 6/2006)."}
+  - {annee: 2010, evenement: "Arrêt 31/2010 du Tribunal constitutionnel sur le Statut (28 juin)."}
+  - {annee: 2017, evenement: "Loi catalane 19/2017 sur le référendum d'autodétermination (6 septembre), annulée par l'arrêt 114/2017 (17 octobre)."}
+fiabilite:
+  verifie: ["Statut de 2006, art. 1, 2, 6, 7, 11, 55, 56, 95, 117, 122, 129, 131, 144, 202, 204, 222 et 223, avec les mentions de l'arrêt 31/2010 (BOE, texte consolidé).", "Arrêt 114/2017 (BOE).", "Population provisoire 2026 et surface (Idescat)."]
+  non_confirme: ["Nombre de communes (947 selon les tableaux de l'Idescat) non relevé sur une page affichant ce total.", "Premier Statut de 1979 : date non vérifiée sur texte primaire.", "Le référendum du 1er octobre 2017 et la déclaration d'indépendance du 27 octobre 2017 ne sont pas traités ici."]
+sources:
+  - {titre: "Loi organique 6/2006, Statut d'autonomie de la Catalogne — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
+  - {titre: "Arrêt 114/2017 du Tribunal constitutionnel — BOE", url: "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12206"}
+  - {titre: "Population de la Catalogne — Idescat", url: "https://www.idescat.cat/indicadors/?id=aec&n=15223&lang=es"}
+  - {titre: "Superfície, densitat i entitats de població — Idescat", url: "https://www.idescat.cat/pub/?id=inddt&n=396"}
+  - {titre: "Rapport sur l'Espagne, Charte européenne des langues régionales ou minoritaires — Conseil de l'Europe", url: "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/-/spain-s-system-to-protect-regional-and-minority-languages-is-well-developed-but-gaps-persist-in-justice-healthcare-and-public-administration-1"}

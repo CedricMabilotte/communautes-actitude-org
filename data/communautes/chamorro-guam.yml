@@ -1,0 +1,51 @@
+uid: "chamorro-guam"
+nom: "Chamorros de Guam"
+endonyme: "CHamoru"
+territoire: "Guam"
+etats: ["États-Unis"]
+region: "oceanie"
+coord: [13.4, 144.8]
+type: "peuple_territoire_non_autonome"
+base: "territoriale"
+types_secondaires: ["peuple_autochtone"]
+population: {valeur: 153836, annee: 2020, perimetre: "population totale de Guam (toutes origines)", source: "https://www.census.gov/data/tables/2020/dec/2020-guam.html"}
+lieux: {valeur: 19, unite: "municipalités", annee: 2020, source: "https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/guam/population-and-housing-unit-counts/guam-phc-table01.pdf"}
+surface_km2: {valeur: 544, annee: 2026, perimetre: "terres émergées de Guam (TIGERweb, Bureau du recensement des États-Unis)", source: "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/0/query?where=STATE%3D%2766%27&outFields=NAME,AREALAND,AREAWATER&returnGeometry=false&f=json"}
+resume: >-
+  Guam est un territoire non incorporé des États-Unis (territoire soumis au pouvoir plénier du Congrès sans être intégré à l'Union), doté depuis l'Organic Act de 1950 d'un gouvernement élu. Les Chamorros sont le peuple autochtone de l'île. Une loi de Guam de 2000 prévoyait un plébiscite sur le statut politique réservé aux « habitants autochtones de Guam » ; la justice fédérale l'a invalidé en 2017, décision confirmée en 2019 et devenue définitive en 2020. Guam figure sur la liste des territoires non autonomes.
+reconnaissance_onu:
+  - {mecanisme: "liste_tna", detail: "Résolution 79/105 « Question de Guam » : mention du droit du peuple chamorro à l'autodétermination et de l'interruption du référendum après la décision fédérale", annee: 2024, source: "https://documents.un.org/api/symbol/access?s=A/RES/79/105&l=fr&t=pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Communication conjointe du 29 janvier 2021 adressée aux États-Unis par trois rapporteurs spéciaux, dont le Rapporteur spécial sur les droits des peuples autochtones, citée par la résolution 79/105", annee: 2021, source: "https://documents.un.org/api/symbol/access?s=A/RES/79/105&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Organic Act of Guam, Pub. L. 81-630 (48 U.S.C. §§ 1421-1424)", nature: "loi", annee: 1950, source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1421a&num=0&edition=prelim"}
+  - {instrument: "Chamorro Land Trust Act, Guam Pub. L. 12-226 (21 Guam Code Ann. §§ 75101-75125)", nature: "loi", annee: 1975, source: "https://cdn.ca9.uscourts.gov/datastore/opinions/2019/07/29/17-15719.pdf"}
+  - {instrument: "Davis v. Guam, Cour d'appel fédérale du neuvième circuit, n° 17-15719", nature: "jurisprudence", annee: 2019, source: "https://cdn.ca9.uscourts.gov/datastore/opinions/2019/07/29/17-15719.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'Organic Act de 1950 établit un exécutif, une législature et une justice pour le territoire, qui reste soumis au pouvoir plénier du Congrès (48 U.S.C. § 1421a) ; ces institutions sont celles de tous les habitants, non des seuls Chamorros.", source: "https://cdn.ca9.uscourts.gov/datastore/opinions/2019/07/29/17-15719.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La législature de Guam adopte des lois dans les limites de l'Organic Act (48 U.S.C. §§ 1422-1424) et du pouvoir plénier du Congrès.", source: "https://cdn.ca9.uscourts.gov/datastore/opinions/2019/07/29/17-15719.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La Chamorro Land Trust Commission, créée en 1975, attribue aux « Native Chamorros » des baux sur les terres saisies par les États-Unis pendant et après la Seconde Guerre mondiale puis rendues au gouvernement de Guam (21 Guam Code Ann. § 75101 et suiv.).", source: "https://cdn.ca9.uscourts.gov/datastore/opinions/2019/07/29/17-15719.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "La loi de Guam définit les « Native Chamorros », bénéficiaires du Chamorro Land Trust, comme les personnes devenues citoyennes des États-Unis par l'Organic Act et leurs descendants (Guam Pub. L. 15-118 de 1980, 21 Guam Code Ann. § 75101(d)).", source: "https://cdn.ca9.uscourts.gov/datastore/opinions/2019/07/29/17-15719.pdf"}
+  autodetermination_externe: {valeur: "conteste", note: "La loi de Guam de 2000 sur le plébiscite réservait le vote sur le statut politique aux « Native Inhabitants of Guam » ; la Cour d'appel du neuvième circuit juge en 2019 cette restriction contraire au quinzième amendement (Davis v. Guam).", source: "https://cdn.ca9.uscourts.gov/datastore/opinions/2019/07/29/17-15719.pdf"}
+effectivite: {valeur: "contestee", note: "L'Assemblée générale note que le référendum sur l'autodétermination a été interrompu après la décision fédérale, confirmée par la Cour suprême le 4 mai 2020, et que plus de 11 000 autochtones s'étaient inscrits auprès de la Commission guamienne de décolonisation (résolution 79/105).", source: "https://documents.un.org/api/symbol/access?s=A/RES/79/105&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1950, evenement: "Organic Act : gouvernement civil et citoyenneté des États-Unis."}
+  - {annee: 1975, evenement: "Création de la Chamorro Land Trust Commission."}
+  - {annee: 1987, evenement: "Référendum approuvant un projet de loi sur un État libre associé de Guam ; négociations closes en 1997."}
+  - {annee: 2000, evenement: "Loi de Guam sur le plébiscite de statut politique réservé aux habitants autochtones."}
+  - {annee: 2017, evenement: "Le tribunal fédéral de district de Guam invalide la restriction du corps électoral (Davis v. Guam, 8 mars)."}
+  - {annee: 2019, evenement: "Confirmation par la Cour d'appel du neuvième circuit (29 juillet)."}
+  - {annee: 2020, evenement: "La décision devient définitive devant la Cour suprême des États-Unis (4 mai)."}
+fiabilite:
+  verifie: ["Arrêt Davis v. Guam (9e circuit, 2019), y compris son exposé de l'Organic Act et du Chamorro Land Trust Act.", "Résolution 79/105 et ses renvois aux décisions de 2017, 2019 et 2020.", "Existence et intitulé de 48 U.S.C. § 1421a (uscode.house.gov)."]
+  non_confirme: ["Textes du Guam Code Annotated consultés directement (site du compilateur des lois inaccessible).", "Statut de la langue chamorro dans le droit de Guam.", "Population chamorro au recensement de 2020."]
+sources:
+  - {titre: "Davis v. Guam, n° 17-15719 (9e circuit, 29 juillet 2019)", url: "https://cdn.ca9.uscourts.gov/datastore/opinions/2019/07/29/17-15719.pdf"}
+  - {titre: "48 U.S.C. § 1421a — Office of the Law Revision Counsel", url: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1421a&num=0&edition=prelim"}
+  - {titre: "Résolution 79/105 « Question de Guam » (2024)", url: "https://documents.un.org/api/symbol/access?s=A/RES/79/105&l=fr&t=pdf"}

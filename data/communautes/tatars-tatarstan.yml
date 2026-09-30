@@ -1,0 +1,49 @@
+uid: "tatars-tatarstan"
+nom: "Tatars du Tatarstan"
+endonyme: "Tatarlar"
+territoire: "République du Tatarstan"
+etats: ["Russie"]
+region: "europe"
+coord: [55.5, 50.5]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2091175, annee: 2021, perimetre: "Tatars résidant dans la République, recensement de 2021 (53,6 % de la population)", source: "https://www.tatar-inform.ru/news/itogi-perepisi-2021-tatarstan-rastet-no-tatar-v-rossii-stalo-mense-5892351"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le Tatarstan est l'une des républiques de la Fédération de Russie. Son statut est fixé par la Constitution fédérale et par sa propre constitution (art. 66), et il exerce le plein pouvoir d'État hors des compétences fédérales et conjointes (art. 73). Le tatar y est langue d'État aux côtés du russe (art. 68 de la Constitution fédérale). En 2004, la Cour constitutionnelle a admis l'étude obligatoire du tatar dans les écoles de la République ; la loi fédérale de 2018 l'a rendue facultative.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Quatrième avis du Comité consultatif de la Convention-cadre sur la Fédération de Russie, ACFC/OP/IV(2018)001 : Tatars deuxième groupe national (3,87 %) ; protestations du Tatarstan contre la fin de l'enseignement obligatoire des langues des républiques ; la Russie a cessé d'être membre du Conseil de l'Europe en 2022", annee: 2018, source: "https://www.ecoi.net/en/document/2002328.html"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la Fédération de Russie, art. 5, 65, 66, 68 et 73", nature: "constitution", annee: 1993, source: "https://www.constituteproject.org/constitution/Russia_2014"}
+  - {instrument: "Constitution de la République du Tatarstan", nature: "statut_autonomie", annee: 1992, source: "https://eprints.gla.ac.uk/208165/1/208165.pdf"}
+  - {instrument: "Cour constitutionnelle de la Fédération de Russie, arrêt n° 16-P du 16 novembre 2004", nature: "jurisprudence", annee: 2004, source: "https://eprints.gla.ac.uk/208165/1/208165.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La République a sa propre constitution, qui fixe son statut avec la Constitution fédérale, art. 66 ; institutions territoriales de la République, non réservées aux Tatars.", source: "https://www.constituteproject.org/constitution/Russia_2014"}
+  pouvoir_normatif: {valeur: "partiel", note: "Hors des compétences fédérales et conjointes, les sujets de la Fédération exercent le plein pouvoir d'État, Constitution fédérale, art. 73 ; les lois fédérales priment dans les domaines conjoints.", source: "https://www.constituteproject.org/constitution/Russia_2014"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Les républiques peuvent établir leurs langues d'État, utilisées avec le russe dans leurs institutions, Constitution fédérale, art. 68(2) ; le tatar est langue d'État de la République, statut pris en compte par la Cour constitutionnelle en 2004.", source: "https://eprints.gla.ac.uk/208165/1/208165.pdf"}
+  education: {valeur: "conteste", note: "La Cour constitutionnelle a admis en 2004 l'étude obligatoire du tatar et du russe « à égalité » ; depuis la loi fédérale 317-FZ du 3 août 2018, l'étude des langues des républiques est facultative.", source: "https://eprints.gla.ac.uk/208165/1/208165.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité consultatif de la Convention-cadre (2018) relève qu'après le conflit de 2017 avec le gouvernement fédéral, l'enseignement obligatoire des secondes langues officielles des républiques n'est plus possible, malgré les protestations du Tatarstan.", source: "https://www.ecoi.net/en/document/2002328.html"}
+chronologie:
+  - {annee: 1993, evenement: "La Constitution fédérale fait du Tatarstan une république de la Fédération."}
+  - {annee: 2004, evenement: "La Cour constitutionnelle admet l'étude obligatoire du tatar (16 novembre)."}
+  - {annee: 2017, evenement: "Inspections du parquet sur l'enseignement obligatoire des langues des républiques."}
+  - {annee: 2018, evenement: "Loi fédérale 317-FZ rendant facultative l'étude des langues des républiques."}
+fiabilite:
+  verifie: ["Art. 66, 68 et 73 de la Constitution fédérale (Constitute Project, version de 2014).", "Arrêt de la Cour constitutionnelle de 2004 et loi 317-FZ de 2018 (Jankiewicz, Knyaginina et Prina, 2020).", "Avis du Comité consultatif de 2018 (ecoi.net).", "Nombre de Tatars au Tatarstan en 2021 (Tatar-inform, 10 janvier 2023)."]
+  non_confirme: ["Texte de la Constitution du Tatarstan non consulté directement (site officiel inaccessible) ; année 1992 non vérifiée.", "Traités de partage des compétences de 1994 et 2007 et leur expiration en 2017 : non vérifiés.", "Effets de la révision constitutionnelle fédérale de 2020 et de la loi de 2021 sur le pouvoir public (dont le changement du titre de président) : non analysés.", "Le rattachement d'une république territoriale à la communauté tatare est une lecture du cadre §0 à valider."]
+sources:
+  - {titre: "Constitution de la Fédération de Russie — Constitute Project", url: "https://www.constituteproject.org/constitution/Russia_2014"}
+  - {titre: "Jankiewicz, Knyaginina et Prina, Linguistic Rights and Education in the Republics of the Russian Federation, Review of Central and East European Law 45 (2020)", url: "https://eprints.gla.ac.uk/208165/1/208165.pdf"}
+  - {titre: "Comité consultatif de la Convention-cadre, quatrième avis sur la Fédération de Russie (2018) — ecoi.net", url: "https://www.ecoi.net/en/document/2002328.html"}
+  - {titre: "Итоги переписи-2021 — Tatar-inform (10 janvier 2023)", url: "https://www.tatar-inform.ru/news/itogi-perepisi-2021-tatarstan-rastet-no-tatar-v-rossii-stalo-mense-5892351"}

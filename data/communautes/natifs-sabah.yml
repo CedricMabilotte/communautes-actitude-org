@@ -1,0 +1,48 @@
+uid: "natifs-sabah"
+nom: "Peuples autochtones du Sabah (Kadazan-Dusun, Murut, Bajau et autres)"
+endonyme: ""
+territoire: "État du Sabah (Bornéo)"
+etats: ["Malaisie"]
+region: "asie"
+coord: [5.3, 117.0]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 1403600, annee: 2020, perimetre: "Kadazan-Dusun (698 300), Bajau (592 400) et Murut (112 900) recensés en Malaisie ; les autres groupes autochtones du Sabah ne sont pas comptés", source: "https://www.dosm.gov.my/portal-main/release-content/key-findings-population-and-housing-census-of-malaysia-2020-administrative-district"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution fédérale de Malaisie protège la « position spéciale » des natifs du Sabah et du Sarawak (art. 161A). Au Sabah, des tribunaux autochtones à trois niveaux, composés de chefs autochtones, jugent les atteintes au droit coutumier entre natifs selon la loi de 1992. L'ordonnance foncière du Sabah définit les droits coutumiers autochtones, permet des titres communaux et des réserves autochtones et interdit les transactions foncières entre natifs et non-natifs sans autorisation.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "La Malaisie vote pour la résolution 61/295 adoptant la Déclaration des Nations unies sur les droits des peuples autochtones (A/61/PV.107)", annee: 2007, source: "https://docs.un.org/fr/A/61/PV.107"}
+base_nationale:
+  - {instrument: "Constitution fédérale de Malaisie, art. 161 et 161A", nature: "constitution", annee: 1963, source: "https://www.constituteproject.org/constitution/Malaysia_2007"}
+  - {instrument: "Native Courts Enactment 1992 (Sabah)", nature: "loi", annee: 1992, source: "https://www.aseanlawassociation.org/wp-content/uploads/2019/11/ALA-MAL-legal-system-Part-3.pdf"}
+  - {instrument: "Land Ordinance (Cap. 68) du Sabah, sections 15, 17, 76 et 78", nature: "loi", annee: 1930, source: "https://sagc.sabah.gov.my/sites/default/files/law/Land%20Ordinance%20(Cap.68)_2.pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "partiel", note: "Le droit et la coutume autochtones sont appliqués par les tribunaux autochtones aux affaires entre natifs, Native Courts Enactment 1992 ; ces tribunaux n'ont pas compétence sur les matières des tribunaux civils et islamiques.", source: "https://www.aseanlawassociation.org/wp-content/uploads/2019/11/ALA-MAL-legal-system-Part-3.pdf"}
+  justice_propre: {valeur: "reconnu", note: "Tribunal autochtone, tribunal autochtone de district et cour d'appel autochtone, chacun composé de trois chefs autochtones ou chefs de village, Native Courts Enactment 1992.", source: "https://www.aseanlawassociation.org/wp-content/uploads/2019/11/ALA-MAL-legal-system-Part-3.pdf"}
+  terres: {valeur: "partiel", note: "Droits coutumiers autochtones définis par l'ordonnance foncière, s. 15 ; titres communaux « pour l'usage commun des natifs » inscrits au nom du Collector comme fiduciaire, sans pouvoir de vente, s. 76 ; réserves autochtones, s. 78 ; transactions entre natifs et non-natifs interdites sans autorisation ministérielle, s. 17.", source: "https://sagc.sabah.gov.my/sites/default/files/law/Land%20Ordinance%20(Cap.68)_2.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "La Constitution fédérale protège l'usage des langues autochtones devant les tribunaux du Sabah et du Sarawak, art. 161.", source: "https://www.constituteproject.org/constitution/Malaysia_2007"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Les tribunaux autochtones sont compétents pour les fiançailles, le mariage, le divorce, l'adoption, la tutelle et les successions entre natifs, Native Courts Enactment 1992.", source: "https://www.aseanlawassociation.org/wp-content/uploads/2019/11/ALA-MAL-legal-system-Part-3.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune évaluation indépendante de l'application au Sabah n'a été consultée.", source: ""}
+chronologie:
+  - {annee: 1963, evenement: "Le Sabah rejoint la Malaisie ; la Constitution fédérale protège la position spéciale des natifs (art. 161A)."}
+  - {annee: 1992, evenement: "Loi sur les tribunaux autochtones, qui remplace l'ordonnance de 1953."}
+fiabilite:
+  verifie: ["Sections 15, 17, 76 et 78 de l'ordonnance foncière (version de référence du procureur général du Sabah, décembre 2025).", "Organisation et compétence des tribunaux autochtones du Sabah (ASEAN Law Association).", "Vote de la Malaisie sur la résolution 61/295 (A/61/PV.107)."]
+  non_confirme: ["Texte de la Native Courts Enactment 1992 non consulté directement.", "Population : chiffres nationaux par groupe ; la part résidant au Sabah et les autres groupes (Rungus, Orang Sungai, etc.) ne sont pas établis.", "Année d'origine de l'ordonnance foncière (Cap. 68) : 1930, non vérifiée sur le texte."]
+sources:
+  - {titre: "Land Ordinance (Cap. 68) — State Attorney-General's Chambers, Sabah", url: "https://sagc.sabah.gov.my/sites/default/files/law/Land%20Ordinance%20(Cap.68)_2.pdf"}
+  - {titre: "ASEAN Law Association, Malaysian Legal System, Part 3 (tribunaux spécialisés)", url: "https://www.aseanlawassociation.org/wp-content/uploads/2019/11/ALA-MAL-legal-system-Part-3.pdf"}
+  - {titre: "Constitution fédérale de Malaisie — Constitute Project", url: "https://www.constituteproject.org/constitution/Malaysia_2007"}
+  - {titre: "Key Findings Population and Housing Census of Malaysia 2020 — DOSM", url: "https://www.dosm.gov.my/portal-main/release-content/key-findings-population-and-housing-census-of-malaysia-2020-administrative-district"}
+  - {titre: "Assemblée générale, A/61/PV.107 (13 septembre 2007)", url: "https://docs.un.org/fr/A/61/PV.107"}

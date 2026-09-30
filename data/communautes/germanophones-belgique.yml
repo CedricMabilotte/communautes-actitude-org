@@ -1,0 +1,46 @@
+uid: "germanophones-belgique"
+nom: "Communauté germanophone de Belgique"
+endonyme: "Deutschsprachige Gemeinschaft (Ostbelgien)"
+territoire: "Région de langue allemande (cantons d'Eupen et de Saint-Vith)"
+etats: ["Belgique"]
+region: "europe"
+coord: [50.4, 6.2]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 78144, annee: 2021, perimetre: "habitants de la région de langue allemande au 1er janvier", source: "https://ostbelgienstatistik.be/desktopdefault.aspx/tabid-2569/4686_read-32765/"}
+lieux: {valeur: 9, unite: "communes", annee: 2024, source: "https://www.coe.int/fr/web/portal/belgianchairmanship-germanspeakingcommunity"}
+surface_km2: {valeur: 854, annee: 2024, perimetre: "région de langue allemande", source: "https://www.coe.int/fr/web/portal/belgianchairmanship-germanspeakingcommunity"}
+resume: >-
+  La Constitution belge compte trois communautés, dont la Communauté germanophone (art. 2), et quatre régions linguistiques, dont la région de langue allemande (art. 4). La Communauté a un parlement et un gouvernement propres. Son parlement adopte des décrets (lois fédérées) en matière culturelle, d'enseignement, de matières personnalisables (santé, aide sociale, famille) et d'emploi des langues dans l'enseignement (art. 130). Elle exerce aussi des compétences transférées par la Région wallonne (art. 139).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la Belgique (1994), art. 2, 4, 67, 115, 121, 130 et 139", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Belgium_2014"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Parlement de la Communauté germanophone et gouvernement propre, Constitution, art. 115 et 121 ; le parlement compte 25 membres élus au suffrage universel direct.", source: "https://www.constituteproject.org/constitution/Belgium_2014"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le parlement règle par décret les matières culturelles, les matières personnalisables, l'enseignement et l'emploi des langues dans l'enseignement, Constitution, art. 130 § 1 ; il peut exercer des compétences de la Région wallonne par accord, art. 139.", source: "https://www.constituteproject.org/constitution/Belgium_2014"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Les limites des régions linguistiques, dont la région de langue allemande, ne peuvent être modifiées que par une loi adoptée à la majorité dans chaque groupe linguistique des chambres, Constitution, art. 4 ; la Communauté germanophone n'a pas de groupe linguistique propre au Parlement fédéral.", source: "https://www.constituteproject.org/constitution/Belgium_2014"}
+  langue: {valeur: "reconnu", note: "La région de langue allemande est une des quatre régions linguistiques, Constitution, art. 4 ; le parlement de la Communauté règle l'emploi des langues dans l'enseignement, art. 130 § 1, 5°.", source: "https://www.constituteproject.org/constitution/Belgium_2014"}
+  education: {valeur: "reconnu", note: "L'enseignement relève du parlement de la Communauté, dans les limites de l'article 127 (âge de l'obligation scolaire, diplômes, pensions des enseignants restent fédéraux), Constitution, art. 130 § 1, 3°.", source: "https://www.constituteproject.org/constitution/Belgium_2014"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Le parlement de la Communauté germanophone désigne un sénateur parmi ses membres, Constitution, art. 67.", source: "https://www.constituteproject.org/constitution/Belgium_2014"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Conseil de l'Europe décrit une communauté de près de 77 000 habitants dotée d'un parlement et d'un gouvernement, compétente pour la culture, l'enseignement, la formation et l'emploi, la famille, les affaires sociales et la tutelle des pouvoirs locaux.", source: "https://www.coe.int/fr/web/portal/belgianchairmanship-germanspeakingcommunity"}
+chronologie:
+  - {annee: 1919, evenement: "Les cantons d'Eupen et de Malmedy sont rattachés à la Belgique par le traité de Versailles."}
+  - {annee: 1970, evenement: "Première réforme de l'État : création des communautés culturelles, dont la communauté culturelle allemande."}
+  - {annee: 1984, evenement: "Élection du premier Conseil de la Communauté germanophone doté d'un gouvernement."}
+  - {annee: 1994, evenement: "Constitution coordonnée : art. 2, 4, 130 et 139."}
+fiabilite:
+  verifie: ["Constitution belge, art. 2, 4, 67, 115, 121, 130 et 139 (Constitute Project).", "Population au 1er janvier 2021 (Ostbelgien Statistik).", "Neuf communes et 854 km² (Conseil de l'Europe, page de la présidence belge)."]
+  non_confirme: ["Financement de la Communauté (dotations fédérales, pouvoir fiscal éventuel, art. 170 et 176 de la Constitution) : texte non consulté.", "Dates de 1970 et 1984 tirées de l'historique courant, non vérifiées sur texte primaire.", "La page de l'Ostbelgien Statistik consultée dénombre huit communes ; le Conseil de l'Europe en dénombre neuf (Eupen, La Calamine, Lontzen, Raeren, Amblève, Bullange, Burg-Reuland, Butgenbach, Saint-Vith)."]
+sources:
+  - {titre: "Constitution de la Belgique — Constitute Project", url: "https://www.constituteproject.org/constitution/Belgium_2014"}
+  - {titre: "La Communauté germanophone — Conseil de l'Europe", url: "https://www.coe.int/fr/web/portal/belgianchairmanship-germanspeakingcommunity"}
+  - {titre: "Bevölkerungsstruktur — Ostbelgien Statistik", url: "https://ostbelgienstatistik.be/desktopdefault.aspx/tabid-2569/4686_read-32765/"}
+  - {titre: "Belgique : la Communauté germanophone — L'aménagement linguistique dans le monde (Université Laval)", url: "https://www.axl.cefan.ulaval.ca/europe/belgiqueger.htm"}

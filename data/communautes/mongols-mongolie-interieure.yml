@@ -1,0 +1,51 @@
+uid: "mongols-mongolie-interieure"
+nom: "Mongols de Mongolie-Intérieure"
+endonyme: "Mongol"
+territoire: "Région autonome de Mongolie-Intérieure"
+etats: ["Chine"]
+region: "asie"
+coord: [44.0, 113.0]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 4247815, annee: 2020, perimetre: "Mongols résidant dans la région, septième recensement (17,66 % de la population)", source: "https://m.hu.bendibao.com/news/44808.shtm"}
+lieux: {valeur: 12, unite: "villes et ligues de niveau préfecture", annee: 2019, source: "https://fdi.mofcom.gov.cn/resource/pdf/2019/12/28/de1baa6f65d849a1af2e751465750203.pdf"}
+surface_km2: {valeur: 1183000, annee: 2019, perimetre: "superficie terrestre de la région autonome", source: "https://fdi.mofcom.gov.cn/resource/pdf/2019/12/28/de1baa6f65d849a1af2e751465750203.pdf"}
+resume: >-
+  Les Mongols sont l'une des nationalités minoritaires reconnues par la Chine. La Région autonome de Mongolie-Intérieure, créée en 1947, relève du système d'autonomie régionale des nationalités prévu par la Constitution (art. 4 et 112 à 122) et par la loi de 1984 modifiée en 2001. Le droit prévoit des organes d'autogouvernement, un pouvoir de réglementation soumis à l'approbation du Comité permanent de l'Assemblée populaire nationale, la gestion des pâturages et l'usage des langues locales. La région n'a jamais fait approuver de règlement d'autonomie ; le vingtième projet date de 1993.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/CHN/CO/14-17, § 45-46 : violations contre des Mongols manifestant contre la confiscation de terres, réduction de l'enseignement public en langue mongole ; § 26 : indemnisation insuffisante des éleveurs mongols réinstallés", annee: 2018, source: "https://docs.un.org/fr/CERD/C/CHN/CO/14-17"}
+base_nationale:
+  - {instrument: "Constitution de la République populaire de Chine, art. 4 et 112 à 122", nature: "constitution", annee: 1982, source: "https://www.constituteproject.org/constitution/China_2018"}
+  - {instrument: "Loi sur l'autonomie régionale des nationalités (1984, modifiée en 2001)", nature: "loi", annee: 2001, source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Organes d'autogouvernement (assemblée populaire et gouvernement de la région) ; le président de la région est un citoyen de la nationalité qui exerce l'autonomie (mongole), Constitution, art. 112 et 114 ; loi sur l'autonomie régionale, art. 16 et 17 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  pouvoir_normatif: {valeur: "conteste", note: "L'assemblée peut adopter des règlements d'autonomie soumis à l'approbation du Comité permanent de l'Assemblée populaire nationale, loi sur l'autonomie régionale, art. 19 ; la Mongolie-Intérieure a rédigé vingt projets entre 1980 et 1993 sans en faire adopter aucun (Yang Feng, 2017).", source: "http://manoa.hawaii.edu/aplpj/wp-content/uploads/sites/120/2017/06/2017-0531-APLPJ-Volume-18.2-3-Feng-compressed.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les organes d'autogouvernement définissent, conformément à la loi, la propriété et le droit d'usage des pâturages et des forêts, loi sur l'autonomie régionale, art. 27 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  ressources: {valeur: "partiel", note: "Gestion et protection des ressources naturelles et priorité d'exploitation dans le cadre des plans de l'État, loi sur l'autonomie régionale, art. 28 ; compensation due par l'État pour les ressources transférées hors de la région, art. 65 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Les tribunaux et parquets des zones autonomes utilisent la langue d'usage courant dans la localité, loi sur l'autonomie régionale, art. 47 ; usage des langues locales par les organes d'autogouvernement, Constitution, art. 121.", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  education: {valeur: "partiel", note: "Les organes d'autogouvernement décident, selon les orientations de l'État, des programmes, des écoles et de la langue d'enseignement, loi sur l'autonomie régionale, art. 36 et 37 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  fiscalite: {valeur: "partiel", note: "Les finances de la zone autonome forment un niveau propre ; les recettes qui lui reviennent sont gérées par les organes d'autogouvernement, loi sur l'autonomie régionale, art. 32 (2001) ; Constitution, art. 117.", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Le CERD (2018) relève des violations contre des Mongols qui manifestaient contre la confiscation de terres et une réduction sensible de l'enseignement public en langue mongole, et recommande de garantir cet enseignement.", source: "https://docs.un.org/fr/CERD/C/CHN/CO/14-17"}
+chronologie:
+  - {annee: 1947, evenement: "Création de la Région autonome de Mongolie-Intérieure."}
+  - {annee: 1982, evenement: "La Constitution consacre l'autonomie régionale des nationalités."}
+  - {annee: 1993, evenement: "Vingtième projet de règlement d'autonomie, puis suspension des travaux."}
+  - {annee: 2001, evenement: "Révision de la loi sur l'autonomie régionale."}
+  - {annee: 2018, evenement: "Observations du CERD sur les Mongols."}
+fiabilite:
+  verifie: ["Articles 16, 17, 19, 27, 28, 32, 36, 37, 47 et 65 de la loi sur l'autonomie régionale, version de 2001 (Wikisource).", "CERD/C/CHN/CO/14-17, § 26 et 45-46.", "Projets de règlement d'autonomie de 1980 à 1993 (Yang Feng, 2017).", "Population au septième recensement (communiqué reproduit par bendibao.com) et superficie (fiche du ministère du Commerce)."]
+  non_confirme: ["Communiqué du recensement consulté sur un site de reprise et non sur le site du bureau statistique régional, inaccessible.", "Réforme de 2020 de l'enseignement bilingue en Mongolie-Intérieure : non vérifiée sur un texte officiel.", "Année de création 1947 : non vérifiée sur une source primaire.", "La fiche couvre la région ; les Mongols des préfectures et districts autonomes du Xinjiang, du Qinghai, du Gansu et du Liaoning ne sont pas traités."]
+sources:
+  - {titre: "Constitution de la République populaire de Chine — Constitute Project", url: "https://www.constituteproject.org/constitution/China_2018"}
+  - {titre: "Loi sur l'autonomie régionale des nationalités (2001) — Wikisource", url: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  - {titre: "Yang Feng, The Legislation in Autonomous Areas of China, Asian-Pacific Law & Policy Journal, vol. 18 (2017)", url: "http://manoa.hawaii.edu/aplpj/wp-content/uploads/sites/120/2017/06/2017-0531-APLPJ-Volume-18.2-3-Feng-compressed.pdf"}
+  - {titre: "CERD/C/CHN/CO/14-17 (2018)", url: "https://docs.un.org/fr/CERD/C/CHN/CO/14-17"}
+  - {titre: "Communiqué du septième recensement de Mongolie-Intérieure — bendibao.com", url: "https://m.hu.bendibao.com/news/44808.shtm"}
+  - {titre: "内蒙古概况 — ministère du Commerce (2019)", url: "https://fdi.mofcom.gov.cn/resource/pdf/2019/12/28/de1baa6f65d849a1af2e751465750203.pdf"}

@@ -1,0 +1,47 @@
+uid: "hadzabe-tanzanie"
+nom: "Hadza"
+endonyme: "Hadzabe"
+territoire: "Vallée de Yaeda et bassin du lac Eyasi (nord de la Tanzanie)"
+etats: ["Tanzanie"]
+region: "afrique"
+coord: [-3.8, 35.2]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1300, annee: 2018, perimetre: "estimation du nombre total de Hadza", source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/securing-hadza-land-titles-securing-futures-tanzania"}
+lieux: {valeur: 12, unite: "titres fonciers communautaires (certificats de droit coutumier d'occupation), dont certains délivrés à des groupes datoga voisins", annee: 2016, source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/securing-hadza-land-titles-securing-futures-tanzania"}
+surface_km2: {valeur: 809, annee: 2018, perimetre: "plus de 200 000 acres couverts par les 8 certificats collectifs de droit coutumier d'occupation obtenus depuis 2011 (conversion de l'unité)", source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/securing-hadza-land-titles-securing-futures-tanzania"}
+resume: >-
+  Les Hadza sont un peuple de chasseurs-cueilleurs du nord de la Tanzanie, dans la vallée de Yaeda et autour du lac Eyasi.
+  Aucun texte tanzanien trouvé ne reconnaît de peuples autochtones ; la loi de 1999 sur les terres villageoises permet de délivrer des certificats de droit coutumier d'occupation (titres fonciers fondés sur la coutume) à des groupes reconnus par le droit coutumier.
+  En 2011, des communautés hadza ont obtenu les premiers titres de ce type délivrés à des chasseurs-cueilleurs dans le pays ; en 2016, le ministre des Terres a remis d'autres titres communautaires aux Hadza et aux Datoga voisins.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Village Land Act (loi sur les terres villageoises), chap. 114, art. 12-13, 22, 25 et 27", nature: "loi", annee: 1999, source: "https://www.lands.go.tz/uploads/documents/sw-1682059676-The%20Village%20Land%20Act%201999.%20Cap%20114.pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Art. 22 de la loi de 1999 : un groupe reconnu par le droit coutumier peut obtenir un droit coutumier d'occupation ; art. 25 : certificat délivré par le conseil de village ; art. 27 : droit présumé à durée indéfinie. Les titres hadza de 2011 couvrent des zones d'habitat, de pâture et de chasse-cueillette utilisables par les Hadza des villages concernés.", source: "https://namati.org/news-stories/ucrt-case-study/"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les Hadza ont perdu environ 90 % de leurs terres ancestrales ; les titres obtenus depuis 2011 en couvrent environ 10 %. Un projet de crédits carbone géré par Carbon Tanzania finance 33 gardes communautaires.", source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/securing-hadza-land-titles-securing-futures-tanzania"}
+chronologie:
+  - {annee: 1999, evenement: "Loi sur les terres villageoises."}
+  - {annee: 2011, evenement: "Premiers certificats de droit coutumier d'occupation délivrés à des communautés hadza (villages de Mongo wa Mono et Domanga)."}
+  - {annee: 2016, evenement: "Remise par le ministre des Terres de titres communautaires aux Hadza et aux Datoga du bassin du lac Eyasi."}
+fiabilite:
+  verifie: ["Art. 12-13, 22, 25 et 27 de la loi de 1999 (site du ministère des Terres).", "Titres de 2011 et zonage (Namati).", "Chiffres de 2016 et part des terres (Cultural Survival, 2018)."]
+  non_confirme: ["La Tanzanie a voté pour la DNUDPA en 2007 (A/61/PV.107), mais aucun texte national reconnaissant les Hadza comme autochtones n'a été trouvé : aucun mécanisme onusien retenu.", "Surface : Namati indique 23 000 ha pour les trois premiers titres (2011), Cultural Survival 57 000 acres ; le chiffre de 2016 inclut des titres datoga.", "Population : 1 300 à 1 500 selon les sources (Minority Rights Group, Namati).", "Nombre exact de titres délivrés aux seuls Hadza : non établi."]
+sources:
+  - {titre: "Village Land Act 1999, chap. 114 — Ministère des Terres de Tanzanie", url: "https://www.lands.go.tz/uploads/documents/sw-1682059676-The%20Village%20Land%20Act%201999.%20Cap%20114.pdf"}
+  - {titre: "Namati — Securing collective land tenure for hunter-gatherers in Tanzania", url: "https://namati.org/news-stories/ucrt-case-study/"}
+  - {titre: "Cultural Survival — Securing Hadza land titles, securing futures in Tanzania (2018)", url: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/securing-hadza-land-titles-securing-futures-tanzania"}
+  - {titre: "Minority Rights Group — Hadza/Hadzabe", url: "https://minorityrights.org/communities/hadza-hadzabe/"}

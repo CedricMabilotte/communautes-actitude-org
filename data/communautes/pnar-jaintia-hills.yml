@@ -1,0 +1,49 @@
+uid: "pnar-jaintia-hills"
+nom: "Pnar (Jaintia)"
+endonyme: "Pnar"
+territoire: "Jaintia Hills, Meghalaya"
+etats: ["Inde"]
+region: "asie"
+coord: [25.4, 92.3]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 395124, annee: 2011, perimetre: "population totale des districts de West et East Jaintia Hills, toutes communautés", source: "https://meghalaya.gov.in/index.php/districts"}
+lieux: {valeur: 2, unite: "districts", annee: 2022, source: "https://meghalaya.gov.in/index.php/districts"}
+surface_km2: {valeur: 3819, annee: 2022, perimetre: "somme des superficies des districts de West et East Jaintia Hills", source: "https://meghalaya.gov.in/index.php/districts"}
+resume: >-
+  Les Pnar, aussi appelés Jaintia, vivent à l'est du Meghalaya. Le Jaintia Hills Autonomous District Council, issu en 1967 de la division du conseil créé en 1952 en application de la Sixième annexe de la Constitution, couvre deux districts. Il légifère sur les terres, les forêts non classées, les chefs et les coutumes, et fait fonctionner des tribunaux coutumiers. Ses recettes proviennent surtout de sa part des redevances minières.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/IND/CO/19, § 10 : recommande de reconnaître les peuples tribaux et les « tribus énumérées » comme groupes ayant droit à une protection spéciale ; § 12 et 19 sur les États du nord-est", annee: 2007, source: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+base_nationale:
+  - {instrument: "Constitution de l'Inde, art. 244 (2) et Sixième annexe", nature: "constitution", annee: 1950, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Conseil de district d'au plus trente membres, dont quatre au plus nommés par le gouverneur et les autres élus au suffrage universel, Sixième annexe (régime des districts tribaux autonomes), paragraphe 2 (1).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil légifère sur les terres hors forêts classées, les forêts non classées, la culture itinérante (jhum), l'administration des villages, la désignation des chefs, l'héritage, le mariage et les coutumes, Sixième annexe, paragraphe 3 ; au Meghalaya, une loi de l'État contraire l'emporte sur la loi du conseil, paragraphe 12A (a).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  justice_propre: {valeur: "reconnu", note: "Tribunaux de village, tribunaux subordonnés et tribunal du conseil de district pour les litiges entre membres des tribus répertoriées, Sixième annexe, paragraphe 4 ; les trois conseils du Meghalaya les font fonctionner selon les coutumes (communiqué du gouvernement du Meghalaya, 2019).", source: "https://www.meghalaya.gov.in/sites/default/files/press_release/Seminar_on_District_Council_Courts.pdf"}
+  terres: {valeur: "partiel", note: "Compétence législative sur l'attribution, l'occupation et l'usage des terres hors forêts classées, Sixième annexe, paragraphe 3 (1) (a) ; l'État conserve le pouvoir d'expropriation pour cause d'utilité publique.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  ressources: {valeur: "partiel", note: "Gestion des forêts non classées et usage des canaux pour l'agriculture, Sixième annexe, paragraphe 3 (1) (b) et (c) ; part des redevances minières fixée par accord avec l'État, ou par le gouverneur en cas de désaccord, paragraphe 9.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "Le conseil peut créer et gérer des écoles primaires et fixer la langue et les modalités de l'enseignement primaire, avec l'accord préalable du gouverneur, Sixième annexe, paragraphe 6 (1).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  fiscalite: {valeur: "partiel", note: "Fonds de district propre, paragraphe 7 ; perception de l'impôt foncier et de taxes sur les terres et bâtiments, les professions, les animaux, les véhicules et les marchés, paragraphe 8 ; réglementation des prêts d'argent et du commerce des non-tribaux, paragraphe 10, Sixième annexe.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Compétence législative sur l'héritage, le mariage, le divorce et les coutumes sociales, Sixième annexe, paragraphe 3 (1) (h) à (j).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Conseil de 29 élus renouvelé en février 2025 ; en 2011-2012, 88 % de ses recettes provenaient de sa part des redevances minières, 2 % de ressources propres (CAG).", source: "https://cag.gov.in/webroot/uploads/download_audit_report/2012/JHADC-2011-12-068d0e8bd35dc18.96339806.pdf"}
+chronologie:
+  - {annee: 1952, evenement: "Création du conseil des Khasi et Jaintia Hills."}
+  - {annee: 1967, evenement: "Création d'un conseil distinct à Jowai."}
+  - {annee: 1973, evenement: "Le conseil prend le nom de Jaintia Hills."}
+  - {annee: 2025, evenement: "Élection du conseil en février."}
+fiabilite:
+  verifie: ["Dates de création et de division, composition et structure des recettes (rapport de la CAG, 2011-2012).", "Superficies et populations des districts (gouvernement du Meghalaya).", "Tribunaux de conseil de district au Meghalaya (communiqué du gouvernement, 2019).", "Résultat de l'élection de 2025 (Outlook)."]
+  non_confirme: ["Statut officiel du pnar : l'ordonnance de 2026 vise le khasi et le garo ; le pnar n'y figure pas dans les sources consultées.", "Population pnar seule : non trouvée."]
+sources:
+  - {titre: "Constitution de l'Inde (édition au 1er mai 2024) — Ministère du Droit et de la Justice", url: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+  - {titre: "Rapport de la CAG sur le JHADC, 2011-2012", url: "https://cag.gov.in/webroot/uploads/download_audit_report/2012/JHADC-2011-12-068d0e8bd35dc18.96339806.pdf"}
+  - {titre: "Gouvernement du Meghalaya — districts", url: "https://meghalaya.gov.in/index.php/districts"}
+  - {titre: "Seminar on District Council Courts — Gouvernement du Meghalaya (2019)", url: "https://www.meghalaya.gov.in/sites/default/files/press_release/Seminar_on_District_Council_Courts.pdf"}
+  - {titre: "Outlook, élections des conseils de district (février 2025)", url: "https://www.outlookindia.com/elections/meghalaya-mdc-election-2025-result-vpp-ousts-ruling-npp-in-khasi-tribal-council-bags-2nd-place-in-jhadc"}

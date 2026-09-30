@@ -1,0 +1,58 @@
+uid: "sahraouis-sahara-occidental"
+nom: "Sahraouis"
+endonyme: ""
+territoire: "Sahara occidental"
+etats: ["Maroc"]
+region: "afrique"
+coord: [24.5, -13.0]
+type: "peuple_territoire_non_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 600000, annee: 2024, perimetre: "habitants de la partie à l'ouest du mur de sable (recensement marocain de 2024, ordre de grandeur cité par l'ONU)", source: "https://docs.un.org/fr/A/AC.109/2026/17"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le Sahara occidental figure sur la liste des territoires non autonomes (territoires dont la population ne s'administre pas encore pleinement elle-même) des Nations unies depuis 1963.
+  L'Espagne l'a administré jusqu'en 1975 ; le Maroc en contrôle depuis la majeure partie, à l'ouest du mur de sable, et le Front POLISARIO revendique l'indépendance.
+  Le référendum d'autodétermination prévu par le plan de règlement de 1988 et confié à la MINURSO en 1991 n'a pas eu lieu.
+  Depuis la résolution 2797 (2025) du Conseil de sécurité, les négociations se fondent sur le plan d'autonomie proposé par le Maroc en 2007.
+reconnaissance_onu:
+  - {mecanisme: "liste_tna", detail: "Territoire inscrit sur la liste du Comité spécial de la décolonisation, qui lui consacre un document de travail annuel (A/AC.109/2026/17).", annee: 1963, source: "https://docs.un.org/fr/A/AC.109/2026/17"}
+  - {mecanisme: "mission_onu", detail: "Mission des Nations unies pour l'organisation d'un référendum au Sahara occidental (MINURSO), créée par la résolution 690 (1991) du Conseil de sécurité ; mandat prorogé jusqu'au 31 octobre 2026 par la résolution 2797 (2025).", annee: 1991, source: "https://docs.un.org/fr/S/RES/690(1991)"}
+  - {mecanisme: "organe_traite", detail: "Le Comité pour l'élimination de la discrimination raciale regrette l'absence de solution sur l'exercice du droit à l'autodétermination du peuple du Sahara occidental (CERD/C/MAR/CO/19-21, par. 19-20).", annee: 2023, source: "https://docs.un.org/fr/CERD/C/MAR/CO/19-21"}
+base_nationale:
+  - {instrument: "Constitution du Royaume du Maroc, art. 5 (appliquée par le Maroc dans la partie du territoire qu'il contrôle ; les Nations unies ne reconnaissent pas de souveraineté sur le territoire)", nature: "constitution", annee: 2011, source: "https://www.constituteproject.org/constitution/Morocco_2011?lang=en"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "L'article 5 de la Constitution marocaine de 2011 engage l'État à préserver le hassani « en tant que partie intégrante de l'identité culturelle marocaine » ; il ne lui donne pas le statut de langue officielle.", source: "https://www.constituteproject.org/constitution/Morocco_2011?lang=en"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "conteste", note: "Plan de règlement accepté par le Maroc et le Front POLISARIO le 30 août 1988, approuvé par les résolutions 658 (1990) et 690 (1991) du Conseil de sécurité : référendum entre indépendance et intégration au Maroc, jamais organisé. La résolution 2797 (2025) demande une solution qui « assure l'autodétermination du peuple du Sahara occidental » sur la base du plan d'autonomie marocain.", source: "https://docs.un.org/fr/S/RES/690(1991)"}
+effectivite: {valeur: "contestee", note: "Le Haut-Commissariat aux droits de l'homme n'a pas accès au territoire depuis 2015 ; les hostilités ont repris en 2020 ; des réfugiés sahraouis vivent dans cinq camps près de Tindouf (A/AC.109/2026/17, par. 24-28 et 34).", source: "https://docs.un.org/fr/A/AC.109/2026/17"}
+chronologie:
+  - {annee: 1963, evenement: "Inscription du territoire sur la liste des territoires non autonomes."}
+  - {annee: 1975, evenement: "Fin de l'administration espagnole ; le Maroc prend le contrôle de la majeure partie du territoire."}
+  - {annee: 1988, evenement: "Le Maroc et le Front POLISARIO donnent leur accord de principe au plan de règlement ONU-OUA."}
+  - {annee: 1991, evenement: "Création de la MINURSO par la résolution 690 du Conseil de sécurité."}
+  - {annee: 2007, evenement: "Le Maroc présente au Secrétaire général un plan d'autonomie."}
+  - {annee: 2020, evenement: "Reprise des hostilités entre le Maroc et le Front POLISARIO."}
+  - {annee: 2024, evenement: "La Cour de justice de l'Union européenne juge que le peuple du Sahara occidental n'a pas consenti aux accords UE-Maroc de 2019 sur la pêche et les produits agricoles."}
+  - {annee: 2025, evenement: "Résolution 2797 du Conseil de sécurité : négociations sur la base du plan d'autonomie marocain."}
+fiabilite:
+  verifie: ["Mandat de la MINURSO et plan de règlement (S/RES/690 (1991)).", "Texte de la résolution 2797 (2025), adoptée le 31 octobre 2025.", "Situation 2024-2025, arrêts de la CJUE du 4 octobre 2024 et absence d'accès du HCDH (A/AC.109/2026/17).", "Observations du CERD sur les Sahraouis (CERD/C/MAR/CO/19-21, 2023)."]
+  non_confirme: ["Année d'inscription (1963) confirmée par Human Rights Watch ; la page du Comité spécial n'a pas pu être ouverte.", "Population sahraouie : aucun chiffre sourcé. Le recensement marocain de 2024 compte environ 600 000 habitants à l'ouest du mur de sable, toutes origines confondues (A/AC.109/2026/17, par. 9).", "Le champ etats retient le Maroc, qui contrôle la majeure partie du territoire ; le statut de l'Espagne comme puissance administrante de jure et la partie contrôlée par le Front POLISARIO à l'est du mur n'ont pas été examinés.", "Les arrêts de la CJUE relèvent du droit de l'Union, non d'un droit national ; ils ne sont pas portés dans la grille."]
+sources:
+  - {titre: "Résolution 690 (1991) du Conseil de sécurité", url: "https://docs.un.org/fr/S/RES/690(1991)"}
+  - {titre: "Résolution 2797 (2025) du Conseil de sécurité", url: "https://docs.un.org/fr/S/RES/2797(2025)"}
+  - {titre: "Sahara occidental — Document de travail du Secrétariat, A/AC.109/2026/17", url: "https://docs.un.org/fr/A/AC.109/2026/17"}
+  - {titre: "CERD — Observations finales sur le Maroc, CERD/C/MAR/CO/19-21 (2023)", url: "https://docs.un.org/fr/CERD/C/MAR/CO/19-21"}
+  - {titre: "MINURSO — Mandat", url: "https://minurso.unmissions.org/mandate"}
+  - {titre: "Human Rights Watch — ONU : le droit à l'autodétermination des habitants du Sahara occidental est menacé (2026)", url: "https://www.hrw.org/fr/news/2026/03/25/onu-le-droit-a-lautodetermination-des-habitants-du-sahara-occidental-est-menace"}
+  - {titre: "Constitution du Maroc (2011) — Constitute Project", url: "https://www.constituteproject.org/constitution/Morocco_2011?lang=en"}

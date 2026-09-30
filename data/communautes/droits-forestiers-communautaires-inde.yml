@@ -1,0 +1,48 @@
+uid: "droits-forestiers-communautaires-inde"
+nom: "Communautés titulaires de droits forestiers communautaires (loi de 2006)"
+endonyme: ""
+territoire: "Forêts de vingt États et d'un territoire de l'Union"
+etats: ["Inde"]
+region: "asie"
+coord: [20.5, 81.5]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 121705, unite: "titres de droits forestiers communautaires", annee: 2025, source: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2147815"}
+surface_km2: {valeur: 73648, annee: 2025, perimetre: "surface des titres communautaires (18 198 863,89 acres au 31 mai 2025, convertis)", source: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2147815"}
+resume: >-
+  Fiche agrégée : elle couvre les communautés de tribus répertoriées et d'autres habitants traditionnels des forêts dont les droits ont été reconnus au titre de la loi du 29 décembre 2006 sur la reconnaissance des droits forestiers (Forest Rights Act). La loi reconnaît des droits individuels et des droits communautaires, dont celui de protéger, régénérer et gérer une ressource forestière communautaire. L'assemblée de village (gram sabha) instruit les demandes. Au 31 mai 2025, 121 705 titres communautaires couvraient environ 73 600 km².
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/IND/CO/19, § 10 : recommande de reconnaître les peuples tribaux et les « tribus énumérées » comme groupes ayant droit à une protection spéciale ; § 12 et 19 sur les États du nord-est", annee: 2007, source: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+base_nationale:
+  - {instrument: "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 (loi 2 de 2007)", nature: "loi", annee: 2006, source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  - {instrument: "Orissa Mining Corporation c. ministère de l'Environnement et des Forêts, Cour suprême, 18 avril 2013", nature: "jurisprudence", annee: 2013, source: "https://www.downtoearth.org.in/governance/niyamgiri-10-years-since-india-s-first-environmental-referendum-88850"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'assemblée de village est l'autorité qui engage la procédure de détermination des droits individuels et communautaires, art. 6 (1), et veille au respect des décisions de régulation de l'accès aux ressources communautaires, art. 5.", source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les droits reconnus sont héréditaires mais inaliénables et incessibles, art. 4 (4) ; aucune expulsion avant la fin de la procédure de reconnaissance, art. 4 (5) ; titre de droits d'usage et de gestion, non de propriété du sol forestier.", source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  ressources: {valeur: "reconnu", note: "Droit de protéger, régénérer, conserver ou gérer toute ressource forestière communautaire traditionnellement protégée, art. 3 (1) (i) ; pouvoir des titulaires et de l'assemblée de village de protéger la faune, la forêt et les bassins versants, art. 5.", source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  consentement: {valeur: "partiel", note: "La Cour suprême a soumis en 2013 le projet de mine de Niyamgiri au vote des assemblées de village au titre de la loi de 2006 ; les douze assemblées l'ont rejeté et le ministère a refusé l'autorisation en janvier 2014.", source: "https://www.downtoearth.org.in/governance/niyamgiri-10-years-since-india-s-first-environmental-referendum-88850"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Environ 1,87 million de demandes rejetées au niveau national, presque autant que de titres accordés ; les titres communautaires restent peu nombreux par rapport aux titres individuels.", source: "https://www.downtoearth.org.in/governance/forest-rights-act-a-tale-of-bureaucratic-intent-and-ground-level-betrayal"}
+chronologie:
+  - {annee: 2006, evenement: "Loi sur la reconnaissance des droits forestiers, 29 décembre."}
+  - {annee: 2013, evenement: "Arrêt Niyamgiri de la Cour suprême, 18 avril."}
+  - {annee: 2025, evenement: "121 705 titres communautaires au 31 mai."}
+fiabilite:
+  verifie: ["Articles 3 (1) (i), 4 (4), 4 (5), 5 et 6 (1) de la loi (texte publié par PRS).", "Nombre et surface des titres au 31 mai 2025 (Press Information Bureau).", "Taux de rejet des demandes (Down To Earth, octobre 2025)."]
+  non_confirme: ["Date d'entrée en vigueur (1er janvier 2008) et règles de 2007 modifiées en 2012 : textes non consultés.", "Nombre de villages concernés par les titres communautaires : non trouvé.", "Population des titulaires : non trouvée."]
+sources:
+  - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+  - {titre: "Forest Rights Act, 2006 — texte (PRS Legislative Research)", url: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  - {titre: "Implementation of Forest Rights Act, 2006 — Press Information Bureau (2025)", url: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2147815"}
+  - {titre: "Down To Earth, mise en œuvre de la loi (30 octobre 2025)", url: "https://www.downtoearth.org.in/governance/forest-rights-act-a-tale-of-bureaucratic-intent-and-ground-level-betrayal"}
+  - {titre: "Down To Earth, Niyamgiri dix ans après", url: "https://www.downtoearth.org.in/governance/niyamgiri-10-years-since-india-s-first-environmental-referendum-88850"}

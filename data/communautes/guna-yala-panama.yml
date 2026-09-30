@@ -1,0 +1,58 @@
+uid: "guna-yala-panama"
+nom: "Guna de Guna Yala"
+endonyme: ""
+territoire: "Comarca Kuna Yala (Guna Yala), côte caraïbe du Panama"
+etats: ["Panama"]
+region: "ameriques"
+coord: [9.3, -78.2]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 50734, annee: 2023, perimetre: "population estimée de la comarca au 1er juillet 2023 (INEC)", source: "https://www.inec.gob.pa/publicaciones/Default3.aspx?ID_PUBLICACION=1381&ID_CATEGORIA=17&ID_SUBCATEGORIA=45"}
+lieux: {valeur: 121, unite: "lieux habités (lugares poblados)", annee: 2023, source: "https://www.inec.gob.pa/publicaciones/Default3.aspx?ID_PUBLICACION=1381&ID_CATEGORIA=17&ID_SUBCATEGORIA=45"}
+surface_km2: {valeur: 2307.6, annee: 2023, perimetre: "superficie approximative de la comarca (INEC)", source: "https://www.inec.gob.pa/publicaciones/Default3.aspx?ID_PUBLICACION=1381&ID_CATEGORIA=17&ID_SUBCATEGORIA=45"}
+resume: >-
+  Les Guna vivent sur la côte caraïbe du Panama et dans l'archipel voisin. La comarca (division territoriale indigène à statut spécial) de San Blas est créée en 1938 et organisée par la loi 16 de 1953, qui reconnaît le Congrès général guna. La loi 99 de 1998 la renomme Kuna Yala. Le recensement de 2023 compte 112 319 personnes du peuple guna dans l'ensemble du pays, sans chiffre propre à la comarca dans les sources consultées.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Panama vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+  - {mecanisme: "rapporteur_special", detail: "Visite du Rapporteur spécial James Anaya ; il présente les comarcas comme une protection des droits de propriété et d'autogouvernement, sur une base « fragile et précaire ».", annee: 2013, source: "https://www.ohchr.org/es/press-releases/2013/07/experto-de-la-onu-urge-panama-no-dar-marcha-atras-en-los-derechos-de-los"}
+base_nationale:
+  - {instrument: "Constitution politique du Panama (1972, révisée en 2004), art. 88, 90, 108, 127 et 147", nature: "constitution", annee: 1972, source: "https://www.constituteproject.org/constitution/Panama_2004?lang=es"}
+  - {instrument: "Loi 16 du 19 février 1953 qui organise la comarca de San Blas", nature: "loi", annee: 1953, source: "https://faolex.fao.org/docs/pdf/pan205628.pdf"}
+  - {instrument: "Loi 99 du 23 décembre 1998 qui dénomme la comarca Kuna Yala", nature: "loi", annee: 1998, source: "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F35435%2F1%2FLos_pueblos_indigenas_de_Panama_y_su_relacion_con_el_Estado.pdf"}
+  - {instrument: "Loi 88 du 22 novembre 2010 sur les langues et alphabets des peuples indigènes et l'éducation interculturelle bilingue", nature: "loi", annee: 2010, source: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  - {instrument: "Loi 37 de 2016 sur la consultation et le consentement préalable, libre et éclairé", nature: "loi", annee: 2016, source: "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F35435%2F1%2FLos_pueblos_indigenas_de_Panama_y_su_relacion_con_el_Estado.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La loi 16 de 1953 (art. 12 et 13) reconnaît le Congrès général guna et les congrès de village, qui fonctionnent selon leur charte traditionnelle.", source: "https://faolex.fao.org/docs/pdf/pan205628.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La loi 16 de 1953 (art. 13) renvoie à la charte organique propre de la communauté pour les fonctions des congrès ; la portée de ces normes face au droit national n'est pas précisée.", source: "https://faolex.fao.org/docs/pdf/pan205628.pdf"}
+  justice_propre: {valeur: "partiel", note: "La loi 16 de 1953 (art. 12) reconnaît la juridiction du Congrès général guna sur les infractions, sauf en matière pénale.", source: "https://faolex.fao.org/docs/pdf/pan205628.pdf"}
+  terres: {valeur: "reconnu", note: "La Constitution (art. 127) garantit la propriété collective des terres indigènes ; la loi 16 de 1953 (art. 21) interdit d'attribuer des terres de la réserve à une personne extérieure à la communauté sans double accord du Congrès guna.", source: "https://faolex.fao.org/docs/pdf/pan205628.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "La loi 37 de 2016 (art. 1 à 3) rend obligatoire la consultation préalable, libre et éclairée des comarcas, par leurs institutions propres, avant toute mesure législative ou administrative qui les touche.", source: "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F35435%2F1%2FLos_pueblos_indigenas_de_Panama_y_su_relacion_con_el_Estado.pdf"}
+  langue: {valeur: "partiel", note: "La loi 88 de 2010 (art. 1) reconnaît la langue kuna et son alphabet, sans statut de langue officielle ; la Constitution (art. 88) prévoit l'étude et la diffusion des langues indigènes.", source: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  education: {valeur: "partiel", note: "La loi 88 de 2010 (art. 7) organise l'éducation interculturelle bilingue dans les comarcas, sous la direction du ministère de l'Éducation.", source: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "La Constitution (art. 147) garantit à chaque comarca le nombre de députés dont elle disposait à l'entrée en vigueur de la règle ; ces sièges sont territoriaux et non réservés aux Guna.", source: "https://www.constituteproject.org/constitution/Panama_2004?lang=es"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2013, le Rapporteur spécial de l'ONU relève la présence de tiers (exploitants forestiers, mineurs, entreprises agricoles) sur les territoires indigènes et un manque de déférence de l'État envers les autorités indigènes.", source: "https://www.ohchr.org/es/press-releases/2013/07/experto-de-la-onu-urge-panama-no-dar-marcha-atras-en-los-derechos-de-los"}
+chronologie:
+  - {annee: 1938, evenement: "La loi 2 crée les comarcas de San Blas et de Barú."}
+  - {annee: 1953, evenement: "La loi 16 organise la comarca de San Blas et reconnaît le Congrès général guna."}
+  - {annee: 1957, evenement: "La loi 20 déclare la comarca de San Blas réserve indigène."}
+  - {annee: 1998, evenement: "La loi 99 renomme la comarca Kuna Yala."}
+  - {annee: 2025, evenement: "L'Assemblée nationale adopte le nom « Gunayala » ; le président oppose son veto en juillet, le nom légal reste Kuna Yala."}
+fiabilite:
+  verifie: ["Texte de la loi 16 de 1953 (art. 12, 13, 21, 23).", "Articles 88, 127 et 147 de la Constitution.", "Articles 1 et 7 de la loi 88 de 2010.", "Veto présidentiel de 2025 sur le changement de nom."]
+  non_confirme: ["Statut juridique, en droit panaméen, de la Loi fondamentale adoptée par le Congrès général guna.", "Population résidant dans la comarca.", "Texte intégral de la loi 37 de 2016 (contenu connu par un résumé de la Bibliothèque du Congrès chilien et par un décret de 2019 qui la cite)."]
+sources:
+  - {titre: "Loi 16 de 1953 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/pan205628.pdf"}
+  - {titre: "Constitution du Panama — Constitute Project", url: "https://www.constituteproject.org/constitution/Panama_2004?lang=es"}
+  - {titre: "Loi 88 de 2010 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  - {titre: "Los pueblos indígenas de Panamá y su relación con el Estado — Biblioteca del Congreso Nacional de Chile", url: "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F35435%2F1%2FLos_pueblos_indigenas_de_Panama_y_su_relacion_con_el_Estado.pdf"}
+  - {titre: "Décret exécutif de 2019 citant la loi 37 de 2016 — Gaceta Oficial (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/pan189832.pdf"}
+  - {titre: "Déclaration du Rapporteur spécial James Anaya sur le Panama (2013) — HCDH", url: "https://www.ohchr.org/es/press-releases/2013/07/experto-de-la-onu-urge-panama-no-dar-marcha-atras-en-los-derechos-de-los"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}
+  - {titre: "Panama — Minority Rights Group", url: "https://minorityrights.org/country/panama/"}
+  - {titre: "De Kuna Yala a Gunayala — La Prensa (2025)", url: "https://www.prensa.com/politica/de-kuna-yala-a-gunayala-la-asamblea-cambia-oficialmente-el-nombre-de-la-comarca/"}
+  - {titre: "Mulino veta el cambio de nombre — La Estrella de Panamá (2025)", url: "https://www.laestrella.com.pa/panama/nacional/mulino-veta-proyecto-de-ley-para-cambiar-el-nombre-de-la-comarca-kuna-yala-a-gunayala-ME14234932"}

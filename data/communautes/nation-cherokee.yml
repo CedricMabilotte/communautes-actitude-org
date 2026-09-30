@@ -1,0 +1,53 @@
+uid: "nation-cherokee"
+nom: "Nation cherokee"
+endonyme: ""
+territoire: "Réserve de la Nation cherokee, nord-est de l'Oklahoma"
+etats: ["États-Unis"]
+region: "ameriques"
+coord: [35.9, -95.0]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 450000, annee: 2026, perimetre: "citoyens de la Nation cherokee, tous lieux de résidence (« plus de 450 000 » selon la Nation)", source: "https://www.cherokee.gov/about-the-nation/frequently-asked-questions/common-questions/"}
+lieux: {valeur: 14, unite: "comtés de l'Oklahoma couverts en tout ou en partie par la réserve", annee: 2026, source: "https://www.cherokee.gov/about-the-nation/maps/"}
+surface_km2: {valeur: 18130, annee: 2026, perimetre: "réserve de 7 000 milles carrés convertis en km² ; périmètre de compétence, pas de propriété", source: "https://www.cherokee.gov/about-the-nation/maps/"}
+resume: >-
+  La Nation cherokee est l'une des trois nations cherokees reconnues par l'État fédéral ; elle siège à Tahlequah (Oklahoma), où elle a été déportée en 1838. Elle a un gouvernement à trois pouvoirs (législatif, exécutif, judiciaire), une constitution, des tribunaux et une commission fiscale. Après l'arrêt McGirt v. Oklahoma de la Cour suprême (2020), la Cour d'appel pénale de l'Oklahoma juge en 2021 (Hogner v. Oklahoma) que sa réserve n'a jamais été supprimée. La Nation exerce depuis la compétence pénale sur les Autochtones (catégorie « Indiens » du droit fédéral) dans une réserve de 7 000 milles carrés.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Les États-Unis ont annoncé leur appui à la Déclaration en décembre 2010, après avoir voté contre en 2007.", annee: 2010, source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Le rapport de mission aux États-Unis (A/HRC/21/47/Add.1) cite la déportation des Cherokees et une déclaration du chef principal de la Nation cherokee.", annee: 2012, source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+base_nationale:
+  - {instrument: "McGirt v. Oklahoma, 591 U.S. (2020)", nature: "jurisprudence", annee: 2020, source: "https://www.law.cornell.edu/supremecourt/text/18-9526"}
+  - {instrument: "Hogner v. Oklahoma, Cour d'appel pénale de l'Oklahoma (11 mars 2021)", nature: "jurisprudence", annee: 2021, source: "https://www.cherokeephoenix.org/news/year-old-court-case-was-milestone-for-reservation/article_890940de-b0fa-11ec-a613-3b92dc9f46d8.html"}
+  - {instrument: "Traités avec les États-Unis (dont le droit à un délégué à la Chambre des représentants)", nature: "traite", annee: 1835, source: "https://www.cherokee.gov/our-government/delegate-to-congress/"}
+  - {instrument: "Indian Tribal Justice Act, 25 U.S.C. 3601", nature: "loi", annee: 1993, source: "https://www.law.cornell.edu/uscode/text/25/3601"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Nation tribale reconnue par l'État fédéral, gouvernée par trois pouvoirs séparés selon sa constitution ; le Congrès reconnaît le droit des nations tribales d'établir leur forme de gouvernement (25 U.S.C. 3601).", source: "https://www.cherokee.org/about-the-nation/"}
+  pouvoir_normatif: {valeur: "reconnu", note: "La Nation fait et applique ses propres lois et réglemente activités économiques, terres, environnement et faune dans sa juridiction.", source: "https://www.cherokee.org/about-the-nation/"}
+  justice_propre: {valeur: "reconnu", note: "Depuis Hogner (2021), le tribunal de district de la Nation juge les affaires pénales impliquant des Autochtones dans toute la réserve ; 3 700 affaires déposées la première année.", source: "https://www.cherokeephoenix.org/news/year-old-court-case-was-milestone-for-reservation/article_890940de-b0fa-11ec-a613-3b92dc9f46d8.html"}
+  terres: {valeur: "partiel", note: "La réserve est reconnue comme jamais supprimée par le Congrès (McGirt 2020, Hogner 2021) ; la reconnaissance vaut pour la compétence, la plupart des terres de la réserve n'appartenant pas à la Nation.", source: "https://www.cherokee.gov/about-the-nation/frequently-asked-questions/common-questions/"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Régime fédéral commun : consultation des gouvernements tribaux par les agences fédérales (décret 13175 de 2000), sans veto.", source: "https://www.govinfo.gov/content/pkg/FR-2000-11-09/pdf/00-29003.pdf"}
+  langue: {valeur: "partiel", note: "La loi fédérale de 1990 reconnaît le droit des nations tribales de donner un statut officiel à leurs langues (25 U.S.C. 2903) ; la Nation a un département de la langue cherokee.", source: "https://www.law.cornell.edu/uscode/text/25/2903"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "La Nation lève des impôts dans sa juridiction et dispose d'une commission fiscale ; la Cour suprême reconnaît ce pouvoir aux nations tribales (Merrion v. Jicarilla Apache Tribe, 1982).", source: "https://www.law.cornell.edu/supremecourt/text/455/130"}
+  representation: {valeur: "conteste", note: "Les trois traités de la Nation affirment son droit à un délégué à la Chambre des représentants ; ce délégué n'y siège pas.", source: "https://www.cherokee.gov/our-government/delegate-to-congress/"}
+  statut_personnel: {valeur: "reconnu", note: "Citoyenneté cherokee définie par la Nation ; droit des nations tribales de définir leurs membres reconnu par la Cour suprême (Santa Clara Pueblo v. Martinez, 1978).", source: "https://www.law.cornell.edu/supremecourt/text/436/49"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Après Hogner, la Nation a étendu ses tribunaux, son parquet et son service des marshals ; 90 accords de coopération policière avec les autorités locales, étatiques et fédérales.", source: "https://www.cherokeephoenix.org/news/year-old-court-case-was-milestone-for-reservation/article_890940de-b0fa-11ec-a613-3b92dc9f46d8.html"}
+chronologie:
+  - {annee: 1838, evenement: "Déportation vers le Territoire indien (« Piste des larmes »)."}
+  - {annee: 2020, evenement: "Arrêt McGirt v. Oklahoma (9 juillet) sur la réserve creek."}
+  - {annee: 2021, evenement: "Hogner v. Oklahoma (11 mars) : la réserve cherokee n'a jamais été supprimée."}
+fiabilite:
+  verifie: ["Nombre de citoyens et surface de la réserve (site de la Nation).", "Dispositif de McGirt (Legal Information Institute).", "Date et portée de Hogner (Cherokee Phoenix).", "Droit au délégué affirmé par les traités (site de la Nation)."]
+  non_confirme: ["Texte de l'arrêt Hogner (non ouvert, résumé par la presse de la Nation).", "Date exacte du traité fondant le droit au délégué (1785, 1835 ou 1866 selon les sources).", "Portée des arrêts ultérieurs sur la compétence pénale de l'État envers les non-Autochtones (Castro-Huerta, 2022)."]
+sources:
+  - {titre: "About the Nation — Cherokee Nation", url: "https://www.cherokee.org/about-the-nation/"}
+  - {titre: "Common Questions — Cherokee Nation", url: "https://www.cherokee.gov/about-the-nation/frequently-asked-questions/common-questions/"}
+  - {titre: "Maps — Cherokee Nation", url: "https://www.cherokee.gov/about-the-nation/maps/"}
+  - {titre: "Delegate to Congress — Cherokee Nation", url: "https://www.cherokee.gov/our-government/delegate-to-congress/"}
+  - {titre: "Year-old court case was milestone for reservation — Cherokee Phoenix", url: "https://www.cherokeephoenix.org/news/year-old-court-case-was-milestone-for-reservation/article_890940de-b0fa-11ec-a613-3b92dc9f46d8.html"}
+  - {titre: "McGirt v. Oklahoma — Legal Information Institute", url: "https://www.law.cornell.edu/supremecourt/text/18-9526"}
+  - {titre: "Report of the Special Rapporteur, mission to the United States (A/HRC/21/47/Add.1)", url: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}

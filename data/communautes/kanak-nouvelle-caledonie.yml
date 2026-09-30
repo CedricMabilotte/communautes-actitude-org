@@ -1,0 +1,59 @@
+uid: "kanak-nouvelle-caledonie"
+nom: "Kanak et peuple de Nouvelle-Calédonie"
+endonyme: "Kanak"
+territoire: "Nouvelle-Calédonie (Kanaky)"
+etats: ["France"]
+region: "oceanie"
+coord: [-21.3, 165.5]
+type: "peuple_territoire_non_autonome"
+base: "territoriale"
+types_secondaires: ["peuple_autochtone"]
+population: {valeur: 111856, annee: 2019, perimetre: "personnes se déclarant de la seule communauté kanak au recensement (population totale : 271 407)", source: "https://www.isee.nc/sites/default/files/2025-11/rp-population-communautes.xls"}
+lieux: {valeur: 341, unite: "tribus (61 districts coutumiers, 8 aires coutumières)", annee: 2019, source: "https://www.isee.nc/sites/default/files/2025-10/rp2019-synthese-tribus.pdf"}
+surface_km2: {valeur: 5000, annee: 2019, perimetre: "terres coutumières (« environ 500 000 hectares », 27 % de la superficie)", source: "https://www.isee.nc/sites/default/files/2025-10/rp2019-synthese-tribus.pdf"}
+resume: >-
+  Archipel du Pacifique Sud rattaché à la France depuis 1853. Au recensement de 2019, 41,2 % des 271 407 habitants se déclarent kanak. La Nouvelle-Calédonie figure sur la liste des territoires non autonomes (territoires à décoloniser suivis par l'ONU) depuis 1986. L'accord de Nouméa de 1998 et la loi organique de 1999 organisent un transfert de compétences, un statut civil coutumier kanak et trois consultations sur l'indépendance, tenues en 2018, 2020 et 2021. L'accord de Bougival de juillet 2025 prévoit un « État de la Nouvelle-Calédonie » ; le projet de loi constitutionnelle qui le traduit a été rejeté par l'Assemblée nationale le 2 avril 2026.
+reconnaissance_onu:
+  - {mecanisme: "liste_tna", detail: "Résolution 41/41 de l'Assemblée générale : la Nouvelle-Calédonie est de nouveau considérée comme territoire non autonome", annee: 1986, source: "https://documents.un.org/api/symbol/access?s=A/RES/41/41&l=fr&t=pdf"}
+  - {mecanisme: "liste_tna", detail: "Résolution 79/107 « Question de la Nouvelle-Calédonie » : rappel des référendums de 2018, 2020 et 2021 et des préoccupations sur le résultat du troisième", annee: 2024, source: "https://documents.un.org/api/symbol/access?s=A/RES/79/107&l=fr&t=pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport du Rapporteur spécial sur les droits des peuples autochtones sur la situation du peuple kanak (A/HRC/18/35/Add.6), cité par la résolution 79/107", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=A/RES/79/107&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Accord sur la Nouvelle-Calédonie signé à Nouméa le 5 mai 1998", nature: "accord_paix", annee: 1998, source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/accord20sur20la20nouvelle-calc3a9donie20signc3a920c3a020noumc3a9a20le20520mai201998.pdf"}
+  - {instrument: "Loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie", nature: "loi_organique", annee: 1999, source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Congrès et assemblées de province élus (art. 188), gouvernement de la Nouvelle-Calédonie ; Sénat coutumier de seize membres désignés par les conseils coutumiers « selon les usages reconnus par la coutume » (loi organique de 1999, art. 137).", source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le Congrès adopte des « lois du pays » (délibérations de valeur législative) dans les matières de compétence calédonienne (art. 99) ; les personnes de statut civil coutumier sont régies par leurs coutumes en droit civil (art. 7).", source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+  justice_propre: {valeur: "partiel", note: "La juridiction civile de droit commun, seule compétente pour le statut coutumier et les terres coutumières, siège avec des assesseurs coutumiers (art. 19) ; le conseil coutumier tranche les litiges d'interprétation des procès-verbaux de palabre (art. 150).", source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+  terres: {valeur: "reconnu", note: "Les terres coutumières sont régies par la coutume et sont « inaliénables, incessibles, incommutables et insaisissables » (art. 18).", source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+  ressources: {valeur: "partiel", note: "La Nouvelle-Calédonie réglemente les ressources de la zone économique exclusive, les hydrocarbures, le nickel, le chrome, le cobalt et les terres rares (art. 22, 10° et 11°) ; la compétence appartient à la collectivité, non aux autorités coutumières.", source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+  consentement: {valeur: "partiel", note: "Tout projet de loi du pays sur les signes identitaires, le statut civil coutumier, les terres coutumières ou les aires coutumières est transmis au Sénat coutumier, qui délibère dans les deux mois (art. 142).", source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+  langue: {valeur: "partiel", note: "Les langues kanak sont « reconnues comme langues d'enseignement et de culture » (art. 215).", source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+  education: {valeur: "partiel", note: "La Nouvelle-Calédonie fixe les programmes de l'enseignement primaire, les provinces les adaptent aux réalités culturelles et linguistiques (art. 22, 28°).", source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+  fiscalite: {valeur: "reconnu", note: "La Nouvelle-Calédonie est compétente pour les impôts, droits et taxes perçus à son profit (art. 22, 1°).", source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Citoyenneté de la Nouvelle-Calédonie (art. 4) liée au corps électoral restreint (art. 188) ; statut civil coutumier kanak inscrit sur un registre d'état civil coutumier (art. 7 et 8).", source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+  autodetermination_externe: {valeur: "reconnu", note: "Consultation sur l'accession à la pleine souveraineté prévue par l'article 77 de la Constitution et les art. 216 et 217 de la loi organique ; trois consultations tenues les 4 novembre 2018, 4 octobre 2020 et 12 décembre 2021.", source: "https://documents.un.org/api/symbol/access?s=A/RES/79/107&l=fr&t=pdf"}
+effectivite: {valeur: "contestee", note: "L'Assemblée générale relève « les préoccupations exprimées » sur le résultat du référendum de 2021 (résolution 79/107). L'accord de Bougival (12 juillet 2025), complété par l'accord Élysée-Oudinot (19 janvier 2026), est rejeté par le FLNKS ; le projet de loi constitutionnelle qui le traduit est rejeté par une motion votée à l'Assemblée nationale le 2 avril 2026. Les élections provinciales ont lieu le 28 juin 2026.", source: "https://www.banquedesterritoires.fr/les-deputes-rejettent-le-projet-de-reforme-constitutionnelle-de-la-nouvelle-caledonie"}
+chronologie:
+  - {annee: 1853, evenement: "La France prend possession de l'archipel."}
+  - {annee: 1986, evenement: "Résolution 41/41 : la Nouvelle-Calédonie est de nouveau considérée comme territoire non autonome."}
+  - {annee: 1998, evenement: "Accord de Nouméa du 5 mai 1998."}
+  - {annee: 1999, evenement: "Loi organique n° 99-209 : lois du pays, Sénat coutumier, statut civil coutumier, citoyenneté calédonienne."}
+  - {annee: 2018, evenement: "Première consultation sur l'accession à la pleine souveraineté (4 novembre)."}
+  - {annee: 2020, evenement: "Deuxième consultation (4 octobre)."}
+  - {annee: 2021, evenement: "Troisième consultation (12 décembre), maintenue malgré les demandes de report des organisations kanak."}
+  - {annee: 2024, evenement: "Projet de révision constitutionnelle élargissant le corps électoral provincial, adopté sans consultation des institutions coutumières selon IWGIA."}
+  - {annee: 2025, evenement: "Accord de Bougival (12 juillet) : projet d'« État de la Nouvelle-Calédonie » et de nationalité calédonienne ; le FLNKS le rejette."}
+  - {annee: 2026, evenement: "Accord Élysée-Oudinot (19 janvier) ; rejet du projet de loi constitutionnelle à l'Assemblée nationale (2 avril) ; élections provinciales (28 juin)."}
+fiabilite:
+  verifie: ["Articles 4, 7, 18, 19, 22, 99, 137, 142, 150, 188, 215, 216 et 217 de la loi organique (version consolidée publiée par la DASS de Nouvelle-Calédonie).", "Dates des trois consultations dans la résolution 79/107.", "Dates des accords de Bougival et Élysée-Oudinot dans le document de synthèse du Sénat (février 2026).", "Rejet du projet de loi constitutionnelle le 2 avril 2026."]
+  non_confirme: ["Suite donnée au processus de Bougival après les élections provinciales du 28 juin 2026.", "Corps électoral appliqué aux élections provinciales de 2026.", "Le rapport IWGIA 2025 date le troisième référendum de 2023 et la réinscription de 1988 : ces dates divergent des résolutions de l'ONU (2021 et 1986), retenues ici."]
+sources:
+  - {titre: "Loi organique n° 99-209 du 19 mars 1999, version consolidée — DASS Nouvelle-Calédonie", url: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+  - {titre: "Accord sur la Nouvelle-Calédonie signé à Nouméa le 5 mai 1998 — UN Peacemaker", url: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/accord20sur20la20nouvelle-calc3a9donie20signc3a920c3a020noumc3a9a20le20520mai201998.pdf"}
+  - {titre: "Résolution 41/41 de l'Assemblée générale (1986)", url: "https://documents.un.org/api/symbol/access?s=A/RES/41/41&l=fr&t=pdf"}
+  - {titre: "Résolution 79/107 « Question de la Nouvelle-Calédonie » (2024)", url: "https://documents.un.org/api/symbol/access?s=A/RES/79/107&l=fr&t=pdf"}
+  - {titre: "Sénat — L'essentiel sur le projet de loi constitutionnelle relatif à la Nouvelle-Calédonie (février 2026)", url: "https://www.senat.fr/lessentiel/pjl25-023.pdf"}
+  - {titre: "Localtis — Les députés rejettent le projet de réforme constitutionnelle de la Nouvelle-Calédonie (3 avril 2026)", url: "https://www.banquedesterritoires.fr/les-deputes-rejettent-le-projet-de-reforme-constitutionnelle-de-la-nouvelle-caledonie"}
+  - {titre: "Nouvelle-Calédonie la 1ère — Provinciales 2026 : les équilibres du Congrès (28 juin 2026)", url: "https://la1ere.franceinfo.fr/nouvellecaledonie/provinciales-2026-en-nouvelle-caledonie-comment-les-resultats-dans-le-sud-le-nord-et-les-iles-modifient-les-equilibres-du-congres-1714900.html"}
+  - {titre: "IWGIA — The Indigenous World 2025, chapitre Kanaky (New Caledonia)", url: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2025.pdf"}

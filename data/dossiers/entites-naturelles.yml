@@ -1,0 +1,435 @@
+slug: "entites-naturelles"
+titre: "Rivières, forêts, montagnes : quand une entité naturelle devient sujet de droit"
+chapeau: >-
+  Des rivières, des montagnes, des forêts, une plante ou des espèces animales ont reçu des droits propres, parfois une personnalité juridique. Ce dossier recense vingt cas liés à des communautés autochtones, noires ou coutumières, et précise pour chacun le texte, la personne qui parle au nom de l'entité et ce qui s'applique.
+introduction: >-
+  Dans de nombreuses communautés, une rivière, une montagne ou une forêt est un parent, un ancêtre ou un être vivant, et non une ressource. Depuis 2008, plusieurs États ont traduit une partie de ces conceptions dans leur droit. D'autres fois, la communauté l'a écrit elle-même, dans sa constitution tribale, un code ou une déclaration d'assemblée.
+
+
+  Le dossier distingue six mécanismes : la personnalité juridique (capacité d'avoir des droits et d'agir en justice) donnée par une loi ; les droits de la nature inscrits dans une constitution ou une loi nationale ; la reconnaissance d'une entité comme sujet de droits par un juge ; la norme adoptée par la communauté elle-même dans son droit propre ; la protection coutumière reconnue par l'État (bois sacrés, sites sacrés) ; la coutume appliquée sans statut juridique. Plusieurs cas combinent deux mécanismes.
+
+
+  Pour chaque cas, le dossier indique qui agit au nom de l'entité et ce que l'on sait de l'application. Deux cas sans lien avec une communauté autochtone (Gange et Yamuna, Mar Menor) servent de point de comparaison.
+mecanismes:
+  - {cle: "personnalite_juridique", libelle: "Personnalité juridique par la loi", definition: "Une loi ou un règlement fait d'une entité naturelle une personne au sens du droit, avec des représentants désignés qui agissent en son nom."}
+  - {cle: "droits_nature_texte_national", libelle: "Droits de la nature dans la constitution ou la loi", definition: "Un texte national reconnaît des droits à la nature en général ; toute personne ou toute autorité peut en demander le respect."}
+  - {cle: "sujet_de_droits_juge", libelle: "Sujet de droits par décision de justice", definition: "Un tribunal déclare une entité naturelle sujet de droits et désigne ses gardiens, sans loi préalable qui le prévoit."}
+  - {cle: "droit_propre", libelle: "Norme adoptée par la communauté", definition: "La communauté reconnaît des droits à une entité dans son propre droit (constitution tribale, code, délibération d'assemblée, déclaration) ; la portée hors de son territoire dépend de l'État."}
+  - {cle: "protection_coutumiere_reconnue", libelle: "Protection coutumière reconnue par l'État", definition: "Un texte ou un juge de l'État reconnaît les règles coutumières qui protègent un site ou une espèce et le rôle de ses gardiens, sans créer de personnalité juridique."}
+  - {cle: "coutume_sans_statut", libelle: "Coutume sans statut juridique", definition: "La communauté protège des arbres, des animaux ou des lieux selon ses règles ; aucun texte de l'État ne donne force juridique à ces règles."}
+concepts:
+  - {terme: "Te Awa Tupua", langue: "te reo māori", communautes: ["maori-aotearoa"], sens: "La rivière Whanganui comme un tout vivant et indivisible, des montagnes à la mer, avec ses éléments physiques et spirituels.", source: "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"}
+  - {terme: "Ko au te Awa, ko te Awa ko au", langue: "te reo māori", communautes: ["maori-aotearoa"], sens: "« Je suis la rivière et la rivière est moi » : l'une des quatre valeurs (Tupua te Kawa) inscrites dans la loi de 2017.", source: "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"}
+  - {terme: "Te Manawa o te Ika a Māui", langue: "te reo māori", communautes: ["tuhoe-te-urewera"], sens: "« Le cœur du grand poisson de Māui » : Te Urewera pour Tūhoe, selon l'article 3 de la loi de 2014.", source: "https://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html"}
+  - {terme: "Te Kāhui Tupua", langue: "te reo māori", communautes: ["maori-aotearoa"], sens: "Taranaki Maunga et les autres montagnes ancestrales comme un tout vivant et indivisible.", source: "https://www.legislation.govt.nz/act/public/2025/1/en/latest/"}
+  - {terme: "Pacha Mama", langue: "kichwa", communautes: ["sarayaku-kichwa"], sens: "La Terre-Mère ; la Constitution de l'Équateur l'emploie comme synonyme de « nature » à l'article 71.", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  - {terme: "Sumak kawsay", langue: "kichwa", communautes: ["sarayaku-kichwa"], sens: "« Bien vivre », vie en harmonie avec la nature ; principe des articles 14 et 275 de la Constitution de l'Équateur.", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  - {terme: "Kawsak Sacha", langue: "kichwa", communautes: ["sarayaku-kichwa"], sens: "« Forêt vivante » : être vivant et conscient formé de tous les êtres de la forêt, humains, animaux, végétaux, minéraux et spirituels.", source: "https://ecojurisprudence.org/wp-content/uploads/2022/08/KAWSAK_SACHA_DECLARATION-2018.pdf"}
+  - {terme: "Sacha runakuna", langue: "kichwa", communautes: ["sarayaku-kichwa"], sens: "Les habitants visibles et invisibles de la forêt, avec qui les Kichwa de Sarayaku entretiennent des relations de réciprocité.", source: "https://ecojurisprudence.org/wp-content/uploads/2022/08/KAWSAK_SACHA_DECLARATION-2018.pdf"}
+  - {terme: "Sumaj kamaña / Sumaj kausay / Yaiko kavi päve", langue: "aymara, quechua, guarani", communautes: [], sens: "« Vivre bien » : horizon défini par la loi bolivienne 300 de 2012 à partir des visions du monde des peuples autochtones.", source: "https://www.lexivox.org/norms/BO-L-N300.html"}
+  - {terme: "Mutehekau Shipu", langue: "innu-aimun", communautes: [], sens: "« Rivière où l'eau passe entre des falaises rocheuses carrées » : nom innu de la rivière Magpie.", source: "https://ecojurisprudence.org/wp-content/uploads/2026/01/CA_Quebec_Second-Resolution-Document_245.pdf"}
+  - {terme: "Innu Aitun", langue: "innu-aimun", communautes: [], sens: "Pratiques culturelles et activités traditionnelles des Innus sur le territoire ; la résolution de 2021 précise qu'elle ne les restreint pas.", source: "https://ecojurisprudence.org/wp-content/uploads/2026/01/CA_Quebec_Second-Resolution-Document_245.pdf"}
+  - {terme: "Heyhl-keek 'We-roy", langue: "yurok", communautes: ["nations-tribales-etats-unis"], sens: "Nom yurok du fleuve Klamath, sujet de droits dans le code tribal yurok depuis 2024.", source: "https://ecojurisprudence.org/initiatives/yurok-tribe-ordinance-establishing-the-rights-of-the-heyhl-keek-we-roy-klamath-river/"}
+  - {terme: "Manoomin", langue: "ojibwe (anishinaabemowin)", communautes: ["nations-tribales-etats-unis"], sens: "Riz sauvage, plante alimentaire et sacrée des Ojibwe, titulaire de droits dans la loi tribale de White Earth.", source: "https://ecojurisprudence.org/initiatives/resolution-establishing-rights-of-manoomin/"}
+  - {terme: "Nahasdzáán dóó Yádiłhił bitsʼą́ą́dęę́ʼ beehazʼáanii", langue: "diné bizaad (navajo)", communautes: ["navajo-dine"], sens: "« Loi naturelle diné », issue de la Terre-Mère et du Ciel-Père ; partie des lois fondamentales diné (Diné bi beenahazʼáanii).", source: "https://ecojurisprudence.org/wp-content/uploads/2022/02/US_Navajo-Nation-Code_278.pdf"}
+  - {terme: "Principe unitaire de vie", langue: "français (code provincial, conception kanak)", communautes: ["kanak-nouvelle-caledonie"], sens: "L'homme appartient à l'environnement naturel et conçoit son identité dans ses éléments ; principe fondateur de la société kanak selon l'article 110-3 du code de l'environnement des îles Loyauté.", source: "https://www.wildlegal.eu/post/decryptage-reconnaissance-des-droits-de-la-nature-dans-les-iles-loyaute"}
+  - {terme: "Martuwarra", langue: "langues des nations du Martuwarra", communautes: ["titre-autochtone-australie"], sens: "Le fleuve Fitzroy comme être ancestral vivant, doté d'un droit à la vie et à l'écoulement selon la First Law (loi première) aborigène.", source: "https://ecojurisprudence.org/initiatives/fitzroy-river-declaration-recognizing-martuwarra-fitzroy-river-as-a-living-ancestral-being/"}
+  - {terme: "Warloongarriy Law", langue: "langues du Martuwarra", communautes: ["titre-autochtone-australie"], sens: "« Loi du fleuve », partie de la First Law partagée par les nations riveraines du Martuwarra.", source: "https://ecojurisprudence.org/initiatives/fitzroy-river-declaration-recognizing-martuwarra-fitzroy-river-as-a-living-ancestral-being/"}
+  - {terme: "Niyam Raja", langue: "langue des Dongria Kondh", communautes: ["droits-forestiers-communautaires-inde"], sens: "« Roi de la loi », divinité qui réside au sommet des collines de Niyamgiri.", source: "https://indiankanoon.org/doc/153831190/"}
+  - {terme: "Mpuluma / Balamansi", langue: "langue des Bagungu", communautes: [], sens: "Sites naturels sacrés des Bagungu et leurs gardiens coutumiers, chargés des rituels et de la protection des sites.", source: "https://gaiafoundation.org/uganda-recognises-rights-of-nature-customary-laws-sacred-natural-sites/"}
+  - {terme: "Oran, devrai, law kyntang", langue: "noms régionaux (Rajasthan, Maharashtra, Meghalaya)", communautes: ["khasi-khasi-hills"], sens: "Noms régionaux des bois sacrés en Inde (Rajasthan, Maharashtra, Meghalaya), cités par la Cour suprême en 2024.", source: "https://indiankanoon.org/doc/94069814/"}
+  - {terme: "Khejri", langue: "rajasthani", communautes: [], sens: "Arbre du désert (Prosopis cineraria) protégé par les règles bishnoï ; 363 Bishnoï sont tués en 1730 à Khejarli en s'opposant à leur abattage.", source: "https://www.sahapedia.org/when-amrita-devi-and-362-bishnois-sacrificed-their-lives-khejri-tree"}
+cas:
+  - id: "whanganui"
+    atlas_uid: "maori-aotearoa"
+    communaute: "Iwi de la Whanganui"
+    etats: ["Nouvelle-Zélande"]
+    entite: "Rivière Whanganui (Te Awa Tupua)"
+    mecanisme: "personnalite_juridique"
+    annee: 2017
+    concept_local: "Te Awa Tupua ; Tupua te Kawa"
+    resume: >-
+      La loi de 2017 règle les réclamations des iwi (peuples māori) de la Whanganui au titre du traité de Waitangi. Elle déclare Te Awa Tupua « tout vivant et indivisible », des montagnes à la mer (s. 12), et en fait une personne juridique qui a les droits, pouvoirs, devoirs et responsabilités d'une personne (s. 14). Quatre valeurs, Tupua te Kawa, guident les décisions qui touchent la rivière (s. 13). Un groupe stratégique réunit iwi, collectivités, usagers et associations pour établir un plan commun (Te Heke Ngahuru, s. 35).
+    gouvernance: "Te Pou Tupua, « visage humain » de la rivière : deux personnes, l'une désignée par les iwi ayant des intérêts dans la rivière, l'autre par la Couronne (s. 18 à 20) ; appuyées par un groupe consultatif, Te Karewao (s. 27)."
+    effectivite: "L'office de Te Pou Tupua fonctionne : il indique ses titulaires actuels (un désigné par les iwi, un par la Couronne), une petite équipe et ses relations avec l'entité de gouvernance des iwi et le groupe stratégique Te Kōpuka. Aucun procès intenté au nom de la rivière n'a été trouvé."
+    textes:
+      - {titre: "Te Awa Tupua (Whanganui River Claims Settlement) Act 2017", nature: "loi", annee: 2017, source: "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"}
+      - {titre: "Ruruku Whakatupua, accord de règlement entre les iwi de la Whanganui et la Couronne", nature: "accord", annee: 2014, source: "https://www.tepoutupua.nz"}
+    sources:
+      - {titre: "Te Awa Tupua Act 2017 — legislation.govt.nz", url: "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"}
+      - {titre: "Te Pou Tupua — présentation de l'office", url: "https://www.tepoutupua.nz/tepoutupua"}
+
+  - id: "te-urewera"
+    atlas_uid: "tuhoe-te-urewera"
+    communaute: "Tūhoe"
+    etats: ["Nouvelle-Zélande"]
+    entite: "Te Urewera (ancien parc national, environ 2 100 km²)"
+    mecanisme: "personnalite_juridique"
+    annee: 2014
+    concept_local: "Te Manawa o te Ika a Māui ; Tūhoetanga"
+    resume: >-
+      La loi de 2014 retire Te Urewera de la propriété de la Couronne et du statut de parc national. Te Urewera devient « une entité juridique » qui a les droits et devoirs d'une personne (s. 11) ; les terres lui appartiennent à elle-même. Pour Tūhoe, Te Urewera est « le cœur du grand poisson de Māui » et donne sens à sa culture, sa langue et son identité (s. 3). Le conseil de gestion doit tenir compte des notions tūhoe, dont le rāhui (interdiction temporaire d'usage) et le tapu (caractère sacré).
+    gouvernance: "Conseil de Te Urewera (s. 16 et 21) : huit membres au départ, à parité ; après trois ans, six membres nommés par Tūhoe Te Uru Taumatua et trois par le ministre. Le conseil adopte le plan de gestion (s. 44)."
+    effectivite: "Le plan de gestion Te Kawa o Te Urewera est publié par Tūhoe en māori et en anglais, avec des règles d'autorisation pour la chasse. Aucune évaluation indépendante du fonctionnement du conseil n'a été trouvée."
+    textes:
+      - {titre: "Te Urewera Act 2014", nature: "loi", annee: 2014, source: "https://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html"}
+      - {titre: "Te Kawa o Te Urewera (plan de gestion)", nature: "norme communautaire", annee: null, source: "https://www.ngaituhoe.iwi.nz/te-kawa-o-te-urewera"}
+    sources:
+      - {titre: "Te Urewera Act 2014 — legislation.govt.nz", url: "https://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html"}
+      - {titre: "Ngāi Tūhoe — Te Kawa o Te Urewera", url: "https://www.ngaituhoe.iwi.nz/te-kawa-o-te-urewera"}
+      - {titre: "Māori Law Review — Te Urewera Act 2014", url: "https://maorilawreview.co.nz/2014/10/tuhoe-crown-settlement-te-urewera-act-2014/"}
+
+  - id: "taranaki-maunga"
+    atlas_uid: "maori-aotearoa"
+    communaute: "Ngā Iwi o Taranaki (huit iwi)"
+    etats: ["Nouvelle-Zélande"]
+    entite: "Taranaki Maunga et les montagnes ancestrales voisines (Te Kāhui Tupua)"
+    mecanisme: "personnalite_juridique"
+    annee: 2025
+    concept_local: "Te Kāhui Tupua"
+    resume: >-
+      La loi de 2025 règle une partie des réclamations des huit iwi de Taranaki, dont les terres ont été confisquées au XIXe siècle. Elle déclare Te Kāhui Tupua « tout vivant et indivisible » formé de Taranaki Maunga et des autres montagnes ancestrales (s. 17), et en fait une personne juridique (s. 18). Les terres de l'ancien parc national lui sont transférées en pleine propriété (s. 59). Le parc prend le nom de Te Papa-Kura-o-Taranaki ; les noms « Egmont » sont abandonnés (s. 23). Le public garde l'accès au parc.
+    gouvernance: "Te Tōpuni Kōkōrangi, « visage et voix » de Te Kāhui Tupua (s. 28) : huit membres, quatre nommés par l'entité collective des iwi (Te Tōpuni Ngārahu), quatre par le ministre de la Conservation (s. 31)."
+    effectivite: "inconnue (loi en vigueur depuis février 2025 ; aucun rapport de fonctionnement trouvé)"
+    textes:
+      - {titre: "Te Ture Whakatupua mō Te Kāhui Tupua 2025 / Taranaki Maunga Collective Redress Act 2025", nature: "loi", annee: 2025, source: "https://www.legislation.govt.nz/act/public/2025/1/en/latest/"}
+    sources:
+      - {titre: "Taranaki Maunga Collective Redress Act 2025 — legislation.govt.nz", url: "https://www.legislation.govt.nz/act/public/2025/1/en/latest/"}
+      - {titre: "Eco Jurisprudence Monitor — Taranaki Maunga", url: "https://ecojurisprudence.org/initiatives/taranaki-maunga/"}
+
+  - id: "equateur-constitution"
+    atlas_uid: ""
+    communaute: "Nationalités et peuples autochtones d'Équateur (norme nationale)"
+    etats: ["Équateur"]
+    entite: "La nature ou Pacha Mama"
+    mecanisme: "droits_nature_texte_national"
+    annee: 2008
+    concept_local: "Pacha Mama ; sumak kawsay"
+    resume: >-
+      La Constitution de 2008 reconnaît à « la nature ou Pacha Mama » le droit au respect de son existence et au maintien de ses cycles vitaux (art. 71), et un droit à la restauration distinct de l'indemnisation des personnes (art. 72). L'État doit prendre des mesures de précaution contre l'extinction d'espèces et la destruction d'écosystèmes (art. 73). Toute personne, communauté, peuple ou nationalité peut exiger ces droits (art. 71). Le sumak kawsay (« bien vivre ») sert de principe au droit à l'environnement (art. 14) et au régime de développement (art. 275).
+    gouvernance: "Pas de représentant désigné : toute personne ou collectivité peut agir en justice au nom de la nature ; les juges, jusqu'à la Cour constitutionnelle, tranchent."
+    effectivite: "Appliquée par les juges. Arrêt 1149-19-JP/21 du 10 novembre 2021 (forêt protégée de Los Cedros, recours de la commune de Cotacachi) : la Cour constitutionnelle juge que les permis miniers violent les droits de la nature et ordonne leur annulation ; elle juge ces droits applicables sur tout le territoire."
+    textes:
+      - {titre: "Constitution de la République de l'Équateur, art. 14, 71 à 74 et 275", nature: "constitution", annee: 2008, source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+      - {titre: "Cour constitutionnelle, arrêt 1149-19-JP/21 (Los Cedros)", nature: "jurisprudence", annee: 2021, source: "https://ecojurisprudence.org/wp-content/uploads/2022/02/Ecuador_Los-Cedros_CC-ruling_176.pdf"}
+    sources:
+      - {titre: "Constitution de 2008 — Assemblée nationale de l'Équateur", url: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+      - {titre: "Eco Jurisprudence Monitor — Los Cedros", url: "https://ecojurisprudence.org/initiatives/los-cedros/"}
+
+  - id: "sarayaku-kawsak-sacha"
+    atlas_uid: "sarayaku-kichwa"
+    communaute: "Pueblo Originario Kichwa de Sarayaku"
+    etats: ["Équateur"]
+    entite: "Territoire de Sarayaku (environ 135 000 ha) comme forêt vivante"
+    mecanisme: "droit_propre"
+    annee: 2018
+    concept_local: "Kawsak Sacha ; Sacha runakuna ; sumak kawsay"
+    resume: >-
+      L'assemblée générale du peuple kichwa de Sarayaku adopte la déclaration Kawsak Sacha les 8 et 9 décembre 2012 ; elle la révise en 2016 et la met à jour en juin 2018. L'article 1 déclare le territoire « forêt vivante, être vivant et conscient, sujet de droits ». L'article 2 exclut du territoire toute activité extractive (pétrole, mines, exploitation forestière, biopiraterie). L'article 5 fait du consentement préalable, libre et éclairé une condition de toute décision qui touche le territoire. La déclaration invoque le droit à l'autodétermination et le caractère plurinational de l'État.
+    gouvernance: "Assemblée et dirigeants élus du peuple de Sarayaku ; les « gardiens » (Runayuk) sont, dans la déclaration, des êtres de la forêt et non des personnes désignées."
+    effectivite: "Aucune reconnaissance légale de la déclaration par l'État n'a été trouvée. En juin 2022, les représentants de Sarayaku indiquent que l'État n'a pas exécuté l'arrêt de la Cour interaméricaine des droits de l'homme de 2012 (retrait des explosifs, loi sur la consultation) et demandent la reconnaissance de Kawsak Sacha comme sujet de droits (CEJIL)."
+    textes:
+      - {titre: "Déclaration Kawsak Sacha — la forêt vivante (version de juin 2018)", nature: "norme communautaire", annee: 2018, source: "https://ecojurisprudence.org/wp-content/uploads/2022/08/KAWSAK_SACHA_DECLARATION-2018.pdf"}
+      - {titre: "Cour interaméricaine des droits de l'homme, Pueblo Indígena Kichwa de Sarayaku c. Équateur (série C n° 245)", nature: "jurisprudence", annee: 2012, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_245_esp.pdf"}
+    sources:
+      - {titre: "Déclaration Kawsak Sacha (texte de 2018)", url: "https://ecojurisprudence.org/wp-content/uploads/2022/08/KAWSAK_SACHA_DECLARATION-2018.pdf"}
+      - {titre: "Territoires de vie — Sarayaku", url: "https://report.territoriesoflife.org/es/territorios/sarayaku-ecuador/"}
+      - {titre: "CEJIL — Sarayaku demande le retrait des explosifs et la reconnaissance de la forêt vivante", url: "https://cejil.org/exigimos-retirar-explosivos-y-reconocer-la-selva-viviente-como-sujeto-de-derechos-pueblo-kichwa-sarayaku/"}
+
+  - id: "bolivie-madre-tierra"
+    atlas_uid: ""
+    communaute: "Nations et peuples indígena originario campesinos de Bolivie (norme nationale)"
+    etats: ["Bolivie"]
+    entite: "La Terre-Mère (Madre Tierra) et ses systèmes de vie"
+    mecanisme: "droits_nature_texte_national"
+    annee: 2010
+    concept_local: "Madre Tierra ; Vivir Bien (sumaj kamaña, sumaj kausay, yaiko kavi päve)"
+    resume: >-
+      La loi 071 de décembre 2010 définit la Terre-Mère comme un « système vivant » considéré comme sacré par les nations et peuples autochtones (art. 3). Elle lui donne le caractère de « sujet collectif d'intérêt public » (art. 5) et énumère ses droits : à la vie, à la diversité, à l'eau, à l'air pur, à l'équilibre, à la restauration, à ne pas être polluée (art. 7). La loi-cadre 300 d'octobre 2012 relie ces droits au « Vivir Bien ». Elle charge les autorités publiques, le ministère public et le tribunal agro-environnemental de les défendre, et permet aux personnes directement touchées d'agir (art. 39).
+    gouvernance: "Autorités publiques, ministère public et tribunal agro-environnemental ; la loi 071 prévoit une Défenseure de la Terre-Mère (art. 10), renvoyée à une loi spéciale."
+    effectivite: "La loi spéciale sur la Défenseure de la Terre-Mère n'est connue qu'à l'état de proposition (déposée en 2021). Aucune décision de justice fondée sur ces lois n'a été vérifiée pour ce dossier."
+    textes:
+      - {titre: "Loi n° 071 des droits de la Terre-Mère", nature: "loi", annee: 2010, source: "https://www.lexivox.org/norms/BO-L-N71.html"}
+      - {titre: "Loi n° 300, loi-cadre de la Terre-Mère et du développement intégral pour vivre bien", nature: "loi", annee: 2012, source: "https://www.lexivox.org/norms/BO-L-N300.html"}
+    sources:
+      - {titre: "Lexivox — loi 071", url: "https://www.lexivox.org/norms/BO-L-N71.html"}
+      - {titre: "Lexivox — loi 300", url: "https://www.lexivox.org/norms/BO-L-N300.html"}
+      - {titre: "Eco Jurisprudence Monitor — proposition de loi sur la Défenseure de la Terre-Mère", url: "https://ecojurisprudence.org/initiatives/proyecto-de-ley-de-defensoria-de-la-madre-tierra/"}
+
+  - id: "atrato"
+    atlas_uid: "communautes-noires-pacifique-colombie"
+    communaute: "Conseils communautaires noirs et communautés autochtones du bassin de l'Atrato (Chocó)"
+    etats: ["Colombie"]
+    entite: "Fleuve Atrato, son bassin et ses affluents"
+    mecanisme: "sujet_de_droits_juge"
+    annee: 2016
+    concept_local: "Derechos bioculturales (droits bioculturels)"
+    resume: >-
+      Des conseils communautaires noirs (Cocomopoca, Cocomacia, Asocoba) et le Foro Inter-étnico Solidaridad Chocó saisissent la justice par une acción de tutela (recours en protection des droits fondamentaux) contre l'État, pour les effets de l'exploitation minière illégale. Le 10 novembre 2016, la Cour constitutionnelle reconnaît le fleuve, son bassin et ses affluents comme « entité sujet de droits » à la protection, la conservation, l'entretien et la restauration, à la charge de l'État et des communautés ethniques. Elle fonde sa décision sur les « droits bioculturels », qu'elle définit comme le droit des communautés ethniques d'administrer leurs territoires et leurs ressources de manière autonome. En 2018, la Cour suprême reprend ce raisonnement pour l'Amazonie colombienne (STC4360-2018), à la demande de 25 enfants et jeunes et non d'une communauté ; des associations autochtones y interviennent.
+    gouvernance: "Des « gardiens du fleuve » : un membre des communautés demanderesses et un délégué du gouvernement désigné par le président de la République (point 4 du dispositif)."
+    effectivite: "Le dispositif fixe un mois pour désigner les gardiens. Le suivi de l'exécution n'a pas été vérifié dans une source ouverte pour ce dossier : inconnue."
+    textes:
+      - {titre: "Cour constitutionnelle, arrêt T-622 de 2016", nature: "jurisprudence", annee: 2016, source: "https://www.corteconstitucional.gov.co/relatoria/2016/t-622-16.htm"}
+      - {titre: "Cour suprême de justice, STC4360-2018 (Amazonie colombienne)", nature: "jurisprudence", annee: 2018, source: "https://ecojurisprudence.org/wp-content/uploads/2022/02/Colombia_Colombian-Amazon_131.pdf"}
+    sources:
+      - {titre: "Corte Constitucional — T-622/16", url: "https://www.corteconstitucional.gov.co/relatoria/2016/t-622-16.htm"}
+      - {titre: "Eco Jurisprudence Monitor — Amazonie colombienne", url: "https://ecojurisprudence.org/initiatives/colombian-amazon/"}
+
+  - id: "magpie-mutehekau-shipu"
+    atlas_uid: ""
+    communaute: "Innus d'Ekuanitshit"
+    etats: ["Canada"]
+    entite: "Rivière Magpie (Mutehekau Shipu), environ 290 km, bassin de 7 650 km²"
+    mecanisme: "droit_propre"
+    annee: 2021
+    concept_local: "Mutehekau Shipu ; Nitassinan ; Innu Aitun"
+    resume: >-
+      Le 18 janvier 2021, le Conseil des Innus d'Ekuanitshit adopte une résolution qui reconnaît à la rivière la personnalité juridique et neuf droits, dont celui d'évoluer naturellement et d'être protégée, d'être à l'abri de la pollution et d'ester en justice (agir devant un tribunal). La rivière est située dans le Nitassinan, territoire ancestral des Innus, et menacée par des projets hydroélectriques selon la résolution. La municipalité régionale de comté (MRC) de Minganie adopte une résolution parallèle en février 2021. La résolution innue précise qu'elle ne restreint pas les droits ancestraux ni l'Innu Aitun.
+    gouvernance: "Des gardiens désignés à la fois par le Conseil des Innus d'Ekuanitshit et par la MRC de Minganie ; participation des Innus garantie pour toute décision qui touche la rivière."
+    effectivite: "Aucune loi du Québec ou du Canada reprenant ce statut n'a été trouvée ; la reconnaissance repose sur deux délibérations locales. Désignation effective des gardiens et actions en justice : inconnue."
+    textes:
+      - {titre: "Résolution du Conseil des Innus d'Ekuanitshit sur la Mutehekau Shipu / rivière Magpie", nature: "norme communautaire", annee: 2021, source: "https://ecojurisprudence.org/wp-content/uploads/2026/01/CA_Quebec_Second-Resolution-Document_245.pdf"}
+      - {titre: "Résolution de la MRC de Minganie reconnaissant la personnalité juridique de la rivière Magpie", nature: "reglement local", annee: 2021, source: "https://ecojurisprudence.org/initiatives/recognition-of-legal-personality-and-rights-of-the-magpie-river/"}
+    sources:
+      - {titre: "Eco Jurisprudence Monitor — résolution innue", url: "https://ecojurisprudence.org/initiatives/innu-first-nation-resolution-rights-of-the-magpie-river/"}
+      - {titre: "Eco Jurisprudence Monitor — résolution de la MRC de Minganie", url: "https://ecojurisprudence.org/initiatives/recognition-of-legal-personality-and-rights-of-the-magpie-river/"}
+
+  - id: "klamath-yurok"
+    atlas_uid: "nations-tribales-etats-unis"
+    communaute: "Nation yurok (Yurok Tribe)"
+    etats: ["États-Unis"]
+    entite: "Fleuve Klamath (Heyhl-keek 'We-roy), son écosystème et ses espèces"
+    mecanisme: "droit_propre"
+    annee: 2019
+    concept_local: "Heyhl-keek 'We-roy"
+    resume: >-
+      Le 9 mai 2019, le conseil yurok (Yurok Tribal Council) adopte la résolution 19-40 qui déclare que le Klamath possède des droits inhérents « d'exister, de prospérer et d'évoluer naturellement ». La résolution cite le préambule de la constitution yurok de 1993 sur le fleuve, le saumon et la gestion du territoire. Le 7 novembre 2024, la nation yurok inscrit ces droits dans son code tribal par une ordonnance (règlement tribal) : droit d'exister, droit à être restauré des dommages causés par l'homme, droits comme paysage culturel. L'ordonnance vise toute personne ou autorité dont les activités portent atteinte au fleuve, y compris hors de la réserve.
+    gouvernance: "La nation yurok représente le fleuve ; l'ordonnance de 2024 lui reconnaît le « Right to Be Represented by the Yurok Tribe » (droit d'être représenté par la nation yurok)."
+    effectivite: "inconnue ; aucune action en justice fondée sur l'ordonnance n'a été trouvée. La portée hors de la réserve dépend de la reconnaissance par les tribunaux des États-Unis, non vérifiée."
+    textes:
+      - {titre: "Yurok Tribal Council, résolution 19-40 établissant les droits du fleuve Klamath", nature: "norme communautaire", annee: 2019, source: "https://ecojurisprudence.org/wp-content/uploads/2022/02/US_Klamath_Resolution-Establishing-Rights-of-the-Klamath-River_168.pdf"}
+      - {titre: "Ordonnance yurok établissant les droits de Heyhl-keek 'We-roy (code tribal, chapitre 21.60)", nature: "norme communautaire", annee: 2024, source: "https://ecojurisprudence.org/initiatives/yurok-tribe-ordinance-establishing-the-rights-of-the-heyhl-keek-we-roy-klamath-river/"}
+    sources:
+      - {titre: "Eco Jurisprudence Monitor — résolution de 2019", url: "https://ecojurisprudence.org/initiatives/resolution-establishing-rights-of-the-klamath-river/"}
+      - {titre: "Eco Jurisprudence Monitor — ordonnance de 2024", url: "https://ecojurisprudence.org/initiatives/yurok-tribe-ordinance-establishing-the-rights-of-the-heyhl-keek-we-roy-klamath-river/"}
+
+  - id: "ho-chunk"
+    atlas_uid: "nations-tribales-etats-unis"
+    communaute: "Nation ho-chunk"
+    etats: ["États-Unis"]
+    entite: "Écosystèmes, communautés naturelles et espèces du territoire ho-chunk (Wisconsin)"
+    mecanisme: "droit_propre"
+    annee: 2018
+    concept_local: "Mother Earth (Terre-Mère), « dont nous sommes issus et dont nous dépendons »"
+    resume: >-
+      Le Conseil général (assemblée des membres) de la nation ho-chunk ajoute à sa constitution un article X, section 2, sur les droits de la nature ; l'amendement est adopté en 2018 selon l'Eco Jurisprudence Monitor. Le texte reconnaît aux écosystèmes, communautés naturelles et espèces du territoire le droit d'exister, de prospérer, de se régénérer et d'évoluer, et le droit à un climat sain. Il interdit sur le territoire l'extraction de combustibles fossiles, l'extraction de sable de fracturation, les organismes génétiquement modifiés et la destruction des plantes à usage médicinal traditionnel.
+    gouvernance: "Les écosystèmes peuvent agir devant un tribunal en leur propre nom, comme « partie réelle au procès » ; la nation ho-chunk et chacun de ses membres peuvent aussi agir. Les dommages-intérêts sont versés à la nation pour la restauration."
+    effectivite: "inconnue ; aucune décision du tribunal ho-chunk appliquant l'article X, section 2, n'a été trouvée."
+    textes:
+      - {titre: "Constitution de la nation ho-chunk, article X, section 2 (droits de la nature)", nature: "norme communautaire", annee: 2018, source: "https://ecojurisprudence.org/wp-content/uploads/2022/02/US_Ho-Chunk_Ho-Chunk-Nation-Resolution-Rights-of-Nature_157.pdf"}
+    sources:
+      - {titre: "Eco Jurisprudence Monitor — amendement ho-chunk", url: "https://ecojurisprudence.org/initiatives/ho-chunk-nation-resolution-rights-of-nature/"}
+
+  - id: "manoomin"
+    atlas_uid: "nations-tribales-etats-unis"
+    communaute: "Bande ojibwe de White Earth et 1855 Treaty Authority"
+    etats: ["États-Unis"]
+    entite: "Manoomin (riz sauvage) et ses habitats d'eau douce"
+    mecanisme: "droit_propre"
+    annee: 2018
+    concept_local: "Manoomin"
+    resume: >-
+      En décembre 2018, la bande de White Earth et l'autorité intertribale du traité de 1855 adoptent une loi tribale sur les droits de manoomin, dans la réserve et dans les territoires cédés par traité. Le texte reconnaît au riz sauvage des droits inhérents à exister, prospérer, se régénérer et évoluer, à une eau propre et à un habitat d'eau douce, à ne pas être breveté et à ne pas être contaminé par des organismes génétiquement modifiés. Le riz sauvage est une nourriture sacrée et une espèce clé des milieux humides du nord du Minnesota.
+    gouvernance: "La bande de White Earth et ses membres agissent au nom de manoomin devant le tribunal tribal."
+    effectivite: "En août 2021, une action au nom de manoomin contre le département des Ressources naturelles du Minnesota (prélèvement d'eau pour l'oléoduc Line 3) est déposée devant le tribunal tribal de White Earth. Le 10 mars 2022, la cour d'appel tribale juge que le tribunal n'est pas compétent et l'action est rejetée."
+    textes:
+      - {titre: "Résolution et ordonnance sur les droits de manoomin (White Earth)", nature: "norme communautaire", annee: 2018, source: "https://ecojurisprudence.org/initiatives/resolution-establishing-rights-of-manoomin/"}
+      - {titre: "Cour d'appel tribale de White Earth, Manoomin et al. c. Minnesota DNR", nature: "jurisprudence", annee: 2022, source: "https://ecojurisprudence.org/initiatives/tribal-court-of-the-white-earth-band-of-ojibwe-case-manoomin-et-al-v-minnesota-dnr/"}
+    sources:
+      - {titre: "Eco Jurisprudence Monitor — droits de manoomin", url: "https://ecojurisprudence.org/initiatives/resolution-establishing-rights-of-manoomin/"}
+      - {titre: "Eco Jurisprudence Monitor — Manoomin et al. c. Minnesota DNR", url: "https://ecojurisprudence.org/initiatives/tribal-court-of-the-white-earth-band-of-ojibwe-case-manoomin-et-al-v-minnesota-dnr/"}
+
+  - id: "dine-loi-naturelle"
+    atlas_uid: "navajo-dine"
+    communaute: "Nation navajo (Diné)"
+    etats: ["États-Unis"]
+    entite: "Éléments sacrés de la vie (air, lumière/feu, eau, terre/pollen), six montagnes sacrées, êtres vivants"
+    mecanisme: "droit_propre"
+    annee: 2002
+    concept_local: "Diné bi beenahazʼáanii ; Nahasdzáán dóó Yádiłhił"
+    resume: >-
+      Par la résolution CN-69-02 du 1er novembre 2002, le conseil de la nation navajo inscrit les lois fondamentales diné dans le code navajo. La section sur la loi naturelle diné (1 N.N.C. § 205) énonce que les quatre éléments sacrés et les six montagnes sacrées doivent être respectés et protégés. Elle déclare que toute la création, de la Terre-Mère et du Ciel-Père aux animaux et aux plantes, « a ses propres lois et a des droits et libertés d'exister ». Les Diné ont le devoir de respecter et protéger ces « parents » ; ils ne possèdent pas la Terre-Mère et le Ciel-Père.
+    gouvernance: "Pas de représentant propre aux entités naturelles ; les tribunaux navajos appliquent les lois fondamentales."
+    effectivite: "Les annotations du code montrent que la Cour suprême navajo demande aux juges de prendre en compte les lois fondamentales diné (résolution CN-69-02). Aucune décision fondée sur les droits d'une entité naturelle n'a été trouvée."
+    textes:
+      - {titre: "Code de la nation navajo, titre 1, § 201 à 206 (lois fondamentales diné), dont § 205", nature: "norme communautaire", annee: 2002, source: "https://ecojurisprudence.org/wp-content/uploads/2022/02/US_Navajo-Nation-Code_278.pdf"}
+    sources:
+      - {titre: "Eco Jurisprudence Monitor — Navajo Nation Code", url: "https://ecojurisprudence.org/initiatives/navajo-nation-code/"}
+      - {titre: "Navajo Nation Office of Legislative Services — code navajo", url: "https://www.nnols.org/navajo-nation-code/"}
+
+  - id: "iles-loyaute"
+    atlas_uid: "kanak-nouvelle-caledonie"
+    communaute: "Kanak des îles Loyauté (aires coutumières de Maré, Lifou et Ouvéa)"
+    etats: ["France (Nouvelle-Calédonie)"]
+    entite: "Requins et tortues marines, puis autres éléments de la nature à désigner"
+    mecanisme: "personnalite_juridique"
+    annee: 2023
+    concept_local: "Principe unitaire de vie ; espèces totémiques des clans"
+    resume: >-
+      La province des îles Loyauté, compétente en matière d'environnement, adopte un code de l'environnement rédigé avec les autorités coutumières. L'article 110-3 pose le « principe unitaire de vie », fondateur de la société kanak, et permet de donner une personnalité juridique à des éléments de la nature. Par une délibération du 29 juin 2023, l'assemblée de province reconnaît les requins et les tortues marines comme « entités naturelles sujets de droits » (art. 242-16 et 242-17). Ces entités ont des droits fondamentaux, dont celui de ne pas être la propriété d'un État, d'une province ou d'un individu (art. 242-18), et aucun devoir.
+    gouvernance: "Six porte-paroles par entité : trois désignés par le président de la province, un par chacune des trois aires coutumières selon ses usages ; les clans qui portent le nom du requin seraient prioritaires selon le juriste Victor David, interrogé par Wild Legal. D'autres espèces peuvent être ajoutées sur proposition des autorités coutumières."
+    effectivite: "inconnue (désignation des porte-paroles et actions en justice non vérifiées)"
+    textes:
+      - {titre: "Code de l'environnement de la province des îles Loyauté, art. 110-3", nature: "reglement local", annee: 2019, source: "https://www.wildlegal.eu/post/decryptage-reconnaissance-des-droits-de-la-nature-dans-les-iles-loyaute"}
+      - {titre: "Délibération de l'assemblée de la province des îles Loyauté du 29 juin 2023 (art. 242-16 à 242-18 du code)", nature: "reglement local", annee: 2023, source: "https://www.wildlegal.eu/post/decryptage-reconnaissance-des-droits-de-la-nature-dans-les-iles-loyaute"}
+    sources:
+      - {titre: "Wild Legal — Reconnaissance des droits de la nature dans les îles Loyauté", url: "https://www.wildlegal.eu/post/decryptage-reconnaissance-des-droits-de-la-nature-dans-les-iles-loyaute"}
+      - {titre: "Eco Jurisprudence Monitor — code de l'environnement des îles Loyauté", url: "https://ecojurisprudence.org/initiatives/loyalty-islands-environmental-code/"}
+
+  - id: "martuwarra"
+    atlas_uid: "titre-autochtone-australie"
+    communaute: "Nations du Martuwarra (Bunuba, Gooniyandi, Nyikina, Wangkatjunka, Walmajarri et autres)"
+    etats: ["Australie"]
+    entite: "Fleuve Fitzroy (Martuwarra), 733 km, Kimberley"
+    mecanisme: "droit_propre"
+    annee: 2016
+    concept_local: "Martuwarra ; First Law ; Warloongarriy Law"
+    resume: >-
+      En novembre 2016, les propriétaires traditionnels du fleuve adoptent la déclaration du fleuve Fitzroy. Elle reconnaît le Martuwarra comme un être ancestral vivant doté d'un droit à la vie, à protéger pour les générations présentes et futures et à gérer conjointement par les propriétaires traditionnels. La déclaration s'appuie sur la First Law (loi première aborigène), dont la Warloongarriy Law (loi du fleuve). Elle demande un plan de gestion du bassin, une aire protégée autochtone et un organe autochtone de gestion du fleuve.
+    gouvernance: "Martuwarra Fitzroy River Council, créé en 2018 par les propriétaires traditionnels comme groupe représentatif pour la gestion du fleuve."
+    effectivite: "Aucun texte de l'Australie-Occidentale ne reconnaît le statut du fleuve à la date du dossier (non trouvé). En 2018, le conseil demande un moratoire sur les nouvelles allocations d'eau ; suite donnée : inconnue. Le titre autochtone est reconnu le long du fleuve."
+    textes:
+      - {titre: "Déclaration du fleuve Fitzroy", nature: "norme communautaire", annee: 2016, source: "https://ecojurisprudence.org/wp-content/uploads/2022/07/fitzroy-river-declaration.pdf"}
+    sources:
+      - {titre: "Eco Jurisprudence Monitor — déclaration du fleuve Fitzroy", url: "https://ecojurisprudence.org/initiatives/fitzroy-river-declaration-recognizing-martuwarra-fitzroy-river-as-a-living-ancestral-being/"}
+      - {titre: "Kimberley Land Council — création du Martuwarra Fitzroy River Council (2018)", url: "https://www.klc.org.au/kimberley-traditional-owners-establish-martuwarra-fitzroy-river-council"}
+
+  - id: "niyamgiri"
+    atlas_uid: "droits-forestiers-communautaires-inde"
+    communaute: "Dongria Kondh et Kutia Kandha"
+    etats: ["Inde"]
+    entite: "Collines de Niyamgiri, demeure de Niyam Raja (Odisha)"
+    mecanisme: "protection_coutumiere_reconnue"
+    annee: 2013
+    concept_local: "Niyam Raja"
+    resume: >-
+      Le 18 avril 2013, la Cour suprême examine un projet de mine de bauxite dans les collines de Niyamgiri. Elle juge que le droit des Scheduled Tribes (« tribus répertoriées », catégorie de la Constitution) de vénérer leur divinité Niyam Raja, au sommet des collines, relève de la liberté religieuse de la Constitution (art. 25 et 26) et doit être protégé. Elle confie aux gram sabha (assemblées de village), en vertu de la loi de 2006 sur les droits forestiers, le soin de dire si la mine porte atteinte à ces droits religieux, culturels et communautaires. La colline n'est pas une personne juridique : c'est la relation de la communauté au lieu qui est protégée.
+    gouvernance: "Les assemblées de village (gram sabha) des villages concernés ; décision finale du ministère de l'Environnement au vu de leurs résolutions."
+    effectivite: "Les douze assemblées de village consultées rejettent le projet ; le ministère refuse l'autorisation en janvier 2014 (fiche de l'atlas, d'après Down To Earth)."
+    textes:
+      - {titre: "Orissa Mining Corporation c. ministère de l'Environnement et des Forêts, Cour suprême", nature: "jurisprudence", annee: 2013, source: "https://indiankanoon.org/doc/153831190/"}
+      - {titre: "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006", nature: "loi", annee: 2006, source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+    sources:
+      - {titre: "Indian Kanoon — arrêt du 18 avril 2013", url: "https://indiankanoon.org/doc/153831190/"}
+      - {titre: "Down To Earth — Niyamgiri dix ans après", url: "https://www.downtoearth.org.in/governance/niyamgiri-10-years-since-india-s-first-environmental-referendum-88850"}
+
+  - id: "bois-sacres-inde"
+    atlas_uid: ""
+    communaute: "Communautés gardiennes des bois sacrés (orans du Rajasthan ; devrai, law kyntang et autres ailleurs en Inde)"
+    etats: ["Inde"]
+    entite: "Bois sacrés (orans, devrai, law kyntang, kavu, sarna…)"
+    mecanisme: "protection_coutumiere_reconnue"
+    annee: 2024
+    concept_local: "Oran, devbani, devrai, law kyntang"
+    resume: >-
+      Les bois sacrés sont des forêts protégées par une communauté en raison d'une divinité ou d'un ancêtre ; l'arrêt de la Cour suprême de 2024 cite leurs noms régionaux dans une dizaine d'États. Au Rajasthan, environ 25 000 orans couvrent près de 600 000 ha selon l'arrêt. Le 18 décembre 2024, la Cour ordonne au Rajasthan de recenser et cartographier les orans et de les classer comme « forêts », quelle que soit leur taille. Elle recommande de les déclarer « réserves communautaires » (article 36-C de la loi de 1972 sur la protection de la faune), statut qui exige l'accord de la communauté pour tout changement d'usage. Elle suggère aussi de les reconnaître comme ressources forestières communautaires au titre de la loi de 2006.
+    gouvernance: "Selon les lieux : conseils de village, fiducies de temple, clans ; pour une réserve communautaire, un comité de gestion de la communauté avec l'État. Un comité de cinq membres, présidé de préférence par un juge retraité, suit l'exécution de l'arrêt."
+    effectivite: "L'arrêt constate que le Rajasthan a commencé à notifier des bois sacrés comme forêts, district par district, avec retard. État d'avancement après 2025 : inconnu."
+    textes:
+      - {titre: "In Re: T.N. Godavarman Thirumulpad c. Union de l'Inde, Cour suprême, 18 décembre 2024", nature: "jurisprudence", annee: 2024, source: "https://indiankanoon.org/doc/94069814/"}
+      - {titre: "Wild Life (Protection) Act, 1972, article 36-C (réserves communautaires)", nature: "loi", annee: 1972, source: "https://indiankanoon.org/doc/94069814/"}
+    sources:
+      - {titre: "Indian Kanoon — arrêt du 18 décembre 2024 sur les bois sacrés du Rajasthan", url: "https://indiankanoon.org/doc/94069814/"}
+
+  - id: "bishnoi"
+    atlas_uid: ""
+    communaute: "Bishnoï (Rajasthan)"
+    etats: ["Inde"]
+    entite: "Arbres khejri, antilopes cervicapres (blackbuck), gazelles chinkara et autres animaux sauvages"
+    mecanisme: "coutume_sans_statut"
+    annee: 1730
+    concept_local: "Les 29 principes de Guru Jambheshwar ; khejri"
+    resume: >-
+      La communauté bishnoï suit 29 principes énoncés en 1485 par Guru Jambheshwar ; huit portent sur la protection de la biodiversité selon Down To Earth, en particulier des animaux sauvages. En 1730, à Khejarli près de Jodhpur, 363 Bishnoï sont tués en s'opposant à l'abattage des khejri par les hommes du maharaja de Marwar. Ces règles ne sont pas reconnues comme droit applicable : ni les arbres ni les animaux n'ont de statut juridique propre au titre de la coutume bishnoï. Les espèces concernées relèvent du droit général de protection de la faune.
+    gouvernance: "Aucun représentant désigné ; la communauté surveille ses terres et ses villages."
+    effectivite: "La coutume est appliquée par la communauté. Reconnaissance publique seulement symbolique : en 2013, le ministère de l'Environnement et des Forêts déclare le 11 septembre Journée nationale des martyrs de la forêt (Sahapedia). L'arrêt de la Cour suprême de 2024 cite les Bishnoï à propos des orans du Rajasthan."
+    textes:
+      - {titre: "Aucun texte juridique ne reconnaît les règles bishnoï ; mention dans l'arrêt de la Cour suprême du 18 décembre 2024 (§ 12)", nature: "jurisprudence", annee: 2024, source: "https://indiankanoon.org/doc/94069814/"}
+    sources:
+      - {titre: "Down To Earth — les Bishnoï et les principes de Guru Jambheshwar", url: "https://www.downtoearth.org.in/wildlife-biodiversity/the-bishnoi-blackbuck-and-chinkara-what-exactly-were-guru-jambeshwars-principles-regarding-thar-wildlife"}
+      - {titre: "Sahapedia — Amrita Devi et le massacre de Khejarli", url: "https://www.sahapedia.org/when-amrita-devi-and-362-bishnois-sacrificed-their-lives-khejri-tree"}
+
+  - id: "bagungu-buliisa"
+    atlas_uid: ""
+    communaute: "Bagungu (district de Buliisa)"
+    etats: ["Ouganda"]
+    entite: "Sites naturels sacrés (Mpuluma) : zones humides, rives du lac, forêts"
+    mecanisme: "protection_coutumiere_reconnue"
+    annee: 2020
+    concept_local: "Mpuluma ; Balamansi ; Balamansi Bahandu"
+    resume: >-
+      Le 23 décembre 2020, le conseil du district de Buliisa adopte à l'unanimité une ordonnance (règlement de district) sur les lois coutumières des Bagungu. Le texte reconnaît ces lois coutumières et fait des sites naturels sacrés des zones fermées à toute personne ou entreprise extérieure. Il reconnaît aux gardiens (Balamansi) le droit d'accéder aux sites et d'y conduire les rituels. Les clans bagungu ont préparé l'ordonnance en documentant leurs lois et leurs cartes éco-culturelles à partir de 2018. Au niveau national, la loi ougandaise sur l'environnement de 2019 (section 4) reconnaît des droits à la nature.
+    gouvernance: "Gardiens coutumiers (Balamansi) et gardiens en chef (Balamansi Bahandu) ; organe de gouvernance partagée entre gardiens et agents du district."
+    effectivite: "inconnue (application dans ce district où l'on exploite du pétrole non vérifiée)"
+    textes:
+      - {titre: "The Local Governments (Buliisa District) (Bagungu Customary Laws) Ordinance 2020", nature: "reglement local", annee: 2020, source: "https://ecojurisprudence.org/initiatives/buliisa-district-uganda-ordinance-on-bagungu-customary-law-and-preservation-of-sacred-natural-sites-in-buliisa-district/"}
+      - {titre: "National Environment Act 2019, section 4", nature: "loi", annee: 2019, source: "https://gaiafoundation.org/uganda-recognises-rights-of-nature-customary-laws-sacred-natural-sites/"}
+    sources:
+      - {titre: "Gaia Foundation — l'Ouganda reconnaît les lois coutumières et les sites sacrés", url: "https://gaiafoundation.org/uganda-recognises-rights-of-nature-customary-laws-sacred-natural-sites/"}
+      - {titre: "Eco Jurisprudence Monitor — ordonnance de Buliisa", url: "https://ecojurisprudence.org/initiatives/buliisa-district-uganda-ordinance-on-bagungu-customary-law-and-preservation-of-sacred-natural-sites-in-buliisa-district/"}
+
+  - id: "gange-yamuna"
+    atlas_uid: ""
+    communaute: "Aucune communauté partie (recours d'un particulier) ; rivières vénérées dans l'hindouisme"
+    etats: ["Inde"]
+    entite: "Gange et Yamuna"
+    mecanisme: "sujet_de_droits_juge"
+    annee: 2017
+    concept_local: "Ganga Mata (« Gange mère »)"
+    resume: >-
+      En mars 2017, dans une affaire d'occupations illégales des rives, la haute cour de l'Uttarakhand déclare le Gange et la Yamuna entités vivantes ayant les droits, devoirs et responsabilités d'une personne. Elle désigne comme gardiens des hauts fonctionnaires de l'État, dont le secrétaire général et l'avocat général de l'Uttarakhand. La même année, dans l'affaire Miglani, la haute cour étend ce statut aux glaciers, lacs, forêts et prairies. Le gouvernement de l'Uttarakhand saisit la Cour suprême, en soutenant que la décision est juridiquement intenable.
+    gouvernance: "Gardiens nommés par la haute cour : fonctionnaires de l'État, sans représentant de communauté."
+    effectivite: "Sans effet : le 7 juillet 2017, la Cour suprême suspend la décision de la haute cour (la BBC parle d'annulation)."
+    textes:
+      - {titre: "Mohd. Salim c. État d'Uttarakhand, haute cour de l'Uttarakhand", nature: "jurisprudence", annee: 2017, source: "https://ecojurisprudence.org/initiatives/salim-v-state-of-uttarakhand/"}
+      - {titre: "Lalit Miglani c. État d'Uttarakhand, haute cour de l'Uttarakhand", nature: "jurisprudence", annee: 2017, source: "https://ecojurisprudence.org/initiatives/miglani-v-state-of-uttarakhand/"}
+    sources:
+      - {titre: "Eco Jurisprudence Monitor — Salim c. État d'Uttarakhand", url: "https://ecojurisprudence.org/initiatives/salim-v-state-of-uttarakhand/"}
+      - {titre: "BBC — India's Ganges and Yamuna rivers are 'not living entities' (7 juillet 2017)", url: "https://www.bbc.com/news/world-asia-india-40537701"}
+
+  - id: "mar-menor"
+    atlas_uid: ""
+    communaute: "Aucune communauté autochtone (initiative législative citoyenne)"
+    etats: ["Espagne"]
+    entite: "Lagune du Mar Menor et son bassin (Murcie)"
+    mecanisme: "personnalite_juridique"
+    annee: 2022
+    concept_local: ""
+    resume: >-
+      Cas de comparaison, sans communauté autochtone. La loi 19/2022 du 30 septembre 2022 naît d'une initiative législative populaire (proposition de loi portée par des signatures de citoyens). Elle déclare la personnalité juridique de la lagune et de son bassin, reconnus « sujet de droits » (art. 1). Toute personne physique ou morale peut agir en justice au nom de l'écosystème, « véritable partie intéressée », et récupérer ses frais de procès si elle gagne (art. 6). Le 20 novembre 2024, le Tribunal constitutionnel rejette le recours contre la loi et la juge conforme à la Constitution.
+    gouvernance: "Tutelle du Mar Menor (art. 3) : comité de représentants de treize membres (trois de l'État, trois de la région, sept citoyens, d'abord les promoteurs de l'initiative), commission de suivi (« gardiens » désignés par les communes riveraines et les secteurs économiques, sociaux et associatifs) et comité scientifique."
+    effectivite: "Constitutionnalité confirmée (2024). Des actions au nom de la lagune sont recensées par l'Eco Jurisprudence Monitor ; leur issue n'a pas été vérifiée pour ce dossier."
+    textes:
+      - {titre: "Ley 19/2022, de 30 de septiembre, para el reconocimiento de personalidad jurídica a la laguna del Mar Menor y su cuenca", nature: "loi", annee: 2022, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-16019"}
+      - {titre: "Tribunal constitutionnel, arrêt du 20 novembre 2024 sur la loi 19/2022", nature: "jurisprudence", annee: 2024, source: "https://ecojurisprudence.org/initiatives/spain-constitutional-court-ruling-on-the-mar-menor-act-of-2022/"}
+    sources:
+      - {titre: "BOE — Ley 19/2022 (texte consolidé)", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-16019"}
+      - {titre: "Eco Jurisprudence Monitor — arrêt du Tribunal constitutionnel", url: "https://ecojurisprudence.org/initiatives/spain-constitutional-court-ruling-on-the-mar-menor-act-of-2022/"}
+synthese: >-
+  Dans les cas néo-zélandais, la personnalité juridique vient d'un accord de règlement entre la Couronne et un iwi. L'entité reçoit la propriété de ses terres et un organe paritaire, ou à majorité māori, parle en son nom ; le texte reprend les notions de la communauté dans sa langue. En Équateur et en Bolivie, les droits visent la nature en général et empruntent des termes kichwa, aymara ou guarani, mais personne n'est désigné pour les défendre : ce sont les juges qui leur donnent effet, comme dans l'affaire Los Cedros. En Colombie et en Inde, le juge a créé le statut sans loi ; la décision colombienne associe les communautés comme gardiennes, la décision indienne sur le Gange a été suspendue.
+
+
+  Une autre série de cas vient des communautés elles-mêmes : constitution tribale ho-chunk, code navajo, lois yurok et ojibwe, résolution innue, déclarations de Sarayaku et du Martuwarra. Ces textes s'appliquent sur le territoire de la communauté ; hors de ce territoire, leur force dépend de l'État, comme le montre le rejet de l'affaire manoomin pour incompétence du tribunal tribal. Enfin, les bois sacrés, les sites des Bagungu et Niyamgiri relèvent d'une protection coutumière que l'État reconnaît sans faire du lieu une personne. La coutume bishnoï, elle, n'a aucune traduction juridique. Le Mar Menor montre qu'un même mécanisme peut naître hors de toute communauté autochtone.
+limites:
+  - "Le dossier ne couvre pas les forêts sacrées kaya des Mijikenda (Kenya) : la source officielle (UNESCO) n'était pas accessible."
+  - "L'arrêté interministériel béninois n° 0121 de 2012 sur la gestion des forêts sacrées, qui confie leur gestion aux communautés, n'a pas été traité en cas séparé faute de communauté précise."
+  - "Suivi de l'arrêt Atrato (désignation et fonctionnement des gardiens du fleuve) : aucune source ouverte fiable consultée."
+  - "Pour les normes tribales (Yurok, Ho-Chunk, Navajo) et la résolution innue, aucune décision de justice les appliquant n'a été trouvée ; leur effet réel reste inconnu."
+  - "Plusieurs cas reposent sur l'Eco Jurisprudence Monitor (université de l'Oregon) comme source secondaire ; les textes primaires ont été ouverts quand ils étaient en ligne."
+  - "Autres cas repérés et non traités : loi propre de la communauté A'i Cofán de Sinangoe (Équateur, 2017) et arrêt de la Cour constitutionnelle du 4 février 2022 sur le consentement, Piatúa (communautés kichwa, Équateur, 2019), droits de la rivière Rice Lake (Première Nation d'Alderville), harengs (Mashpee Wampanoag), système hydrographique Long Man (Cherokee de l'Est), caribou de Finlayson (Premières Nations du Yukon), fleuve Saint-Laurent."
+candidats_atlas:
+  - "Innus d'Ekuanitshit (Québec) : Première Nation sous la Loi sur les Indiens, avec conseil élu ; auteur de la résolution sur la Mutehekau Shipu. Une fiche « Innus (Nitassinan) » couvrirait aussi les ententes de Pessamit et de l'Approche commune."
+  - "A'i Cofán de Sinangoe (Équateur) : communauté qui a adopté en 2017 sa propre loi territoriale (le territoire « vivant et sacré ») et obtenu en 2022 un arrêt de la Cour constitutionnelle sur le consentement ; aucune fiche équatorienne hors Sarayaku. Sources : https://ecojurisprudence.org/initiatives/ecuador-ai-cofan-of-sinangoe-indigenous-law/ et https://amazonfrontlines.org/chronicles/the-sinangoe-precedent-an-instrument-of-protection/"
+  - "Bagungu de Buliisa (Ouganda) : ordonnance de district de 2020 qui reconnaît leurs lois coutumières et leurs gardiens ; à vérifier au regard du critère d'autonomie du cadre."
+  - "Nations du Martuwarra (Kimberley, Australie) : titre autochtone reconnu et conseil du fleuve ; la fiche générale titre-autochtone-australie pourrait recevoir un encadré."
+  - "Yurok, Ho-Chunk et Ojibwe de White Earth (États-Unis) : actuellement regroupés dans nations-tribales-etats-unis ; une fiche propre permettrait de décrire leurs codes tribaux."

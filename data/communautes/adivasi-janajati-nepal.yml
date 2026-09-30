@@ -1,0 +1,49 @@
+uid: "adivasi-janajati-nepal"
+nom: "Nationalités autochtones du Népal (Adivasi Janajati)"
+endonyme: "Ādivāsī Janajāti"
+territoire: "Népal"
+etats: ["Népal"]
+region: "asie"
+coord: [28.2, 84.1]
+type: "peuple_autochtone"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi de 2002 sur la Fondation nationale pour le développement des nationalités autochtones (NFDIN) reconnaît 59 groupes comme nationalités autochtones ; les Humlo ont été ajoutés en 2024. Le Népal a ratifié la Convention 169 de l'OIT en 2007. La Constitution de 2015 prévoit des quotas de candidats adivasi janajati sur les listes proportionnelles, un droit de participation aux organes de l'État et une commission des Adivasi Janajati. Son article 56 (5) permet de créer des régions spéciales, protégées ou autonomes, qui n'ont pas été créées.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Ratification de la Convention n° 169 de l'OIT approuvée par le Parlement le 22 août 2007, instrument déposé le 5 septembre 2007", annee: 2007, source: "https://www.ilo.org/resource/news/nepal-ratifies-ilo-convention-indigenous-and-tribal-peoples-rights"}
+base_nationale:
+  - {instrument: "National Foundation for Development of Indigenous Nationalities Act, 2002", nature: "loi", annee: 2002, source: "https://minorityrights.org/country/nepal/"}
+  - {instrument: "Constitution du Népal (2015), art. 42, 51 (j) (8), 56 (5), 84 (2), 176 (6) et 261", nature: "constitution", annee: 2015, source: "https://www.constituteproject.org/constitution/Nepal_2016"}
+droits:
+  autogouvernement: {valeur: "conteste", note: "Des régions spéciales, protégées et autonomes peuvent être créées par loi fédérale pour la protection socioculturelle, Constitution, art. 56 (5) (2015) ; aucune n'a été créée à ce jour selon une déclaration d'organisations autochtones à l'Examen périodique universel (2025).", source: "https://upr-info.org/sites/default/files/country-document/2025-11/Nepal_LAHURNIP_statement.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Politique de l'État : faire participer les Adivasi Janajati aux décisions qui les concernent et préserver leurs savoirs traditionnels, Constitution, art. 51 (j) (8) ; sa mise en œuvre ne peut être contestée en justice, art. 55.", source: "https://www.constituteproject.org/constitution/Nepal_2016"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Listes fermées des partis pour les 110 sièges à la proportionnelle de la Chambre des représentants avec représentation des Adivasi Janajati, art. 84 (2), et des assemblées provinciales, art. 176 (6) ; droit de participer aux organes de l'État selon le principe d'inclusion proportionnelle, art. 42 (1), Constitution de 2015.", source: "https://www.constituteproject.org/constitution/Nepal_2016"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Les organisations autochtones signalent en 2025 que l'article 56 (5) n'est pas appliqué, que des projets avancent sans consentement préalable et qu'une directive de la Cour suprême de 2025 sur l'alignement des lois sur la Convention 169 est ignorée.", source: "https://upr-info.org/sites/default/files/country-document/2025-11/Nepal_LAHURNIP_statement.pdf"}
+chronologie:
+  - {annee: 2002, evenement: "Loi NFDIN : 59 nationalités autochtones reconnues."}
+  - {annee: 2007, evenement: "Ratification de la Convention 169 de l'OIT."}
+  - {annee: 2015, evenement: "Constitution fédérale ; art. 56 (5) sur les régions autonomes."}
+  - {annee: 2024, evenement: "Reconnaissance des Humlo le 11 juillet."}
+fiabilite:
+  verifie: ["Articles 42, 51, 55, 56, 84 et 176 de la Constitution (traduction anglaise, Constitute Project).", "Date de ratification de la Convention 169 (OIT).", "Nombre de groupes reconnus en 2002 (Minority Rights Group).", "Reconnaissance des Humlo en 2024 (Cultural Survival).", "Non-application de l'art. 56 (5) (déclaration LAHURNIP, 28 novembre 2025)."]
+  non_confirme: ["Population : environ 10 millions de personnes, au moins 35 % de la population au recensement de 2021, selon Minority Rights Group ; chiffre officiel non consulté.", "Texte de la loi NFDIN de 2002 : non consulté directement.", "Nombre total actuel de groupes reconnus après 2024 : non confirmé.", "Effet interne de la Convention 169 (loi de 1990 sur les traités) : non vérifié."]
+sources:
+  - {titre: "Constitution du Népal 2015 (rév. 2016) — Constitute Project", url: "https://www.constituteproject.org/constitution/Nepal_2016"}
+  - {titre: "Nepal ratifies ILO Convention 169 — OIT", url: "https://www.ilo.org/resource/news/nepal-ratifies-ilo-convention-indigenous-and-tribal-peoples-rights"}
+  - {titre: "Minority Rights Group — Nepal", url: "https://minorityrights.org/country/nepal/"}
+  - {titre: "Déclaration LAHURNIP, pré-session de l'EPU (28 novembre 2025)", url: "https://upr-info.org/sites/default/files/country-document/2025-11/Nepal_LAHURNIP_statement.pdf"}
+  - {titre: "Cultural Survival, reconnaissance des Humlo (2024)", url: "https://www.culturalsurvival.org/news/nepal-officially-recognizes-humlo-peoples-indigenous-nationality"}

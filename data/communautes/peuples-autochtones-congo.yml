@@ -1,0 +1,55 @@
+uid: "peuples-autochtones-congo"
+nom: "Peuples autochtones de la République du Congo"
+endonyme: ""
+territoire: "Forêts et villages du nord et du sud-ouest de la République du Congo (Sangha, Likouala, Lékoumou et autres départements)"
+etats: ["République du Congo"]
+region: "afrique"
+coord: [1.0, 15.5]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les peuples autochtones du Congo regroupent notamment les Ba'Aka, Mbendjele, Mikaya, Gyeli, Luma, Twa et Babongo, chasseurs-cueilleurs de tradition semi-nomade.
+  Ils représentent 1,2 % de la population selon le recensement de 2007, jusqu'à 10 % selon d'autres estimations.
+  La loi n° 5-2011 du 25 février 2011 leur reconnaît des droits collectifs sur les terres, la consultation, la coutume et la culture ; l'article 16 de la Constitution de 2015 en garantit la protection.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Congo a voté pour la Déclaration des Nations unies sur les droits des peuples autochtones le 13 septembre 2007 et reconnaît les « populations autochtones » dans la loi n° 5-2011.", annee: 2007, source: "https://docs.un.org/fr/A/61/PV.107"}
+  - {mecanisme: "rapporteur_special", detail: "Visite de la Rapporteuse spéciale Victoria Tauli-Corpuz du 14 au 24 octobre 2019, après celle de 2010 (A/HRC/45/34/Add.1).", annee: 2020, source: "https://docs.un.org/fr/A/HRC/45/34/Add.1"}
+base_nationale:
+  - {instrument: "Loi n° 5-2011 du 25 février 2011 portant promotion et protection des droits des populations autochtones", nature: "loi", annee: 2011, source: "https://faolex.fao.org/docs/pdf/con105791.pdf"}
+  - {instrument: "Constitution du 25 octobre 2015, art. 16", nature: "constitution", annee: 2015, source: "https://extranet.who.int/cpcd/sites/default/files/public_file_repository/COG_Congo_Constitution_2015.pdf"}
+  - {instrument: "Décret n° 2019-201 du 12 juillet 2019 fixant les procédures de consultation et de participation des populations autochtones", nature: "loi", annee: 2019, source: "https://docs.un.org/fr/A/HRC/45/34/Add.1"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Loi n° 5-2011, art. 11 : droit d'administrer leurs affaires intérieures ; art. 12 : reconnaissance des villages autochtones lors de la création des entités administratives locales. Le décret sur la reconnaissance des villages n'était pas adopté en 2020.", source: "https://faolex.fao.org/docs/pdf/con105791.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Loi n° 5-2011, art. 13 : les coutumes et institutions traditionnelles conformes aux droits fondamentaux sont garanties.", source: "https://faolex.fao.org/docs/pdf/con105791.pdf"}
+  justice_propre: {valeur: "partiel", note: "Loi n° 5-2011, art. 11 : droit de recourir à leurs coutumes pour régler les conflits internes, dans le respect de la loi.", source: "https://faolex.fao.org/docs/pdf/con105791.pdf"}
+  terres: {valeur: "partiel", note: "Loi n° 5-2011, art. 31-32 : droit collectif et individuel de propriété sur les terres occupées traditionnellement, imprescriptible et inaliénable sauf expropriation pour cause d'utilité publique ; délimitation sur la base du droit foncier coutumier. Décret foncier d'application non adopté (projet validé en atelier en décembre 2025).", source: "https://faolex.fao.org/docs/pdf/con105791.pdf"}
+  ressources: {valeur: "partiel", note: "Loi n° 5-2011, art. 31, 36 et 41 : droit sur les ressources naturelles utilisées traditionnellement, droit de définir les priorités de mise en valeur « dans les limites de la loi », droit aux bénéfices de leur exploitation commerciale.", source: "https://faolex.fao.org/docs/pdf/con105791.pdf"}
+  consentement: {valeur: "partiel", note: "Loi n° 5-2011, art. 3, 38 et 39 : consultation préalable par leurs institutions représentatives ; décret n° 2019-201 fixant la procédure, critiqué pour limiter les consultations à trois mois.", source: "https://docs.un.org/fr/A/HRC/45/34/Add.1"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "Loi n° 5-2011, art. 17-21 : accès sans discrimination, programmes adaptés à leurs besoins et mode de vie, alphabétisation des adultes dans leurs langues.", source: "https://faolex.fao.org/docs/pdf/con105791.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Loi n° 5-2011, art. 6 : droits matrimoniaux et successoraux garantis en tenant compte de leur identité culturelle, en conformité avec les dispositions générales en vigueur.", source: "https://faolex.fao.org/docs/pdf/con105791.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La Rapporteuse spéciale constate en 2020 que la loi reste peu appliquée : communautés qui n'en ont jamais entendu parler, 32,1 % d'autochtones dotés de documents d'état civil, aucun autochtone élu à l'Assemblée nationale, droits fonciers non sécurisés (A/HRC/45/34/Add.1).", source: "https://docs.un.org/fr/A/HRC/45/34/Add.1"}
+chronologie:
+  - {annee: 2007, evenement: "Le Congo vote pour la Déclaration des Nations unies sur les droits des peuples autochtones."}
+  - {annee: 2010, evenement: "Visite du Rapporteur spécial sur les droits des peuples autochtones."}
+  - {annee: 2011, evenement: "Promulgation de la loi n° 5-2011 le 25 février."}
+  - {annee: 2015, evenement: "Constitution du 25 octobre : article 16 sur les droits des peuples autochtones."}
+  - {annee: 2019, evenement: "Adoption en juillet de six décrets d'application sur huit prévus ; visite de la Rapporteuse spéciale en octobre."}
+  - {annee: 2025, evenement: "Projet de décret sur la sécurisation des droits fonciers coutumiers validé en atelier (22-24 décembre)."}
+fiabilite:
+  verifie: ["Texte intégral de la loi n° 5-2011 (Journal officiel du 3 mars 2011, via FAOLEX).", "Rapport A/HRC/45/34/Add.1 (2020) : décrets de 2019, décret 2019-201, effectivité.", "Vote du Congo en faveur de la DNUDPA (A/61/PV.107)."]
+  non_confirme: ["Statut du projet de décret foncier après décembre 2025 (source : Les Dépêches de Brazzaville via allAfrica).", "Texte de l'art. 16 lu dans une traduction anglaise de la Constitution.", "Chiffre de population : 1,2 % (recensement 2007) à 10 % selon les estimations ; aucun effectif absolu sourcé."]
+sources:
+  - {titre: "Loi n° 5-2011 du 25 février 2011 — Journal officiel (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/con105791.pdf"}
+  - {titre: "Rapport de la Rapporteuse spéciale sur les droits des peuples autochtones — Visite en République du Congo, A/HRC/45/34/Add.1 (2020)", url: "https://docs.un.org/fr/A/HRC/45/34/Add.1"}
+  - {titre: "Assemblée générale — Procès-verbal A/61/PV.107 (adoption de la DNUDPA)", url: "https://docs.un.org/fr/A/61/PV.107"}
+  - {titre: "Constitution de la République du Congo (2015)", url: "https://extranet.who.int/cpcd/sites/default/files/public_file_repository/COG_Congo_Constitution_2015.pdf"}
+  - {titre: "Minority Rights Group — Republic of Congo", url: "https://minorityrights.org/country/republic-of-congo/"}
+  - {titre: "allAfrica / Les Dépêches de Brazzaville — La sécurisation des droits fonciers des autochtones se renforce (2025)", url: "https://fr.allafrica.com/stories/202512300332.html"}

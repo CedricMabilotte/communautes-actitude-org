@@ -1,0 +1,58 @@
+uid: "juhoansi-nyae-nyae-namibie"
+nom: "Ju|'hoansi de Nyae Nyae"
+endonyme: "Ju|'hoansi"
+territoire: "Conservancy de Nyae Nyae (district de Tsumkwe, région d'Otjozondjupa)"
+etats: ["Namibie"]
+region: "afrique"
+coord: [-19.6, 20.5]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2200, annee: 2001, perimetre: "Ju|'hoansi vivant dans la zone de Nyae Nyae", source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/controlling-their-destiny-juhoansi-nyae-nyae"}
+lieux: {valeur: 35, unite: "communautés (villages)", annee: 2001, source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/controlling-their-destiny-juhoansi-nyae-nyae"}
+surface_km2: {valeur: 9003, annee: 2001, perimetre: "superficie de la conservancy", source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/controlling-their-destiny-juhoansi-nyae-nyae"}
+resume: >-
+  Les Ju|'hoansi sont un peuple san du nord-est de la Namibie, organisé en communautés réparties sur leurs territoires traditionnels.
+  En février 1998, la zone de Nyae Nyae est devenue la première conservancy communale (zone de gestion communautaire de la faune) du pays, au titre de la loi de 1996 sur la conservation de la nature.
+  Ils disposent d'une autorité traditionnelle reconnue au titre de la loi de 2000 sur les autorités traditionnelles ; la terre communale reste propriété de l'État.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "La Namibie a voté pour la Déclaration des Nations unies sur les droits des peuples autochtones le 13 septembre 2007 (A/61/PV.107).", annee: 2007, source: "https://docs.un.org/fr/A/61/PV.107"}
+base_nationale:
+  - {instrument: "Constitution de la Namibie, art. 66, 100 et 102(5)", nature: "constitution", annee: 1990, source: "https://www.constituteproject.org/constitution/Namibia_2014?lang=en"}
+  - {instrument: "Nature Conservation Amendment Act (loi modifiant la loi sur la conservation de la nature) n° 5 de 1996, art. 24A", nature: "loi", annee: 1996, source: "https://www.ecolex.org/details/legislation/nature-conservation-amendment-act-1996-no-5-of-1996-lex-faoc018004/"}
+  - {instrument: "Traditional Authorities Act (loi sur les autorités traditionnelles) n° 25 de 2000, art. 3", nature: "loi", annee: 2000, source: "https://www.nid.org.na/images/pdf/democracy/Traditional_Authorities_Acts.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Loi n° 25 de 2000 : l'autorité traditionnelle ju|'hoan, reconnue par l'État, veille au bien-être de la communauté et à l'observation de son droit coutumier (art. 3(1)) ; le comité de la conservancy gère la faune (loi de 1996, art. 24A).", source: "https://www.nid.org.na/images/pdf/democracy/Traditional_Authorities_Acts.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Art. 66 de la Constitution : le droit coutumier en vigueur à l'indépendance reste valide s'il ne contredit ni la Constitution ni la loi ; art. 3(1)(a) de la loi de 2000 : l'autorité traditionnelle établit le droit coutumier après consultation et aide à sa codification.", source: "https://www.constituteproject.org/constitution/Namibia_2014?lang=en"}
+  justice_propre: {valeur: "partiel", note: "Art. 3(1)(b) de la loi de 2000 : l'autorité traditionnelle administre et applique le droit coutumier de la communauté.", source: "https://www.nid.org.na/images/pdf/democracy/Traditional_Authorities_Acts.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Loi n° 5 de 1996 : les résidents d'une terre communale constitués en conservancy obtiennent des droits d'usage et de gestion de la faune ; Nyae Nyae est la seule terre communale où les San peuvent chasser selon leurs méthodes traditionnelles. L'art. 100 de la Constitution réserve la propriété des ressources naturelles à l'État.", source: "https://www.equatorinitiative.org/2020/04/24/solution11038/"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Art. 3(1)(c) de la loi de 2000 : l'autorité traditionnelle protège et promeut la culture, la langue, les traditions et les valeurs de la communauté. Pas de statut officiel de la langue.", source: "https://www.nid.org.na/images/pdf/democracy/Traditional_Authorities_Acts.pdf"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Art. 102(5) de la Constitution : Conseil des dirigeants traditionnels, consultatif, auprès du président.", source: "https://www.constituteproject.org/constitution/Namibia_2014?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Depuis avril 2009, des éleveurs herero font entrer leurs troupeaux dans la conservancy ; la conservancy et l'autorité traditionnelle préparent une revendication de terres ancestrales devant la Haute Cour.", source: "https://nje.org.na/index.php/nje/article/view/volume12-hitchcock"}
+chronologie:
+  - {annee: 1981, evenement: "Début du retour des Ju|'hoansi de Tsumkwe vers leurs territoires traditionnels."}
+  - {annee: 1990, evenement: "Indépendance et Constitution de la Namibie (art. 66 : droit coutumier)."}
+  - {annee: 1996, evenement: "Loi sur les conservancies communales."}
+  - {annee: 1998, evenement: "Enregistrement de la conservancy de Nyae Nyae en février, la première du pays."}
+  - {annee: 2000, evenement: "Loi sur les autorités traditionnelles."}
+  - {annee: 2009, evenement: "Arrivée de troupeaux herero dans la conservancy (avril)."}
+fiabilite:
+  verifie: ["Art. 66, 100 et 102(5) de la Constitution (Constitute Project).", "Art. 3(1) de la loi de 2000 (texte reproduit par le Namibia Institute for Democracy).", "Surface (9 003 km²), date d'enregistrement et nombre de communautés (Cultural Survival)."]
+  non_confirme: ["Le mécanisme dnudpa suppose que l'État reconnaisse les San comme autochtones : texte national en ce sens non consulté.", "Date de reconnaissance officielle de l'autorité traditionnelle ju|'hoan : non trouvée ; sa reconnaissance est attestée par une publication universitaire (Springer, 2021).", "Texte de l'art. 24A de la loi de 1996 non lu : le site officiel n'a pas pu être ouvert ; portée des droits sur la faune décrite d'après ECOLEX et l'Initiative Équateur.", "Population et nombre de villages datent de 2001 ; aucun chiffre récent sourcé.", "Droits fonciers sous la loi de 2002 sur la réforme des terres communales : non vérifiés."]
+sources:
+  - {titre: "Constitution de la Namibie — Constitute Project", url: "https://www.constituteproject.org/constitution/Namibia_2014?lang=en"}
+  - {titre: "Traditional Authorities Acts — Namibia Institute for Democracy", url: "https://www.nid.org.na/images/pdf/democracy/Traditional_Authorities_Acts.pdf"}
+  - {titre: "Nature Conservation Amendment Act 1996 — ECOLEX", url: "https://www.ecolex.org/details/legislation/nature-conservation-amendment-act-1996-no-5-of-1996-lex-faoc018004/"}
+  - {titre: "Cultural Survival — Controlling their destiny: Ju|'hoansi of Nyae Nyae", url: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/controlling-their-destiny-juhoansi-nyae-nyae"}
+  - {titre: "Hitchcock — Customary land rights, communal land and development: the Ju|'hoansi and the Nyae Nyae Conservancy, Namibian Journal of Environment", url: "https://nje.org.na/index.php/nje/article/view/volume12-hitchcock"}
+  - {titre: "Initiative Équateur (PNUD) — Nyae Nyae Conservancy and Community Forest", url: "https://www.equatorinitiative.org/2020/04/24/solution11038/"}
+  - {titre: "San Traditional Authorities, Communal Conservancies, Conflicts, and Leadership in Namibia — Springer (2021)", url: "https://link.springer.com/chapter/10.1007/978-3-030-76924-6_10"}
+  - {titre: "NACSO — Communal conservancies", url: "https://nacso.org.na/communal-conservancies/"}
+  - {titre: "Assemblée générale — A/61/PV.107 (2007)", url: "https://docs.un.org/fr/A/61/PV.107"}

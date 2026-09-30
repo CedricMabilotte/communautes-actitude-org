@@ -1,0 +1,56 @@
+uid: "terres-indigenes-bresil"
+nom: "Peuples autochtones du Brésil (terres indigènes)"
+endonyme: ""
+territoire: "Terres indigènes (terras indígenas) démarquées par l'Union"
+etats: ["Brésil"]
+region: "ameriques"
+coord: [-5.0, -60.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1693535, annee: 2022, perimetre: "personnes autochtones au Brésil, dans et hors des terres indigènes (recensement IBGE)", source: "https://revistapesquisa.fapesp.br/populacao-indigena-soma-169-milhao-de-pessoas-no-brasil/"}
+lieux: {valeur: 573, unite: "terres indigènes déclarées, homologuées ou régularisées", annee: 2022, source: "https://revistapesquisa.fapesp.br/populacao-indigena-soma-169-milhao-de-pessoas-no-brasil/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'article 231 de la Constitution de 1988 reconnaît aux peuples autochtones leur organisation sociale et des droits originaires sur les terres qu'ils occupent traditionnellement. Ces terres appartiennent à l'Union ; les peuples en ont la possession permanente et l'usufruit exclusif (droit d'usage et de jouissance) des richesses du sol, des rivières et des lacs. Le recensement de 2022 compte 1 693 535 personnes autochtones, dont environ 622 100 vivent dans les 573 terres indigènes alors déclarées, homologuées ou régularisées.
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Le Brésil ratifie la Convention 169 de l'OIT le 25 juillet 2002 (en vigueur le 25 juillet 2003).", annee: 2002, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "Le Brésil vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Constitution de la République fédérative du Brésil (1988), art. 20 XI, 210 § 2, 231 et 232", nature: "constitution", annee: 1988, source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+  - {instrument: "Loi 6.001 de 1973 (Statut de l'Indien), art. 57", nature: "loi", annee: 1973, source: "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm"}
+  - {instrument: "Décret 5.051 de 2004 promulguant la Convention 169 de l'OIT", nature: "loi", annee: 2004, source: "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5051.htm"}
+  - {instrument: "Tribunal fédéral suprême, rejet de la thèse du « marco temporal » (date-butoir d'occupation au 5 octobre 1988), 2023, confirmé en décembre 2025", nature: "jurisprudence", annee: 2023, source: "https://cimi.org.br/2025/12/stf-reafirma-inconstitucionalidade-do-marco-temporal-mas-lei-14-701-impoe-contradicoes/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La Constitution (art. 231) reconnaît l'organisation sociale des peuples autochtones et l'article 232 donne qualité pour agir en justice à leurs communautés et organisations, sans créer d'institution publique propre.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "Le Statut de l'Indien de 1973 (art. 57) tolère l'application par les groupes de sanctions pénales ou disciplinaires selon leurs institutions, hors peines cruelles, infamantes ou de mort.", source: "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm"}
+  terres: {valeur: "partiel", note: "La Constitution (art. 231 § 2 et § 4, art. 20 XI) donne la possession permanente de terres inaliénables et indisponibles, dont la propriété reste à l'Union.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+  ressources: {valeur: "partiel", note: "La Constitution (art. 231 § 2 et § 3) donne l'usufruit exclusif des richesses du sol, des rivières et des lacs ; les ressources hydrauliques et minières relèvent d'une autorisation du Congrès national, avec participation aux résultats.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 231 § 3) impose d'entendre les communautés avant l'exploitation minière ou hydraulique ; le décret 5.051 de 2004 promulgue la Convention 169 et son obligation de consultation.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+  langue: {valeur: "partiel", note: "La Constitution (art. 231) reconnaît les langues autochtones, sans statut officiel au niveau fédéral.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+  education: {valeur: "partiel", note: "La Constitution (art. 210 § 2) assure aux communautés autochtones l'usage de leurs langues maternelles et de leurs processus propres d'apprentissage dans l'enseignement fondamental.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Le Tribunal fédéral suprême a déclaré la date-butoir de 1988 inconstitutionnelle en 2023 et en décembre 2025, mais la loi 14.701 de 2023 reste en vigueur pour d'autres dispositions et une proposition d'amendement constitutionnel (PEC 48/23) adoptée par le Sénat en décembre 2025 vise à inscrire cette date dans la Constitution.", source: "https://cimi.org.br/2025/12/stf-reafirma-inconstitucionalidade-do-marco-temporal-mas-lei-14-701-impoe-contradicoes/"}
+chronologie:
+  - {annee: 1973, evenement: "Adoption du Statut de l'Indien (loi 6.001)."}
+  - {annee: 1988, evenement: "La Constitution reconnaît les droits originaires sur les terres traditionnellement occupées (art. 231)."}
+  - {annee: 2002, evenement: "Ratification de la Convention 169 de l'OIT."}
+  - {annee: 2023, evenement: "Le Tribunal fédéral suprême rejette la thèse du « marco temporal » ; le Congrès adopte la loi 14.701."}
+  - {annee: 2025, evenement: "Le Tribunal fédéral suprême confirme l'inconstitutionnalité de la date-butoir ; le Sénat adopte la PEC 48/23."}
+fiabilite:
+  verifie: ["Texte des articles 20 XI, 210 § 2, 231 et 232 de la Constitution.", "Article 57 de la loi 6.001 de 1973.", "Chiffres du recensement de 2022 relayés par la revue Pesquisa FAPESP."]
+  non_confirme: ["Suite donnée à la PEC 48/23 par la Chambre des députés.", "Issue des recours examinés par le Tribunal fédéral suprême à partir du 19 juin 2026.", "Portée actuelle de la tutelle prévue par le Statut de l'Indien au regard de la Constitution."]
+sources:
+  - {titre: "Constitution fédérale de 1988 — Planalto", url: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+  - {titre: "Loi 6.001 de 1973, Statut de l'Indien — Planalto", url: "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm"}
+  - {titre: "Décret 5.051 de 2004 — Planalto", url: "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5051.htm"}
+  - {titre: "STF reafirma inconstitucionalidade do marco temporal — CIMI (décembre 2025)", url: "https://cimi.org.br/2025/12/stf-reafirma-inconstitucionalidade-do-marco-temporal-mas-lei-14-701-impoe-contradicoes/"}
+  - {titre: "STF julga recursos sobre a Lei do Marco Temporal — APIB (juin 2026)", url: "https://apiboficial.org/2026/06/18/stf-julga-recursos-sobre-a-lei-do-marco-temporal-a-partir-de-sexta-feira/"}
+  - {titre: "População indígena soma 1,69 milhão de pessoas no Brasil — Pesquisa FAPESP", url: "https://revistapesquisa.fapesp.br/populacao-indigena-soma-169-milhao-de-pessoas-no-brasil/"}
+  - {titre: "Déclaration de fin de mission de la Rapporteuse spéciale sur le racisme au Brésil (2024) — HCDH", url: "https://www.ohchr.org/sites/default/files/documents/issues/racism/sr/statements/20240816-eom-stm-brazil-sr-racism.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

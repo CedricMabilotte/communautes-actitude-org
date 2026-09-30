@@ -1,0 +1,48 @@
+uid: "bhutia-lepcha-sikkim"
+nom: "Bhutia et Lepcha du Sikkim"
+endonyme: ""
+territoire: "État du Sikkim"
+etats: ["Inde"]
+region: "asie"
+coord: [27.5, 88.5]
+type: "peuple_tribal"
+base: "mixte"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 12, unite: "circonscriptions réservées sur 32 sièges de l'Assemblée", annee: 1993, source: "https://indiankanoon.org/doc/745161/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Bhutia et les Lepcha sont deux peuples du Sikkim, ancien royaume intégré à l'Inde en 1975. L'article 371F de la Constitution, inséré par le 36e amendement (en vigueur le 26 avril 1975), maintient les lois antérieures du Sikkim et permet au Parlement de réserver des sièges à des « sections » de la population. Douze des 32 sièges de l'Assemblée sont réservés aux Bhutia-Lepcha et un siège au Sangha (clergé bouddhiste), réservations validées par la Cour suprême en 1993. L'ordre foncier n° 1 de 1917 interdit la cession de terres de Bhutia ou de Lepcha à d'autres personnes.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/IND/CO/19, § 10 : recommande de reconnaître les peuples tribaux et les « tribus énumérées » comme groupes ayant droit à une protection spéciale ; § 12 et 19 sur les États du nord-est", annee: 2007, source: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+base_nationale:
+  - {instrument: "Constitution de l'Inde, art. 371F, inséré par le 36e amendement (1975)", nature: "constitution", annee: 1975, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {instrument: "R.C. Poudyal c. Union de l'Inde, Cour suprême, 10 février 1993", nature: "jurisprudence", annee: 1993, source: "https://indiankanoon.org/doc/745161/"}
+  - {instrument: "Revenue Order No. 1 (1917), maintenu par l'art. 371F (k)", nature: "loi", annee: 1917, source: "https://hcs.gov.in/hcs/hg_orders/201100000222023_9.pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Revenue Order No. 1 (1917), loi antérieure maintenue par l'art. 371F (k), interdit la cession de terres d'un Bhutia ou d'un Lepcha à une personne qui ne l'est pas (Haute Cour du Sikkim, 21 juin 2024) ; pas de propriété collective.", source: "https://hcs.gov.in/hcs/hg_orders/201100000222023_9.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Douze sièges réservés aux Bhutia-Lepcha et un siège au Sangha sur 32 à l'Assemblée du Sikkim, sur le fondement de l'art. 371F (f) ; réservations jugées conformes à la Constitution par la Cour suprême (R.C. Poudyal, 1993).", source: "https://indiankanoon.org/doc/745161/"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "La Haute Cour du Sikkim applique en 2024 le Revenue Order No. 1 comme « ancienne loi du Sikkim protégée par l'art. 371F ».", source: "https://hcs.gov.in/hcs/hg_orders/201100000222023_9.pdf"}
+chronologie:
+  - {annee: 1917, evenement: "Revenue Order No. 1 sur les terres des Bhutia et Lepcha."}
+  - {annee: 1975, evenement: "Le Sikkim devient un État de l'Inde ; art. 371F en vigueur le 26 avril."}
+  - {annee: 1993, evenement: "La Cour suprême valide les sièges réservés (R.C. Poudyal)."}
+fiabilite:
+  verifie: ["Texte de l'art. 371F (édition officielle de la Constitution, 2024).", "Arrêt R.C. Poudyal (1993) sur les douze sièges et le siège du Sangha.", "Application du Revenue Order No. 1 par la Haute Cour du Sikkim (2024)."]
+  non_confirme: ["Population bhutia et lepcha (recensement 2011, tableau par groupe répertorié) : non consultée.", "Réserve de Dzongu, réservée aux Lepcha : texte non consulté.", "Base légale actuelle des douze sièges (art. 7 (1A) de la loi de 1950 sur la représentation du peuple) : non consultée directement.", "Les Limbu et Tamang, tribus répertoriées depuis 2003, ne bénéficient pas des sièges bhutia-lepcha : non vérifié."]
+sources:
+  - {titre: "Constitution de l'Inde (édition au 1er mai 2024) — Ministère du Droit et de la Justice", url: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+  - {titre: "R.C. Poudyal c. Union de l'Inde (1993) — Indian Kanoon", url: "https://indiankanoon.org/doc/745161/"}
+  - {titre: "Haute Cour du Sikkim, ordonnance du 21 juin 2024", url: "https://hcs.gov.in/hcs/hg_orders/201100000222023_9.pdf"}

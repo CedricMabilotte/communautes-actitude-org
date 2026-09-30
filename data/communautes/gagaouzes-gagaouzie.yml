@@ -1,0 +1,54 @@
+uid: "gagaouzes-gagaouzie"
+nom: "Gagaouzes"
+endonyme: "Gagauzlar"
+territoire: "Unité territoriale autonome de Gagaouzie (Gagauz Yeri)"
+etats: ["Moldavie"]
+region: "europe"
+coord: [46.3, 28.7]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 103700, annee: 2024, perimetre: "résidents permanents de l'unité territoriale autonome (recensement 2024)", source: "https://statistica.gov.md/en/final-results-of-the-2024-population-and-housing-census-geographical-distributio-10121_61877.html"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Gagaouzie est une unité territoriale autonome du sud de la Moldavie, créée par la Loi sur le statut juridique spécial de la Gagaouzie du 23 décembre 1994. L'article 111 de la Constitution la définit comme une forme d'autodétermination du peuple gagaouze. Elle dispose d'une Assemblée populaire (Halk Topluşu) qui adopte des lois locales et d'un gouverneur (Başkan) élu au suffrage direct. Le gagaouze, le moldave (roumain) et le russe y sont langues officielles. Une crise institutionnelle entre Comrat et Chișinău est ouverte depuis l'automne 2025 autour de l'élection de l'Assemblée populaire.
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale sur la Moldavie (CERD/C/MDA/CO/10-11), § 18 : les Gagaouzes sont cités parmi les minorités ethniques privées d'un accès suffisant à l'éducation en langue maternelle.", annee: 2017, source: "https://documents.un.org/doc/undoc/gen/g17/157/43/pdf/g1715743.pdf"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité des droits de l'homme sur la Moldavie (CCPR/C/MDA/CO/4) : mention du harcèlement de journalistes dans la région gagaouze.", annee: 2026, source: "https://documents.un.org/doc/undoc/gen/g26/040/50/pdf/g2604050.pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République de Moldavie (1994), art. 73, 110 et 111", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Moldova_2024"}
+  - {instrument: "Loi n° 344-XIII du 23 décembre 1994 sur le statut juridique spécial de la Gagaouzie (Gagauz Yeri)", nature: "loi_organique", annee: 1994, source: "http://www.e-democracy.md/files/elections/law-special-legal-status-gagauzia-23-12-1994-en.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Assemblée populaire élue pour quatre ans et gouverneur (Başkan) élu au suffrage direct, Loi de 1994, art. 7, 8 et 14 ; la Constitution, art. 111, prévoit des organes représentatifs et exécutifs propres.", source: "http://www.e-democracy.md/files/elections/law-special-legal-status-gagauzia-23-12-1994-en.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'Assemblée populaire adopte des lois locales en matière d'éducation, de culture, de logement, de santé, de finances locales, d'économie, d'environnement et de travail, Loi de 1994, art. 11 et 12 ; ces lois doivent être conformes à la Constitution et aux lois moldaves, art. 12, al. 6.", source: "http://www.e-democracy.md/files/elections/law-special-legal-status-gagauzia-23-12-1994-en.pdf"}
+  justice_propre: {valeur: "conteste", note: "La Loi de 1994, art. 20 et 21, prévoit une cour d'appel à Comrat et la proposition des juges et du procureur par l'Assemblée populaire ; la Cour constitutionnelle a invalidé l'art. 20, al. 2, en 1999 et l'art. 21 en 2025, et la loi n° 135 de 2024 a supprimé la cour d'appel de Comrat.", source: "https://www.undp.org/sites/g/files/zskgke326/files/2026-04/adept-developments_of_the_institutional_crisis_in_gagauzia_region.pdf"}
+  terres: {valeur: "partiel", note: "Le sol, le sous-sol, les eaux, la flore et la faune de Gagaouzie appartiennent au peuple de Moldavie et constituent la base économique de la Gagaouzie, Constitution, art. 111, et Loi de 1994, art. 6.", source: "https://www.constituteproject.org/constitution/Moldova_2024"}
+  ressources: {valeur: "partiel", note: "Même régime que les terres : ressources naturelles propriété du peuple de Moldavie et base économique de la Gagaouzie, Constitution, art. 111 ; l'environnement relève des lois locales, Loi de 1994, art. 12.", source: "http://www.e-democracy.md/files/elections/law-special-legal-status-gagauzia-23-12-1994-en.pdf"}
+  consentement: {valeur: "partiel", note: "L'Assemblée populaire dispose de l'initiative législative au Parlement moldave, Constitution, art. 73, participe à la politique intérieure et extérieure sur les questions qui la concernent et peut saisir la Cour constitutionnelle, Loi de 1994, art. 12, al. 3.", source: "http://www.e-democracy.md/files/elections/law-special-legal-status-gagauzia-23-12-1994-en.pdf"}
+  langue: {valeur: "reconnu", note: "Le moldave, le gagaouze et le russe sont langues officielles en Gagaouzie, Loi de 1994, art. 3.", source: "http://www.e-democracy.md/files/elections/law-special-legal-status-gagauzia-23-12-1994-en.pdf"}
+  education: {valeur: "partiel", note: "L'Assemblée populaire adopte des lois locales en matière de science, de culture et d'éducation, Loi de 1994, art. 12, al. 2 a) ; les compétences ne sont ni exclusives ni délimitées (Alber et Cuijuclu, 2023).", source: "http://www.e-democracy.md/files/elections/law-special-legal-status-gagauzia-23-12-1994-en.pdf"}
+  fiscalite: {valeur: "partiel", note: "Budget propre alimenté par les prélèvements prévus par la loi moldave et par l'Assemblée populaire, avec des versements fixes au budget de l'État, Loi de 1994, art. 12, al. 2 d), et art. 18 ; Constitution, art. 111.", source: "http://www.e-democracy.md/files/elections/law-special-legal-status-gagauzia-23-12-1994-en.pdf"}
+  representation: {valeur: "conteste", note: "Le gouverneur est confirmé membre du gouvernement moldave par décret présidentiel, Loi de 1994, art. 14, al. 4 ; ce décret n'a pas été signé pour la gouverneure élue en 2023 (Alber et Cuijuclu, 2023).", source: "https://blog-iacl-aidc.org/territorial-autonomy/2023/10/3/the-autonomy-of-gagauzia-and-its-uneasy-centre-autonomy-relations"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "partiel", note: "Si la Moldavie perd son statut d'État indépendant, le peuple de Gagaouzie a droit à l'autodétermination externe, Loi de 1994, art. 1, al. 4 ; le droit est conditionnel.", source: "http://www.e-democracy.md/files/elections/law-special-legal-status-gagauzia-23-12-1994-en.pdf"}
+effectivite: {valeur: "contestee", note: "Le mandat de l'Assemblée populaire a expiré le 12 novembre 2025 sans élections ; en mars 2026, le ministère de la Justice a saisi la Cour constitutionnelle de plusieurs compétences prévues par la loi de 1994 (ADEPT, note soutenue par le PNUD, 2026).", source: "https://www.undp.org/sites/g/files/zskgke326/files/2026-04/adept-developments_of_the_institutional_crisis_in_gagauzia_region.pdf"}
+chronologie:
+  - {annee: 1994, evenement: "Constitution moldave (art. 111) et Loi sur le statut juridique spécial de la Gagaouzie (23 décembre)."}
+  - {annee: 1999, evenement: "La Cour constitutionnelle invalide la nomination des juges sur proposition de l'Assemblée populaire (art. 20, al. 2)."}
+  - {annee: 2003, evenement: "Modification de la Loi de 1994 (loi n° 191-XV)."}
+  - {annee: 2024, evenement: "La loi n° 135 réorganise la carte judiciaire ; la cour d'appel de Comrat devient un siège secondaire de la cour d'appel Sud."}
+  - {annee: 2025, evenement: "La Cour constitutionnelle invalide l'art. 21 (procureur) ; le mandat de l'Assemblée populaire expire le 12 novembre sans élections."}
+  - {annee: 2026, evenement: "Saisine de la Cour constitutionnelle par le ministère de la Justice sur les compétences de l'Assemblée populaire (9 mars)."}
+fiabilite:
+  verifie: ["Loi de 1994, art. 1, 3, 6 à 8, 11, 12, 14, 18, 20 et 21 (traduction anglaise avec les modifications de 2003).", "Constitution, art. 73, 110 et 111 (Constitute Project).", "CERD/C/MDA/CO/10-11, § 18, et CCPR/C/MDA/CO/4.", "Décisions de la Cour constitutionnelle de 1999 et 2025 et loi n° 135 de 2024, telles que résumées par ADEPT (2026).", "Population totale de l'unité autonome au recensement de 2024 (Bureau national de statistique)."]
+  non_confirme: ["La population citée est celle de l'ensemble de l'unité autonome, non celle des Gagaouzes ; la part ethnique n'a pas été relevée.", "Condamnation pénale de la gouverneure élue en 2023 : rapportée par la presse en août 2025, source primaire non consultée.", "Tenue des élections de l'Assemblée populaire prévues le 21 juin 2026 non vérifiée."]
+sources:
+  - {titre: "Law on special legal status of Gagauzia (1994), traduction anglaise — e-democracy.md", url: "http://www.e-democracy.md/files/elections/law-special-legal-status-gagauzia-23-12-1994-en.pdf"}
+  - {titre: "Constitution de la Moldavie — Constitute Project", url: "https://www.constituteproject.org/constitution/Moldova_2024"}
+  - {titre: "CERD/C/MDA/CO/10-11 (2017) — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g17/157/43/pdf/g1715743.pdf"}
+  - {titre: "CCPR/C/MDA/CO/4 (2026) — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g26/040/50/pdf/g2604050.pdf"}
+  - {titre: "Developments of the institutional crisis in the Găgăuzia region — ADEPT, projet PNUD Moldavie (2026)", url: "https://www.undp.org/sites/g/files/zskgke326/files/2026-04/adept-developments_of_the_institutional_crisis_in_gagauzia_region.pdf"}
+  - {titre: "The Autonomy of Gagauzia and its Uneasy Centre-Autonomy Relations (Alber et Cuijuclu, 2023) — IACL-AIDC Blog", url: "https://blog-iacl-aidc.org/territorial-autonomy/2023/10/3/the-autonomy-of-gagauzia-and-its-uneasy-centre-autonomy-relations"}
+  - {titre: "Gagaouzie — L'aménagement linguistique dans le monde, Université Laval", url: "https://www.axl.cefan.ulaval.ca/EtatsNsouverains/gagaouzie.htm"}
+  - {titre: "Final results of the 2024 Population and Housing Census — Bureau national de statistique de Moldavie", url: "https://statistica.gov.md/en/final-results-of-the-2024-population-and-housing-census-geographical-distributio-10121_61877.html"}

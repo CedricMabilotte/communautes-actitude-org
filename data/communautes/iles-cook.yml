@@ -1,0 +1,45 @@
+uid: "iles-cook"
+nom: "Peuple des Îles Cook"
+endonyme: "Kūki ʻĀirani"
+territoire: "Îles Cook"
+etats: ["Nouvelle-Zélande"]
+region: "oceanie"
+coord: [-21.2, -159.8]
+type: "peuple_libre_association"
+base: "territoriale"
+types_secondaires: ["peuple_autochtone"]
+population: {valeur: 15040, annee: 2021, perimetre: "population totale recensée (population résidente : 14 987)", source: "https://stats.gov.ck/download/83/census-2021/1497/2021-census-report-with-tables-and-questionnaire.pdf"}
+lieux: {valeur: 15, unite: "îles", annee: 2021, source: "https://stats.gov.ck/download/83/census-2021/1497/2021-census-report-with-tables-and-questionnaire.pdf"}
+surface_km2: {valeur: 236.7, annee: 2021, perimetre: "terres émergées des 15 îles", source: "https://stats.gov.ck/download/83/census-2021/1497/2021-census-report-with-tables-and-questionnaire.pdf"}
+resume: >-
+  État autonome en libre association avec la Nouvelle-Zélande depuis 1965, à l'issue d'un acte d'autodétermination supervisé par l'ONU. La Nouvelle-Zélande conserve des responsabilités pour les affaires extérieures et la défense, exercées après consultation du Premier ministre des Îles Cook ; les habitants conservent la citoyenneté néo-zélandaise. La Constitution reconnaît une Chambre des Ariki (chefs coutumiers) et la coutume comme source du droit.
+reconnaissance_onu:
+  - {mecanisme: "accord_sous_egide", detail: "Résolution 2064 (XX) « Question des îles Cook », adoptée après examen du rapport du représentant de l'ONU chargé de surveiller les élections de 1965", annee: 1965, source: "https://documents.un.org/api/symbol/access?s=A/RES/2064%28XX%29&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Cook Islands Constitution Act 1964 (Nouvelle-Zélande) et Constitution des Îles Cook, version consolidée au 13 juin 2022", nature: "constitution", annee: 1965, source: "https://parliamentci.wpenginepowered.com/wp-content/uploads/2022/07/CONSTITUTION-OF-THE-COOK-ISLANDS-JUNE-2022.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "« The Cook Islands shall be self-governing » (Cook Islands Constitution Act 1964, s. 3) ; Parlement, Cabinet et Chambre des Ariki institués par la Constitution.", source: "https://parliamentci.wpenginepowered.com/wp-content/uploads/2022/07/CONSTITUTION-OF-THE-COOK-ISLANDS-JUNE-2022.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le Parlement légifère pour « la paix, l'ordre et le bon gouvernement » des Îles Cook (art. 39) ; aucune loi néo-zélandaise postérieure ne s'y applique sans loi du Parlement des Îles Cook (art. 46).", source: "https://parliamentci.wpenginepowered.com/wp-content/uploads/2022/07/CONSTITUTION-OF-THE-COOK-ISLANDS-JUNE-2022.pdf"}
+  justice_propre: {valeur: "reconnu", note: "Haute Cour et Cour d'appel propres (partie IV) ; la Cour foncière succède à la Native Land Court de 1915 ; l'avis des Aronga Mana (autorités coutumières) de l'île concernée sur l'existence et la portée d'une coutume est « définitif » et ne peut être contesté devant un tribunal (art. 66A, 4).", source: "https://parliamentci.wpenginepowered.com/wp-content/uploads/2022/07/CONSTITUTION-OF-THE-COOK-ISLANDS-JUNE-2022.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Les débats du Parlement se tiennent en maori des Îles Cook et en anglais ; projets de loi et lois sont rédigés dans les deux langues, sauf résolution contraire (art. 35).", source: "https://parliamentci.wpenginepowered.com/wp-content/uploads/2022/07/CONSTITUTION-OF-THE-COOK-ISLANDS-JUNE-2022.pdf"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Partie V « Les revenus publics des Îles Cook » (art. 67 à 71) : fonds publics, règles sur l'impôt (art. 68), compte du gouvernement et audit.", source: "https://parliamentci.wpenginepowered.com/wp-content/uploads/2022/07/CONSTITUTION-OF-THE-COOK-ISLANDS-JUNE-2022.pdf"}
+  representation: {valeur: "partiel", note: "Chambre des Ariki (chefs coutumiers) prévue par la Constitution ; la coutume est reconnue comme partie du droit sauf incompatibilité avec la Constitution ou une loi (art. 66A, 3).", source: "https://parliamentci.wpenginepowered.com/wp-content/uploads/2022/07/CONSTITUTION-OF-THE-COOK-ISLANDS-JUNE-2022.pdf"}
+  statut_personnel: {valeur: "partiel", note: "Statut de résident permanent des Îles Cook défini par la loi, condition alternative à la citoyenneté du Commonwealth pour être électeur ; la citoyenneté néo-zélandaise est maintenue (Constitution Act 1964, s. 6).", source: "https://parliamentci.wpenginepowered.com/wp-content/uploads/2022/07/CONSTITUTION-OF-THE-COOK-ISLANDS-JUNE-2022.pdf"}
+  autodetermination_externe: {valeur: "reconnu", note: "La déclaration néo-zélandaise de 1988 reproduite dans l'édition consolidée qualifie les Îles Cook d'« État autonome en libre association volontaire » issu d'actes d'autodétermination supervisés et approuvés par l'ONU conformément à la résolution 1541 (XV).", source: "https://parliamentci.wpenginepowered.com/wp-content/uploads/2022/07/CONSTITUTION-OF-THE-COOK-ISLANDS-JUNE-2022.pdf"}
+effectivite: {valeur: "non_etablie", note: "", source: ""}
+chronologie:
+  - {annee: 1915, evenement: "Cook Islands Act (Nouvelle-Zélande) : création de la Native Land Court."}
+  - {annee: 1965, evenement: "Élections surveillées par un représentant de l'ONU ; « Constitution Day » le 5 août ; résolution 2064 (XX)."}
+  - {annee: 1988, evenement: "Déclaration néo-zélandaise transmise à l'ONU sur la capacité des Îles Cook et de Niue à appliquer les traités."}
+  - {annee: 1994, evenement: "Amendement constitutionnel n° 17 : partie IVB « Coutume » (art. 66A)."}
+fiabilite:
+  verifie: ["Articles 35, 39, 46, 66A, 67 à 71 et partie IV de la Constitution, version consolidée du Parlement des Îles Cook (texte obtenu par reconnaissance optique de caractères).", "Sections 3, 5 et 6 du Cook Islands Constitution Act 1964.", "Résolution 2064 (XX)."]
+  non_confirme: ["Régime des terres coutumières (inaliénabilité) : non vérifié sur texte.", "Statut officiel du maori des Îles Cook (Te Reo Maori Act 2003) : non consulté.", "Fonctions exactes de la Chambre des Ariki (art. 8 et 9) : illisibles dans la copie numérisée.", "Année de l'amendement n° 17 (1994-95) déduite de l'intitulé de la loi.", "Population au dernier recensement.", "Évolution des relations avec la Nouvelle-Zélande en 2025-2026."]
+sources:
+  - {titre: "Constitution of the Cook Islands, version consolidée au 13 juin 2022 — Parlement des Îles Cook", url: "https://parliamentci.wpenginepowered.com/wp-content/uploads/2022/07/CONSTITUTION-OF-THE-COOK-ISLANDS-JUNE-2022.pdf"}
+  - {titre: "Parlement des Îles Cook — page Constitution", url: "https://parliament.gov.ck/mandates/constitution-2/"}
+  - {titre: "Résolution 2064 (XX) de l'Assemblée générale (1965)", url: "https://documents.un.org/api/symbol/access?s=A/RES/2064%28XX%29&l=fr&t=pdf"}

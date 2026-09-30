@@ -1,0 +1,57 @@
+uid: "sami-norvege"
+nom: "Sámi de Norvège"
+endonyme: "Sámit"
+territoire: "Sápmi, partie norvégienne"
+etats: ["Norvège"]
+region: "europe"
+coord: [69.5, 25.0]
+type: "peuple_autochtone"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 25690, annee: 2025, perimetre: "personnes inscrites sur la liste électorale du Sámediggi", source: "https://www.ssb.no/valg/sametingsvalg/statistikk/sametingsvalet"}
+lieux: {valeur: 14, unite: "communes de la zone administrative des langues sâmes", annee: null, source: "https://sametinget.no/sprak/forvaltningsomradet-for-samiske-sprak/"}
+surface_km2: {valeur: 46000, annee: 2006, perimetre: "terres transférées à la Finnmarkseiendommen (FeFo), 95 % du Finnmark", source: "https://www.fefo.no/om-fefo/"}
+resume: >-
+  Les Sámi sont le peuple autochtone du nord de la Norvège, de la Suède, de la Finlande et de la péninsule de Kola. En Norvège, l'article 108 de la Constitution charge l'État de créer les conditions permettant aux Sámi de préserver leur langue, leur culture et leur mode de vie. La Loi sâme de 1987 institue un parlement élu, le Sámediggi, et une obligation de consultation. La Loi sur le Finnmark de 2005 a transféré la propriété des terres de l'État dans ce comté à un organisme dont la moitié du conseil est élue par le Sámediggi.
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La Norvège a ratifié la Convention en 1990, premier État à le faire.", annee: 1990, source: "https://www.ilo.org/media/429916/download"}
+  - {mecanisme: "dnudpa", detail: "La Norvège a voté pour la Déclaration ; le Rapporteur spécial le rappelle dans son rapport sur le Sápmi (A/HRC/33/42/Add.3, § 18).", annee: 2007, source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport sur la situation du peuple sâme dans la région du Sápmi en Norvège, en Suède et en Finlande (A/HRC/33/42/Add.3), § 18 à 34.", annee: 2016, source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+base_nationale:
+  - {instrument: "Constitution du Royaume de Norvège, art. 108", nature: "constitution", annee: 1988, source: "https://www.constituteproject.org/constitution/Norway_2016"}
+  - {instrument: "Loi n° 56 du 12 juin 1987 sur le Sámediggi et les autres questions juridiques sâmes (Loi sâme)", nature: "loi", annee: 1987, source: "https://regjeringen.no/en/documents/the-sami-act-/id449701/"}
+  - {instrument: "Loi n° 85 du 17 juin 2005 sur les relations juridiques et la gestion des terres et ressources naturelles du comté de Finnmark (Loi sur le Finnmark)", nature: "loi", annee: 2005, source: "https://app.uio.no/ub/ujur/oversatte-lover/data/lov-20050617-085-eng.pdf"}
+  - {instrument: "Cour suprême de Norvège, arrêt HR-2021-1975-S (Fosen), 11 octobre 2021", nature: "jurisprudence", annee: 2021, source: "https://www.domstol.no/en/supremecourt/rulings/2021/supreme-court-civil-cases/hr-2021-1975-s/"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le Sámediggi est un parlement élu de 39 membres qui peut se saisir de toute question qu'il estime concerner le peuple sâme, Loi sâme de 1987, art. 1-2, 2-1 et 2-4.", source: "https://regjeringen.no/en/documents/the-sami-act-/id449701/"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le Sámediggi édicte des lignes directrices que les autorités doivent suivre pour évaluer l'effet des changements d'usage des terres non cultivées du Finnmark sur la culture sâme, Loi sur le Finnmark de 2005, art. 4 ; il n'a pas de pouvoir législatif général.", source: "https://app.uio.no/ub/ujur/oversatte-lover/data/lov-20050617-085-eng.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La Loi sur le Finnmark de 2005 transfère les terres de l'État dans le comté au Finnmarkseiendommen (domaine du Finnmark), dont le Sámediggi élit trois des six administrateurs, art. 7 ; une commission identifie les droits d'usage et de propriété acquis par un long usage.", source: "https://app.uio.no/ub/ujur/oversatte-lover/data/lov-20050617-085-eng.pdf"}
+  ressources: {valeur: "partiel", note: "Le Finnmarkseiendommen détient les ressources des terres transférées en 2005 ; hors du Finnmark, aucun mécanisme spécifique d'identification des droits n'existe, et la loi sur les minéraux ne prévoit pas de consentement (Rapporteur spécial, 2016, § 21 à 32).", source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+  consentement: {valeur: "partiel", note: "Les autorités doivent consulter le Sámediggi de bonne foi, en vue d'un accord, sur les mesures qui touchent directement les intérêts sâmes, Loi sâme, chapitre 4, art. 4-1 à 4-6 ; la loi n'exige pas le consentement.", source: "https://regjeringen.no/en/documents/the-sami-act-/id449701/"}
+  langue: {valeur: "reconnu", note: "Le same du Sud, le same de Lule et le same du Nord ont un statut égal au norvégien dans la zone administrative de la langue sâme, Loi sâme, art. 1-5 et chapitre 3.", source: "https://regjeringen.no/en/documents/the-sami-act-/id449701/"}
+  education: {valeur: "partiel", note: "Le droit des enfants sâmes à l'enseignement découle de la Loi sur l'éducation de 1998, citée par le règlement de 2010 sur la formation des enseignants sâmes ; le Sámediggi n'a pas de rôle de contrôle des programmes (Rapporteur spécial, 2016, § 34).", source: "https://www.regjeringen.no/en/dokumenter/national-curriculum-for-sami-primary-and/id594360/"}
+  fiscalite: {valeur: "partiel", note: "Le Sámediggi répartit les crédits budgétaires affectés aux fins sâmes, Loi sâme, art. 2-1 ; il n'a pas de pouvoir fiscal.", source: "https://regjeringen.no/en/documents/the-sami-act-/id449701/"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La Cour suprême a annulé en 2021 les licences des parcs éoliens de Fosen pour violation de l'article 27 du Pacte international relatif aux droits civils et politiques ; le Conseil sâme et IWGIA (2025) relèvent que le rôle du Sámediggi reste surtout consultatif.", source: "https://www.domstol.no/en/supremecourt/rulings/2021/supreme-court-civil-cases/hr-2021-1975-s/"}
+chronologie:
+  - {annee: 1987, evenement: "Adoption de la Loi sâme."}
+  - {annee: 1988, evenement: "Ajout à la Constitution de la disposition sur le peuple sâme (actuel art. 108)."}
+  - {annee: 1989, evenement: "Première session du Sámediggi à Karasjok."}
+  - {annee: 1990, evenement: "Ratification de la Convention OIT 169."}
+  - {annee: 2005, evenement: "Loi sur le Finnmark et accord sur les procédures de consultation entre l'État et le Sámediggi."}
+  - {annee: 2021, evenement: "Arrêt Fosen de la Cour suprême (11 octobre)."}
+fiabilite:
+  verifie: ["Constitution, art. 108 (Constitute Project).", "Loi sâme, art. 1-2, 1-5, 2-1, 2-4 et chapitre 4 (traduction du gouvernement norvégien, 2025).", "Loi sur le Finnmark, art. 3, 4 et 7 (traduction de l'Université d'Oslo).", "Arrêt HR-2021-1975-S (résumé de la Cour suprême).", "A/HRC/33/42/Add.3, § 4, 18 à 34."]
+  non_confirme: ["Population : aucun recensement ethnique ; le Rapporteur spécial (2016) estime entre 40 000 et 60 000 Sámi en Norvège.", "Date d'insertion du chapitre 4 (consultations) dans la Loi sâme non vérifiée sur le texte de la loi modificative.", "Exécution de l'arrêt Fosen après 2021 non vérifiée sur une source primaire."]
+sources:
+  - {titre: "The Sami Act — Gouvernement norvégien", url: "https://regjeringen.no/en/documents/the-sami-act-/id449701/"}
+  - {titre: "Finnmark Act (2005), traduction — Université d'Oslo", url: "https://app.uio.no/ub/ujur/oversatte-lover/data/lov-20050617-085-eng.pdf"}
+  - {titre: "Constitution de la Norvège — Constitute Project", url: "https://www.constituteproject.org/constitution/Norway_2016"}
+  - {titre: "HR-2021-1975-S (Fosen) — Cour suprême de Norvège", url: "https://www.domstol.no/en/supremecourt/rulings/2021/supreme-court-civil-cases/hr-2021-1975-s/"}
+  - {titre: "A/HRC/33/42/Add.3, situation du peuple sâme dans la région du Sápmi — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+  - {titre: "Procedures for consultations with indigenous peoples: Experiences from Norway — OIT", url: "https://www.ilo.org/media/429916/download"}
+  - {titre: "National Curriculum for Sami Primary and Lower Secondary Teacher Education Programmes — Gouvernement norvégien", url: "https://www.regjeringen.no/en/dokumenter/national-curriculum-for-sami-primary-and/id594360/"}
+  - {titre: "The State of Sápmi #1 2025 — Conseil sâme, IWGIA, Indigenous Navigator", url: "https://indigenousnavigator.org/files/media/document/The+State+Of+Sa%CC%81pmi+01_2025.pdf"}

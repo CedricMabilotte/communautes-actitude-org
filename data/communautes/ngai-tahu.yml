@@ -1,0 +1,55 @@
+uid: "ngai-tahu"
+nom: "Ngāi Tahu"
+endonyme: "Ngāi Tahu Whānui"
+territoire: "Te Waipounamu (île du Sud, Nouvelle-Zélande)"
+etats: ["Nouvelle-Zélande"]
+region: "oceanie"
+coord: [-43.5, 171.0]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "mixte"
+population: {valeur: 54819, annee: 2013, perimetre: "personnes déclarant une affiliation à Ngāi Tahu au recensement (hors Kāti Māmoe et Waitaha)", source: "https://www.tkm.govt.nz/iwi/ngai-tahu/"}
+lieux: {valeur: 18, unite: "papatipu rūnanga (conseils locaux de l'iwi)", annee: 2026, source: "https://ngaitahu.iwi.nz/te-runanga-o-ngai-tahu/our-people/ngai-tahu-governance/"}
+surface_km2: {valeur: null, annee: null, perimetre: "takiwā (territoire) de Ngāi Tahu, fixé par une décision de la Cour d'appel foncière māori de 1990 ; surface non publiée dans les sources consultées", source: ""}
+resume: >-
+  Iwi (peuple māori) de Te Waipounamu, l'île du Sud, dont le takiwā (territoire) a été délimité par la Cour d'appel foncière māori en 1990. Te Rūnanga o Ngāi Tahu, personne morale créée par une loi de 1996, représente l'ensemble des Ngāi Tahu et réunit un représentant de chacun des 18 papatipu rūnanga (conseils locaux). Le règlement de 1998 comprend des excuses de la Couronne, un droit de préemption sur des terres publiques et des mécanismes de reconnaissance culturelle ; une loi de 1997 attribue à Te Rūnanga la propriété du pounamu (jade). Une loi de 2022 permet à Ngāi Tahu de nommer deux membres votants du conseil régional de Canterbury.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Le rapport du Rapporteur spécial sur la situation du peuple maori cite le règlement des pêcheries issu de la revendication de Ngāi Tahu devant le Tribunal de Waitangi (A/HRC/18/35/Add.4, § 43)", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+  - {mecanisme: "dnudpa", detail: "La Nouvelle-Zélande a annoncé son appui à la Déclaration en avril 2010 devant l'Instance permanente (A/HRC/18/35/Add.4)", annee: 2010, source: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Te Rūnanga o Ngāi Tahu Act 1996 (loi privée n° 1)", nature: "loi", annee: 1996, source: "https://ngaitahu.iwi.nz/te-runanga-o-ngai-tahu/our-people/ngai-tahu-governance/"}
+  - {instrument: "Ngāi Tahu (Pounamu Vesting) Act 1997", nature: "loi", annee: 1997, source: "https://www.nzpam.govt.nz/permits/minerals/compliance/pounamu-management-areas"}
+  - {instrument: "Ngāi Tahu Claims Settlement Act 1998", nature: "accord_revendication", annee: 1998, source: "https://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html"}
+  - {instrument: "Canterbury Regional Council (Ngāi Tahu Representation) Act 2022", nature: "loi", annee: 2022, source: "https://www.ecan.govt.nz/about/your-council/our-team/mana-whenua-representation"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Te Rūnanga o Ngāi Tahu, constitué par la loi de 1996, administre les biens de l'iwi pour l'ensemble des Ngāi Tahu ; chacun des 18 papatipu rūnanga y élit un représentant. C'est l'entité de gouvernance du règlement de 1998, sans pouvoirs de puissance publique.", source: "https://www.tkm.govt.nz/iwi/ngai-tahu/"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Droit de préemption : les organismes de la Couronne doivent proposer à Te Rūnanga o Ngāi Tahu l'achat de certaines terres avant de les vendre à des tiers (Ngāi Tahu Claims Settlement Act 1998, partie 9, s. 47 à 101).", source: "https://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html"}
+  ressources: {valeur: "reconnu", note: "Te Rūnanga o Ngāi Tahu possède tout le pounamu (jade) à l'état naturel dans le takiwā ; les titulaires de permis miniers n'ont aucun droit sur lui et son extraction sans accord de Ngāi Tahu est illégale (Ngāi Tahu (Pounamu Vesting) Act 1997).", source: "https://www.nzpam.govt.nz/permits/minerals/compliance/pounamu-management-areas"}
+  consentement: {valeur: "partiel", note: "Les autorités locales et le tribunal de l'environnement doivent tenir compte des « reconnaissances statutaires » des liens de Ngāi Tahu avec des sites (s. 206 à 222, dont s. 208) ; des conseillers statutaires et les zones tōpuni imposent consultation dans la gestion de la conservation (s. 231 à 253).", source: "https://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Te Rūnanga o Ngāi Tahu nomme jusqu'à deux membres du conseil régional de Canterbury, avec plein droit de vote (Canterbury Regional Council (Ngāi Tahu Representation) Act 2022) ; représentation régionale, pas nationale.", source: "https://www.ecan.govt.nz/about/your-council/our-team/mana-whenua-representation"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune évaluation indépendante de l'application du règlement de 1998 n'a été consultée. Les deux sièges au conseil régional de Canterbury sont pourvus pour 2025-2028.", source: "https://www.ecan.govt.nz/about/your-council/our-team/mana-whenua-representation"}
+chronologie:
+  - {annee: 1990, evenement: "Décision de la Cour d'appel foncière māori sur les limites du takiwā."}
+  - {annee: 1992, evenement: "Rapport du Tribunal de Waitangi sur les pêcheries de Ngāi Tahu (Wai 27)."}
+  - {annee: 1996, evenement: "Te Rūnanga o Ngāi Tahu Act."}
+  - {annee: 1997, evenement: "Ngāi Tahu (Pounamu Vesting) Act."}
+  - {annee: 1998, evenement: "Ngāi Tahu Claims Settlement Act : excuses de la Couronne (s. 6)."}
+  - {annee: 2022, evenement: "Loi sur la représentation de Ngāi Tahu au conseil régional de Canterbury (adoptée le 3 août)."}
+fiabilite:
+  verifie: ["Contenu du Ngāi Tahu Claims Settlement Act 1998 (legislation.govt.nz).", "Propriété du pounamu (autorité néo-zélandaise des minéraux, NZPAM).", "Structure de Te Rūnanga o Ngāi Tahu (site de l'iwi et Te Kāhui Māngai).", "Sièges au conseil régional (Environment Canterbury).", "Mention dans A/HRC/18/35/Add.4."]
+  non_confirme: ["Texte de la loi de 1996 (legislation.govt.nz a refusé l'accès).", "Population au recensement de 2023.", "Superficie du takiwā.", "Montant du règlement financier de 1998."]
+sources:
+  - {titre: "Ngāi Tahu Claims Settlement Act 1998 — legislation.govt.nz", url: "https://www.legislation.govt.nz/act/public/1998/0097/latest/whole.html"}
+  - {titre: "Te Kāhui Māngai — Te Rūnanga o Ngāi Tahu", url: "https://www.tkm.govt.nz/iwi/ngai-tahu/"}
+  - {titre: "Ngāi Tahu — Governance", url: "https://ngaitahu.iwi.nz/te-runanga-o-ngai-tahu/our-people/ngai-tahu-governance/"}
+  - {titre: "NZPAM — Pounamu management areas", url: "https://www.nzpam.govt.nz/permits/minerals/compliance/pounamu-management-areas"}
+  - {titre: "Environment Canterbury — Direct Ngāi Tahu representation", url: "https://www.ecan.govt.nz/about/your-council/our-team/mana-whenua-representation"}
+  - {titre: "Rapporteur spécial — Situation du peuple maori en Nouvelle-Zélande, A/HRC/18/35/Add.4 (2011)", url: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}

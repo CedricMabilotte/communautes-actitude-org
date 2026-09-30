@@ -1,0 +1,52 @@
+uid: "peuples-autochtones-philippines"
+nom: "Peuples autochtones des Philippines"
+endonyme: ""
+territoire: "Domaines ancestraux reconnus aux Philippines (Cordillère, Mindanao, Mindoro, Palawan et autres régions)"
+etats: ["Philippines"]
+region: "asie"
+coord: [12.9, 121.8]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi de 1997 sur les droits des peuples autochtones (Indigenous Peoples' Rights Act, IPRA) reconnaît aux « communautés culturelles autochtones / peuples autochtones » (ICCs/IPs) la propriété de leurs domaines ancestraux, un droit à l'autogouvernance et l'exigence de leur consentement préalable pour les projets qui les concernent. Une Commission nationale des peuples autochtones (NCIP) délivre les titres de domaine ancestral. La Cour suprême a confirmé la constitutionnalité de la loi en décembre 2000. IWGIA estime la population autochtone entre 10 et 20 % de la population nationale.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Les Philippines votent pour la résolution 61/295 adoptant la Déclaration des Nations unies sur les droits des peuples autochtones (A/61/PV.107)", annee: 2007, source: "https://docs.un.org/fr/A/61/PV.107"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport du Rapporteur spécial Rodolfo Stavenhagen sur sa visite aux Philippines du 2 au 11 décembre 2002 (E/CN.4/2003/90/Add.3)", annee: 2003, source: "https://docs.un.org/fr/E/CN.4/2003/90/Add.3"}
+  - {mecanisme: "organe_traite", detail: "Comité des droits de l'homme, CCPR/C/PHL/CO/5, § 51-52 : mise en œuvre de la loi de 1997, domaines ancestraux et consentement libre, préalable et éclairé", annee: 2022, source: "https://docs.un.org/fr/CCPR/C/PHL/CO/5"}
+base_nationale:
+  - {instrument: "Constitution de 1987, art. II, section 22, et art. XII, section 5 (droits des communautés culturelles autochtones sur leurs terres ancestrales)", nature: "constitution", annee: 1987, source: "https://lawphil.net/consti/cons1987.html"}
+  - {instrument: "Republic Act No. 8371, loi sur les droits des peuples autochtones (IPRA)", nature: "loi", annee: 1997, source: "https://lawphil.net/statutes/repacts/ra1997/ra_8371_1997.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'État reconnaît le droit inhérent à l'autogouvernance et le droit de maintenir des structures politiques autochtones, IPRA 1997, sections 13 et 16 ; aucune institution territoriale élue n'est créée.", source: "https://lawphil.net/statutes/repacts/ra1997/ra_8371_1997.html"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le droit coutumier s'applique en priorité aux litiges impliquant des peuples autochtones, IPRA 1997, section 65 ; il doit rester compatible avec le système juridique national (section 15).", source: "https://lawphil.net/statutes/repacts/ra1997/ra_8371_1997.html"}
+  justice_propre: {valeur: "reconnu", note: "Droit d'utiliser ses propres systèmes de justice et institutions de règlement des conflits, compatibles avec le système juridique national et les droits de l'homme, IPRA 1997, section 15.", source: "https://lawphil.net/statutes/repacts/ra1997/ra_8371_1997.html"}
+  terres: {valeur: "reconnu", note: "Propriété collective des domaines ancestraux, qui ne peuvent être vendus, et Certificate of Ancestral Domain Title (titre de domaine ancestral), IPRA 1997, sections 5, 7 et 11.", source: "https://lawphil.net/statutes/repacts/ra1997/ra_8371_1997.html"}
+  ressources: {valeur: "partiel", note: "Droits prioritaires sur l'exploitation des ressources naturelles des domaines ancestraux, IPRA 1997, section 57 ; les ressources minérales restent propriété de l'État (Constitution de 1987, art. XII, section 2).", source: "https://lawphil.net/statutes/repacts/ra1997/ra_8371_1997.html"}
+  consentement: {valeur: "reconnu", note: "Aucune concession, licence ou bail ne peut être accordé sans certification de la NCIP, délivrée après le consentement libre, préalable et éclairé écrit des communautés, IPRA 1997, section 59.", source: "https://lawphil.net/statutes/repacts/ra1997/ra_8371_1997.html"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "reconnu", note: "Droit d'établir et de contrôler ses propres systèmes et institutions éducatifs, avec un enseignement dans sa langue, IPRA 1997, section 30.", source: "https://lawphil.net/statutes/repacts/ra1997/ra_8371_1997.html"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Représentation obligatoire dans les organes de décision et les conseils législatifs locaux, IPRA 1997, section 16 ; sept commissaires autochtones à la NCIP, section 40 ; aucun siège réservé au Congrès.", source: "https://lawphil.net/statutes/repacts/ra1997/ra_8371_1997.html"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité des droits de l'homme (2022) relève la faible part de terres reconnues comme domaines ancestraux, des processus de consentement obtenus par la menace ou la violence et la fermeture de 54 écoles autochtones à Mindanao ; IWGIA (2025) recense 14 cas de violation du consentement préalable affectant 130 445 personnes.", source: "https://docs.un.org/fr/CCPR/C/PHL/CO/5"}
+chronologie:
+  - {annee: 1987, evenement: "La Constitution reconnaît les droits des communautés culturelles autochtones sur leurs terres ancestrales."}
+  - {annee: 1997, evenement: "Adoption de la loi sur les droits des peuples autochtones (Republic Act No. 8371)."}
+  - {annee: 2000, evenement: "La Cour suprême confirme la constitutionnalité de la loi."}
+  - {annee: 2002, evenement: "Visite du Rapporteur spécial des Nations unies sur les droits des peuples autochtones."}
+  - {annee: 2007, evenement: "Les Philippines votent pour la Déclaration des Nations unies sur les droits des peuples autochtones."}
+fiabilite:
+  verifie: ["Sections 5, 7, 11, 13, 15, 16, 30, 40, 57, 59 et 65 de l'IPRA (texte sur Lawphil).", "Vote des Philippines sur la résolution 61/295 (A/61/PV.107).", "Confirmation de la loi par la Cour suprême en 2000 (E/CN.4/2003/90/Add.3, § 12).", "Observations du Comité des droits de l'homme de 2022."]
+  non_confirme: ["Nombre de titres de domaine ancestral délivrés et superficie couverte : pas de donnée officielle consultée.", "Population autochtone : estimation IWGIA de 10 à 20 % seulement, sans recensement ethnique officiel consulté.", "Articulation avec le code des peuples autochtones de la région bangsamoro pour les peuples non moro."]
+sources:
+  - {titre: "Republic Act No. 8371 (IPRA) — Lawphil", url: "https://lawphil.net/statutes/repacts/ra1997/ra_8371_1997.html"}
+  - {titre: "Constitution des Philippines de 1987 — Lawphil", url: "https://lawphil.net/consti/cons1987.html"}
+  - {titre: "Rapport du Rapporteur spécial, visite aux Philippines, E/CN.4/2003/90/Add.3", url: "https://docs.un.org/fr/E/CN.4/2003/90/Add.3"}
+  - {titre: "Comité des droits de l'homme, CCPR/C/PHL/CO/5 (2022)", url: "https://docs.un.org/fr/CCPR/C/PHL/CO/5"}
+  - {titre: "Assemblée générale, A/61/PV.107 (13 septembre 2007)", url: "https://docs.un.org/fr/A/61/PV.107"}
+  - {titre: "IWGIA, The Indigenous World 2025: Philippines", url: "https://iwgia.org/en/philippines/5674-iw-2025-philippines.html"}

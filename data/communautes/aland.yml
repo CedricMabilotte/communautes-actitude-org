@@ -1,0 +1,50 @@
+uid: "aland"
+nom: "Ålandais"
+endonyme: "Ålänningar"
+territoire: "Îles Åland"
+etats: ["Finlande"]
+region: "europe"
+coord: [60.2, 20.0]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: ["collectivite_insulaire_ou_regionale"]
+population: {valeur: 30938, annee: 2026, perimetre: "population du territoire", source: "https://www.asub.ax/"}
+lieux: {valeur: 16, unite: "communes", annee: 2026, source: "https://www.asub.ax/sites/default/files/media/document/ALSIFF26%20ENG.pdf"}
+surface_km2: {valeur: 1556, annee: 2026, perimetre: "terres émergées (surface totale avec les eaux : 13 325 km²)", source: "https://www.asub.ax/sites/default/files/media/document/ALSIFF26%20ENG.pdf"}
+resume: >-
+  Les îles Åland forment une province autonome suédophone de la Finlande. Le Conseil de la Société des Nations a attribué l'archipel à la Finlande en 1921 avec des garanties d'autonomie et de démilitarisation. Le régime actuel repose sur la Loi sur l'autonomie d'Åland de 1991, en vigueur depuis le 1er janvier 1993, et sur l'article 120 de la Constitution finlandaise. L'archipel dispose d'un parlement (Lagting) et d'un gouvernement (Landskapsregering) propres et d'un droit de domicile régional ; le suédois y est la seule langue officielle.
+reconnaissance_onu:
+  - {mecanisme: "accord_sous_egide", detail: "Décision du Conseil de la Société des Nations de 1921 attribuant les îles à la Finlande avec un statut autonome et démilitarisé ; l'Office des Nations unies à Genève la présente comme un règlement de différend par une organisation internationale.", annee: 1921, source: "https://www.ungeneva.org/en/about/director-general/kassym-jomart-tokayev/activities/2011/06/aland-islands-solution-precedent"}
+  - {mecanisme: "accord_sous_egide", detail: "Le texte de la Loi sur l'autonomie d'Åland figure dans la base UN Peacemaker des accords de règlement.", annee: 1991, source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/fi20se930101act20on20the20autonomy20of20aland.pdf"}
+base_nationale:
+  - {instrument: "Constitution de la Finlande (731/1999), art. 25, 75 et 120", nature: "constitution", annee: 1999, source: "https://www.constituteproject.org/constitution/Finland_2011"}
+  - {instrument: "Loi sur l'autonomie d'Åland (1144/1991)", nature: "statut_autonomie", annee: 1991, source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/fi20se930101act20on20the20autonomy20of20aland.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Parlement d'Åland élu au suffrage direct et gouvernement d'Åland, Loi sur l'autonomie de 1991, art. 13 à 16 ; la Constitution, art. 120, garantit l'autonomie de l'archipel.", source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/fi20se930101act20on20the20autonomy20of20aland.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le Parlement d'Åland légifère dans les domaines énumérés à l'article 18 de la Loi de 1991 (administration municipale, enseignement, santé, urbanisme, agriculture, environnement, etc.).", source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/fi20se930101act20on20the20autonomy20of20aland.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "L'acquisition de biens immobiliers par des personnes sans droit de domicile régional est restreinte, Loi de 1991, art. 10, et loi sur l'acquisition de terres ; il s'agit d'un contrôle des acquisitions, non d'une propriété collective.", source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/fi20se930101act20on20the20autonomy20of20aland.pdf"}
+  ressources: {valeur: "partiel", note: "Agriculture, sylviculture, chasse et pêche relèvent de la compétence législative d'Åland, Loi de 1991, art. 18.", source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/fi20se930101act20on20the20autonomy20of20aland.pdf"}
+  consentement: {valeur: "reconnu", note: "Un traité qui touche aux compétences d'Åland requiert l'accord du Parlement d'Åland, Loi de 1991, art. 58 et 59 ; la loi ne peut être modifiée qu'avec l'accord du Parlement d'Åland à la majorité des deux tiers, art. 69.", source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/fi20se930101act20on20the20autonomy20of20aland.pdf"}
+  langue: {valeur: "reconnu", note: "Le suédois est la langue officielle d'Åland, Loi de 1991, art. 36 ; les échanges entre Åland et l'État se font en suédois, art. 38.", source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/fi20se930101act20on20the20autonomy20of20aland.pdf"}
+  education: {valeur: "reconnu", note: "L'enseignement relève de la compétence d'Åland, Loi de 1991, art. 18 ; la langue d'enseignement des écoles publiques est le suédois.", source: "https://webassets.eurac.edu/31538/1667555048-aland-islands-2019.pdf"}
+  fiscalite: {valeur: "partiel", note: "Åland vote son budget, reçoit chaque année un montant de péréquation égal à 0,45 % des recettes de l'État et une restitution d'impôt au-delà d'un seuil, Loi de 1991, art. 44 à 49 ; l'essentiel de l'impôt reste fixé par l'État.", source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/fi20se930101act20on20the20autonomy20of20aland.pdf"}
+  representation: {valeur: "reconnu", note: "Les îles Åland forment une circonscription qui élit un député au Parlement finlandais, Constitution, art. 25.", source: "https://www.constituteproject.org/constitution/Finland_2011"}
+  statut_personnel: {valeur: "reconnu", note: "Droit de domicile régional (hembygdsrätt), requis pour voter et être élu aux élections d'Åland, Loi de 1991, art. 6 à 9 ; les titulaires sont exemptés du service militaire, art. 12.", source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/fi20se930101act20on20the20autonomy20of20aland.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Une étude d'Eurac Research (2019) décrit un régime en fonctionnement depuis 1921, avec des débats sur l'usage du finnois devant les services de l'État et sur l'évolution de l'autonomie plutôt que sur la sécession.", source: "https://webassets.eurac.edu/31538/1667555048-aland-islands-2019.pdf"}
+chronologie:
+  - {annee: 1921, evenement: "Le Conseil de la Société des Nations attribue les îles à la Finlande avec garanties d'autonomie et démilitarisation."}
+  - {annee: 1951, evenement: "Deuxième loi sur l'autonomie."}
+  - {annee: 1991, evenement: "Adoption de la troisième loi sur l'autonomie (1144/1991), en vigueur le 1er janvier 1993."}
+fiabilite:
+  verifie: ["Loi sur l'autonomie de 1991, art. 6 à 12, 13 à 16, 18, 36 à 38, 44 à 49, 58, 59 et 69 (traduction anglaise non officielle hébergée par UN Peacemaker).", "Constitution de la Finlande, art. 25, 75 et 120 (Constitute Project).", "Population provisoire de 30 938 habitants au 31 août 2026 (ÅSUB)."]
+  non_confirme: ["La page Finlex de la traduction officielle n'a pas pu être lue (contenu chargé dynamiquement).", "La compétence d'Åland sur les mines n'a pas été vérifiée article par article."]
+sources:
+  - {titre: "Act on the Autonomy of Åland (1144/1991), traduction non officielle — UN Peacemaker", url: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/fi20se930101act20on20the20autonomy20of20aland.pdf"}
+  - {titre: "Act on the Autonomy of Åland — Finlex", url: "https://www.finlex.fi/en/legislation/translations/1991/eng/1144"}
+  - {titre: "Constitution de la Finlande — Constitute Project", url: "https://www.constituteproject.org/constitution/Finland_2011"}
+  - {titre: "The Aland Islands Solution, a precedent for successful international disputes settlement — ONU Genève", url: "https://www.ungeneva.org/en/about/director-general/kassym-jomart-tokayev/activities/2011/06/aland-islands-solution-precedent"}
+  - {titre: "Åland — L'aménagement linguistique dans le monde, Université Laval", url: "https://www.axl.cefan.ulaval.ca/EtatsNsouverains/aland.htm"}
+  - {titre: "Åland Islands (Spiliopoulou Åkermark et al., 2019) — Eurac Research", url: "https://webassets.eurac.edu/31538/1667555048-aland-islands-2019.pdf"}
+  - {titre: "Statistiques et études d'Åland — ÅSUB", url: "https://www.asub.ax/"}

@@ -1,0 +1,47 @@
+uid: "nasa-cauca-colombie"
+nom: "Nasa et resguardos du Cauca"
+endonyme: "Nasa"
+territoire: "Resguardos indigènes du département du Cauca"
+etats: ["Colombie"]
+region: "ameriques"
+coord: [2.6, -76.3]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 243176, annee: 2018, perimetre: "personnes s'identifiant comme Nasa en Colombie (recensement national CNPV 2018)", source: "https://www.dane.gov.co/files/investigaciones/boletines/grupos-etnicos/presentacion-grupos-etnicos-2019.pdf"}
+lieux: {valeur: 56, unite: "resguardos nasa des zones du CRIC (Cauca)", annee: 2020, source: "https://www.minjusticia.gov.co/programas-co/fortalecimiento-etnico/Documents/Documentos/VF%20CARACTERIZACIO%CC%81N%20DE%20JUSTICIA%20CRIC.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Nasa vivent dans des resguardos (territoires indigènes en propriété collective) de plusieurs zones du Cauca (Tierradentro, nord, ouest), dans le sud-ouest de la Colombie. Le Conseil régional indigène du Cauca (CRIC) est fondé le 24 février 1971 à Toribío par cinq cabildos (conseils de communauté) et cinq resguardos. La Constitution de 1991 reconnaît les resguardos, les conseils indigènes et une juridiction spéciale indigène. Le décret-loi 1953 de 2014 permet aux territoires indigènes d'administrer directement des ressources publiques et un système éducatif propre.
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La Colombie ratifie la Convention 169 de l'OIT le 7 août 1991.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+base_nationale:
+  - {instrument: "Constitution politique de la Colombie (1991), art. 7, 10, 63, 171, 176, 246, 286, 329 et 330", nature: "constitution", annee: 1991, source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  - {instrument: "Décret-loi 1953 de 2014, régime spécial de fonctionnement des territoires indigènes", nature: "loi", annee: 2014, source: "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1953_2014.html"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Constitution (art. 330) prévoit que les territoires indigènes sont gouvernés par des conseils formés selon les usages et coutumes des communautés.", source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  pouvoir_normatif: {valeur: "partiel", note: "La Constitution (art. 246) reconnaît l'application de normes et procédures propres, à condition qu'elles ne soient pas contraires à la Constitution et aux lois.", source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  justice_propre: {valeur: "reconnu", note: "La Constitution (art. 246) permet aux autorités indigènes d'exercer des fonctions juridictionnelles dans leur territoire (juridiction spéciale indigène).", source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  terres: {valeur: "reconnu", note: "La Constitution (art. 63 et 329) fait des resguardos une propriété collective inaliénable, imprescriptible et insaisissable.", source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  ressources: {valeur: "partiel", note: "La Constitution (art. 330, paragraphe) charge les conseils de veiller à la préservation des ressources naturelles ; l'exploitation se fait sans atteinte à l'intégrité des communautés, avec leur participation.", source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 330, paragraphe) impose la participation des représentants des communautés aux décisions sur l'exploitation des ressources de leurs territoires.", source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  langue: {valeur: "reconnu", note: "La Constitution (art. 10) rend officielles les langues des groupes ethniques dans leurs territoires.", source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  education: {valeur: "partiel", note: "Le décret-loi 1953 de 2014 (titre III) organise l'administration du Système éducatif indigène propre (SEIP) par les territoires indigènes ; la Constitution (art. 10) impose un enseignement bilingue.", source: "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1953_2014.html"}
+  fiscalite: {valeur: "partiel", note: "La Constitution (art. 330.4) permet aux conseils de percevoir et répartir leurs ressources ; le décret-loi 1953 de 2014 prévoit l'administration directe de fonds publics par les territoires et resguardos certifiés.", source: "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1953_2014.html"}
+  representation: {valeur: "partiel", note: "La Constitution (art. 171 et 176) réserve deux sièges de sénateur et un siège de représentant aux communautés indigènes, dans une circonscription nationale commune à tous les peuples indigènes.", source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le HCDH recense en 2023 des assassinats d'autorités traditionnelles et de gardes indigènes, notamment dans le peuple nasa ; la Cour constitutionnelle maintient l'état de choses inconstitutionnel à l'égard des peuples indigènes (A/HRC/55/23).", source: "https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session55/advance-versions/A_HRC_55_23_English_unofficial_translation.pdf"}
+chronologie:
+  - {annee: 1971, evenement: "Fondation du Conseil régional indigène du Cauca (CRIC) à Toribío."}
+  - {annee: 1991, evenement: "Nouvelle Constitution ; ratification de la Convention 169 de l'OIT."}
+  - {annee: 2014, evenement: "Le décret-loi 1953 permet le fonctionnement transitoire des territoires indigènes, dans l'attente de la loi organique d'aménagement territorial."}
+fiabilite:
+  verifie: ["Articles 10, 63, 171, 176, 246, 329 et 330 de la Constitution.", "Articles 3 et 39 du décret-loi 1953 de 2014.", "Date et lieu de fondation du CRIC."]
+  non_confirme: ["Population nasa (recensement de 2018).", "Nombre de resguardos nasa du Cauca et nombre de territoires certifiés au titre du décret 1953.", "Les entités territoriales indigènes prévues à l'article 329 n'ont pas été créées par loi organique à la date de consultation."]
+sources:
+  - {titre: "Constitution de Colombie (1991, rév. 2015) — Constitute Project", url: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  - {titre: "Décret-loi 1953 de 2014 — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1953_2014.html"}
+  - {titre: "Caracterización de los sistemas de justicia propia de los pueblos del CRIC — ministère de la Justice", url: "https://www.minjusticia.gov.co/programas-co/fortalecimiento-etnico/Documents/Documentos/VF%20CARACTERIZACIO%CC%81N%20DE%20JUSTICIA%20CRIC.pdf"}
+  - {titre: "Rapport annuel du HCDH sur la Colombie (A/HRC/55/23)", url: "https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session55/advance-versions/A_HRC_55_23_English_unofficial_translation.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}

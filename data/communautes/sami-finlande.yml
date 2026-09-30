@@ -1,0 +1,57 @@
+uid: "sami-finlande"
+nom: "Sámi de Finlande"
+endonyme: "Sámit"
+territoire: "Foyer national sâme (Enontekiö, Inari, Utsjoki, nord de Sodankylä)"
+etats: ["Finlande"]
+region: "europe"
+coord: [68.9, 26.5]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 9000, annee: 2016, perimetre: "Sámi vivant en Finlande (estimation citée par le Rapporteur spécial de l'ONU)", source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+lieux: {valeur: 4, unite: "communes du foyer national sâme (Sodankylä en partie)", annee: null, source: "https://oikeusministerio.fi/en/rights-of-the-sami-people"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution finlandaise de 1999 reconnaît les Sámi comme peuple autochtone et leur garantit une autonomie linguistique et culturelle dans leur foyer national. La Loi de 1995 sur le Parlement sâme institue une assemblée élue de 21 membres et oblige les autorités à négocier avec elle. La Loi sur la langue sâme de 2003 protège trois langues sâmes, et la Loi skolt de 1995 reconnaît le conseil de village des Sámi skolts. Une réforme de la Loi sur le Parlement sâme, adoptée en juin 2025, est en vigueur depuis le 1er août 2025.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "La Finlande a voté pour la Déclaration ; elle n'a pas ratifié la Convention OIT 169 (A/HRC/33/42/Add.3, § 53).", annee: 2007, source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport sur la situation du peuple sâme dans la région du Sápmi (A/HRC/33/42/Add.3), § 53 à 70.", annee: 2016, source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+base_nationale:
+  - {instrument: "Constitution de la Finlande (731/1999), art. 17 et 121", nature: "constitution", annee: 1999, source: "https://www.constituteproject.org/constitution/Finland_2011"}
+  - {instrument: "Loi sur le Parlement sâme (974/1995), réformée en 2025", nature: "loi", annee: 1995, source: "https://www.axl.cefan.ulaval.ca/europe/finlande_loi-sameP1995.htm"}
+  - {instrument: "Loi sur la langue sâme (1086/2003)", nature: "loi", annee: 2003, source: "https://www.axl.cefan.ulaval.ca/europe/finlande_loi-same2003.htm"}
+  - {instrument: "Loi skolt (253/1995)", nature: "loi", annee: 1995, source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+  - {instrument: "Loi minière (621/2011)", nature: "loi", annee: 2011, source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les Sámi ont dans leur foyer national une autonomie linguistique et culturelle, Constitution, art. 121 ; ils élisent pour l'exercer un Parlement sâme, Loi de 1995, art. 1.", source: "https://www.constituteproject.org/constitution/Finland_2011"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Dans le foyer national sâme, la Loi minière de 2011 impose d'évaluer l'effet des permis sur la culture sâme et interdit ceux qui la compromettent ; le Parlement sâme a un droit de recours, art. 38, 50 et 165 (Rapporteur spécial, 2016, § 62 à 64).", source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+  consentement: {valeur: "partiel", note: "Les autorités doivent négocier avec le Parlement sâme sur les mesures d'une grande portée qui touchent le statut des Sámi, Loi de 1995, art. 9 ; selon le Conseil sâme (2025), cette obligation ne lie pas la décision finale des autorités ; la réforme de 2025 la précise.", source: "https://valtioneuvosto.fi/en/-/1410853/reformed-act-on-the-sami-parliament"}
+  langue: {valeur: "partiel", note: "Tout Sámi peut employer sa langue devant les autorités du foyer national, Loi sur la langue sâme de 2003, art. 4 ; la loi protège le same du Nord, le same d'Inari et le same skolt.", source: "https://www.axl.cefan.ulaval.ca/europe/finlande_loi-same2003.htm"}
+  education: {valeur: "partiel", note: "Les élèves sâmes du foyer national ont accès à l'enseignement de base en langue sâme, sans système scolaire distinct ; hors du foyer national, l'offre se limite à deux heures hebdomadaires (ECMI, 2016).", source: "https://www.ecmi.de/fileadmin/redakteure/publications/pdf/Working_Paper___92.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Rapporteur spécial (2016, § 56 à 61) relève un pouvoir de décision limité, en particulier sur les terres, dont 90 % du foyer national sont des terres d'État au statut non réglé ; la réforme de 2025 supprime le critère dit « lapon » d'inscription sur la liste électorale.", source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+chronologie:
+  - {annee: 1995, evenement: "Loi sur le Parlement sâme et Loi skolt."}
+  - {annee: 1999, evenement: "Constitution : art. 17 et 121 sur les Sámi."}
+  - {annee: 2003, evenement: "Loi sur la langue sâme."}
+  - {annee: 2011, evenement: "Loi minière avec dispositions sur les droits sâmes."}
+  - {annee: 2025, evenement: "Adoption par le Parlement le 19 juin de la réforme de la Loi sur le Parlement sâme, en vigueur le 1er août."}
+fiabilite:
+  verifie: ["Constitution, art. 17 et 121 (Constitute Project).", "Loi de 1995, art. 1, 3, 5 et 9 (traduction française partielle de l'Université Laval).", "Loi sur la langue sâme, art. 1 et 4 (traduction française de l'Université Laval).", "Réforme de 2025 : communiqués du gouvernement finlandais et du Parlement sâme.", "A/HRC/33/42/Add.3, § 53 à 70."]
+  non_confirme: ["Population : estimation du Rapporteur spécial (2016) ; le ministère de la Justice indique environ 3 500 Sámi dans le foyer national et 6 500 ailleurs, sans date.", "Texte consolidé de la loi réformée en 2025 non consulté."]
+sources:
+  - {titre: "Constitution de la Finlande — Constitute Project", url: "https://www.constituteproject.org/constitution/Finland_2011"}
+  - {titre: "Loi sur le Parlement same (1995), traduction française — Université Laval", url: "https://www.axl.cefan.ulaval.ca/europe/finlande_loi-sameP1995.htm"}
+  - {titre: "Loi sur la langue same (2003), traduction française — Université Laval", url: "https://www.axl.cefan.ulaval.ca/europe/finlande_loi-same2003.htm"}
+  - {titre: "Reformed Act on the Sámi Parliament — Gouvernement finlandais", url: "https://valtioneuvosto.fi/en/-/1410853/reformed-act-on-the-sami-parliament"}
+  - {titre: "The Parliament of Finland has passed the amendment to the Sámi Parliament Act — Parlement sâme", url: "https://samediggi.fi/en/news/the-parliament-of-finland-has-passed-the-amendment-to-the-sami-parliament-act-thirty-years-of-work-by-the-sami-parliament-pays-off/"}
+  - {titre: "Rights of the Sámi people — Ministère de la Justice", url: "https://oikeusministerio.fi/en/rights-of-the-sami-people"}
+  - {titre: "A/HRC/33/42/Add.3, situation du peuple sâme dans la région du Sápmi — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+  - {titre: "Sami Languages in Education in Sweden and Finland (Hammine, 2016) — ECMI", url: "https://www.ecmi.de/fileadmin/redakteure/publications/pdf/Working_Paper___92.pdf"}
+  - {titre: "The State of Sápmi #1 2025 — Conseil sâme, IWGIA, Indigenous Navigator", url: "https://indigenousnavigator.org/files/media/document/The+State+Of+Sa%CC%81pmi+01_2025.pdf"}

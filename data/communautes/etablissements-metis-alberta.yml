@@ -1,0 +1,51 @@
+uid: "etablissements-metis-alberta"
+nom: "Métis des établissements de l'Alberta"
+endonyme: "Metis Settlements"
+territoire: "Huit établissements métis du nord et du centre-est de l'Alberta"
+etats: ["Canada"]
+region: "ameriques"
+coord: [55.3, -114.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 4238, annee: 2021, perimetre: "personnes résidant dans les huit établissements (recensement 2021) ; 3 540 personnes se déclarent membres inscrits d'un établissement", source: "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/98-200-X/2021006/98-200-X2021006-eng.cfm"}
+lieux: {valeur: 8, unite: "établissements métis (Buffalo Lake, East Prairie, Elizabeth, Fishing Lake, Gift Lake, Kikino, Paddle Prairie, Peavine)", annee: 2026, source: "https://www.alberta.ca/metis-settlements"}
+surface_km2: {valeur: 5059, annee: 2026, perimetre: "terres des établissements, 1,25 million d'acres convertis en km²", source: "https://www.alberta.ca/metis-settlements"}
+resume: >-
+  Les Métis sont l'un des trois peuples autochtones reconnus par l'article 35 de la Loi constitutionnelle de 1982. En Alberta, douze établissements métis sont créés en 1938 ; huit subsistent. Depuis 1990, la loi sur les établissements métis (Metis Settlements Act) leur donne des conseils élus et un Conseil général (Metis Settlements General Council), qui détient les terres en fief simple (pleine propriété). Un amendement à la constitution de l'Alberta interdit d'exproprier ces terres ou de modifier leur régime sans l'accord du Conseil général.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Canada, qui avait voté contre la Déclaration en 2007, l'a ensuite appuyée ; la loi fédérale L.C. 2021, ch. 14 l'applique aux peuples autochtones au sens de l'article 35 de la Loi constitutionnelle de 1982, qui inclut les Métis.", annee: 2021, source: "https://laws-lois.justice.gc.ca/fra/lois/U-2.2/TexteComplet.html"}
+base_nationale:
+  - {instrument: "Accord Alberta-établissements métis (Alberta-Metis Settlements Accord)", nature: "accord_revendication", annee: 1989, source: "https://www.alberta.ca/metis-settlements"}
+  - {instrument: "Metis Settlements Act, RSA 2000, c. M-14", nature: "loi", annee: 1990, source: "https://kings-printer.alberta.ca/documents/Acts/M14.pdf"}
+  - {instrument: "Constitution of Alberta Amendment Act, 1990 (RSA 2000, c. C-24)", nature: "constitution", annee: 1990, source: "https://kings-printer.alberta.ca/documents/Acts/C24.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Metis Settlements Act (1990) organise un gouvernement local pour chaque établissement (conseil élu) et un Conseil général commun.", source: "https://www.alberta.ca/metis-settlements"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les conseils d'établissement adoptent des règlements (bylaws, art. 51) et le Conseil général des politiques (General Council Policies, art. 137 et suivants), certaines soumises à approbation ministérielle.", source: "https://kings-printer.alberta.ca/documents/Acts/M14.pdf"}
+  justice_propre: {valeur: "partiel", note: "La loi crée un tribunal d'appel des établissements métis (Metis Settlements Appeal Tribunal, art. 180) pour les litiges prévus par la loi, notamment fonciers.", source: "https://kings-printer.alberta.ca/documents/Acts/M14.pdf"}
+  terres: {valeur: "reconnu", note: "Les terres sont détenues en fief simple par le Conseil général ; elles ne peuvent être expropriées ni saisies (Constitution of Alberta Amendment Act, art. 2 à 4).", source: "https://kings-printer.alberta.ca/documents/Acts/C24.pdf"}
+  ressources: {valeur: "partiel", note: "La loi prévoit des accords de cogestion des ressources du sous-sol et verse les revenus de surface et de cogestion au fonds consolidé du Conseil général (art. 140).", source: "https://kings-printer.alberta.ca/documents/Acts/M14.pdf"}
+  consentement: {valeur: "partiel", note: "L'Assemblée législative de l'Alberta ne peut modifier la loi de protection des terres, révoquer les lettres patentes ou dissoudre le Conseil général sans l'accord de celui-ci (Constitution of Alberta Amendment Act, art. 5).", source: "https://kings-printer.alberta.ca/documents/Acts/C24.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les conseils peuvent adopter des règlements fiscaux, par exemple une taxe sur l'équipement de forage (art. 167) ; l'imposition des terres du Conseil général suppose une autorisation prévue par la loi.", source: "https://kings-printer.alberta.ca/documents/Acts/M14.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "La loi définit la qualité de membre d'un établissement ; chaque établissement se compose de ses membres.", source: "https://kings-printer.alberta.ca/documents/Acts/M14.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Les huit établissements et le Conseil général fonctionnent ; le Conseil général et l'Alberta ont signé un protocole d'accord le 29 mars 2023.", source: "https://www.alberta.ca/metis-settlements"}
+chronologie:
+  - {annee: 1938, evenement: "La Métis Population Betterment Act crée douze établissements métis."}
+  - {annee: 1989, evenement: "Signature de l'accord Alberta-établissements métis."}
+  - {annee: 1990, evenement: "Metis Settlements Act et amendement constitutionnel albertain protégeant les terres."}
+  - {annee: 2023, evenement: "Protocole d'accord entre le Conseil général et l'Alberta (29 mars)."}
+fiabilite:
+  verifie: ["Articles 2 à 5 de la Constitution of Alberta Amendment Act.", "Articles 51, 137, 140, 167 et 180 de la Metis Settlements Act.", "Population résidente et membres inscrits au recensement 2021 (Statistique Canada)."]
+  non_confirme: ["Liste exacte des General Council Policies soumises à l'approbation du ministre.", "Surface exacte en km² (le chiffre est une conversion d'acres)."]
+sources:
+  - {titre: "Metis Settlements — Gouvernement de l'Alberta", url: "https://www.alberta.ca/metis-settlements"}
+  - {titre: "Metis Settlements Act, RSA 2000, c. M-14 — King's Printer", url: "https://kings-printer.alberta.ca/documents/Acts/M14.pdf"}
+  - {titre: "Constitution of Alberta Amendment Act, 1990 — King's Printer", url: "https://kings-printer.alberta.ca/documents/Acts/C24.pdf"}
+  - {titre: "Membership in a Métis organization or Settlement: Findings from the 2021 Census — Statistique Canada", url: "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/98-200-X/2021006/98-200-X2021006-eng.cfm"}
+  - {titre: "Metis Settlements General Council", url: "https://msgc.ca/"}
+  - {titre: "Loi sur la Déclaration des Nations Unies sur les droits des peuples autochtones, L.C. 2021, ch. 14", url: "https://laws-lois.justice.gc.ca/fra/lois/U-2.2/TexteComplet.html"}

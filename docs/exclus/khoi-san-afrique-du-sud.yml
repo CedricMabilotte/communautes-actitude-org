@@ -1,0 +1,54 @@
+uid: "khoi-san-afrique-du-sud"
+nom: "Khoï et San d'Afrique du Sud"
+endonyme: ""
+territoire: "Communautés dispersées, surtout dans les provinces du Cap-Nord, du Cap-Occidental, du Cap-Oriental et de l'État-Libre"
+etats: ["Afrique du Sud"]
+region: "afrique"
+coord: [-29.5, 21.5]
+type: "peuple_autochtone"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 0, unite: "communautés khoï-san reconnues au titre de la loi de 2019", annee: 2024, source: "https://pmg.org.za/committee-question/25434/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Khoï et les San sont des peuples d'Afrique australe ; la loi-cadre de 2003 sur le leadership traditionnel ne les visait pas.
+  La loi sur le leadership traditionnel et khoï-san de 2019 permet pour la première fois de reconnaître des communautés khoï-san, leurs dirigeants et leurs conseils.
+  La Cour constitutionnelle l'a déclarée invalide le 30 mai 2023 pour défaut de participation du public ; l'invalidité est suspendue jusqu'au 29 mai 2027, le temps d'adopter une nouvelle loi.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "L'Afrique du Sud a voté pour la Déclaration des Nations unies sur les droits des peuples autochtones le 13 septembre 2007 (A/61/PV.107).", annee: 2007, source: "https://docs.un.org/fr/A/61/PV.107"}
+base_nationale:
+  - {instrument: "Traditional and Khoi-San Leadership Act (loi sur le leadership traditionnel et khoï-san) n° 3 de 2019, art. 5 et 24", nature: "loi", annee: 2019, source: "https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1996-20962024000200010&lng=en&nrm=iso&tlng=en"}
+  - {instrument: "Cour constitutionnelle, Mogale c. Speaker of the National Assembly (30 mai 2023) et ordonnance de prorogation (30 mai 2025)", nature: "jurisprudence", annee: 2023, source: "https://www.gov.za/news/media-statements/minister-velenkosini-hlabisa-welcomes-constitutional-court-ruling-granting"}
+droits:
+  autogouvernement: {valeur: "conteste", note: "Art. 5 de la loi de 2019 : reconnaissance de communautés khoï-san sur critères (identité distincte, droit coutumier, direction héréditaire ou élue) et de conseils khoï-san, compétents seulement pour les membres affiliés volontairement. Aucune communauté reconnue en avril 2024.", source: "https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1996-20962024000200010&lng=en&nrm=iso&tlng=en"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "conteste", note: "Art. 24 de la loi de 2019 : les accords de partenariat d'un conseil khoï-san avec une municipalité, un ministère ou un tiers exigent une consultation préalable de la communauté et le soutien de la majorité des membres présents.", source: "https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1996-20962024000200010&lng=en&nrm=iso&tlng=en"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Loi déclarée invalide le 30 mai 2023, invalidité suspendue jusqu'au 29 mai 2027 ; au 15 avril 2024, aucune communauté ni aucun dirigeant khoï-san n'était reconnu, les demandes reçues ayant été jugées non conformes.", source: "https://pmg.org.za/committee-question/25434/"}
+chronologie:
+  - {annee: 2019, evenement: "Adoption de la loi sur le leadership traditionnel et khoï-san."}
+  - {annee: 2021, evenement: "Entrée en vigueur de la loi ; ouverture des demandes auprès de la Commission des affaires khoï-san."}
+  - {annee: 2023, evenement: "La Cour constitutionnelle déclare la loi invalide (30 mai), avec suspension de 24 mois."}
+  - {annee: 2024, evenement: "Publication d'un nouveau projet de loi le 29 novembre."}
+  - {annee: 2025, evenement: "Clôture des demandes de reconnaissance (29 mai) ; la Cour prolonge la suspension jusqu'au 29 mai 2027 (30 mai)."}
+fiabilite:
+  verifie: ["Prolongation jusqu'au 29 mai 2027 (communiqué du gouvernement).", "Absence de communauté reconnue au 15 avril 2024 (réponse ministérielle au Parlement).", "Vote sud-africain pour la DNUDPA (A/61/PV.107)."]
+  non_confirme: ["Le mécanisme dnudpa suppose que l'État reconnaisse les Khoï et San comme autochtones : texte national en ce sens non consulté.", "Contenu des art. 5 et 24 lu à travers un article universitaire (African Human Rights Law Journal), pas sur le texte officiel.", "Nombre de demandes reçues et de reconnaissances éventuelles après avril 2024 : non trouvé.", "Sièges des dirigeants khoï-san dans les chambres des dirigeants traditionnels : non vérifié.", "Population : environ 1 % de la population selon IWGIA, sans chiffre ni année ; le recensement ne compte pas les Khoï et San à part.", "Date d'entrée en vigueur (1er avril 2021) non vérifiée sur source primaire."]
+sources:
+  - {titre: "Osman — Recognition of communities and partnership agreements under the TKLA, African Human Rights Law Journal (2024)", url: "https://www.scielo.org.za/scielo.php?script=sci_arttext&pid=S1996-20962024000200010&lng=en&nrm=iso&tlng=en"}
+  - {titre: "Gouvernement sud-africain — Prolongation de deux ans par la Cour constitutionnelle (2025)", url: "https://www.gov.za/news/media-statements/minister-velenkosini-hlabisa-welcomes-constitutional-court-ruling-granting"}
+  - {titre: "Parliamentary Monitoring Group — Question NW510 au ministre (2024)", url: "https://pmg.org.za/committee-question/25434/"}
+  - {titre: "SAnews — Deadline for Khoi-San communities to be recognised nears (2025)", url: "https://www.sanews.gov.za/south-africa/deadline-khoi-san-communities-be-recognised-nears"}
+  - {titre: "Daily Maverick — Judgment declaring TKLA invalid (2023)", url: "https://www.dailymaverick.co.za/article/2023-05-30-major-victory-activists-and-civil-society-hail-judgment-declaring-traditional-and-khoi-san-leadership-act-invalid/"}
+  - {titre: "IWGIA — The Indigenous World 2025: South Africa", url: "https://iwgia.org/en/south-africa/5636-iw-2025-south-africa.html"}
+  - {titre: "Assemblée générale — A/61/PV.107 (2007)", url: "https://docs.un.org/fr/A/61/PV.107"}

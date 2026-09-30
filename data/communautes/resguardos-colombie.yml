@@ -1,0 +1,50 @@
+uid: "resguardos-colombie"
+nom: "Peuples autochtones des resguardos de Colombie"
+endonyme: ""
+territoire: "Resguardos (terres collectives titrées), en majorité hors de la région andine"
+etats: ["Colombie"]
+region: "ameriques"
+coord: [2.5, -72.5]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1905617, annee: 2018, perimetre: "personnes s'identifiant comme autochtones dans tout le pays (recensement national), dans et hors des resguardos", source: "https://www.dane.gov.co/files/investigaciones/boletines/grupos-etnicos/presentacion-grupos-etnicos-2019.pdf"}
+lieux: {valeur: 959, unite: "titres de resguardo (propriété collective) au 31 décembre 2025, d'après les données de l'Agence nationale des terres", annee: 2025, source: "https://geoactivismo.org/territorios-indigenas-en-colombia-2025/"}
+surface_km2: {valeur: 350000, annee: 2025, perimetre: "surface des resguardos titrés (35 millions d'hectares, environ 30,6 % du territoire continental)", source: "https://geoactivismo.org/territorios-indigenas-en-colombia-2025/"}
+resume: >-
+  Fiche agrégée. La Constitution colombienne de 1991 fait des resguardos une propriété collective autochtone inaliénable, imprescriptible et insaisissable. Les territoires autochtones sont gouvernés par des conseils formés selon les usages et coutumes des communautés ; leurs autorités exercent une juridiction spéciale selon leurs propres normes. Les langues des groupes ethniques sont officielles dans leurs territoires et deux sièges du Sénat leur sont réservés. Fin 2025, 959 titres couvrent environ 35 millions d'hectares ; les huit premières entités territoriales autochtones ont été formalisées en décembre 2025. La fiche du peuple nasa du Cauca détaille un cas.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La Colombie ratifie la Convention 169 de l'OIT le 7 août 1991.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+base_nationale:
+  - {instrument: "Constitution politique de la Colombie (1991), art. 10, 63, 171, 246, 286, 329 et 330", nature: "constitution", annee: 1991, source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr011.html"}
+  - {instrument: "Décret 2164 de 1995 (définition et constitution des resguardos)", nature: "loi", annee: 1995, source: "https://geoactivismo.org/territorios-indigenas-en-colombia-2025/"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les territoires autochtones sont gouvernés par des conseils formés et réglementés selon les usages et coutumes des communautés (Constitution, art. 330) ; les territoires autochtones sont des entités territoriales (art. 286).", source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr011.html"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les autorités appliquent leurs propres normes et procédures, à condition qu'elles ne soient pas contraires à la Constitution et aux lois (art. 246).", source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr008.html"}
+  justice_propre: {valeur: "reconnu", note: "Les autorités des peuples autochtones exercent des fonctions juridictionnelles dans leur territoire (juridiction spéciale, art. 246) ; la loi fixe la coordination avec le système judiciaire national.", source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr008.html"}
+  terres: {valeur: "reconnu", note: "Les terres de resguardo sont inaliénables, imprescriptibles et insaisissables (art. 63) ; les resguardos sont une propriété collective et non aliénable (art. 329).", source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr001.html"}
+  ressources: {valeur: "partiel", note: "Les conseils veillent à la préservation des ressources naturelles (art. 330.5) ; l'exploitation se fait sans atteinte à l'intégrité culturelle, sociale et économique des communautés (art. 330, paragraphe).", source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr011.html"}
+  consentement: {valeur: "partiel", note: "Pour l'exploitation des ressources des territoires, le gouvernement favorise la participation des représentants des communautés (art. 330, paragraphe) ; la Convention 169 s'applique depuis 1992.", source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr011.html"}
+  langue: {valeur: "reconnu", note: "Les langues et dialectes des groupes ethniques sont officiels dans leurs territoires (art. 10).", source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"}
+  education: {valeur: "partiel", note: "L'enseignement dans les communautés ayant leurs propres traditions linguistiques est bilingue (art. 10).", source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"}
+  fiscalite: {valeur: "partiel", note: "Les conseils perçoivent et répartissent leurs ressources (art. 330.4) ; la loi fait des resguardos des bénéficiaires du système général de participations tant qu'ils ne sont pas constitués en entités territoriales (art. 356).", source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr011.html"}
+  representation: {valeur: "partiel", note: "Deux sénateurs sont élus dans une circonscription nationale spéciale des communautés autochtones (art. 171).", source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr005.html"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les titres couvrent environ 30 % du territoire continental ; les entités territoriales autochtones prévues en 1991 n'ont été formalisées qu'en décembre 2025, pour les huit premières.", source: "https://geoactivismo.org/territorios-indigenas-en-colombia-2025/"}
+chronologie:
+  - {annee: 1991, evenement: "Nouvelle Constitution ; ratification de la Convention 169 de l'OIT (7 août)."}
+  - {annee: 1995, evenement: "Décret 2164 sur la constitution des resguardos."}
+  - {annee: 2025, evenement: "Formalisation des huit premières entités territoriales autochtones (décembre)."}
+fiabilite:
+  verifie: ["Articles 10, 63, 171, 246, 286, 329 et 330 de la Constitution (base documentaire du Sénat).", "Population autochtone au recensement de 2018 (DANE).", "Nombre de titres et surface au 31 décembre 2025 (compilation des données de l'Agence nationale des terres)."]
+  non_confirme: ["Le chiffre des titres vient d'une compilation indépendante des données de l'Agence nationale des terres, pas d'une publication officielle ouverte ; une autre source donne environ 770 resguardos et 28,9 millions d'hectares.", "Actes de formalisation des entités territoriales de décembre 2025 (non ouverts).", "Texte du décret 2164 de 1995 (non ouvert)."]
+sources:
+  - {titre: "Constitution politique de la Colombie — Secrétariat du Sénat (art. 330 et suivants)", url: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr011.html"}
+  - {titre: "Constitution politique de la Colombie — Secrétariat du Sénat (art. 246)", url: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr008.html"}
+  - {titre: "Constitution politique de la Colombie — Secrétariat du Sénat (art. 63)", url: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr001.html"}
+  - {titre: "Constitution politique de la Colombie — Secrétariat du Sénat (art. 171)", url: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr005.html"}
+  - {titre: "Territorios indígenas en Colombia 2025 — Geoactivismo", url: "https://geoactivismo.org/territorios-indigenas-en-colombia-2025/"}
+  - {titre: "Grupos étnicos, CNPV 2018 — DANE", url: "https://www.dane.gov.co/files/investigaciones/boletines/grupos-etnicos/presentacion-grupos-etnicos-2019.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}

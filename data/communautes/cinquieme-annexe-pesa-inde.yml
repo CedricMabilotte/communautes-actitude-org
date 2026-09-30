@@ -1,0 +1,53 @@
+uid: "cinquieme-annexe-pesa-inde"
+nom: "Tribus répertoriées des zones de la Cinquième annexe (gram sabha PESA)"
+endonyme: ""
+territoire: "Zones de la Cinquième annexe dans dix États de l'Inde centrale, orientale et occidentale"
+etats: ["Inde"]
+region: "asie"
+coord: [21.5, 83.0]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 77564, unite: "villages (dans 664 blocs et 108 districts : 45 entièrement et 63 partiellement couverts)", annee: 2025, source: "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=156625&ModuleId=3&reg=3&lang=2"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les tribus répertoriées (Scheduled Tribes, plus de 705 groupes notifiés au titre de l'article 342 de la Constitution) qui vivent dans les « zones répertoriées » de la Cinquième annexe, déclarées par décret présidentiel dans dix États. Dans ces zones, le gouverneur peut écarter une loi et réglementer la cession des terres entre tribaux et non-tribaux, après avis d'un conseil consultatif tribal. La loi PESA du 24 décembre 1996 (extension des panchayats aux zones répertoriées) donne à l'assemblée de village (gram sabha) la protection des coutumes, des ressources communes et du règlement coutumier des litiges, et impose sa consultation avant toute acquisition de terres.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/IND/CO/19, § 10 : recommande de reconnaître les peuples tribaux et les « tribus énumérées » comme groupes ayant droit à une protection spéciale ; § 12 et 19 sur les États du nord-est", annee: 2007, source: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+base_nationale:
+  - {instrument: "Constitution de l'Inde, art. 244 (1) et Cinquième annexe", nature: "constitution", annee: 1950, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {instrument: "Constitution de l'Inde, art. 342 (liste des tribus répertoriées)", nature: "constitution", annee: 1950, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {instrument: "Panchayats (Extension to the Scheduled Areas) Act, 1996 (loi 40 de 1996)", nature: "loi", annee: 1996, source: "https://faolex.fao.org/docs/pdf/ind200703.pdf"}
+  - {instrument: "Orissa Mining Corporation c. ministère de l'Environnement et des Forêts, Cour suprême, 18 avril 2013", nature: "jurisprudence", annee: 2013, source: "https://www.downtoearth.org.in/governance/niyamgiri-10-years-since-india-s-first-environmental-referendum-88850"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'assemblée de village (gram sabha) est compétente pour protéger les traditions, les coutumes, l'identité culturelle et les ressources communes, loi PESA, art. 4 (d) ; l'assemblée de l'État doit s'efforcer de suivre le modèle de la Sixième annexe pour les panchayats de district, art. 4 (o) ; application par des lois et règlements des États.", source: "https://faolex.fao.org/docs/pdf/ind200703.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "L'assemblée de village protège le mode coutumier de règlement des litiges, loi PESA, art. 4 (d).", source: "https://faolex.fao.org/docs/pdf/ind200703.pdf"}
+  terres: {valeur: "partiel", note: "Pouvoir de prévenir la cession des terres et de restituer les terres cédées illégalement, loi PESA, art. 4 (m) (iii) ; le gouverneur peut interdire ou restreindre la cession de terres des tribus répertoriées, Cinquième annexe, paragraphe 5 (2) (a).", source: "https://faolex.fao.org/docs/pdf/ind200703.pdf"}
+  ressources: {valeur: "partiel", note: "Propriété des produits forestiers mineurs, art. 4 (m) (ii) ; recommandation préalable obligatoire pour les concessions de minéraux mineurs, art. 4 (k) et (l), loi PESA.", source: "https://faolex.fao.org/docs/pdf/ind200703.pdf"}
+  consentement: {valeur: "partiel", note: "L'assemblée de village ou le panchayat est consulté avant toute acquisition de terres pour des projets de développement et avant la réinstallation des personnes déplacées, loi PESA, art. 4 (i) ; consultation, non consentement.", source: "https://faolex.fao.org/docs/pdf/ind200703.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Sièges des panchayats réservés aux tribus répertoriées au moins pour moitié et présidences de tous les panchayats réservées, loi PESA, art. 4 (g) ; conseil consultatif tribal composé aux trois quarts d'élus tribaux de l'Assemblée de l'État, Cinquième annexe, paragraphe 4.", source: "https://faolex.fao.org/docs/pdf/ind200703.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Trente ans après la loi, l'Odisha n'a pas de règlement d'application et le Jharkhand n'a publié le sien qu'en janvier 2026 ; les administrations contournent souvent la consultation des assemblées de village.", source: "https://www.downtoearth.org.in/governance/three-decades-on-pesa-struggles-to-deliver-tribal-self-governance"}
+chronologie:
+  - {annee: 1950, evenement: "Décret sur les zones répertoriées (Scheduled Areas Order) et liste des tribus répertoriées."}
+  - {annee: 1996, evenement: "Loi PESA du 24 décembre."}
+  - {annee: 2013, evenement: "Arrêt du 18 avril : douze assemblées de village de Niyamgiri se prononcent contre la mine de bauxite."}
+  - {annee: 2026, evenement: "Le Jharkhand publie son règlement PESA en janvier."}
+fiabilite:
+  verifie: ["Texte de la Cinquième annexe, paragraphes 4 à 6 (édition officielle de la Constitution, 2024).", "Article 4 de la loi PESA (texte de la loi, FAOLEX).", "Nombre d'États, de districts, de blocs et de villages (Press Information Bureau, 22 décembre 2025).", "Nombre de tribus notifiées : plus de 705 (ministère des Affaires tribales, 2021).", "Affaire de Niyamgiri (Down To Earth)."]
+  non_confirme: ["Superficie totale des zones répertoriées : non trouvée sur une source officielle.", "Population des tribus répertoriées vivant dans ces zones : non trouvée ; les tribus répertoriées comptent environ 10,4 crores (104 millions) de personnes dans toute l'Inde.", "Arrêt Samatha (1997) : texte non consulté."]
+sources:
+  - {titre: "Constitution de l'Inde (édition au 1er mai 2024) — Ministère du Droit et de la Justice", url: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+  - {titre: "Panchayats (Extension to Scheduled Areas) Act, 1996 — texte de la loi (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/ind200703.pdf"}
+  - {titre: "PESA Mahotsav — Press Information Bureau (22 décembre 2025)", url: "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=156625&ModuleId=3&reg=3&lang=2"}
+  - {titre: "Year End Review 2021 — ministère des Affaires tribales (PIB)", url: "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1786612&reg=48&lang=2"}
+  - {titre: "Down To Earth, trente ans de PESA (24 février 2026)", url: "https://www.downtoearth.org.in/governance/three-decades-on-pesa-struggles-to-deliver-tribal-self-governance"}
+  - {titre: "Down To Earth, Niyamgiri dix ans après", url: "https://www.downtoearth.org.in/governance/niyamgiri-10-years-since-india-s-first-environmental-referendum-88850"}

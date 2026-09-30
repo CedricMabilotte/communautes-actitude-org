@@ -1,0 +1,44 @@
+uid: "collectivites-soulaliyates-maroc"
+nom: "Collectivités soulaliyates"
+endonyme: "Al-jamāʿāt as-sulāliyya"
+territoire: "Terres collectives réparties dans l'ensemble du Maroc (parcours, terres agricoles et forestières)"
+etats: ["Maroc"]
+region: "afrique"
+coord: [32.0, -6.5]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 4725000, annee: 2024, perimetre: "membres recensés (2,625 millions d'hommes et 2,1 millions de femmes) dans 76 % des collectivités, recensement en cours", source: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}
+lieux: {valeur: 4908, unite: "collectivités soulaliyates", annee: 2024, source: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}
+surface_km2: {valeur: 156000, annee: 2024, perimetre: "environ 15,6 millions d'hectares de terres collectives (agriculture, forêt, parcours)", source: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}
+resume: >-
+  Les collectivités soulaliyates (ou « collectivités ethniques ») sont des groupements qui détiennent en commun des terres au Maroc, sous la tutelle du ministère de l'Intérieur.
+  La loi n° 62-17 de 2019 fixe leur organisation : une assemblée de délégués élus répartit la jouissance des biens entre les membres, hommes et femmes, qui n'ont qu'un droit d'exploitation personnelle.
+  Les biens collectifs ne peuvent être acquis par prescription ni saisis, et ne sont cédés que dans les cas prévus par la loi.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi n° 62-17 relative à la tutelle administrative sur les collectivités soulaliyates et la gestion de leurs biens, promulguée par le dahir n° 1-19-115 du 9 août 2019", nature: "loi", annee: 2019, source: "https://adala.justice.gov.ma/api/uploads/2024/07/22/Dahir%20n%C2%B0%201%E2%80%9119%E2%80%91115%20portant%20promulgation%20de%20la%20loi%20n%C2%B0%2062%E2%80%9117%20relative%20%C3%A0%20la%20...-1721659890185.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Art. 9 de la loi n° 62-17 : chaque collectivité choisit parmi ses membres des représentants qui forment une assemblée des délégués, pour six ans renouvelables ; art. 32-33 : tutelle d'un conseil central présidé par le ministre de l'Intérieur et de conseils provinciaux présidés par les gouverneurs.", source: "https://adala.justice.gov.ma/api/uploads/2024/07/22/Dahir%20n%C2%B0%201%E2%80%9119%E2%80%91115%20portant%20promulgation%20de%20la%20loi%20n%C2%B0%2062%E2%80%9117%20relative%20%C3%A0%20la%20...-1721659890185.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Art. 4 de la loi n° 62-17 : les collectivités peuvent gérer leurs biens selon leurs us et coutumes, s'ils ne contredisent pas la loi.", source: "https://adala.justice.gov.ma/api/uploads/2024/07/22/Dahir%20n%C2%B0%201%E2%80%9119%E2%80%91115%20portant%20promulgation%20de%20la%20loi%20n%C2%B0%2062%E2%80%9117%20relative%20%C3%A0%20la%20...-1721659890185.pdf"}
+  justice_propre: {valeur: "partiel", note: "Art. 8 de la loi n° 62-17 : l'assemblée des délégués entend le membre en cause et rend une décision motivée pouvant suspendre son droit de jouissance ; recours devant le conseil provincial de tutelle dans les quinze jours (art. 8 et 33).", source: "https://adala.justice.gov.ma/api/uploads/2024/07/22/Dahir%20n%C2%B0%201%E2%80%9119%E2%80%91115%20portant%20promulgation%20de%20la%20loi%20n%C2%B0%2062%E2%80%9117%20relative%20%C3%A0%20la%20...-1721659890185.pdf"}
+  terres: {valeur: "partiel", note: "Art. 15 de la loi n° 62-17 : les biens des collectivités ne peuvent être acquis par possession ou prescription ni saisis, et ne sont cédés que selon la loi ; art. 6 : les membres n'ont qu'un droit d'exploitation personnelle et directe ; art. 2 : la loi s'applique aussi aux terres guich dont la nue-propriété a été transférée aux collectivités.", source: "https://adala.justice.gov.ma/api/uploads/2024/07/22/Dahir%20n%C2%B0%201%E2%80%9119%E2%80%91115%20portant%20promulgation%20de%20la%20loi%20n%C2%B0%2062%E2%80%9117%20relative%20%C3%A0%20la%20...-1721659890185.pdf"}
+  ressources: {valeur: "partiel", note: "Art. 27 de la loi n° 62-17 : les ressources financières de la collectivité peuvent être distribuées à ses membres, hommes et femmes.", source: "https://adala.justice.gov.ma/api/uploads/2024/07/22/Dahir%20n%C2%B0%201%E2%80%9119%E2%80%91115%20portant%20promulgation%20de%20la%20loi%20n%C2%B0%2062%E2%80%9117%20relative%20%C3%A0%20la%20...-1721659890185.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "Les collectivités soulaliyates sont des groupements fonciers, pas des communautés linguistiques.", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Art. 6 de la loi n° 62-17 : la qualité de membre, ouverte aux hommes et aux femmes, donne droit à la jouissance des biens selon la répartition de l'assemblée des délégués.", source: "https://adala.justice.gov.ma/api/uploads/2024/07/22/Dahir%20n%C2%B0%201%E2%80%9119%E2%80%91115%20portant%20promulgation%20de%20la%20loi%20n%C2%B0%2062%E2%80%9117%20relative%20%C3%A0%20la%20...-1721659890185.pdf"}
+  autodetermination_externe: {valeur: "non_applicable", note: "Sans objet pour des groupements fonciers.", source: ""}
+effectivite: {valeur: "partielle", note: "En janvier 2024, sur 7 731 délégués (naïbs), 17 sont des femmes ; 5,1 millions d'hectares sont immatriculés au registre foncier et environ un million d'hectares sont mobilisés pour l'investissement agricole.", source: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}
+chronologie:
+  - {annee: 2019, evenement: "Dahir du 9 août promulguant la loi n° 62-17."}
+  - {annee: 2024, evenement: "Bilan du ministère de l'Intérieur : 4 908 collectivités, 76 % recensées, 15,6 millions d'hectares."}
+fiabilite:
+  verifie: ["Art. 1, 2, 4, 6, 8, 9, 15, 27, 32 et 33 de la loi n° 62-17 (portail juridique du ministère de la Justice).", "Chiffres de janvier 2024 (Médias24, d'après le ministère de l'Intérieur)."]
+  non_confirme: ["Type « peuple tribal » retenu faute de catégorie mieux adaptée : la loi parle de « collectivités ethniques » sans les rattacher à un peuple ; le Maroc n'a pas ratifié la Convention OIT 169.", "Aucune reconnaissance onusienne ou régionale trouvée ; le Maroc était absent lors du vote de la DNUDPA (A/61/PV.107).", "Population : effectif partiel (76 % des collectivités recensées), à ne pas lire comme un total."]
+sources:
+  - {titre: "Dahir n° 1-19-115 portant promulgation de la loi n° 62-17 — Portail Adala, ministère de la Justice", url: "https://adala.justice.gov.ma/api/uploads/2024/07/22/Dahir%20n%C2%B0%201%E2%80%9119%E2%80%91115%20portant%20promulgation%20de%20la%20loi%20n%C2%B0%2062%E2%80%9117%20relative%20%C3%A0%20la%20...-1721659890185.pdf"}
+  - {titre: "Médias24 — Terres soulaliyates : 76 % des communautés recensées (2024)", url: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}

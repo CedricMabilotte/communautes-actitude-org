@@ -1,0 +1,58 @@
+uid: "peuples-autochtones-nord-russie"
+nom: "Peuples autochtones peu nombreux du Nord, de la Sibérie et de l'Extrême-Orient"
+endonyme: ""
+territoire: "Nord, Sibérie et Extrême-Orient de la Russie (Nénètses, Évenks, Évènes, Tchouktches, Khantys, Mansis, Youkaguirs et autres)"
+etats: ["Russie"]
+region: "europe"
+coord: [65.0, 110.0]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 265000, annee: 2021, perimetre: "membres des 40 peuples autochtones peu nombreux du Nord, de la Sibérie et de l'Extrême-Orient, chiffre arrondi (plus de 315 000 pour les 47 peuples de la liste nationale), recensement de 2020-2021", source: "https://iwgia.org/en/russia/5758-iw-2025-russia.html"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution russe garantit les droits des peuples autochtones peu nombreux (art. 69). La loi fédérale 82-FZ de 1999 les définit comme des peuples de moins de 50 000 personnes vivant sur les territoires de leurs ancêtres et menant un mode de vie traditionnel ; la liste officielle compte 47 peuples, dont 40 du Nord, de la Sibérie et de l'Extrême-Orient. La loi leur donne l'usage gratuit des terres nécessaires à leurs activités traditionnelles, le droit de créer des communautés (obchtchinas) et un autogouvernement local, et la prise en compte de leurs coutumes par les tribunaux. Une loi de 2001 prévoit des territoires d'usage traditionnel de la nature ; aucun territoire de statut fédéral n'a été créé. Fiche agrégée couvrant l'ensemble des peuples de la liste.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Quatrième avis du Comité consultatif de la Convention-cadre sur la Fédération de Russie, ACFC/OP/IV(2018)001 : les peuples autochtones peu nombreux relèvent du champ de la Convention ; la Russie a cessé d'être membre du Conseil de l'Europe en 2022", annee: 2018, source: "https://www.ecoi.net/en/document/2002328.html"}
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Rapport du Rapporteur spécial James Anaya sur la situation des peuples autochtones en Fédération de Russie (A/HRC/15/37/Add.5)", annee: 2010, source: "https://docs.un.org/fr/A/HRC/15/37/Add.5"}
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/RUS/CO/25-26, § 29-30 : critère des 50 000 personnes, absence de territoire fédéral d'usage traditionnel, consentement préalable", annee: 2023, source: "https://docs.un.org/fr/CERD/C/RUS/CO/25-26"}
+base_nationale:
+  - {instrument: "Constitution de la Fédération de Russie, art. 69", nature: "constitution", annee: 1993, source: "https://www.constituteproject.org/constitution/Russia_2014"}
+  - {instrument: "Loi fédérale n° 82-FZ du 30 avril 1999 sur les garanties des droits des peuples autochtones peu nombreux", nature: "loi", annee: 1999, source: "https://legalacts.ru/doc/federalnyi-zakon-ot-30041999-n-82-fz-o/"}
+  - {instrument: "Loi fédérale n° 49-FZ du 7 mai 2001 sur les territoires d'usage traditionnel de la nature", nature: "loi", annee: 2001, source: "https://docs.un.org/fr/CERD/C/RUS/CO/25-26"}
+  - {instrument: "Loi fédérale de 2000 sur les principes généraux d'organisation des obchtchinas (communautés claniques)", nature: "loi", annee: 2000, source: "https://docs.un.org/fr/A/HRC/15/37/Add.5"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Droit d'exercer un autogouvernement territorial dans les lieux d'habitat compact, loi 82-FZ, art. 11 ; droit de créer des obchtchinas (communautés) selon leurs traditions, art. 12 ; ces organes n'ont pas de compétence législative.", source: "https://legalacts.ru/doc/federalnyi-zakon-ot-30041999-n-82-fz-o/"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "Les tribunaux peuvent tenir compte des traditions et coutumes de ces peuples qui ne contredisent pas les lois fédérales et régionales, et des représentants autorisés peuvent participer à la défense judiciaire, loi 82-FZ, art. 14.", source: "https://legalacts.ru/doc/federalnyi-zakon-ot-30041999-n-82-fz-o/"}
+  terres: {valeur: "partiel", note: "Usage gratuit des terres nécessaires aux activités traditionnelles dans les lieux d'habitat traditionnel, loi 82-FZ, art. 8(1)(1) ; territoires d'usage traditionnel de la nature prévus par la loi 49-FZ de 2001 ; aucune propriété collective.", source: "https://legalacts.ru/doc/federalnyi-zakon-ot-30041999-n-82-fz-o/"}
+  ressources: {valeur: "partiel", note: "Usage gratuit des minéraux communs et participation au contrôle de l'usage des terres et des ressources ; droit à réparation des dommages causés à l'habitat traditionnel, loi 82-FZ, art. 8(1)(1)-(3) et (8).", source: "https://legalacts.ru/doc/federalnyi-zakon-ot-30041999-n-82-fz-o/"}
+  consentement: {valeur: "partiel", note: "Participation, par des représentants autorisés, aux décisions sur la protection de l'habitat traditionnel et aux expertises écologiques et ethnologiques des programmes d'exploitation, loi 82-FZ, art. 8(1)(5)-(6) ; pas d'obligation de consentement.", source: "https://legalacts.ru/doc/federalnyi-zakon-ot-30041999-n-82-fz-o/"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "Droit à l'aide de l'État pour réformer l'éducation des jeunes en tenant compte du mode de vie traditionnel, loi 82-FZ, art. 8(1)(9).", source: "https://legalacts.ru/doc/federalnyi-zakon-ot-30041999-n-82-fz-o/"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Le CERD (2023) relève qu'aucun territoire d'usage traditionnel de statut fédéral n'a été créé depuis 2001 et que le cadre du consentement préalable est insuffisant ; IWGIA (2025) signale l'inscription en 2024 de l'Aborigen Forum et du Comité international des peuples autochtones de Russie sur la liste des organisations « extrémistes ».", source: "https://docs.un.org/fr/CERD/C/RUS/CO/25-26"}
+chronologie:
+  - {annee: 1993, evenement: "La Constitution garantit les droits des peuples autochtones peu nombreux (art. 69)."}
+  - {annee: 1999, evenement: "Loi fédérale 82-FZ sur les garanties des droits des peuples autochtones peu nombreux."}
+  - {annee: 2000, evenement: "Loi fédérale sur les obchtchinas."}
+  - {annee: 2001, evenement: "Loi fédérale 49-FZ sur les territoires d'usage traditionnel de la nature."}
+  - {annee: 2007, evenement: "La Russie s'abstient lors du vote de la Déclaration des Nations unies sur les droits des peuples autochtones."}
+  - {annee: 2009, evenement: "Visite du Rapporteur spécial James Anaya."}
+  - {annee: 2024, evenement: "Des organisations autochtones sont inscrites sur la liste des organisations « extrémistes »."}
+fiabilite:
+  verifie: ["Art. 1, 8, 11, 12 et 14 de la loi 82-FZ (texte consolidé, legalacts.ru).", "Art. 69 de la Constitution (Constitute Project, version 2014).", "CERD/C/RUS/CO/25-26, § 29-30 (2023).", "A/HRC/15/37/Add.5, § 7 et 18-20 (2010).", "Abstention de la Russie sur la résolution 61/295 (A/61/PV.107)."]
+  non_confirme: ["Population de 265 000 personnes (Nord, Sibérie, Extrême-Orient) : chiffre d'IWGIA, non vérifié sur les tableaux de Rosstat.", "Nombre et surface des territoires d'usage traditionnel de niveau régional et municipal : non trouvés.", "Texte des lois de 2000 et 2001 non consulté directement ; leur contenu est repris du Rapporteur spécial et du CERD.", "La région M49 retenue est « europe » (la Russie est classée en Europe de l'Est) alors que les territoires sont surtout en Asie."]
+sources:
+  - {titre: "Loi fédérale n° 82-FZ du 30 avril 1999 — legalacts.ru", url: "https://legalacts.ru/doc/federalnyi-zakon-ot-30041999-n-82-fz-o/"}
+  - {titre: "Constitution de la Fédération de Russie — Constitute Project", url: "https://www.constituteproject.org/constitution/Russia_2014"}
+  - {titre: "CERD/C/RUS/CO/25-26 (2023)", url: "https://docs.un.org/fr/CERD/C/RUS/CO/25-26"}
+  - {titre: "Rapport du Rapporteur spécial, situation des peuples autochtones en Fédération de Russie, A/HRC/15/37/Add.5", url: "https://docs.un.org/fr/A/HRC/15/37/Add.5"}
+  - {titre: "Comité consultatif de la Convention-cadre, quatrième avis sur la Fédération de Russie (2018) — ecoi.net", url: "https://www.ecoi.net/en/document/2002328.html"}
+  - {titre: "IWGIA, The Indigenous World 2025: Russia", url: "https://iwgia.org/en/russia/5758-iw-2025-russia.html"}
+  - {titre: "Assemblée générale, A/61/PV.107 (13 septembre 2007)", url: "https://docs.un.org/fr/A/61/PV.107"}

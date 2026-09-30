@@ -1,0 +1,46 @@
+uid: "zduc-guyane"
+nom: "Amérindiens et Bushinengé de Guyane (zones de droits d'usage collectifs)"
+endonyme: ""
+territoire: "Zones de droits d'usage collectifs, concessions et cessions collectives dans neuf communes de Guyane"
+etats: ["France"]
+region: "ameriques"
+coord: [4.0, -53.0]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: ["communaute_afrodescendante"]
+population: {valeur: null, annee: null, perimetre: "habitants des communautés bénéficiaires ; la France ne recense pas l'appartenance à un peuple", source: ""}
+lieux: {valeur: 27, unite: "zones (15 zones de droits d'usage collectifs, 9 concessions et 3 cessions collectives)", annee: 2014, source: "https://gred.ird.fr/content/download/211426/3279907/version/1/file/2014_rapport_ZDUC_final.pdf"}
+surface_km2: {valeur: 6697, annee: 2014, perimetre: "surface totale des 27 zones (669 686 ha), soit 8 % de la Guyane", source: "https://gred.ird.fr/content/download/211426/3279907/version/1/file/2014_rapport_ZDUC_final.pdf"}
+resume: >-
+  La République française ne reconnaît pas de peuples autochtones, au nom de l'égalité des citoyens (art. 1er de la Constitution). En Guyane, un décret du 14 avril 1987 crée pourtant des zones de droits d'usage collectifs, des concessions et des cessions de terres domaniales au profit des « communautés d'habitants qui tirent traditionnellement leurs moyens de subsistance de la forêt ». Ce régime, élevé au rang législatif en 2005 (code forestier, art. L. 272-4 à L. 272-6), couvre 27 zones et environ 8 % du territoire guyanais ; 24 d'entre elles ont été demandées par des communautés amérindiennes. Depuis 2017, un Grand conseil coutumier représente les populations amérindiennes et bushinengé (marronnes).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Décret n° 87-267 du 14 avril 1987 (zones de droits d'usage collectifs, concessions et cessions)", nature: "loi", annee: 1987, source: "https://gred.ird.fr/content/download/211426/3279907/version/1/file/2014_rapport_ZDUC_final.pdf"}
+  - {instrument: "Code forestier, art. L. 272-4 à L. 272-6 (2005)", nature: "loi", annee: 2005, source: "https://www.senat.fr/rap/r19-337/r19-33719.html"}
+  - {instrument: "Loi n° 2017-256 du 28 février 2017 (égalité réelle outre-mer) ; code général des collectivités territoriales, art. L. 7124-11 et suivants : Grand conseil coutumier", nature: "loi", annee: 2017, source: "https://www.drom-com.fr/categories/organismes-consultatifs-11316/articles/le-grand-conseil-coutumier-des-populations-amerindiennes-et-bushinenges-121.htm"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le code forestier (art. L. 272-4 à L. 272-6) permet des droits d'usage collectifs, des concessions et des cessions de terres domaniales aux communautés ; les zones de droits d'usage ne transfèrent pas la propriété.", source: "https://www.senat.fr/rap/r19-337/r19-33719.html"}
+  ressources: {valeur: "partiel", note: "Les droits d'usage collectifs portent sur les ressources de subsistance ; le Sénat relève en 2020 qu'une lecture restrictive de la « subsistance » empêche toute exploitation économique, même limitée.", source: "https://www.senat.fr/rap/r19-337/r19-33719.html"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Le Grand conseil coutumier assure la représentation des populations amérindiennes et bushinengé et défend leurs intérêts juridiques, économiques, sociaux, culturels, éducatifs et environnementaux (CGCT, art. L. 7124-11) ; instance consultative de la collectivité territoriale.", source: "https://www.drom-com.fr/categories/organismes-consultatifs-11316/articles/le-grand-conseil-coutumier-des-populations-amerindiennes-et-bushinenges-121.htm"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les attributions ont été gelées entre 1996 et 2011 ; en 2014, deux demandes de zones (Palikur de Saint-Georges, Arawak-Lokono de Matoury) attendaient d'être traitées ; la gestion interne des zones repose sur la coutume.", source: "https://gred.ird.fr/content/download/211426/3279907/version/1/file/2014_rapport_ZDUC_final.pdf"}
+chronologie:
+  - {annee: 1987, evenement: "Décret du 14 avril créant les zones de droits d'usage collectifs, concessions et cessions."}
+  - {annee: 2005, evenement: "Le régime est inscrit dans la partie législative du code forestier."}
+  - {annee: 2017, evenement: "Loi du 28 février : création du Grand conseil coutumier des populations amérindiennes et bushinengé."}
+fiabilite:
+  verifie: ["Nombre, nature et surface des zones en 2014 (rapport IRD-CNRS).", "Codification au code forestier et nombre de zones en 2020 (rapport du Sénat).", "Objet du Grand conseil coutumier (CGCT, art. L. 7124-11, cité par DROM-COM)."]
+  non_confirme: ["Textes du décret de 1987 et des articles du code sur Légifrance (accès refusé depuis l'outil de recherche).", "Zones créées après 2014 et surface actuelle.", "Pouvoirs de saisine du Grand conseil coutumier (avis obligatoire ou facultatif)."]
+sources:
+  - {titre: "Davy D. et Filoche G. (coord.), Zones de droits d'usage collectifs, concessions et cessions en Guyane française : bilan et perspectives 25 ans après, IRD-CNRS, avril 2014", url: "https://gred.ird.fr/content/download/211426/3279907/version/1/file/2014_rapport_ZDUC_final.pdf"}
+  - {titre: "Pour une grande loi Guyane : 52 propositions — rapport d'information du Sénat n° 337 (2019-2020)", url: "https://www.senat.fr/rap/r19-337/r19-33719.html"}
+  - {titre: "Le grand conseil coutumier des populations amérindiennes et bushinenges — DROM-COM", url: "https://www.drom-com.fr/categories/organismes-consultatifs-11316/articles/le-grand-conseil-coutumier-des-populations-amerindiennes-et-bushinenges-121.htm"}

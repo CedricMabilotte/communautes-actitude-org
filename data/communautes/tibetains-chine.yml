@@ -1,0 +1,52 @@
+uid: "tibetains-chine"
+nom: "Tibétains"
+endonyme: ""
+territoire: "Région autonome du Tibet"
+etats: ["Chine"]
+region: "asie"
+coord: [31.5, 88.5]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 3137901, annee: 2020, perimetre: "Tibétains résidant dans la Région autonome du Tibet (7e recensement)", source: "http://www.xizang.gov.cn/zwgk/zfsj/ndtjgb/202105/t20210520_202889.html"}
+lieux: {valeur: 7, unite: "villes-préfectures et préfectures", annee: 2020, source: "http://www.xizang.gov.cn/zwgk/zfsj/ndtjgb/202105/t20210520_202889.html"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Tibétains sont l'une des nationalités minoritaires reconnues par la Chine. La Région autonome du Tibet relève du système d'autonomie régionale des nationalités prévu par la Constitution (art. 4 et 112 à 122) et par la loi de 1984 sur l'autonomie régionale des nationalités, modifiée en 2001. Le droit prévoit des organes d'autogouvernement, un pouvoir de réglementation soumis à l'approbation du Comité permanent de l'Assemblée populaire nationale et l'usage des langues locales. Selon une étude universitaire de 2017, aucune des cinq régions autonomes n'a adopté de règlement d'autonomie.
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/CHN/CO/14-17, § 43-44 : liberté de circulation des Tibétains et enseignement du tibétain dans la Région autonome du Tibet", annee: 2018, source: "https://docs.un.org/fr/CERD/C/CHN/CO/14-17"}
+  - {mecanisme: "organe_traite", detail: "Comité des droits économiques, sociaux et culturels, E/C.12/CHN/CO/3, § 27-28 (réinstallation des éleveurs tibétains sans consentement) et § 88-89 (internats imposés aux enfants tibétains)", annee: 2023, source: "https://docs.un.org/fr/E/C.12/CHN/CO/3"}
+base_nationale:
+  - {instrument: "Constitution de la République populaire de Chine, art. 4 et 112 à 122", nature: "constitution", annee: 1982, source: "https://www.constituteproject.org/constitution/China_2018"}
+  - {instrument: "Loi sur l'autonomie régionale des nationalités (1984, modifiée en 2001)", nature: "loi", annee: 2001, source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Organes d'autogouvernement (assemblée populaire et gouvernement de la région), dont le président est un citoyen de la nationalité qui exerce l'autonomie, Constitution, art. 112 et 114 ; loi sur l'autonomie régionale, art. 17 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  pouvoir_normatif: {valeur: "conteste", note: "L'assemblée peut adopter des règlements d'autonomie et des règlements particuliers, soumis à l'approbation du Comité permanent de l'Assemblée populaire nationale, Constitution, art. 116 ; loi sur l'autonomie régionale, art. 19 ; aucune des cinq régions autonomes n'en a adopté (Yang Feng, 2017).", source: "http://manoa.hawaii.edu/aplpj/wp-content/uploads/sites/120/2017/06/2017-0531-APLPJ-Volume-18.2-3-Feng-compressed.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les organes d'autogouvernement définissent, conformément à la loi, la propriété et le droit d'usage des pâturages et des forêts, loi sur l'autonomie régionale, art. 27 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  ressources: {valeur: "partiel", note: "Gestion et protection des ressources naturelles et priorité d'exploitation dans le cadre des plans de l'État, loi sur l'autonomie régionale, art. 28 ; compensation due par l'État pour l'exploitation des ressources, art. 65 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Les organes d'autogouvernement utilisent les langues d'usage courant dans la région, la langue de la nationalité autonome pouvant être langue principale, Constitution, art. 121 ; loi sur l'autonomie régionale, art. 10, 21 et 47 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  education: {valeur: "partiel", note: "Les organes d'autogouvernement décident, selon les orientations de l'État, des programmes et de la langue d'enseignement, loi sur l'autonomie régionale, art. 36 et 37 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  fiscalite: {valeur: "partiel", note: "Autonomie de gestion des finances régionales dans le cadre du système financier de l'État, Constitution, art. 117 ; loi sur l'autonomie régionale, art. 32 (2001).", source: "https://www.constituteproject.org/constitution/China_2018"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Le Comité pour l'élimination de la discrimination raciale (2018) relève des restrictions de circulation et un enseignement du tibétain restreint ; le Comité des droits économiques, sociaux et culturels (2023) relève la réinstallation d'éleveurs tibétains sans consentement préalable, libre et éclairé et un système d'internat imposé aux enfants tibétains.", source: "https://docs.un.org/fr/E/C.12/CHN/CO/3"}
+chronologie:
+  - {annee: 1961, evenement: "Résolution 1723 (XVI) de l'Assemblée générale demandant qu'il soit mis fin aux pratiques privant le peuple tibétain de ses droits fondamentaux, notamment de son droit à l'autodétermination."}
+  - {annee: 1982, evenement: "La Constitution consacre l'autonomie régionale des nationalités (art. 4 et 112 à 122)."}
+  - {annee: 1984, evenement: "Loi sur l'autonomie régionale des nationalités, modifiée en 2001."}
+  - {annee: 2018, evenement: "Observations du Comité pour l'élimination de la discrimination raciale sur les Tibétains."}
+  - {annee: 2023, evenement: "Observations du Comité des droits économiques, sociaux et culturels sur les éleveurs et les internats tibétains."}
+fiabilite:
+  verifie: ["Articles 4, 112, 116, 117 et 121 de la Constitution (Constitute Project).", "Articles 10, 17, 19, 21, 27, 28, 32, 36, 37, 47 et 65 de la loi sur l'autonomie régionale dans sa version de 2001 (Wikisource) ; version de 1984 comparée sur ILO NATLEX.", "CERD/C/CHN/CO/14-17 et E/C.12/CHN/CO/3.", "Résolution 1723 (XVI) de 1961.", "Absence de règlement d'autonomie dans les cinq régions autonomes (Yang Feng, Asian-Pacific Law & Policy Journal, 2017)."]
+  non_confirme: ["Texte de la loi de 2001 consulté sur Wikisource et non sur le site de l'Assemblée populaire nationale, inaccessible.", "Adoption d'un règlement d'autonomie par la Région autonome du Tibet après 2017 : non vérifiée.", "Population tibétaine : pas de chiffre officiel consulté.", "La fiche couvre la Région autonome du Tibet ; les préfectures et districts autonomes tibétains des provinces voisines ne sont pas traités."]
+sources:
+  - {titre: "Constitution de la République populaire de Chine — Constitute Project", url: "https://www.constituteproject.org/constitution/China_2018"}
+  - {titre: "Loi sur l'autonomie régionale des nationalités (2001) — Wikisource", url: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  - {titre: "Loi sur l'autonomie régionale des nationalités (1984) — ILO NATLEX", url: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/35194/CHN35194.pdf"}
+  - {titre: "CERD/C/CHN/CO/14-17 (2018)", url: "https://docs.un.org/fr/CERD/C/CHN/CO/14-17"}
+  - {titre: "E/C.12/CHN/CO/3 (2023)", url: "https://docs.un.org/fr/E/C.12/CHN/CO/3"}
+  - {titre: "Assemblée générale, résolution 1723 (XVI), Question du Tibet (1961)", url: "https://docs.un.org/fr/A/RES/1723(XVI)"}
+  - {titre: "Yang Feng, The Legislation in Autonomous Areas of China, Asian-Pacific Law & Policy Journal, vol. 18 (2017)", url: "http://manoa.hawaii.edu/aplpj/wp-content/uploads/sites/120/2017/06/2017-0531-APLPJ-Volume-18.2-3-Feng-compressed.pdf"}

@@ -1,0 +1,51 @@
+uid: "communautes-autochtones-cambodge"
+nom: "Communautés autochtones du Cambodge"
+endonyme: ""
+territoire: "Hauts plateaux du nord-est (Ratanakiri, Mondulkiri, Stung Treng, Kratie, Preah Vihear) et autres provinces"
+etats: ["Cambodge"]
+region: "asie"
+coord: [13.6, 107.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 221953, annee: 2018, perimetre: "personnes appartenant aux 24 peuples autochtones, chiffre transmis au CERD et cité par le FIDA", source: "https://www.ifad.org/documents/d/new-ifad.org/cambodia_ctn-pdf"}
+lieux: {valeur: 43, unite: "communautés dotées d'un titre foncier collectif (sur 458 communautés recensées)", annee: 2024, source: "https://cambojanews.com/expedite-collective-land-titles-for-indigenous-people-who-risk-losing-their-farmlands-ngos-urge-government/"}
+surface_km2: {valeur: 415, annee: 2024, perimetre: "terres couvertes par les 43 titres collectifs (41 538,3 hectares)", source: "https://cambojanews.com/expedite-collective-land-titles-for-indigenous-people-who-risk-losing-their-farmlands-ngos-urge-government/"}
+resume: >-
+  La loi foncière de 2001 définit les communautés autochtones et leur accorde la propriété collective des terres où elles résident et cultivent, y compris les réserves nécessaires à la culture itinérante. L'usage de ces terres relève des autorités traditionnelles de la communauté selon ses coutumes, et aucune autorité extérieure ne peut y acquérir de droits. Le sous-décret 83 de 2009 organise un enregistrement en trois étapes : reconnaissance de l'identité autochtone, enregistrement comme personne morale, titre foncier collectif. En juillet 2024, 43 communautés sur 458 avaient reçu un titre.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Cambodge vote pour la résolution 61/295 adoptant la Déclaration des Nations unies sur les droits des peuples autochtones (A/61/PV.107)", annee: 2007, source: "https://docs.un.org/fr/A/61/PV.107"}
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/KHM/CO/14-17, § 27-28 : 24 groupes autochtones, consentement préalable insuffisant, lenteur des titres fonciers collectifs", annee: 2019, source: "https://docs.un.org/fr/CERD/C/KHM/CO/14-17"}
+base_nationale:
+  - {instrument: "Loi foncière (Land Law), art. 23 à 28", nature: "loi", annee: 2001, source: "https://faolex.fao.org/docs/pdf/cam27478.pdf"}
+  - {instrument: "Sous-décret n° 83 sur les procédures d'enregistrement des terres des communautés autochtones", nature: "loi", annee: 2009, source: "https://cambodia.ohchr.org/iplands/wp-content/uploads/2021/05/CLT-RECOMMENDATION_ENG.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les communautés continuent de gérer leur communauté et leurs biens immobiliers selon leurs coutumes, loi foncière de 2001, art. 23 ; l'exercice des droits de propriété relève des autorités traditionnelles et des mécanismes de décision de la communauté, art. 26.", source: "https://faolex.fao.org/docs/pdf/cam27478.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les conditions d'usage des terres collectives sont fixées selon les coutumes de la communauté, sous réserve des lois générales comme celle sur la protection de l'environnement, loi foncière de 2001, art. 26.", source: "https://faolex.fao.org/docs/pdf/cam27478.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Propriété collective accordée par l'État, avec les protections de la propriété privée, loi foncière de 2001, art. 26, qui ne fait pas obstacle aux travaux de l'État requis par l'intérêt national ; aucune autorité extérieure à la communauté ne peut acquérir de droits sur ces biens, art. 28 ; la communauté ne peut céder ce qui relève du domaine public de l'État.", source: "https://faolex.fao.org/docs/pdf/cam27478.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "L'appartenance à la communauté est reconnue par la majorité du groupe selon des critères ethniques, culturels et sociaux et ouvre les droits prévus par la loi, loi foncière de 2001, art. 24.", source: "https://faolex.fao.org/docs/pdf/cam27478.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En juillet 2024, 43 communautés sur 458 avaient reçu un titre collectif, couvrant 41 538 hectares sur près de 4 millions gérés traditionnellement (CamboJA News, 2024) ; le CERD (2019) relève un consentement préalable insuffisant et des attaques contre les autochtones qui font valoir leurs droits fonciers.", source: "https://docs.un.org/fr/CERD/C/KHM/CO/14-17"}
+chronologie:
+  - {annee: 2001, evenement: "Loi foncière reconnaissant la propriété collective des communautés autochtones."}
+  - {annee: 2009, evenement: "Politique d'enregistrement des terres autochtones (avril) et sous-décret 83 (9 juin)."}
+  - {annee: 2011, evenement: "Premiers titres fonciers collectifs."}
+  - {annee: 2019, evenement: "Observations finales du CERD sur les peuples autochtones."}
+fiabilite:
+  verifie: ["Art. 23 à 28 de la loi foncière (traduction du ministère de l'Aménagement du territoire, FAOLEX).", "Procédure en trois étapes du sous-décret 83 et chiffres de 2020 (HCDH Cambodge).", "CERD/C/KHM/CO/14-17, § 27-28.", "Vote du Cambodge sur la résolution 61/295 (A/61/PV.107)."]
+  non_confirme: ["Chiffres de 2024 (43 titres, 41 538,3 ha, 458 communautés) : source journalistique citant le ministère et le CCHR, non recoupée sur une source officielle.", "Population : estimations officielles divergentes (171 193 en 2008, 183 831 en 2013, 221 953 en 2018) ; sous-déclaration probable selon le FIDA.", "Effet du code de l'environnement et des ressources naturelles de 2023 sur la notion de communauté autochtone : non vérifié dans le texte."]
+sources:
+  - {titre: "Land Law 2001 (traduction non officielle) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/cam27478.pdf"}
+  - {titre: "HCDH Cambodge, Collective Land Titling in Cambodia — a case for reform? (2020)", url: "https://cambodia.ohchr.org/iplands/wp-content/uploads/2021/05/CLT-RECOMMENDATION_ENG.pdf"}
+  - {titre: "CERD/C/KHM/CO/14-17 (2019)", url: "https://docs.un.org/fr/CERD/C/KHM/CO/14-17"}
+  - {titre: "FIDA, Country Technical Note on Indigenous Peoples' Issues — Cambodia (2021)", url: "https://www.ifad.org/documents/d/new-ifad.org/cambodia_ctn-pdf"}
+  - {titre: "Expedite Collective Land Titles for Indigenous People — CamboJA News (9 août 2024)", url: "https://cambojanews.com/expedite-collective-land-titles-for-indigenous-people-who-risk-losing-their-farmlands-ngos-urge-government/"}
+  - {titre: "Assemblée générale, A/61/PV.107 (13 septembre 2007)", url: "https://docs.un.org/fr/A/61/PV.107"}

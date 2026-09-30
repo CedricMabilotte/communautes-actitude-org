@@ -1,0 +1,54 @@
+uid: "zanzibar"
+nom: "Zanzibarites"
+endonyme: "Wazanzibari"
+territoire: "Archipel de Zanzibar (îles d'Unguja et de Pemba)"
+etats: ["Tanzanie"]
+region: "afrique"
+coord: [-6.0, 39.4]
+type: "collectivite_insulaire_ou_regionale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1889773, annee: 2022, perimetre: "population de Zanzibar (recensement national de 2022)", source: "https://en.wikipedia.org/wiki/Zanzibar"}
+lieux: {valeur: 5, unite: "régions administratives (3 à Unguja, 2 à Pemba)", annee: 2024, source: "https://en.wikipedia.org/wiki/Zanzibar"}
+surface_km2: {valeur: 2449, annee: 2024, perimetre: "îles d'Unguja (1 464 km²) et de Pemba (985 km²)", source: "https://en.wikipedia.org/wiki/Zanzibar"}
+resume: >-
+  Zanzibar est un archipel de l'océan Indien, État souverain jusqu'à son union avec le Tanganyika en 1964.
+  Dans la République-Unie de Tanzanie, il conserve un gouvernement, un président, une Chambre des représentants et une Haute Cour propres, régis par la Constitution de Zanzibar de 1984.
+  Les « affaires de l'Union » (défense, affaires étrangères, monnaie…) relèvent de l'État tanzanien ; les autres matières, dont la terre, relèvent de Zanzibar.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République-Unie de Tanzanie (1977), art. 1-2, 4, 66, 98, 102-107, 133-134 et première annexe (affaires de l'Union)", nature: "constitution", annee: 1977, source: "https://www.constituteproject.org/constitution/Tanzania_2005?lang=en"}
+  - {instrument: "Constitution de Zanzibar (1984), art. 1-2, 6, 78, 87, 93 et 100", nature: "statut_autonomie", annee: 1984, source: "https://www.ikuluzanzibar.go.tz/uploads/Zanzibar-Constitution-1984.pdf"}
+  - {instrument: "Land Tenure Act (loi foncière) n° 12 de 1992, art. 3", nature: "loi", annee: 1992, source: "https://thelawbrigade.com/wp-content/uploads/2020/11/Mtaib-Abdulla-Othman-IJLDAI.pdf"}
+  - {instrument: "Kadhis' Court Act (loi sur les tribunaux de cadi) n° 3 de 1985", nature: "loi", annee: 1985, source: "https://ejournal.um.edu.my/index.php/JMCL/article/download/14284/8768/28100"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Art. 4 de la Constitution tanzanienne : l'autorité de l'État s'exerce par le gouvernement de l'Union et par le gouvernement de Zanzibar ; art. 102-107 : président et institutions de Zanzibar régis par la Constitution de Zanzibar de 1984.", source: "https://www.constituteproject.org/constitution/Tanzania_2005?lang=en"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Art. 78(1) de la Constitution de Zanzibar : le pouvoir législatif sur toutes les matières qui ne sont pas des affaires de l'Union appartient à la Chambre des représentants.", source: "https://www.ikuluzanzibar.go.tz/uploads/Zanzibar-Constitution-1984.pdf"}
+  justice_propre: {valeur: "reconnu", note: "Art. 93 de la Constitution de Zanzibar : Haute Cour de Zanzibar ; loi n° 3 de 1985 : tribunaux de cadi (juges musulmans) compétents en statut personnel, mariage, divorce et succession entre musulmans.", source: "https://www.ikuluzanzibar.go.tz/uploads/Zanzibar-Constitution-1984.pdf"}
+  terres: {valeur: "reconnu", note: "Art. 3 du Land Tenure Act de 1992 : toute la terre de Zanzibar est terre publique, confiée au président de Zanzibar « pour l'usage et le bénéfice commun du peuple de Zanzibar » ; la terre n'est pas une affaire de l'Union.", source: "https://thelawbrigade.com/wp-content/uploads/2020/11/Mtaib-Abdulla-Othman-IJLDAI.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "reconnu", note: "Art. 98 (1) (b) de la Constitution tanzanienne : la modification des matières de la liste deux de la deuxième annexe (existence de l'Union, pouvoirs du gouvernement de Zanzibar, Haute Cour de Zanzibar, liste des affaires de l'Union, nombre de députés de Zanzibar) exige les voix des deux tiers des députés du continent et des deux tiers des députés de Zanzibar à l'Assemblée nationale.", source: "https://www.constituteproject.org/constitution/Tanzania_2005?lang=en"}
+  langue: {valeur: "reconnu", note: "Art. 87(1) de la Constitution de Zanzibar : le kiswahili est la langue officielle de la Chambre des représentants.", source: "https://www.ikuluzanzibar.go.tz/uploads/Zanzibar-Constitution-1984.pdf"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Art. 133-134 de la Constitution tanzanienne : compte commun et commission financière conjointe pour le partage des recettes entre l'Union et Zanzibar.", source: "https://www.constituteproject.org/constitution/Tanzania_2005?lang=en"}
+  representation: {valeur: "reconnu", note: "Art. 66 de la Constitution tanzanienne : l'Assemblée nationale comprend cinq membres élus par la Chambre des représentants de Zanzibar parmi ses membres.", source: "https://www.constituteproject.org/constitution/Tanzania_2005?lang=en"}
+  statut_personnel: {valeur: "reconnu", note: "Art. 6 de la Constitution de Zanzibar : statut de « Zanzibari », dont l'acquisition, la perte et le recouvrement sont fixés par une loi de la Chambre des représentants.", source: "https://www.ikuluzanzibar.go.tz/uploads/Zanzibar-Constitution-1984.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Les institutions de Zanzibar fonctionnent depuis 1964 ; aucune évaluation onusienne ou indépendante du partage des compétences n'a été consultée.", source: ""}
+chronologie:
+  - {annee: 1963, evenement: "Indépendance de Zanzibar."}
+  - {annee: 1964, evenement: "Renversement du sultanat en janvier ; en avril, articles de l'Union avec le Tanganyika."}
+  - {annee: 1977, evenement: "Constitution de la République-Unie de Tanzanie."}
+  - {annee: 1984, evenement: "Constitution de Zanzibar."}
+  - {annee: 1985, evenement: "Loi sur les tribunaux de cadi."}
+  - {annee: 1992, evenement: "Loi foncière de Zanzibar."}
+fiabilite:
+  verifie: ["Art. 1-2, 4, 66, 98 de la Constitution tanzanienne (Constitute Project).", "Art. 1-2, 6, 78, 87, 93 de la Constitution de Zanzibar (site de la présidence de Zanzibar)."]
+  non_confirme: ["Aucune reconnaissance onusienne propre (refus en V01) : la fiche entre par le niveau national.", "Textes de la loi foncière de 1992 et de la loi sur les tribunaux de cadi lus à travers des articles universitaires, pas sur un site officiel.", "Population et surface tirées d'une encyclopédie citant le recensement de 2022 ; le portail du Bureau national de la statistique n'a pas pu être lu.", "Amendement de 2010 (gouvernement d'unité nationale) non vérifié.", "Le type « collectivité insulaire ou régionale » suppose un règlement international : ici, articles de l'Union de 1964 entre deux États souverains, texte non consulté."]
+sources:
+  - {titre: "Constitution de la Tanzanie — Constitute Project", url: "https://www.constituteproject.org/constitution/Tanzania_2005?lang=en"}
+  - {titre: "Constitution de Zanzibar (1984) — Présidence de Zanzibar", url: "https://www.ikuluzanzibar.go.tz/uploads/Zanzibar-Constitution-1984.pdf"}
+  - {titre: "M. A. Othman — Land legal regime in Tanzania Zanzibar", url: "https://thelawbrigade.com/wp-content/uploads/2020/11/Mtaib-Abdulla-Othman-IJLDAI.pdf"}
+  - {titre: "Administration of Islamic Law in Kadhis' Court in Zanzibar — Journal of Malaysian and Comparative Law", url: "https://ejournal.um.edu.my/index.php/JMCL/article/download/14284/8768/28100"}
+  - {titre: "Zanzibar — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Zanzibar"}

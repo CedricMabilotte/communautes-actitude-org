@@ -1,0 +1,51 @@
+uid: "hawaii-kanaka-maoli"
+nom: "Hawaïens autochtones"
+endonyme: "Kānaka Maoli"
+territoire: "Îles Hawaï"
+etats: ["États-Unis"]
+region: "ameriques"
+coord: [20.8, -156.9]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 317497, annee: 2020, perimetre: "Hawaïens autochtones seuls ou en combinaison avec d'autres origines, État d'Hawaï (94 025 déclarés seuls)", source: "https://files.hawaii.gov/dbedt/census/census_2020/data/reports/Native_Hawaiian_Population_in_Hawaii_in_2020.pdf"}
+lieux: {valeur: 10045, unite: "baux de homestead sur les terres domaniales hawaïennes", annee: 2026, source: "https://dhhl.hawaii.gov/about/"}
+surface_km2: {valeur: 825, annee: 2026, perimetre: "terres domaniales hawaïennes gérées par le Department of Hawaiian Home Lands (203 981 acres)", source: "https://dhhl.hawaii.gov/about/"}
+resume: >-
+  Les Hawaïens autochtones sont le peuple de l'archipel d'Hawaï, État des États-Unis depuis 1959. Ils n'ont pas de gouvernement propre reconnu par le droit fédéral. La constitution de l'État d'Hawaï, révisée en 1978, crée l'Office of Hawaiian Affairs (Bureau des affaires hawaïennes), fait de l'hawaïen une langue officielle et reprend la loi fédérale sur les terres de la Hawaiian Homes Commission. En 1993, le Congrès a présenté des excuses pour le renversement du royaume d'Hawaï en 1893.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Les États-Unis, qui avaient voté contre la Déclaration en 2007, ont déclaré leur appui le 16 décembre 2010 ; le Rapporteur spécial range les Hawaïens autochtones parmi les peuples autochtones des États-Unis (A/HRC/21/47/Add.1, § 1 et 80).", annee: 2010, source: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport sur la mission aux États-Unis (A/HRC/21/47/Add.1), § 64 à 66 : absence de pouvoirs d'autogouvernement reconnus en droit fédéral, résolution d'excuses de 1993, appel à la réconciliation resté sans suite.", annee: 2012, source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+base_nationale:
+  - {instrument: "Constitution de l'État d'Hawaï, art. XII (Affaires hawaïennes), art. X § 4 et art. XV § 4, révision de 1978", nature: "constitution", annee: 1978, source: "https://lrb.hawaii.gov/constitution/"}
+  - {instrument: "Hawaiian Homes Commission Act (loi fédérale de 1921), reprise comme loi de l'État par l'art. XII § 1 de la constitution d'Hawaï", nature: "loi", annee: 1921, source: "https://dhhl.hawaii.gov/about/"}
+  - {instrument: "Rice c. Cayetano, 528 U.S. 495 (2000)", nature: "jurisprudence", annee: 2000, source: "https://www.law.cornell.edu/supremecourt/text/528/495"}
+droits:
+  autogouvernement: {valeur: "conteste", note: "La constitution d'Hawaï (art. XII § 5, 1978) réserve l'élection des administrateurs de l'Office of Hawaiian Affairs aux électeurs hawaïens ; la Cour suprême a jugé cette restriction contraire au quinzième amendement en 2000 (Rice c. Cayetano). Le Rapporteur spécial note en 2012 l'absence de pouvoirs d'autogouvernement reconnus en droit fédéral.", source: "https://www.law.cornell.edu/supremecourt/text/528/495"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La Hawaiian Homes Commission Act (1921) réserve environ 200 000 acres (environ 810 km²) pour des foyers hawaïens autochtones ; elle est reprise comme loi de l'État par la constitution, art. XII § 1. Les terres sont gérées par un département de l'État, qui administre 203 981 acres.", source: "https://dhhl.hawaii.gov/about/"}
+  ressources: {valeur: "partiel", note: "L'État protège les droits exercés de manière coutumière et traditionnelle à des fins de subsistance, culturelles et religieuses par les descendants des Hawaïens présents avant 1778, sous réserve de son pouvoir de réglementation, constitution d'Hawaï, art. XII § 7 (1978).", source: "https://lrb.hawaii.gov/constitution/"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "L'anglais et l'hawaïen sont les langues officielles d'Hawaï ; l'hawaïen n'est exigé pour les actes publics que dans les cas prévus par la loi, constitution d'Hawaï, art. XV § 4 (1978).", source: "https://lrb.hawaii.gov/constitution/"}
+  education: {valeur: "partiel", note: "L'État assure dans les écoles publiques un programme d'éducation hawaïenne (langue, culture, histoire), constitution d'Hawaï, art. X § 4 (1978) ; ce programme relève de l'État et non d'une institution hawaïenne.", source: "https://lrb.hawaii.gov/constitution/"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Rapporteur spécial (2012) relève que les Hawaïens autochtones ont peu de terres effectivement détenues et que l'appel à la réconciliation de la résolution de 1993 reste sans suite (A/HRC/21/47/Add.1, § 64 à 66).", source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+chronologie:
+  - {annee: 1893, evenement: "Renversement du royaume d'Hawaï."}
+  - {annee: 1921, evenement: "Adoption de la Hawaiian Homes Commission Act."}
+  - {annee: 1978, evenement: "Convention constitutionnelle d'Hawaï : création de l'Office of Hawaiian Affairs, hawaïen langue officielle, protection des droits coutumiers."}
+  - {annee: 1993, evenement: "Résolution d'excuses du Congrès pour le renversement de 1893."}
+  - {annee: 2000, evenement: "Arrêt Rice c. Cayetano : fin du vote réservé aux Hawaïens pour l'Office of Hawaiian Affairs."}
+fiabilite:
+  verifie: ["Constitution d'Hawaï, art. X § 4, art. XII § 1, 5 et 7, art. XV § 4 (Legislative Reference Bureau).", "Sommaire de l'arrêt Rice c. Cayetano (Cornell LII).", "Superficies de la Hawaiian Homes Commission Act (département des terres hawaïennes).", "§ 1, 5, 64 à 66 et 80 du rapport du Rapporteur spécial (2012)."]
+  non_confirme: ["Critère §0 : aucun gouvernement hawaïen n'est reconnu ; la fiche est retenue parce que la constitution d'Hawaï attribue au moins un droit de la grille (langue, terres réservées) à ce peuple. Le rattachement reste discutable.", "Règle du département de l'Intérieur de 2016 sur une procédure de rétablissement de relations de gouvernement à gouvernement : texte non consulté.", "Inscription d'Hawaï sur la liste onusienne des territoires non autonomes jusqu'en 1959 : non vérifiée sur une source onusienne.", "Conditions d'éligibilité aux terres de la Hawaiian Homes Commission (quotient de sang) : non vérifiées.", "Population : le Rapporteur spécial indique « environ un demi-million » de personnes s'identifiant en tout ou partie comme hawaïennes (2012) ; aucun chiffre récent consulté."]
+sources:
+  - {titre: "Constitution de l'État d'Hawaï — Legislative Reference Bureau", url: "https://lrb.hawaii.gov/constitution/"}
+  - {titre: "About — Department of Hawaiian Home Lands", url: "https://dhhl.hawaii.gov/about/"}
+  - {titre: "Rice v. Cayetano (2000) — Cornell LII", url: "https://www.law.cornell.edu/supremecourt/text/528/495"}
+  - {titre: "Rapport du Rapporteur spécial, mission aux États-Unis, A/HRC/21/47/Add.1 (2012) — HCDH", url: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+  - {titre: "Déclaration des Nations Unies sur les droits des peuples autochtones — ONU DESA", url: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}

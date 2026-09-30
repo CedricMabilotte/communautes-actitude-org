@@ -1,0 +1,49 @@
+uid: "anangu-apy"
+nom: "Anangu Pitjantjatjara Yankunytjatjara"
+endonyme: "Anangu"
+territoire: "Terres APY (nord-ouest de l'Australie-Méridionale)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-26.5, 131.5]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 2333, annee: 2021, perimetre: "population recensée de la zone APY, dont 2 064 Aborigènes ou insulaires du détroit de Torres (88,5 %)", source: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA40250"}
+lieux: {valeur: 20, unite: "communautés et homelands (environ)", annee: 2026, source: "https://www.landscape.sa.gov.au/aw/visiting/communities"}
+surface_km2: {valeur: 102650, annee: null, perimetre: "terres APY en pleine propriété inaliénable", source: "https://dit.sa.gov.au/__data/assets/pdf_file/0019/5185/9_ABORIGINAL_LANDS_88-93.pdf"}
+resume: >-
+  Peuples Pitjantjatjara et Yankunytjatjara (Anangu) du nord-ouest de l'Australie-Méridionale. L'Anangu Pitjantjatjara Yankunytjatjara Land Rights Act 1981, loi de l'État d'Australie-Méridionale entrée en vigueur le 2 octobre 1981, confère un titre de pleine propriété inaliénable sur plus de 100 000 km² à une personne morale, Anangu Pitjantjatjara Yankunytjatjara, dirigée par un conseil exécutif élu. Les non-Anangu doivent obtenir un permis pour entrer sur les terres, et les activités minières requièrent l'autorisation de l'APY.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le CERD recommande à l'Australie d'appliquer les principes de la Déclaration des Nations Unies sur les droits des peuples autochtones et de garantir le consentement préalable, libre et éclairé sur les terres autochtones (CERD/C/AUS/CO/18-20)", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Anangu Pitjantjatjara Yankunytjatjara Land Rights Act 1981 (Australie-Méridionale), version du 7 octobre 2021", nature: "loi", annee: 1981, source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Anangu Pitjantjatjara Yankunytjatjara, personne morale maintenue par la loi (s. 5), recueille les volontés des propriétaires traditionnels et administre les terres (s. 6) ; son conseil exécutif compte jusqu'à 14 membres élus, un homme et une femme par circonscription, élections organisées par la commission électorale de l'État (s. 9).", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Les terres sont attribuées en pleine propriété à l'APY ; aucun droit sur elles ne peut en être aliéné ni exproprié en vertu du droit de l'État (s. 15 et 17). Tous les Anangu y ont libre accès (s. 18) ; les autres personnes doivent obtenir une autorisation écrite (s. 19).", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Les activités minières requièrent l'autorisation de l'APY ; en cas de refus ou de conditions contestées, le demandeur peut recourir à un arbitrage, qui tient compte des effets sur la culture anangu, l'environnement et le développement économique (s. 20 et 21).", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "La loi a été modifiée en 2005 (restructuration du conseil exécutif, pouvoirs de contrôle du ministre) ; aucune évaluation indépendante récente n'a été consultée.", source: "https://classic.austlii.edu.au/au/journals/IndigLawB/2005/62.html"}
+chronologie:
+  - {annee: 1981, evenement: "Pitjantjatjara Land Rights Act (entrée en vigueur le 2 octobre)."}
+  - {annee: 2005, evenement: "Loi de modification : l'organisme prend le nom d'Anangu Pitjantjatjara Yankunytjatjara ; conseil exécutif restructuré."}
+  - {annee: 2021, evenement: "Quarantième anniversaire de la loi."}
+fiabilite:
+  verifie: ["Sections 4, 5, 6, 9, 15, 17, 18, 19, 20 et 21 de la loi (version du 7 octobre 2021, legislation.sa.gov.au).", "Surface des terres APY (atlas du gouvernement d'Australie-Méridionale).", "Population 2021 (ABS).", "Modification de 2005 (Indigenous Law Bulletin)."]
+  non_confirme: ["Pouvoir de l'APY d'édicter des règlements locaux (by-laws).", "Pouvoir du Premier ministre de l'État de suspendre le conseil exécutif (modification de 2017).", "Nombre exact de communautés."]
+sources:
+  - {titre: "APY Land Rights Act 1981, version du 7 octobre 2021 — legislation.sa.gov.au", url: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
+  - {titre: "Gouvernement d'Australie-Méridionale — Aboriginal Lands (atlas)", url: "https://dit.sa.gov.au/__data/assets/pdf_file/0019/5185/9_ABORIGINAL_LANDS_88-93.pdf"}
+  - {titre: "ABS — 2021 Census QuickStats, Anangu Pitjantjatjara Yankunytjatjara", url: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA40250"}
+  - {titre: "Landscape South Australia — Alinytjara Wilurara communities", url: "https://www.landscape.sa.gov.au/aw/visiting/communities"}
+  - {titre: "ABC News — 40th anniversary of APY Land Rights Act (2021)", url: "https://www.abc.net.au/news/2021-10-02/sa-40th-anniversary-of-apy-lands-rights-act/100509422"}
+  - {titre: "R. Morley, The Pitjantjatjara Land Rights Amendment Act, Indigenous Law Bulletin (2005)", url: "https://classic.austlii.edu.au/au/journals/IndigLawB/2005/62.html"}
+  - {titre: "CERD — Observations finales sur l'Australie, CERD/C/AUS/CO/18-20 (2017)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}

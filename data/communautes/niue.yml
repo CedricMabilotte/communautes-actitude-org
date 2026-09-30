@@ -1,0 +1,49 @@
+uid: "niue"
+nom: "Peuple de Niue"
+endonyme: "Tagata Niue"
+territoire: "Niue"
+etats: ["Nouvelle-Zélande"]
+region: "oceanie"
+coord: [-19.1, -169.9]
+type: "peuple_libre_association"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1681, annee: 2022, perimetre: "population résidente de l'île (recensement)", source: "https://niuestatistics.nu/"}
+lieux: {valeur: 14, unite: "villages (circonscriptions de l'Assemblée)", annee: 2023, source: "https://www.gov.nu/government"}
+surface_km2: {valeur: 260, annee: null, perimetre: "île entière", source: "https://www.gov.nu/our-history"}
+resume: >-
+  Île du Pacifique Sud, État autonome en libre association avec la Nouvelle-Zélande depuis le 19 octobre 1974, par un acte d'autodétermination observé par l'ONU. La Nouvelle-Zélande garde des responsabilités pour les affaires extérieures et la défense et une obligation d'assistance économique et administrative ; les Niuéens conservent la citoyenneté néo-zélandaise. L'Assemblée de Niue compte 20 membres, dont 14 élus par les villages.
+reconnaissance_onu:
+  - {mecanisme: "accord_sous_egide", detail: "Résolution 3285 (XXIX) « Question de Nioué » : l'Assemblée générale prend acte du vote du peuple de Niue en faveur de l'autonomie en libre association, observé par une mission spéciale de l'ONU en août 1974, et juge que la communication de renseignements au titre de l'Article 73 e) n'est plus nécessaire", annee: 1974, source: "https://documents.un.org/api/symbol/access?s=A/RES/3285%28XXIX%29&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Niue Constitution Act 1974 (Nouvelle-Zélande) et Constitution de Niue", nature: "constitution", annee: 1974, source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
+  - {instrument: "Vagahau Niue Act 2012", nature: "loi", annee: 2012, source: "https://www.gov.nu/media/pages/information/1b266d005b-1764012776/act-321-vagahau-niue-act-2012.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "« Niue shall be self-governing » (Niue Constitution Act 1974, s. 3) ; Assemblée de 20 membres, 14 élus par les circonscriptions de village et 6 sur liste commune, et Cabinet.", source: "https://www.gov.nu/government"}
+  pouvoir_normatif: {valeur: "reconnu", note: "L'Assemblée de Niue fait les lois pour « la paix, l'ordre et le bon gouvernement » de Niue (Constitution, art. 28) ; aucune loi néo-zélandaise postérieure à 1974 ne s'applique sans demande et consentement de l'Assemblée (art. 36).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
+  justice_propre: {valeur: "reconnu", note: "Haute Cour de Niue (art. 37 et suiv.), dont une division foncière qui reprend la compétence de l'ancienne Land Court de Niue.", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
+  terres: {valeur: "partiel", note: "L'Assemblée ne peut examiner un projet touchant au titre coutumier ou à l'aliénation des terres niuéennes sans le rapport préalable d'une commission (Constitution, art. 33).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "« Vagahau Niue is the official language of Niue » ; usage de droit à toutes fins officielles et juridiques (Vagahau Niue Act 2012, partie 2) ; débats de l'Assemblée en niuéen ou en anglais (Constitution, art. 23).", source: "https://www.gov.nu/media/pages/information/1b266d005b-1764012776/act-321-vagahau-niue-act-2012.pdf"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Partie IV de la Constitution « Les revenus publics de Niue » : contrôle législatif des recettes et dépenses, compte du gouvernement de Niue, budget annuel (art. 56 à 60).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Statut de résident permanent de Niue défini par la loi, condition alternative à la citoyenneté néo-zélandaise pour voter ou être candidat (Constitution, art. 17) ; la citoyenneté néo-zélandaise est maintenue (Constitution Act 1974, s. 5).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
+  autodetermination_externe: {valeur: "reconnu", note: "Statut de 1974 choisi « par un acte d'autodétermination » (gouvernement de Niue) et observé par l'ONU (résolution 3285 (XXIX)) ; l'Assemblée peut modifier la Constitution (art. 35).", source: "https://documents.un.org/api/symbol/access?s=A/RES/3285%28XXIX%29&l=fr&t=pdf"}
+effectivite: {valeur: "non_etablie", note: "", source: ""}
+chronologie:
+  - {annee: 1901, evenement: "La Nouvelle-Zélande prend la responsabilité de Niue."}
+  - {annee: 1974, evenement: "Autonomie en libre association (19 octobre) ; résolution 3285 (XXIX)."}
+  - {annee: 2012, evenement: "Vagahau Niue Act : le niuéen devient langue officielle."}
+  - {annee: 2022, evenement: "Recensement : 1 681 habitants."}
+fiabilite:
+  verifie: ["Sections 3 à 7 du Niue Constitution Act 1974 et articles 17, 23, 28, 33, 35, 36 et 37 de la Constitution (édition 2019 publiée par le gouvernement de Niue).", "Composition de l'Assemblée (site du gouvernement de Niue).", "Vagahau Niue Act 2012 (texte obtenu par reconnaissance optique de caractères).", "Résolution 3285 (XXIX)."]
+  non_confirme: ["Régime détaillé des terres niuéennes (Niue Act 1966) : non consulté."]
+sources:
+  - {titre: "Constitution of Niue et Niue Constitution Act 1974, édition 2019 — gouvernement de Niue", url: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
+  - {titre: "Vagahau Niue Act 2012 — gouvernement de Niue", url: "https://www.gov.nu/media/pages/information/1b266d005b-1764012776/act-321-vagahau-niue-act-2012.pdf"}
+  - {titre: "Gouvernement de Niue — Government and Political System", url: "https://www.gov.nu/government"}
+  - {titre: "Gouvernement de Niue — Our History", url: "https://www.gov.nu/our-history"}
+  - {titre: "Niue Statistics Office", url: "https://niuestatistics.nu/"}
+  - {titre: "Résolution 3285 (XXIX) de l'Assemblée générale (1974)", url: "https://documents.un.org/api/symbol/access?s=A/RES/3285%28XXIX%29&l=fr&t=pdf"}

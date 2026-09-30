@@ -1,0 +1,54 @@
+uid: "sami-suede"
+nom: "Sámi de Suède"
+endonyme: "Sámit"
+territoire: "Sápmi, partie suédoise"
+etats: ["Suède"]
+region: "europe"
+coord: [66.5, 18.5]
+type: "peuple_autochtone"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 9755, annee: 2025, perimetre: "personnes inscrites sur la liste électorale du Sameting (18 ans et plus)", source: "https://www.sametinget.se/2627"}
+lieux: {valeur: 51, unite: "samebyar (communautés villageoises d'élevage de rennes)", annee: null, source: "https://www.sametinget.se/samebyar"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Depuis 2011, l'Instrument de gouvernement, l'une des lois fondamentales suédoises, reconnaît les Sámi comme un peuple. La Loi de 1992 sur le Sameting institue une assemblée élue qui est aussi une autorité administrative de l'État. Le droit à l'élevage des rennes est réservé aux Sámi membres des communautés villageoises (samebyar). La Loi de 2022 oblige l'État, les régions et les communes à consulter les représentants sâmes avant les décisions qui les concernent particulièrement.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "La Suède a voté pour la Déclaration en 2007 ; elle n'a pas ratifié la Convention OIT 169 (A/HRC/33/42/Add.3, § 35).", annee: 2007, source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport sur la situation du peuple sâme dans la région du Sápmi (A/HRC/33/42/Add.3), § 35 à 52.", annee: 2016, source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+base_nationale:
+  - {instrument: "Instrument de gouvernement (1974:152), chap. 1, art. 2, et chap. 2, art. 17", nature: "constitution", annee: 2011, source: "https://www.constituteproject.org/constitution/Sweden_2012"}
+  - {instrument: "Loi sur le Sameting (1992:1433)", nature: "loi", annee: 1992, source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/sametingslag-19921433_sfs-1992-1433/"}
+  - {instrument: "Loi sur l'élevage des rennes (1971:437)", nature: "loi", annee: 1971, source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+  - {instrument: "Loi sur la consultation dans les questions concernant le peuple sâme (2022:66)", nature: "loi", annee: 2022, source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-202266-om-konsultation-i-fragor-som-ror-det_sfs-2022-66/"}
+  - {instrument: "Cour suprême de Suède, arrêt Girjas (T 853-18), 2020", nature: "jurisprudence", annee: 2020, source: "https://www.domstol.se/en/supreme-court/news-archive/the-girjas-case--press-release/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Sameting est une autorité de l'État chargée de veiller aux questions de culture sâme, Loi de 1992, chap. 1, art. 1 ; ses 31 membres sont élus par les personnes inscrites sur la liste électorale sâme, chap. 2, art. 2, et chap. 3, art. 3.", source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/sametingslag-19921433_sfs-1992-1433/"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La Loi sur l'élevage des rennes (1971) reconnaît aux Sámi le droit d'utiliser les terres et eaux traditionnellement utilisées ; ce droit, réservé aux membres des samebyar, est cité à l'Instrument de gouvernement, chap. 2, art. 17 ; les aires de pâturage ne sont pas délimitées (Rapporteur spécial, 2016, § 38).", source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+  ressources: {valeur: "partiel", note: "La Cour suprême a jugé en 2020 que la communauté de Girjas détient, par possession immémoriale (usage depuis des temps très anciens), le droit exclusif d'accorder les droits de chasse et de pêche sur son territoire au-dessus de la limite des cultures.", source: "https://www.domstol.se/en/supreme-court/news-archive/the-girjas-case--press-release/"}
+  consentement: {valeur: "partiel", note: "L'État, les régions et les communes doivent consulter le Sameting et, s'il y a lieu, les samebyar avant de décider dans les affaires de portée particulière pour les Sámi ; la consultation se poursuit jusqu'à accord ou constat qu'il est impossible, Loi 2022:66, art. 2, 7 et 11 ; la loi n'exige pas le consentement.", source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-202266-om-konsultation-i-fragor-som-ror-det_sfs-2022-66/"}
+  langue: {valeur: "partiel", note: "La loi de 2009 sur les minorités nationales et les langues minoritaires (2009:724) protège les langues sâmes dans des zones administratives désignées ; sa mise en œuvre reste partielle (Rapporteur spécial, 2016, § 49).", source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+  education: {valeur: "partiel", note: "Le Sameting nomme les membres du Conseil des écoles sâmes (Sameskolstyrelsen), Loi de 1992, chap. 2, art. 1 ; cinq écoles sâmes couvrent les premières années de scolarité (Rapporteur spécial, 2016, § 50).", source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/sametingslag-19921433_sfs-1992-1433/"}
+  fiscalite: {valeur: "partiel", note: "Le Sameting décide de la répartition des subventions de l'État et du Fonds sâme (Samefonden) destinés à la culture et aux organisations sâmes, Loi de 1992, chap. 2, art. 1 ; il n'a pas de pouvoir fiscal.", source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/sametingslag-19921433_sfs-1992-1433/"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Rapporteur spécial (2016, § 37 à 48) relève le double rôle du Sameting, l'absence de délimitation des terres et le cas de la mine de Rönnbäck ; le Conseil sâme et IWGIA (2025) notent que la loi de 2022 ne vise pas les acteurs privés.", source: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+chronologie:
+  - {annee: 1971, evenement: "Loi sur l'élevage des rennes."}
+  - {annee: 1992, evenement: "Loi sur le Sameting."}
+  - {annee: 2011, evenement: "L'Instrument de gouvernement reconnaît les Sámi comme un peuple (1er janvier)."}
+  - {annee: 2020, evenement: "Arrêt Girjas de la Cour suprême."}
+  - {annee: 2022, evenement: "Loi sur la consultation du peuple sâme ; application aux régions et communes à partir de mars 2024."}
+fiabilite:
+  verifie: ["Instrument de gouvernement, chap. 1, art. 2, et chap. 2, art. 17 (Constitute Project).", "Loi 1992:1433, chap. 1, art. 1, chap. 2, art. 1 et 2, chap. 3, art. 3 (Riksdag).", "Loi 2022:66, art. 1 à 12 (Riksdag).", "Communiqué de la Cour suprême sur l'arrêt Girjas.", "A/HRC/33/42/Add.3, § 35 à 52."]
+  non_confirme: ["Population : aucun recensement ethnique ; le Rapporteur spécial (2016) estime entre 15 000 et 20 000 Sámi en Suède.", "Texte de la Loi sur l'élevage des rennes non consulté directement."]
+sources:
+  - {titre: "Sametingslag (1992:1433) — Riksdag", url: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/sametingslag-19921433_sfs-1992-1433/"}
+  - {titre: "Lag (2022:66) om konsultation i frågor som rör det samiska folket — Riksdag", url: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-202266-om-konsultation-i-fragor-som-ror-det_sfs-2022-66/"}
+  - {titre: "Constitution de la Suède — Constitute Project", url: "https://www.constituteproject.org/constitution/Sweden_2012"}
+  - {titre: "The Girjas case — Cour suprême de Suède", url: "https://www.domstol.se/en/supreme-court/news-archive/the-girjas-case--press-release/"}
+  - {titre: "A/HRC/33/42/Add.3, situation du peuple sâme dans la région du Sápmi — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+  - {titre: "The State of Sápmi #1 2025 — Conseil sâme, IWGIA, Indigenous Navigator", url: "https://indigenousnavigator.org/files/media/document/The+State+Of+Sa%CC%81pmi+01_2025.pdf"}

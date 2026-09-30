@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+site/
+apercu/
+_build/
+assets/cards-src/
+*.tmp
+*.log
+# Pilotage de session Cowork (notes internes, non versionnées)
+CLAUDE.md
+routine-fin.md
+etat-projet-*.md
+lecons-*.md
+TAF.md
+_interne/
+*.pyc

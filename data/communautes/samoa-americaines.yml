@@ -1,0 +1,43 @@
+uid: "samoa-americaines"
+nom: "Samoans des Samoa américaines"
+endonyme: "Amerika Sāmoa"
+territoire: "Samoa américaines"
+etats: ["États-Unis"]
+region: "oceanie"
+coord: [-14.3, -170.7]
+type: "peuple_territoire_non_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 49710, annee: 2020, perimetre: "population du territoire (recensement des États-Unis)", source: "https://www.census.gov/newsroom/press-releases/2021/2020-census-american-samoa.html"}
+lieux: {valeur: 14, unite: "conseils de comté", annee: 2026, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/1&l=fr&t=pdf"}
+surface_km2: {valeur: 200, annee: 2026, perimetre: "terres émergées des sept îles", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/1&l=fr&t=pdf"}
+resume: >-
+  Territoire non incorporé et non organisé des États-Unis (sans loi organique du Congrès), administré sous l'autorité du secrétaire à l'Intérieur. La Constitution révisée de 1967, approuvée par le secrétaire à l'Intérieur et par les électeurs en 1966, protège les terres et le mode de vie samoans et réserve le Sénat territorial aux matai (chefs de famille) désignés selon la coutume. Les habitants sont nationaux, non citoyens, des États-Unis. Le territoire figure sur la liste des territoires non autonomes.
+reconnaissance_onu:
+  - {mecanisme: "liste_tna", detail: "Résolution 79/99 « Question des Samoa américaines » : rappel du référendum constitutionnel du 8 novembre 2022 et des décisions judiciaires sur la citoyenneté", annee: 2024, source: "https://documents.un.org/api/symbol/access?s=A/RES/79/99&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution révisée des Samoa américaines", nature: "constitution", annee: 1967, source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/98671/USA98671.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Législature (Fono) de deux chambres et gouverneur ; la Constitution révisée a été établie sous l'autorité du secrétaire à l'Intérieur des États-Unis (préambule).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/98671/USA98671.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La législature adopte les lois du territoire ; la jurisprudence locale juge contraires à la Constitution territoriale les lois incompatibles avec le droit fédéral applicable (art. II, § 1).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/98671/USA98671.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Politique de protection des personnes d'ascendance samoane contre l'aliénation de leurs terres ; toute modification du droit sur l'aliénation des terres exige deux législatures successives à la majorité des deux tiers et l'accord du gouverneur (art. I, § 3).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/98671/USA98671.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "La politique du gouvernement est de protéger contre la destruction « du mode de vie et de la langue samoans » (art. I, § 3) ; aucun statut officiel relevé.", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/98671/USA98671.pdf"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Au niveau territorial, les 18 sénateurs sont élus « selon la coutume samoane » par les conseils de comté et doivent être matai enregistrés (art. II, § 2 à 4) ; au niveau fédéral, le territoire élit un délégué à la Chambre des représentants (résolution 79/99).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/98671/USA98671.pdf"}
+  statut_personnel: {valeur: "partiel", note: "La Constitution protège l'organisation familiale traditionnelle samoane (art. I, § 3) et fait de la qualité de matai une condition d'éligibilité au Sénat (art. II, § 3).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/98671/USA98671.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le représentant du territoire indique à l'ONU que le statut de territoire non incorporé et non organisé limite sa capacité à s'autoadministrer ; en 2022, les électeurs rejettent l'amendement donnant au Fono le pouvoir de passer outre le veto du gouverneur (résolution 79/99).", source: "https://documents.un.org/api/symbol/access?s=A/RES/79/99&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1960, evenement: "Première Constitution des Samoa américaines."}
+  - {annee: 1967, evenement: "Entrée en vigueur de la Constitution révisée, approuvée par les électeurs en 1966."}
+  - {annee: 2022, evenement: "Assemblée constituante (29 août - 2 septembre) ; référendum du 8 novembre rejetant le pouvoir du Fono de passer outre le veto du gouverneur."}
+fiabilite:
+  verifie: ["Articles I, § 3 et II, § 2 à 4 de la Constitution révisée (NATLEX).", "Contenu de la résolution 79/99."]
+  non_confirme: ["Division des terres et titres de la Haute Cour (litiges sur les titres de matai) : non vérifiée sur texte.", "Part des terres communales : non vérifiée.", "Population au recensement de 2020.", "Date exacte d'entrée en vigueur de la Constitution révisée (1967 retenu d'après son intitulé usuel)."]
+sources:
+  - {titre: "Constitution révisée des Samoa américaines — NATLEX (OIT)", url: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/98671/USA98671.pdf"}
+  - {titre: "Résolution 79/99 « Question des Samoa américaines » (2024)", url: "https://documents.un.org/api/symbol/access?s=A/RES/79/99&l=fr&t=pdf"}

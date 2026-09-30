@@ -1,0 +1,527 @@
+slug: "habiter-sans-posseder"
+titre: "Habiter sans posséder : des terres retirées du marché"
+chapeau: >-
+  Dans une vingtaine de pays, des terres ne peuvent être ni vendues, ni saisies, ni perdues par l'occupation d'un tiers. Ceux qui y vivent en ont l'usage parce qu'ils appartiennent à un groupe, non parce qu'ils ont acheté un titre. Ce dossier compare 25 de ces régimes : qui attribue l'usage, ce qui bloque la vente, ce qui s'applique sur le terrain.
+
+introduction: >-
+  Dans le droit courant, la terre est une marchandise : on l'achète, on la vend, on l'hypothèque, un créancier peut la faire saisir. Les régimes réunis ici font l'inverse. Ils déclarent la terre inaliénable (elle ne peut être vendue ni donnée), insaisissable (un créancier ne peut la faire saisir) et imprescriptible (on ne la perd pas parce qu'un tiers l'occupe longtemps). L'usage y est attribué par l'appartenance au groupe ou par l'autorité du groupe, et non par un acte d'achat.
+
+
+  Le dossier distingue sept mécanismes. Dans la propriété collective protégée, le groupe est propriétaire et la loi lui interdit de vendre. Dans le deuxième, l'État reste propriétaire et la communauté a l'usufruit (le droit d'utiliser la terre et d'en percevoir les fruits sans en être propriétaire). Dans la fiducie, un organisme détient le titre et gère la terre pour le compte des ayants droit. Le droit d'usage sans titre donne des droits de chasse, de cueillette ou de culture sur une terre qui reste publique. L'attribution coutumière renvoie à des chefs, des familles ou des conseils de village. Les biens tenus en main commune sont les communaux d'Europe, qui appartiennent aux habitants d'un lieu sans parts individuelles. Enfin, la vente encadrée autorise la vente, mais seulement au profit du groupe.
+
+
+  Les cas retenus figurent dans l'atlas ou se rattachent à une communauté qui y figure. Trois cas européens (Galice, Ampezzo, sections de commune en France) servent de point de comparaison : ils ne concernent pas des peuples autochtones mais des collectivités d'habitants. Le cas mexicain montre le mouvement inverse : une réforme de 1992 a permis de faire revenir sur le marché des terres qui en étaient sorties.
+
+mecanismes:
+  - {cle: "propriete_collective", libelle: "Propriété collective protégée", definition: "Le groupe est propriétaire du sol ; la loi interdit ou limite la vente, la saisie et la perte par occupation prolongée."}
+  - {cle: "propriete_etat_usufruit", libelle: "Propriété de l'État, usufruit du groupe", definition: "Le sol appartient à l'État ; la communauté en a la possession permanente et l'usage exclusif des ressources de surface."}
+  - {cle: "fiducie", libelle: "Fiducie ou organisme gestionnaire", definition: "Un organisme (fiduciaire, bureau, domaine) détient le titre, consent les baux et redistribue les revenus pour le compte des ayants droit."}
+  - {cle: "droit_usage", libelle: "Droit d'usage sans propriété du sol", definition: "La communauté ou ses membres ont des droits de chasse, de pêche, de cueillette, de culture ou d'habitation sur une terre qui reste à l'État."}
+  - {cle: "attribution_coutumiere", libelle: "Attribution par l'autorité coutumière", definition: "La loi renvoie à la coutume : chefs, familles ou conseils de village attribuent l'usage et autorisent les transferts."}
+  - {cle: "main_commune", libelle: "Biens tenus en main commune", definition: "Communaux européens : la terre appartient aux habitants ou aux familles d'un lieu, sans parts individuelles, et chacun en jouit tant qu'il fait partie du groupe."}
+  - {cle: "cession_restreinte", libelle: "Vente encadrée au profit du groupe", definition: "La terre peut se vendre, mais la vente est réservée aux membres du groupe, ou le groupe dispose d'un droit de rachat prioritaire."}
+
+concepts:
+  - {terme: "whenua", langue: "te reo māori", communautes: ["maori-aotearoa"], sens: "La terre, présentée par la Cour foncière māori comme une part de l'identité du peuple du lieu (tangata whenua).", source: "https://www.maorilandcourt.govt.nz/en/who-we-are"}
+  - {terme: "tūrangawaewae", langue: "te reo māori", communautes: ["maori-aotearoa"], sens: "« Le lieu d'où l'on vient, le lieu auquel on appartient, le lieu où l'on se tient » : le rattachement d'une personne à une terre.", source: "https://www.maorilandcourt.govt.nz/en/who-we-are"}
+  - {terme: "yavusa, mataqali, tokatoka", langue: "fidjien", communautes: ["itaukei-fidji"], sens: "Les trois niveaux de groupes de parenté qui détiennent les terres iTaukei et pour lesquels le bureau fiduciaire administre la terre.", source: "https://tltb.com.fj/corporate-profile/"}
+  - {terme: "Finnmárkkuopmodat", langue: "same du Nord", communautes: ["sami-norvege"], sens: "Nom same du domaine du Finnmark, l'entité qui possède depuis 2006 les anciennes terres de l'État dans le comté.", source: "https://app.uio.no/ub/ujur/oversatte-lover/data/lov-20050617-085-eng.pdf"}
+  - {terme: "terra indígena ; usufruto exclusivo", langue: "portugais", communautes: ["terres-indigenes-bresil"], sens: "Terre occupée traditionnellement par un peuple autochtone ; le peuple en a la possession permanente et l'usage exclusif des richesses du sol, des rivières et des lacs.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+  - {terme: "resguardo", langue: "espagnol (Colombie)", communautes: ["resguardos-colombie"], sens: "Territoire titré au nom d'une ou plusieurs communautés autochtones, que la Constitution range parmi les biens qu'on ne peut ni vendre, ni saisir, ni perdre par prescription.", source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr001.html"}
+  - {terme: "ejido ; tierras de uso común ; dominio pleno", langue: "espagnol (Mexique)", communautes: [], sens: "Noyau de population propriétaire de terres dotées par l'État ; les terres d'usage commun y sont inaliénables ; le « domaine plein » est la sortie d'une parcelle vers la propriété privée ordinaire.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+  - {terme: "monte vecinal en mano común", langue: "espagnol / galicien", communautes: ["galiciens-galice"], sens: "Mont (bois, lande, pâturage) appartenant en commun, sans parts, aux voisins qui forment à un moment donné le groupe d'habitants.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21339"}
+  - {terme: "regola ; laudo", langue: "italien / ladin", communautes: [], sens: "Institution de propriété collective des bois et pâturages d'Ampezzo ; le laudo est le recueil écrit de ses règles coutumières.", source: "https://www.regole.it/IT/pagina108-origini-di-un-antica-istituzione"}
+  - {terme: "croft ; common grazings", langue: "anglais (Écosse)", communautes: ["ecossais-ecosse"], sens: "Petite exploitation tenue à bail protégé dans les Highlands et les îles ; les pâturages communs sont partagés entre crofters.", source: "https://www.legislation.gov.uk/asp/2003/2/section/68"}
+  - {terme: "gram sabha", langue: "hindi", communautes: ["droits-forestiers-communautaires-inde"], sens: "Assemblée de village, autorité qui lance la reconnaissance des droits forestiers individuels et communautaires.", source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  - {terme: "naïb", langue: "arabe", communautes: ["collectivites-soulaliyates-maroc"], sens: "Délégué d'une collectivité soulaliyate, qui la représente dans la gestion de ses terres.", source: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}
+
+cas:
+  - id: "kanak-terres-coutumieres"
+    atlas_uid: "kanak-nouvelle-caledonie"
+    communaute: "Clans kanak"
+    etats: ["France (Nouvelle-Calédonie)"]
+    entite: "Terres coutumières : réserves, terres des groupements de droit particulier local (GDPL), terres attribuées au titre du lien à la terre"
+    mecanisme: "propriete_collective"
+    annee: 1999
+    concept_local: "terres coutumières"
+    resume: >-
+      L'article 18 de la loi organique de 1999 place sous la coutume les terres coutumières et les biens qui s'y trouvent. Ces terres comprennent les anciennes réserves, les terres attribuées aux groupements de droit particulier local (GDPL) et les terres rendues par les collectivités ou les établissements fonciers « au titre du lien à la terre ». Elles sont « inaliénables, incessibles, incommutables et insaisissables » : elles ne peuvent être vendues, cédées, échangées ni saisies. L'usage est réparti selon la coutume, et les accords sont consignés dans des procès-verbaux de palabre.
+    gouvernance: "Les clans et leurs chefferies attribuent l'usage ; le conseil coutumier de l'aire tranche les litiges d'interprétation des palabres (art. 150) ; le juge civil siège avec des assesseurs coutumiers (art. 19)."
+    effectivite: "Inconnue : aucune donnée récente sur la surface des terres coutumières ou sur les baux consentis n'a pu être ouverte."
+    textes:
+      - {titre: "Loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, art. 18, 19 et 150", nature: "loi_organique", annee: 1999, source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+    sources:
+      - {titre: "Loi organique n° 99-209, version consolidée — DASS Nouvelle-Calédonie", url: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+
+  - id: "wallis-futuna-proprietes-familiales"
+    atlas_uid: "wallis-et-futuna"
+    communaute: "Groupes familiaux de Wallis et de Futuna"
+    etats: ["France (Wallis-et-Futuna)"]
+    entite: "Propriétés familiales, propriétés de village et domaine coutumier"
+    mecanisme: "attribution_coutumiere"
+    annee: 1961
+    concept_local: "propriété familiale ; « haut domaine » des rois"
+    resume: >-
+      Les terres des personnes de statut de droit local sont soumises à la coutume. Elle distingue la propriété publique des autorités coutumières (zones non cultivées, routes, rivage), la propriété de village, qui n'existe pas à Futuna, et la propriété familiale, qui donne au groupe familial un droit « perpétuel, exclusif et inaliénable ». Les rois conservent la nue-propriété (le fond du droit) et peuvent reprendre ou attribuer des terres ; les familles n'ont que l'usufruit. L'Assemblée territoriale peut fixer le régime foncier mais ne l'a jamais fait, à une exception restée inappliquée.
+    gouvernance: "Le chef du groupe familial gère seul la propriété familiale ; le chef de village dirige la propriété de village ; les rois de Wallis et de Futuna détiennent le « haut domaine »."
+    effectivite: "Le Sénat (2014) cite la Cour des comptes : faute de pouvoir acheter, les professionnels passent des baux dont les loyers sont « modifiables sans préavis » ; il n'existe ni cadastre ni juridiction de droit local en fonctionnement."
+    textes:
+      - {titre: "Loi n° 61-814 du 29 juillet 1961 conférant aux îles Wallis et Futuna le statut de territoire d'outre-mer", nature: "loi", annee: 1961, source: "https://www.senat.fr/rap/r14-103/r14-103_mono.html"}
+    sources:
+      - {titre: "Sénat — Rapport d'information n° 103 (2014-2015) sur Wallis-et-Futuna", url: "https://www.senat.fr/rap/r14-103/r14-103_mono.html"}
+      - {titre: "IEOM — Wallis-et-Futuna, rapport annuel économique 2020", url: "https://www.ieom.fr/IMG/pdf/rapport-annuel-economique-wallis-et-futuna-2020.pdf"}
+
+  - id: "itaukei-fidji"
+    atlas_uid: "itaukei-fidji"
+    communaute: "iTaukei (Fidjiens autochtones)"
+    etats: ["Fidji"]
+    entite: "Terres iTaukei, environ 90 % du territoire"
+    mecanisme: "fiducie"
+    annee: 1940
+    concept_local: "yavusa, mataqali, tokatoka"
+    resume: >-
+      Les ventes de terres ont été arrêtées après la cession de 1874. Depuis 1940, un bureau fiduciaire créé par la loi (aujourd'hui iTaukei Land Trust Board) administre les terres pour le compte des groupes propriétaires, yavusa, mataqali et tokatoka. La Constitution de 2013 (art. 28) garde la propriété aux propriétaires coutumiers : ces terres ne peuvent être aliénées de façon définitive, sauf à l'État pour un usage public, et reviennent aux propriétaires quand l'État n'en a plus besoin. Le bureau consent les baux et licences, perçoit loyers et redevances, et les redistribue aux propriétaires.
+    gouvernance: "Le bureau fiduciaire iTaukei gère les baux et réserve des terres à l'usage des propriétaires ; la répartition de l'usage à l'intérieur des groupes relève de la coutume."
+    effectivite: "Environ 90 % des terres appartiennent aux propriétaires coutumiers ; elles sont le plus souvent louées par le système coordonné par l'État, en général pour 30 ans ; à l'expiration du bail, l'occupant peut être expulsé (rapport du gouvernement australien, 2022)."
+    textes:
+      - {titre: "Constitution de la République de Fidji (2013), art. 28", nature: "constitution", annee: 2013, source: "https://www.constituteproject.org/constitution/Fiji_2013"}
+      - {titre: "Native Land Trust Act 1940 (aujourd'hui iTaukei Land Trust Act)", nature: "loi", annee: 1940, source: "https://tltb.com.fj/our-history/"}
+    sources:
+      - {titre: "iTaukei Land Trust Board — Corporate Profile", url: "https://tltb.com.fj/corporate-profile/"}
+      - {titre: "iTaukei Land Trust Board — Our History", url: "https://tltb.com.fj/our-history/"}
+      - {titre: "DFAT — Country Information Report Fiji (2022)", url: "https://www.dfat.gov.au/sites/default/files/country-information-report-fiji.pdf"}
+
+  - id: "maori-whenua"
+    atlas_uid: "maori-aotearoa"
+    communaute: "Propriétaires de terres māori (whānau, hapū)"
+    etats: ["Nouvelle-Zélande"]
+    entite: "Terres māori coutumières et terres māori en pleine propriété"
+    mecanisme: "cession_restreinte"
+    annee: 1993
+    concept_local: "whenua ; tūrangawaewae"
+    resume: >-
+      La loi Te Ture Whenua Māori de 1993 vise à garder les terres māori entre les mains māori, sous le contrôle d'une juridiction propre, la Cour foncière māori. La terre n'est pas inaliénable : une part peut être donnée ou vendue, mais d'abord à une « catégorie préférée d'acquéreurs » (famille, co-propriétaires, groupe de parenté). Une vente hors de cette catégorie exige de prouver que l'offre a été faite aux membres sans succès. Un propriétaire peut obtenir un droit d'occuper une partie du bloc et d'y construire (ordonnance d'occupation) : le titre reste aux propriétaires, le droit d'occuper se transmet par succession.
+    gouvernance: "La Cour foncière māori constate les successions, autorise les transferts et nomme les fiducies (ahu whenua) et les corporations qui gèrent la plupart des blocs."
+    effectivite: "En juin 2025, 27 703 titres de terres māori en pleine propriété couvrent 1,41 million d'hectares ; un bloc compte en moyenne 111 propriétaires. La Cour avertit que la part individuelle hypothéquée peut être vendue au prix du marché en cas de défaut de paiement."
+    textes:
+      - {titre: "Te Ture Whenua Māori Act 1993 (loi sur les terres māori)", nature: "loi", annee: 1993, source: "https://www.maorilandcourt.govt.nz/en/who-we-are"}
+    sources:
+      - {titre: "Māori Land Court — Who we are", url: "https://www.maorilandcourt.govt.nz/en/who-we-are"}
+      - {titre: "Māori Land Court — Transferring land", url: "https://www.maorilandcourt.govt.nz/en/maori-land/becoming-a-landowner/transferring-land"}
+      - {titre: "Māori Land Court — Occupy your land", url: "https://www.maorilandcourt.govt.nz/en/maori-land/use-your-land/occupy-your-land"}
+      - {titre: "Māori Land Court — Māori Land Update 2025", url: "https://www.maorilandcourt.govt.nz/assets/Documents/Maori-Land-Data/2025-10-28-MLC-Maori-Land-Update-2025.pdf"}
+
+  - id: "mariannes-du-nord-article-xii"
+    atlas_uid: "mariannes-du-nord"
+    communaute: "Personnes d'ascendance nord-mariannaise (Chamorro et Carolinien)"
+    etats: ["États-Unis (Commonwealth des Îles Mariannes du Nord)"]
+    entite: "Ensemble des biens immobiliers du Commonwealth"
+    mecanisme: "cession_restreinte"
+    annee: 1978
+    concept_local: ""
+    resume: >-
+      L'article XII de la Constitution du Commonwealth réserve l'acquisition de droits permanents et de longue durée sur les biens immobiliers aux personnes d'ascendance nord-mariannaise, c'est-à-dire d'ascendance chamorro ou carolinienne. Il applique la section 805 du Covenant conclu avec les États-Unis. Les terres publiques appartiennent collectivement aux personnes de même ascendance (art. XI).
+    gouvernance: "Les tribunaux du Commonwealth annulent les transactions contraires ; les terres publiques sont gérées par une corporation dont les directeurs doivent être d'ascendance nord-mariannaise."
+    effectivite: "La restriction reste en vigueur ; en 2016, la Cour d'appel du neuvième circuit n'a pas examiné l'article XII mais a annulé la réservation du vote sur sa modification aux seules personnes de cette ascendance."
+    textes:
+      - {titre: "Covenant to Establish a Commonwealth of the Northern Mariana Islands, s. 805", nature: "accord", annee: 1976, source: "https://cnmilaw.org/cons.php"}
+      - {titre: "Constitution du Commonwealth des Îles Mariannes du Nord, art. XI et XII", nature: "constitution", annee: 1978, source: "https://cnmilaw.org/cons.php"}
+    sources:
+      - {titre: "CNMI Law Revision Commission — Constitution", url: "https://cnmilaw.org/cons.php"}
+      - {titre: "Cour d'appel du neuvième circuit, Davis c. Commonwealth Election Commission (2016)", url: "https://cdn.ca9.uscourts.gov/datastore/opinions/2016/12/27/14-16090.pdf"}
+
+  - id: "alra-territoire-du-nord"
+    atlas_uid: "aborigenes-territoire-du-nord"
+    communaute: "Propriétaires traditionnels aborigènes du Territoire du Nord"
+    etats: ["Australie"]
+    entite: "Terres aborigènes attribuées en vertu de la loi de 1976"
+    mecanisme: "fiducie"
+    annee: 1976
+    concept_local: ""
+    resume: >-
+      La loi fédérale de 1976 a créé en droit australien un titre de pleine propriété inaliénable. Les anciennes réserves sont devenues terres aborigènes sans revendication ; d'autres terres ont été obtenues par revendication devant un commissaire, jusqu'au 30 juin 1997. Le titre est détenu par des fiducies foncières dont les membres sont les propriétaires traditionnels ; la terre ne peut être ni vendue ni hypothéquée, et le gouvernement du Territoire ne peut l'exproprier. La fiducie peut accorder baux et licences, mais seulement sur instruction d'un conseil foncier.
+    gouvernance: "Les conseils fonciers (Central, Northern, Tiwi, Anindilyakwa), élus, consultent les propriétaires traditionnels, vérifient leur consentement collectif, puis donnent instruction à la fiducie."
+    effectivite: "Les propriétaires traditionnels ont deux ans pour accepter ou refuser une exploration minière ; après accord sur l'exploration, ils ne peuvent plus bloquer l'exploitation. Le CERD relève en 2017 des projets d'extraction sans consentement préalable, libre et éclairé."
+    textes:
+      - {titre: "Aboriginal Land Rights (Northern Territory) Act 1976, s. 5, 12 et 19", nature: "loi", annee: 1976, source: "https://www.foundingdocs.gov.au/resources/transcripts/nt7_doc_1976.pdf"}
+    sources:
+      - {titre: "Central Land Council — The Aboriginal Land Rights Act", url: "https://www.clc.org.au/the-alra/"}
+      - {titre: "CERD — Observations finales sur l'Australie (CERD/C/AUS/CO/18-20, 2017)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}
+
+  - id: "metis-alberta"
+    atlas_uid: "etablissements-metis-alberta"
+    communaute: "Membres des huit établissements métis de l'Alberta"
+    etats: ["Canada"]
+    entite: "Terres des établissements métis"
+    mecanisme: "propriete_collective"
+    annee: 1990
+    concept_local: "Metis title (titre métis)"
+    resume: >-
+      Les terres des huit établissements sont détenues en fief simple (pleine propriété) par le Conseil général des établissements métis. Une loi à valeur constitutionnelle provinciale interdit leur expropriation et leur saisie. L'Assemblée législative ne peut modifier la protection des terres ni révoquer les lettres patentes sans l'accord du Conseil général. Les membres reçoivent des droits d'occupation (titre métis et autres intérêts) attribués selon les règles du Conseil général ; ces droits prennent fin avec l'appartenance à l'établissement.
+    gouvernance: "Le Conseil général fixe par ses politiques l'attribution des terres ; les conseils d'établissement attribuent les parcelles ; un tribunal d'appel des établissements tranche les litiges fonciers."
+    effectivite: "Les établissements et le Conseil général fonctionnent ; un protocole d'accord avec l'Alberta a été signé le 29 mars 2023."
+    textes:
+      - {titre: "Constitution of Alberta Amendment Act, 1990 (RSA 2000, c. C-24), art. 3 à 5", nature: "loi", annee: 1990, source: "https://kings-printer.alberta.ca/documents/Acts/C24.pdf"}
+      - {titre: "Metis Settlements Act (RSA 2000, c. M-14), art. 95 et 222", nature: "loi", annee: 1990, source: "https://kings-printer.alberta.ca/documents/Acts/M14.pdf"}
+    sources:
+      - {titre: "Constitution of Alberta Amendment Act, 1990 — King's Printer", url: "https://kings-printer.alberta.ca/documents/Acts/C24.pdf"}
+      - {titre: "Metis Settlements Act — King's Printer", url: "https://kings-printer.alberta.ca/documents/Acts/M14.pdf"}
+      - {titre: "Gouvernement de l'Alberta — Metis Settlements", url: "https://www.alberta.ca/metis-settlements"}
+
+  - id: "terres-fiducie-etats-unis"
+    atlas_uid: "nations-tribales-etats-unis"
+    communaute: "Nations amérindiennes reconnues par l'État fédéral"
+    etats: ["États-Unis"]
+    entite: "Terres tenues en fiducie par les États-Unis (environ 56,2 millions d'acres)"
+    mecanisme: "fiducie"
+    annee: 1934
+    concept_local: ""
+    resume: >-
+      Selon une loi fédérale issue d'un texte de 1834 (25 U.S.C. § 177), aucune vente, aucun bail ni aucune cession de terre d'une nation amérindienne n'est valable sans traité. Sur les réserves, l'État fédéral détient le titre en fiducie pour les nations et leurs membres ; les terres acquises depuis la loi de 1934 le sont au nom des États-Unis et échappent aux impôts des États et des collectivités locales. La loi de 1887 sur les attributions individuelles (General Allotment Act) avait découpé des réserves en parcelles attribuées à des membres des nations.
+    gouvernance: "Le Bureau of Indian Affairs (bureau fédéral) administre les terres en fiducie ; les gouvernements tribaux décident de leur usage selon leurs propres règles, sous le contrôle fédéral pour les baux."
+    effectivite: "Les parcelles attribuées après 1887 se sont morcelées entre héritiers à chaque génération. Un programme fédéral doté de 1,9 milliard de dollars (2012-2022) a racheté des parts à des vendeurs volontaires pour les rendre à la propriété de la nation, en fiducie."
+    textes:
+      - {titre: "25 U.S.C. § 177, issu de la loi du 30 juin 1834", nature: "loi", annee: 1834, source: "https://www.law.cornell.edu/uscode/text/25/177"}
+      - {titre: "Indian Reorganization Act 1934, § 5 (25 U.S.C. § 5108)", nature: "loi", annee: 1934, source: "https://www.law.cornell.edu/uscode/text/25/5108"}
+    sources:
+      - {titre: "Bureau of Indian Affairs — Frequently Asked Questions", url: "https://www.bia.gov/frequently-asked-questions"}
+      - {titre: "Department of the Interior — Land Buy-Back Program for Tribal Nations", url: "https://www.doi.gov/buybackprogram"}
+      - {titre: "Department of the Interior — Fractionation", url: "https://www.doi.gov/buybackprogram/fractionation"}
+
+  - id: "terres-indigenes-bresil"
+    atlas_uid: "terres-indigenes-bresil"
+    communaute: "Peuples autochtones du Brésil"
+    etats: ["Brésil"]
+    entite: "Terres autochtones (terras indígenas)"
+    mecanisme: "propriete_etat_usufruit"
+    annee: 1988
+    concept_local: "terra indígena ; posse permanente ; usufruto exclusivo"
+    resume: >-
+      Les terres autochtones (terras indígenas) appartiennent à l'Union (art. 20 XI). La Constitution de 1988 reconnaît aux peuples autochtones des droits « originaires » sur les terres qu'ils occupent traditionnellement, leur possession permanente et l'usufruit exclusif des richesses du sol, des rivières et des lacs (art. 231 § 2). Ces terres sont inaliénables et indisponibles, et les droits sur elles imprescriptibles (§ 4) ; tout acte d'occupation ou de propriété par un tiers est nul (§ 6). Le « Statut de l'Indien » de 1973 interdit leur location ou tout acte qui restreint la possession directe de la communauté (art. 18).
+    gouvernance: "L'Union démarque les terres ; l'usage interne relève de l'organisation sociale de chaque peuple ; l'exploitation minière et hydraulique exige une autorisation du Congrès, les communautés étant entendues (art. 231 § 3)."
+    effectivite: "Le Tribunal fédéral suprême a jugé inconstitutionnelle en 2023, puis de nouveau en décembre 2025, la date-butoir d'occupation au 5 octobre 1988 ; la loi 14.701 de 2023 reste en vigueur pour d'autres points et le Sénat a adopté en décembre 2025 une proposition d'amendement qui inscrirait cette date dans la Constitution."
+    textes:
+      - {titre: "Constitution de la République fédérative du Brésil (1988), art. 20 XI et 231", nature: "constitution", annee: 1988, source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+      - {titre: "Loi 6.001 du 19 décembre 1973 (Statut de l'Indien), art. 18 et 22", nature: "loi", annee: 1973, source: "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm"}
+    sources:
+      - {titre: "Constitution fédérale — Planalto", url: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+      - {titre: "Loi 6.001 de 1973 — Planalto", url: "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm"}
+      - {titre: "CIMI — Le STF réaffirme l'inconstitutionnalité du marco temporal (décembre 2025)", url: "https://cimi.org.br/2025/12/stf-reafirma-inconstitucionalidade-do-marco-temporal-mas-lei-14-701-impoe-contradicoes/"}
+
+  - id: "resguardos-colombie"
+    atlas_uid: "resguardos-colombie"
+    communaute: "Peuples autochtones titulaires de resguardos"
+    etats: ["Colombie"]
+    entite: "Resguardos autochtones"
+    mecanisme: "propriete_collective"
+    annee: 1991
+    concept_local: "resguardo"
+    resume: >-
+      L'article 63 de la Constitution de 1991 range les terres communales des groupes ethniques et les terres de resguardo parmi les biens inaliénables, imprescriptibles et insaisissables. Le resguardo est une propriété collective titrée au nom d'une ou plusieurs communautés. Les conseils qui gouvernent les territoires autochtones, formés selon les usages de chaque communauté, veillent à l'application des règles sur l'usage du sol et le peuplement (art. 330).
+    gouvernance: "Les conseils formés selon les usages de chaque communauté veillent aux règles d'usage du sol (art. 330) ; la répartition entre familles relève des règles internes, non vérifiées ici."
+    effectivite: "Les titres couvrent environ 30 % du territoire continental ; les huit premières entités territoriales autochtones prévues en 1991 n'ont été formalisées qu'en décembre 2025."
+    textes:
+      - {titre: "Constitution politique de la Colombie (1991), art. 63", nature: "constitution", annee: 1991, source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr001.html"}
+      - {titre: "Constitution politique de la Colombie (1991), art. 330", nature: "constitution", annee: 1991, source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr011.html"}
+    sources:
+      - {titre: "Secretaría del Senado — Constitution, titre II", url: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr001.html"}
+      - {titre: "Secretaría del Senado — Constitution, titre XI", url: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr011.html"}
+      - {titre: "Geoactivismo — Territorios indígenas en Colombia 2025", url: "https://geoactivismo.org/territorios-indigenas-en-colombia-2025/"}
+
+  - id: "territoires-autochtones-costa-rica"
+    atlas_uid: "territoires-autochtones-costa-rica"
+    communaute: "Communautés autochtones du Costa Rica"
+    etats: ["Costa Rica"]
+    entite: "Réserves (territoires) autochtones"
+    mecanisme: "propriete_collective"
+    annee: 1977
+    concept_local: ""
+    resume: >-
+      La loi de 1977 dite Ley Indígena déclare les réserves propriété des communautés qui les habitent (art. 2). Elles sont « inaliénables et imprescriptibles, non transférables et exclusives » (art. 3). Toute vente ou négociation de terres ou d'améliorations entre autochtones et non-autochtones est « absolument nulle ». Les occupants non autochtones de bonne foi doivent être relogés ailleurs ou expropriés et indemnisés par l'État (art. 5).
+    gouvernance: "La loi reconnaît les communautés comme titulaires ; la répartition de l'usage entre familles n'est pas fixée par la loi."
+    effectivite: "Les territoires ont été titrés sans démarcation ; l'État n'a pas financé le rachat des terres occupées par des non-autochtones ; Sergio Rojas (2019) et Jerhy Rivera (2020) ont été tués après des actions de récupération de terres (IWGIA, 2021)."
+    textes:
+      - {titre: "Loi n° 6172 du 29 novembre 1977 (Ley Indígena), art. 2, 3 et 5", nature: "loi", annee: 1977, source: "https://conagebio.go.cr/sites/default/files/2023-08/LEY-INDIGENA-6172.pdf"}
+    sources:
+      - {titre: "Ley Indígena 6172 — CONAGEBIO", url: "https://conagebio.go.cr/sites/default/files/2023-08/LEY-INDIGENA-6172.pdf"}
+      - {titre: "IWGIA — El Mundo Indígena 2021 : Costa Rica", url: "https://iwgia.org/es/costa-rica/4130-mi-2021-costa-rica.html"}
+
+  - id: "villages-amerindiens-guyana"
+    atlas_uid: "villages-amerindiens-guyana"
+    communaute: "Villages amérindiens titrés"
+    etats: ["Guyana"]
+    entite: "Terres de village"
+    mecanisme: "propriete_collective"
+    annee: 2006
+    concept_local: ""
+    resume: >-
+      La loi amérindienne de 2006 confie au conseil de village les droits et titres sur les terres « pour le bénéfice et l'usage du village » (art. 13). Le conseil ne peut céder aucun droit hors des cas prévus par la loi (art. 44). Un résident qui veut utiliser une partie des terres en fait la demande écrite au conseil, qui répond dans les trente jours en respectant les usages traditionnels (art. 45). Les baux sont limités à 10 % des terres du village et à cinquante ans, sans sous-location ni renouvellement (art. 46).
+    gouvernance: "Le conseil de village attribue l'usage aux résidents et consent les baux ; l'entrée et la recherche sur les terres exigent sa permission."
+    effectivite: "Selon le ministère, un programme de démarcation n'a couvert que 39 des 74 communautés alors titrées ; plus de 25 communautés demandaient un titre ; des intrusions de mineurs, d'exploitants forestiers et de colons sont signalées (page non datée)."
+    textes:
+      - {titre: "Amerindian Act 2006 (loi n° 6 de 2006), art. 13, 44, 45 et 46", nature: "loi", annee: 2006, source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+    sources:
+      - {titre: "Amerindian Act 2006 — Parlement du Guyana", url: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+      - {titre: "Ministry of Amerindian Affairs — Land Tenure", url: "https://moaa.gov.gy/land-tenure/"}
+
+  - id: "comunidades-nativas-perou"
+    atlas_uid: "comunidades-nativas-perou"
+    communaute: "Communautés natives d'Amazonie"
+    etats: ["Pérou"]
+    entite: "Terres communales titrées"
+    mecanisme: "propriete_collective"
+    annee: 1993
+    concept_local: "comunidad nativa"
+    resume: >-
+      La Constitution de 1993 reconnaît les communautés paysannes et natives comme personnes juridiques (art. 89). La propriété de leurs terres est imprescriptible, sauf en cas d'abandon, les terres abandonnées passant alors à l'État. Le même article déclare les communautés autonomes dans « l'usage et la libre disposition de leurs terres » : il ne les déclare pas inaliénables. La terre reste collective, mais la communauté peut en disposer.
+    gouvernance: "Les communautés sont autonomes dans leur organisation, le travail communal et l'usage de leurs terres, dans le cadre fixé par la loi (art. 89)."
+    effectivite: "En 2017, 22,8 % des communautés natives reconnues n'ont pas de titre de propriété ; la proportion dépasse 30 % chez les Shawi, les Kukama Kukamiria et les Kichwa (INEI)."
+    textes:
+      - {titre: "Constitution politique du Pérou (1993), art. 88 et 89", nature: "constitution", annee: 1993, source: "https://www.constituteproject.org/constitution/Peru_2021?lang=es"}
+      - {titre: "Décret-loi 22175 (1978), loi des communautés natives", nature: "loi", annee: 1978, source: "https://www.leyes.congreso.gob.pe/Documentos/Leyes/22175.pdf"}
+    sources:
+      - {titre: "Constitute Project — Constitution du Pérou", url: "https://www.constituteproject.org/constitution/Peru_2021?lang=es"}
+      - {titre: "INEI — III Censo de Comunidades Nativas 2017, tome 1", url: "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1598/TOMO_01.pdf"}
+
+  - id: "ejidos-comunidades-mexique"
+    atlas_uid: ""
+    communaute: "Ejidos et communautés agraires"
+    etats: ["Mexique"]
+    entite: "Propriété sociale : terres d'ejido et terres communales"
+    mecanisme: "propriete_collective"
+    annee: 1992
+    concept_local: "ejido ; tierras de uso común ; dominio pleno"
+    resume: >-
+      Les ejidos sont propriétaires des terres dotées par l'État (loi agraire de 1992, art. 9). Les terres d'usage commun sont inaliénables, imprescriptibles et insaisissables (art. 74), comme les terres des communautés agraires, sauf apport à une société (art. 99). La réforme de 1992 permet toutefois de vendre une parcelle à un autre ejidatario ou à un habitant du lieu (art. 80). L'assemblée peut aussi autoriser un ejidatario à prendre le « domaine plein » de sa parcelle : inscrite au registre public, celle-ci quitte le régime de l'ejido et entre dans le droit commun (art. 81 à 83).
+    gouvernance: "L'assemblée de l'ejido ou de la communauté délimite les terres et décide de leur usage (art. 56 et 100) ; le Registre agraire national enregistre les droits."
+    effectivite: "Selon le CCMSS (2023), 3,4 % de la propriété sociale enregistrée en 1991 était devenue propriété privée en 2021 ; les ejidos ont perdu 1,21 million d'hectares de parcelles entre 2010 et 2021, avec des conversions concentrées dans le nord (Basse-Californie, Sonora, Chihuahua)."
+    textes:
+      - {titre: "Loi agraire du 26 février 1992 (dernière réforme du 14 novembre 2025), art. 9, 56, 74, 80 à 83, 99 et 100", nature: "loi", annee: 1992, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+    sources:
+      - {titre: "Chambre des députés — Ley Agraria", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+      - {titre: "CCMSS — Privatización, acaparamiento y mercantilización de la propiedad social (octobre 2023)", url: "https://ccmss.org.mx/wp-content/uploads/2023_02_GradosPrivatizacion.pdf"}
+
+  - id: "soulaliyates-maroc"
+    atlas_uid: "collectivites-soulaliyates-maroc"
+    communaute: "Collectivités soulaliyates (collectivités ethniques)"
+    etats: ["Maroc"]
+    entite: "Terres collectives (environ 15,6 millions d'hectares)"
+    mecanisme: "propriete_collective"
+    annee: 2019
+    concept_local: "naïb"
+    resume: >-
+      La loi 62-17 de 2019 place les biens des collectivités soulaliyates sous la tutelle administrative de l'État. Ces biens ne peuvent être acquis par possession ou prescription ni saisis (art. 15). Les membres n'ont qu'un droit d'exploitation personnelle et directe (art. 6). La loi autorise la location par appel d'offres ou de gré à gré et la cession à l'État, aux établissements publics ou à des opérateurs privés, avec l'accord du conseil de tutelle (art. 19 et 20). Elle permet aussi d'attribuer aux membres, en propriété divise ou indivise, les terres agricoles situées hors des zones irriguées (art. 17).
+    gouvernance: "Chaque collectivité est représentée par des délégués (naïbs) ; un conseil de tutelle central et des conseils provinciaux, relevant de l'administration, approuvent les opérations."
+    effectivite: "En janvier 2024, 17 des 7 731 naïbs sont des femmes ; 5,1 millions d'hectares sont immatriculés, contre 555 000 en 2014 ; environ un million d'hectares sont mobilisés pour l'investissement agricole."
+    textes:
+      - {titre: "Loi n° 62-17 relative à la tutelle administrative sur les collectivités soulaliyates et la gestion de leurs biens (dahir n° 1-19-115 du 9 août 2019), art. 6, 15, 17, 19, 20, 32 et 33", nature: "loi", annee: 2019, source: "https://adala.justice.gov.ma/api/uploads/2024/07/22/Dahir%20n%C2%B0%201%E2%80%9119%E2%80%91115%20portant%20promulgation%20de%20la%20loi%20n%C2%B0%2062%E2%80%9117%20relative%20%C3%A0%20la%20...-1721659890185.pdf"}
+    sources:
+      - {titre: "Adala (ministère de la Justice) — Loi n° 62-17", url: "https://adala.justice.gov.ma/api/uploads/2024/07/22/Dahir%20n%C2%B0%201%E2%80%9119%E2%80%91115%20portant%20promulgation%20de%20la%20loi%20n%C2%B0%2062%E2%80%9117%20relative%20%C3%A0%20la%20...-1721659890185.pdf"}
+      - {titre: "Médias24 — Terres soulaliyates : 76 % des communautés recensées (30 janvier 2024)", url: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}
+
+  - id: "titres-communaux-cambodge"
+    atlas_uid: "communautes-autochtones-cambodge"
+    communaute: "Communautés autochtones des hautes terres"
+    etats: ["Cambodge"]
+    entite: "Titres fonciers collectifs"
+    mecanisme: "propriete_collective"
+    annee: 2001
+    concept_local: ""
+    resume: >-
+      La loi foncière de 2001 permet à l'État d'accorder aux communautés autochtones la propriété collective de leurs terres, avec les protections de la propriété privée (art. 26). Aucune autorité extérieure à la communauté ne peut acquérir de droits sur ces biens (art. 28). La communauté ne peut céder ce qui relève du domaine public de l'État. Un sous-décret fixe la procédure d'enregistrement.
+    gouvernance: "La communauté titulaire gère ses terres ; les règles internes ne sont pas fixées par la loi foncière."
+    effectivite: "En juillet 2024, 43 communautés sur 458 avaient reçu un titre collectif, couvrant 41 538 hectares ; le CERD relève en 2019 un consentement préalable insuffisant et des attaques contre des autochtones qui font valoir leurs droits fonciers."
+    textes:
+      - {titre: "Loi foncière de 2001, art. 23 à 28", nature: "loi", annee: 2001, source: "https://faolex.fao.org/docs/pdf/cam27478.pdf"}
+    sources:
+      - {titre: "FAOLEX — Loi foncière du Cambodge", url: "https://faolex.fao.org/docs/pdf/cam27478.pdf"}
+      - {titre: "CERD — Observations finales sur le Cambodge (CERD/C/KHM/CO/14-17)", url: "https://docs.un.org/fr/CERD/C/KHM/CO/14-17"}
+
+  - id: "peuples-peu-nombreux-russie"
+    atlas_uid: "peuples-autochtones-nord-russie"
+    communaute: "Peuples autochtones peu nombreux du Nord, de la Sibérie et de l'Extrême-Orient"
+    etats: ["Russie"]
+    entite: "Terres des lieux d'habitat traditionnel"
+    mecanisme: "droit_usage"
+    annee: 1999
+    concept_local: "obchtchina (communauté clanique)"
+    resume: >-
+      La loi fédérale 82-FZ de 1999 donne à ces peuples et à leurs communautés l'usage gratuit des terres nécessaires aux activités traditionnelles dans leurs lieux d'habitat (art. 8). Une loi de 2001 prévoit des territoires d'usage traditionnel de la nature. Aucun texte ne leur confère la propriété collective du sol, qui reste à l'État. Les communautés claniques (obchtchinas) sont la forme d'organisation prévue par une loi de 2000.
+    gouvernance: "Les obchtchinas et les organisations autochtones demandent les attributions d'usage ; les autorités fédérales et régionales les accordent."
+    effectivite: "Le CERD relève en 2023 qu'aucun territoire d'usage traditionnel de statut fédéral n'a été créé depuis 2001 ; IWGIA signale l'inscription en 2024 d'organisations autochtones sur la liste des organisations « extrémistes »."
+    textes:
+      - {titre: "Loi fédérale n° 82-FZ du 30 avril 1999 sur les garanties des droits des peuples autochtones peu nombreux, art. 8", nature: "loi", annee: 1999, source: "https://legalacts.ru/doc/federalnyi-zakon-ot-30041999-n-82-fz-o/"}
+    sources:
+      - {titre: "Legalacts — Loi fédérale 82-FZ", url: "https://legalacts.ru/doc/federalnyi-zakon-ot-30041999-n-82-fz-o/"}
+      - {titre: "CERD — Observations finales sur la Fédération de Russie (CERD/C/RUS/CO/25-26, 2023)", url: "https://docs.un.org/fr/CERD/C/RUS/CO/25-26"}
+      - {titre: "Rapporteur spécial — Situation des peuples autochtones en Russie (A/HRC/15/37/Add.5)", url: "https://docs.un.org/fr/A/HRC/15/37/Add.5"}
+
+  - id: "zduc-guyane"
+    atlas_uid: "zduc-guyane"
+    communaute: "Communautés amérindiennes et bushinengé de Guyane"
+    etats: ["France (Guyane)"]
+    entite: "Zones de droits d'usage collectifs (ZDUC), concessions et cessions sur le domaine de l'État"
+    mecanisme: "droit_usage"
+    annee: 1987
+    concept_local: ""
+    resume: >-
+      Un décret de 1987, repris en 2005 dans le code forestier, permet de reconnaître aux communautés qui vivent de la forêt des droits d'usage collectifs sur des terres de l'État. Ces zones ne transfèrent pas la propriété : la terre reste domaniale. Le même texte prévoit des concessions et des cessions de terres aux communautés. Les droits d'usage portent sur les ressources de subsistance.
+    gouvernance: "L'État délimite les zones par arrêté ; la gestion interne repose sur la coutume ; le Grand conseil coutumier est consulté depuis 2017."
+    effectivite: "Les attributions ont été gelées entre 1996 et 2011 ; en 2014, deux demandes attendaient d'être traitées ; le Sénat relève en 2020 qu'une lecture restrictive de la « subsistance » empêche toute exploitation économique, même limitée."
+    textes:
+      - {titre: "Décret n° 87-267 du 14 avril 1987", nature: "decret", annee: 1987, source: "https://gred.ird.fr/content/download/211426/3279907/version/1/file/2014_rapport_ZDUC_final.pdf"}
+      - {titre: "Code forestier, art. L. 272-4 à L. 272-6", nature: "loi", annee: 2005, source: "https://www.senat.fr/rap/r19-337/r19-33719.html"}
+    sources:
+      - {titre: "IRD — Rapport sur les ZDUC (2014)", url: "https://gred.ird.fr/content/download/211426/3279907/version/1/file/2014_rapport_ZDUC_final.pdf"}
+      - {titre: "Sénat — Rapport d'information n° 337 (2019-2020)", url: "https://www.senat.fr/rap/r19-337/r19-33719.html"}
+
+  - id: "droits-forestiers-inde"
+    atlas_uid: "droits-forestiers-communautaires-inde"
+    communaute: "Peuples classés « Scheduled Tribes » et autres habitants traditionnels des forêts"
+    etats: ["Inde"]
+    entite: "Terres forestières et ressources forestières communautaires"
+    mecanisme: "droit_usage"
+    annee: 2006
+    concept_local: "gram sabha"
+    resume: >-
+      La loi de 2006 sur les droits forestiers reconnaît des droits d'occupation, d'usage et de gestion sur des terres forestières qui restent publiques. Ces droits sont héréditaires mais ne peuvent être ni vendus ni cédés (art. 4 (4)) ; ils sont inscrits au nom des deux époux. Aucune expulsion n'est possible avant la fin de la procédure de reconnaissance (art. 4 (5)). L'assemblée de village (gram sabha) lance la procédure et reçoit les demandes (art. 6 (1)).
+    gouvernance: "La gram sabha reçoit et regroupe les demandes ; des comités de sous-district et de district décident, avec recours possible de l'un à l'autre."
+    effectivite: "Environ 1,87 million de demandes ont été rejetées au niveau national, presque autant que de titres accordés ; les titres communautaires restent peu nombreux par rapport aux titres individuels (Down To Earth)."
+    textes:
+      - {titre: "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, art. 3, 4 et 6", nature: "loi", annee: 2006, source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+    sources:
+      - {titre: "PRS India — Forest Rights Act 2006", url: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+      - {titre: "Down To Earth — Forest Rights Act: a tale of bureaucratic intent and ground-level betrayal", url: "https://www.downtoearth.org.in/governance/forest-rights-act-a-tale-of-bureaucratic-intent-and-ground-level-betrayal"}
+
+  - id: "nagaland-371a"
+    atlas_uid: "naga-nagaland"
+    communaute: "Villages et peuples naga"
+    etats: ["Inde"]
+    entite: "Terres du Nagaland"
+    mecanisme: "attribution_coutumiere"
+    annee: 1962
+    concept_local: ""
+    resume: >-
+      L'article 371A de la Constitution indienne, inséré en 1962, prévoit qu'aucune loi du Parlement sur la propriété et la cession des terres et de leurs ressources ne s'applique au Nagaland sans une résolution de l'Assemblée de l'État. Les terres restent régies par les pratiques coutumières des villages et des clans. La loi de 1978 sur les conseils de village interdit toute cession d'immeuble sans l'accord du conseil de village, qui en tient un registre écrit (art. 15).
+    gouvernance: "Le conseil de village autorise les transferts ; l'Assemblée de l'État décide si une loi fédérale foncière s'applique."
+    effectivite: "L'Assemblée a invoqué l'article 371A le 14 septembre 2023 pour écarter l'amendement fédéral à la loi sur la conservation des forêts."
+    textes:
+      - {titre: "Constitution de l'Inde, art. 371A (13e amendement, 1962)", nature: "constitution", annee: 1962, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+      - {titre: "Nagaland Village and Area Councils Act, 1978, art. 15", nature: "loi", annee: 1978, source: "https://www.indiacode.nic.in/bitstream/123456789/11037/1/the_nagaland_village_area_and_area_councils_act_1979.pdf"}
+    sources:
+      - {titre: "Constitution de l'Inde (version de 2024)", url: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+      - {titre: "Nagaland Village and Area Councils Act — India Code", url: "https://www.indiacode.nic.in/bitstream/123456789/11037/1/the_nagaland_village_area_and_area_councils_act_1979.pdf"}
+      - {titre: "Gouvernement du Nagaland — Résolution de l'Assemblée sur la loi de 2023", url: "https://ipr.nagaland.gov.in/nla-passes-resolution-forest-conservation-amendment-act-2023"}
+
+  - id: "finnmark-sami"
+    atlas_uid: "sami-norvege"
+    communaute: "Sames et habitants du Finnmark"
+    etats: ["Norvège"]
+    entite: "Domaine du Finnmark (anciennes terres de l'État dans le comté)"
+    mecanisme: "fiducie"
+    annee: 2005
+    concept_local: "Finnmárkkuopmodat"
+    resume: >-
+      La loi sur le Finnmark de 2005 a transféré les terres de l'État dans le comté à une entité indépendante, le domaine du Finnmark (Finnmarkseiendommen). Le Sámediggi (parlement same) et le conseil du comté en désignent chacun trois administrateurs. Tout changement d'usage des terres non cultivées doit être évalué au regard de la culture same et de l'élevage de rennes ; une minorité d'administrateurs peut renvoyer la décision au Sámediggi. Les habitants disposent de droits d'usage (pêche, bois de chauffage, tourbe, chasse, baies) fondés sur la résidence, non sur l'appartenance ethnique (art. 22 et 23).
+    gouvernance: "Conseil d'administration paritaire ; une commission du Finnmark identifie les droits de propriété et d'usage acquis par un long usage, et un tribunal des terres non cultivées tranche les contestations."
+    effectivite: "Le Rapporteur spécial relève en 2016 qu'aucun mécanisme comparable n'existe hors du Finnmark ; en 2021, la Cour suprême a annulé les licences des parcs éoliens de Fosen pour atteinte aux droits culturels des éleveurs de rennes."
+    textes:
+      - {titre: "Loi n° 85 du 17 juin 2005 sur le Finnmark, art. 6, 7, 10, 22, 23 et 29", nature: "loi", annee: 2005, source: "https://app.uio.no/ub/ujur/oversatte-lover/data/lov-20050617-085-eng.pdf"}
+    sources:
+      - {titre: "Université d'Oslo — traduction anglaise de la loi sur le Finnmark", url: "https://app.uio.no/ub/ujur/oversatte-lover/data/lov-20050617-085-eng.pdf"}
+      - {titre: "Rapporteur spécial — Situation des Sames (A/HRC/33/42/Add.3, 2016)", url: "https://documents.un.org/doc/undoc/gen/g16/175/50/pdf/g1617550.pdf"}
+      - {titre: "Cour suprême de Norvège, HR-2021-1975-S (Fosen)", url: "https://www.domstol.no/en/supremecourt/rulings/2021/supreme-court-civil-cases/hr-2021-1975-s/"}
+
+  - id: "montes-vecinales-galice"
+    atlas_uid: "galiciens-galice"
+    communaute: "Communautés de voisins (comuneiros) de Galice"
+    etats: ["Espagne"]
+    entite: "Montes vecinales en mano común"
+    mecanisme: "main_commune"
+    annee: 2003
+    concept_local: "monte vecinal en mano común"
+    resume: >-
+      Les montes vecinales en mano común sont des terres de bois, de landes et de pâturages qui appartiennent en commun, sans parts, aux voisins qui forment à chaque moment le groupe d'habitants. La loi forestière espagnole de 2003 les classe comme propriétés privées de nature particulière, soumises à l'indivisibilité, l'inaliénabilité, l'imprescriptibilité et l'insaisissabilité (art. 11). Les titulaires sont les voisins qui composent le groupe « à chaque moment » : le droit suit l'appartenance au groupe d'habitants, non un titre individuel. Le Statut d'autonomie donne à la Galice une compétence exclusive sur leur régime (art. 27).
+    gouvernance: "La communauté des voisins gère le monte selon une législation spéciale, qui prévaut sur la loi forestière générale (art. 2) ; la Galice fixe cette législation."
+    effectivite: "Inconnue : aucun registre ni étude chiffrée récente n'a pu être ouvert."
+    textes:
+      - {titre: "Loi 43/2003 du 21 novembre sur les forêts (Ley de Montes), art. 2 et 11", nature: "loi", annee: 2003, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21339"}
+      - {titre: "Statut d'autonomie de la Galice (loi organique 1/1981), art. 27, n° 10 et 11", nature: "loi_organique", annee: 1981, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+    sources:
+      - {titre: "BOE — Ley 43/2003 de Montes, texte consolidé", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21339"}
+      - {titre: "BOE — Statut d'autonomie de la Galice", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+
+  - id: "regole-ampezzo"
+    atlas_uid: ""
+    communaute: "Regolieri d'Ampezzo et domaines collectifs italiens"
+    etats: ["Italie"]
+    entite: "Bois et pâturages des Regole d'Ampezzo (Cortina) ; domaines collectifs"
+    mecanisme: "main_commune"
+    annee: 2017
+    concept_local: "regola ; laudo"
+    resume: >-
+      Les Regole d'Ampezzo sont des propriétés collectives de bois et de pâturages, attestées par des recueils écrits de règles coutumières (laudi) dès le XIVe siècle. Les terres sont transmises au sein des familles d'origine et doivent rester indivises ; selon les Regole, elles « ne peuvent être vendues ni changer de destination ». La loi italienne 168 de 2017 reconnaît les domaines collectifs comme « ordre juridique primaire des communautés d'origine », capables de fixer leurs propres règles. Elle leur applique un régime d'inaliénabilité, d'indivisibilité, d'impossibilité d'acquisition par prescription et de destination agro-sylvo-pastorale perpétuelle (art. 3).
+    gouvernance: "Chaque Regola administre son patrimoine selon ses laudi et ses règlements ; la loi de 2017 reconnaît cette capacité à se donner des règles."
+    effectivite: "Le parc naturel des Dolomites d'Ampezzo a été créé en 1990 sur les terres des Regole ; des lois régionales de Vénétie encadrent l'usage touristique temporaire des terres collectives (1975) et réorganisent les Regole (1996)."
+    textes:
+      - {titre: "Loi n° 168 du 20 novembre 2017, normes en matière de domaines collectifs, art. 1 à 3", nature: "loi", annee: 2017, source: "https://www.consiglioregionale.calabria.it/upload/istruttoria/legge%20168%20del%202017.pdf"}
+    sources:
+      - {titre: "Regole d'Ampezzo — site officiel", url: "https://www.regole.it/"}
+      - {titre: "Regole d'Ampezzo — Origini di un'antica istituzione", url: "https://www.regole.it/IT/pagina108-origini-di-un-antica-istituzione"}
+      - {titre: "Regole d'Ampezzo — Le date della storia regoliera", url: "https://www.regole.it/IT/pagina109-le-date-della-storia-regoliera"}
+      - {titre: "Conseil régional de Calabre — texte de la loi 168/2017", url: "https://www.consiglioregionale.calabria.it/upload/istruttoria/legge%20168%20del%202017.pdf"}
+
+  - id: "ecosse-crofting-rachat"
+    atlas_uid: "ecossais-ecosse"
+    communaute: "Communautés locales et communautés de crofters d'Écosse"
+    etats: ["Royaume-Uni"]
+    entite: "Terres acquises par les communautés ; terres de croft et pâturages communs"
+    mecanisme: "cession_restreinte"
+    annee: 2003
+    concept_local: "croft ; common grazings"
+    resume: >-
+      Le mouvement écossais part de l'autre sens : la terre est sur le marché et la loi donne aux communautés un moyen de la racheter. La loi de 2003 sur la réforme foncière donne aux communautés locales un droit d'achat prioritaire quand une terre est mise en vente (partie 2). Elle donne aux communautés de crofters (petits exploitants à bail protégé) un droit d'achat sans mise en vente préalable, sur les crofts, les pâturages communs et certains droits de pêche et minéraux (partie 3, art. 68). À l'inverse, la loi de 1993 permet à un crofter d'acheter individuellement sa terre, au besoin par ordonnance de la Land Court (art. 12).
+    gouvernance: "Un organisme représentant la communauté acquiert et gère la terre ; la Land Court tranche les litiges sur les crofts."
+    effectivite: "En 2023, 840 biens appartiennent à 533 groupes communautaires, soit 208 597 hectares ou 2,7 % du territoire écossais ; 74 % de cette surface se trouve dans les Hébrides extérieures (Na h-Eileanan Siar)."
+    textes:
+      - {titre: "Land Reform (Scotland) Act 2003, parties 2 et 3", nature: "loi", annee: 2003, source: "https://www.legislation.gov.uk/asp/2003/2/contents"}
+      - {titre: "Crofters (Scotland) Act 1993, art. 12", nature: "loi", annee: 1993, source: "https://www.legislation.gov.uk/ukpga/1993/44/section/12"}
+    sources:
+      - {titre: "legislation.gov.uk — Land Reform (Scotland) Act 2003, section 68", url: "https://www.legislation.gov.uk/asp/2003/2/section/68"}
+      - {titre: "Gouvernement écossais — Community ownership in Scotland 2023", url: "https://www.gov.scot/publications/community-ownership-in-scotland-2023/"}
+
+  - id: "sections-de-commune-france"
+    atlas_uid: ""
+    communaute: "Membres des sections de commune"
+    etats: ["France"]
+    entite: "Biens sectionaux"
+    mecanisme: "main_commune"
+    annee: 2011
+    concept_local: "biens sectionaux"
+    resume: >-
+      Contrepoint européen sans peuple autochtone. Une section de commune est une personne publique, distincte de la commune, qui possède des biens et des droits sur une partie du territoire communal. Ses membres n'en sont pas propriétaires : ils ont la jouissance de certains biens dont ils perçoivent les fruits en nature, selon les décisions de l'autorité municipale ou les usages locaux. Le code général des collectivités territoriales permet de transférer les biens de la section à la commune dans trois cas : impôts non payés pendant plusieurs années, absence de commission syndicale, faible participation aux élections de la section.
+    gouvernance: "La commission syndicale élue par les membres, ou à défaut le conseil municipal, gère les biens sectionaux."
+    effectivite: "Le Conseil constitutionnel a jugé ce transfert à la commune conforme à la Constitution en 2011 ; aucun chiffre sur le nombre de sections existantes n'a pu être ouvert."
+    textes:
+      - {titre: "Code général des collectivités territoriales, art. L. 2411-12-1", nature: "loi", annee: 2011, source: "https://www.conseil-constitutionnel.fr/decision/2011/2011118QPC.htm"}
+    sources:
+      - {titre: "Conseil constitutionnel, décision n° 2011-118 QPC du 8 avril 2011 (section de commune d'Antoingt)", url: "https://www.conseil-constitutionnel.fr/decision/2011/2011118QPC.htm"}
+
+synthese: >-
+  Tous les régimes réunis ici séparent l'usage de la terre de sa propriété marchande. Dans la plupart des cas, l'interdiction de vendre, de saisir et de perdre la terre par prescription est inscrite dans la Constitution ou dans une loi à valeur renforcée (Nouvelle-Calédonie, Brésil, Colombie, Fidji, Alberta). La personne qui vit sur la terre y accède par son appartenance au groupe : clan, famille, village, établissement, résidence dans le lieu. L'attribution revient à une autorité du groupe (chefferie, conseil de village, assemblée) ou à un organisme gestionnaire. Les cas européens reposent sur la même idée d'une terre rattachée aux habitants d'un lieu plutôt qu'à des individus.
+
+
+  Les écarts portent sur trois points. Le premier est le titulaire du sol : le groupe lui-même, l'État (Brésil, zones de droits d'usage de Guyane, Russie, forêts indiennes) ou un organisme intermédiaire (Fidji, Territoire du Nord, Finnmark, fiducie fédérale aux États-Unis). Le deuxième est la place du bail : presque tous les régimes l'autorisent, avec des plafonds de surface ou de durée (Guyana) ou sous le contrôle d'un organisme ; le Brésil l'interdit. Le troisième est la réversibilité : au Mexique depuis 1992 et au Maroc depuis 2019, la loi organise la sortie de parcelles vers la propriété individuelle. En Nouvelle-Zélande, la vente reste possible, mais d'abord au profit du groupe. L'Écosse suit le chemin inverse et fait racheter par des communautés des terres restées sur le marché.
+
+limites:
+  - "Les règles coutumières internes (répartition entre familles, héritage, place des femmes) ne sont documentées que lorsqu'une source publique les décrit ; elles sont absentes pour la plupart des cas."
+  - "Le décret colombien 2164 de 1995, la loi galicienne sur les montes vecinales, la loi italienne sur les Regole d'Ampezzo et la loi française de 2013 sur les sections de commune n'ont pas pu être ouverts ; les cas s'appuient sur les textes cités."
+  - "Aucune donnée chiffrée n'a été trouvée sur la surface des terres coutumières kanak, des montes vecinales de Galice ni sur le nombre de sections de commune en France."
+  - "Cas écartés : Zanzibar et Éthiopie (toute la terre du pays appartient à l'État ou aux peuples, sans régime propre à une communauté), terres APY (régime proche du Territoire du Nord, déjà couvert), Sikkim (restriction de vente entre individus, sans terre collective), Sabah (aucune source sur l'application des titres communaux)."
+  - "La date du rapport du gouvernement australien sur Fidji (2022 selon le document ouvert) diffère de celle indiquée dans la fiche de l'atlas."
+
+candidats_atlas:
+  - "Ejidos et communautés agraires du Mexique : propriété sociale sur environ la moitié du territoire, gouvernée par des assemblées reconnues par la loi agraire."
+  - "Regole d'Ampezzo : propriété collective reconnue comme « ordre juridique primaire » par la loi italienne 168/2017, avec règles propres (laudi)."
+  - "Communautés paysannes du Pérou : mêmes garanties que les communautés natives (art. 89), propriétaires collectives de terres andines."
+  - "Propriétaires communautaires des Hébrides extérieures (Écosse) : 74 % des terres en propriété communautaire du pays, gérées par des fiducies locales."

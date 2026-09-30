@@ -1,0 +1,55 @@
+uid: "nunavik-inuit"
+nom: "Inuit du Nunavik"
+endonyme: "Nunavimmiut"
+territoire: "Nunavik (Québec, au nord du 55e parallèle)"
+etats: ["Canada"]
+region: "ameriques"
+coord: [58.5, -72.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 14050, annee: 2021, perimetre: "résidents des 14 villages nordiques, terres inuites et territoires non organisés de Kativik, toutes origines (recensement du Canada)", source: "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/data/STC_CP,DF_CSD/A5.2021A00052499075+2021A00052499080+2021A00052499085+2021A00052499090+2021A00052499095+2021A00052499100+2021A00052499105+2021A00052499110+2021A00052499115+2021A00052499120+2021A00052499125+2021A00052499130+2021A00052499135+2021A00052499140+2021A00052499877+2021A00052499878+2021A00052499879+2021A00052499883+2021A00052499885+2021A00052499887+2021A00052499888+2021A00052499889+2021A00052499890+2021A00052499891+2021A00052499892+2021A00052499893+2021A00052499894+2021A00052499902+2021A00052499904.1.1+7.1?format=csv"}
+lieux: {valeur: 14, unite: "villages nordiques", annee: 2021, source: "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/data/STC_CP,DF_CSD/A5.2021A00052499075+2021A00052499080+2021A00052499085+2021A00052499090+2021A00052499095+2021A00052499100+2021A00052499105+2021A00052499110+2021A00052499115+2021A00052499120+2021A00052499125+2021A00052499130+2021A00052499135+2021A00052499140+2021A00052499877+2021A00052499878+2021A00052499879+2021A00052499883+2021A00052499885+2021A00052499887+2021A00052499888+2021A00052499889+2021A00052499890+2021A00052499891+2021A00052499892+2021A00052499893+2021A00052499894+2021A00052499902+2021A00052499904.1.1+7.1?format=csv"}
+surface_km2: {valeur: 417522.58, annee: 2021, perimetre: "superficie terrestre des subdivisions de recensement de la région Kativik", source: "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/data/STC_CP,DF_CSD/A5.2021A00052499075+2021A00052499080+2021A00052499085+2021A00052499090+2021A00052499095+2021A00052499100+2021A00052499105+2021A00052499110+2021A00052499115+2021A00052499120+2021A00052499125+2021A00052499130+2021A00052499135+2021A00052499140+2021A00052499877+2021A00052499878+2021A00052499879+2021A00052499883+2021A00052499885+2021A00052499887+2021A00052499888+2021A00052499889+2021A00052499890+2021A00052499891+2021A00052499892+2021A00052499893+2021A00052499894+2021A00052499902+2021A00052499904.1.1+7.1?format=csv"}
+resume: >-
+  Les Inuit du Nunavik vivent dans le nord du Québec. La Convention de la Baie-James et du Nord québécois de 1975, approuvée par une loi fédérale (S.C. 1976-77, ch. 32), a conduit à créer l'Administration régionale Kativik, institution publique régionale, et un régime de terres réservées aux Inuit. La société Makivvik représente les Inuit bénéficiaires. Un accord de 2006 sur les revendications territoriales vise la région marine du Nunavik. Un projet de gouvernement régional a été rejeté par référendum en avril 2011.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Canada, qui avait voté contre la Déclaration en 2007, l'a ensuite appuyée ; la loi fédérale de 2021 (L.C. 2021, ch. 14) en fait une source d'interprétation du droit canadien.", annee: 2021, source: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport sur la mission au Canada (A/HRC/27/52/Add.2), § 41 : négociation par Makivik d'un gouvernement public régional pour le Nunavik, accord rejeté par les électeurs en avril 2011.", annee: 2014, source: "https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/SR/A.HRC.27.52.Add.2-MissionCanada_AUV.pdf"}
+base_nationale:
+  - {instrument: "Loi sur le règlement des revendications des autochtones de la Baie James et du Nord québécois (S.C. 1976-77, ch. 32), qui approuve la Convention de 1975", nature: "loi", annee: 1977, source: "https://laws-lois.justice.gc.ca/fra/lois/J-0.3/page-1.html"}
+  - {instrument: "Loi sur les villages nordiques et l'Administration régionale Kativik (RLRQ, c. V-6.1)", nature: "loi", annee: 1978, source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/V-6.1"}
+  - {instrument: "Loi sur le régime des terres dans les territoires de la Baie-James et du Nouveau-Québec (RLRQ, c. R-13.1)", nature: "loi", annee: 1978, source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/R-13.1"}
+  - {instrument: "Loi concernant l'accord sur les revendications territoriales des Inuits du Nunavik (L.C. 2008, ch. 2)", nature: "accord_revendication", annee: 2008, source: "https://laws-lois.justice.gc.ca/fra/lois/N-28.5/page-1.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'Administration régionale Kativik est une personne morale de droit public formée des habitants du territoire et des villages nordiques, loi V-6.1, art. 239 (1978) ; institution publique ouverte à tous les résidents, non propre aux Inuit.", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/V-6.1"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les ordres de l'Administration régionale obligent toutes les personnes soumises à sa compétence sur le territoire, loi V-6.1, art. 243 ; compétence de type municipal et régional.", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/V-6.1"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Des corporations foncières inuit, dont les bénéficiaires inuit de chaque communauté sont membres de plein droit, détiennent à titre de propriétaire les terres de la catégorie I et ne peuvent les céder ou les vendre qu'au gouvernement, loi R-13.1, art. 5 à 7 (1978).", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/R-13.1"}
+  ressources: {valeur: "partiel", note: "L'accord de 2006 sur la région marine, qui a valeur de traité au sens de l'article 35 de la Loi constitutionnelle de 1982, crée un conseil de gestion des ressources fauniques, une commission d'aménagement et une commission d'examen des répercussions pour la région marine du Nunavik, L.C. 2008, ch. 2, art. 3 et 7.", source: "https://laws-lois.justice.gc.ca/fra/lois/N-28.5/page-1.html"}
+  consentement: {valeur: "partiel", note: "La Commission de la qualité de l'environnement Kativik, dont quatre membres sur neuf sont nommés par l'Administration régionale Kativik, examine les projets, Loi sur la qualité de l'environnement, art. 181 et 182 (1978) ; mécanisme de participation, sans droit de refus.", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/Q-2"}
+  langue: {valeur: "partiel", note: "Dans les écoles de la commission scolaire Kativik, l'inuktitut est langue d'enseignement avec les autres langues en usage, Charte de la langue française, art. 87 et 88 ; ce n'est pas une langue officielle du Québec.", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-11"}
+  education: {valeur: "reconnu", note: "Commission scolaire Kativik régie par la Loi sur l'instruction publique pour les autochtones cris, inuit et naskapis (RLRQ, c. I-14), à laquelle renvoie l'art. 88 de la Charte de la langue française.", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-11"}
+  fiscalite: {valeur: "partiel", note: "Les villages nordiques perçoivent des taxes encadrées par règlement (taxe de locataire, taux d'intérêt des taxes), règlements V-6.1, r. 1 et r. 2 ; pouvoir municipal, non propre aux Inuit.", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/V-6.1"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Statut de bénéficiaire inuit défini par la Loi sur les autochtones cris, inuit et naskapis (RLRQ, c. A-33.1), auquel renvoie la loi R-13.1, art. 1 d).", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/R-13.1"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Rapporteur spécial relève en 2014 que l'accord de gouvernement régional négocié par Makivik, Québec et le Canada a été rejeté par les électeurs du Nunavik en avril 2011 et que ce volet reste en suspens (A/HRC/27/52/Add.2, § 41).", source: "https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/SR/A.HRC.27.52.Add.2-MissionCanada_AUV.pdf"}
+chronologie:
+  - {annee: 1975, evenement: "Signature de la Convention de la Baie-James et du Nord québécois."}
+  - {annee: 1978, evenement: "Lois québécoises créant l'Administration régionale Kativik et le régime des terres."}
+  - {annee: 2006, evenement: "Signature le 1er décembre de l'accord sur les revendications territoriales des Inuits du Nunavik (région marine), approuvé par vote en octobre."}
+  - {annee: 2011, evenement: "Rejet par référendum du projet de gouvernement régional du Nunavik."}
+fiabilite:
+  verifie: ["Loi V-6.1, art. 239, 242 à 244 (LégisQuébec).", "Loi R-13.1, art. 1, 5 à 7 (LégisQuébec).", "Loi sur la qualité de l'environnement, art. 181 et 182.", "Charte de la langue française, art. 87 et 88.", "Préambule et art. 3 et 7 de la L.C. 2008, ch. 2.", "§ 41 du rapport du Rapporteur spécial (2014)."]
+  non_confirme: ["Superficie des terres inuit de catégorie I et régime du sous-sol : non vérifiés sur le texte de la Convention.", "Population du Nunavik : aucun chiffre officiel consulté.", "Contenu détaillé de l'accord de 2006 (superficie des îles attribuées) : la page fédérale n'a pas répondu."]
+sources:
+  - {titre: "Loi sur le règlement des revendications des autochtones de la Baie James et du Nord québécois — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/J-0.3/page-1.html"}
+  - {titre: "Loi sur les villages nordiques et l'Administration régionale Kativik — LégisQuébec", url: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/V-6.1"}
+  - {titre: "Loi sur le régime des terres dans les territoires de la Baie-James et du Nouveau-Québec — LégisQuébec", url: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/R-13.1"}
+  - {titre: "Loi sur la qualité de l'environnement — LégisQuébec", url: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/Q-2"}
+  - {titre: "Charte de la langue française — LégisQuébec", url: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-11"}
+  - {titre: "Loi concernant l'accord sur les revendications territoriales des Inuits du Nunavik (L.C. 2008, ch. 2) — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/N-28.5/page-1.html"}
+  - {titre: "Rapport du Rapporteur spécial, mission au Canada, A/HRC/27/52/Add.2 (2014) — HCDH", url: "https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/SR/A.HRC.27.52.Add.2-MissionCanada_AUV.pdf"}
+  - {titre: "Déclaration des Nations Unies sur les droits des peuples autochtones — ONU DESA", url: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+  - {titre: "The Indigenous World 2025: Inuit Nunangat — IWGIA", url: "https://iwgia.org/en/canada/5646-iw-2025-inuit-nunangat.html"}

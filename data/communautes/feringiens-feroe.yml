@@ -1,0 +1,54 @@
+uid: "feringiens-feroe"
+nom: "Féringiens"
+endonyme: "Føroyingar"
+territoire: "Îles Féroé (Føroyar)"
+etats: ["Danemark"]
+region: "europe"
+coord: [62.0, -6.9]
+type: "collectivite_insulaire_ou_regionale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 54738, annee: 2023, perimetre: "population du territoire", source: "https://hagstova.fo/en/news/population-surpasses-54700-0"}
+lieux: {valeur: 29, unite: "communes", annee: 2023, source: "https://hagstova.fo/en/news/population-surpasses-54700-0"}
+surface_km2: {valeur: 1396, annee: 2026, perimetre: "superficie totale de l'archipel (Agence faroïenne de l'environnement)", source: "https://hagstova.fo/en/environment/geography/islands-mountains-islets-og-lakes"}
+resume: >-
+  Les îles Féroé forment une communauté autonome au sein du Royaume de Danemark depuis la Loi sur l'autonomie interne de 1948. La Loi de 2005 sur la reprise des compétences permet aux autorités féroïennes d'assumer tous les domaines sauf la Constitution, la nationalité, la Cour suprême, la politique étrangère et de défense, et la politique monétaire. Le Parlement (Løgting) et le Gouvernement (Landsstýri) exercent le pouvoir législatif et exécutif dans les domaines repris. Le féroïen est reconnu comme langue principale.
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité des droits de l'homme sur le Danemark (CCPR/C/DNK/CO/6), § 9, 10, 13 à 16 : le Comité traite les îles Féroé comme une juridiction distincte et relève l'absence d'institution nationale des droits de l'homme sur leur territoire.", annee: 2016, source: "https://documents.un.org/doc/undoc/gen/g16/180/52/pdf/g1618052.pdf"}
+  - {mecanisme: "organe_traite", detail: "Sixième rapport périodique du Danemark au Comité des droits de l'homme (CCPR/C/DNK/6), § 3 et 33 : rapport séparé des autorités féroïennes, présentées comme communauté autonome dotée de pouvoirs législatifs et administratifs transférés.", annee: 2015, source: "https://documents.un.org/doc/undoc/gen/g15/256/83/pdf/g1525683.pdf"}
+base_nationale:
+  - {instrument: "Constitution du Danemark (1953), art. 28", nature: "constitution", annee: 1953, source: "https://www.constituteproject.org/constitution/Denmark_1953"}
+  - {instrument: "Loi n° 137 du 23 mars 1948 sur l'autonomie interne des îles Féroé", nature: "statut_autonomie", annee: 1948, source: "https://english.stm.dk/media/3njnddrp/fo-hjemmestyrelov-uk.pdf"}
+  - {instrument: "Loi n° 578 du 24 juin 2005 sur la reprise des compétences par les autorités féroïennes", nature: "statut_autonomie", annee: 2005, source: "https://english.stm.dk/media/rdghfilq/fo-otl-uk.pdf"}
+  - {instrument: "Loi n° 579 du 24 juin 2005 sur la conclusion d'accords internationaux par le gouvernement des Féroé", nature: "loi", annee: 2005, source: "https://english.stm.dk/the-prime-ministers-office/the-unity-of-the-realm/faroe-islands/"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le peuple féroïen administre les affaires féroïennes par le Løgting élu et le Landsstýri, Loi de 1948, art. 1.", source: "https://english.stm.dk/media/3njnddrp/fo-hjemmestyrelov-uk.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Les autorités féroïennes ont le pouvoir législatif dans les domaines repris ; les lois du Løgting sont appelées Løgtingslógir, Loi de 1948, art. 4, et Loi de 2005, art. 3.", source: "https://english.stm.dk/media/rdghfilq/fo-otl-uk.pdf"}
+  justice_propre: {valeur: "partiel", note: "Les tribunaux créés par les autorités féroïennes exerceraient le pouvoir judiciaire, Loi de 2005, art. 4 ; l'administration de la justice figure à la liste I et n'a pas été reprise selon le Cabinet du Premier ministre danois.", source: "https://english.stm.dk/the-prime-ministers-office/the-unity-of-the-realm/faroe-islands/"}
+  terres: {valeur: "partiel", note: "Régime foncier rural, parcellement, cadastre et expropriation relèvent des affaires féroïennes, Loi de 1948, liste A, n° 13 et 16 ; le Fonds foncier figure à la liste B.", source: "https://english.stm.dk/media/3njnddrp/fo-hjemmestyrelov-uk.pdf"}
+  ressources: {valeur: "reconnu", note: "La pêche et la chasse territoriales relèvent des affaires féroïennes, Loi de 1948, liste A, n° 13 ; la Loi de 2005, art. 1, ouvre tous les autres domaines, dont les gisements du sous-sol (liste B de 1948).", source: "https://english.stm.dk/media/3njnddrp/fo-hjemmestyrelov-uk.pdf"}
+  consentement: {valeur: "reconnu", note: "Les projets de loi danois concernant exclusivement les Féroé et les traités touchant leurs intérêts sont soumis au gouvernement féroïen avant dépôt, Loi de 1948, art. 7.", source: "https://english.stm.dk/media/3njnddrp/fo-hjemmestyrelov-uk.pdf"}
+  langue: {valeur: "reconnu", note: "Le féroïen est reconnu comme langue principale ; le danois peut aussi être employé dans les affaires publiques, Loi de 1948, art. 11.", source: "https://english.stm.dk/media/3njnddrp/fo-hjemmestyrelov-uk.pdf"}
+  education: {valeur: "reconnu", note: "Les écoles, de l'enseignement élémentaire à la formation professionnelle, relèvent des affaires féroïennes, Loi de 1948, liste A, n° 9.", source: "https://english.stm.dk/media/3njnddrp/fo-hjemmestyrelov-uk.pdf"}
+  fiscalite: {valeur: "reconnu", note: "Les impôts directs et indirects et la gestion des recettes et dépenses propres relèvent des affaires féroïennes, Loi de 1948, liste A, n° 6 et 7.", source: "https://english.stm.dk/media/3njnddrp/fo-hjemmestyrelov-uk.pdf"}
+  representation: {valeur: "reconnu", note: "Deux députés du Folketing sont élus aux îles Féroé, Constitution de 1953, art. 28.", source: "https://www.constituteproject.org/constitution/Denmark_1953"}
+  statut_personnel: {valeur: "reconnu", note: "La mention « Føroyingur » figure sur le passeport délivré aux Féroé ; le droit de vote aux institutions féroïennes peut être réservé aux Féroïens, Loi de 1948, art. 10.", source: "https://english.stm.dk/media/3njnddrp/fo-hjemmestyrelov-uk.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Løgting exerce le pouvoir législatif dans les domaines repris depuis 1948 et 2005 ; Bárður Larsen (Université des Féroé, 2026) relève que de nombreuses lois féroïennes reprennent des textes danois.", source: "https://realaw.blog/2026/07/03/the-challenge-of-a-contextualized-approach-to-administrative-law-and-institution-making-in-a-small-polity-the-case-of-the-faroe-islands-by-bardur-larsen/"}
+chronologie:
+  - {annee: 1948, evenement: "Loi sur l'autonomie interne des îles Féroé, en vigueur le 1er avril."}
+  - {annee: 2005, evenement: "Loi sur la reprise des compétences, loi sur les accords internationaux et déclaration de Fámjin sur la politique étrangère."}
+fiabilite:
+  verifie: ["Loi de 1948, art. 1, 4, 7, 10, 11, 14 et listes A et B (traduction du Cabinet du Premier ministre danois et du gouvernement féroïen).", "Loi de 2005 sur la reprise des compétences, art. 1 à 4 et liste I.", "Constitution du Danemark, art. 28.", "Mentions des îles Féroé dans CCPR/C/DNK/CO/6 et CCPR/C/DNK/6."]
+  non_confirme: ["Critère d'entrée : aucun mécanisme onusien ne qualifie les Féroïens de peuple autochtone ou de minorité ; la reconnaissance retenue repose sur le suivi distinct des Féroé par un organe de traité.", "Date de reprise des gisements du sous-sol par les autorités féroïennes non vérifiée sur un texte.", "Aucun texte en vigueur prévoyant un référendum d'indépendance n'a été trouvé."]
+sources:
+  - {titre: "Home Rule Act of the Faroe Islands (1948), traduction — Cabinet du Premier ministre danois", url: "https://english.stm.dk/media/3njnddrp/fo-hjemmestyrelov-uk.pdf"}
+  - {titre: "The Home Rule Act — Gouvernement des îles Féroé", url: "https://www.government.fo/en/the-government/the-home-rule-act"}
+  - {titre: "Act no. 578 of 24 June 2005 (Takeover Act), traduction — Cabinet du Premier ministre danois", url: "https://english.stm.dk/media/rdghfilq/fo-otl-uk.pdf"}
+  - {titre: "Faroe Islands — Statsministeriet", url: "https://english.stm.dk/the-prime-ministers-office/the-unity-of-the-realm/faroe-islands/"}
+  - {titre: "Constitution du Danemark — Constitute Project", url: "https://www.constituteproject.org/constitution/Denmark_1953"}
+  - {titre: "CCPR/C/DNK/CO/6 (2016) — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g16/180/52/pdf/g1618052.pdf"}
+  - {titre: "CCPR/C/DNK/6 (2015) — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g15/256/83/pdf/g1525683.pdf"}
+  - {titre: "Îles Féroé — L'aménagement linguistique dans le monde, Université Laval", url: "https://www.axl.cefan.ulaval.ca/EtatsNsouverains/feroe.htm"}
+  - {titre: "The case of the Faroe Islands (Bárður Larsen, 2026) — REALaw blog", url: "https://realaw.blog/2026/07/03/the-challenge-of-a-contextualized-approach-to-administrative-law-and-institution-making-in-a-small-polity-the-case-of-the-faroe-islands-by-bardur-larsen/"}
+  - {titre: "Population surpasses 54,700 — Hagstova Føroya", url: "https://hagstova.fo/en/news/population-surpasses-54700-0"}

@@ -1,0 +1,53 @@
+uid: "cote-caraibe-nicaragua"
+nom: "Peuples de la Côte caraïbe du Nicaragua"
+endonyme: ""
+territoire: "Région autonome de la Côte caraïbe nord (RACCN) et région autonome de la Côte caraïbe sud (RACCS)"
+etats: ["Nicaragua"]
+region: "ameriques"
+coord: [13.0, -84.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: ["communaute_afrodescendante"]
+population: {valeur: 997358, annee: 2023, perimetre: "population estimée des deux régions autonomes, toutes origines (RACCN 563 088 ; RACCS 434 270)", source: "https://www.inide.gob.ni/docs/Anuarios/Anuario2023/Anuario_Estadistico_2023.pdf"}
+lieux: {valeur: 20, unite: "communes (8 en RACCN, 12 en RACCS)", annee: 2023, source: "https://www.inide.gob.ni/docs/Anuarios/Anuario2023/Anuario_Estadistico_2023.pdf"}
+surface_km2: {valeur: 60366, annee: 2023, perimetre: "superficie des deux régions autonomes (RACCN 33 106 ; RACCS 27 260), données INETER", source: "https://www.inide.gob.ni/docs/Anuarios/Anuario2023/Anuario_Estadistico_2023.pdf"}
+resume: >-
+  Les deux régions autonomes de la côte caraïbe regroupent des peuples autochtones (Miskitu, Mayangna, Ulwa, Rama) et afrodescendants (Kriol, Garífuna). Le statut d'autonomie (loi 28 de 1987) y établit des conseils régionaux élus. La loi 445 de 2003 organise la démarcation et le titre collectif des terres communales. La Constitution de 2025 maintient le régime d'autonomie et l'usage officiel des langues de la côte.
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Le Nicaragua ratifie la Convention 169 de l'OIT le 25 août 2010 (en vigueur le 25 août 2011).", annee: 2010, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "Le Nicaragua vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Constitution politique du Nicaragua (texte publié à La Gaceta le 18 février 2025), art. 16, 18, 81, 82, 161 et 167", nature: "constitution", annee: 2025, source: "https://www.asamblea.gob.ni/assets/constitucion.pdf"}
+  - {instrument: "Loi 28, Statut d'autonomie des régions de la Côte caraïbe (texte consolidé 2016)", nature: "statut_autonomie", annee: 1987, source: "https://faolex.fao.org/docs/pdf/nic163854-2016.pdf"}
+  - {instrument: "Loi 445 sur le régime de propriété communale des peuples autochtones et communautés ethniques", nature: "loi", annee: 2003, source: "http://legislacion.asamblea.gob.ni/Normaweb.nsf/($All)/F59730333B3F6FA5062571B200559533"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La loi 28 (art. 19) institue dans chaque région un Conseil régional de 45 membres élus ; la loi 445 de 2003 (art. 4 et 5) reconnaît l'assemblée communale et les autorités communales et territoriales traditionnelles.", source: "https://faolex.fao.org/docs/pdf/nic163854-2016.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La loi 28 (art. 23) permet au Conseil régional de régler par résolutions et ordonnances les matières régionales de l'article 8, dans le cadre des politiques nationales.", source: "https://faolex.fao.org/docs/pdf/nic163854-2016.pdf"}
+  justice_propre: {valeur: "partiel", note: "La loi 28 (art. 18) prévoit une administration de la justice régie par des règles particulières aux cultures de la côte ; la loi 445 (art. 13) mentionne le juge communal (wihta).", source: "https://faolex.fao.org/docs/pdf/nic163854-2016.pdf"}
+  terres: {valeur: "reconnu", note: "La loi 445 de 2003 (art. 3) rend les terres communales inaliénables, insaisissables et imprescriptibles (elles ne se perdent pas avec le temps) ; la Constitution de 2025 (art. 81) reconnaît la propriété communale.", source: "http://legislacion.asamblea.gob.ni/Normaweb.nsf/($All)/F59730333B3F6FA5062571B200559533"}
+  ressources: {valeur: "partiel", note: "La Constitution de 2025 (art. 167) soumet les concessions sur les ressources naturelles à l'approbation du Conseil régional ; la loi 445 (art. 34) attribue 25 % des droits perçus à la communauté concernée.", source: "https://www.asamblea.gob.ni/assets/constitucion.pdf"}
+  consentement: {valeur: "partiel", note: "La loi 445 de 2003 (art. 16 et 17) impose la consultation préalable des communautés avant toute concession sur leur sous-sol ; la communauté répond positivement ou négativement.", source: "http://legislacion.asamblea.gob.ni/Normaweb.nsf/($All)/F59730333B3F6FA5062571B200559533"}
+  langue: {valeur: "reconnu", note: "La Constitution de 2025 (art. 18) fait du créole anglais, du miskitu, du mayangna, de l'ulwa, du garífuna et du rama des langues d'usage communautaire et officiel sur la côte caraïbe.", source: "https://www.asamblea.gob.ni/assets/constitucion.pdf"}
+  education: {valeur: "partiel", note: "La loi 28 (art. 11) garantit l'éducation en langue maternelle et en espagnol, dans le cadre du système éducatif national.", source: "https://faolex.fao.org/docs/pdf/nic163854-2016.pdf"}
+  fiscalite: {valeur: "partiel", note: "La loi 28 (art. 8 et 23) permet aux régions d'établir des impôts régionaux selon les lois nationales et d'élaborer un avant-projet de budget régional.", source: "https://faolex.fao.org/docs/pdf/nic163854-2016.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "En octobre 2023, le Conseil suprême électoral retire la personnalité juridique au parti autochtone YATAMA ; des colons ont pris environ 21 000 hectares aux Miskitu (Human Rights Watch). Le HCDH signale en 2024 des attaques continues de colons dans la RACCN.", source: "https://www.hrw.org/world-report/2024/country-chapters/nicaragua"}
+chronologie:
+  - {annee: 1987, evenement: "Adoption de la loi 28, Statut d'autonomie des régions de la côte atlantique."}
+  - {annee: 2003, evenement: "Adoption de la loi 445 sur la propriété communale."}
+  - {annee: 2010, evenement: "Ratification de la Convention 169 de l'OIT."}
+  - {annee: 2023, evenement: "Retrait de la personnalité juridique du parti YATAMA."}
+  - {annee: 2025, evenement: "Nouvelle Constitution ; le régime d'autonomie est maintenu à l'article 167."}
+fiabilite:
+  verifie: ["Articles 16, 18, 81, 82, 161 et 167 de la Constitution publiée le 18 février 2025.", "Articles 8, 11, 18, 19 et 23 de la loi 28 (texte consolidé 2016).", "Articles 3, 4, 5, 16, 17 et 34 de la loi 445."]
+  non_confirme: ["Population des deux régions autonomes.", "Nombre de territoires titrés au titre de la loi 445.", "Effet pratique de la réforme constitutionnelle de 2025 sur les conseils régionaux."]
+sources:
+  - {titre: "Constitution politique du Nicaragua (2025) — Assemblée nationale", url: "https://www.asamblea.gob.ni/assets/constitucion.pdf"}
+  - {titre: "Loi 28, texte consolidé — FAOLEX", url: "https://faolex.fao.org/docs/pdf/nic163854-2016.pdf"}
+  - {titre: "Loi 445 — Assemblée nationale du Nicaragua", url: "http://legislacion.asamblea.gob.ni/Normaweb.nsf/($All)/F59730333B3F6FA5062571B200559533"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}
+  - {titre: "Point de la Haute-Commissaire adjointe sur le Nicaragua (décembre 2024) — HCDH", url: "https://www.ohchr.org/en/statements-and-speeches/2024/12/deputy-high-commissioner-updates-human-rights-situation-nicaragua?sub-site=HRC"}
+  - {titre: "World Report 2024 : Nicaragua — Human Rights Watch", url: "https://www.hrw.org/world-report/2024/country-chapters/nicaragua"}

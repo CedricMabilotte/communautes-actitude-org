@@ -1,0 +1,60 @@
+uid: "endorois-kenya"
+nom: "Endorois"
+endonyme: "Endorois"
+territoire: "Région du lac Bogoria (comté de Baringo)"
+etats: ["Kenya"]
+region: "afrique"
+coord: [0.3, 36.1]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 60000, annee: 2009, perimetre: "effectif de la communauté selon les requérants devant la Commission africaine (« approximately 60,000 »)", source: "https://www.hlrn.org/img/documents/achpr4627603eng.pdf"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Endorois sont une communauté pastorale de la région du lac Bogoria, dans la vallée du Rift ; la requête déposée en leur nom les estime à environ 60 000 personnes.
+  La création de la réserve de chasse du lac Hannington en 1973, puis de celle du lac Bogoria en 1978, les a privés de l'accès à ces terres.
+  En 2009, la Commission africaine des droits de l'homme et des peuples a demandé au Kenya de reconnaître leur propriété et de leur restituer ces terres ; la décision n'est pas appliquée.
+  En droit kenyan, ils relèvent des dispositions générales de la Constitution de 2010 sur les terres communautaires et les communautés marginalisées.
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Le Rapporteur spécial Rodolfo Stavenhagen cite les Endorois parmi les communautés pastorales autochtones du Kenya et décrit la division de leur territoire entre unités administratives (A/HRC/4/32/Add.3).", annee: 2007, source: "https://docs.un.org/en/A/HRC/4/32/Add.3"}
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme relève l'expulsion des Endorois de leurs terres ancestrales et la non-exécution de la décision de la Commission africaine (CCPR/C/KEN/CO/3, par. 24).", annee: 2012, source: "https://docs.un.org/fr/CCPR/C/KEN/CO/3"}
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits économiques, sociaux et culturels consacre une section aux Endorois et recommande d'appliquer sans délai la décision 276/2003 (E/C.12/KEN/CO/2-5, par. 15-16).", annee: 2016, source: "https://docs.un.org/fr/E/C.12/KEN/CO/2-5"}
+  - {mecanisme: "organe_traite", detail: "Le CERD demande de reconnaître juridiquement les droits collectifs des Endorois sur leurs terres, ressources et territoires (CERD/C/KEN/CO/5-7, par. 20).", annee: 2017, source: "https://docs.un.org/fr/CERD/C/KEN/CO/5-7"}
+  - {mecanisme: "rapporteur_special", detail: "Le Rapporteur spécial Albert K. Barume note que la décision en faveur des Endorois n'est toujours pas appliquée (A/HRC/60/29, par. 39).", annee: 2025, source: "https://docs.un.org/en/A/HRC/60/29"}
+base_nationale:
+  - {instrument: "Constitution du Kenya, art. 56, 63 et 260", nature: "constitution", annee: 2010, source: "https://www.constituteproject.org/constitution/Kenya_2010?lang=en"}
+  - {instrument: "Community Land Act (loi sur les terres communautaires) n° 27 de 2016", nature: "loi", annee: 2016, source: "https://minorityrights.org/country/kenya/"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Art. 63 de la Constitution de 2010 : les terres communautaires appartiennent aux communautés identifiées par l'ethnie ou la culture, y compris les terres ancestrales et les pâturages ; les terres publiques en sont exclues. Les terres du lac Bogoria restent une réserve ; la restitution demandée en 2009 n'a pas eu lieu.", source: "https://www.constituteproject.org/constitution/Kenya_2010?lang=en"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Art. 56 de la Constitution de 2010 : programmes d'action positive pour la participation et la représentation des groupes marginalisés ; l'art. 260 inclut dans les « communautés marginalisées » les communautés pastorales. Aucun siège réservé.", source: "https://www.constituteproject.org/constitution/Kenya_2010?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Le CESCR relève en 2016 que le groupe de travail créé le 26 septembre 2014 pour appliquer la décision de la Commission africaine ne comprend pas d'Endorois ; le CERD signale en 2017 des attaques et expulsions ; le Rapporteur spécial note en 2025 que la décision n'est pas appliquée.", source: "https://docs.un.org/fr/E/C.12/KEN/CO/2-5"}
+chronologie:
+  - {annee: 1973, evenement: "Création de la réserve de chasse du lac Hannington sur les terres endorois."}
+  - {annee: 1978, evenement: "Nouveau classement en réserve de chasse du lac Bogoria."}
+  - {annee: 2009, evenement: "Décision de la Commission africaine des droits de l'homme et des peuples (communication 276/2003) : reconnaissance de la propriété, restitution, indemnisation, redevances."}
+  - {annee: 2010, evenement: "Nouvelle Constitution : terres communautaires (art. 63) et communautés marginalisées (art. 260)."}
+  - {annee: 2014, evenement: "Création le 26 septembre d'un groupe de travail sur l'application de la décision."}
+  - {annee: 2016, evenement: "Adoption de la loi sur les terres communautaires."}
+fiabilite:
+  verifie: ["Recommandations de la décision 276/2003 (texte de la Commission africaine).", "Paragraphes sur les Endorois : CCPR 2012, CESCR 2016, CERD 2017, Rapporteurs spéciaux 2007 et 2025.", "Texte des art. 56, 63 et 260 de la Constitution de 2010."]
+  non_confirme: ["Aucun instrument national ne nomme les Endorois : la fiche repose sur des droits constitutionnels attribués à des catégories (communautés, communautés marginalisées).", "Le Kenya s'est abstenu lors du vote de la DNUDPA en 2007 (A/61/PV.107).", "Texte de la loi sur les terres communautaires non consulté (sites officiels inaccessibles) ; existence attestée par Minority Rights Group.", "Population : environ 60 000 selon la requête déposée devant la Commission africaine, chiffre non daté."]
+sources:
+  - {titre: "Constitution du Kenya (2010) — Constitute Project", url: "https://www.constituteproject.org/constitution/Kenya_2010?lang=en"}
+  - {titre: "Commission africaine — Communication 276/03, Endorois c. Kenya", url: "https://www.hlrn.org/img/documents/achpr4627603eng.pdf"}
+  - {titre: "CESCR — Observations finales sur le Kenya, E/C.12/KEN/CO/2-5 (2016)", url: "https://docs.un.org/fr/E/C.12/KEN/CO/2-5"}
+  - {titre: "CERD — Observations finales sur le Kenya, CERD/C/KEN/CO/5-7 (2017)", url: "https://docs.un.org/fr/CERD/C/KEN/CO/5-7"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur le Kenya, CCPR/C/KEN/CO/3 (2012)", url: "https://docs.un.org/fr/CCPR/C/KEN/CO/3"}
+  - {titre: "Rapporteur spécial — Mission au Kenya, A/HRC/4/32/Add.3 (2007)", url: "https://docs.un.org/en/A/HRC/4/32/Add.3"}
+  - {titre: "Rapporteur spécial — Reconnaissance des peuples autochtones, A/HRC/60/29 (2025)", url: "https://docs.un.org/en/A/HRC/60/29"}
+  - {titre: "Minority Rights Group — Kenya", url: "https://minorityrights.org/country/kenya/"}

@@ -1,0 +1,47 @@
+uid: "tlicho"
+nom: "Tłı̨chǫ"
+endonyme: "Tłı̨chǫ"
+territoire: "Terres tłı̨chǫ et collectivités de Behchokǫ̀, Whatì, Gamètì et Wekweètì (Territoires du Nord-Ouest)"
+etats: ["Canada"]
+region: "ameriques"
+coord: [63.5, -116.5]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2650, annee: 2021, perimetre: "résidents des quatre collectivités tłı̨chǫ, toutes origines (recensement du Canada)", source: "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/data/STC_CP,DF_CSD/A5.2021A00056103031+2021A00056103034+2021A00056103049+2021A00056103052.1.1+7.1?format=csv"}
+lieux: {valeur: 4, unite: "collectivités", annee: 2005, source: "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/tlicho"}
+surface_km2: {valeur: 39000, annee: 2005, perimetre: "terres tłı̨chǫ en un seul bloc, sous-sol compris (valeur approchée)", source: "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/tlicho"}
+resume: >-
+  Les Tłı̨chǫ, auparavant désignés sous le nom de Dogrib (Flancs-de-chien), vivent dans les Territoires du Nord-Ouest. L'Accord sur les revendications territoriales et l'autonomie gouvernementale, signé le 25 août 2003 avec le Canada et les Territoires du Nord-Ouest, est entré en vigueur le 4 août 2005. Il institue le Gouvernement tłı̨chǫ, doté d'un pouvoir législatif, et attribue environ 39 000 km² de terres, sous-sol compris. Quatre gouvernements communautaires tłı̨chǫ ont remplacé les bandes et les municipalités.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Canada, qui avait voté contre la Déclaration en 2007, l'a ensuite appuyée ; la loi fédérale de 2021 (L.C. 2021, ch. 14) en fait une source d'interprétation du droit canadien.", annee: 2021, source: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+base_nationale:
+  - {instrument: "Accord sur les revendications territoriales et l'autonomie gouvernementale du peuple tłı̨chǫ (Tłı̨chǫ Agreement)", nature: "accord_revendication", annee: 2003, source: "https://www.eia.gov.nt.ca/sites/eia/files/tlicho_land_claims_and_self-government_agreement.pdf"}
+  - {instrument: "Loi sur les revendications territoriales et l'autonomie gouvernementale du peuple tlicho (L.C. 2005, ch. 1)", nature: "loi", annee: 2005, source: "https://laws-lois.justice.gc.ca/fra/lois/T-11.3/page-1.html"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le Gouvernement tłı̨chǫ légifère sur sa propre structure et sa gestion interne, Accord tłı̨chǫ, art. 7.4.1 a) (2003) ; il est l'autorité gouvernante sur les terres tłı̨chǫ selon le gouvernement des T.N.-O.", source: "https://www.eia.gov.nt.ca/sites/eia/files/tlicho_land_claims_and_self-government_agreement.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Pouvoir de légiférer sur les terres et leurs ressources (art. 7.4.2), la pêche (7.4.3), la langue, la culture, les services sociaux, l'éducation, l'adoption, les successions et le mariage (7.4.4), avec pouvoir de sanction (7.4.6).", source: "https://www.eia.gov.nt.ca/sites/eia/files/tlicho_land_claims_and_self-government_agreement.pdf"}
+  justice_propre: {valeur: "partiel", note: "Le Gouvernement tłı̨chǫ peut fournir aux citoyens des services de règlement des différends hors des tribunaux, art. 7.4.4 o), et légiférer sur l'application de ses lois (fouille, saisie, amendes), art. 7.4.6 ; aucun tribunal propre n'est prévu par ces articles.", source: "https://www.eia.gov.nt.ca/sites/eia/files/tlicho_land_claims_and_self-government_agreement.pdf"}
+  terres: {valeur: "reconnu", note: "Le Gouvernement tłı̨chǫ détient, au nom de la Première Nation, le titre sur environ 39 000 km², mines et minéraux compris, art. 18.1.1 ; ces terres ne peuvent être saisies ni hypothéquées, art. 18.1.12 et 18.1.13.", source: "https://www.eia.gov.nt.ca/sites/eia/files/tlicho_land_claims_and_self-government_agreement.pdf"}
+  ressources: {valeur: "reconnu", note: "Titre sur les mines et minéraux des terres tłı̨chǫ, art. 18.1.1 ; pouvoir de légiférer sur les ressources renouvelables et non renouvelables de ces terres, art. 7.4.2 ; part des redevances perçues dans la vallée du Mackenzie selon le gouvernement des T.N.-O.", source: "https://www.eia.gov.nt.ca/sites/eia/files/tlicho_land_claims_and_self-government_agreement.pdf"}
+  consentement: {valeur: "partiel", note: "L'Office des terres et des eaux du Wek'èezhìi et l'Office d'examen des répercussions environnementales de la vallée du Mackenzie examinent les projets et doivent tenir compte du savoir traditionnel, Accord tłı̨chǫ, chapitre 22, art. 22.1.7 ; mécanisme de participation, sans droit de refus.", source: "https://www.eia.gov.nt.ca/sites/eia/files/tlicho_land_claims_and_self-government_agreement.pdf"}
+  langue: {valeur: "reconnu", note: "Le tłı̨chǫ figure parmi les onze langues officielles des Territoires du Nord-Ouest ; le Gouvernement tłı̨chǫ légifère sur la protection et la promotion de la langue, Accord, art. 7.4.4 a) et b).", source: "https://www.axl.cefan.ulaval.ca/amnord/tno.htm"}
+  education: {valeur: "partiel", note: "Pouvoir de légiférer sur l'éducation, sauf postsecondaire, des citoyens tłı̨chǫ, y compris l'enseignement de la langue, mais sans la certification générale des enseignants, art. 7.4.4 j) et m).", source: "https://www.eia.gov.nt.ca/sites/eia/files/tlicho_land_claims_and_self-government_agreement.pdf"}
+  fiscalite: {valeur: "partiel", note: "Pouvoir de légiférer en matière d'impôts directs sur les citoyens tłı̨chǫ sur les terres tłı̨chǫ ou dans une collectivité tłı̨chǫ, art. 7.4.5.", source: "https://www.eia.gov.nt.ca/sites/eia/files/tlicho_land_claims_and_self-government_agreement.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Registre des citoyens tłı̨chǫ : est citoyen le bénéficiaire inscrit, défini par l'Accord ou admis selon la constitution tłı̨chǫ.", source: "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/tlicho"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Seules des sources gouvernementales ont été consultées : selon le gouvernement des T.N.-O., les quatre gouvernements communautaires ont été établis le 4 août 2005.", source: "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/tlicho"}
+chronologie:
+  - {annee: 2003, evenement: "Signature de l'Accord le 25 août par le Conseil du Traité 11 des Dogrib, le Canada et les T.N.-O."}
+  - {annee: 2005, evenement: "Loi fédérale sanctionnée le 15 février ; entrée en vigueur de l'Accord et création des gouvernements communautaires le 4 août."}
+fiabilite:
+  verifie: ["Accord tłı̨chǫ, art. 7.4.1 à 7.4.6, 18.1.1, 18.1.12, 18.1.13, 22.1.7 (PDF publié par le gouvernement des T.N.-O.).", "Dates de signature et d'entrée en vigueur, superficie (page du ministère exécutif des T.N.-O.).", "Loi fédérale L.C. 2005, ch. 1."]
+  non_confirme: ["Taux de partage des redevances : non vérifié sur le texte.", "Population tłı̨chǫ : aucun chiffre officiel consulté (site tlicho.ca inaccessible).", "Statut de langue officielle : vérifié par l'Université Laval et non sur le texte de la loi territoriale."]
+sources:
+  - {titre: "Tłı̨chǫ Land Claims and Self-Government Agreement (PDF) — Gouvernement des T.N.-O.", url: "https://www.eia.gov.nt.ca/sites/eia/files/tlicho_land_claims_and_self-government_agreement.pdf"}
+  - {titre: "Tłı̨chǫ Land Claims and Self-Government Agreement — Gouvernement des T.N.-O.", url: "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/tlicho"}
+  - {titre: "Loi sur les revendications territoriales et l'autonomie gouvernementale du peuple tlicho — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/T-11.3/page-1.html"}
+  - {titre: "Territoires du Nord-Ouest — L'aménagement linguistique dans le monde, Université Laval", url: "https://www.axl.cefan.ulaval.ca/amnord/tno.htm"}
+  - {titre: "Déclaration des Nations Unies sur les droits des peuples autochtones — ONU DESA", url: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+  - {titre: "Loi sur la Déclaration des Nations Unies sur les droits des peuples autochtones (L.C. 2021, ch. 14) — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/U-2.2/page-1.html"}

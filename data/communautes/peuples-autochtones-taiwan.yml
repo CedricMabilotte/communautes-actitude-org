@@ -1,0 +1,49 @@
+uid: "peuples-autochtones-taiwan"
+nom: "Peuples autochtones de Taïwan"
+endonyme: ""
+territoire: "Montagnes centrales, côte est et sud de Taïwan ; 55 districts autochtones"
+etats: ["Taïwan"]
+region: "asie"
+coord: [23.7, 121.0]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 611674, annee: 2024, perimetre: "membres des 16 peuples autochtones reconnus", source: "https://iwgia.org/en/taiwan/5676-iw-2025-taiwan.html"}
+lieux: {valeur: 55, unite: "districts et cantons autochtones (30 de montagne, 25 de plaine)", annee: 2017, source: "https://www.loc.gov/item/global-legal-monitor/2017-06-21/taiwan-new-indigenous-languages-act/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Taïwan reconnaît 16 peuples autochtones, dont les Amis, Atayal, Paiwan, Bunun et Truku. La loi fondamentale sur les peuples autochtones, promulguée le 5 février 2005 et modifiée en 2015, reconnaît leurs droits sur les terres et les ressources et impose leur consentement préalable pour les projets qui les concernent. Les articles additionnels à la Constitution réservent six sièges du Yuan législatif (parlement) aux autochtones. Taïwan n'étant pas membre de l'ONU, la reconnaissance est nationale.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Articles additionnels à la Constitution de la République de Chine, art. 4 et art. 10", nature: "constitution", annee: 2005, source: "https://www.constituteproject.org/constitution/Taiwan_2005"}
+  - {instrument: "Loi fondamentale sur les peuples autochtones (Indigenous Peoples Basic Law)", nature: "loi", annee: 2005, source: "https://www.apc.gov.tw/portal/docDetail.html?CID=74DD1F415708044A&DID=3E651750B4006467D4B40DD3AC1D7378"}
+  - {instrument: "Loi sur le développement des langues autochtones", nature: "loi", annee: 2017, source: "https://www.loc.gov/item/global-legal-monitor/2017-06-21/taiwan-new-indigenous-languages-act/"}
+droits:
+  autogouvernement: {valeur: "conteste", note: "La loi fondamentale de 2005 (art. 4) prévoit que l'État reconnaît et soutient le statut autonome des peuples autochtones ; la loi sur l'autonomie autochtone qui devait l'organiser n'a pas été adoptée.", source: "https://www.apc.gov.tw/portal/docDetail.html?CID=74DD1F415708044A&DID=3E651750B4006467D4B40DD3AC1D7378"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "Les procédures administratives et judiciaires doivent respecter les langues, coutumes et pratiques autochtones, loi fondamentale de 2005, art. 30 ; aucune juridiction autochtone propre.", source: "https://www.apc.gov.tw/portal/docDetail.html?CID=74DD1F415708044A&DID=3E651750B4006467D4B40DD3AC1D7378"}
+  terres: {valeur: "partiel", note: "L'État reconnaît les droits des peuples autochtones sur les terres et les ressources naturelles et crée une commission d'enquête et de gestion des terres autochtones, loi fondamentale de 2005, art. 20.", source: "https://www.apc.gov.tw/portal/docDetail.html?CID=74DD1F415708044A&DID=3E651750B4006467D4B40DD3AC1D7378"}
+  ressources: {valeur: "partiel", note: "Droit de chasser, de cueillir, d'extraire pierres et terre et d'utiliser l'eau à des fins non lucratives dans les régions autochtones, loi fondamentale de 2005, art. 19.", source: "https://www.apc.gov.tw/portal/docDetail.html?CID=74DD1F415708044A&DID=3E651750B4006467D4B40DD3AC1D7378"}
+  consentement: {valeur: "reconnu", note: "L'État et les personnes privées doivent consulter les peuples autochtones ou leurs communautés locales (buluo) et obtenir leur consentement libre, préalable et éclairé pour tout développement de terres ou de ressources dans leurs régions, loi fondamentale, art. 21 (modifié en 2015).", source: "https://www.cip.gov.tw/en/news/data-list/74DD1F415708044A/2D9680BFECBE80B64D07914C026D3D28-info.html"}
+  langue: {valeur: "partiel", note: "Les autochtones peuvent utiliser leur langue dans les démarches administratives et les procédures judiciaires, avec traduction assurée ; dans les 55 cantons autochtones, les documents officiels peuvent être rédigés en langue autochtone et en chinois, loi sur le développement des langues autochtones de 2017.", source: "https://www.loc.gov/item/global-legal-monitor/2017-06-21/taiwan-new-indigenous-languages-act/"}
+  education: {valeur: "partiel", note: "L'État protège le droit à l'éducation des peuples autochtones et adapte l'enseignement à leurs besoins, loi fondamentale de 2005, art. 7 ; loi sur l'éducation des peuples autochtones de 2004.", source: "https://www.apc.gov.tw/portal/docDetail.html?CID=74DD1F415708044A&DID=3E651750B4006467D4B40DD3AC1D7378"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Trois députés élus par les autochtones de plaine et trois par les autochtones de montagne au Yuan législatif, articles additionnels à la Constitution, art. 4.", source: "https://www.constituteproject.org/constitution/Taiwan_2005"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "IWGIA (2025) relève que onze peuples pingpu restent non reconnus, que la Cour constitutionnelle a exigé en octobre 2022 une loi sur leur statut avant octobre 2025 et que les droits fonciers subissent des atteintes liées aux projets commerciaux et miniers.", source: "https://iwgia.org/en/taiwan/5676-iw-2025-taiwan.html"}
+chronologie:
+  - {annee: 2005, evenement: "Promulgation de la loi fondamentale sur les peuples autochtones (5 février)."}
+  - {annee: 2015, evenement: "Modification de l'article 21 sur la consultation et le consentement."}
+  - {annee: 2017, evenement: "Loi sur le développement des langues autochtones (14 juin)."}
+  - {annee: 2022, evenement: "La Cour constitutionnelle exige une loi sur le statut des peuples pingpu."}
+fiabilite:
+  verifie: ["Articles 4, 7, 19, 20, 21, 23 et 30 de la loi fondamentale (traduction anglaise du Conseil des peuples autochtones).", "Articles additionnels à la Constitution, art. 4 et 10 (Constitute Project).", "Population de 611 674 personnes en 2024 (IWGIA 2025)."]
+  non_confirme: ["Date exacte de la dernière modification de la loi fondamentale : 2015 selon le Conseil des peuples autochtones, 10 décembre 2014 selon la page de la traduction.", "Statut des six districts autochtones de montagne dotés de conseils élus dans les municipalités spéciales : texte non consulté.", "Surface des terres réservées autochtones : pas de chiffre officiel consulté.", "Nombre de 55 districts autochtones : repris d'une note de la Bibliothèque du Congrès de 2017 (« environ 55 »)."]
+sources:
+  - {titre: "The Indigenous Peoples Basic Law — Council of Indigenous Peoples", url: "https://www.apc.gov.tw/portal/docDetail.html?CID=74DD1F415708044A&DID=3E651750B4006467D4B40DD3AC1D7378"}
+  - {titre: "Modifications de la loi fondamentale (art. 21, 24, 34) — Council of Indigenous Peoples", url: "https://www.cip.gov.tw/en/news/data-list/74DD1F415708044A/2D9680BFECBE80B64D07914C026D3D28-info.html"}
+  - {titre: "Constitution de Taïwan et articles additionnels — Constitute Project", url: "https://www.constituteproject.org/constitution/Taiwan_2005"}
+  - {titre: "Taiwan: New Indigenous Languages Act — Library of Congress (2017)", url: "https://www.loc.gov/item/global-legal-monitor/2017-06-21/taiwan-new-indigenous-languages-act/"}
+  - {titre: "IWGIA, The Indigenous World 2025: Taiwan", url: "https://iwgia.org/en/taiwan/5676-iw-2025-taiwan.html"}

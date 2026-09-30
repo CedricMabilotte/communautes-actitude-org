@@ -1,0 +1,51 @@
+uid: "bodo-bodoland"
+nom: "Bodo"
+endonyme: ""
+territoire: "Région territoriale du Bodoland (BTR), Assam"
+etats: ["Inde"]
+region: "asie"
+coord: [26.6, 91.0]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2920000, annee: 2001, perimetre: "population de la zone du Conseil territorial du Bodoland au recensement de 2001 (« 29,2 lakhs »), avant l'extension de 2020", source: "https://web.archive.org/web/20170212204056/http://bodoland.gov.in/btcataglance.html"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: 8795, annee: 2015, perimetre: "superficie provisoire des quatre districts du Conseil territorial du Bodoland, avant l'extension de 2020", source: "https://web.archive.org/web/20170212204056/http://bodoland.gov.in/btcataglance.html"}
+resume: >-
+  Les Bodo (« Boro, Borokachari » dans la liste officielle) figurent parmi les tribus répertoriées (Scheduled Tribes, catégorie constitutionnelle des peuples tribaux) des plaines de l'Assam. Le mémorandum d'accord du 10 février 2003 et l'amendement constitutionnel de la même année créent le Conseil territorial du Bodoland (BTC), conseil autonome relevant de la Sixième annexe de la Constitution. L'accord du 27 janvier 2020 prévoit l'extension de ses compétences et de son territoire, renommé Région territoriale du Bodoland, qui compte cinq districts. Le conseil est élu ; la dernière élection a eu lieu en septembre 2025.
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/IND/CO/19, § 10 : recommande de reconnaître les peuples tribaux et les « tribus énumérées » comme groupes ayant droit à une protection spéciale ; § 12 et 19 sur les États du nord-est", annee: 2007, source: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+base_nationale:
+  - {instrument: "Constitution de l'Inde, Sixième annexe, modifiée par la loi de 2003 (loi 44 de 2003) : paragraphes 2, 3 et 3B et Table, partie I", nature: "constitution", annee: 2003, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {instrument: "Mémorandum d'accord sur le Conseil territorial du Bodoland (gouvernement de l'Inde, gouvernement de l'Assam, Bodo Liberation Tigers)", nature: "accord_paix", annee: 2003, source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/in030210memorandumsettlementbodolandterritorialcouncil.pdf"}
+  - {instrument: "Troisième accord bodo (mémorandum d'accord du 27 janvier 2020)", nature: "accord_paix", annee: 2020, source: "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1913900"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Conseil de 46 membres dont 40 élus au suffrage universel, dont 30 sièges réservés aux tribus répertoriées, Sixième annexe, paragraphe 2, clause ajoutée en 2003.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le conseil légifère sur 40 domaines (agriculture, éducation, forêts non classées, terres et recettes foncières, etc.), Sixième annexe, paragraphes 3 et 3B (2003) ; ses lois requièrent l'assentiment du gouverneur, et celui du président pour les matières de la liste concurrente.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Compétence sur l'attribution et l'usage des terres hors forêts classées, Sixième annexe, paragraphe 3 (1) (a), et sur les terres et recettes foncières, paragraphe 3B (xv) ; ces lois ne peuvent ni modifier les droits fonciers existants ni empêcher un citoyen d'acquérir une terre, et l'État garde le pouvoir d'expropriation.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  ressources: {valeur: "partiel", note: "Compétence sur les forêts non classées, l'usage des canaux pour l'agriculture, la pêche et l'irrigation, Sixième annexe, paragraphes 3 (1) (b) et (c) et 3B (vi), (ix) et (xiii).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Le bodo est langue officielle du conseil aux côtés de l'assamais et de l'anglais, mémorandum d'accord de 2003 ; il figure à la Huitième annexe de la Constitution (langues reconnues) depuis le 92e amendement (2003).", source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/in030210memorandumsettlementbodolandterritorialcouncil.pdf"}
+  education: {valeur: "reconnu", note: "Compétence législative sur l'enseignement primaire, secondaire supérieur, professionnel, des adultes et collégial, Sixième annexe, paragraphe 3B (v) ; une direction des écoles de langue bodo a été créée après l'accord de 2020.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  fiscalite: {valeur: "partiel", note: "Fonds de district propre et pouvoir de percevoir l'impôt foncier et certaines taxes, Sixième annexe, paragraphes 7 et 8.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Compétence législative sur l'héritage, le mariage, le divorce et les coutumes sociales, Sixième annexe, paragraphe 3 (1) (h) à (j).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le conseil est élu (élection du 22 septembre 2025, 77,9 % de participation) ; en juin 2026, l'All Bodo Students Union, signataire de l'accord de 2020, relève que l'extension territoriale (634 villages en litige) et le 125e amendement constitutionnel portant le conseil à 60 sièges ne sont pas réalisés.", source: "https://www.sentinelassam.com/topheadlines/implement-bodo-accord-now-or-face-fresh-stir-absu-cautions-centre-assam-over-bodoland-aspirations"}
+chronologie:
+  - {annee: 1993, evenement: "Accord créant le Conseil autonome bodo (BAC), abrogé en 2003."}
+  - {annee: 2003, evenement: "Mémorandum d'accord du 10 février et amendement de la Sixième annexe créant le Conseil territorial du Bodoland ; le bodo entre à la Huitième annexe."}
+  - {annee: 2020, evenement: "Troisième accord bodo du 27 janvier : extension prévue des compétences et du territoire, qui devient la Région territoriale du Bodoland."}
+  - {annee: 2025, evenement: "Élection du conseil, remportée par le Bodoland People's Front (28 sièges sur 40)."}
+fiabilite:
+  verifie: ["Sixième annexe, paragraphes 2, 3, 3B, 4 (non applicable au conseil), 7, 8 et Table, partie I (édition officielle de la Constitution au 1er mai 2024).", "Huitième annexe : bodo inséré par le 92e amendement (2003).", "Contenu du mémorandum de 2003 (texte hébergé par UN Peacemaker).", "Bilan de mise en œuvre de l'accord de 2020 (communiqué PIB du 5 avril 2023).", "Résultats de l'élection de 2025 (All India Radio)."]
+  non_confirme: ["Inscription des Bodo sur la liste des tribus répertoriées : vérifiée par une réponse du gouvernement de l'Assam rapportée par la presse (2019), pas sur l'ordonnance de 1950.", "Statut du bodo comme langue officielle associée de l'Assam (loi de 2020) : non vérifié sur le texte.", "Population bodo et population de la région : pas de chiffre officiel consulté.", "Le mémorandum de 2003 est un accord politique ; son intégration juridique au-delà de la Sixième annexe n'a pas été vérifiée."]
+sources:
+  - {titre: "Constitution de l'Inde (édition au 1er mai 2024) — Ministère du Droit et de la Justice", url: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {titre: "Mémorandum d'accord sur le Conseil territorial du Bodoland (2003) — UN Peacemaker", url: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/in030210memorandumsettlementbodolandterritorialcouncil.pdf"}
+  - {titre: "Status of Implementation of Third Bodo Accord, 2020 — PIB (2023)", url: "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1913900"}
+  - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+  - {titre: "All India Radio, résultats de l'élection au BTC (27 septembre 2025)", url: "https://www.newsonair.gov.in/assam-bodoland-peoples-front-wins-bodoland-territorial-council-polls"}
+  - {titre: "The Sentinel, liste des tribus répertoriées de l'Assam (20 février 2019)", url: "https://www.sentinelassam.com/cities/guwahati-city/there-are-around-14-recognised-plain-tribe-communities-15-hills-tribe-communities-16-recognised-scheduled-caste-communities-in-assam-chandan-brahma"}
+  - {titre: "The Sentinel, déclaration de l'ABSU sur la mise en œuvre de l'accord de 2020 (juin 2026)", url: "https://www.sentinelassam.com/topheadlines/implement-bodo-accord-now-or-face-fresh-stir-absu-cautions-centre-assam-over-bodoland-aspirations"}

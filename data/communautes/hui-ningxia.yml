@@ -1,0 +1,50 @@
+uid: "hui-ningxia"
+nom: "Hui du Ningxia"
+endonyme: ""
+territoire: "Région autonome hui du Ningxia"
+etats: ["Chine"]
+region: "asie"
+coord: [37.3, 106.2]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2523581, annee: 2020, perimetre: "Hui résidant dans la région, septième recensement (35 % environ de 7 202 654 habitants)", source: "https://cn.chinadaily.com.cn/a/202105/25/WS60acee2fa3101e7ce97519b0.html"}
+lieux: {valeur: 5, unite: "villes de niveau préfecture", annee: 2020, source: "https://fdi.mofcom.gov.cn/resource/pdf/2020/10/21/2b91bdb7db4b48519eaff35bebfa8f82.pdf"}
+surface_km2: {valeur: 66400, annee: 2020, perimetre: "superficie de la région autonome", source: "https://fdi.mofcom.gov.cn/resource/pdf/2020/10/21/2b91bdb7db4b48519eaff35bebfa8f82.pdf"}
+resume: >-
+  Les Hui, musulmans de langue chinoise, sont l'une des nationalités minoritaires reconnues par la Chine. La Région autonome hui du Ningxia, créée en 1958, relève du système d'autonomie régionale des nationalités prévu par la Constitution (art. 4 et 112 à 122) et par la loi de 1984 modifiée en 2001. Le droit prévoit des organes d'autogouvernement et un pouvoir de réglementation soumis à l'approbation du Comité permanent de l'Assemblée populaire nationale. Le Ningxia a rédigé seize projets de règlement d'autonomie de 1980 à 2001 ; aucun n'a été soumis au pouvoir central.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité des droits économiques, sociaux et culturels, E/C.12/CHN/CO/3, § 91 : protection des pratiques et du patrimoine religieux des Hui", annee: 2023, source: "https://docs.un.org/fr/E/C.12/CHN/CO/3"}
+base_nationale:
+  - {instrument: "Constitution de la République populaire de Chine, art. 4 et 112 à 122", nature: "constitution", annee: 1982, source: "https://www.constituteproject.org/constitution/China_2018"}
+  - {instrument: "Loi sur l'autonomie régionale des nationalités (1984, modifiée en 2001)", nature: "loi", annee: 2001, source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Organes d'autogouvernement (assemblée populaire et gouvernement de la région) ; le président de la région est un citoyen de la nationalité qui exerce l'autonomie (hui), Constitution, art. 112 et 114 ; loi sur l'autonomie régionale, art. 16 et 17 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  pouvoir_normatif: {valeur: "conteste", note: "L'assemblée peut adopter des règlements d'autonomie soumis à l'approbation du Comité permanent de l'Assemblée populaire nationale, loi sur l'autonomie régionale, art. 19 ; le Ningxia a rédigé seize projets de 1980 à 2001, soumis au comité régional du Parti, sans adoption (Yang Feng, 2017).", source: "http://manoa.hawaii.edu/aplpj/wp-content/uploads/sites/120/2017/06/2017-0531-APLPJ-Volume-18.2-3-Feng-compressed.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les organes d'autogouvernement définissent, conformément à la loi, la propriété et le droit d'usage des pâturages et des forêts, loi sur l'autonomie régionale, art. 27 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  ressources: {valeur: "partiel", note: "Gestion et protection des ressources naturelles et priorité d'exploitation dans le cadre des plans de l'État, loi sur l'autonomie régionale, art. 28 ; compensation due par l'État pour les ressources transférées hors de la région, art. 65 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Les tribunaux et parquets des zones autonomes utilisent la langue d'usage courant dans la localité, loi sur l'autonomie régionale, art. 47 ; usage des langues locales par les organes d'autogouvernement, Constitution, art. 121.", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  education: {valeur: "partiel", note: "Les organes d'autogouvernement décident, selon les orientations de l'État, des programmes, des écoles et de la langue d'enseignement, loi sur l'autonomie régionale, art. 36 et 37 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  fiscalite: {valeur: "partiel", note: "Les finances de la zone autonome forment un niveau propre ; les recettes qui lui reviennent sont gérées par les organes d'autogouvernement, loi sur l'autonomie régionale, art. 32 (2001) ; Constitution, art. 117.", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Le Comité des droits économiques, sociaux et culturels (2023) recommande de protéger les pratiques et le patrimoine religieux des Hui, sans évaluer l'autonomie du Ningxia ; aucune autre évaluation n'a été consultée.", source: "https://docs.un.org/fr/E/C.12/CHN/CO/3"}
+chronologie:
+  - {annee: 1958, evenement: "Création de la Région autonome hui du Ningxia."}
+  - {annee: 1980, evenement: "Début de la rédaction d'un règlement d'autonomie."}
+  - {annee: 2001, evenement: "Révision de la loi sur l'autonomie régionale ; seizième projet de règlement d'autonomie."}
+  - {annee: 2023, evenement: "Observations du CDESC sur le patrimoine religieux des Hui."}
+fiabilite:
+  verifie: ["Articles 16, 17, 19, 27, 28, 32, 36, 37, 47 et 65 de la loi sur l'autonomie régionale, version de 2001 (Wikisource).", "E/C.12/CHN/CO/3, § 91.", "Projets de règlement d'autonomie du Ningxia (Yang Feng, 2017).", "Population au septième recensement (China Daily, 25 mai 2021) ; superficie et année de création (fiche du ministère du Commerce)."]
+  non_confirme: ["Aucun endonyme distinct attesté n'a été retenu.", "La fiche couvre la région ; les Hui des autres préfectures et districts autonomes (Gansu, Xinjiang, Qinghai) ne sont pas traités.", "Mesures de « sinisation » des mosquées au Ningxia signalées par la presse : non vérifiées sur une source onusienne."]
+sources:
+  - {titre: "Constitution de la République populaire de Chine — Constitute Project", url: "https://www.constituteproject.org/constitution/China_2018"}
+  - {titre: "Loi sur l'autonomie régionale des nationalités (2001) — Wikisource", url: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  - {titre: "Yang Feng, The Legislation in Autonomous Areas of China, Asian-Pacific Law & Policy Journal, vol. 18 (2017)", url: "http://manoa.hawaii.edu/aplpj/wp-content/uploads/sites/120/2017/06/2017-0531-APLPJ-Volume-18.2-3-Feng-compressed.pdf"}
+  - {titre: "E/C.12/CHN/CO/3 (2023)", url: "https://docs.un.org/fr/E/C.12/CHN/CO/3"}
+  - {titre: "宁夏第七次全国人口普查结果 — China Daily (25 mai 2021)", url: "https://cn.chinadaily.com.cn/a/202105/25/WS60acee2fa3101e7ce97519b0.html"}
+  - {titre: "宁夏回族自治区概况 — ministère du Commerce (2020)", url: "https://fdi.mofcom.gov.cn/resource/pdf/2020/10/21/2b91bdb7db4b48519eaff35bebfa8f82.pdf"}

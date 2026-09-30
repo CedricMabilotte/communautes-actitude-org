@@ -1,0 +1,58 @@
+uid: "eeyou-istchee-cris"
+nom: "Cris d'Eeyou Istchee"
+endonyme: "Eeyouch"
+territoire: "Eeyou Istchee (Baie-James, Québec)"
+etats: ["Canada"]
+region: "ameriques"
+coord: [52.5, -76.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 20000, annee: 2026, perimetre: "habitants d'Eeyou Istchee (« plus de 20 000 », Gouvernement de la nation crie)", source: "https://www.cngov.ca/community-culture/communities/"}
+lieux: {valeur: 9, unite: "communautés cries parties à la Convention de la Baie-James (11 communautés au total)", annee: 2026, source: "https://www.cngov.ca/community-culture/communities/"}
+surface_km2: {valeur: 400000, annee: 2026, perimetre: "territoire traditionnel cri (« plus de 400 000 km² »)", source: "https://www.cngov.ca/community-culture/communities/"}
+resume: >-
+  Les Cris d'Eeyou Istchee vivent à l'est de la baie James, au Québec. La Convention de la Baie-James et du Nord québécois de 1975, approuvée par une loi fédérale (S.C. 1976-77, ch. 32), leur attribue des terres de catégorie I et des droits de chasse et de pêche. L'Entente sur la gouvernance de la nation crie de 2017, mise en vigueur par une loi fédérale de 2018, reconnaît le Gouvernement de la nation crie et une constitution crie. Depuis 2013, les Cris siègent au Gouvernement régional d'Eeyou Istchee Baie-James avec les autres résidents du territoire.
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Canada, qui avait voté contre la Déclaration en 2007, l'a ensuite appuyée ; la loi fédérale de 2021 (L.C. 2021, ch. 14) en fait une source d'interprétation du droit canadien.", annee: 2021, source: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+base_nationale:
+  - {instrument: "Loi sur le règlement des revendications des autochtones de la Baie James et du Nord québécois (S.C. 1976-77, ch. 32), qui approuve la Convention de 1975", nature: "loi", annee: 1977, source: "https://laws-lois.justice.gc.ca/fra/lois/J-0.3/page-1.html"}
+  - {instrument: "Loi sur le régime des terres dans les territoires de la Baie-James et du Nouveau-Québec (RLRQ, c. R-13.1)", nature: "loi", annee: 1978, source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/R-13.1"}
+  - {instrument: "Loi sur l'accord concernant la gouvernance de la nation crie d'Eeyou Istchee (L.C. 2018, ch. 4, art. 1)", nature: "accord_revendication", annee: 2018, source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.75/page-1.html"}
+  - {instrument: "Loi instituant le Gouvernement régional d'Eeyou Istchee Baie-James (RLRQ, c. G-1.04)", nature: "loi", annee: 2013, source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/G-1.04"}
+  - {instrument: "Québec (Procureur général) c. Moses, 2010 CSC 17", nature: "jurisprudence", annee: 2010, source: "https://juricaf.org/arret/CANADA-COURSUPREME-20100514-2010CSC17"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "L'Entente sur la gouvernance de la nation crie, signée le 18 juillet 2017 par le Grand Conseil des Cris, le Gouvernement de la nation crie et le Canada, est approuvée et a force de loi, L.C. 2018, ch. 4, art. 3 ; la Loi sur les Indiens ne s'applique plus aux premières nations cries ni aux terres de catégorie IA, art. 11.", source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.75/page-1.html"}
+  pouvoir_normatif: {valeur: "reconnu", note: "La constitution crie est mise en vigueur et a force de loi, L.C. 2018, ch. 4, art. 7 (1) ; la loi reconnaît les lois du Gouvernement de la nation crie et des premières nations cries adoptées au titre de l'Entente.", source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.75/page-1.html"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "5 544,1 km² de terres de catégorie I : 3 299,6 km² de catégorie IA, dont l'État conserve la nue-propriété (propriété sans jouissance) et dont l'usage est exclusif aux Cris, et 2 244,5 km² de catégorie IB détenus par des corporations foncières cries qui ne peuvent les céder qu'au gouvernement, loi R-13.1, art. 4, 17 à 19 et 25 (1978).", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/R-13.1"}
+  ressources: {valeur: "partiel", note: "Les terres de catégorie II (69 995,2 km²) restent du domaine de l'État ; les bénéficiaires cris y jouissent des droits accordés par cette loi et par toute loi qui réfère à ces terres, loi R-13.1, art. 66 ; la Loi sur les droits de chasse et de pêche dans les territoires de la Baie James et du Nouveau-Québec (RLRQ, c. D-13.1) s'y rapporte.", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/R-13.1"}
+  consentement: {valeur: "partiel", note: "Régime de protection de l'environnement du chapitre 22 de la Convention (évaluation des projets, Comité consultatif pour l'environnement de la Baie James, Loi sur la qualité de l'environnement, art. 134) ; la Cour suprême a confirmé en 2010 que ce régime s'applique aux projets miniers (Moses) ; il ne prévoit pas de droit de refus.", source: "https://juricaf.org/arret/CANADA-COURSUPREME-20100514-2010CSC17"}
+  langue: {valeur: "partiel", note: "Dans les écoles de la commission scolaire crie, le cri est langue d'enseignement avec les autres langues en usage, Charte de la langue française, art. 88 ; ce n'est pas une langue officielle du Québec.", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-11"}
+  education: {valeur: "reconnu", note: "Commission scolaire crie régie par la Loi sur l'instruction publique pour les autochtones cris, inuit et naskapis (RLRQ, c. I-14), à laquelle renvoie l'art. 88 de la Charte de la langue française.", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-11"}
+  fiscalite: {valeur: "partiel", note: "L'exemption fiscale des biens des Cris sur les terres de catégorie IA s'applique sous réserve des lois fiscales adoptées par les premières nations cries (Entente, art. 6.2 (1) k)) et par le Gouvernement de la nation crie (art. 8.15), L.C. 2018, ch. 4.", source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.75/page-1.html"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Statut de bénéficiaire cri défini par la Loi sur les autochtones cris, inuit et naskapis (RLRQ, c. A-33.1) ; les bénéficiaires cris de chaque communauté sont membres de plein droit des corporations foncières, loi R-13.1, art. 1 et 3.", source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/R-13.1"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Dans Québec (Procureur général) c. Moses (2010), la Cour suprême applique le régime d'évaluation du chapitre 22 de la Convention à un projet minier, tout en maintenant l'exigence d'une autorisation fédérale au titre de la Loi sur les pêches.", source: "https://juricaf.org/arret/CANADA-COURSUPREME-20100514-2010CSC17"}
+chronologie:
+  - {annee: 1975, evenement: "Signature de la Convention de la Baie-James et du Nord québécois."}
+  - {annee: 1978, evenement: "Loi québécoise sur le régime des terres."}
+  - {annee: 2010, evenement: "Arrêt Moses de la Cour suprême sur le régime environnemental de la Convention."}
+  - {annee: 2013, evenement: "Loi instituant le Gouvernement régional d'Eeyou Istchee Baie-James."}
+  - {annee: 2017, evenement: "Signature le 18 juillet de l'Entente sur la gouvernance de la nation crie."}
+  - {annee: 2018, evenement: "Loi fédérale de mise en vigueur, sanctionnée le 29 mars."}
+fiabilite:
+  verifie: ["L.C. 2018, ch. 4, préambule et art. 3, 7 et 11, disposition fiscale (Justice Canada).", "Loi R-13.1, art. 1, 3, 4, 17 à 20, 25 et 66 (LégisQuébec).", "Loi G-1.04, art. 3, 6 à 8.", "Charte de la langue française, art. 88.", "Arrêt Moses (2010), dispositif (Juricaf)."]
+  non_confirme: ["Entente de 2002 dite « Paix des Braves » : texte non consulté.", "Accord sur la région marine d'Eeyou (2010) : loi fédérale repérée, non lue.", "Population crie : aucun chiffre officiel consulté.", "Institutions de justice cries : non vérifiées."]
+sources:
+  - {titre: "Loi sur l'accord concernant la gouvernance de la nation crie d'Eeyou Istchee — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/C-45.75/page-1.html"}
+  - {titre: "Loi sur le règlement des revendications des autochtones de la Baie James et du Nord québécois — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/J-0.3/page-1.html"}
+  - {titre: "Loi sur le régime des terres dans les territoires de la Baie-James et du Nouveau-Québec — LégisQuébec", url: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/R-13.1"}
+  - {titre: "Loi instituant le Gouvernement régional d'Eeyou Istchee Baie-James — LégisQuébec", url: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/G-1.04"}
+  - {titre: "Charte de la langue française — LégisQuébec", url: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-11"}
+  - {titre: "Loi sur les droits de chasse et de pêche dans les territoires de la Baie James et du Nouveau-Québec — LégisQuébec", url: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-13.1"}
+  - {titre: "Loi sur la qualité de l'environnement — LégisQuébec", url: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/Q-2"}
+  - {titre: "Québec (Procureur général) c. Moses, 2010 CSC 17 — Juricaf", url: "https://juricaf.org/arret/CANADA-COURSUPREME-20100514-2010CSC17"}
+  - {titre: "Déclaration des Nations Unies sur les droits des peuples autochtones — ONU DESA", url: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+  - {titre: "Loi sur la Déclaration des Nations Unies sur les droits des peuples autochtones (L.C. 2021, ch. 14) — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/U-2.2/page-1.html"}

@@ -1,0 +1,48 @@
+uid: "valdotains-vallee-aoste"
+nom: "Valdôtains"
+endonyme: "Valdôtains / Valdoten"
+territoire: "Région autonome Vallée d'Aoste"
+etats: ["Italie"]
+region: "europe"
+coord: [45.7, 7.4]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 122877, annee: 2023, perimetre: "population résidente de la région au 31 décembre (recensement permanent)", source: "https://www.istat.it/wp-content/uploads/2025/04/Censimento-permanente-popolazione_Anno-2023_Valle-dAosta.pdf"}
+lieux: {valeur: 74, unite: "communes", annee: 2023, source: "https://www.istat.it/wp-content/uploads/2025/04/Censimento-permanente-popolazione_Anno-2023_Valle-dAosta.pdf"}
+surface_km2: {valeur: 3262, annee: null, perimetre: "région", source: "https://www.axl.cefan.ulaval.ca/europe/italieaoste.htm"}
+resume: >-
+  La Vallée d'Aoste est une région autonome à statut spécial (loi constitutionnelle n° 4 du 26 février 1948). Le statut place la langue française et la langue italienne sur un plan d'égalité et réserve au français autant d'heures d'enseignement qu'à l'italien. Le Conseil de la Vallée légifère dans les matières énumérées à l'article 2, dont les droits d'usage et les consorteries (communautés de copropriétaires de biens agricoles et forestiers). Les populations de langue allemande (walser) de la vallée du Lys ont des droits propres depuis 1993.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Sixième avis du Comité consultatif de la Convention-cadre sur l'Italie, § 19 et 61 : le français et le francoprovençal figurent parmi les douze minorités linguistiques historiques de la loi 482/1999 ; mention des fonds en français et en walser des bibliothèques de la Vallée d'Aoste.", annee: 2026, source: "https://rm.coe.int/acfc-op-vi-2025-5-sixth-opinion-on-italy-en/48802bdf6e"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Statut spécial pour la Vallée d'Aoste (loi constitutionnelle n° 4 du 26 février 1948), texte coordonné avec la loi constitutionnelle n° 2 du 31 janvier 2001", nature: "statut_autonomie", annee: 1948, source: "https://www.regione.vda.it/allegato.aspx?pk=34495"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Vallée d'Aoste est constituée en Région autonome dotée de la personnalité juridique, Statut, art. 1 ; ses organes sont le Conseil de la Vallée, le Gouvernement régional et le Président de la Région, art. 15 et 16.", source: "https://www.regione.vda.it/allegato.aspx?pk=34495"}
+  pouvoir_normatif: {valeur: "reconnu", note: "La Région exerce le pouvoir législatif dans les matières énumérées, dont l'agriculture et les forêts, l'urbanisme, la chasse et la pêche, la toponymie, Statut, art. 2.", source: "https://www.regione.vda.it/allegato.aspx?pk=34495"}
+  justice_propre: {valeur: "partiel", note: "Le Président de la Région institue les bureaux de conciliation et nomme les juges conciliateurs par délégation du Président de la République, Statut, art. 41 ; les actes judiciaires restent rédigés en italien, art. 38.", source: "https://www.regione.vda.it/allegato.aspx?pk=34495"}
+  terres: {valeur: "reconnu", note: "Pouvoir législatif sur les droits d'usage, les consorteries et les communautés de copropriétaires de biens agricoles et forestiers, Statut, art. 2, lettre o ; les forêts de l'État font partie du patrimoine indisponible de la Région, art. 5.", source: "https://www.regione.vda.it/allegato.aspx?pk=34495"}
+  ressources: {valeur: "reconnu", note: "Les eaux publiques et les mines sont données en concession gratuite à la Région pour quatre-vingt-dix-neuf ans, renouvelable, Statut, art. 7 et 11 ; l'État lui cède les neuf dixièmes de la redevance hydroélectrique, art. 12.", source: "https://www.regione.vda.it/allegato.aspx?pk=34495"}
+  consentement: {valeur: "partiel", note: "Les adaptations des programmes scolaires sont approuvées après consultation de commissions mixtes comprenant des représentants du Conseil de la Vallée, Statut, art. 40 ; les décrets d'application sont préparés par une commission paritaire État-Région, art. 48 bis.", source: "https://www.regione.vda.it/allegato.aspx?pk=34495"}
+  langue: {valeur: "reconnu", note: "En Vallée d'Aoste la langue française et la langue italienne sont sur un plan d'égalité ; les actes publics peuvent être rédigés dans l'une ou l'autre, Statut, art. 38.", source: "https://www.regione.vda.it/allegato.aspx?pk=34495"}
+  education: {valeur: "reconnu", note: "Dans les écoles qui dépendent de la Région, le français reçoit chaque semaine autant d'heures que l'italien et certaines matières peuvent être enseignées en français, Statut, art. 39 ; l'enseignement de l'allemand est garanti aux populations walser, art. 40 bis.", source: "https://www.regione.vda.it/allegato.aspx?pk=34495"}
+  fiscalite: {valeur: "reconnu", note: "La Vallée peut créer des impôts et des surtaxes ; l'État lui attribue une quote-part des impôts qu'il perçoit, Statut, art. 12.", source: "https://www.regione.vda.it/allegato.aspx?pk=34495"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le statut garantit la parité du français, mais l'Université Laval rapporte que l'italien est la langue de 71,5 % des locuteurs et que 7 % parlent le francoprovençal au quotidien.", source: "https://www.axl.cefan.ulaval.ca/europe/italieaoste.htm"}
+chronologie:
+  - {annee: 1561, evenement: "Édit de Rivoli : le duc Emmanuel-Philibert impose le français dans les actes publics de la vallée."}
+  - {annee: 1948, evenement: "Loi constitutionnelle n° 4 du 26 février portant Statut spécial."}
+  - {annee: 1993, evenement: "Loi constitutionnelle n° 2 du 23 septembre : article 40 bis sur les populations walser de la vallée du Lys."}
+  - {annee: 1999, evenement: "Loi 482/1999 sur les minorités linguistiques historiques (français, francoprovençal)."}
+  - {annee: 2001, evenement: "Loi constitutionnelle n° 2 du 31 janvier modifiant le Statut."}
+fiabilite:
+  verifie: ["Statut spécial, art. 1, 2, 5, 7, 11, 12, 38, 39, 40, 40 bis, 41 et 48 bis (texte coordonné, site de la Région).", "Population au 31 décembre 2023 et 74 communes (Istat).", "Sixième avis ACFC sur l'Italie adopté le 11 février 2026."]
+  non_confirme: ["Surface de 3 262 km² tirée de l'Université Laval, sans année de référence.", "Art. 15 et 16 (organes de la Région) : intitulé relevé dans le texte coordonné, contenu non détaillé ici.", "Représentation au Parlement national : la région forme un collège uninominal, disposition non vérifiée sur texte primaire.", "Le terme « Valdôtains » désigne ici la population de la région ; le statut ne nomme pas de peuple."]
+sources:
+  - {titre: "Statut spécial pour la Vallée d'Aoste, texte coordonné — Région autonome Vallée d'Aoste", url: "https://www.regione.vda.it/allegato.aspx?pk=34495"}
+  - {titre: "Il Censimento permanente della popolazione in Valle d'Aosta, anno 2023 — Istat", url: "https://www.istat.it/wp-content/uploads/2025/04/Censimento-permanente-popolazione_Anno-2023_Valle-dAosta.pdf"}
+  - {titre: "Vallée d'Aoste — L'aménagement linguistique dans le monde (Université Laval)", url: "https://www.axl.cefan.ulaval.ca/europe/italieaoste.htm"}
+  - {titre: "Sixth Opinion on Italy — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/acfc-op-vi-2025-5-sixth-opinion-on-italy-en/48802bdf6e"}

@@ -1,0 +1,50 @@
+uid: "somali-ethiopie"
+nom: "Somali d'Éthiopie"
+endonyme: "Soomaali"
+territoire: "État régional somali (capitale : Jijiga)"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [7.0, 43.5]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 4439147, annee: 2007, perimetre: "population recensée de l'État régional somali (recensement de 2007)", source: "https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf"}
+lieux: {valeur: 17, unite: "zones administratives (11 zones et 6 zones spéciales)", annee: 2025, source: "https://en.wikipedia.org/wiki/Somali_Region"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Somali d'Éthiopie forment une « nation, nationalité et peuple » au sens de la Constitution fédérale de 1994, dans l'est du pays.
+  Ils disposent d'un État régional, l'un des neuf États fondateurs de la fédération, avec son conseil, son gouvernement, sa constitution et le somali comme langue de travail.
+  Comme les autres nations de la fédération, ils ont un droit constitutionnel à l'autodétermination, sécession comprise (art. 39).
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme relève de graves violations commises par la police et l'armée dans l'État régional somali, aussi appelé Ogaden (par. 16-17), et note la reconnaissance du droit des communautés ethniques à l'autodétermination au niveau de l'État régional (par. 26).", annee: 2011, source: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 5, 34, 39, 40, 47, 50, 52, 61, 78 et 97", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Art. 39(3) : droit de chaque nation, nationalité et peuple à l'autogouvernement et à ses propres institutions ; art. 47(1) : l'État somali est l'un des États membres de la fédération.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Art. 52(2) : les États exercent tous les pouvoirs non attribués à la fédération, dont l'adoption de leur constitution et de leurs lois.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  justice_propre: {valeur: "reconnu", note: "Art. 50(2) : les États détiennent le pouvoir judiciaire ; art. 78(5) : leurs conseils peuvent créer ou reconnaître des tribunaux religieux et coutumiers ; art. 34(5) : le statut personnel et familial peut être jugé selon le droit religieux ou coutumier avec l'accord des parties.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  terres: {valeur: "partiel", note: "Art. 40(3) : la propriété de la terre appartient exclusivement à l'État et aux peuples d'Éthiopie, propriété commune inaliénable ; art. 52(2)(d) : les États l'administrent selon la loi fédérale.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "partiel", note: "Art. 52(2)(d) : les États administrent la terre et les autres ressources naturelles conformément aux lois fédérales.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Art. 5(3) : chaque État membre fixe par la loi sa langue de travail ; art. 39(2) : droit de parler, écrire et développer sa langue.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Art. 97 : les États lèvent l'impôt sur le revenu des salariés de l'État et des entreprises privées, les redevances d'usufruit foncier et d'autres impôts.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  representation: {valeur: "reconnu", note: "Art. 61(2) : chaque nation, nationalité et peuple a au moins un siège à la Chambre de la Fédération, plus un par million d'habitants.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) : droit inconditionnel à l'autodétermination, y compris la sécession, par vote aux deux tiers du conseil législatif puis référendum organisé par l'État fédéral dans les trois ans. Jamais exercé.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "contestee", note: "Human Rights Watch documente de 2011 à début 2018, dans la prison dite « Jail Ogaden » à Jijiga, tortures, viols et décès imputés à la police spéciale régionale (Liyu) sous l'autorité du président régional ; le Comité des droits de l'homme relevait dès 2011 l'absence de poursuites.", source: "https://www.hrw.org/news/2018/07/04/ethiopia-torture-somali-region-prison"}
+chronologie:
+  - {annee: 1994, evenement: "Adoption de la Constitution fédérale ; l'État somali figure parmi les neuf États membres (art. 47)."}
+  - {annee: 2007, evenement: "Recensement national : 4 439 147 habitants dans l'État somali."}
+  - {annee: 2011, evenement: "Observations du Comité des droits de l'homme sur les violations dans l'État somali."}
+  - {annee: 2018, evenement: "Rapport de Human Rights Watch sur la prison « Jail Ogaden » (juillet) ; départ du président régional en août."}
+fiabilite:
+  verifie: ["Texte des art. 5, 34, 39, 40, 47, 50, 52, 61, 78 et 97 de la Constitution (Constitute Project).", "Par. 16, 17 et 26 de CCPR/C/ETH/CO/1 (2011).", "Population de 2007 (rapport du recensement, Agence centrale de la statistique, copie archivée)."]
+  non_confirme: ["La reconnaissance onusienne vise la catégorie « nations, nationalités et peuples » ; l'État somali est nommé pour des violations, pas pour son statut.", "Surface : 279 252 km² ou 327 068 km² selon les sources ; aucune valeur retenue.", "Constitution régionale somali : non consultée.", "Nombre de zones : lu dans une encyclopédie citant une carte de l'OCHA (2015).", "Éthiopie absente lors du vote de la DNUDPA (A/61/PV.107)."]
+sources:
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur l'Éthiopie, CCPR/C/ETH/CO/1 (2011)", url: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+  - {titre: "Agence centrale de la statistique — Résumé du recensement de 2007 (copie archivée)", url: "https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf"}
+  - {titre: "Human Rights Watch — Ethiopia: Torture in Somali Region Prison (2018)", url: "https://www.hrw.org/news/2018/07/04/ethiopia-torture-somali-region-prison"}
+  - {titre: "Somali Region — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Somali_Region"}

@@ -1,0 +1,51 @@
+uid: "sidama-ethiopie"
+nom: "Sidama"
+endonyme: "Sidaama"
+territoire: "Région Sidama"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [6.7, 38.5]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 24, unite: "woredas (districts) de la zone Sidama", annee: 2019, source: "https://eip.org/wp-content/uploads/2020/06/Sidamas-quest-for-self-rule.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Sidama sont une « nation, nationalité et peuple » au sens de la Constitution fédérale éthiopienne, dans le sud du pays.
+  Ils formaient une zone de l'État régional des nations, nationalités et peuples du Sud.
+  Après un référendum tenu le 20 novembre 2019 sur le fondement de l'article 47, le Conseil de cet État a approuvé en juin 2020 la constitution de la Sidama en État régional, le dixième de la fédération.
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme note la reconnaissance du droit des communautés ethniques et linguistiques à l'autodétermination au niveau de l'État régional, selon le fédéralisme ethnique de la Constitution (CCPR/C/ETH/CO/1, par. 26). Vise la catégorie, pas les Sidama nommément.", annee: 2011, source: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+  - {mecanisme: "organe_traite", detail: "Le Comité pour l'élimination de la discrimination raciale note l'attribution de sièges parlementaires aux groupes minoritaires et leur reconnaissance dans la Constitution (CERD/C/ETH/CO/7-16, par. 9).", annee: 2009, source: "https://docs.un.org/en/CERD/C/ETH/CO/7-16"}
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 5, 39, 47, 50, 52, 61, 78 et 97", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Art. 39(3) : droit de chaque nation, nationalité et peuple à l'autogouvernement et à ses propres institutions ; art. 47(2)-(3) : droit de former son propre État. Région Sidama constituée en juin 2020.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Art. 52(2)(b) : chaque État adopte et applique sa propre constitution et ses lois.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  justice_propre: {valeur: "reconnu", note: "Art. 50(2) : les États détiennent le pouvoir judiciaire ; art. 78(5) : les Conseils des États peuvent créer ou reconnaître des tribunaux religieux et coutumiers.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  terres: {valeur: "partiel", note: "Art. 40(3) : la terre appartient à l'État et aux peuples d'Éthiopie, propriété commune des nations, nationalités et peuples, inaliénable ; art. 52(2)(d) : les États l'administrent selon la loi fédérale.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "partiel", note: "Art. 52(2)(d) : les États administrent la terre et les autres ressources naturelles conformément aux lois fédérales.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Art. 5(3) : chaque État membre fixe par la loi sa langue de travail ; art. 39(2) : droit de parler, écrire et développer sa langue.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Art. 97 : les États lèvent l'impôt sur le revenu des salariés de l'État et des entreprises privées, les redevances d'usufruit foncier et d'autres impôts.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  representation: {valeur: "reconnu", note: "Art. 61(2) : chaque nation, nationalité et peuple a au moins un siège à la Chambre de la Fédération (chambre haute), plus un par million d'habitants ; art. 39(3) : représentation équitable aux niveaux régional et fédéral.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) : droit inconditionnel à l'autodétermination, y compris la sécession (séparation d'avec l'État), par vote aux deux tiers du conseil législatif puis référendum organisé par l'État fédéral dans les trois ans. Jamais exercé à ce jour par les Sidama.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "non_etablie", note: "La Région Sidama fonctionne depuis juin 2020 (décision du Conseil de l'État régional du Sud du 18 juin 2020). Aucune évaluation onusienne ou indépendante de son fonctionnement postérieure à 2020 n'a été consultée.", source: "https://borkena.com/2020/06/18/council-ratify-ethiopias-new-ethnic-sidama-statehood/"}
+chronologie:
+  - {annee: 1994, evenement: "Adoption de la Constitution fédérale (art. 39 et 47)."}
+  - {annee: 2018, evenement: "Le 18 juillet, le Conseil de la zone Sidama demande la création d'un État régional."}
+  - {annee: 2019, evenement: "Le 20 novembre, référendum organisé par la Commission électorale nationale : plus de 98 % pour la création de l'État."}
+  - {annee: 2020, evenement: "Le 18 juin, le Conseil de l'État régional du Sud approuve la constitution de la Sidama en État régional."}
+fiabilite:
+  verifie: ["Texte des art. 5, 39, 40, 47, 50, 52, 61, 78 et 97 de la Constitution (Constitute Project).", "Date et résultat du référendum (Commission électorale nationale ; European Institute of Peace).", "Paragraphe 26 de CCPR/C/ETH/CO/1 (2011)."]
+  non_confirme: ["La reconnaissance onusienne vise la catégorie « nations, nationalités et peuples », non les Sidama nommément.", "Langue de travail adoptée par la Région Sidama et contenu de sa constitution régionale : non vérifiés.", "Taux exact du « oui » : 98,5 % selon l'annonce préliminaire, 98,9 % selon la page de la Commission électorale.", "Population : aucun chiffre sourcé retenu."]
+sources:
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur l'Éthiopie, CCPR/C/ETH/CO/1 (2011)", url: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+  - {titre: "CERD — Observations finales sur l'Éthiopie, CERD/C/ETH/CO/7-16 (2009)", url: "https://docs.un.org/en/CERD/C/ETH/CO/7-16"}
+  - {titre: "National Election Board of Ethiopia — Referendum", url: "https://nebe.org.et/en/referendum"}
+  - {titre: "Tronvoll, Boroje, Tezera — The Sidama's quest for self-rule, European Institute of Peace (2020)", url: "https://eip.org/wp-content/uploads/2020/06/Sidamas-quest-for-self-rule.pdf"}
+  - {titre: "Borkena — Council ratify Ethiopia's new ethnic-Sidama statehood (2020)", url: "https://borkena.com/2020/06/18/council-ratify-ethiopias-new-ethnic-sidama-statehood/"}

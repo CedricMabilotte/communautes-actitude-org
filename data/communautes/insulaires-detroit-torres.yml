@@ -1,0 +1,52 @@
+uid: "insulaires-detroit-torres"
+nom: "Insulaires du détroit de Torrès"
+endonyme: ""
+territoire: "Zenadth Kes (détroit de Torrès, Queensland)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-10.2, 142.2]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 69848, annee: 2021, perimetre: "personnes recensées en Australie comme insulaires du détroit de Torrès seulement (33 765) ou à la fois aborigènes et insulaires (36 083)", source: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/IQSAUS"}
+lieux: {valeur: 19, unite: "communautés (17 îles habitées du détroit et 2 communautés de la Northern Peninsula Area)", annee: 2024, source: "https://www.tsra.gov.au/the-torres-strait/our-region/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Peuple autochtone des îles du détroit de Torrès, entre la péninsule du cap York et la Papouasie-Nouvelle-Guinée. La décision Mabo (No 2) de la Haute Cour d'Australie du 3 juin 1992, obtenue par Eddie Koiki Mabo, écarte la doctrine de la terra nullius (terre sans maître) et reconnaît un titre autochtone limité. La Torres Strait Regional Authority, autorité statutaire fédérale créée le 1er juillet 1994, dont tous les membres sont élus depuis 2012, a pour mission de reconnaître et maintenir l'Ailan Kastom (coutume insulaire). En 2022, le Comité des droits de l'homme de l'ONU constate que l'inaction climatique de l'Australie viole les droits d'insulaires à la vie culturelle de leur minorité.
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Constatations du Comité des droits de l'homme, Daniel Billy et consorts c. Australie (CCPR/C/135/D/3624/2019) : violation des articles 17 et 27 du Pacte à l'égard d'auteurs appartenant « à la minorité autochtone des îles du détroit de Torres »", annee: 2022, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/135/D/3624/2019&l=fr&t=pdf"}
+  - {mecanisme: "dnudpa", detail: "L'Australie a soutenu la Déclaration en 2009 (IWGIA 2025) ; le CERD lui recommande en 2017 d'en appliquer les principes", annee: 2009, source: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Mabo v Queensland (No 2), Haute Cour d'Australie", nature: "jurisprudence", annee: 1992, source: "https://www.naa.gov.au/explore-collection/first-australians/eddie-koiki-mabo-and-mabo-case"}
+  - {instrument: "Aboriginal and Torres Strait Islander Act 2005, partie 3A (Torres Strait Regional Authority), compilation n° 56", nature: "loi", annee: 2005, source: "https://www.legislation.gov.au/C2004A03898/2025-02-15/2025-02-15/text/original/pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La TSRA se compose de 20 à 23 membres élus, lors d'élections conduites par la Commission électorale australienne (ATSI Act 2005, s. 142R et 142T) ; le ministre peut la placer sous administration si elle compte moins de 7 membres (s. 142R(3)).", source: "https://www.legislation.gov.au/C2004A03898/2025-02-15/2025-02-15/text/original/pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La décision Mabo (No 2) du 3 juin 1992 reconnaît un titre autochtone limité ; le Native Title Act 1993 organise sa reconnaissance.", source: "https://www.naa.gov.au/explore-collection/first-australians/eddie-koiki-mabo-and-mabo-case"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité des droits de l'homme constate en 2022 que l'Australie n'a pas protégé le droit des auteurs à la vie culturelle de leur minorité face aux effets du changement climatique sur leurs îles, et lui demande une réparation intégrale.", source: "https://documents.un.org/api/symbol/access?s=CCPR/C/135/D/3624/2019&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1992, evenement: "Décision Mabo (No 2) de la Haute Cour (3 juin)."}
+  - {annee: 1993, evenement: "Native Title Act."}
+  - {annee: 1994, evenement: "Création de la Torres Strait Regional Authority (1er juillet)."}
+  - {annee: 2005, evenement: "L'ATSIC Act de 1989 devient l'Aboriginal and Torres Strait Islander Act 2005 ; la TSRA y est régie par la partie 3A."}
+  - {annee: 2012, evenement: "Première élection directe de tous les membres de la TSRA (15 septembre)."}
+  - {annee: 2022, evenement: "Constatations du Comité des droits de l'homme dans l'affaire Billy et consorts c. Australie (21 juillet)."}
+fiabilite:
+  verifie: ["Sections 142, 142A, 142D, 142R, 142S, 142T et 142TA de l'ATSI Act 2005 (compilation du 15 février 2025).", "Présentation de la TSRA sur son site officiel.", "Élection de 2012 (Commission électorale australienne).", "Constatations CCPR/C/135/D/3624/2019."]
+  non_confirme: ["Texte de l'arrêt Mabo (No 2) (AustLII et AIATSIS inaccessibles) : seule la synthèse des Archives nationales a été lue.", "Détermination du titre autochtone sur la mer (affaire Akiba, 2013) : non vérifiée.", "Loi du Queensland de 2020 sur l'adoption coutumière (Meriba Omasker Kaziw Kazipa) : non consultée.", "Population de la région du détroit."]
+sources:
+  - {titre: "Torres Strait Regional Authority — About the TSRA", url: "https://www.tsra.gov.au/the-tsra/"}
+  - {titre: "Aboriginal and Torres Strait Islander Act 2005, compilation n° 56 — Federal Register of Legislation", url: "https://www.legislation.gov.au/C2004A03898/2025-02-15/2025-02-15/text/original/pdf"}
+  - {titre: "Commission électorale australienne — TSRA elections, background 2012", url: "https://www.aec.gov.au/Elections/tsra/background-2012.htm"}
+  - {titre: "Archives nationales d'Australie — Eddie Koiki Mabo and the Mabo case", url: "https://www.naa.gov.au/explore-collection/first-australians/eddie-koiki-mabo-and-mabo-case"}
+  - {titre: "Comité des droits de l'homme — Daniel Billy et consorts c. Australie, CCPR/C/135/D/3624/2019", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/135/D/3624/2019&l=fr&t=pdf"}
+  - {titre: "CERD — Observations finales sur l'Australie, CERD/C/AUS/CO/18-20 (2017)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}

@@ -1,0 +1,46 @@
+uid: "italiens-slovenie"
+nom: "Communauté nationale italienne de Slovénie"
+endonyme: "Comunità nazionale italiana"
+territoire: "Istrie slovène (Koper, Izola, Piran, Ankaran)"
+etats: ["Slovénie"]
+region: "europe"
+coord: [45.5, 13.7]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 2258, annee: 2002, perimetre: "personnes déclarées de nationalité italienne en Slovénie, recensement de 2002", source: "https://www.culturalpolicies.net/country_profile/slovenia-2-6/"}
+lieux: {valeur: 4, unite: "communes bilingues (Ankaran, Koper, Izola, Piran)", annee: 2020, source: "https://2014-2020.ita-slo.eu/en/all-news/news/primis-presentation-minority-communities-italian-national-community-slovenia"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution slovène de 1991 reconnaît la communauté nationale italienne comme communauté autochtone, avec la communauté hongroise. Elle vit sur la côte de l'Istrie slovène, dans les communes de Koper, Izola, Piran et Ankaran. L'article 64 de la Constitution garantit l'éducation dans sa langue, la création de communautés nationales autogérées et un député à l'Assemblée nationale. Chaque commune bilingue a une communauté autogérée de nationalité italienne, coordonnées par la Communauté autogérée côtière (CAN Costiera) de Koper.
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale sur la Slovénie (CERD/C/SVN/CO/8-11), § 10 : le Comité distingue les minorités italienne et hongroise, représentées au Parlement, des autres minorités.", annee: 2016, source: "https://documents.un.org/doc/undoc/gen/g16/003/44/pdf/g1600344.pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République de Slovénie (1991), art. 5, 11, 64 et 80", nature: "constitution", annee: 1991, source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
+  - {instrument: "Loi sur les communautés nationales autogérées (1994)", nature: "loi", annee: 1994, source: "https://www.culturalpolicies.net/country_profile/slovenia-2-6/"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les membres de la communauté créent des communautés autogérées dans leur aire d'implantation ; l'État peut leur confier des fonctions et les finance, Constitution, art. 64, al. 2 ; loi de 1994 sur les communautés nationales autogérées.", source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "reconnu", note: "Les lois et actes qui concernent exclusivement l'exercice des droits constitutionnels et la situation des communautés nationales ne peuvent être adoptés sans le consentement de leurs représentants, Constitution, art. 64, dernier alinéa.", source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
+  langue: {valeur: "reconnu", note: "L'italien est langue officielle dans les communes où vit la communauté italienne, Constitution, art. 11.", source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
+  education: {valeur: "reconnu", note: "Droit à l'éducation et à la scolarité dans sa langue et à créer des établissements, Constitution, art. 64, al. 1.", source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
+  fiscalite: {valeur: "partiel", note: "L'État apporte un soutien matériel à l'exercice des droits et finance les fonctions qu'il délègue aux communautés autogérées, Constitution, art. 64, al. 1 et 2 ; aucun pouvoir fiscal.", source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
+  representation: {valeur: "reconnu", note: "Un député de la communauté italienne est toujours élu à l'Assemblée nationale, Constitution, art. 80 ; représentation directe dans les conseils municipaux, art. 64, al. 3.", source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le programme européen Interreg Italie-Slovénie (PRIMIS) décrit quatre communautés autogérées de nationalité italienne en fonctionnement, coordonnées par la CAN Costiera, et une représentation politique au niveau national et local.", source: "https://2014-2020.ita-slo.eu/en/all-news/news/primis-presentation-minority-communities-italian-national-community-slovenia"}
+chronologie:
+  - {annee: 1991, evenement: "Constitution de la Slovénie : art. 5, 11, 64 et 80."}
+  - {annee: 1994, evenement: "Loi sur les communautés nationales autogérées."}
+fiabilite:
+  verifie: ["Constitution, art. 5, 11, 64 et 80 (Constitute Project).", "CERD/C/SVN/CO/8-11, § 10.", "Communes d'implantation et structure autogérée (PRIMIS, Interreg Italie-Slovénie)."]
+  non_confirme: ["Population : la source indique « recensement de 2001 » ; le même document donne 6 243 Hongrois, chiffre que l’Institut d’études ethniques attribue au recensement de 2002.", "Texte de la loi de 1994 sur les communautés nationales autogérées non consulté directement.", "Nombre d'écoles bilingues ou italiennes non vérifié."]
+sources:
+  - {titre: "Constitution de la Slovénie — Constitute Project", url: "https://www.constituteproject.org/constitution/Slovenia_2021"}
+  - {titre: "CERD/C/SVN/CO/8-11 (2016) — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g16/003/44/pdf/g1600344.pdf"}
+  - {titre: "PRIMIS — Presentation of minority communities: the Italian National Community in Slovenia — Interreg Italie-Slovénie", url: "https://2014-2020.ita-slo.eu/en/all-news/news/primis-presentation-minority-communities-italian-national-community-slovenia"}
+  - {titre: "Slovenia 2.6 — Compendium of Cultural Policies and Trends", url: "https://www.culturalpolicies.net/country_profile/slovenia-2-6/"}
+  - {titre: "About the Office for National Minorities — Gouvernement slovène", url: "https://www.gov.si/en/state-authorities/government-offices/government-office-for-national-minorities/about-the-office-of-the-government-for-national-minorities/"}

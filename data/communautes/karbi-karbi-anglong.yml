@@ -1,0 +1,53 @@
+uid: "karbi-karbi-anglong"
+nom: "Karbi"
+endonyme: "Karbi"
+territoire: "Karbi Anglong et Karbi Anglong-Ouest, Assam"
+etats: ["Inde"]
+region: "asie"
+coord: [26.0, 93.3]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 956313, annee: 2011, perimetre: "population totale du district de Karbi Anglong avant sa division de 2015, toutes communautés ; 538 738 membres des tribus répertoriées", source: "https://kvkdiphu.aau.ac.in/public/dp"}
+lieux: {valeur: 2712, unite: "villages", annee: 2011, source: "https://kvkdiphu.aau.ac.in/public/dp"}
+surface_km2: {valeur: 10434, annee: 2024, perimetre: "territoire du conseil autonome (districts de Karbi Anglong et de Karbi Anglong-Ouest)", source: "https://karbianglong.gov.in/about-us/about-kaac-secratariat"}
+resume: >-
+  Les Karbi vivent sur les plateaux du centre de l'Assam. Leur territoire forme un district autonome de la Sixième annexe de la Constitution depuis le 23 juin 1952 (conseil des Mikir Hills, renommé Karbi Anglong en 1976). L'amendement de 1995 ajoute quinze domaines législatifs au conseil, dont l'éducation et la cession des terres. L'accord du 4 septembre 2021 entre le gouvernement indien, l'Assam et des groupes armés karbi prévoit une dévolution supplémentaire de pouvoirs au conseil.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/IND/CO/19, § 10 : recommande de reconnaître les peuples tribaux et les « tribus énumérées » comme groupes ayant droit à une protection spéciale ; § 12 et 19 sur les États du nord-est", annee: 2007, source: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+base_nationale:
+  - {instrument: "Constitution de l'Inde, art. 244 (2) et Sixième annexe", nature: "constitution", annee: 1950, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {instrument: "Loi de 1995 portant modification de la Sixième annexe (loi 42 de 1995), paragraphe 3A", nature: "constitution", annee: 1995, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {instrument: "Accord de Karbi Anglong (gouvernement de l'Inde, gouvernement de l'Assam, groupes armés karbi)", nature: "accord_paix", annee: 2021, source: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1752066&reg=48&lang=2"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Conseil de district d'au plus trente membres, dont quatre au plus nommés par le gouverneur et les autres élus au suffrage universel, Sixième annexe (régime des districts tribaux autonomes), paragraphe 2 (1).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le conseil légifère sur les terres hors forêts classées, les forêts non classées, la culture itinérante (jhum), l'administration des villages, la désignation des chefs, l'héritage, le mariage et les coutumes, Sixième annexe, paragraphe 3 et, en Assam, sur quinze domaines supplémentaires (industrie, éducation primaire et secondaire, agriculture, eau, santé, cession des terres…), paragraphe 3A inséré en 1995 ; ses lois requièrent l'assentiment du gouverneur, et les lois de l'État sur ces matières ne s'y appliquent que sur décision du conseil, paragraphe 12 (1) (a).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  justice_propre: {valeur: "reconnu", note: "Le conseil peut créer des conseils ou tribunaux de village pour les litiges entre membres des tribus répertoriées, à l'exclusion des autres tribunaux de l'État, et une juridiction d'appel ; seuls la Haute Cour et la Cour suprême restent compétentes, Sixième annexe, paragraphe 4.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  terres: {valeur: "partiel", note: "Compétence législative sur l'attribution, l'occupation et l'usage des terres hors forêts classées, Sixième annexe, paragraphe 3 (1) (a) ; l'État conserve le pouvoir d'expropriation pour cause d'utilité publique.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  ressources: {valeur: "partiel", note: "Gestion des forêts non classées et usage des canaux pour l'agriculture, Sixième annexe, paragraphe 3 (1) (b) et (c) ; part des redevances minières fixée par accord avec l'État, ou par le gouverneur en cas de désaccord, paragraphe 9.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  consentement: {valeur: "partiel", note: "Aucune loi de l'Assemblée de l'État (Assam) sur les matières du paragraphe 3 ne s'applique au district autonome sans notification du conseil, qui peut l'adapter, Sixième annexe, paragraphe 12 (1) (a) ; les lois du Parlement restent applicables sauf décision du président ou du gouverneur.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "reconnu", note: "Compétence législative sur l'enseignement primaire et secondaire, Sixième annexe, paragraphe 3A (1) (d) inséré en 1995 ; création et gestion d'écoles primaires et choix de la langue d'enseignement, paragraphe 6 (1).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  fiscalite: {valeur: "partiel", note: "Fonds de district propre, paragraphe 7 ; perception de l'impôt foncier et de taxes sur les terres et bâtiments, les professions, les animaux, les véhicules et les marchés, paragraphe 8 ; réglementation des prêts d'argent et du commerce des non-tribaux, paragraphe 10, Sixième annexe.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Compétence législative sur l'héritage, le mariage, le divorce et les coutumes sociales, Sixième annexe, paragraphe 3 (1) (h) à (j).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le conseil de trente membres, dont vingt-six élus, a été renouvelé en juin 2022 ; l'accord de 2021 prévoit un complément de ressources et une dévolution de pouvoirs dont la mise en œuvre n'a pas été vérifiée.", source: "https://www.deccanherald.com/india/bjp-wins-karbi-anglong-autonomous-council-polls-in-assam-1117695.html"}
+chronologie:
+  - {annee: 1952, evenement: "Création du conseil de district des Mikir Hills le 23 juin."}
+  - {annee: 1976, evenement: "Le district prend le nom de Karbi Anglong."}
+  - {annee: 1995, evenement: "Paragraphe 3A : quinze domaines législatifs supplémentaires."}
+  - {annee: 2015, evenement: "Division en deux districts administratifs, sous le même conseil."}
+  - {annee: 2021, evenement: "Accord de Karbi Anglong le 4 septembre."}
+fiabilite:
+  verifie: ["Texte des paragraphes 2, 3, 3A, 4, 6 à 10 et 12 de la Sixième annexe (édition officielle de la Constitution, 2024).", "Date de création du conseil et composition (rapport de la CAG, 2017-2018).", "Superficie du territoire (site du conseil).", "Contenu général de l'accord de 2021 (communiqué du gouvernement indien)."]
+  non_confirme: ["Fonctionnement effectif des tribunaux de village prévus au paragraphe 4.", "Population karbi proprement dite : le chiffre donné est celui du district, toutes communautés.", "Le karbi comme langue officielle au niveau du conseil : non vérifié."]
+sources:
+  - {titre: "Constitution de l'Inde (édition au 1er mai 2024) — Ministère du Droit et de la Justice", url: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+  - {titre: "Karbi Anglong Autonomous Council — présentation", url: "https://karbianglong.gov.in/about-us/about-kaac-secratariat"}
+  - {titre: "Rapport de la CAG sur le KAAC, 2017-2018, chapitre I", url: "https://cag.gov.in/uploads/download_audit_report/2018/Chapter-I---KAAC-Report-2017-18_17-12-2023-068aeda426ba543.44492497.pdf"}
+  - {titre: "Profil du district de Karbi Anglong — Krishi Vigyan Kendra (Assam Agricultural University)", url: "https://kvkdiphu.aau.ac.in/public/dp"}
+  - {titre: "Karbi Agreement — Press Information Bureau (2021)", url: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1752066&reg=48&lang=2"}
+  - {titre: "Deccan Herald, élection du conseil (juin 2022)", url: "https://www.deccanherald.com/india/bjp-wins-karbi-anglong-autonomous-council-polls-in-assam-1117695.html"}

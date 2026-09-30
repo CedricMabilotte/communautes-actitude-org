@@ -1,0 +1,53 @@
+uid: "cheran-mexique"
+nom: "Purépecha de Cherán"
+endonyme: ""
+territoire: "Commune de Cherán (San Francisco Cherán), État du Michoacán"
+etats: ["Mexique"]
+region: "ameriques"
+coord: [19.7, -102.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 20586, annee: 2020, perimetre: "population de la commune de Cherán (recensement INEGI 2020), localité de Tanaco comprise", source: "https://gaia.inegi.org.mx/wscatgeo/v2/mgem/16/024"}
+lieux: {valeur: 6, unite: "localités de la commune (INEGI)", annee: 2020, source: "https://gaia.inegi.org.mx/wscatgeo/v2/localidades/16/024"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Cherán est une commune purépecha du Michoacán. Le 15 avril 2011, des habitantes affrontent des exploitants forestiers illégaux ; la communauté cesse de reconnaître le gouvernement municipal et exclut les partis politiques. Le 2 novembre 2011, le Tribunal électoral fédéral reconnaît son droit d'élire ses autorités selon ses usages et coutumes. Depuis janvier 2012, la commune est gouvernée par un Grand Conseil de gouvernement communal (Concejo Mayor de Gobierno Comunal).
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Le Mexique ratifie la Convention 169 de l'OIT le 5 septembre 1990.", annee: 1990, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "Le Mexique vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Constitution politique des États-Unis mexicains, art. 2 (réformé le 30 septembre 2024)", nature: "constitution", annee: 2024, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  - {instrument: "Tribunal électoral du pouvoir judiciaire de la Fédération, SUP-JDC-9167/2011", nature: "jurisprudence", annee: 2011, source: "https://www.te.gob.mx/sentenciasHTML/convertir/expediente/SUP-JDC-9167-2011"}
+  - {instrument: "Cour suprême de justice de la Nation, controverse constitutionnelle 32/2012", nature: "jurisprudence", annee: 2014, source: "https://www.scjn.gob.mx/derechos-humanos/sites/default/files/sentencias-emblematicas/resumen/2022-06/Resumen%20CC32-2012%20DGDH.pdf"}
+  - {instrument: "Loi générale des droits linguistiques des peuples indigènes, art. 4", nature: "loi", annee: 2003, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le Tribunal électoral fédéral (SUP-JDC-9167/2011) reconnaît le droit d'élire les autorités selon les normes propres ; la Constitution (art. 2 A III) garantit ce droit ; la Cour suprême reconnaît en 2014 au Grand Conseil le rang d'un conseil municipal.", source: "https://www.te.gob.mx/sentenciasHTML/convertir/expediente/SUP-JDC-9167-2011"}
+  pouvoir_normatif: {valeur: "partiel", note: "La Constitution (art. 2 A I et II, réforme de 2024) reconnaît l'application de systèmes normatifs propres, dans le respect de la Constitution et des droits humains.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  justice_propre: {valeur: "partiel", note: "La Constitution (art. 2 A II) reconnaît une juridiction indigène exercée par les autorités communautaires, avec validation par les juges selon la loi.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "La Constitution (art. 2 A IX) accorde l'usage préférentiel des ressources naturelles des lieux habités, sauf les domaines stratégiques et les droits acquis par des tiers.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 2 A XIII, 2024) impose une consultation visant le consentement ou l'accord ; la Cour suprême (CC 32/2012, 29 mai 2014) annule une réforme constitutionnelle du Michoacán adoptée sans consulter Cherán.", source: "https://www.scjn.gob.mx/derechos-humanos/sites/default/files/sentencias-emblematicas/resumen/2022-06/Resumen%20CC32-2012%20DGDH.pdf"}
+  langue: {valeur: "partiel", note: "La loi générale des droits linguistiques (art. 4) fait des langues indigènes des langues nationales ayant la même validité que l'espagnol.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"}
+  education: {valeur: "partiel", note: "La Constitution (art. 2 A VI) prévoit la participation des peuples à la construction des modèles éducatifs.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  fiscalite: {valeur: "partiel", note: "La Constitution (art. 2 B II, 2024) prévoit des dotations budgétaires administrées directement par les peuples et communautés.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Grand Conseil élu en janvier 2012 selon les usages et coutumes est validé par l'Institut électoral du Michoacán ; la Cour suprême tranche en sa faveur en 2014 (résumé officiel de la CC 32/2012).", source: "https://www.scjn.gob.mx/derechos-humanos/sites/default/files/sentencias-emblematicas/resumen/2022-06/Resumen%20CC32-2012%20DGDH.pdf"}
+chronologie:
+  - {annee: 2011, evenement: "Soulèvement du 15 avril contre les exploitants forestiers ; décision SUP-JDC-9167/2011 du Tribunal électoral fédéral (2 novembre)."}
+  - {annee: 2012, evenement: "Élection du Grand Conseil de gouvernement communal selon les usages et coutumes (22 janvier)."}
+  - {annee: 2014, evenement: "La Cour suprême juge que le Michoacán devait consulter Cherán avant sa réforme constitutionnelle (29 mai)."}
+  - {annee: 2024, evenement: "Réforme de l'article 2 de la Constitution fédérale : les peuples indigènes deviennent sujets de droit public."}
+fiabilite:
+  verifie: ["Dispositif de la décision SUP-JDC-9167/2011.", "Résumé officiel de la controverse constitutionnelle 32/2012.", "Texte de l'article 2 de la Constitution après la réforme de 2024.", "Article 4 de la loi générale des droits linguistiques."]
+  non_confirme: ["Régime foncier de Cherán (biens communaux au titre du droit agraire).", "Population de la commune au recensement de 2020.", "Montant et modalités du budget communal géré par le Grand Conseil."]
+sources:
+  - {titre: "SUP-JDC-9167/2011 — Tribunal électoral du pouvoir judiciaire de la Fédération", url: "https://www.te.gob.mx/sentenciasHTML/convertir/expediente/SUP-JDC-9167-2011"}
+  - {titre: "Résumé de la controverse constitutionnelle 32/2012 — Cour suprême de justice de la Nation", url: "https://www.scjn.gob.mx/derechos-humanos/sites/default/files/sentencias-emblematicas/resumen/2022-06/Resumen%20CC32-2012%20DGDH.pdf"}
+  - {titre: "Constitution politique des États-Unis mexicains — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  - {titre: "Loi générale des droits linguistiques des peuples indigènes — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"}
+  - {titre: "Aragón Andrade, « Las revoluciones de los derechos indígenas en Michoacán. Una lectura desde la lucha de Cherán », Alteridades, 2018", url: "https://www.redalyc.org/journal/747/74759716003/"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

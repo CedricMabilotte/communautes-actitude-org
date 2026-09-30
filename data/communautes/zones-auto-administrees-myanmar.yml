@@ -1,0 +1,43 @@
+uid: "zones-auto-administrees-myanmar"
+nom: "Zones auto-administrées du Myanmar (Naga, Danu, Pa-O, Pa Laung, Kokang, Wa)"
+endonyme: ""
+territoire: "Cinq zones auto-administrées (Naga dans la région de Sagaing ; Danu, Pa-O, Pa Laung et Kokang dans l'État shan) et division auto-administrée wa (État shan)"
+etats: ["Myanmar"]
+region: "asie"
+coord: [22.0, 97.8]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 18, unite: "townships regroupés dans six unités auto-administrées", annee: 2008, source: "https://www.constituteproject.org/constitution/Myanmar_2008"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution du Myanmar de 2008 crée cinq zones auto-administrées (Naga, Danu, Pa-O, Pa Laung, Kokang) et une division auto-administrée (Wa), chacune nommée d'après un groupe national (« national race »). Chaque unité est dirigée par un organe dirigeant (Leading Body) d'au moins dix membres, composé des élus de ses townships à l'assemblée de l'État ou de la région, de militaires désignés par le commandant en chef et de membres cooptés. L'organe dirigeant légifère sur une liste de matières locales (annexe 3) et prépare un budget à faire approuver par le gouvernement de l'État ou de la région. Depuis le coup d'État de 2021, plusieurs de ces territoires sont administrés de fait par des groupes armés. Fiche agrégée des six unités.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République de l'Union du Myanmar, art. 56, 196, 275 et 276, annexe 3", nature: "constitution", annee: 2008, source: "https://www.constituteproject.org/constitution/Myanmar_2008"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Organe dirigeant de chaque zone ou division, formé des élus de ses townships et de représentants des forces armées désignés par le commandant en chef ; son président est nommé par le président de l'Union sur proposition, Constitution de 2008, art. 275 et 276.", source: "https://www.constituteproject.org/constitution/Myanmar_2008"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'organe dirigeant légifère sur les matières de l'annexe 3 (projets urbains et ruraux, routes et ponts, santé publique, pâturages, forêts, eau et électricité des villes et villages, marchés), Constitution de 2008, art. 196 ; ses lois cèdent devant celles de l'Union et de l'État ou de la région.", source: "https://www.constituteproject.org/constitution/Myanmar_2008"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Entretien des pâturages et conservation des forêts parmi les matières de l'annexe 3 confiées à l'organe dirigeant, Constitution de 2008, art. 196.", source: "https://www.constituteproject.org/constitution/Myanmar_2008"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "L'organe dirigeant établit un budget annuel à coordonner pour approbation avec le gouvernement de l'État ou de la région et dépense les fonds qui lui sont alloués, Constitution de 2008, partie consacrée aux organes dirigeants des zones auto-administrées.", source: "https://www.constituteproject.org/constitution/Myanmar_2008"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Crisis Group (briefing n° 180, 30 mai 2024) relève que Laukkai, chef-lieu de la zone kokang, est tombée le 5 janvier 2024 aux mains de l'armée de l'Alliance démocratique nationale du Myanmar (MNDAA), qui suit le modèle de l'Armée unie de l'État wa (UWSA), laquelle administre son territoire presque sans lien avec Naypyidaw.", source: "https://www.crisisgroup.org/sites/default/files/2024-05/b180-myanmar-ethnic-autonomy.pdf"}
+chronologie:
+  - {annee: 2008, evenement: "La Constitution crée cinq zones et une division auto-administrées."}
+  - {annee: 2021, evenement: "Coup d'État militaire du 1er février."}
+  - {annee: 2024, evenement: "Chute de Laukkai, chef-lieu de la zone kokang, aux mains de la MNDAA (5 janvier)."}
+fiabilite:
+  verifie: ["Art. 56 (composition territoriale), 196, 275 et 276 et annexe 3 de la Constitution de 2008 (Constitute Project).", "Situation de la zone kokang et de la division wa en 2024 (Crisis Group, briefing n° 180)."]
+  non_confirme: ["Population des six unités : chiffres du recensement de 2014 non consultés sur une source officielle.", "Surface des six unités : non trouvée.", "Statut juridique des organes dirigeants depuis l'état d'urgence de 2021 : non établi.", "Retour de Laukkai sous contrôle de l'armée en 2025 : signalé par la presse, non vérifié."]
+sources:
+  - {titre: "Constitution du Myanmar de 2008 — Constitute Project", url: "https://www.constituteproject.org/constitution/Myanmar_2008"}
+  - {titre: "Crisis Group, Asia Briefing n° 180, Ethnic Autonomy and its Consequences in Post-coup Myanmar (30 mai 2024)", url: "https://www.crisisgroup.org/sites/default/files/2024-05/b180-myanmar-ethnic-autonomy.pdf"}

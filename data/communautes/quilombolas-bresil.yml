@@ -1,0 +1,49 @@
+uid: "quilombolas-bresil"
+nom: "Quilombolas"
+endonyme: "Quilombolas"
+territoire: "Territoires quilombolas (communautés rémanentes de quilombos), principalement dans le Nordeste"
+etats: ["Brésil"]
+region: "ameriques"
+coord: [-8.0, -43.0]
+type: "communaute_afrodescendante"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1327802, annee: 2022, perimetre: "personnes se déclarant quilombolas au Brésil (recensement IBGE)", source: "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"}
+lieux: {valeur: 494, unite: "territoires quilombolas officiellement délimités", annee: 2022, source: "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le décret 4.887 de 2003 définit les communautés rémanentes de quilombos comme des groupes ethno-raciaux auto-identifiés, dotés d'une trajectoire historique propre et d'une ascendance noire liée à la résistance à l'oppression. L'article 68 des dispositions transitoires de la Constitution de 1988 leur reconnaît la propriété définitive des terres qu'ils occupent. Le même décret organise l'identification et le titre collectif. Le recensement de 2022 compte 1 327 802 quilombolas, dont 12,6 % vivent dans les 494 territoires officiellement délimités.
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Visite au Brésil de la Rapporteuse spéciale sur les formes contemporaines de racisme ; elle demande d'accélérer la démarcation des terres quilombolas et d'appliquer le consentement préalable.", annee: 2024, source: "https://www.ohchr.org/sites/default/files/documents/issues/racism/sr/statements/20240816-eom-stm-brazil-sr-racism.pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République fédérative du Brésil (1988), dispositions transitoires (ADCT), art. 68", nature: "constitution", annee: 1988, source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+  - {instrument: "Décret 4.887 du 20 novembre 2003 sur l'identification et le titre des terres quilombolas", nature: "loi", annee: 2003, source: "https://www.planalto.gov.br/ccivil_03/decreto/2003/d4887.htm"}
+  - {instrument: "Tribunal fédéral suprême, ADI 3239 (constitutionnalité du décret 4.887)", nature: "jurisprudence", annee: 2018, source: "https://www.gov.br/mdh/pt-br/noticias_seppir/noticias/2018/02-fevereiro-1/vitoria-no-julgamento-da-adi-3239-se-torna-uma-referencia-historica-dos-direitos-quilombolas-1"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le décret 4.887 de 2003 (art. 17, paragraphe unique) prévoit que les communautés sont représentées par leurs associations légalement constituées ; il ne crée pas d'institution publique propre.", source: "https://www.planalto.gov.br/ccivil_03/decreto/2003/d4887.htm"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "L'article 68 de l'ADCT (1988) reconnaît la propriété définitive ; le décret 4.887 de 2003 (art. 17) prévoit un titre collectif inaliénable, imprescriptible et insaisissable, jugé constitutionnel par le Tribunal fédéral suprême en 2018.", source: "https://www.planalto.gov.br/ccivil_03/decreto/2003/d4887.htm"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Seuls 12,6 % des quilombolas vivent dans un territoire officiellement délimité (IBGE, 2022) ; la Rapporteuse spéciale note en 2024 qu'au rythme actuel la démarcation prendrait des centaines d'années.", source: "https://www.ohchr.org/sites/default/files/documents/issues/racism/sr/statements/20240816-eom-stm-brazil-sr-racism.pdf"}
+chronologie:
+  - {annee: 1988, evenement: "L'article 68 de l'ADCT reconnaît la propriété des terres occupées par les communautés quilombolas."}
+  - {annee: 2003, evenement: "Le décret 4.887 organise la procédure de titre collectif."}
+  - {annee: 2018, evenement: "Le Tribunal fédéral suprême rejette l'action ADI 3239 contre le décret 4.887 (8 février)."}
+  - {annee: 2022, evenement: "Le recensement de l'IBGE inclut la population quilombola."}
+fiabilite:
+  verifie: ["Texte de l'article 68 de l'ADCT.", "Articles 2 et 17 du décret 4.887 de 2003.", "Chiffres du recensement de 2022 (IBGE)."]
+  non_confirme: ["Application de la Convention 169 de l'OIT aux quilombolas par un texte national (non trouvée dans les sources ouvertes).", "Nombre de titres délivrés à ce jour.", "Normes nationales sur l'éducation scolaire quilombola (source officielle non accessible)."]
+sources:
+  - {titre: "Constitution fédérale de 1988 — Planalto", url: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+  - {titre: "Décret 4.887 de 2003 — Planalto", url: "https://www.planalto.gov.br/ccivil_03/decreto/2003/d4887.htm"}
+  - {titre: "Jugement de l'ADI 3239 — ministère des Droits humains", url: "https://www.gov.br/mdh/pt-br/noticias_seppir/noticias/2018/02-fevereiro-1/vitoria-no-julgamento-da-adi-3239-se-torna-uma-referencia-historica-dos-direitos-quilombolas-1"}
+  - {titre: "Quilombolas — IBGE Educa", url: "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"}
+  - {titre: "Déclaration de fin de mission de la Rapporteuse spéciale sur le racisme au Brésil (2024) — HCDH", url: "https://www.ohchr.org/sites/default/files/documents/issues/racism/sr/statements/20240816-eom-stm-brazil-sr-racism.pdf"}

@@ -1,0 +1,48 @@
+uid: "zhuang-guangxi"
+nom: "Zhuang du Guangxi"
+endonyme: "Bouxcuengh"
+territoire: "Région autonome zhuang du Guangxi"
+etats: ["Chine"]
+region: "asie"
+coord: [23.8, 108.8]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 15721956, annee: 2020, perimetre: "Zhuang résidant dans la région, septième recensement (31,36 % de la population)", source: "https://gxxwfb.gxnews.com.cn/staticpages/20210513/newgx609c9bb5-20258801.shtml"}
+lieux: {valeur: 14, unite: "villes de niveau préfecture", annee: 2019, source: "https://fdi.mofcom.gov.cn/resource/pdf/2019/12/28/b57e5e001fc343f78c0ebe1e5af0e236.pdf"}
+surface_km2: {valeur: 237600, annee: 2019, perimetre: "superficie terrestre de la région (hors 40 000 km² d'eaux du golfe du Tonkin)", source: "https://fdi.mofcom.gov.cn/resource/pdf/2019/12/28/b57e5e001fc343f78c0ebe1e5af0e236.pdf"}
+resume: >-
+  Les Zhuang sont l'une des nationalités minoritaires reconnues par la Chine. La Région autonome zhuang du Guangxi, créée en 1958, relève du système d'autonomie régionale des nationalités prévu par la Constitution (art. 4 et 112 à 122) et par la loi de 1984 modifiée en 2001. Le droit prévoit des organes d'autogouvernement, un pouvoir de réglementation soumis à l'approbation du Comité permanent de l'Assemblée populaire nationale et l'usage des langues locales. Le Guangxi a rédigé vingt projets de règlement d'autonomie de 1958 à 1993 ; aucun n'a été approuvé.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République populaire de Chine, art. 4 et 112 à 122", nature: "constitution", annee: 1982, source: "https://www.constituteproject.org/constitution/China_2018"}
+  - {instrument: "Loi sur l'autonomie régionale des nationalités (1984, modifiée en 2001)", nature: "loi", annee: 2001, source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Organes d'autogouvernement (assemblée populaire et gouvernement de la région) ; le président de la région est un citoyen de la nationalité qui exerce l'autonomie (zhuang), Constitution, art. 112 et 114 ; loi sur l'autonomie régionale, art. 16 et 17 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  pouvoir_normatif: {valeur: "conteste", note: "L'assemblée peut adopter des règlements d'autonomie soumis à l'approbation du Comité permanent de l'Assemblée populaire nationale, loi sur l'autonomie régionale, art. 19 ; le projet de 1958 a été interrompu par les campagnes politiques ; ceux de 1987 et 1991, soumis au pouvoir central, ont été bloqués au stade de la consultation des ministères (Yang Feng, 2017).", source: "http://manoa.hawaii.edu/aplpj/wp-content/uploads/sites/120/2017/06/2017-0531-APLPJ-Volume-18.2-3-Feng-compressed.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les organes d'autogouvernement définissent, conformément à la loi, la propriété et le droit d'usage des pâturages et des forêts, loi sur l'autonomie régionale, art. 27 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  ressources: {valeur: "partiel", note: "Gestion et protection des ressources naturelles et priorité d'exploitation dans le cadre des plans de l'État, loi sur l'autonomie régionale, art. 28 ; compensation due par l'État pour les ressources transférées hors de la région, art. 65 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Les tribunaux et parquets des zones autonomes utilisent la langue d'usage courant dans la localité, loi sur l'autonomie régionale, art. 47 ; usage des langues locales par les organes d'autogouvernement, Constitution, art. 121.", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  education: {valeur: "partiel", note: "Les organes d'autogouvernement décident, selon les orientations de l'État, des programmes, des écoles et de la langue d'enseignement, loi sur l'autonomie régionale, art. 36 et 37 (2001).", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  fiscalite: {valeur: "partiel", note: "Les finances de la zone autonome forment un niveau propre ; les recettes qui lui reviennent sont gérées par les organes d'autogouvernement, loi sur l'autonomie régionale, art. 32 (2001) ; Constitution, art. 117.", source: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune évaluation onusienne ou indépendante de l'application de l'autonomie au Guangxi n'a été consultée ; l'absence de règlement d'autonomie est documentée par Yang Feng (2017).", source: "http://manoa.hawaii.edu/aplpj/wp-content/uploads/sites/120/2017/06/2017-0531-APLPJ-Volume-18.2-3-Feng-compressed.pdf"}
+chronologie:
+  - {annee: 1958, evenement: "Création de la région autonome ; premier projet de règlement d'autonomie adopté par l'assemblée du Guangxi."}
+  - {annee: 1982, evenement: "La Constitution consacre l'autonomie régionale des nationalités."}
+  - {annee: 1991, evenement: "Dix-huitième projet de règlement d'autonomie, soumis puis rejeté."}
+  - {annee: 2001, evenement: "Révision de la loi sur l'autonomie régionale."}
+fiabilite:
+  verifie: ["Articles 16, 17, 19, 27, 28, 32, 36, 37, 47 et 65 de la loi sur l'autonomie régionale, version de 2001 (Wikisource).", "Historique des projets de règlement d'autonomie du Guangxi (Yang Feng, 2017).", "Population au septième recensement (communiqué du bureau statistique du Guangxi, reproduit par gxnews) et superficie (fiche du ministère du Commerce)."]
+  non_confirme: ["Aucune observation d'organe de traité nommant les Zhuang n'a été trouvée.", "Statut officiel de l'écriture zhuang et enseignement bilingue : non vérifiés.", "La fiche couvre la région ; les Zhuang du Yunnan (préfecture autonome de Wenshan) ne sont pas traités."]
+sources:
+  - {titre: "Constitution de la République populaire de Chine — Constitute Project", url: "https://www.constituteproject.org/constitution/China_2018"}
+  - {titre: "Loi sur l'autonomie régionale des nationalités (2001) — Wikisource", url: "https://en.wikisource.org/wiki/Law_of_the_People's_Republic_of_China_on_Regional_National_Autonomy_(2001)"}
+  - {titre: "Yang Feng, The Legislation in Autonomous Areas of China, Asian-Pacific Law & Policy Journal, vol. 18 (2017)", url: "http://manoa.hawaii.edu/aplpj/wp-content/uploads/sites/120/2017/06/2017-0531-APLPJ-Volume-18.2-3-Feng-compressed.pdf"}
+  - {titre: "Communiqué du septième recensement du Guangxi — gxnews (13 mai 2021)", url: "https://gxxwfb.gxnews.com.cn/staticpages/20210513/newgx609c9bb5-20258801.shtml"}
+  - {titre: "广西概况 — ministère du Commerce (2019)", url: "https://fdi.mofcom.gov.cn/resource/pdf/2019/12/28/b57e5e001fc343f78c0ebe1e5af0e236.pdf"}

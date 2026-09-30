@@ -1,0 +1,43 @@
+uid: "galiciens-galice"
+nom: "Galiciens"
+endonyme: "Galegos / Pobo galego"
+territoire: "Communauté autonome de Galice (provinces d'A Coruña, Lugo, Ourense et Pontevedra)"
+etats: ["Espagne"]
+region: "europe"
+coord: [42.8, -7.9]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2714741, annee: 2025, perimetre: "population de la Communauté autonome", source: "https://www.ige.gal/igebdt/datos-basicos/?idioma=es"}
+lieux: {valeur: 4, unite: "provinces", annee: 1981, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+surface_km2: {valeur: 29577, annee: 2025, perimetre: "Communauté autonome (29 576,74 km²)", source: "https://www.ige.gal/igebdt/datos-basicos/?idioma=es"}
+resume: >-
+  Le Statut d'autonomie de 1981 (loi organique 1/1981) constitue la Galice, « nationalité historique », en Communauté autonome ; ses institutions défendent l'identité de la Galice et l'intérêt du « peuple galicien ». Le Parlement de Galice vote les lois ; la Communauté a la compétence exclusive sur le droit civil galicien et sur le régime juridique des montes vecinales en mano común (terres boisées et pastorales possédées en commun par les voisins d'un lieu). Le galicien est langue propre et co-officielle avec le castillan.
+reconnaissance_regionale:
+  - {mecanisme: "charte_langues_regionales", detail: "La Charte européenne des langues régionales ou minoritaires couvre le galicien en Galice ; rapport du Comité d'experts publié le 24 septembre 2024.", annee: 2024, source: "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/-/spain-s-system-to-protect-regional-and-minority-languages-is-well-developed-but-gaps-persist-in-justice-healthcare-and-public-administration-1"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Statut d'autonomie de la Galice (loi organique 1/1981 du 6 avril)", nature: "statut_autonomie", annee: 1981, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Parlement, Xunta (gouvernement) et président propres, Statut, art. 9 et 10.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le Parlement exerce le pouvoir législatif, Statut, art. 10 ; compétence exclusive pour conserver, modifier et développer le droit civil galicien, art. 27, n° 4.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+  justice_propre: {valeur: "partiel", note: "Le Tribunal supérieur de justice de Galice, juridiction de l'État, est l'organe où culmine l'organisation judiciaire en Galice, Statut, art. 21 ; il juge en cassation les affaires de droit civil galicien, art. 22.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+  terres: {valeur: "partiel", note: "Compétence exclusive sur le régime juridique des montes vecinales en mano común et sur les montes, pâturages et voies de transhumance, Statut, art. 27, n° 10 et 11 ; organisation des paroisses rurales comme entités locales propres, art. 27, n° 2.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+  ressources: {valeur: "partiel", note: "Compétence exclusive sur les aménagements hydrauliques, canaux et irrigations lorsque les eaux coulent entièrement en Galice, Statut, art. 27, n° 12.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+  consentement: {valeur: "reconnu", note: "Toute réforme du Statut exige l'approbation du Parlement de Galice à la majorité des deux tiers et un référendum positif des électeurs, Statut, art. 56.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+  langue: {valeur: "reconnu", note: "Le galicien est la langue propre de la Galice ; galicien et castillan sont officiels, Statut, art. 5.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+  education: {valeur: "reconnu", note: "La Communauté a la compétence pleine sur la régulation et l'administration de l'enseignement, sous réserve des règles de base de l'État, Statut, art. 31.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+  fiscalite: {valeur: "partiel", note: "Les finances de la Communauté comprennent ses impôts propres, les impôts cédés par l'État et une part des recettes fiscales de l'État, Statut, art. 44.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "La condition politique de Galicien est attribuée aux citoyens espagnols ayant leur domicile administratif dans une commune de Galice et aux résidents à l'étranger dont c'était le dernier domicile, Statut, art. 3.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Comité d'experts de la Charte constate en 2024 un système de protection des langues régionales développé en Espagne, avec des lacunes dans la justice, la santé et l'administration de l'État.", source: "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/-/spain-s-system-to-protect-regional-and-minority-languages-is-well-developed-but-gaps-persist-in-justice-healthcare-and-public-administration-1"}
+chronologie:
+  - {annee: 1981, evenement: "Loi organique 1/1981 portant Statut d'autonomie de la Galice ; entrée en vigueur le 18 mai."}
+fiabilite:
+  verifie: ["Statut de 1981, art. 1, 2, 3, 5, 10, 21, 22, 27, 31, 44 et 56 (BOE, texte consolidé).", "Population et surface (Institut galicien de statistique, données de base).", "Rapport de la Charte publié le 24 septembre 2024."]
+  non_confirme: ["Loi galicienne 13/1989 sur les montes vecinales en mano común et nombre de communautés de voisins propriétaires : non consultés.", "Nombre de concellos (communes) non relevé sur source officielle."]
+sources:
+  - {titre: "Loi organique 1/1981, Statut d'autonomie de la Galice — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
+  - {titre: "Principales données de la Galice — Institut galicien de statistique (IGE)", url: "https://www.ige.gal/igebdt/datos-basicos/?idioma=es"}
+  - {titre: "Rapport sur l'Espagne, Charte européenne des langues régionales ou minoritaires — Conseil de l'Europe", url: "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/-/spain-s-system-to-protect-regional-and-minority-languages-is-well-developed-but-gaps-persist-in-justice-healthcare-and-public-administration-1"}

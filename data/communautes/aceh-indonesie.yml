@@ -1,0 +1,46 @@
+uid: "aceh-indonesie"
+nom: "Acehnais"
+endonyme: ""
+territoire: "Province d'Aceh"
+etats: ["Indonésie"]
+region: "asie"
+coord: [4.4, 96.9]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 5554820, annee: 2024, perimetre: "population de la province d'Aceh (BPS)", source: "https://aceh.antaranews.com/berita/375406/jumlah-penduduk-aceh-2024-capai-555-juta-jiwa-populasi-terpadat-di-banda-aceh"}
+lieux: {valeur: 23, unite: "kabupaten et kota (districts et villes)", annee: 2024, source: "https://data.acehprov.go.id/dataset/luas-daerah-dan-jumlah-pulau-menurut-kabupaten-kota-di-provinsi-aceh"}
+surface_km2: {valeur: 56839, annee: 2024, perimetre: "somme des superficies des 23 kabupaten et kota (BPS Aceh)", source: "https://data.acehprov.go.id/dataset/luas-daerah-dan-jumlah-pulau-menurut-kabupaten-kota-di-provinsi-aceh"}
+resume: >-
+  Aceh est une province de l'extrémité nord de Sumatra. Le mémorandum d'entente signé à Helsinki le 15 août 2005 entre le gouvernement indonésien et le Mouvement pour un Aceh libre (GAM) met fin au conflit armé. La loi 11/2006 sur le gouvernement d'Aceh (UUPA) donne à la province un parlement qui adopte des qanun (lois locales), des partis politiques locaux, des tribunaux islamiques et une part accrue des recettes pétrolières et gazières. Le texte vise « la population d'Aceh » et reconnaît une direction coutumière, le Wali Nanggroe.
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité des droits de l'homme, CCPR/C/IDN/CO/2, § 10 et 26 : victimes identifiées par la Commission vérité et réconciliation d'Aceh, peines de flagellation prévues par la loi spéciale sur l'autonomie d'Aceh", annee: 2024, source: "https://docs.un.org/fr/CCPR/C/IDN/CO/2"}
+base_nationale:
+  - {instrument: "Mémorandum d'entente entre le gouvernement de la République d'Indonésie et le Mouvement pour un Aceh libre (Helsinki)", nature: "accord_paix", annee: 2005, source: "http://acehpeaceprocess.net/pdf/mou_final.pdf"}
+  - {instrument: "Loi n° 11 de 2006 sur le gouvernement d'Aceh (Undang-Undang Nomor 11 Tahun 2006 tentang Pemerintahan Aceh)", nature: "statut_autonomie", annee: 2006, source: "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/11TAHUN2006UU.htm"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Gouvernement et parlement d'Aceh (DPRA) compétents dans tous les secteurs publics sauf ceux réservés à l'État, loi 11/2006, art. 7 et 23 ; partis politiques locaux autorisés, art. 75.", source: "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/11TAHUN2006UU.htm"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le DPRA adopte avec le gouverneur les qanun d'Aceh, loi 11/2006, art. 23 (1) (a) ; la charia (droit islamique) en matière familiale, civile et pénale est mise en œuvre par qanun, art. 125.", source: "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/11TAHUN2006UU.htm"}
+  justice_propre: {valeur: "reconnu", note: "Tribunaux islamiques (Mahkamah Syar'iyah) compétents pour les musulmans d'Aceh en droit de la famille, droit civil et droit pénal, loi 11/2006, art. 128 ; règlement coutumier des différends par les institutions adat (coutumières), art. 98.", source: "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/11TAHUN2006UU.htm"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Gestion conjointe du pétrole et du gaz par l'État et Aceh, contrats soumis à l'accord des deux, loi 11/2006, art. 160 ; 80 % des recettes forestières, halieutiques et minières générales, et part additionnelle de 55 % (pétrole) et 40 % (gaz), art. 181.", source: "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/11TAHUN2006UU.htm"}
+  consentement: {valeur: "partiel", note: "Les accords internationaux et les lois nationales qui concernent directement Aceh sont préparés « avec la consultation et l'avis » du DPRA, loi 11/2006, art. 8 ; le mémorandum de 2005 prévoyait son consentement (§ 1.1.2).", source: "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/11TAHUN2006UU.htm"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "L'éducation en Aceh fait partie du système national, adaptée aux caractéristiques locales, avec enseignement religieux (dayah) et langues régionales enseignées comme contenu local, loi 11/2006, art. 215 et 221 (4).", source: "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/11TAHUN2006UU.htm"}
+  fiscalite: {valeur: "reconnu", note: "Fonds d'autonomie spéciale égal à 2 % du fonds général national d'allocation pendant quinze ans puis 1 % jusqu'à la vingtième année, loi 11/2006, art. 183 ; parts de 90 % de la taxe foncière et de 80 % des droits de mutation, art. 181.", source: "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/11TAHUN2006UU.htm"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Tout musulman d'Aceh est tenu d'observer la charia, loi 11/2006, art. 126 ; le droit de la famille (ahwal al-syakhsiyah) relève des tribunaux islamiques, art. 128.", source: "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/11TAHUN2006UU.htm"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Conciliation Resources (Bernhard May, 2008) relève que la loi remplace le consentement prévu par le mémorandum par une simple consultation et élargit les compétences de l'État ; en 2024, le Comité des droits de l'homme note que les 5 195 victimes identifiées par la Commission vérité et réconciliation d'Aceh n'ont pas de recours utile.", source: "https://www.c-r.org/accord/aceh-indonesia/law-governing-aceh-way-forward-or-source-conflicts"}
+chronologie:
+  - {annee: 2005, evenement: "Mémorandum d'entente d'Helsinki signé le 15 août ; mission de surveillance de l'Union européenne et de pays de l'ASEAN."}
+  - {annee: 2006, evenement: "Loi 11/2006 sur le gouvernement d'Aceh."}
+  - {annee: 2024, evenement: "Observations du Comité des droits de l'homme sur les victimes du conflit et les peines de flagellation."}
+fiabilite:
+  verifie: ["Articles 7, 8, 23, 75, 96, 98, 125, 126, 128, 160, 181, 183, 215 et 221 de la loi 11/2006 (texte indonésien, JDIH du ministère des Finances).", "Paragraphes 1.1.2, 1.3.4 et 5.1 du mémorandum d'Helsinki (texte anglais).", "CCPR/C/IDN/CO/2 (2024)."]
+  non_confirme: ["Prolongation du fonds d'autonomie spéciale au-delà de 2027 et révision de la loi 11/2006 en discussion : non vérifiées.", "La loi vise la population d'Aceh (penduduk Aceh) et non un groupe ethnique ; le rattachement au critère §0 repose sur l'histoire propre invoquée par la loi et sur la mention d'Aceh par le Comité des droits de l'homme.", "Population : pas de chiffre officiel consulté."]
+sources:
+  - {titre: "Loi 11/2006 sur le gouvernement d'Aceh — JDIH Kemenkeu", url: "https://jdih.kemenkeu.go.id/api/download/fulltext/2006/11TAHUN2006UU.htm"}
+  - {titre: "Mémorandum d'entente d'Helsinki (2005) — acehpeaceprocess.net", url: "http://acehpeaceprocess.net/pdf/mou_final.pdf"}
+  - {titre: "Comité des droits de l'homme, CCPR/C/IDN/CO/2 (2024)", url: "https://docs.un.org/fr/CCPR/C/IDN/CO/2"}
+  - {titre: "Bernhard May, The Law on the Governing of Aceh: the way forward or a source of conflicts? — Conciliation Resources (2008)", url: "https://www.c-r.org/accord/aceh-indonesia/law-governing-aceh-way-forward-or-source-conflicts"}
