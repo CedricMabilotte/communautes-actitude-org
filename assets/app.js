@@ -29,7 +29,7 @@
   apply(false);
   // carte <-> liste
   function show(p,on){var r=rowByUid[p.dataset.uid];if(!r)return;r.classList.toggle("hl",on);p.classList.toggle("on",on);
-    if(on){var c=p.querySelector("circle:last-child"),svg=p.ownerSVGElement,bb=svg.getBoundingClientRect(),vb=svg.viewBox.baseVal,mb=map.getBoundingClientRect();
+    if(on){var c=p.querySelector("circle.c"),svg=p.ownerSVGElement,bb=svg.getBoundingClientRect(),vb=svg.viewBox.baseVal,mb=map.getBoundingClientRect();
       var x=(c.cx.baseVal.value/vb.width)*bb.width+bb.left-mb.left,y=(c.cy.baseVal.value/vb.height)*bb.height+bb.top-mb.top;
       var n=r.querySelector(".n").cloneNode(true),meta=r.querySelector(".meta").textContent;
       tip.innerHTML="";var b=document.createElement("b");b.textContent=n.childNodes[0].textContent;tip.appendChild(b);tip.appendChild(document.createElement("br"));tip.appendChild(document.createTextNode(meta.split(" · ")[0]+" · degré "+r.dataset.deg));

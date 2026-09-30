@@ -1,12 +1,27 @@
-# Charte visuelle — communautes.actitude.org
+# Charte visuelle — communautes.actitude.org (V01.2, 2026-10-01)
 
-Charte de la V01 (2026-09-30) : titres en Source Serif 4, fond papier de la famille actitude `#F5F2E9`. Une refonte est à l'étude (V01.1).
+Deux thèmes, deux lectures des mêmes données. Le thème suit le réglage du système ; le bouton « Clair / sombre » force l'un ou l'autre.
 
-- Tokens : `assets/style.css` (`:root`, sombre via `prefers-color-scheme` et `[data-theme]`).
-- Degré 0–5 : rampe sable → olive → vert forêt (clair `#EAE3D0 #D9C487 #AFA656 #6F914F #3D7049 #1C4A32`), toujours avec contour et chiffre.
-- États de droit : couleur doublée d'une forme (plein / demi / hachures / contour).
-- Motif signature : l'empreinte des 12 droits (barre de 12 cases, ordre fixe).
-- Polices auto-hébergées : Source Serif 4 (variable, opsz), IBM Plex Sans 400/500/600, IBM Plex Mono 400 ; sous-ensembles latin + latin-ext.
-- Carte : Equal Earth, Natural Earth 110 m, frontières en pointillé, aucune tuile externe.
-- Vignettes : 1200×630 et 1080×1350 (`scripts/social_cards.py`).
-- À éviter : Inter en titre, cartes arrondies à ombre, dégradés décoratifs, emoji, information portée par la seule couleur.
+## Clair — atlas Isotype sur fond blanc
+Références : Otto et Marie Neurath, Gerd Arntz (Isotype), Jacques Bertin (*Sémiologie graphique*), Philippe Rekacewicz.
+- Fond `#FFFFFF`, encre `#1B1D1F`, secondaire `#50555A`, filets `#D3D6D0`.
+- Quatre familles de droits, une couleur chacune : Institutions `#2656A6`, Territoire `#8F5E12`, Compétences `#B03A26`, Rapport à l'État `#1B1D1F`.
+- Empreinte : matrice 4 × 3 de pictogrammes d'objets du droit (hémicycle, stèle de loi, balance, champ, goutte, main levée, bulle, livre, pièce, siège, carte d'identité vide, urne). **Aucune figure humaine.** Plein = inscrit, moitié = partiel, hachures = remis en cause, contour pointillé = aucune source.
+- Degré : rampe de bleus `#F1F2EE → #1C3766`, toujours avec le chiffre.
+- Carte : un cercle de même taille par communauté (Dorling), chiffre du degré dedans, terres en aplat pâle, sans frontières d'États.
+- Typographie : Jost (titres, libellés), Libre Franklin (texte).
+
+## Sombre — encre de nuit
+Références : Forensic Architecture, Bertin (variable de valeur), cartographie nocturne.
+- Fond `#0D1321`, encre `#E9E5D9`, secondaire `#9CA2B2`, un seul accent : jaune sodium `#F2B544`.
+- Empreinte : cadran de 12 secteurs, le premier à midi, dans l'ordre du cadre ; secteur éclairé = inscrit, moitié = partiel, hachures ambre = remis en cause, pointillé = aucune source.
+- Accueil : grand cadran commenté (part des fiches où chaque droit est inscrit, partiel, remis en cause).
+- Degré : rampe de luminance, plus clair = plus autonome.
+- Carte : pas de terres dessinées, seulement le graticule ; un point par communauté, sa clarté dit le degré.
+- Typographie : Newsreader (texte, titres), Martian Mono (libellés, chiffres).
+
+## Règles communes
+- Aucune couleur n'est attribuée à un peuple : les couleurs désignent des familles de droits ou des degrés.
+- Une information n'est jamais portée par la seule couleur (forme, chiffre ou libellé l'accompagnent).
+- Polices auto-hébergées (licence OFL), aucune ressource tierce.
+- Vignettes de partage : style clair (1200 × 630 et 1080 × 1350).

@@ -7,6 +7,8 @@ import csv, datetime as dt, html, io, json, math, os, re, shutil, subprocess, sy
 from pathlib import Path
 from urllib.parse import quote
 import yaml
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import visuel as V
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "communautes"
@@ -210,15 +212,33 @@ def project(lat, lon):
 
 def land_svg_file():
     return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {MAP["W"]} {MAP["H"]}">'
-            f'<path d="{MAP["sphere"]}" fill="none" stroke="#CFC5AC" stroke-width="1"/>'
-            f'<path d="{MAP["land"]}" fill="#B9AE94" fill-opacity=".55"/></svg>')
+            f'<path d="{MAP["sphere"]}" fill="none" stroke="#D3D6D0" stroke-width="1"/>'
+            f'<path d="{MAP["land"]}" fill="#C4C8C1" fill-opacity=".6"/></svg>')
 
 # ---------------------------------------------------------------- gabarits
+LBLS = {k: l for k, l, _ in DROITS}
+COURTS = {"autogouvernement": "Institutions", "pouvoir_normatif": "Règles", "justice_propre": "Justice", "terres": "Terres",
+          "ressources": "Ressources", "consentement": "Consentement", "langue": "Langue", "education": "Éducation",
+          "fiscalite": "Impôt", "representation": "Sièges", "statut_personnel": "Statut", "autodetermination_externe": "Choisir son statut"}
+
+def vals_of(d):
+    return {k: d["droits"][k]["valeur"] for k in DKEYS}
+
 def fp(d, lg=False):
-    cells = "".join(f'<i class="v-{d["droits"][k]["valeur"]}" title="{e(lbl)} : {e(VALEURS[d["droits"][k]["valeur"]])}"></i>' for k, lbl, _ in DROITS)
-    n = sum(1 for k in DKEYS if d["droits"][k]["valeur"] == "reconnu")
-    p = sum(1 for k in DKEYS if d["droits"][k]["valeur"] == "partiel")
-    return f'<span class="fp{" fp-lg" if lg else ""}" role="img" aria-label="Empreinte des 12 droits : {n} inscrits dans un texte, {p} partiels">{cells}</span>'
+    v = vals_of(d)
+    n = list(v.values()).count("reconnu"); p = list(v.values()).count("partiel")
+    labels = {k: f"{LBLS[k]} : {VALEURS[v[k]]}" for k in DKEYS}
+    aria = f"Empreinte des 12 droits : {n} inscrits dans un texte, {p} partiels"
+    if lg:
+        return (f'<div class="bigfp" role="img" aria-label="{aria}"><span class="only-light">{V.matrix(v, labels, 40)}</span>'
+                f'<span class="only-dark">{V.fiche_dial(v, COURTS)}</span></div>')
+    return (f'<span class="fp" role="img" aria-label="{aria}"><span class="only-light">{V.matrix(v, labels, 15)}</span>'
+            f'<span class="only-dark">{V.dial(v, 40)}</span></span>')
+
+def legende_etats():
+    ex = [("reconnu", "Inscrit dans un texte"), ("partiel", "Partiel"), ("conteste", "Remis en cause"), ("non_etabli", "Aucune source trouvée")]
+    li = "".join(f'<span>{V.pic("terres", v, 16)}{e(t)}</span>' for v, t in ex)
+    return f'<div class="keyv" aria-hidden="true">{li}</div>'
 
 def dg(n, label=True):
     t = f'<span class="dg dg-{n}" aria-hidden="true">{n}</span>'
@@ -242,7 +262,7 @@ def page(path, title, desc, body, *, og_img="/assets/cards/_accueil.jpg", og_typ
 <link rel="canonical" href="{canon}">
 <meta name="author" content="Cedric Mabilotte">
 <meta name="copyright" content="Cedric Mabilotte">
-<meta name="theme-color" content="#F5F2E9">
+<meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#0D1321" media="(prefers-color-scheme: dark)">
 <meta property="og:site_name" content="Communautés reconnues">
 <meta property="og:locale" content="fr_FR">
 <meta property="og:type" content="{og_type}">
@@ -255,15 +275,16 @@ def page(path, title, desc, body, *, og_img="/assets/cards/_accueil.jpg", og_typ
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/atom+xml" title="Communautés reconnues — mises à jour" href="/flux.xml">
-<link rel="preload" href="/assets/fonts/source-serif-4-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/jost-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/style.css">
 <script>try{{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}}catch(_){{}}</script>
 {extra_head}{ld}
 </head>
 <body>
+{V.sprite()}
 <a class="skip" href="#contenu">Aller au contenu</a>
 <header class="top"><div class="wrap">
-<a class="brand" href="/">Communautés <b>reconnues</b><small>Atlas des autonomies</small></a>
+<a class="brand" href="/"><span class="mark" aria-hidden="true">{"<i></i>" * 12}</span><span>Communautés reconnues<small>Atlas des autonomies</small></span></a>
 <nav class="nav" aria-label="Principale">{nav}</nav>
 <button class="theme" type="button" data-theme-toggle aria-label="Changer de thème clair ou sombre">Clair / sombre</button>
 </div></header>
@@ -424,7 +445,7 @@ def fiche_html(d):
         r = d["droits"][k]
         src = f'<p class="src">{link(r["source"], "Source : " + domain(r["source"]))}</p>' if r.get("source") else ""
         note = f"<p>{e(r['note'])}</p>" if r.get("note") else f'<p class="muted">{e(q)}</p>'
-        items.append(f'<li id="d-{k}"><i class="v-{r["valeur"]}" aria-hidden="true"></i><div><h3>{e(lbl)}</h3><p class="val">{e(VALEURS[r["valeur"]])}</p>{note}{src}</div></li>')
+        items.append(f'<li id="d-{k}"><span class="ico"><span class="only-light">{V.pic(k, r["valeur"], 32)}</span><span class="only-dark">{V.dial(vals_of(d), 36, only=DKEYS.index(k))}</span></span><div><h3>{e(lbl)}</h3><p class="val">{e(VALEURS[r["valeur"]])}</p>{note}{src}</div></li>')
     reg = "".join(
         f'<li><span class="tag">Système régional</span><strong>{e(MECA_REG[r["mecanisme"]])}</strong>{" · " + str(r["annee"]) if r.get("annee") else ""}<br>{e(r.get("detail", ""))}'
         f'{" — " + link(r["source"], domain(r["source"])) if r.get("source") else ""}</li>'
@@ -472,7 +493,7 @@ def fiche_html(d):
 </header>
 
 <h2 id="droits">Les douze droits</h2>
-<div class="keyv" aria-hidden="true"><span><i class="v-reconnu"></i>Inscrit dans un texte</span><span><i class="v-partiel"></i>Partiel</span><span><i class="v-conteste"></i>Remis en cause</span><span><i class="v-non_etabli"></i>Aucune source trouvée</span></div>
+{legende_etats()}
 {fp(d, lg=True)}
 <ul class="grid12" style="margin-top:20px">{''.join(items)}</ul>
 
@@ -505,19 +526,33 @@ def fiche_html(d):
     desc = f'{d["nom"]} ({", ".join(d["etats"])}) : {DEGRES[d["degre"]][1].lower()}. Les douze droits, les textes, la reconnaissance à l\'ONU et ce qui s\'applique réellement.'
     return page(f'/c/{d["uid"]}/', d["titre"], desc, body, og_img=f'/assets/cards/{d["uid"]}.jpg', og_type="article", jsonld=jl, scripts=("/assets/share.js",))
 
+def howto(fiches):
+    n = len(fiches)
+    counts = {k: tuple(sum(1 for f in fiches if f["droits"][k]["valeur"] == v) for v in ("reconnu", "partiel", "conteste")) for k in DKEYS}
+    fams = []
+    for fk, nom, ks in V.FAM:
+        li = "".join(f'<li>{V.pic(k, "reconnu", 28)}<span>{e(COURTS[k])}<small>{counts[k][0]} inscrits · {counts[k][1]} partiels</small></span></li>' for k in ks)
+        fams.append(f'<div class="fam" style="--c:var(--f-{fk})"><h3>{e(nom)}</h3><ul>{li}</ul></div>')
+    light = f'<div class="howto only-light"><h2>Comment lire : chaque droit a son signe</h2><div class="fams">{"".join(fams)}</div></div>'
+    dark = f'<div class="only-dark">{V.big_dial(counts, n, COURTS)}</div>'
+    return light + dark
+
 def index_html(fiches):
     etats = sorted({s for f in fiches for s in f["etats"]})
     counts = [sum(1 for f in fiches if f["degre"] == i) for i in range(6)]
     degbar = "".join(
-        f'<div class="seg" style="--n:{max(c, 2)}"><button type="button" style="--b:var(--d{i});--c:var(--d-on-{i})" data-deg="{i}" aria-pressed="false" '
+        f'<div class="seg" style="--n:{max(c, 2)}"><button type="button" style="--b:var(--d{i});--c:var(--t{i})" data-deg="{i}" aria-pressed="false" '
         f'aria-label="Degré {i}, {e(DEGRES[i][1])} : {c} fiche{"s" if c > 1 else ""}. Filtrer.">{c}</button><span aria-hidden="true" title="{e(DEGRES[i][1])}">{i} · {COURT[i]}</span></div>' for i, c in enumerate(counts))
     legend = "".join(f"<span>{i} · {e(t)}</span>" for i, t, _ in DEGRES)
     pts = []
-    for f in sorted(fiches, key=lambda f: -f["coord"][0]):
-        x, y = project(*f["coord"])
-        pts.append(f'<a class="pt" href="/c/{f["uid"]}/" data-uid="{f["uid"]}" aria-label="{e(f["titre"])}, degré {f["degre"]}">'
-                   f'<circle class="halo" cx="{x:.1f}" cy="{y:.1f}" r="10"/><circle cx="{x:.1f}" cy="{y:.1f}" r="5.5" fill="var(--d{f["degre"]})" style="stroke-width:1.5"/></a>')
-    svg = (f'<svg viewBox="0 0 {MAP["W"]} {MAP["H"]}" role="group" aria-label="Carte du monde : une pastille par fiche, couleur selon le degré d\'autonomie">'
+    ordre = sorted(fiches, key=lambda f: -f["coord"][0])
+    pos = V.dorling([project(*f["coord"]) for f in ordre], 7.2, gap=1.0, iters=300, pull=.03)
+    for f, (x, y) in zip(ordre, pos):
+        dd = f["degre"]
+        pts.append(f'<a class="pt" href="/c/{f["uid"]}/" data-uid="{f["uid"]}" aria-label="{e(f["titre"])}, degré {dd}">'
+                   f'<circle class="halo" cx="{x:.1f}" cy="{y:.1f}" r="10.5"/><circle class="c" cx="{x:.1f}" cy="{y:.1f}" r="7.2" style="fill:var(--d{dd})"/>'
+                   f'<text x="{x:.1f}" y="{y + .4:.1f}" style="fill:var(--t{dd})">{dd}</text></a>')
+    svg = (f'<svg viewBox="0 0 {MAP["W"]} {MAP["H"]}" role="group" aria-label="Carte du monde : un cercle par communauté, placé près de son territoire, avec son degré d\'autonomie">'
            f'<path class="grat" d="{MAP["grat"]}"/><path class="land" d="{MAP["land"]}"/><path class="borders" d="{MAP["borders"]}"/>'
            f'<path class="sphere" d="{MAP["sphere"]}"/>{"".join(pts)}</svg>')
     rows = []
@@ -538,11 +573,12 @@ def index_html(fiches):
 <h1>Qui décide ici&#8239;?</h1>
 <p class="lede">Certains peuples et communautés ont obtenu, dans le droit de l'État où ils vivent, le droit de décider eux-mêmes d'une part de leurs affaires&#8239;: leurs terres, leur langue, leur justice, parfois leur avenir politique. Cet atlas les recense texte par texte, à partir de sources publiques.</p>
 <ul class="figures"><li><b>{len(fiches)}</b><span>communautés</span></li><li><b>{len(etats)}</b><span>États</span></li><li><b>12</b><span>droits examinés</span></li><li><b>{len(DOSSIERS)}</b><span><a href="/dossiers/">dossiers thématiques</a></span></li></ul></div>
-<div><p class="kicker">Répartition par degré d'autonomie — cliquer pour filtrer</p>
+<div>{howto(fiches)}
+<p class="kicker" style="margin-top:28px">Répartition par degré d'autonomie — cliquer pour filtrer</p>
 <div class="degbar" data-degbar>{degbar}</div></div>
 </section>
 <figure class="map" data-map>{svg}<div class="tip" data-tip></div>
-<figcaption class="maplegend"><span>Projection Equal Earth. Frontières en pointillé, indicatives. La pastille marque un centre approximatif, pas une limite.</span></figcaption></figure>
+<figcaption class="maplegend"><span class="only-light">Un cercle par communauté, déplacé au plus près de son territoire pour rester lisible ; le chiffre est le degré d'autonomie. Sans frontières d'États.</span><span class="only-dark">Un point par communauté, sans terres dessinées ; plus le point est clair, plus le degré d'autonomie calculé est élevé.</span><span>Projection Equal Earth</span></figcaption></figure>
 
 <form class="filters" role="search" aria-label="Filtrer l'atlas" onsubmit="return false">
 <label>Rechercher<input type="search" name="q" placeholder="Nom, territoire, État…" autocomplete="off"></label>
@@ -553,7 +589,7 @@ def index_html(fiches):
 <label>Application<select name="eff"><option value="">Toutes</option>{opt(EFFECT)}</select></label>
 </form>
 <div class="fbar"><span aria-live="polite" data-count>{len(fiches)} fiches</span><span><button type="button" data-reset>Tout afficher</button> · <a href="/comparer/">Tableau comparatif</a></span></div>
-<div class="keyv" aria-hidden="true"><span>Empreinte des 12 droits&#8239;:</span><span><i class="v-reconnu"></i>Inscrit dans un texte</span><span><i class="v-partiel"></i>Partiel</span><span><i class="v-conteste"></i>Remis en cause</span><span><i class="v-non_etabli"></i>Aucune source trouvée</span></div>
+{legende_etats()}
 <ul class="rows" data-rows>{''.join(rows)}</ul>
 <p class="empty" data-empty hidden>Aucune fiche ne correspond. <button type="button" data-reset class="sans">Tout afficher</button></p>
 <p class="warn">Le degré décrit ce que disent des textes à une date donnée. Il ne classe pas les peuples. <a href="/ce-que-le-cadre-ne-dit-pas/">Ce que le cadre ne dit pas</a>.</p>
@@ -568,12 +604,12 @@ def comparer_html(fiches):
     head = "".join(f'<th scope="col"><button type="button" data-col="{i}">{e(l)}</button></th>' for i, (k, l, _) in enumerate(DROITS))
     rows = []
     for f in fiches:
-        cells = "".join(f'<td class="c" data-v="{VRANK[f["droits"][k]["valeur"]]}"><a href="/c/{f["uid"]}/#d-{k}" title="{e(l)} : {e(VALEURS[f["droits"][k]["valeur"]])}"><i class="v-{f["droits"][k]["valeur"]}"></i><span class="visually-hidden">{e(VALEURS[f["droits"][k]["valeur"]])}</span></a></td>' for k, l, _ in DROITS)
+        cells = "".join(f'<td class="c" data-v="{VRANK[f["droits"][k]["valeur"]]}"><a href="/c/{f["uid"]}/#d-{k}" title="{e(l)} : {e(VALEURS[f["droits"][k]["valeur"]])}">{V.pic(k, f["droits"][k]["valeur"], 20)}<span class="visually-hidden">{e(VALEURS[f["droits"][k]["valeur"]])}</span></a></td>' for k, l, _ in DROITS)
         rows.append(f'<tr data-region="{f["region"]}"><th scope="row" class="nm"><a href="/c/{f["uid"]}/">{e(f["titre"])}</a></th>{cells}<td class="d" data-v="{f["degre"]}">{dg(f["degre"], label=False)}</td></tr>')
     body = f"""<div class="wrap">
 <header style="padding:44px 0 8px"><p class="kicker">Tableau comparatif</p><h1>Douze droits, {len(fiches)} communautés</h1>
 <p class="lede prose">Chaque ligne est une fiche, chaque colonne un droit. Cliquer sur l'intitulé d'une colonne trie les communautés selon ce droit ; cliquer sur une case ouvre le droit dans la fiche.</p></header>
-<div class="keyv" aria-hidden="true"><span><i class="v-reconnu"></i>Inscrit dans un texte</span><span><i class="v-partiel"></i>Partiel</span><span><i class="v-conteste"></i>Remis en cause</span><span><i class="v-non_etabli"></i>Aucune source trouvée</span></div>
+{legende_etats()}
 <div class="cmpwrap"><table class="cmp" data-cmp><caption class="visually-hidden">Valeur de chacun des douze droits, par communauté</caption>
 <thead><tr><th scope="col" class="nm"><button type="button" data-col="name" style="writing-mode:horizontal-tb;transform:none">Communauté</button></th>{head}<th scope="col"><button type="button" data-col="12">Degré</button></th></tr></thead>
 <tbody>{''.join(rows)}</tbody></table></div>
