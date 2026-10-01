@@ -22,6 +22,10 @@ Cas limites assumés : un territoire non autonome inscrit à la liste de l'ONU e
 
 `population` (avec `perimetre` : qui est compté), `lieux` (nombre et unité : communes, réserves, resguardos, terres indigènes, conseils…), `villages` (nombre de villages ou de localités habitées dans la zone concernée, avec `perimetre`), `surface_km2` (avec `perimetre`). Chaque chiffre porte son année et sa source ; sans source, `valeur: null`. Les chiffres ne se comparent pas entre fiches sans lire le périmètre.
 
+## 0 ter. Fiches agrégées par régime — v3 (2026-10-01)
+
+Un régime national qui confère des droits de gestion ou d'autonomie à de nombreux sites (forêts communautaires du Népal, conservancies de Namibie, domaines ancestraux des Philippines, réserves communautaires de l'Inde) fait l'objet d'UNE fiche agrégée : `uid` du régime, `lieux` = nombre de sites, et si possible un tableau `data/tables/<uid>.csv` (une ligne par site : nom, subdivision, surface_km2, annee, source_url). Le sujet collectif est l'ensemble des communautés titulaires du régime. Un site particulier n'a sa propre fiche que s'il a un régime propre ou une documentation qui change la lecture (ex. Mendha-Lekha). Le critère §0 s'applique : reconnaissance nationale nommée + au moins un droit collectif reconnu ou partiel.
+
 ## 1. Types de communautés (`type`) — un seul type principal, `types_secondaires` possibles
 
 | clé | libellé | fondement |
@@ -33,6 +37,8 @@ Cas limites assumés : un territoire non autonome inscrit à la liste de l'ONU e
 | `peuple_territoire_non_autonome` | Peuple d'un territoire non autonome | Charte art. 73, résolution 1514 (XV), liste du Comité spécial de la décolonisation |
 | `peuple_libre_association` | Peuple d'un État en libre association | Résolution 1541 (XV) principe VII |
 | `collectivite_insulaire_ou_regionale` | Population d'une région autonome à statut international | règlement international (SDN, traité) ou suivi onusien |
+| `communaute_locale` | Communauté locale ou villageoise (sans désignation ethnique) | Convention sur la diversité biologique art. 8 j (« communautés autochtones et locales »), Déclaration sur les droits des paysans 2018 |
+| `collectivite_autonome` | Population d'une collectivité autonome sans désignation ethnique (île, montagne, commune à statut spécial) | droit national ; Pacte DCP art. 1 seulement si un organe de l'ONU l'a dit |
 
 ## 2. Reconnaissance dans le système ONU (`reconnaissance_onu[].mecanisme`)
 
@@ -47,6 +53,9 @@ Cas limites assumés : un territoire non autonome inscrit à la liste de l'ONU e
 | `forum_minorites` | Forum sur les questions relatives aux minorités / Déclaration 1992 |
 | `accord_sous_egide` | Accord de paix ou règlement conclu sous égide ou suivi de l'ONU (ou SDN) |
 | `mission_onu` | Mission ou opération de l'ONU liée au statut (ex. MINURSO, MONUB) |
+| `cdb_8j` | Document de la CDB (rapport national, décision de la COP) nommant le régime ou la communauté — pas la seule ratification |
+| `registre_apac` | Inscription au registre ICCA / base WDPA du PNUE-WCMC comme aire gouvernée par la communauté |
+| `undrop` | Déclaration des Nations unies sur les droits des paysans (2018), si l'État l'a votée et qu'un document onusien vise le régime |
 
 Chaque entrée : `{mecanisme, detail, annee, source}` — `source` est une URL onusienne (un.org, ohchr.org, ilo.org, undocs.org) chaque fois que possible.
 
@@ -94,7 +103,7 @@ Le degré mesure ce que dit le droit, pas ce qui se passe. L'écart se lit dans 
 
 ## 4 quater. Force de la reconnaissance ONU — calculée depuis `mecanisme`
 
-contraignant : `liste_tna`, `oit_169`, `accord_sous_egide`, `mission_onu` ; déclaratif : `dnudpa`, `forum_minorites` ; mention : `rapporteur_special`, `organe_traite`, `instance_permanente`.
+contraignant : `liste_tna`, `oit_169`, `accord_sous_egide`, `mission_onu` ; déclaratif : `dnudpa`, `forum_minorites`, `cdb_8j`, `undrop` ; mention : `rapporteur_special`, `organe_traite`, `instance_permanente`, `registre_apac`.
 
 ## 5. Effectivité (`effectivite`) — saisie, sourcée
 

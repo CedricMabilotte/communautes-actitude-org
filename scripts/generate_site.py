@@ -11,7 +11,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import visuel as V
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "data" / "communautes"
+DATA = Path(os.environ["ATLAS_DATA"]) if os.environ.get("ATLAS_DATA") else ROOT / "data" / "communautes"
 PAGES = ROOT / "pages"
 ASSETS = ROOT / "assets"
 OUT = ROOT / "site"
@@ -54,6 +54,8 @@ TYPES = {
     "peuple_territoire_non_autonome": "Territoire non autonome",
     "peuple_libre_association": "État en libre association",
     "collectivite_insulaire_ou_regionale": "Région autonome à statut international",
+    "communaute_locale": "Communauté locale ou villageoise",
+    "collectivite_autonome": "Collectivité autonome",
 }
 REGIONS = {"afrique": "Afrique", "ameriques": "Amériques", "asie": "Asie", "europe": "Europe", "oceanie": "Océanie"}
 BASES = {"territoriale": "Territoriale", "personnelle": "Personnelle (sans territoire)", "mixte": "Mixte"}
@@ -76,6 +78,9 @@ MECA = {
     "forum_minorites": ("Forum sur les minorités", "déclaratif"),
     "accord_sous_egide": ("Accord sous égide ONU ou SDN", "contraignant"),
     "mission_onu": ("Mission des Nations unies", "contraignant"),
+    "cdb_8j": ("Convention sur la diversité biologique, art. 8 j", "déclaratif"),
+    "registre_apac": ("Registre mondial des aires gérées par des communautés (PNUE-WCMC)", "mention"),
+    "undrop": ("Déclaration sur les droits des paysans", "déclaratif"),
 }
 FORCE_TXT = {"contraignant": "Engagement contraignant", "déclaratif": "Texte déclaratif", "mention": "Mention par un organe"}
 NATURES = {"constitution": "Constitution", "loi_organique": "Loi organique", "statut_autonomie": "Statut d'autonomie", "loi": "Loi ou décret",
@@ -150,15 +155,22 @@ def date_maj(path):
         pass
     return dt.date.fromtimestamp(path.stat().st_mtime).isoformat()
 
+def valider(p):
+    """Contrôle une fiche seule ; renvoie (uid, données brutes)."""
+    d = yaml.safe_load(p.read_text(encoding="utf-8"))
+    if not isinstance(d, dict):
+        fail(f"{p.name} : YAML vide ou invalide")
+    uid = d.get("uid")
+    if uid != p.stem:
+        fail(f"{p.name} : uid « {uid} » différent du nom de fichier")
+    if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", uid or ""):
+        fail(f"{p.name} : uid non ASCII ou mal formé")
+    return uid, d
+
 def charger():
     fiches, uids = [], set()
     for p in sorted(DATA.glob("*.yml")):
-        d = yaml.safe_load(p.read_text(encoding="utf-8"))
-        uid = d.get("uid")
-        if uid != p.stem:
-            fail(f"{p.name} : uid « {uid} » différent du nom de fichier")
-        if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", uid):
-            fail(f"{p.name} : uid non ASCII ou mal formé")
+        uid, d = valider(p)
         if uid in uids:
             fail(f"uid en double : {uid}")
         uids.add(uid)
@@ -224,6 +236,22 @@ COURTS = {"autogouvernement": "Institutions", "pouvoir_normatif": "Règles", "ju
 def vals_of(d):
     return {k: d["droits"][k]["valeur"] for k in DKEYS}
 
+def fp_js():
+    """Gabarits des empreintes, dessinées dans le navigateur (listes longues : une page légère)."""
+    pic = {f"{k}|{v}": V.pic(k, v, 999).replace('width="999" height="999"', 'width="{S}" height="{S}"') for k in DKEYS for v in VALEURS}
+    seg = {f"{i}|{v}": V.seg(v, 50, 50, 20, 48, i, sw=2.2) for i, k in enumerate(DKEYS) for v in VALEURS}
+    data = {"k": DKEYS, "pic": pic, "seg": seg, "lbl": LBLS, "val": VALEURS, "fam": [ks for _, _, ks in V.FAM]}
+    return ("var FPT=" + json.dumps(data, ensure_ascii=False) + ";\n" + r"""
+function fpVals(s){var o={};(s||"").split(" ").forEach(function(x){var i=x.indexOf(":");if(i>0)o[x.slice(0,i)]=x.slice(i+1)});return o}
+function fpPic(k,v,S,title){var t=FPT.pic[k+"|"+v]||"";t=t.split("{S}").join(S);
+  if(title){var lab=(FPT.lbl[k]+" : "+FPT.val[v]).replace(/&/g,"&amp;").replace(/</g,"&lt;");t=t.replace('aria-hidden="true">','aria-hidden="true"><title>'+lab+'</title>')}return t}
+function fpMatrix(o,S){return '<span class="mx" style="--s:'+S+'px">'+FPT.fam.map(function(ks){return '<span class="mc">'+ks.map(function(k){return fpPic(k,o[k],S,1)}).join("")+'</span>'}).join("")+'</span>'}
+function fpDial(o,S){return '<svg class="dial" viewBox="0 0 100 100" width="'+S+'" height="'+S+'" aria-hidden="true"><circle cx="50" cy="50" r="15" fill="none" class="dfaint" stroke-width="1"/>'+FPT.k.map(function(k,i){return FPT.seg[i+"|"+o[k]]}).join("")+'</svg>'}
+document.addEventListener("DOMContentLoaded",function(){[].forEach.call(document.querySelectorAll("[data-fpall] [data-fp]"),fpFill)});
+function fpFill(el){if(el.dataset.done)return;var o=fpVals(el.dataset.d||(el.closest("[data-d]")||{dataset:{}}).dataset.d);
+  el.innerHTML='<span class="only-light">'+fpMatrix(o,15)+'</span><span class="only-dark">'+fpDial(o,40)+'</span>';el.dataset.done=1}
+""")
+
 def fp(d, lg=False):
     v = vals_of(d)
     n = list(v.values()).count("reconnu"); p = list(v.values()).count("partiel")
@@ -232,8 +260,7 @@ def fp(d, lg=False):
     if lg:
         return (f'<div class="bigfp" role="img" aria-label="{aria}"><span class="only-light">{V.matrix(v, labels, 40)}</span>'
                 f'<span class="only-dark">{V.fiche_dial(v, COURTS)}</span></div>')
-    return (f'<span class="fp" role="img" aria-label="{aria}"><span class="only-light">{V.matrix(v, labels, 15)}</span>'
-            f'<span class="only-dark">{V.dial(v, 40)}</span></span>')
+    return f'<span class="fp" data-fp role="img" aria-label="{aria}"></span>'
 
 def legende_etats():
     ex = [("reconnu", "Inscrit dans un texte"), ("partiel", "Partiel"), ("conteste", "Remis en cause"), ("non_etabli", "Aucune source trouvée")]
@@ -244,7 +271,7 @@ def dg(n, label=True):
     t = f'<span class="dg dg-{n}" aria-hidden="true">{n}</span>'
     return f'<span class="pill">{t}{e(DEGRES[n][1]) if label else ""}<span class="visually-hidden">Degré {n}</span></span>'
 
-NAV = [("/", "Atlas"), ("/dossiers/", "Dossiers"), ("/comparer/", "Comparer"), ("/cadre/", "Le cadre"), ("/methode/", "Méthode"), ("/a-propos/", "À propos")]
+NAV = [("/", "Atlas"), ("/pays/", "États"), ("/dossiers/", "Dossiers"), ("/comparer/", "Comparer"), ("/cadre/", "Le cadre"), ("/methode/", "Méthode"), ("/a-propos/", "À propos")]
 
 def page(path, title, desc, body, *, og_img="/assets/cards/_accueil.jpg", og_type="website", jsonld=None, extra_head="", scripts=()):
     canon = BASE + path
@@ -452,7 +479,7 @@ def fiche_html(d):
     types2 = ", ".join(TYPES.get(t, t) for t in (d.get("types_secondaires") or []))
     facts = "".join([
         facts_row("Territoire", e(d.get("territoire") or "")),
-        facts_row("État" + ("s" if len(d["etats"]) > 1 else ""), e(", ".join(d["etats"]))),
+        facts_row("État" + ("s" if len(d["etats"]) > 1 else ""), ", ".join(f'<a href="/pays/{slug_pays(x)}/">{e(x)}</a>' for x in d["etats"])),
         facts_row("Base", e(BASES[d["base"]])),
         facts_row("Aussi", e(types2)),
         facts_row("Reconnaissance", e(NIVEAUX[d["niveau_reconnaissance"]])),
@@ -556,6 +583,71 @@ def howto(fiches):
     dark = f'<div class="only-dark">{V.big_dial(counts, n, COURTS)}</div>'
     return light + dark
 
+def row_html(f):
+    vals = " ".join(f'{k}:{f["droits"][k]["valeur"]}' for k in DKEYS)
+    search = " ".join([f["nom"], f.get("endonyme") or "", f.get("territoire") or "", " ".join(f["etats"])]).lower()
+    sub = f' <small>{e(f["nom"])}</small>' if f["titre"] != f["nom"] else ""
+    return (f'<li class="row" data-uid="{f["uid"]}" data-etats="{e("|".join(f["etats"]))}" data-region="{f["region"]}" data-type="{f["type"]}" data-deg="{f["degre"]}" '
+            f'data-eff="{f["effectivite"]["valeur"]}" data-niv="{f["niveau_reconnaissance"]}" data-base="{f["base"]}" data-d="{e(vals)}" data-q="{e(search)}">'
+            f'<div><a class="n" href="/c/{f["uid"]}/">{e(f["titre"])}{sub}</a>'
+            f'<div class="meta">{e(", ".join(f["etats"]))} · {e(TYPES[f["type"]])} · {e(EFFECT[f["effectivite"]["valeur"]])}</div></div>'
+            f'<div class="right">{fp(f)}{dg(f["degre"], label=False)}</div></li>')
+
+def slug_pays(t):
+    return re.sub(r"[^a-z0-9]+", "-", cle_tri(t)).strip("-")
+
+def par_pays(fiches):
+    out = {}
+    for f in fiches:
+        for x in f["etats"]:
+            out.setdefault(x, []).append(f)
+    return out
+
+def mini_carte(fs):
+    xy = [project(*f["coord"]) for f in fs]
+    xs, ys = [p[0] for p in xy], [p[1] for p in xy]
+    w = max(max(xs) - min(xs), 60) * 1.6; h = max(max(ys) - min(ys), 40) * 1.6
+    w, h = max(w, h * 1.6), max(h, w / 1.6)
+    cx, cy = (max(xs) + min(xs)) / 2, (max(ys) + min(ys)) / 2
+    r = w / 110
+    pts = "".join(f'<a href="/c/{f["uid"]}/" aria-label="{e(f["titre"])}"><circle cx="{x:.1f}" cy="{y:.1f}" r="{r:.2f}" style="fill:var(--d{f["degre"]})" class="mpt"/></a>' for f, (x, y) in zip(fs, xy))
+    return (f'<svg class="minimap" viewBox="{cx - w / 2:.1f} {cy - h / 2:.1f} {w:.1f} {h:.1f}" role="img" aria-label="Carte de situation">'
+            f'<path class="land" d="{MAP["land"]}"/><path class="borders" d="{MAP["borders"]}"/>{pts}</svg>')
+
+def pays_index_html(fiches):
+    pp = par_pays(fiches)
+    blocs = []
+    for rk, rl in REGIONS.items():
+        li = []
+        for x in sorted([x for x, fs in pp.items() if any(f["region"] == rk for f in fs)], key=cle_tri):
+            fs = pp[x]
+            bar = "".join(f'<i style="background:var(--d{f["degre"]})" title="{e(f["titre"])} : degré {f["degre"]}"></i>' for f in sorted(fs, key=lambda f: -f["degre"]))
+            li.append(f'<li><a href="/pays/{slug_pays(x)}/">{e(x)}</a><span class="mono">{len(fs)}</span><span class="pbar" aria-hidden="true">{bar}</span></li>')
+        if li:
+            blocs.append(f'<section><h2 id="{rk}">{e(rl)}</h2><ul class="plist">{"".join(li)}</ul></section>')
+    body = f"""<div class="wrap"><header style="padding:44px 0 8px"><p class="kicker">Par État</p><h1>{len(pp)} États</h1>
+<p class="lede prose">Les fiches de l'atlas rangées par État. Une communauté présente dans plusieurs États apparaît sous chacun d'eux. Chaque trait coloré est une fiche, du degré le plus haut au plus bas.</p></header>
+{"".join(blocs)}</div>"""
+    return page("/pays/", "Les communautés par État", f"Les {len(fiches)} fiches de l'atlas rangées par État et par région.", body)
+
+def pays_html(nom, fs, fiches_par_uid):
+    fs = sorted(fs, key=lambda f: (-f["degre"], cle_tri(f["titre"])))
+    counts = [sum(1 for f in fs if f["degre"] == i) for i in range(6)]
+    deg = " · ".join(f'{c} au degré {i}' for i, c in enumerate(counts) if c)
+    dos = sorted({d["slug"]: d for f in fs for d, _ in CAS_PAR_UID.get(f["uid"], [])}.values(), key=lambda d: d["titre"])
+    dl = ('<h2 id="dossiers">Dans les dossiers</h2><ul class="un">' + "".join(f'<li><a href="/dossiers/{d["slug"]}/">{e(d["titre"])}</a></li>' for d in dos) + "</ul>") if dos else ""
+    body = f"""<div class="wrap"><header style="padding:44px 0 8px"><p class="kicker"><a href="/pays/">Par État</a> · {e(REGIONS[fs[0]["region"]])}</p><h1>{e(nom)}</h1>
+<p class="lede prose">{len(fs)} fiche{"s" if len(fs) > 1 else ""} : {deg}.</p></header>
+<figure class="map pmap">{mini_carte(fs)}</figure>
+{legende_etats()}
+<ul class="rows" data-fpall>{"".join(row_html(f) for f in fs)}</ul>
+{dl}</div>"""
+    return page(f"/pays/{slug_pays(nom)}/", f"{nom} : communautés reconnues", f"{len(fs)} communautés de l'atlas en {nom} : droits d'autonomie inscrits dans le droit de l'État, textes et sources.", body, scripts=("/assets/fp.js",))
+
+def cle_tri(t):
+    import unicodedata
+    return unicodedata.normalize("NFD", t).encode("ascii", "ignore").decode().lower()
+
 def index_html(fiches):
     etats = sorted({s for f in fiches for s in f["etats"]})
     counts = [sum(1 for f in fiches if f["degre"] == i) for i in range(6)]
@@ -565,26 +657,18 @@ def index_html(fiches):
     legend = "".join(f"<span>{i} · {e(t)}</span>" for i, t, _ in DEGRES)
     pts = []
     ordre = sorted(fiches, key=lambda f: -f["coord"][0])
-    pos = V.dorling([project(*f["coord"]) for f in ordre], 7.2, gap=1.0, iters=300, pull=.03)
-    for f, (x, y) in zip(ordre, pos):
+    r0 = 7.2 if len(fiches) <= 150 else max(4.4, 7.2 * math.sqrt(150 / len(fiches)))
+    vrai = [project(*f["coord"]) for f in ordre]
+    pos = V.dorling(vrai, r0, gap=.8, iters=300, pull=.03)
+    for f, (x, y), (x0, y0) in zip(ordre, pos, vrai):
         dd = f["degre"]
-        pts.append(f'<a class="pt" href="/c/{f["uid"]}/" data-uid="{f["uid"]}" aria-label="{e(f["titre"])}, degré {dd}">'
-                   f'<circle class="halo" cx="{x:.1f}" cy="{y:.1f}" r="10.5"/><circle class="c" cx="{x:.1f}" cy="{y:.1f}" r="7.2" style="fill:var(--d{dd})"/>'
+        pts.append(f'<a class="pt" href="/c/{f["uid"]}/" data-uid="{f["uid"]}" data-x="{x0:.1f}" data-y="{y0:.1f}" aria-label="{e(f["titre"])}, degré {dd}">'
+                   f'<circle class="halo" cx="{x:.1f}" cy="{y:.1f}"/><circle class="c" cx="{x:.1f}" cy="{y:.1f}" style="fill:var(--d{dd})"/>'
                    f'<text x="{x:.1f}" y="{y + .4:.1f}" style="fill:var(--t{dd})">{dd}</text></a>')
-    svg = (f'<svg viewBox="0 0 {MAP["W"]} {MAP["H"]}" role="group" aria-label="Carte du monde : un cercle par communauté, placé près de son territoire, avec son degré d\'autonomie">'
+    svg = (f'<svg viewBox="0 0 {MAP["W"]} {MAP["H"]}" style="--r0:{r0:.2f}" role="group" aria-label="Carte du monde : un cercle par communauté, placé près de son territoire, avec son degré d\'autonomie">'
            f'<path class="grat" d="{MAP["grat30"]}"/><path class="land" d="{MAP["land"]}"/><path class="borders" d="{MAP["borders"]}"/>'
            f'<path class="sphere" d="{MAP["sphere"]}"/>{"".join(pts)}</svg>')
-    rows = []
-    for f in fiches:
-        vals = " ".join(f'{k}:{f["droits"][k]["valeur"]}' for k in DKEYS)
-        search = " ".join([f["nom"], f.get("endonyme") or "", f.get("territoire") or "", " ".join(f["etats"])]).lower()
-        sub = f' <small>{e(f["nom"])}</small>' if f["titre"] != f["nom"] else ""
-        rows.append(
-            f'<li class="row" data-uid="{f["uid"]}" data-region="{f["region"]}" data-type="{f["type"]}" data-deg="{f["degre"]}" '
-            f'data-eff="{f["effectivite"]["valeur"]}" data-niv="{f["niveau_reconnaissance"]}" data-base="{f["base"]}" data-d="{e(vals)}" data-q="{e(search)}">'
-            f'<div><a class="n" href="/c/{f["uid"]}/">{e(f["titre"])}{sub}</a>'
-            f'<div class="meta">{e(", ".join(f["etats"]))} · {e(TYPES[f["type"]])} · {e(EFFECT[f["effectivite"]["valeur"]])}</div></div>'
-            f'<div class="right">{fp(f)}{dg(f["degre"], label=False)}</div></li>')
+    rows = [row_html(f) for f in fiches]
     opt = lambda dct: "".join(f'<option value="{k}">{e(v)}</option>' for k, v in dct.items())
     body = f"""<div class="wrap">
 <section class="hero">
@@ -596,20 +680,22 @@ def index_html(fiches):
 <p class="kicker" style="margin-top:28px">Répartition par degré d'autonomie — cliquer pour filtrer</p>
 <div class="degbar" data-degbar>{degbar}</div></div>
 </section>
-<figure class="map" data-map>{svg}<div class="tip" data-tip></div>
-<figcaption class="maplegend"><span class="only-light">Un cercle par communauté, déplacé au plus près de son territoire pour rester lisible ; le chiffre est le degré d'autonomie. Sans frontières d'États.</span><span class="only-dark">Un point par communauté ; plus le point est clair, plus le degré d'autonomie calculé est élevé. Fond : côtes Natural Earth 1:110 m, frontières d'États volontairement omises.</span><span>Projection Equal Earth</span></figcaption></figure>
+<figure class="map" data-map><div class="zoom" role="group" aria-label="Zoom de la carte"><button type="button" data-zin aria-label="Zoomer">+</button><button type="button" data-zout aria-label="Dézoomer">−</button><button type="button" data-zreset aria-label="Vue du monde entier">Monde</button><span data-zlevel aria-live="polite">× 1</span></div>{svg}<div class="tip" data-tip></div><p class="maphint" data-maphint hidden>Ctrl + molette pour zoomer · double-clic pour agrandir</p>
+<figcaption class="maplegend"><span class="only-light">Un cercle par communauté, déplacé au plus près de son territoire pour rester lisible ; le chiffre est le degré d'autonomie. Frontières d'États affichées au zoom.</span><span class="only-dark">Un point par communauté ; plus le point est clair, plus le degré d'autonomie calculé est élevé. Fond : côtes Natural Earth 1:110 m, frontières d'États affichées au zoom.</span><span>Projection Equal Earth</span></figcaption></figure>
 
 <form class="filters" role="search" aria-label="Filtrer l'atlas" onsubmit="return false">
 <label>Rechercher<input type="search" name="q" placeholder="Nom, territoire, État…" autocomplete="off"></label>
 <label>Région<select name="region"><option value="">Toutes</option>{opt(REGIONS)}</select></label>
+<label>État<select name="etat"><option value="">Tous</option>{''.join(f'<option value="{e(x)}">{e(x)}</option>' for x in sorted(etats, key=cle_tri))}</select></label>
 <label>Type<select name="type"><option value="">Tous</option>{opt(TYPES)}</select></label>
 <label>Droit inscrit<select name="droit"><option value="">Aucun filtre</option>{''.join(f'<option value="{k}">{e(l)}</option>' for k, l, _ in DROITS)}</select></label>
 <label>Reconnaissance<select name="niv"><option value="">Tous niveaux</option>{opt(NIVEAUX)}</select></label>
 <label>Application<select name="eff"><option value="">Toutes</option>{opt(EFFECT)}</select></label>
 </form>
-<div class="fbar"><span aria-live="polite" data-count>{len(fiches)} fiches</span><span><button type="button" data-reset>Tout afficher</button> · <a href="/comparer/">Tableau comparatif</a></span></div>
+<div class="fbar"><span aria-live="polite" data-count>{len(fiches)} fiches</span><label class="tri">Trier<select data-sort><option value="nom">par nom</option><option value="deg">par degré</option><option value="etat">par État</option></select></label><span><button type="button" data-reset>Tout afficher</button> · <a href="/comparer/">Tableau comparatif</a> · <a href="/pays/">Par État</a></span></div>
 {legende_etats()}
 <ul class="rows" data-rows>{''.join(rows)}</ul>
+<p class="more"><button type="button" data-more hidden></button></p>
 <p class="empty" data-empty hidden>Aucune fiche ne correspond. <button type="button" data-reset class="sans">Tout afficher</button></p>
 <p class="warn">Le degré décrit ce que disent des textes à une date donnée. Il ne classe pas les peuples. <a href="/ce-que-le-cadre-ne-dit-pas/">Ce que le cadre ne dit pas</a>.</p>
 </div>"""
@@ -617,23 +703,24 @@ def index_html(fiches):
           "description": "Atlas des droits d'autonomie inscrits dans le droit national pour les peuples et communautés officiellement reconnus.",
           "author": {"@type": "Person", "name": "Cedric Mabilotte"}, "copyrightHolder": {"@type": "Person", "name": "Cedric Mabilotte"}, "license": LICENCE_URL}
     return page("/", "Communautés reconnues — qui décide ici ?", "Atlas public des peuples et communautés officiellement reconnus qui disposent de droits d'autonomie dans le droit de leur État : douze droits examinés, textes et sources.",
-                body, jsonld=jl, scripts=("/assets/app.js",))
+                body, jsonld=jl, scripts=("/assets/fp.js", "/assets/app.js", "/assets/map.js"))
 
 def comparer_html(fiches):
     head = "".join(f'<th scope="col"><button type="button" data-col="{i}">{e(l)}</button></th>' for i, (k, l, _) in enumerate(DROITS))
     rows = []
     for f in fiches:
-        cells = "".join(f'<td class="c" data-v="{VRANK[f["droits"][k]["valeur"]]}"><a href="/c/{f["uid"]}/#d-{k}" title="{e(l)} : {e(VALEURS[f["droits"][k]["valeur"]])}">{V.pic(k, f["droits"][k]["valeur"], 20)}<span class="visually-hidden">{e(VALEURS[f["droits"][k]["valeur"]])}</span></a></td>' for k, l, _ in DROITS)
-        rows.append(f'<tr data-region="{f["region"]}"><th scope="row" class="nm"><a href="/c/{f["uid"]}/">{e(f["titre"])}</a></th>{cells}<td class="d" data-v="{f["degre"]}">{dg(f["degre"], label=False)}</td></tr>')
+        cells = "".join(f'<td class="c" data-v="{VRANK[f["droits"][k]["valeur"]]}" data-k="{k}" data-x="{f["droits"][k]["valeur"]}"><a href="/c/{f["uid"]}/#d-{k}" title="{e(l)} : {e(VALEURS[f["droits"][k]["valeur"]])}"><span class="visually-hidden">{e(VALEURS[f["droits"][k]["valeur"]])}</span></a></td>' for k, l, _ in DROITS)
+        rows.append(f'<tr data-region="{f["region"]}" data-q="{e(cle_tri(" ".join([f["titre"], f["nom"]] + f["etats"])))}"><th scope="row" class="nm"><a href="/c/{f["uid"]}/">{e(f["titre"])}</a></th>{cells}<td class="d" data-v="{f["degre"]}">{dg(f["degre"], label=False)}</td></tr>')
     body = f"""<div class="wrap">
 <header style="padding:44px 0 8px"><p class="kicker">Tableau comparatif</p><h1>Douze droits, {len(fiches)} communautés</h1>
 <p class="lede prose">Chaque ligne est une fiche, chaque colonne un droit. Cliquer sur l'intitulé d'une colonne trie les communautés selon ce droit ; cliquer sur une case ouvre le droit dans la fiche.</p></header>
+<form class="filters cmpf" role="search" onsubmit="return false"><label>Rechercher<input type="search" data-cq placeholder="Nom, État…" autocomplete="off"></label><label>Région<select data-cr><option value="">Toutes</option>{''.join(f'<option value="{k}">{e(v)}</option>' for k, v in REGIONS.items())}</select></label><span class="muted sans" data-cc aria-live="polite"></span></form>
 {legende_etats()}
 <div class="cmpwrap"><table class="cmp" data-cmp><caption class="visually-hidden">Valeur de chacun des douze droits, par communauté</caption>
 <thead><tr><th scope="col" class="nm"><button type="button" data-col="name" style="writing-mode:horizontal-tb;transform:none">Communauté</button></th>{head}<th scope="col"><button type="button" data-col="12">Degré</button></th></tr></thead>
 <tbody>{''.join(rows)}</tbody></table></div>
 </div>"""
-    return page("/comparer/", "Tableau comparatif des douze droits", "Les douze droits d'autonomie, côte à côte, pour toutes les communautés de l'atlas.", body, og_img="/assets/cards/_comparer.jpg", scripts=("/assets/compare.js",))
+    return page("/comparer/", "Tableau comparatif des douze droits", "Les douze droits d'autonomie, côte à côte, pour toutes les communautés de l'atlas.", body, og_img="/assets/cards/_comparer.jpg", scripts=("/assets/fp.js", "/assets/compare.js"))
 
 def cadre_html(fiches):
     cnt = lambda key, val: sum(1 for f in fiches if f[key] == val)
@@ -792,6 +879,7 @@ def main():
     OUT.mkdir()
     shutil.copytree(ASSETS, OUT / "assets", ignore=shutil.ignore_patterns("map.json", "cards-src"))
     (OUT / "assets" / "land.svg").write_text(land_svg_file(), encoding="utf-8")
+    (OUT / "assets" / "fp.js").write_text(fp_js(), encoding="utf-8")
     def w(rel, txt):
         p = OUT / rel
         p.parent.mkdir(parents=True, exist_ok=True)
@@ -799,7 +887,8 @@ def main():
     w("index.html", index_html(fiches))
     w("comparer/index.html", comparer_html(fiches))
     w("cadre/index.html", cadre_html(fiches))
-    pages = ["/", "/comparer/", "/cadre/", "/dossiers/"]
+    pages = ["/", "/comparer/", "/cadre/", "/dossiers/", "/pays/"]
+    w("pays/index.html", pays_index_html(fiches))
     w("dossiers/index.html", dossiers_index_html(DOSSIERS))
     fpu = {f["uid"]: f for f in fiches}
     for d in DOSSIERS:
@@ -808,6 +897,8 @@ def main():
         w(f"{p.stem}/index.html", md_page(p.stem, fiches)); pages.append(f"/{p.stem}/")
     for f in fiches:
         w(f"c/{f['uid']}/index.html", fiche_html(f))
+    for nom, fs in par_pays(fiches).items():
+        w(f"pays/{slug_pays(nom)}/index.html", pays_html(nom, fs, fpu)); pages.append(f"/pays/{slug_pays(nom)}/")
     w("404.html", page404())
     pub = [{k: f.get(k) for k in PUBLIC_KEYS + ["degre", "force_onu", "niveau_reconnaissance", "date_maj"]} for f in fiches]
     w("donnees/communautes.json", json.dumps({"licence": "CC BY-NC-SA 4.0", "auteur": "Cedric Mabilotte",

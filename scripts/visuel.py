@@ -208,6 +208,7 @@ def big_dial(counts, n, short):
 
 
 def dorling(pts, r, gap=1.0, iters=400, pull=0.03):
+    """Écarte des cercles de rayon r qui se chevauchent ; grille spatiale pour tenir des centaines de points."""
     import random
     pts = [list(p) for p in pts]
     org = [p[:] for p in pts]
@@ -215,18 +216,26 @@ def dorling(pts, r, gap=1.0, iters=400, pull=0.03):
     n = len(pts)
     m = 2 * r + gap
     for _ in range(iters):
+        grid = {}
+        for i, (x, y) in enumerate(pts):
+            grid.setdefault((int(x // m), int(y // m)), []).append(i)
         for i in range(n):
-            for j in range(i + 1, n):
-                dx = pts[j][0] - pts[i][0]; dy = pts[j][1] - pts[i][1]
-                d = math.hypot(dx, dy)
-                if d < m:
-                    if d < 1e-6:
-                        a = rnd.random() * 6.283
-                        dx, dy, d = math.cos(a), math.sin(a), 1
-                    push = (m - d) / 2
-                    ux, uy = dx / d, dy / d
-                    pts[i][0] -= ux * push; pts[i][1] -= uy * push
-                    pts[j][0] += ux * push; pts[j][1] += uy * push
+            gx, gy = int(pts[i][0] // m), int(pts[i][1] // m)
+            for ax in (gx - 1, gx, gx + 1):
+                for ay in (gy - 1, gy, gy + 1):
+                    for j in grid.get((ax, ay), ()):
+                        if j <= i:
+                            continue
+                        dx = pts[j][0] - pts[i][0]; dy = pts[j][1] - pts[i][1]
+                        d = math.hypot(dx, dy)
+                        if d < m:
+                            if d < 1e-6:
+                                a = rnd.random() * 6.283
+                                dx, dy, d = math.cos(a), math.sin(a), 1
+                            push = (m - d) / 2
+                            ux, uy = dx / d, dy / d
+                            pts[i][0] -= ux * push; pts[i][1] -= uy * push
+                            pts[j][0] += ux * push; pts[j][1] += uy * push
         for i in range(n):
             pts[i][0] += (org[i][0] - pts[i][0]) * pull
             pts[i][1] += (org[i][1] - pts[i][1]) * pull
