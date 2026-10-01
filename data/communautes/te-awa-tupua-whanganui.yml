@@ -1,0 +1,53 @@
+uid: "te-awa-tupua-whanganui"
+nom: "Iwi du fleuve Whanganui (Te Awa Tupua)"
+endonyme: "Whanganui Iwi ; Te Āti Haunui-a-Pāpārangi"
+territoire: "Fleuve Whanganui, des monts du centre de l'île du Nord à la mer (Nouvelle-Zélande)"
+etats: ["Nouvelle-Zélande"]
+region: "oceanie"
+coord: [-39.4, 175.1]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 143, unite: "marae (lieux de rassemblement) connus le long du fleuve (loi de 2017, s. 69)", annee: 2017, source: "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"}
+surface_km2: {valeur: 7380, annee: null, perimetre: "bassin versant du fleuve Whanganui ; le lit du fleuve dévolu à Te Awa Tupua n'en couvre qu'une petite partie", source: "https://en.wikipedia.org/wiki/Whanganui_River"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les iwi (peuples māori) et hapū (lignages) du fleuve Whanganui, dans l'ouest de l'île du Nord, descendent de Ruatipua, de Paerangi ou de Haunui-ā-Pāpārangi (loi de 2017, s. 8). L'accord de règlement Ruruku Whakatupua, signé avec la Couronne le 5 août 2014, a été mis en œuvre par le Te Awa Tupua (Whanganui River Claims Settlement) Act 2017. La loi fait du fleuve, des montagnes à la mer, une personne juridique, Te Awa Tupua, à qui revient la propriété du lit détenu par la Couronne. Te Pou Tupua, organe qui agit au nom du fleuve, compte deux membres, dont un désigné par les iwi ; la fiducie Ngā Tāngata Tiaki o Whanganui, créée par acte du 4 août 2014, reçoit et gère les biens du règlement pour les iwi.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Le Rapporteur spécial décrit la revendication des iwi du Whanganui, le rapport du Tribunal de Waitangi de 1999 et l'ouverture de négociations en septembre 2009 en vue d'une cogestion du fleuve (A/HRC/18/35/Add.4, § 44 a ; rapport publié en anglais)", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+  - {mecanisme: "dnudpa", detail: "La Nouvelle-Zélande a annoncé son appui à la Déclaration en avril 2010, à la session de l'Instance permanente (A/HRC/18/35/Add.4, § 3)", annee: 2010, source: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Ruruku Whakatupua, accord de règlement de la revendication sur le fleuve Whanganui", nature: "accord_revendication", annee: 2014, source: "https://www.ngatangatatiaki.co.nz/our-story/ruruku-whakatupua/"}
+  - {instrument: "Te Awa Tupua (Whanganui River Claims Settlement) Act 2017", nature: "accord_revendication", annee: 2017, source: "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les iwi ayant des intérêts dans le fleuve désignent l'un des deux membres de Te Pou Tupua, « visage humain » du fleuve (loi de 2017, s. 18 et 20), et jusqu'à cinq des dix-sept membres au plus du groupe stratégique Te Kōpuka, les fiduciaires de Ngā Tāngata Tiaki o Whanganui en désignant un sixième (s. 29 et 32) ; Te Kōpuka élabore et approuve la stratégie Te Heke Ngahuru (s. 30).", source: "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La pleine propriété des parties du lit du fleuve détenues par la Couronne est dévolue à Te Awa Tupua (loi de 2017, s. 41), et non aux iwi ; Te Pou Tupua, dont les iwi désignent un membre, exerce les fonctions de propriétaire (s. 19) ; les parties privées du lit ne sont pas touchées.", source: "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"}
+  ressources: {valeur: "partiel", note: "Les membres des iwi peuvent exercer des activités coutumières sur le fleuve : collecte de pierres, de galets, de sable et de pakohe (argilite) à des fins coutumières, pêcheries traditionnelles (pā tuna, barrages à anguilles ; utu piharau, barrages à lamproies) (loi de 2017, s. 75 et 77, sous les conditions de l'annexe 7) ; la dévolution du lit ne crée aucun droit de propriété sur l'eau ni sur la faune aquatique (s. 46).", source: "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"}
+  consentement: {valeur: "partiel", note: "Les décideurs agissant en vertu des lois listées à l'annexe 2 doivent reconnaître et prendre en compte (« recognise and provide for ») le statut de Te Awa Tupua et ses valeurs, Tupua te Kawa, et, lorsque la décision donne lieu à un document, indiquer comment (loi de 2017, s. 15) ; les iwi peuvent proposer des commissaires pour le registre Te Awa Tupua des auditions sur les autorisations environnementales, sans obligation pour les autorités d'y puiser (s. 61 et 62) ; la loi ne prévoit ni obligation de consulter les iwi ni droit de veto.", source: "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "La loi a été adoptée par le Parlement en mars 2017 (Radio New Zealand, 16 mars 2017). Aucune source indépendante sur le fonctionnement de Te Pou Tupua et de Te Kōpuka depuis lors n'a été trouvée.", source: "https://www.rnz.co.nz/news/te-ao-maori/326689/whanganui-river-to-gain-legal-personhood"}
+chronologie:
+  - {annee: 1938, evenement: "Début d'une procédure judiciaire sur la propriété du lit du fleuve, close en 1962."}
+  - {annee: 1999, evenement: "Rapport du Tribunal de Waitangi sur le fleuve Whanganui (Wai 167)."}
+  - {annee: 2009, evenement: "Reprise des négociations entre les iwi et la Couronne."}
+  - {annee: 2014, evenement: "Signature de l'accord Ruruku Whakatupua au marae de Ruakā, à Rānana, le 5 août ; création de la fiducie Ngā Tāngata Tiaki o Whanganui."}
+  - {annee: 2017, evenement: "Te Awa Tupua (Whanganui River Claims Settlement) Act : le fleuve devient une personne juridique ; abrogation de la loi de 1988 sur le Whanganui River Trust Board (s. 120)."}
+fiabilite:
+  verifie: ["Art. 7, 8, 12 à 15, 18 à 20, 29, 30, 32, 41, 46, 61 à 63, 69, 75, 77 et 120 de la loi de 2017 (legislation.govt.nz).", "143 marae connus le long du fleuve (s. 69).", "Signature de Ruruku Whakatupua le 5 août 2014 au marae de Ruakā, à Rānana, et rôle de la fiducie Ngā Tāngata Tiaki o Whanganui comme entité de gouvernance du règlement (site de la fiducie).", "Passage du rapport A/HRC/18/35/Add.4 sur les iwi du Whanganui (§ 44 a).", "Adoption de la loi en mars 2017 (Radio New Zealand)."]
+  non_confirme: ["Population des iwi du Whanganui au recensement : chiffre non trouvé sur une source officielle ouverte.", "Surface du bassin versant : source secondaire (Wikipédia), à confirmer auprès du conseil régional Horizons.", "Montant des réparations financières et de la dotation du fonds Te Korotete : non précisés dans la loi, à lire dans l'accord de règlement.", "Composition actuelle de Te Pou Tupua et état d'adoption de la stratégie Te Heke Ngahuru."]
+sources:
+  - {titre: "Te Awa Tupua (Whanganui River Claims Settlement) Act 2017 — legislation.govt.nz", url: "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"}
+  - {titre: "Ngā Tāngata Tiaki o Whanganui — Ruruku Whakatupua", url: "https://www.ngatangatatiaki.co.nz/our-story/ruruku-whakatupua/"}
+  - {titre: "Rapporteur spécial — Situation du peuple maori en Nouvelle-Zélande, A/HRC/18/35/Add.4 (2011)", url: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+  - {titre: "Tribunal de Waitangi — The Whanganui River Report (Wai 167), 1999", url: "https://forms.justice.govt.nz/search/Documents/WT/wt_DOC_68450539/Whanganui%20River%20Report%201999.pdf"}
+  - {titre: "Radio New Zealand — Whanganui River to gain legal personhood (16 mars 2017)", url: "https://www.rnz.co.nz/news/te-ao-maori/326689/whanganui-river-to-gain-legal-personhood"}
+  - {titre: "Wikipédia (anglais) — Whanganui River", url: "https://en.wikipedia.org/wiki/Whanganui_River"}

@@ -1,0 +1,54 @@
+uid: "raiyats-aborigenes-bangladesh"
+nom: "Peuples autochtones des plaines du Bangladesh"
+endonyme: "Adivasi"
+territoire: "Districts des plaines du Bangladesh, hors Chittagong Hill Tracts (nord-ouest et nord-centre principalement)"
+etats: ["Bangladesh"]
+region: "asie"
+coord: [24.6, 89.6]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: ["minorite_nationale"]
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Hors des Chittagong Hill Tracts, des peuples comme les Santal, Garo, Hajong, Oraon, Munda, Koch et Magh vivent dans les districts des plaines du Bangladesh. La section 97 de la loi de 1950 sur l'acquisition par l'État et la location des terres (State Acquisition and Tenancy Act, East Bengal Act XXVIII de 1951) interdit à un tenancier « aborigène » (aboriginal raiyat, exploitant inscrit) de céder sa terre à une personne qui n'appartient pas aux groupes énumérés, sauf autorisation écrite de l'agent du revenu foncier ; toute cession contraire est nulle. Le texte ne s'applique que dans les districts et aux groupes désignés par notification du gouvernement. L'État ne reconnaît pas ces groupes comme peuples autochtones ; aucun texte consulté ne leur attribue d'institution propre. L'article 23A de la Constitution (2011), placé parmi les principes fondamentaux de la politique de l'État, engage l'État à protéger et développer la culture des « tribes, minor races, ethnic sects and communities ».
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité des droits économiques, sociaux et culturels, E/C.12/BGD/CO/1, § 15-16 : allégations d'expropriation de terres ancestrales sans consentement préalable ; recommande d'assurer la représentation et la participation des « peuples autochtones des Hill Tracts et des plaines »", annee: 2018, source: "https://docs.un.org/fr/E/C.12/BGD/CO/1"}
+base_nationale:
+  - {instrument: "State Acquisition and Tenancy Act, 1950 (loi du Bengale oriental), section 97 : restriction de l'aliénation des terres des aborigènes, modifiée en 1974", nature: "loi", annee: 1950, source: "http://bdlaws.minlaw.gov.bd/act-241/section-7077.html"}
+  - {instrument: "Constitution, art. 23A, inséré par le quinzième amendement : protection de la culture des « tribes, minor races, ethnic sects and communities »", nature: "constitution", annee: 2011, source: "http://bdlaws.minlaw.gov.bd/act-367/section-41506.html"}
+  - {instrument: "Loi de 2010 sur les institutions culturelles des petits groupes ethniques (Khudro Nri-Gosthi Sanskritik Protishthan Ain, loi n° 23 de 2010)", nature: "loi", annee: 2010, source: "http://bdlaws.minlaw.gov.bd/act-1043.html"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Un tenancier aborigène ne peut céder ses droits sur sa terre qu'à un autre aborigène résidant au Bangladesh, sauf autorisation écrite de l'agent du revenu foncier ; toute cession contraire est nulle, l'agent peut expulser l'acquéreur et rendre la terre, et aucun tribunal ne peut ordonner la vente de ces terres, sauf pour arriérés de loyer ou remboursement de prêts agricoles consentis par l'État, un organisme public de crédit agricole ou une société coopérative, State Acquisition and Tenancy Act 1950, section 97 (2) à (9) ; l'application dépend d'une notification gouvernementale par district et par groupe, section 97 (1) et (10).", source: "http://bdlaws.minlaw.gov.bd/act-241/section-7077.html"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité des droits économiques, sociaux et culturels relève en 2018 des allégations répétées d'expropriation de terres ancestrales et l'absence de mécanismes de participation (E/C.12/BGD/CO/1, § 15). L'IWGIA, citant la Kapaeeng Foundation, rapporte au moins 17 atteintes aux droits fonciers dans des districts des plaines en 2023 et l'absence de commission foncière pour les plaines, demandée par ces peuples ; la Commission d'experts de l'OIT, citée par le même rapport, demande où en est cette commission prévue par le huitième plan quinquennal.", source: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2024.pdf"}
+chronologie:
+  - {annee: 1950, evenement: "Adoption de la loi sur l'acquisition par l'État et la location des terres ; la section 97 restreint l'aliénation des terres des aborigènes."}
+  - {annee: 1972, evenement: "Le Bangladesh ratifie la convention n° 107 de l'Organisation internationale du travail relative aux populations aborigènes et tribales."}
+  - {annee: 1974, evenement: "Une loi modificative ajoute les Banai à la liste de la section 97."}
+  - {annee: 2010, evenement: "Loi sur les institutions culturelles des petits groupes ethniques."}
+  - {annee: 2011, evenement: "Le quinzième amendement insère l'article 23A dans la Constitution."}
+  - {annee: 2018, evenement: "Le Comité des droits économiques, sociaux et culturels vise les peuples autochtones des plaines dans ses observations finales."}
+fiabilite:
+  verifie: ["Texte de la section 97 et liste des groupes : Sonthals, Banais, Bhuiyas, Bhumijes, Dalus, Garos, Gonds, Hadis, Hajangs, Hos, Kharias, Kharwars, Kochs (division de Dhaka), Koras, Maghs (district de Bakerganj), Mal et Sauria Paharias, Maches, Mundas, Mundais, Oraons, Turis (site officiel des lois du Bangladesh).", "Ajout des Banai par la loi modificative de 1974 (note du texte officiel).", "Article 23A de la Constitution (site officiel).", "E/C.12/BGD/CO/1, § 15-16 et 70 (texte français, ONU).", "Population de 1 650 478 personnes appartenant aux groupes ethniques, Chittagong Hill Tracts compris (recensement 2022, cité par l'IWGIA) ; part des plaines non chiffrée.", "Ratification de la convention OIT n° 107 en 1972 (IWGIA, 2024).", "Loi n° 23 de 2010 du 12 avril 2010 sur les institutions culturelles des petits groupes ethniques (site officiel)."]
+  non_confirme: ["Liste et date des notifications gouvernementales qui rendent la section 97 applicable dans chaque district.", "Nombre de groupes de la liste : 20, 21 ou 22 selon que les Mal et Sauria Paharias et les Banai sont comptés séparément.", "Population des seuls districts des plaines : non trouvée dans une source ouverte.", "Annexe de la loi de 2010 (liste de 50 groupes depuis 2019) : non consultée."]
+sources:
+  - {titre: "State Acquisition and Tenancy Act, 1950, section 97 — Laws of Bangladesh", url: "http://bdlaws.minlaw.gov.bd/act-241/section-7077.html"}
+  - {titre: "Constitution du Bangladesh, art. 23A — Laws of Bangladesh", url: "http://bdlaws.minlaw.gov.bd/act-367/section-41506.html"}
+  - {titre: "Loi de 2010 sur les institutions culturelles des petits groupes ethniques — Laws of Bangladesh", url: "http://bdlaws.minlaw.gov.bd/act-1043.html"}
+  - {titre: "E/C.12/BGD/CO/1 (2018) — Comité des droits économiques, sociaux et culturels", url: "https://docs.un.org/fr/E/C.12/BGD/CO/1"}
+  - {titre: "IWGIA, The Indigenous World 2024, chapitre Bangladesh", url: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2024.pdf"}
+  - {titre: "IWGIA, The Indigenous World 2025, chapitre Bangladesh", url: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2025.pdf"}

@@ -1,0 +1,68 @@
+uid: "tribunaux-aksakals-kirghizstan"
+nom: "Tribunaux des anciens (aksakals) du Kirghizstan"
+endonyme: "Аксакалдар соту"
+territoire: "Aïyl aïmaks (communes rurales) et villes de l'ensemble du Kirghizstan"
+etats: ["Kirghizstan"]
+region: "asie"
+coord: [41.5, 74.6]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 795, unite: "tribunaux d'aksakals", annee: 2020, source: "https://cabar.asia/en/courts-of-elders-in-kyrgyzstan-arbitrariness-or-necessity"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les tribunaux d'aksakals (tribunaux des anciens), organes sociaux non étatiques que les habitants d'un aïyl aïmak (commune rurale) ou d'une ville élisent en assemblée de citoyens du lieu de résidence pour régler des litiges entre eux par la conciliation. L'article 115 de la Constitution de 2021 reconnaît aux citoyens le droit de les créer ; ils examinent les affaires dans les limites fixées par la loi « sur les tribunaux d'aksakals », et leurs décisions sont susceptibles de recours. Le règlement type du 17 décembre 2024 les définit comme des organes fondés sur l'élection, l'autogestion et le volontariat, avec le soutien de la communauté locale ; le règlement du 25 mars 2025 organise leur enregistrement auprès des organes exécutifs de l'autogouvernement local (administration communale). Selon les données de la Cour suprême pour 2020 citées par CABAR, 795 tribunaux comptaient 4 385 membres.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité des droits de l'homme, observations finales sur le troisième rapport du Kirghizstan (CCPR/C/KGZ/CO/3, paragraphes 39 et 40) : le Comité note que, selon l'État, les tribunaux d'aksakals ne font pas partie du système judiciaire et sont des organes publics électifs et autonomes ; il relève qu'ils exercent en pratique des fonctions juridictionnelles et demande qu'ils respectent les garanties du procès équitable et la non-discrimination.", annee: 2022, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/KGZ/CO/3&l=en&t=pdf"}
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination à l'égard des femmes, observations finales sur le quatrième rapport du Kirghizstan (CEDAW/C/KGZ/CO/4, paragraphes 17 et 18) : les violences faites aux femmes sont portées surtout devant les tribunaux d'aksakals ; le Comité recommande d'encourager leur signalement aux services de police.", annee: 2015, source: "https://documents.un.org/api/symbol/access?s=CEDAW/C/KGZ/CO/4&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République kirghize (2021), article 115 : droit des citoyens de constituer des tribunaux d'aksakals, examen des affaires en vue de concilier les parties dans les limites fixées par la loi, recours contre leurs décisions", nature: "constitution", annee: 2021, source: "https://www.constituteproject.org/constitution/Kyrgyz_Republic_2021"}
+  - {instrument: "Règlement type des tribunaux d'aksakals, approuvé par arrêté n° 01-25/342 du 17 décembre 2024 de l'Agence d'État chargée de la fonction publique et de l'autogouvernement local", nature: "loi", annee: 2024, source: "https://mkk.gov.kg/ru/wp-content/uploads/2024/12/Регламент-17.12.2024-1.pdf"}
+  - {instrument: "Règlement sur l'enregistrement des tribunaux d'aksakals auprès des organes exécutifs de l'autogouvernement local et la délivrance de cartes à leurs membres, arrêté n° 01-25/93 du 25 mars 2025 pris en application de l'article 17 de la loi « sur les tribunaux d'aksakals »", nature: "loi", annee: 2025, source: "https://mkk.gov.kg/ru/wp-content/uploads/2025/04/порядок-регистрации-судов-аксакалов-2.pdf"}
+  - {instrument: "Règlement sur le Conseil des tribunaux d'aksakals de la République kirghize, arrêté n° 01-25/47 du 25 février 2026 pris en application de l'article 42 de la loi « sur les tribunaux d'aksakals », qui abroge l'arrêté n° 01-25/298 du 15 août 2025", nature: "loi", annee: 2026, source: "https://mkk.gov.kg/ru/wp-content/uploads/2026/02/ПДФ-Буйрук-АС-Орусча.pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "Les citoyens ont le droit de constituer des tribunaux d'aksakals, qui examinent les affaires en vue de concilier les parties, dans les limites fixées par la loi, avec recours contre leurs décisions (Constitution de 2021, article 115) ; le règlement type de 2024 les établit sur le territoire des aïyl aïmaks et des villes et leur fait rendre des décisions et des ordonnances par la persuasion et la conciliation (points 2, 3, 6 et 7), en 14 jours ouvrables (point 10). Limites : accord des parties requis pour les litiges de biens, familiaux, civils, de logement et fonciers (point 21), liste fermée de mesures (avertissement public, excuses publiques, blâme public, réparation du dommage ; point 34), recours selon le Code de procédure civile (point 35) et exécution forcée par le tribunal de district ou de ville (points 37 et 38). Selon CABAR, la loi leur attribue les litiges de biens et familiaux, y compris les violences domestiques, de rémunération du travail et d'irrigation, et les infractions mineures.", source: "https://www.constituteproject.org/constitution/Kyrgyz_Republic_2021"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2020, 795 tribunaux d'aksakals comptaient 4 385 membres selon les données de la Cour suprême ; le nombre d'affaires a augmenté jusqu'en 2018 et aucune donnée n'est disponible pour 2019 ; après décembre 2021, la décision d'un tribunal du district de Sokoulouk ordonnant à une famille de quitter son village a été déclarée illégale par le procureur de district (CABAR). En 2022, le Comité des droits de l'homme relève que leurs membres n'ont pas de connaissances juridiques et statuent selon des normes culturelles et morales traditionnelles (CCPR/C/KGZ/CO/3, paragraphe 39).", source: "https://cabar.asia/en/courts-of-elders-in-kyrgyzstan-arbitrariness-or-necessity"}
+chronologie:
+  - {annee: 2002, evenement: "Adoption d'une loi sur les tribunaux d'aksakals, selon CABAR."}
+  - {annee: 2015, evenement: "Le Comité pour l'élimination de la discrimination à l'égard des femmes relève que les violences faites aux femmes sont portées surtout devant les tribunaux d'aksakals."}
+  - {annee: 2020, evenement: "795 tribunaux d'aksakals et 4 385 membres, selon CABAR."}
+  - {annee: 2021, evenement: "La nouvelle Constitution consacre les tribunaux d'aksakals à l'article 115."}
+  - {annee: 2022, evenement: "Le Comité des droits de l'homme demande que les tribunaux d'aksakals respectent les garanties du procès équitable."}
+  - {annee: 2024, evenement: "L'Agence d'État chargée de l'autogouvernement local lance le 5 décembre un appel à candidatures pour des tribunaux pilotes et approuve le 17 décembre le règlement type des tribunaux d'aksakals."}
+  - {annee: 2025, evenement: "Arrêté du 25 mars sur l'enregistrement des tribunaux d'aksakals auprès des organes exécutifs de l'autogouvernement local ; arrêté du 15 août sur les conseils des tribunaux d'aksakals d'aïyl aïmak, de ville et de district."}
+  - {annee: 2026, evenement: "Arrêté du 25 février approuvant le règlement du Conseil des tribunaux d'aksakals de la République kirghize et abrogeant l'arrêté du 15 août 2025."}
+fiabilite:
+  verifie:
+    - "Article 115 de la Constitution de 2021 : Constitute Project."
+    - "Règlement type du 17 décembre 2024 (points 2, 3, 6, 7, 10, 21, 34, 35, 37 et 38), arrêté n° 01-25/93 du 25 mars 2025 (élection en assemblée des citoyens du lieu de résidence, enregistrement auprès de l'organe exécutif local), arrêtés du 15 août 2025 et du 25 février 2026 (point 7 : abrogation du premier) : site de l'Agence d'État chargée de la fonction publique et de l'autogouvernement local."
+    - "Appel à candidatures pour des tribunaux pilotes : page de l'Agence publiée le 5 décembre 2024."
+    - "Paragraphes 39 et 40 de CCPR/C/KGZ/CO/3 (9 décembre 2022) et 17 et 18 de CEDAW/C/KGZ/CO/4 (11 mars 2015) : textes de l'ONU."
+    - "795 tribunaux et 4 385 membres en 2020 (données de la Cour suprême), compétences, âge minimal de 50 ans des membres et affaire de Sokoulouk : CABAR."
+  non_confirme:
+    - "Loi « sur les tribunaux d'aksakals » en vigueur : numéro et date non lus sur le texte officiel (base de données juridique du ministère de la Justice inaccessible) ; les arrêtés de 2025 et 2026 citent ses articles 17, 38 et 42. Les compétences rapportées par CABAR peuvent relever de la loi de 2002."
+    - "Entrée en vigueur de l'arrêté du 25 février 2026 : sept jours ouvrables après sa publication officielle, date de publication non vérifiée."
+    - "Nombre de tribunaux après 2020 et liste officielle complète par aïyl aïmak : aucune source ouverte ; pas de tableau des sites."
+    - "Date de l'article de CABAR : non indiquée sur la page consultée ; postérieur à décembre 2021."
+sources:
+  - {titre: "Constitution de la République kirghize (2021) — Constitute Project", url: "https://www.constituteproject.org/constitution/Kyrgyz_Republic_2021"}
+  - {titre: "Agence d'État chargée de la fonction publique et de l'autogouvernement local — page « Tribunaux d'aksakals »", url: "https://mkk.gov.kg/ru/%D1%81%D1%83%D0%B4%D1%8B-%D0%B0%D0%BA%D1%81%D0%B0%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2/"}
+  - {titre: "Règlement sur l'enregistrement des tribunaux d'aksakals (arrêté n° 01-25/93 du 25 mars 2025)", url: "https://mkk.gov.kg/ru/wp-content/uploads/2025/04/порядок-регистрации-судов-аксакалов-2.pdf"}
+  - {titre: "Règlement type des tribunaux d'aksakals (17 décembre 2024)", url: "https://mkk.gov.kg/ru/wp-content/uploads/2024/12/Регламент-17.12.2024-1.pdf"}
+  - {titre: "Comité des droits de l'homme — CCPR/C/KGZ/CO/3 (2022)", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/KGZ/CO/3&l=en&t=pdf"}
+  - {titre: "Comité pour l'élimination de la discrimination à l'égard des femmes — CEDAW/C/KGZ/CO/4 (2015)", url: "https://documents.un.org/api/symbol/access?s=CEDAW/C/KGZ/CO/4&l=en&t=pdf"}
+  - {titre: "CABAR — Courts of elders in Kyrgyzstan: arbitrariness or necessity?", url: "https://cabar.asia/en/courts-of-elders-in-kyrgyzstan-arbitrariness-or-necessity"}

@@ -1,0 +1,82 @@
+uid: "villages-autochtones-nouveaux-territoires"
+nom: "Habitants autochtones des Nouveaux Territoires (Hong Kong)"
+endonyme: "原居民"
+territoire: "Nouveaux Territoires, Région administrative spéciale de Hong Kong"
+etats: ["Chine"]
+region: "asie"
+coord: [22.4, 114.1]
+type: "communaute_locale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 603, unite: "villages autochtones et villages autochtones composites", annee: 2023, source: "https://www.had.gov.hk/rre/eng/rural_representative_elections/introduction.htm"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 603, annee: 2023, perimetre: "villages autochtones et villages autochtones composites qui élisent des représentants des habitants autochtones (mandat 2023-2027)", source: "https://www.had.gov.hk/rre/eng/rural_representative_elections/introduction.htm"}
+resume: >-
+  Fiche agrégée : elle couvre les habitants autochtones (原居民, « indigenous inhabitants ») des Nouveaux Territoires de Hong Kong, c'est-à-dire les personnes qui descendent en ligne masculine d'un résident de 1898 d'un village établi. L'article 40 de la Loi fondamentale (constitution de la Région administrative spéciale, 1990, en vigueur en 1997) protège leurs « droits et intérêts traditionnels légaux » ; l'article 122 maintient inchangé le loyer foncier de leurs terres rurales. Dans 603 villages autochtones, ils élisent 789 représentants des habitants autochtones selon l'ordonnance sur l'élection des représentants ruraux (cap. 576, 2003) ; avec les représentants des résidents, ces représentants siègent dans les 27 comités ruraux des Nouveaux Territoires, qui composent la Heung Yee Kuk, organe consultatif établi par une ordonnance de 1959 et titulaire d'un siège au Conseil législatif. La politique des petites maisons (1972), qui ouvre à chaque homme autochtone un droit à construire une maison, a été jugée conforme à la Loi fondamentale par la Cour d'appel final le 5 novembre 2021.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination à l'égard des femmes, observations finales sur la Chine (CEDAW/C/CHN/CO/6), § 37-38 : préoccupation devant la politique des petites maisons, réservée aux hommes autochtones des Nouveaux Territoires ; demande d'en retirer les dispositions discriminatoires.", annee: 2006, source: "https://documents.un.org/api/symbol/access?s=CEDAW/C/CHN/CO/6&l=en&t=pdf"}
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination à l'égard des femmes, observations finales sur la Chine (CEDAW/C/CHN/CO/9), § 63-64 : maintien de la politique des petites maisons au profit des descendants masculins des villageois autochtones des Nouveaux Territoires ; recommandation de l'appliquer sans discrimination envers les femmes.", annee: 2023, source: "https://documents.un.org/api/symbol/access?s=CEDAW/C/CHN/CO/9&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Loi fondamentale de la Région administrative spéciale de Hong Kong (1990, en vigueur le 1er juillet 1997), art. 40 (droits et intérêts traditionnels légitimes des habitants autochtones des Nouveaux Territoires)", nature: "constitution", annee: 1990, source: "https://www.basiclaw.gov.hk/en/basiclaw/chapter3.html"}
+  - {instrument: "Loi fondamentale, art. 122 (loyer foncier inchangé pour les terres rurales tenues par les descendants en ligne masculine des résidents de 1898)", nature: "constitution", annee: 1990, source: "https://www.basiclaw.gov.hk/en/basiclaw/chapter5.html"}
+  - {instrument: "Loi fondamentale, annexe II : la Heung Yee Kuk forme l'une des 28 circonscriptions fonctionnelles du Conseil législatif", nature: "constitution", annee: 2021, source: "https://www.basiclaw.gov.hk/en/basiclaw/annex2.html"}
+  - {instrument: "Ordonnance sur l'élection des représentants ruraux (Rural Representative Election Ordinance, cap. 576), adoptée en 2003 sous le nom d'ordonnance sur l'élection des représentants de village, renommée en 2014", nature: "loi", annee: 2003, source: "https://www.had.gov.hk/rre/eng/rural_representative_elections/introduction.htm"}
+  - {instrument: "Politique des petites maisons des Nouveaux Territoires (New Territories Small House Policy), 1972 : mesure administrative du département des terres", nature: "coutume_reconnue", annee: 1972, source: "http://www.landsd.gov.hk/en/images/doc/NTSHP_E_text.pdf"}
+  - {instrument: "Ordonnance sur la Heung Yee Kuk (Heung Yee Kuk Ordinance, cap. 1097), 1959", nature: "loi", annee: 1959, source: "https://www.had.gov.hk/rre/en/other_rural_elections/heung_yee_kuk_elections.php"}
+  - {instrument: "Cour d'appel final, Kwok Cheuk Kin c. Director of Lands, arrêt du 5 novembre 2021 : les trois formes de concession de la politique des petites maisons (licence de construction gratuite, concession de gré à gré sur terrain public, échange de terrain) relèvent des droits protégés par l'art. 40", nature: "jurisprudence", annee: 2021, source: "https://www.info.gov.hk/gia/general/202111/05/P2021110500275.htm"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Dans chacun des 603 villages autochtones, les habitants autochtones élisent un ou plusieurs représentants des habitants autochtones (789 sièges, mandat 2023-2027) selon l'ordonnance cap. 576 (2003) ; chaque représentant exprime les vues des habitants autochtones sur les affaires du village et traite des affaires liées à leurs droits et intérêts traditionnels légaux et à leur mode de vie traditionnel. Avec les représentants des résidents, ils siègent dans les comités ruraux, qui composent la Heung Yee Kuk (ordonnance cap. 1097, 1959). Ces instances ont un rôle de représentation et de consultation, sans compétence administrative propre établie par les sources consultées.", source: "https://www.had.gov.hk/rre/eng/rural_representative_elections/introduction.htm"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La politique des petites maisons (1972) ouvre à chaque habitant autochtone, homme âgé d'au moins 18 ans descendant en ligne masculine d'un résident de 1898 d'un village reconnu, une seule concession dans sa vie pour bâtir une maison de trois étages au plus dans la zone de village ou ses abords ; le représentant des habitants autochtones ou le comité rural certifie le statut du demandeur. Le gouvernement indique que la Cour d'appel final a confirmé le 5 novembre 2021 que les trois formes de concession relèvent de l'art. 40 de la Loi fondamentale. Le droit est attribué à des individus ; la maîtrise collective des terres de village n'est pas établie par les sources consultées.", source: "http://www.landsd.gov.hk/en/images/doc/NTSHP_E_text.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "L'annexe II de la Loi fondamentale (version de 2021) fait de la Heung Yee Kuk l'une des 28 circonscriptions fonctionnelles (sièges élus par un collège sectoriel) du Conseil législatif ; la Heung Yee Kuk réunit les comités ruraux, où siègent les représentants des habitants autochtones et des résidents des villages.", source: "https://www.basiclaw.gov.hk/en/basiclaw/annex2.html"}
+  statut_personnel: {valeur: "partiel", note: "Le statut d'habitant autochtone se transmet en ligne masculine depuis un résident de 1898 d'un village établi ; il ouvre le droit de vote pour les représentants des habitants autochtones (cap. 576), la concession de petite maison (politique de 1972) et le loyer foncier inchangé (art. 122 de la Loi fondamentale). Il ne crée pas de citoyenneté distincte.", source: "https://www.basiclaw.gov.hk/en/basiclaw/chapter5.html"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Comité pour l'élimination de la discrimination à l'égard des femmes relève en 2023 le maintien de la politique des petites maisons au profit des descendants masculins des villageois autochtones des Nouveaux Territoires et demande qu'elle s'applique sans discrimination envers les femmes (CEDAW/C/CHN/CO/9, § 63-64) ; il avait demandé en 2006 le retrait de ses dispositions discriminatoires. Les élections des représentants ruraux se tiennent tous les quatre ans (mandat 2023-2027).", source: "https://documents.un.org/api/symbol/access?s=CEDAW/C/CHN/CO/9&l=en&t=pdf"}
+chronologie:
+  - {annee: 1898, evenement: "Seconde convention de Pékin : les Nouveaux Territoires sont cédés à bail au Royaume-Uni pour 99 ans ; les résidents des villages établis cette année-là servent de référence au statut d'habitant autochtone."}
+  - {annee: 1926, evenement: "Création de la Heung Yee Kuk."}
+  - {annee: 1959, evenement: "Ordonnance sur la Heung Yee Kuk (cap. 1097) : la Heung Yee Kuk devient un organe consultatif établi par la loi."}
+  - {annee: 1972, evenement: "Introduction de la politique des petites maisons."}
+  - {annee: 1990, evenement: "Adoption de la Loi fondamentale, dont les art. 40 et 122 visent les habitants autochtones des Nouveaux Territoires."}
+  - {annee: 1994, evenement: "Une ordonnance ouvre aux femmes l'héritage des terres rurales malgré l'opposition de la Heung Yee Kuk."}
+  - {annee: 1997, evenement: "Entrée en vigueur de la Loi fondamentale."}
+  - {annee: 2003, evenement: "Ordonnance sur l'élection des représentants de village (cap. 576), renommée en 2014 ordonnance sur l'élection des représentants ruraux."}
+  - {annee: 2006, evenement: "Le Comité pour l'élimination de la discrimination à l'égard des femmes demande le retrait des dispositions discriminatoires de la politique des petites maisons."}
+  - {annee: 2019, evenement: "Le tribunal de première instance juge contraires à la Loi fondamentale deux des trois modes d'attribution des petites maisons."}
+  - {annee: 2021, evenement: "La Cour d'appel (13 janvier) puis la Cour d'appel final (5 novembre) jugent la politique des petites maisons conforme à la Loi fondamentale."}
+  - {annee: 2023, evenement: "Début du mandat 2023-2027 des représentants ruraux : 789 sièges de représentants des habitants autochtones dans 603 villages."}
+fiabilite:
+  verifie:
+    - "Texte des art. 40 et 122 de la Loi fondamentale et présence de la Heung Yee Kuk parmi les circonscriptions fonctionnelles de l'annexe II (site officiel basiclaw.gov.hk)."
+    - "603 villages autochtones, 789 sièges de représentants des habitants autochtones, 27 comités ruraux, mandat 2023-2027 (département des affaires intérieures)."
+    - "Liste des 603 villages tirée des listes officielles des représentants ruraux par comité rural (2023-2027)."
+    - "Observations du CEDAW de 2006 (§ 37-38) et de 2023 (§ 63-64) sur la politique des petites maisons."
+    - "Critères et forme de la concession de petite maison (brochure du département des terres) ; confirmation par la Cour d'appel final le 5 novembre 2021 (communiqué du gouvernement)."
+  non_confirme:
+    - "Arrêt de la Cour d'appel final du 5 novembre 2021 : date et portée vérifiées sur le communiqué du gouvernement, pas sur le texte de l'arrêt."
+    - "Terres tso/tong (patrimoine indivis d'une lignée) : environ 2 400 hectares selon la Heung Yee Kuk, vente soumise à l'accord unanime de la lignée ; chiffres rapportés par une encyclopédie en ligne, absents de la fiche."
+    - "Nombre d'habitants autochtones : aucune statistique officielle trouvée."
+    - "Reconnaissance de la coutume chinoise par l'ordonnance sur les Nouveaux Territoires (cap. 97) et gestion des tso/tong : texte officiel non consulté."
+sources:
+  - {titre: "Loi fondamentale de Hong Kong, chapitre III (art. 40) — basiclaw.gov.hk", url: "https://www.basiclaw.gov.hk/en/basiclaw/chapter3.html"}
+  - {titre: "Loi fondamentale de Hong Kong, chapitre V (art. 122) — basiclaw.gov.hk", url: "https://www.basiclaw.gov.hk/en/basiclaw/chapter5.html"}
+  - {titre: "Loi fondamentale de Hong Kong, annexe II — basiclaw.gov.hk", url: "https://www.basiclaw.gov.hk/en/basiclaw/annex2.html"}
+  - {titre: "Loi fondamentale de Hong Kong (traduction anglaise) — Congressional-Executive Commission on China", url: "https://www.cecc.gov/resources/legal-provisions/basic-law-of-the-hong-kong-special-administrative-region-of-the-peoples"}
+  - {titre: "Rural Representative Election — Introduction, Home Affairs Department", url: "https://www.had.gov.hk/rre/eng/rural_representative_elections/introduction.htm"}
+  - {titre: "List of Rural Representatives (2023-2027), Home Affairs Department", url: "https://www.had.gov.hk/rre/en/rural_representative_elections/elections/map23-27.php"}
+  - {titre: "Heung Yee Kuk Elections, Home Affairs Department", url: "https://www.had.gov.hk/rre/en/other_rural_elections/heung_yee_kuk_elections.php"}
+  - {titre: "CEDAW/C/CHN/CO/6, observations finales (2006)", url: "https://documents.un.org/api/symbol/access?s=CEDAW/C/CHN/CO/6&l=en&t=pdf"}
+  - {titre: "CEDAW/C/CHN/CO/9, observations finales (2023)", url: "https://documents.un.org/api/symbol/access?s=CEDAW/C/CHN/CO/9&l=en&t=pdf"}
+  - {titre: "New Territories Small House Policy — How to apply for a small house grant, département des terres", url: "http://www.landsd.gov.hk/en/images/doc/NTSHP_E_text.pdf"}
+  - {titre: "Government welcomes CFA judgment on Small House Policy, communiqué du 5 novembre 2021 — info.gov.hk", url: "https://www.info.gov.hk/gia/general/202111/05/P2021110500275.htm"}
+  - {titre: "J. Ho et C. Cheung, Small House Policy, Custom and Article 40 of the Basic Law, K C Ho & Fong, 2014 (position d'un membre de la Heung Yee Kuk)", url: "https://www.kcho-fong.com/attach/talk20140115en.pdf"}
+  - {titre: "Small House Policy — Wikipedia (terres tso/tong)", url: "https://en.wikipedia.org/wiki/Small_House_Policy"}
+  - {titre: "Heung Yee Kuk — Wikipedia", url: "https://en.wikipedia.org/wiki/Heung_Yee_Kuk"}

@@ -1,0 +1,58 @@
+uid: "moriori-rekohu"
+nom: "Moriori de Rēkohu (îles Chatham)"
+endonyme: "Moriori"
+territoire: "Rēkohu (île Chatham), Rangiaotea / Rangihaute (île Pitt) et îles voisines, Nouvelle-Zélande"
+etats: ["Nouvelle-Zélande"]
+region: "oceanie"
+coord: [-44.0, -176.5]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "mixte"
+population: {valeur: 738, annee: 2013, perimetre: "personnes déclarant une affiliation moriori au recensement ; Te Kāhui Māngai indique 1 200 membres inscrits (août 2020) ; le résumé officiel du règlement de 2020 compte 872 adultes et 860 enfants inscrits auprès de Hokotehi Moriori Trust", source: "https://www.tkm.govt.nz/iwi/moriori/"}
+lieux: {valeur: 1, unite: "marae (lieu de rassemblement) : Kopinga, à Waitangi (Rēkohu)", annee: 2026, source: "https://www.tkm.govt.nz/iwi/moriori/"}
+surface_km2: {valeur: null, annee: null, perimetre: "zone d'intérêt moriori : ensemble des îles Chatham ; surface non publiée dans les sources consultées", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Moriori sont les premiers habitants de Rēkohu (îles Chatham), arrivés entre 1000 et 1400 de notre ère. Après l'invasion de 1835, leur réduction en servitude et l'attribution de plus de 97 % des terres à d'autres groupes par la Cour des terres autochtones en 1870, ils ont été présentés à tort comme éteints. L'acte de règlement signé avec la Couronne le 14 février 2020, mis en œuvre par le Moriori Claims Settlement Act 2021, reconnaît les Moriori comme imi (peuple) et tchakat henu (peuple d'origine du lieu), contient des excuses de la Couronne, transfère huit sites et 18 millions de dollars néo-zélandais et crée un droit de préemption partagé. Le Moriori Imi Settlement Trust reçoit les biens du règlement ; Hokotehi Moriori Trust est l'organisation iwi mandatée pour les pêcheries et l'autorité iwi au titre de la loi sur la gestion des ressources de 1991. Un acte distinct de réparation partagée avec Ngāti Mutunga o Wharekauri, signé le 16 septembre 2026 par la Couronne et au moins une des deux entités de gouvernance, prévoit le transfert du lit du lagon Te Whanga et un comité de planification commun ; il dépend d'une loi encore à adopter.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "La Nouvelle-Zélande a annoncé son appui à la Déclaration en avril 2010 (A/HRC/18/35/Add.4) ; l'acte de règlement de 2020 reconnaît les Moriori comme tchakat henu (tangata whenua, peuple d'origine du lieu) de Rēkohu (clause 3.1) et les désigne comme waina pono (habitants d'origine) (clause 3.13). Le rapport du Rapporteur spécial ne nomme pas les Moriori.", annee: 2010, source: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Acte de règlement des revendications historiques des Moriori (Moriori Deed of Settlement), signé le 14 février 2020", nature: "accord_revendication", annee: 2020, source: "https://www.whakatau.govt.nz/te-tira-kurapounamu-treaty-settlements/find-a-treaty-settlement/moriori"}
+  - {instrument: "Moriori Claims Settlement Act 2021", nature: "accord_revendication", annee: 2021, source: "https://www.tkm.govt.nz/iwi/moriori/"}
+  - {instrument: "Māori Fisheries Act 2004 (Hokotehi Moriori Trust, organisation iwi mandatée)", nature: "loi", annee: 2004, source: "https://www.tkm.govt.nz/iwi/moriori/"}
+  - {instrument: "Resource Management Act 1991 (Hokotehi Moriori Trust, autorité iwi)", nature: "loi", annee: 1991, source: "https://www.tkm.govt.nz/iwi/moriori/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Moriori Imi Settlement Trust, entité de gouvernance post-règlement établie en décembre 2018 par Hokotehi Moriori Trust, reçoit et gère les biens du règlement pour l'ensemble des Moriori ; la Couronne reconnaît depuis novembre 2003 le mandat de Hokotehi Moriori Trust pour représenter les Moriori. Ces entités n'exercent pas de pouvoirs de puissance publique.", source: "https://www.whakatau.govt.nz/te-tira-kurapounamu-treaty-settlements/find-a-treaty-settlement/moriori"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Huit sites, surtout sur l'île Pitt, sont transférés en pleine propriété à l'entité de gouvernance moriori, plusieurs sous statut de réserve (acte de règlement de 2020, clause 5.13) ; un droit de préemption partagé avec Ngāti Mutunga o Wharekauri, d'une durée de 179 ans, porte sur les terres de la Couronne des îles Chatham (clauses 6.8 et 6.9).", source: "https://www.whakatau.govt.nz/assets/Treaty-Settlements/FIND_Treaty_Settlements/Moriori/DOS_documents/1.-Moriori-Deed-of-Settlement-Historical-Claims.pdf"}
+  ressources: {valeur: "partiel", note: "L'acte de 2020 prévoit l'élaboration de règlements de pêche coutumière non commerciale pour la zone Rēkohu / Wharekauri, avec des t'chieki (gardiens) nommés par l'entité moriori et Ngāti Mutunga o Wharekauri, et un droit de préemption sur des quotas de pêche (clauses 5.42 à 5.45 et 5.51) ; l'adoption de ces règlements n'a pas été vérifiée.", source: "https://www.whakatau.govt.nz/assets/Treaty-Settlements/FIND_Treaty_Settlements/Moriori/DOS_documents/1.-Moriori-Deed-of-Settlement-Historical-Claims.pdf"}
+  consentement: {valeur: "partiel", note: "Des reconnaissances statutaires (statutory acknowledgements) renforcent la participation des Moriori aux procédures de gestion des ressources ; des actes de reconnaissance obligent la Couronne à les consulter sur certains sites ; des protocoles fixent la consultation par plusieurs ministères (acte de règlement de 2020).", source: "https://www.whakatau.govt.nz/te-tira-kurapounamu-treaty-settlements/find-a-treaty-settlement/moriori"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune évaluation indépendante de l'application du règlement n'a été consultée. La réparation partagée (lagon Te Whanga, comité de planification commun auprès du conseil des îles Chatham, terres de l'école de Kaingaroa) reste soumise à une loi non adoptée ; l'acte du 16 septembre 2026 prend effet même si une seule des deux entités de gouvernance le signe.", source: "https://www.whakatau.govt.nz/assets/Treaty-Settlements/FIND_Treaty_Settlements/Rekohu-Wharekauri-Shared-Redress/Rekohu-Wharekauri-Shared-Redress-Deed-16-September-2026-v3.pdf"}
+chronologie:
+  - {annee: 1835, evenement: "Arrivée de Ngāti Mutunga et Ngāti Tama ; des Moriori sont tués et les survivants réduits en servitude."}
+  - {annee: 1842, evenement: "Annexion des îles Chatham à la Nouvelle-Zélande."}
+  - {annee: 1870, evenement: "La Cour des terres autochtones attribue moins de 3 % des terres aux Moriori."}
+  - {annee: 2001, evenement: "Création de Hokotehi Moriori Trust pour représenter l'ensemble des Moriori."}
+  - {annee: 2003, evenement: "La Couronne reconnaît le mandat de Hokotehi Moriori Trust pour négocier le règlement."}
+  - {annee: 2017, evenement: "Accord de principe entre la Couronne et les Moriori (16 août)."}
+  - {annee: 2020, evenement: "Signature de l'acte de règlement (14 février), avec excuses de la Couronne."}
+  - {annee: 2021, evenement: "Adoption du Moriori Claims Settlement Act 2021 ; acte modificatif du règlement signé le 17 novembre."}
+  - {annee: 2026, evenement: "Acte de réparation partagée Rēkohu Wharekauri signé le 16 septembre par la Couronne et au moins une entité de gouvernance, sous condition d'une loi."}
+fiabilite:
+  verifie: ["Contenu de l'acte de règlement de 2020 : reconnaissance (clause 3.1), excuses (clauses 3.13 à 3.21), transfert des sites (5.13), pêche coutumière (5.42 à 5.45), droit de préemption partagé de 179 ans (6.8 et 6.9) ; création de Hokotehi Moriori Trust en 2001 (clause 1.102).", "Résumé officiel du règlement : huit sites transférés, 18 millions de dollars, reconnaissances statutaires, protocoles (Te Tari Whakatau).", "Statuts de Hokotehi Moriori Trust au titre du Māori Fisheries Act 2004 et du Resource Management Act 1991 (Te Kāhui Māngai).", "Acte de réparation partagée du 16 septembre 2026 : lagon Te Whanga, conseil de gestion, comité de planification commun de huit membres dont deux nommés par l'entité moriori."]
+  non_confirme: ["Texte de la loi de 2021 : legislation.govt.nz a refusé l'accès ; numéro et date d'entrée en vigueur non vérifiés.", "La « propriété de 50 % du lagon Te Whanga » annoncée en 2021 relève de la réparation partagée, pas encore en vigueur.", "Signature effective de l'acte de 2026 par les administrateurs du Moriori Imi Settlement Trust (bloc de signature non rempli dans la copie publiée).", "Population au recensement de 2023.", "Surface de la zone d'intérêt."]
+sources:
+  - {titre: "Te Kāhui Māngai — Moriori", url: "https://www.tkm.govt.nz/iwi/moriori/"}
+  - {titre: "Te Tari Whakatau — Moriori, résumé et documents du règlement", url: "https://www.whakatau.govt.nz/te-tira-kurapounamu-treaty-settlements/find-a-treaty-settlement/moriori"}
+  - {titre: "Moriori Deed of Settlement — Historical claims (2020)", url: "https://www.whakatau.govt.nz/assets/Treaty-Settlements/FIND_Treaty_Settlements/Moriori/DOS_documents/1.-Moriori-Deed-of-Settlement-Historical-Claims.pdf"}
+  - {titre: "Rēkohu Wharekauri Shared Redress Deed (16 septembre 2026)", url: "https://www.whakatau.govt.nz/assets/Treaty-Settlements/FIND_Treaty_Settlements/Rekohu-Wharekauri-Shared-Redress/Rekohu-Wharekauri-Shared-Redress-Deed-16-September-2026-v3.pdf"}
+  - {titre: "RNZ — Treaty of Waitangi settlement for Moriori completed as bill passes final reading", url: "https://www.rnz.co.nz/news/national/456427/treaty-of-waitangi-settlement-for-moriori-completed-as-bill-passes-final-reading"}
+  - {titre: "Rapporteur spécial — Situation du peuple maori en Nouvelle-Zélande, A/HRC/18/35/Add.4 (2011)", url: "https://documents.un.org/api/symbol/access?s=A/HRC/18/35/Add.4&l=fr&t=pdf"}

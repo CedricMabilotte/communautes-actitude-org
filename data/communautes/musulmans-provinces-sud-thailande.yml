@@ -1,0 +1,54 @@
+uid: "musulmans-provinces-sud-thailande"
+nom: "Musulmans malais du Sud de la Thaïlande"
+endonyme: "Malayu"
+territoire: "Provinces de Pattani, Yala, Narathiwat et Satun (Sud de la Thaïlande)"
+etats: ["Thaïlande"]
+region: "asie"
+coord: [6.6, 101.1]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 1400000, annee: 2011, perimetre: "Thaïlandais d'ascendance malaise des provinces frontalières du Sud (Yala, Pattani, Narathiwat, Satun et Songkhla), chiffre arrondi donné par l'État dans son rapport au CERD", source: "https://docs.un.org/en/CERD/C/THA/1-3"}
+lieux: {valeur: 4, unite: "provinces", annee: 1946, source: "https://journal.uinjkt.ac.id/ahkam/article/view/30437"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Malais musulmans, qui se nomment eux-mêmes « Malayu », forment environ 80 % de la population des provinces frontalières du Sud de la Thaïlande selon l'État. Depuis la loi de 1946 sur l'application du droit islamique dans les provinces de Pattani, Narathiwat, Yala et Satun, le droit islamique de la famille et des successions s'applique entre musulmans dans ces quatre provinces. Un juge musulman, le Dato' Yutitham (juge « de justice »), siège avec les juges civils des tribunaux de première instance ; sa décision sur le droit islamique est sans appel. Il n'existe ni autonomie territoriale ni statut officiel de la langue malaise.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale (CERD/C/THA/CO/1-3), § 20 et 21 : femmes malayu et application des lois spéciales aux Thaïlandais malayu dans les provinces frontalières du Sud", annee: 2012, source: "https://docs.un.org/en/CERD/C/THA/CO/1-3"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du CERD (CERD/C/THA/CO/4-8), § 23 à 25 : groupes ethniques et ethno-religieux des provinces frontalières du Sud, dont les Thaïlandais malais", annee: 2022, source: "https://docs.un.org/en/CERD/C/THA/CO/4-8"}
+base_nationale:
+  - {instrument: "Loi sur l'application du droit islamique dans les provinces de Pattani, Narathiwat, Yala et Satun, B.E. 2489", nature: "loi", annee: 1946, source: "https://journal.uinjkt.ac.id/ahkam/article/view/30437"}
+  - {instrument: "Loi sur l'administration des organisations religieuses islamiques, B.E. 2540", nature: "loi", annee: 1997, source: "https://docs.un.org/en/CERD/C/THA/1-3"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "Un juge musulman (Dato' Yutitham) siège avec les juges civils des tribunaux de première instance des quatre provinces pour les affaires de famille et de succession entre musulmans ; sa décision sur le droit islamique est sans appel, loi de 1946. Les faits sont établis par les juges civils selon la procédure civile.", source: "https://journal.uinjkt.ac.id/ahkam/article/view/30437"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Le droit islamique de la famille et des successions s'applique entre musulmans dans les provinces de Pattani, Narathiwat, Yala et Satun, loi de 1946 ; hors de ces matières, le Code civil et commercial s'applique.", source: "https://journal.uinjkt.ac.id/ahkam/article/view/30437"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les juges musulmans siègent dans les tribunaux des quatre provinces, avec des pouvoirs limités par rapport aux juges civils ; l'essentiel des litiges familiaux est réglé par médiation au conseil islamique provincial, dont les décisions ne lient pas les parties (Pattani : 910 affaires résolues en 2019). Le CERD relève en 2022 l'état d'urgence en vigueur depuis 2005 et des discriminations envers les groupes ethno-religieux de la région.", source: "https://journal.uinjkt.ac.id/ahkam/article/view/30437"}
+chronologie:
+  - {annee: 1946, evenement: "Loi sur l'application du droit islamique dans les provinces de Pattani, Narathiwat, Yala et Satun ; création des postes de juges musulmans."}
+  - {annee: 1997, evenement: "Loi sur l'administration des organisations religieuses islamiques, qui encadre les conseils islamiques provinciaux."}
+  - {annee: 2005, evenement: "Décret d'urgence appliqué aux provinces frontalières du Sud, prolongé depuis."}
+  - {annee: 2012, evenement: "Le CERD examine les rapports périodiques 1 à 3 de la Thaïlande et vise la situation des Malayu."}
+  - {annee: 2015, evenement: "Le ministère de la Justice lance un projet de médiation en droit islamique de la famille et des successions dans les conseils islamiques de cinq provinces."}
+  - {annee: 2022, evenement: "Publication des observations finales du CERD sur les rapports périodiques 4 à 8 de la Thaïlande, adoptées le 1er décembre 2021."}
+fiabilite:
+  verifie: ["Paragraphes 20 et 21 de CERD/C/THA/CO/1-3 (2012) et 23 à 25 de CERD/C/THA/CO/4-8 (2022).", "Population d'environ 1,4 million et part de 80 % : rapport de la Thaïlande au CERD (CERD/C/THA/1-3, 2011), § 23.", "Projet de médiation du ministère de la Justice depuis 2015 : CERD/C/THA/4-8, § 58.", "Rôle du Dato' Yutitham et caractère définitif de sa décision : article de la revue Ahkam (2023)."]
+  non_confirme: ["Texte de la loi de 1946 non consulté directement ; son contenu est connu par l'article de la revue Ahkam, qui présente des incohérences de dates.", "Mode de désignation des conseils islamiques provinciaux selon la loi de 1997 non vérifié sur le texte.", "Le chiffre de population inclut la province de Songkhla, hors du champ de la loi de 1946.", "Surface des quatre provinces : pas de source officielle ouverte."]
+sources:
+  - {titre: "Samah, Abdullah, Mat Hussin, Ferdousi, « Dato' Yutitam in the Civil Court System of Thailand », Ahkam, vol. 23, n° 1, 2023", url: "https://journal.uinjkt.ac.id/ahkam/article/view/30437"}
+  - {titre: "CERD, observations finales sur la Thaïlande, CERD/C/THA/CO/1-3 (2012)", url: "https://docs.un.org/en/CERD/C/THA/CO/1-3"}
+  - {titre: "CERD, observations finales sur la Thaïlande, CERD/C/THA/CO/4-8 (2022)", url: "https://docs.un.org/en/CERD/C/THA/CO/4-8"}
+  - {titre: "Thaïlande, rapports périodiques 1 à 3 au CERD, CERD/C/THA/1-3 (2011)", url: "https://docs.un.org/en/CERD/C/THA/1-3"}
+  - {titre: "Thaïlande, rapports périodiques 4 à 8 au CERD, CERD/C/THA/4-8 (2019)", url: "https://docs.un.org/en/CERD/C/THA/4-8"}
+  - {titre: "Minority Rights Group, Patani Malay Muslims in Thailand", url: "https://minorityrights.org/communities/malay-muslims/"}

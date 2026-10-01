@@ -1,0 +1,58 @@
+uid: "associations-eleveurs-paturages-mongolie"
+nom: "Associations d'éleveurs de Mongolie"
+endonyme: ""
+territoire: "Pâturages confiés par contrat du gouverneur de sum (district rural) aux associations primaires de ménages d'éleveurs, dans l'ensemble des aimags (provinces)"
+etats: ["Mongolie"]
+region: "asie"
+coord: [46.9, 103.8]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "associations primaires de ménages d'éleveurs", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les associations primaires de ménages d'éleveurs, c'est-à-dire les groupes d'au moins dix ménages voisins d'un même sum (district rural) qui vivent de l'élevage pastoral toute l'année. La loi du 5 juin 2024 sur le statut juridique de l'association unifiée des ménages d'éleveurs, en vigueur le 1er juillet 2024, en fait des personnes morales sans but lucratif administrées par leurs membres (« self-governance » dans la traduction anglaise), regroupées au niveau du sum, de la province et du pays. Selon la loi sur la terre modifiée en 2024 (article 52.2), le gouverneur de sum peut, sur proposition de l'assemblée générale des citoyens du bag (subdivision du sum) et selon la capacité de charge, leur confier l'usage d'un pâturage par contrat ; l'association organise alors l'usage, la protection et la restauration de ce pâturage selon sa capacité de charge. Les pâturages restent propriété de l'État et ne peuvent pas être attribués en propriété privée (Constitution, article 6.3). Le régime est récent : des règles types de contrat ont été préparées en 2025 et aucun décompte national des associations ou des contrats n'a été trouvé.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la Mongolie (1992), article 6.2 et 6.3 : les terres non privées sont propriété de l'État ; les pâturages sont exclus de l'attribution en propriété privée", nature: "constitution", annee: 1992, source: "https://www.constituteproject.org/constitution/Mongolia_2001"}
+  - {instrument: "Loi sur le statut juridique de l'association unifiée des ménages d'éleveurs (5 juin 2024, en vigueur le 1er juillet 2024), articles 5 à 18", nature: "loi", annee: 2024, source: "https://legalinfo.mn/en/edtl/17333371004191"}
+  - {instrument: "Loi sur la terre, modifiée en juin 2024, article 52.2 : le gouverneur peut confier l'usage d'un pâturage par contrat à une association primaire de ménages d'éleveurs", nature: "loi", annee: 2024, source: "https://cpr.mn/?lang=en&p=979"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'association primaire, d'au moins dix ménages, est une personne morale administrée par ses membres (« self-governance ») ; elle est dirigée par l'assemblée de tous les membres (un ménage, une voix), qui adopte les statuts, élit pour deux ans le président et au plus cinq dirigeants, et décide des admissions et des exclusions (loi de 2024, articles 4.1.3, 7, 13, 14 et 16) ; l'admission de ménages nouveaux ou venus d'ailleurs tient compte de la capacité de charge des pâturages et des recommandations du gouverneur de sum (article 14.3).", source: "https://legalinfo.mn/en/edtl/17333371004191"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les statuts, enregistrés auprès de l'autorité d'enregistrement, fixent les droits et devoirs des membres, la suspension et l'exclusion et les sanctions en cas de manquement (loi de 2024, article 6) ; l'assemblée approuve le calendrier de rotation et de restauration des pâturages (article 14.1.5), dans le cadre du contrat signé avec le gouverneur (article 10.1).", source: "https://legalinfo.mn/en/edtl/17333371004191"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le gouverneur de sum peut, sur proposition de l'assemblée générale des citoyens du bag (subdivision du sum) et selon les caractéristiques locales et la capacité de charge, confier l'usage d'un pâturage par contrat à l'association primaire pour le protéger de la dégradation et le restaurer (loi sur la terre, article 52.2, cité par le Center for Policy Research) ; il s'agit d'un droit d'usage : les pâturages appartiennent à l'État et ne peuvent pas être donnés en propriété privée (Constitution, article 6.3), et un ménage non membre peut les utiliser à condition de les respecter (loi de 2024, article 10.5).", source: "https://cpr.mn/?lang=en&p=979"}
+  ressources: {valeur: "partiel", note: "Selon le contrat avec le gouverneur, l'association organise l'usage des pâturages selon leur capacité de charge et un calendrier saisonnier, la restauration des pâturages dégradés, la surveillance de l'usage des plantes, de l'eau et de la faune sauvage, l'amélioration de l'approvisionnement en eau et l'usage des prairies de fauche ; la mise en culture des pâturages sous contrat est interdite (loi de 2024, articles 4.1.4, 10.1 et 10.3).", source: "https://legalinfo.mn/en/edtl/17333371004191"}
+  consentement: {valeur: "partiel", note: "L'association primaire vote sur le projet de programme et de plan de protection de la nature à mettre en œuvre dans la zone (loi de 2024, article 10.1.12) ; l'association de sum donne des recommandations sur le plan annuel d'aménagement du territoire du sum et sur le budget local consacré à l'élevage et aux pâturages (article 20.1.4 et 20.1.5) ; la loi ne précise pas l'effet de ce vote et aucun texte trouvé ne prévoit de consentement préalable.", source: "https://legalinfo.mn/en/edtl/17333371004191"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "La loi est en vigueur depuis le 1er juillet 2024 ; les règles d'établissement des contrats d'usage des pâturages et le contrat type ont été préparés de mai à juillet 2025 par le Center for Policy Research, sur commande du ministère de l'Alimentation, de l'Agriculture et de l'Industrie légère ; aucune source indépendante trouvée ne donne le nombre d'associations enregistrées ni de contrats signés.", source: "https://cpr.mn/?lang=en&p=979"}
+chronologie:
+  - {annee: 1992, evenement: "La Constitution exclut les pâturages de l'attribution de terres en propriété privée (article 6.3)."}
+  - {annee: 2024, evenement: "Le Grand Khoural d'État (Parlement) adopte le 5 juin la loi sur le statut juridique de l'association unifiée des ménages d'éleveurs, la loi sur les éleveurs et des modifications de la loi sur la terre."}
+  - {annee: 2024, evenement: "Entrée en vigueur de la loi sur l'association des ménages d'éleveurs le 1er juillet."}
+  - {annee: 2025, evenement: "Préparation, de mai à juillet, des règles d'établissement des contrats d'usage des pâturages et d'un contrat type pour le ministère chargé de l'agriculture."}
+fiabilite:
+  verifie:
+    - "Date d'adoption (5 juin 2024) et d'entrée en vigueur (1er juillet 2024) de la loi, seuil de dix ménages (article 7.1), organes et pouvoirs de l'assemblée (articles 13 à 16), missions sur les pâturages sous contrat (article 10), financement (article 18) : traduction anglaise non officielle publiée sur legalinfo.mn."
+    - "Article 6.3 de la Constitution excluant les pâturages de la propriété privée : Constitute Project."
+    - "Article 52.2 de la loi sur la terre et préparation des règles types de contrat en 2025 : Center for Policy Research."
+  non_confirme:
+    - "Texte officiel de la loi sur la terre modifiée en 2024 : article 52.2 lu seulement dans la citation du Center for Policy Research."
+    - "Nombre d'associations primaires enregistrées, de contrats signés et surface de pâturages sous contrat : aucune source trouvée."
+    - "Adoption officielle des règles types de contrat de 2025 par arrêté ministériel : non vérifiée."
+    - "Fiscalité et budget : la loi de 2024 ne prévoit que les cotisations fixées par l'assemblée, les fonds prévus par la loi, les revenus d'activité et les dons (article 18), et une aide publique possible en cas de catastrophe (article 27.1) ; aucun prélèvement sur des tiers ni budget public garanti trouvé."
+    - "Le CAPA date l'adoption de la loi de juillet 2024 ; le texte publié sur legalinfo.mn donne le 5 juin 2024 et une entrée en vigueur le 1er juillet 2024."
+    - "Le texte de la Constitution consulté est celui de 1992 modifié en 2001 ; les modifications de 2019 n'ont pas été vérifiées sur l'article 6.3."
+sources:
+  - {titre: "Loi sur le statut juridique de l'association unifiée des ménages d'éleveurs (2024), traduction anglaise non officielle — legalinfo.mn", url: "https://legalinfo.mn/en/edtl/17333371004191"}
+  - {titre: "Center for Policy Research — Règles des contrats d'usage des pâturages (2025)", url: "https://cpr.mn/?lang=en&p=979"}
+  - {titre: "Constitution de la Mongolie — Constitute Project", url: "https://www.constituteproject.org/constitution/Mongolia_2001"}
+  - {titre: "CAPA — Évolutions législatives du secteur pastoral en Asie centrale et en Mongolie en 2024", url: "https://iyrp.info/sites/default/files/2025-01/CAPA-legislative-changes-in-pastoral-sector-2024.pdf"}

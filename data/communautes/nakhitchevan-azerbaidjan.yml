@@ -1,0 +1,69 @@
+uid: "nakhitchevan-azerbaidjan"
+nom: "République autonome du Nakhitchevan"
+endonyme: "Naxçıvan Muxtar Respublikası"
+territoire: "Nakhitchevan, exclave de l'Azerbaïdjan entre l'Arménie, l'Iran et la Turquie ; chef-lieu Nakhitchevan"
+etats: ["Azerbaïdjan"]
+region: "asie"
+coord: [39.3, 45.4]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 458599, annee: 2019, perimetre: "population de fait de la république autonome au recensement de 2019 (Comité national de la statistique, repris par City Population)", source: "https://www.citypopulation.de/en/azerbaijan/admin/"}
+lieux: {valeur: 8, unite: "subdivisions administratives (sept districts et la ville de Nakhitchevan)", annee: 2025, source: "https://www.citypopulation.de/en/azerbaijan/admin/"}
+surface_km2: {valeur: 5500, annee: null, perimetre: "superficie de la république autonome, chiffre arrondi", source: "https://www.britannica.com/place/Naxcivan-republic-Azerbaijan"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le Nakhitchevan est une exclave de l'Azerbaïdjan, séparée du reste du pays par le territoire arménien. Autonome depuis 1924 sous le régime soviétique, il porte le nom de République autonome du Nakhitchevan depuis le 17 novembre 1990. La Constitution de l'Azerbaïdjan de 1995 (art. 134 à 141) lui reconnaît une assemblée législative, l'Ali Majlis (« Assemblée suprême ») de 45 membres élus pour cinq ans, un Cabinet des ministres et des tribunaux propres ; sa propre constitution a été approuvée par une loi constitutionnelle du 29 décembre 1998. L'autonomie ne repose sur aucune désignation ethnique. Une révision de mars 2026 crée une représentation du président de l'Azerbaïdjan, organe exécutif dirigé par un représentant qu'il nomme et qui lui est directement subordonné.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité des droits de l'homme sur l'Azerbaïdjan (CCPR/C/AZE/CO/4, adoptées le 2 novembre 2016), § 32 et 40 : restrictions visant les minorités religieuses et obligation rapportée d'adhérer au parti au pouvoir dans la République autonome du Nakhitchevan", annee: 2016, source: "https://docs.un.org/en/CCPR/C/AZE/CO/4"}
+base_nationale:
+  - {instrument: "Constitution de la République d'Azerbaïdjan (1995, révisée en 2016), art. 96 et chapitre VIII, art. 134 à 141", nature: "constitution", annee: 1995, source: "https://www.constituteproject.org/constitution/Azerbaijan_2016"}
+  - {instrument: "Constitution de la République autonome du Nakhitchevan, approuvée par la loi constitutionnelle n° 603-IKQ du 29 décembre 1998, avec ses modifications (dont l'art. 3-1)", nature: "statut_autonomie", annee: 1998, source: "https://alimajlis.gov.az/pages/nmr-konsitutsiya"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'Ali Majlis, élu pour cinq ans, compte 45 membres et nomme le Premier ministre sur proposition du président de l'Azerbaïdjan, qui nomme aussi les chefs du pouvoir exécutif local (Constitution de l'Azerbaïdjan, art. 137, 140 et 141) ; depuis la révision de 2026, une représentation du président, dirigée par un représentant qu'il nomme et révoque, exerce sur le territoire les tâches qu'il lui fixe (Constitution du Nakhitchevan, art. 3-1).", source: "https://alimajlis.gov.az/pages/nmr-konsitutsiya"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'Ali Majlis adopte des lois sur une liste de matières : élections, impôts, orientations économiques, protection sociale, environnement, tourisme, santé, science et culture (Constitution de l'Azerbaïdjan, art. 138) ; ces lois ne doivent pas contredire la Constitution ni les lois de l'Azerbaïdjan, qui s'appliquent sur le territoire (art. 134).", source: "https://www.constituteproject.org/constitution/Azerbaijan_2016"}
+  justice_propre: {valeur: "partiel", note: "Le pouvoir judiciaire est exercé par les tribunaux du Nakhitchevan (Constitution de l'Azerbaïdjan, art. 135) ; la Cour suprême du Nakhitchevan juge en appel et contrôle la conformité des actes à la constitution de la république autonome, mais ses juges sont nommés par le Milli Majlis (Parlement de l'Azerbaïdjan) sur proposition du président de l'Azerbaïdjan (Constitution du Nakhitchevan, art. 44).", source: "https://alimajlis.gov.az/pages/nmr-konsitutsiya"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "L'Ali Majlis fixe les règles générales des impôts « conformément à la politique économique et fiscale de la République d'Azerbaïdjan » et approuve le budget de la république autonome, préparé et exécuté par le Cabinet des ministres (Constitution du Nakhitchevan, art. 24, 25 et 39 ; Constitution de l'Azerbaïdjan, art. 138 à 140).", source: "https://alimajlis.gov.az/pages/nmr-konsitutsiya"}
+  representation: {valeur: "partiel", note: "L'Ali Majlis détient l'initiative des lois au Milli Majlis (Constitution de l'Azerbaïdjan, art. 96) ; le Cabinet des ministres du Nakhitchevan représente la république autonome auprès du Cabinet des ministres de l'Azerbaïdjan dans les domaines économique et culturel (Constitution du Nakhitchevan, art. 39) ; aucun siège n'est réservé au niveau national.", source: "https://www.constituteproject.org/constitution/Azerbaijan_2016"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "L'Ali Majlis siège (septième législature depuis 2024, sessions tenues en 2026), mais le président de l'Azerbaïdjan a signé en mars 2026 une révision de la constitution du Nakhitchevan qui crée une représentation présidentielle et fait coordonner le gouvernement local avec Bakou ; l'avocat Yalchin Imanov, cité par OC Media, estime qu'elle réduit l'autonomie « à zéro ». En 2016, le Comité des droits de l'homme de l'ONU relevait des restrictions visant les minorités religieuses et une obligation rapportée d'adhérer au parti au pouvoir sur ce territoire.", source: "https://oc-media.org/nakhchivan-loses-autonomy-in-new-constitutional-amendments/"}
+chronologie:
+  - {annee: 1921, evenement: "Traités de Moscou (16 mars) et de Kars (13 octobre), cités par la constitution du Nakhitchevan comme fondement de l'autonomie."}
+  - {annee: 1924, evenement: "Création de la République socialiste soviétique autonome du Nakhitchevan (9 février)."}
+  - {annee: 1990, evenement: "Le territoire prend le nom de République autonome du Nakhitchevan (17 novembre)."}
+  - {annee: 1995, evenement: "Adoption par référendum de la Constitution de l'Azerbaïdjan (12 novembre), dont le chapitre VIII règle le statut du Nakhitchevan ; première législature de l'Ali Majlis (1995-2000)."}
+  - {annee: 1998, evenement: "Loi constitutionnelle n° 603-IKQ du 29 décembre approuvant la constitution de la république autonome."}
+  - {annee: 2016, evenement: "Observations finales du Comité des droits de l'homme de l'ONU nommant la république autonome (CCPR/C/AZE/CO/4)."}
+  - {annee: 2022, evenement: "Démission de Vassif Talibov, président de l'Ali Majlis depuis 1995 (21 décembre), après une série d'arrestations de responsables locaux."}
+  - {annee: 2024, evenement: "Début de la septième législature de l'Ali Majlis."}
+  - {annee: 2026, evenement: "Révision de la constitution du Nakhitchevan signée en mars : création d'une représentation du président de l'Azerbaïdjan (art. 3-1)."}
+fiabilite:
+  verifie:
+    - "Articles 96 et 134 à 141 de la Constitution de l'Azerbaïdjan (Constitute Project)."
+    - "Texte azerbaïdjanais de la constitution du Nakhitchevan publié par l'Ali Majlis : art. 3-1, 24, 25, 39, 44, loi constitutionnelle du 29 décembre 1998."
+    - "Liste des législatures de l'Ali Majlis (VIIe depuis 2024) sur le site de l'Ali Majlis."
+    - "Paragraphes 32 et 40 du document CCPR/C/AZE/CO/4."
+    - "Démission de Vassif Talibov le 21 décembre 2022 (OCCRP)."
+  non_confirme:
+    - "Contenu exact et date de promulgation de la révision de 2026 : seul l'article d'OC Media (11 mars 2026) a été lu ; le texte en ligne de l'Ali Majlis contient l'art. 3-1 mais garde le vote de confiance au Cabinet (art. 25) et le préambule citant les traités de 1921, que la révision aurait retiré."
+    - "La version anglaise de la constitution du Nakhitchevan sur le site de l'Ali Majlis n'intègre pas l'art. 3-1."
+    - "Surface : 5 500 km² (Britannica, arrondi) ; City Population donne 5 332 km² dans ses limites de 2025 ; le chiffre officiel de 5 502,75 km² cité ailleurs n'a pas pu être ouvert."
+    - "Population : le site du Comité national de la statistique n'a pas répondu ; le chiffre de 2019 est repris de City Population, qui cite cette source."
+sources:
+  - {titre: "Constitution de la République d'Azerbaïdjan (1995, révisée en 2016) — Constitute Project", url: "https://www.constituteproject.org/constitution/Azerbaijan_2016"}
+  - {titre: "Constitution de la République autonome du Nakhitchevan (texte azerbaïdjanais) — Ali Majlis", url: "https://alimajlis.gov.az/pages/nmr-konsitutsiya"}
+  - {titre: "Constitution of Nakhchivan Autonomous Republic (texte anglais) — Ali Majlis", url: "https://alimajlis.gov.az/en/pages/n-ar-constitution"}
+  - {titre: "Constitution of Nakhchivan Autonomous Republic — Cour constitutionnelle de l'Azerbaïdjan", url: "https://constcourt.gov.az/en/legislation/49"}
+  - {titre: "Législatures de l'Ali Majlis — Ali Majlis", url: "https://alimajlis.gov.az/pages/ali-meclisin-cagirislari"}
+  - {titre: "Comité des droits de l'homme, observations finales sur l'Azerbaïdjan, CCPR/C/AZE/CO/4 (2016)", url: "https://docs.un.org/en/CCPR/C/AZE/CO/4"}
+  - {titre: "Nakhchivan loses autonomy in new constitutional amendments — OC Media, 11 mars 2026", url: "https://oc-media.org/nakhchivan-loses-autonomy-in-new-constitutional-amendments/"}
+  - {titre: "Azerbaijani Leader Talibov Resigns After a Generation of Rule — OCCRP, 21 décembre 2022", url: "https://www.occrp.org/en/news/azerbaijani-leader-talibov-resigns-after-a-generation-of-rule-over-mountain-region"}
+  - {titre: "Azerbaijan: administrative division — City Population", url: "https://www.citypopulation.de/en/azerbaijan/admin/"}
+  - {titre: "Naxçıvan — Encyclopaedia Britannica", url: "https://www.britannica.com/place/Naxcivan-republic-Azerbaijan"}

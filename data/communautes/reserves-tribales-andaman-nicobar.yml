@@ -1,0 +1,61 @@
+uid: "reserves-tribales-andaman-nicobar"
+nom: "Zones réservées des îles Andaman-et-Nicobar"
+endonyme: ""
+territoire: "Îles Andaman-et-Nicobar (territoire de l'Union)"
+etats: ["Inde"]
+region: "asie"
+coord: [11.9, 92.7]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 5, unite: "réserves : quatre aux Andaman (Jarawa, Grand-Andamanais, Onge, Sentinelles) et l'ensemble des îles Nicobar (Nicobarais et Shompen)", annee: null, source: "https://indiantribalheritage.org/?p=7364"}
+surface_km2: {valeur: 3500, annee: null, perimetre: "ensemble des réserves terrestres, ordre de grandeur donné par la source (Nicobar environ 1 900 km², Andaman environ 1 600 km²)", source: "https://indiantribalheritage.org/?p=7364"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les zones réservées (« reserved areas ») déclarées par l'administration du territoire au titre de l'Andaman and Nicobar Islands (Protection of Aboriginal Tribes) Regulation de 1956. Dans une réserve, une personne étrangère au groupe ne peut ni acquérir de droit sur la terre ou ses produits, ni commercer sans autorisation ; l'administration peut y soumettre l'entrée à un permis. Les réserves couvrent environ 3 500 km² : l'ensemble des îles Nicobar (Nicobarais et Shompen) et quatre réserves aux Andaman (Jarawa, Grand-Andamanais, Onge, Sentinelles). Dans le district de Nicobar, hors zones shompen et hors zones des panchayats (conseils locaux ordinaires), des conseils élus créés en 2009 administrent les villages et les îles ; ce régime fait l'objet de la fiche « Nicobarais (conseils tribaux des îles Nicobar) ».
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/IND/CO/19, § 19 : protéger les Jarawa contre les empiètements sur leurs terres et appliquer l'ordonnance de 2002 de la Cour suprême fermant les tronçons de la route principale des Andaman (Andaman Trunk Road) qui traversent la réserve jarawa", annee: 2007, source: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+base_nationale:
+  - {instrument: "Andaman and Nicobar Islands (Protection of Aboriginal Tribes) Regulation, 1956 (règlement n° 3 de 1956), art. 3, 6, 7 et 8 ; modifié en 2012 (art. 7A et 8B)", nature: "loi", annee: 1956, source: "https://indiankanoon.org/doc/79415202/"}
+  - {instrument: "Notification ANPATR/3(1)/1 du 2 avril 1957 déclarant les premières réserves", nature: "loi", annee: 1957, source: "https://indiankanoon.org/doc/175844630/"}
+  - {instrument: "Andaman and Nicobar Islands (Tribal Councils) Regulation, 2009 (règlement n° 1 de 2009)", nature: "loi", annee: 2009, source: "https://indiankanoon.org/doc/155130333/"}
+  - {instrument: "Cour suprême de l'Inde, LG, Andaman & Nicobar Islands c. Bare Foot Inns & Leisure, ordonnance du 2 juillet 2012 (zone tampon de la réserve jarawa)", nature: "jurisprudence", annee: 2012, source: "https://indiankanoon.org/doc/30872013/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Dans le district de Nicobar, hors zones shompen et hors zones des panchayats, le règlement de 2009 crée une assemblée générale de village (Village General Body) réservée aux Nicobarais inscrits, un conseil de village élu dirigé par un « First Captain » (art. 3, 4 et 11) et un conseil d'île dirigé par un « Chief Captain » (art. 52 et 53) ; les litiges entre conseils sont tranchés par le commissaire adjoint (Deputy Commissioner, chef de l'administration du district) ou par le secrétaire chargé des affaires tribales (art. 50 et 89), et l'administrateur du territoire peut réviser ou modifier leurs décisions (art. 51 et 90). Aucune institution propre n'est prévue pour les réserves des Andaman.", source: "https://indiankanoon.org/doc/155130333/"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Dans une réserve, nul autre qu'un membre d'un groupe autochtone (« aboriginal tribe ») ne peut acquérir un droit sur la terre sans autorisation de l'administration, règlement de 1956, art. 6 (1) ; sanction pénale, art. 8. L'administration déclare les réserves et en fixe les limites (art. 3, cité par le tribunal national de l'environnement le 3 avril 2023) : 7,11 km² de réserve de Grande Nicobar ont été proposés au déclassement pour un projet portuaire et urbain, sans objection du ministère des Affaires tribales (lettre du 18 novembre 2020).", source: "https://indiankanoon.org/doc/79415202/"}
+  ressources: {valeur: "partiel", note: "L'interdiction de l'art. 6 (1) du règlement de 1956 vise aussi les produits et récoltes de la terre ; le commerce dans une réserve exige une licence de l'administration ; l'administration peut, par notification, soumettre l'entrée des personnes extérieures à un permis (art. 7). Pas de droit de gestion propre des ressources.", source: "https://indiankanoon.org/doc/79415202/"}
+  consentement: {valeur: "partiel", note: "Dans le district de Nicobar, le règlement de 2009 impose à l'administrateur de consulter l'assemblée générale de village avant d'inclure ou d'exclure une zone d'un village (art. 6 (1)) ; aucune disposition de consultation n'a été trouvée dans les extraits consultés du règlement de 1956.", source: "https://indiankanoon.org/doc/155130333/"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le conseil de village nicobarais peut lever des taxes et redevances locales (bâtiments, professions, marchés, pâturage, bacs) versées à son fonds, règlement de 2009, art. 33 et 36, sous réserve des règles fixées par l'administration ; le commissaire adjoint peut suspendre ces taxes (art. 38).", source: "https://indiankanoon.org/doc/155130333/"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "La route principale des Andaman traverse toujours la réserve jarawa malgré l'ordonnance de fermeture de la Cour suprême de 2002 (CERD, 2007 ; Survival International) ; en 2023, le tribunal national de l'environnement a refusé d'annuler l'autorisation de défrichement du projet de Grande Nicobar, qui suppose le déclassement d'une partie de la réserve, et a confié le réexamen de son autorisation environnementale à un comité de haut niveau.", source: "https://www.survivalinternational.org/tribes/jarawa"}
+chronologie:
+  - {annee: 1956, evenement: "Règlement sur la protection des groupes autochtones des Andaman-et-Nicobar (notification n° 76/56 du 18 juin 1956)."}
+  - {annee: 1957, evenement: "Notification du 2 avril 1957 : premières réserves déclarées."}
+  - {annee: 2002, evenement: "La Cour suprême ordonne la fermeture des tronçons de la route principale des Andaman qui traversent la réserve jarawa."}
+  - {annee: 2004, evenement: "Nouvelle notification de la réserve jarawa (n° 159/2004 du 15 septembre 2004)."}
+  - {annee: 2007, evenement: "Zone tampon de 5 km autour de la réserve jarawa, fermée aux activités commerciales et touristiques (notification du 30 octobre 2007)."}
+  - {annee: 2009, evenement: "Règlement sur les conseils tribaux du district de Nicobar."}
+  - {annee: 2012, evenement: "La Cour suprême interdit toute activité commerciale ou touristique dans la réserve et la zone tampon jarawa (2 juillet) ; modification du règlement de 1956 notifiée le 9 juillet (art. 7A et 8B : établissements touristiques dans les zones tampons, publicité touristique)."}
+  - {annee: 2013, evenement: "La Cour suprême interdit aux touristes la route traversant la réserve jarawa, puis lève l'interdiction sept semaines plus tard."}
+  - {annee: 2020, evenement: "Le ministère des Affaires tribales ne s'oppose pas au déclassement de 7,11 km² de réserve à Grande Nicobar."}
+  - {annee: 2023, evenement: "Le tribunal national de l'environnement refuse d'annuler l'autorisation de défrichement du projet de Grande Nicobar et renvoie l'autorisation environnementale à un comité de haut niveau ; les travaux irréversibles sont suspendus dans l'attente (3 avril)."}
+fiabilite:
+  verifie: ["Articles 6, 7, 8 et 8B du règlement de 1956, cités par la Haute Cour de Calcutta (10 novembre 2025).", "Notifications du 18 juin 1956 et du 2 avril 1957, citées par le tribunal national de l'environnement (29 juillet 2026).", "Notification de la réserve jarawa (2004) et de la zone tampon (2007), ordonnance de la Cour suprême du 2 juillet 2012.", "Règlement de 2009 sur les conseils tribaux (texte publié par Indian Kanoon) : art. 1 à 6, 11, 33, 36, 38, 50 à 53, 89, 90, 112.", "Art. 3 du règlement de 1956, cité par le tribunal national de l'environnement (3 avril 2023).", "Fermeture de la route ordonnée en 2002, interdiction de sept semaines en 2013 (Survival International).", "CERD/C/IND/CO/19, § 19 (2007).", "Déclassement de 7,11 km², lettre du 18 novembre 2020 et renvoi de l'autorisation environnementale à un comité de haut niveau (tribunal national de l'environnement, 3 avril 2023)."]
+  non_confirme: ["Texte officiel complet du règlement de 1956 non consulté sur un site de l'État ; l'art. 3 n'est connu que par citation, et l'absence de procédure de consultation avant déclassement n'a pas pu être vérifiée.", "Suites données au réexamen de 2023 par le comité de haut niveau : non vérifiées.", "Surface totale : environ 3 500 km² selon Indian Tribal Heritage ; le tribunal national de l'environnement (2023) indique que 7,11 km² représentent 0,21 % des réserves, soit environ 3 400 km² par calcul, sans donner le total.", "Liste officielle des réserves, avec numéros de notification et surfaces : non trouvée, d'où l'absence de tableau.", "Population des groupes concernés : pas de chiffre officiel récent consulté.", "Retrait de l'accord du conseil tribal de Grande et Petite Nicobar au projet de Grande Nicobar : non vérifié sur une source ouverte."]
+sources:
+  - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+  - {titre: "Haute Cour de Calcutta, Rupin Dang c. État, 10 novembre 2025 (extraits du règlement de 1956)", url: "https://indiankanoon.org/doc/79415202/"}
+  - {titre: "Tribunal national de l'environnement, Naresh Chaudhary c. Union de l'Inde, 29 juillet 2026", url: "https://indiankanoon.org/doc/175844630/"}
+  - {titre: "Andaman and Nicobar Islands (Tribal Councils) Regulation, 2009 — Indian Kanoon", url: "https://indiankanoon.org/doc/155130333/"}
+  - {titre: "Cour suprême, LG Andaman & Nicobar Islands c. Bare Foot Inns & Leisure, 2 juillet 2012", url: "https://indiankanoon.org/doc/30872013/"}
+  - {titre: "Tribunal national de l'environnement, Conservation Action Trust c. MoEF, 3 avril 2023", url: "https://indiankanoon.org/doc/150353158/"}
+  - {titre: "Indian Tribal Heritage, Tribal reserves in Andaman and Nicobar Islands", url: "https://indiantribalheritage.org/?p=7364"}
+  - {titre: "Survival International, les Ang (Jarawa)", url: "https://www.survivalinternational.org/tribes/jarawa"}

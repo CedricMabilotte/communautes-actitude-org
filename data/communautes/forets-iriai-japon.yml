@@ -1,0 +1,54 @@
+uid: "forets-iriai-japon"
+nom: "Communs forestiers iriai du Japon"
+endonyme: "Iriai-rin'ya (入会林野)"
+territoire: "Forêts et terres communes villageoises soumises au droit d'iriai, ensemble du Japon"
+etats: ["Japon"]
+region: "asie"
+coord: [36.2, 138.3]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 59209, unite: "organisations communautaires gérant des forêts communes coutumières d'au moins 0,1 ha", annee: 1990, source: "https://thecommonsjournal.org/articles/10.18352/ijc.348"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les groupes villageois (iriai dantai, « groupes d'iriai ») titulaires d'un droit d'iriai, c'est-à-dire un droit collectif d'usage ou de propriété sur des forêts, prairies et terres communes. Le Code civil de 1896 (art. 263 et 294) soumet ce droit « aux coutumes locales » ; la loi sur l'autonomie locale de 1947 (art. 238-6) maintient un droit voisin, de droit public : l'usage coutumier de biens communaux par certains habitants. La loi de 1966 sur la modernisation des droits d'iriai permet aux titulaires, à l'unanimité et avec l'autorisation du gouverneur de la préfecture, d'éteindre ce droit et de le remplacer par une propriété, un droit de superficie, un bail ou un autre droit d'usage, avec apport possible à une coopérative forestière de production (art. 3 et 4). Selon le recensement forestier de 1990, 59 209 organisations communautaires géraient des forêts communes coutumières ; ces forêts représentaient 4,56 % de la surface forestière du pays.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Code civil (loi n° 89 de 1896), art. 263 (droits d'iriai de nature de copropriété) et art. 294 (droits d'iriai sans nature de copropriété)", nature: "loi", annee: 1896, source: "https://www.japaneselawtranslation.go.jp/en/laws/view/3494"}
+  - {instrument: "Loi sur l'autonomie locale (loi n° 67 de 1947), art. 238-6 (usage des biens communaux selon la coutume ancienne) et art. 294 à 297 (circonscriptions patrimoniales, zaisanku)", nature: "loi", annee: 1947, source: "https://hourei.net/law/322AC0000000067"}
+  - {instrument: "Loi sur la promotion de la modernisation des rapports de droit relatifs aux forêts d'iriai (loi n° 126 de 1966)", nature: "loi", annee: 1966, source: "https://hourei.net/law/341AC0000000126"}
+  - {instrument: "Cour suprême, 2e petite chambre, 25 novembre 1966 (Minshū vol. 20 n° 9 p. 1921) ; 3e petite chambre, 13 mars 1973 ; 2e petite chambre, 17 mars 2006 (Minshū vol. 60 n° 3 p. 773)", nature: "jurisprudence", annee: 1966, source: "https://ja.wikipedia.org/wiki/入会権"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Code civil (art. 263 et 294, 1896) soumet les droits d'iriai aux coutumes locales ; la qualité de membre suit des règles internes adoptées par l'ensemble des membres ou la coutume du groupe. Le groupe d'iriai n'a pas la personnalité juridique : la Cour suprême le qualifie d'association sans personnalité (kenri nōryoku naki shadan) titulaire d'une propriété collective indivise (sōyū) et exige que l'action en reconnaissance du droit soit portée par tous les titulaires (arrêt du 25 novembre 1966).", source: "https://ja.wikipedia.org/wiki/入会権"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les droits d'iriai sont « régis par les coutumes locales » avant les règles du Code civil (art. 263 et 294, 1896). Les juges contrôlent ces règles coutumières : la Cour suprême (17 mars 2006) admet la limitation aux chefs de ménage mais déclare nulle, au titre de l'ordre public (art. 90 du Code civil), la règle qui réservait la qualité de titulaire aux descendants masculins et excluait les descendantes mariées à un homme extérieur au hameau.", source: "https://ja.wikipedia.org/wiki/入会権"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Le Code civil distingue l'iriai « de nature de copropriété » (art. 263), où la terre appartient collectivement au groupe, et l'iriai sans copropriété sur la terre d'autrui (art. 294). La procédure de la loi de 1966 (art. 3 et 4) n'éteint le droit et ne le remplace par une propriété, un droit de superficie ou un bail qu'avec l'accord de tous les titulaires et l'autorisation du gouverneur de la préfecture.", source: "https://hourei.net/law/341AC0000000126"}
+  ressources: {valeur: "reconnu", note: "Les titulaires « utilisent et tirent profit » (shiyō mata wa shūeki) des terres d'iriai consacrées à la croissance des arbres et bambous, à la coupe de foin ou au pâturage (art. 2 de la loi de 1966, qui renvoie aux art. 263 et 294 du Code civil).", source: "https://hourei.net/law/341AC0000000126"}
+  consentement: {valeur: "partiel", note: "La conversion d'une forêt d'iriai exige l'accord unanime des titulaires sur un règlement et un plan, puis l'autorisation du gouverneur de la préfecture (art. 3 de la loi de 1966). Pour les droits d'usage coutumiers sur des biens communaux, la modification ou la suppression relève d'une délibération du conseil municipal ; la loi n'exige pas le consentement des usagers (art. 238-6 de la loi sur l'autonomie locale).", source: "https://hourei.net/law/341AC0000000126"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les forêts communes coutumières couvraient 4,56 % de la surface forestière en 1990. Une étude de 2014 (International Journal of the Commons, vol. 8, n° 1) relève qu'après guerre la gestion collective a souvent cédé la place à une gestion individualisée, encouragée par le programme public de « modernisation » de 1966 ; elle décrit onze villages du district de Yamaguni (Kyoto) qui gèrent encore leurs forêts communes et en adaptent les règles.", source: "https://thecommonsjournal.org/articles/10.18352/ijc.348"}
+chronologie:
+  - {annee: 1896, evenement: "Code civil : les droits d'iriai sont régis par les coutumes locales (art. 263 et 294)."}
+  - {annee: 1947, evenement: "Loi sur l'autonomie locale : usages coutumiers des biens communaux et circonscriptions patrimoniales (zaisanku)."}
+  - {annee: 1966, evenement: "Loi sur la modernisation des droits d'iriai sur les forêts : conversion facultative, à l'unanimité des titulaires."}
+  - {annee: 1966, evenement: "Cour suprême, 25 novembre : l'action en reconnaissance d'un droit d'iriai doit être portée par tous les titulaires."}
+  - {annee: 1973, evenement: "Cour suprême, 13 mars : le classement en terre publique au début de l'ère Meiji n'a pas éteint le droit d'iriai."}
+  - {annee: 1990, evenement: "Recensement forestier : 59 209 organisations communautaires, 4,56 % de la surface forestière."}
+  - {annee: 2006, evenement: "Cour suprême, 17 mars : nullité de la règle coutumière excluant les descendantes mariées hors du hameau."}
+fiabilite:
+  verifie: ["Texte des art. 263 et 294 du Code civil, traduction officielle du ministère de la Justice (Japanese Law Translation).", "Art. 1 à 4 et 11 de la loi de 1966 et art. 238-6 et 294 à 296-5 de la loi sur l'autonomie locale, texte japonais (hourei.net, reprise de la base e-Gov, indisponible le 1er octobre 2026).", "4,56 % de la surface forestière et 59 209 organisations en 1990 (Forest Holder Investigation Report du recensement mondial de l'agriculture et des forêts 1990), cités par l'International Journal of the Commons (2014).", "Références et attendus des arrêts de la Cour suprême de 1966, 1973 et 2006 : article « 入会権 » de Wikipédia en japonais, qui cite le recueil officiel (Minshū).", "Art. 90 du Code civil (nullité pour contrariété à l'ordre public) : traduction officielle du ministère de la Justice."]
+  non_confirme: ["Texte des arrêts de la Cour suprême non consulté sur le site des tribunaux.", "Un arrêt de la Cour suprême du 14 avril 2008 (Minshū vol. 62 n° 5 p. 909, cité par la même source) admet une coutume qui permet de disposer de la terre d'iriai sans l'accord de tous les membres : la règle d'unanimité de la loi de 1966 ne vaut que pour sa propre procédure.", "Surface et nombre actuels des forêts d'iriai et surface convertie depuis 1966 : aucune statistique officielle consultée.", "Population des titulaires : non recensée dans les sources consultées.", "Aucune liste officielle des sites : pas de tableau.", "Les circonscriptions patrimoniales (zaisanku), régime de droit public voisin, ne sont pas décomptées dans cette fiche."]
+sources:
+  - {titre: "Code civil (loi n° 89 de 1896), art. 263 et 294 — Japanese Law Translation, ministère de la Justice", url: "https://www.japaneselawtranslation.go.jp/en/laws/view/3494"}
+  - {titre: "Loi n° 126 de 1966 sur la modernisation des rapports de droit relatifs aux forêts d'iriai — hourei.net", url: "https://hourei.net/law/341AC0000000126"}
+  - {titre: "Loi sur l'autonomie locale (loi n° 67 de 1947) — hourei.net", url: "https://hourei.net/law/322AC0000000067"}
+  - {titre: "Shimada D., étude des forêts d'iriai du district de Yamaguni (Kyoto) — International Journal of the Commons, vol. 8, n° 1 (2014)", url: "https://thecommonsjournal.org/articles/10.18352/ijc.348"}
+  - {titre: "入会権 (droit d'iriai) — Wikipédia en japonais", url: "https://ja.wikipedia.org/wiki/入会権"}

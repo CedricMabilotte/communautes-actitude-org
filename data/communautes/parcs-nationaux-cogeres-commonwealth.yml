@@ -1,0 +1,64 @@
+uid: "parcs-nationaux-cogeres-commonwealth"
+nom: "Parcs nationaux cogérés de Kakadu, Uluṟu-Kata Tjuṯa et Booderee"
+endonyme: ""
+territoire: "Parcs nationaux de Kakadu et d'Uluṟu-Kata Tjuṯa (Territoire du Nord) et de Booderee (territoire de la baie de Jervis)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-18.5, 132.5]
+type: "peuple_autochtone"
+types_secondaires: ["communaute_locale"]
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 3, unite: "parcs nationaux fédéraux (Commonwealth reserves) détenus en tout ou partie par les propriétaires traditionnels et loués au Directeur des parcs nationaux", annee: 2019, source: "https://www.anao.gov.au/work/performance-audit/management-commonwealth-national-parks"}
+surface_km2: {valeur: 21199, annee: 2019, perimetre: "superficie totale des trois parcs : Kakadu 1 980 955 ha, Uluṟu-Kata Tjuṯa 132 566 ha, Booderee 6 379 ha (audit ANAO) ; à Kakadu, environ la moitié du parc est terre aborigène (plan de gestion 2016-2026)", source: "https://www.anao.gov.au/work/performance-audit/management-commonwealth-national-parks"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Trois parcs nationaux fédéraux d'Australie sont la propriété, en tout ou partie, de leurs propriétaires traditionnels (traditional owners, détenteurs coutumiers des terres), qui les louent au Directeur des parcs nationaux, organisme fédéral : Kakadu (Bininj/Mungguy, baux jusqu'au 31 décembre 2078), Uluṟu-Kata Tjuṯa (Aṉangu, bail de 99 ans jusqu'en 2084) et Booderee (communauté de Wreck Bay, bail de 99 ans jusqu'en 2094). La loi fédérale sur la protection de l'environnement de 1999 (EPBC Act) impose au ministre de créer un conseil de gestion lorsqu'il en convient avec le conseil foncier aborigène ou, à défaut, avec les propriétaires traditionnels ; ce conseil compte une majorité de membres désignés par les propriétaires traditionnels lorsque le parc est entièrement ou principalement terre aborigène. Il prend les décisions de gestion conformes au plan de gestion et prépare ce plan avec le Directeur ; le plan ne peut être soumis au ministre sans son accord. Les baux prévoient un loyer annuel et le versement d'une part des recettes du parc aux propriétaires. Booderee est aussi décrit dans la fiche « Communauté aborigène de Wreck Bay (territoire de la baie de Jervis) », et les terres aborigènes de Kakadu dans la fiche « Aborigènes du Territoire du Nord ».
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Environment Protection and Biodiversity Conservation Act 1999, partie 15, division 4 (réserves fédérales), sous-divisions E à G (s. 365 à 390A), compilation du 24 août 2026", nature: "loi", annee: 1999, source: "https://www.legislation.gov.au/C2004A00485/latest/text"}
+  - {instrument: "Environment Protection and Biodiversity Conservation Amendment (Board of Management Functions) Act 2025 (n° 51 de 2025)", nature: "loi", annee: 2025, source: "https://www.legislation.gov.au/C2025A00051/asmade/text"}
+  - {instrument: "Aboriginal Land Rights (Northern Territory) Act 1976 : titre des terres de Kakadu et d'Uluṟu-Kata Tjuṯa détenu par des fiducies foncières aborigènes (Aboriginal Land Trusts)", nature: "loi", annee: 1976, source: "https://www.legislation.gov.au/C2004A01620/latest/text"}
+  - {instrument: "Aboriginal Land and Waters (Jervis Bay Territory) Act 1986 : titre du parc de Booderee détenu par le Wreck Bay Aboriginal Community Council", nature: "loi", annee: 1986, source: "https://www.legislation.gov.au/C2004A03405/latest/text"}
+  - {instrument: "Amendment of Notice Establishing Kakadu Board of Management (s. 378 de l'EPBC Act), 2021", nature: "loi", annee: 2021, source: "https://www.legislation.gov.au/C2021G00355/asmade/text"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le ministre doit créer un conseil de gestion (Board of Management) s'il en convient avec le conseil foncier aborigène ou les propriétaires traditionnels (s. 377(1)) ; la majorité des membres sont des Aborigènes désignés par les propriétaires traditionnels lorsque le parc est entièrement ou principalement terre aborigène (s. 377(4)) : 16 sur 21 à Kakadu (avis de 2021), 8 sur 12 à Uluṟu-Kata Tjuṯa ; le conseil est un organe mixte nommé par le ministre (s. 379), tenu de suivre ses directions en cas de désaccord avec le Directeur (s. 376(2), 364, 369).", source: "https://www.legislation.gov.au/C2004A00485/latest/text"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil prépare le plan de gestion avec le Directeur (s. 366(3)) ; le Directeur ne peut le soumettre au ministre qu'avec l'accord du conseil (s. 370(1)) ; une fois approuvé, le plan est un instrument législatif (s. 371) ; le ministre peut le renvoyer avec des suggestions (s. 370(3)), tranche les désaccords (s. 369) et approuve la version soumise à nouveau avec les modifications qu'il juge appropriées (s. 370(5)).", source: "https://www.legislation.gov.au/C2004A00485/latest/text"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le titre est détenu par des fiducies foncières aborigènes (Kakadu, Jabiluka, Gunlom, Uluṟu-Kata Tjuṯa Aboriginal Land Trusts) en vertu de la loi de 1976, et par le Wreck Bay Aboriginal Community Council pour Booderee, mais il est loué au Directeur des parcs nationaux (baux de Kakadu jusqu'au 31 décembre 2078, d'Uluṟu-Kata Tjuṯa jusqu'au 25 octobre 2084, de Booderee jusqu'au 10 octobre 2094) ; à Kakadu, environ la moitié du parc est terre aborigène (plan de gestion 2016-2026).", source: "https://www.legislation.gov.au/F2016L00002/asmade/text"}
+  ressources: {valeur: "partiel", note: "La loi ne fait pas obstacle à l'usage traditionnel des réserves par les Autochtones pour la chasse et la cueillette hors vente et à des fins cérémonielles et religieuses, sauf règlement exprès de conservation (s. 359A) ; toute activité minière est interdite à Kakadu (s. 387).", source: "https://www.legislation.gov.au/C2004A00485/latest/text"}
+  consentement: {valeur: "partiel", note: "La création, la modification ou la suppression du conseil exigent l'accord du conseil foncier ou des propriétaires traditionnels (s. 377(1), 378(3)) ; dans le Territoire du Nord, le membre désigné par le Territoire n'est nommé qu'avec le consentement des membres désignés par les propriétaires traditionnels, sauf recommandation de l'Ombudsman (s. 390A) ; à Kakadu, Uluṟu et Booderee, un désaccord substantiel du président du conseil foncier oblige le ministre à renvoyer le plan (s. 390(2)).", source: "https://www.legislation.gov.au/C2004A00485/latest/text"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les baux prévoient un loyer annuel versé au conseil foncier pour les propriétaires et une part des droits d'entrée et autres recettes : 25 % pour le bail Kakadu, 13,8 % pour le bail Gunlom, aucune pour le bail Jabiluka (annexe du plan de gestion de Kakadu 2016-2026) ; 25 % à Uluṟu-Kata Tjuṯa (plan de 2021) et à Booderee (plan de 2015-2025).", source: "https://www.legislation.gov.au/F2016L00002/asmade/text"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "L'audit de l'Australian National Audit Office (Cour des comptes fédérale) publié en 2019 relève que les trois conseils de gestion ont demandé une révision des baux depuis 2017 sans qu'elle ait commencé, que celui de Booderee a émis un avis formel de différend, et que les propriétaires traditionnels disent ne pas participer pleinement à la cogestion ; les plans de Kakadu et de Booderee ont expiré le 4 janvier 2026 et le 19 novembre 2025.", source: "https://www.anao.gov.au/work/performance-audit/management-commonwealth-national-parks"}
+chronologie:
+  - {annee: 1978, evenement: "Les terres de la première tranche de Kakadu sont attribuées à la Kakadu Aboriginal Land Trust, qui les loue au Directeur des parcs nationaux en novembre."}
+  - {annee: 1985, evenement: "Le 26 octobre, restitution du titre d'Uluṟu-Kata Tjuṯa aux Aṉangu, bail de 99 ans au Directeur ; conseil de gestion à majorité aṉangu en décembre."}
+  - {annee: 1991, evenement: "Bail entre la Jabiluka Aboriginal Land Trust et le Directeur pour une partie de Kakadu."}
+  - {annee: 1995, evenement: "Le parc de Jervis Bay devient terre aborigène du Wreck Bay Aboriginal Community Council le 11 octobre et est loué pour 99 ans ; il prend le nom de Booderee en 1997."}
+  - {annee: 1996, evenement: "Terres de la troisième tranche de Kakadu attribuées à la Gunlom Aboriginal Land Trust et louées au Directeur."}
+  - {annee: 1999, evenement: "Adoption de l'EPBC Act, qui remplace en juillet 2000 la loi de 1975 sur les parcs nationaux et reprend le régime des conseils de gestion."}
+  - {annee: 2019, evenement: "Audit de l'ANAO sur la gestion des parcs nationaux fédéraux."}
+  - {annee: 2021, evenement: "Le conseil de Kakadu passe à 21 membres, dont 16 désignés par les propriétaires traditionnels."}
+  - {annee: 2025, evenement: "Loi n° 51 : le conseil continue de décider selon le dernier plan de gestion lorsque celui-ci a expiré."}
+fiabilite:
+  verifie: ["Sections 359A, 364, 366, 369 à 371, 376 à 383, 387 et 390 à 390A de l'EPBC Act (compilation du 24 août 2026, legislation.gov.au).", "Loi n° 51 de 2025 sur les fonctions des conseils de gestion.", "Composition du conseil de Kakadu (avis de 2021) et d'Uluṟu-Kata Tjuṯa (8 membres aṉangu sur 12, plan de 2021 et annuaire du gouvernement australien).", "Superficies et constats de l'audit ANAO de 2019.", "Clauses financières et échéances des baux d'Uluṟu-Kata Tjuṯa (25 octobre 2084), de Kakadu, Jabiluka et Gunlom (31 décembre 2078, bail type commun en annexe du plan de 2016) et de Booderee (10 octobre 2094, part de 25 % des recettes).", "Expiration des plans de Kakadu (4 janvier 2026) et de Booderee (19 novembre 2025) au registre fédéral de la législation."]
+  non_confirme: ["Aucun nouveau plan de gestion approuvé pour Kakadu ou Booderee n'a été trouvé au registre au 1er octobre 2026 ; un projet de plan 2026-2036 pour Booderee a été soumis à consultation en mars 2026.", "Population des propriétaires traditionnels et des résidents des trois parcs, et nombre d'établissements habités (outstations de Kakadu, Muṯitjulu, Wreck Bay).", "Statut des revendications foncières en cours sur la partie de Kakadu qui n'est pas encore terre aborigène."]
+sources:
+  - {titre: "Environment Protection and Biodiversity Conservation Act 1999 — legislation.gov.au", url: "https://www.legislation.gov.au/C2004A00485/latest/text"}
+  - {titre: "Environment Protection and Biodiversity Conservation Amendment (Board of Management Functions) Act 2025 — legislation.gov.au", url: "https://www.legislation.gov.au/C2025A00051/asmade/text"}
+  - {titre: "Amendment of Notice Establishing Kakadu Board of Management (2021) — legislation.gov.au", url: "https://www.legislation.gov.au/C2021G00355/asmade/text"}
+  - {titre: "Kakadu National Park Management Plan 2016-2026 — legislation.gov.au", url: "https://www.legislation.gov.au/F2016L00002/asmade/text"}
+  - {titre: "Uluṟu-Kata Tjuṯa National Park Management Plan 2021 — legislation.gov.au", url: "https://www.legislation.gov.au/F2021L01354/asmade/text"}
+  - {titre: "Booderee National Park Management Plan 2015-2025 — legislation.gov.au", url: "https://www.legislation.gov.au/F2015L01818/asmade/text"}
+  - {titre: "Avis de consultation sur le projet de plan de gestion de Booderee 2026-2036 — legislation.gov.au", url: "https://www.legislation.gov.au/F2026N00161/asmade/text"}
+  - {titre: "Avis de consultation sur le futur plan de gestion de Kakadu (2025) — legislation.gov.au", url: "https://www.legislation.gov.au/C2025G00313/asmade/text"}
+  - {titre: "ANAO — Management of Commonwealth National Parks (2019)", url: "https://www.anao.gov.au/work/performance-audit/management-commonwealth-national-parks"}
+  - {titre: "Annuaire du gouvernement australien — Uluṟu-Kata Tjuṯa Board of Management", url: "https://www.directory.gov.au/portfolios/climate-change-energy-environment-and-water/director-national-parks/uluru-kata-tjuta-board-management"}
+  - {titre: "Annuaire du gouvernement australien — Kakadu Board of Management", url: "https://www.directory.gov.au/portfolios/climate-change-energy-environment-and-water/director-national-parks/kakadu-board-management"}
+  - {titre: "Parks Australia — Histoire d'Uluṟu-Kata Tjuṯa", url: "https://uluru.gov.au/discover/history/"}

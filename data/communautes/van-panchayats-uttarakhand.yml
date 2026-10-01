@@ -5,7 +5,7 @@ territoire: "Forêts de conseil de village des districts de montagne de l'Uttara
 etats: ["Inde"]
 region: "asie"
 coord: [29.9, 79.5]
-type: "peuple_tribal"
+type: "communaute_locale"
 base: "territoriale"
 types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}

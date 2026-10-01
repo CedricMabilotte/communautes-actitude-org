@@ -1,0 +1,55 @@
+uid: "voix-premieres-nations-australie-meridionale"
+nom: "Voix des Premières Nations d'Australie-Méridionale"
+endonyme: ""
+territoire: "État d'Australie-Méridionale (six régions électorales)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-30.1, 135.8]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "mixte"
+population: {valeur: 42562, annee: 2021, perimetre: "Aborigènes et insulaires du détroit de Torres recensés en Australie-Méridionale (2,4 % de la population de l'État)", source: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/4"}
+lieux: {valeur: 6, unite: "Voix locales (une par région)", annee: 2024, source: "https://www.agd.sa.gov.au/first-nations-voice/local-first-nations-voices"}
+surface_km2: {valeur: 984321, annee: null, perimetre: "État d'Australie-Méridionale, îles comprises", source: "https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/area-of-australia-states-and-territories"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Organe représentatif élu par les Aborigènes et insulaires du détroit de Torres d'Australie-Méridionale, créé par le First Nations Voice Act 2023 (loi sur la Voix des Premières Nations), loi de l'État sanctionnée le 26 mars 2023. Six Voix locales, 46 membres au total, sont élues par région ; chacune élit deux coprésidents de genre différent, qui forment ensemble la Voix d'État (12 membres). Les greffiers du Parlement doivent notifier chaque projet de loi à la Voix d'État, dont un coprésident peut s'adresser à chaque chambre et, une fois par an, aux deux chambres réunies. La Voix est consultative : elle ne dispose d'aucun pouvoir de décision ni de veto.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "First Nations Voice Act 2023 (Australie-Méridionale), version du 1er janvier 2024", nature: "loi", annee: 2023, source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/first%20nations%20voice%20act%202023/current/2023.9.auth.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Six Voix locales, personnes morales élues par les membres des Premières Nations inscrits sur les listes électorales de l'État et indépendantes du gouvernement (s. 9 à 11, annexe 1) ; la Voix d'État réunit leurs coprésidents (s. 12 et 24). Ces organes ont une fonction consultative et ne gouvernent aucun territoire ni aucune population.", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/first%20nations%20voice%20act%202023/current/2023.9.auth.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Les greffiers du Parlement doivent notifier à la Voix d'État le dépôt de chaque projet de loi, sans que l'omission affecte la validité du texte (s. 39) ; le Cabinet et la Voix d'État se réunissent au moins deux fois par an, de même que les directeurs des administrations (s. 43 et 45). Aucun consentement n'est requis.", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/first%20nations%20voice%20act%202023/current/2023.9.auth.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Un coprésident de la Voix d'État peut s'adresser à l'une ou l'autre chambre sur tout projet de loi, avec un préavis de sept jours (s. 40), et s'adresse chaque année aux deux chambres réunies (s. 38) ; les rapports de la Voix appellent une réponse ministérielle dans les six mois (s. 41). La Voix ne dispose d'aucun siège ni d'aucun vote au Parlement.", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/first%20nations%20voice%20act%202023/current/2023.9.auth.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon la chaîne publique ABC, aux premières élections du 16 mars 2024, 2 583 bulletins valides ont été comptés pour environ 30 000 électeurs admis, soit une participation inférieure à 10 % ; un élu de la région Yorke et Mid-North l'a été avec six voix. Les 46 sièges ont été pourvus et la Voix d'État s'est adressée aux deux chambres réunies le 27 novembre 2024 et le 13 novembre 2025. En 2026, un projet de loi d'abrogation est soutenu par le chef de l'opposition.", source: "https://www.abc.net.au/news/2024-03-29/sa-voice-to-parliament-voter-turnout/103649148"}
+chronologie:
+  - {annee: 2023, evenement: "Adoption du First Nations Voice Act le 26 mars ; entrée en vigueur le 12 mai."}
+  - {annee: 2024, evenement: "Premières élections le 16 mars ; premier discours devant les deux chambres réunies le 27 novembre."}
+  - {annee: 2025, evenement: "Élections complémentaires dans les régions 1 (Central) et 4 (Murraylands, Riverland et Sud-Est) ; second discours annuel le 13 novembre."}
+  - {annee: 2026, evenement: "Élections le 21 mars, le même jour que les élections de l'État ; dépôt d'un projet de loi d'abrogation (First Nations Voice Repeal Bill 2026) ; révision indépendante des élections annoncée le 28 avril et confiée à l'ancien commissaire électoral fédéral Tom Rogers."}
+fiabilite:
+  verifie: ["Sections 8, 9, 11, 24, 25, 38 à 43, 45, 47, 48 et 50 de la loi (version du 1er janvier 2024, legislation.sa.gov.au).", "Six régions et 46 membres élus (Attorney-General's Department).", "Dates des discours de 2024 et 2025 (Parlement d'Australie-Méridionale).", "Avis de la Voix d'État sur quatre projets de loi en 2024, dont deux modifiés (Preventive Health Bill, Office for Early Childhood Development Bill), selon le discours du 27 novembre 2024 (procès-verbal de la séance commune).", "Participation aux élections de 2024 : 2 583 bulletins valides pour environ 30 000 électeurs admis (ABC, 29 mars 2024).", "Élections du 21 mars 2026 et révision confiée à Tom Rogers (site de la Voix).", "Déclaration de la Voix du 22 mai 2026 contre le projet d'abrogation."]
+  non_confirme: ["Stade d'examen du projet de loi d'abrogation de 2026 et chambre de dépôt.", "Taux de participation aux élections de 2026.", "Montant des moyens attribués par le ministre (s. 48).", "Effet des avis de la Voix sur les projets de loi : source émanant de la Voix seule, sans évaluation indépendante consultée."]
+sources:
+  - {titre: "First Nations Voice Act 2023 (SA), version du 1er janvier 2024 — legislation.sa.gov.au", url: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/first%20nations%20voice%20act%202023/current/2023.9.auth.pdf"}
+  - {titre: "Parlement d'Australie-Méridionale — First Nations Voice", url: "https://www.parliament.sa.gov.au/en/About-Parliament/First-Nations-Voice"}
+  - {titre: "Parlement d'Australie-Méridionale — procès-verbal de la séance commune du 27 novembre 2024", url: "https://www.parliament.sa.gov.au/-/media/Project/Parliament/Documents/About-Parliament/First-Nations-Voice/Minutes-of-Joint-Sitting---First-Nations-Voice---27-November-2024.pdf"}
+  - {titre: "Parlement d'Australie-Méridionale — fiche de procédure (décembre 2024)", url: "https://www.parliament.sa.gov.au/-/media/Project/Parliament/Documents/About-Parliament/First-Nations-Voice/First-Nations-Voice-procedures-info-sheet---Dec-2024.pdf"}
+  - {titre: "Attorney-General's Department (SA) — First Nations Voice", url: "https://www.agd.sa.gov.au/first-nations-voice"}
+  - {titre: "Attorney-General's Department (SA) — Local First Nations Voices", url: "https://www.agd.sa.gov.au/first-nations-voice/local-first-nations-voices"}
+  - {titre: "Electoral Commission SA — élection de 2024", url: "https://www.ecsa.sa.gov.au/elections/2024-south-australian-first-nations-voice-to-parliament"}
+  - {titre: "SA First Nations Voice — révision des élections de 2026", url: "https://www.firstnationsvoice.sa.gov.au/about/Voice-Election-Review"}
+  - {titre: "SA First Nations Voice — déclaration sur le First Nations Voice Repeal Bill 2026 (22 mai 2026)", url: "https://www.firstnationsvoice.sa.gov.au/news/statement-about-the-first-nations-voice-repeal-bill-2026"}
+  - {titre: "ABC News — participation aux élections de la Voix (29 mars 2024)", url: "https://www.abc.net.au/news/2024-03-29/sa-voice-to-parliament-voter-turnout/103649148"}
+  - {titre: "ABS — 2021 Census QuickStats, South Australia", url: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/4"}
+  - {titre: "Geoscience Australia — superficie des États et territoires", url: "https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/area-of-australia-states-and-territories"}

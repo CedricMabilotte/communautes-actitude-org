@@ -201,7 +201,8 @@ def charger():
             if r.get("mecanisme") not in MECA_REG:
                 fail(f"{uid} : mécanisme régional inconnu {r.get('mecanisme')}")
         pub["date_maj"] = date_maj(p)
-        pub["titre"] = d.get("endonyme") or d["nom"]
+        agrege = d["type"] in ("communaute_locale", "collectivite_autonome") or (ROOT / "data" / "tables" / f"{uid}.csv").exists()
+        pub["titre"] = d["nom"] if agrege else (d.get("endonyme") or d["nom"])
         fiches.append(pub)
     if not fiches:
         fail("aucune fiche")
@@ -410,22 +411,48 @@ def dossiers_index_html(dossiers):
 <ol class="dlist">{''.join(cards)}</ol></div>"""
     return page("/dossiers/", "Dossiers thématiques", "Études thématiques : personnalité juridique des entités naturelles, habiter sans posséder, gestion des territoires au village en Inde.", body)
 
-def tableau_html(t):
-    rows = list(csv.DictReader((ROOT / "data" / "tables" / t["fichier"]).open(encoding="utf-8")))
+def lire_table(fichier):
+    txt = (ROOT / "data" / "tables" / fichier).read_text(encoding="utf-8-sig")
+    rows = []
+    for r in csv.DictReader(io.StringIO(txt)):
+        r = {(k or "").strip(): (" ".join(v) if isinstance(v, list) else (v or "")).strip() for k, v in r.items()}
+        rows.append({"nom": r.get("nom", ""), "sub": r.get("subdivision") or r.get("etat") or "", "district": r.get("district", ""),
+                     "km2": r.get("surface_km2", ""), "annee": r.get("annee") or r.get("annee_notification") or "", "src": r.get("source_url", "")})
+    return [r for r in rows if r["nom"]]
+
+def num(x):
+    try:
+        return float(str(x).replace(",", "."))
+    except ValueError:
+        return None
+
+def tableau_html(t, ancre="tableau"):
+    rows = lire_table(t["fichier"])
+    tot = len(rows)
     par = {}
     for r in rows:
-        x = par.setdefault(r["etat"], [0, 0.0, 0])
+        x = par.setdefault(r["sub"] or "—", [0, 0.0, 0])
         x[0] += 1
-        if r.get("surface_km2"):
-            x[1] += float(r["surface_km2"]); x[2] += 1
-    tot = sum(x[0] for x in par.values())
-    resume = "".join(f'<tr><td>{e(k)}</td><td class="mono num">{n}</td><td class="mono num">{fmt_num(round(sf)) if sf else "—"}{(" <small>(" + str(nsf) + " renseignées)</small>") if nsf and nsf < n else ""}</td></tr>'
-                     for k, (n, sf, nsf) in sorted(par.items(), key=lambda kv: -kv[1][0]))
-    full = "".join(f'<tr><td>{e(r["nom"])}</td><td>{e(r["etat"])}</td><td>{e(r.get("district") or "")}</td><td class="mono num">{e(r.get("surface_km2") or "—")}</td>'
-                   f'<td class="mono">{e(r.get("annee_notification") or "")}</td><td>{link(r["source_url"], "source") if r.get("source_url") else ""}</td></tr>' for r in rows)
-    return f"""<h2 id="tableau">{e(t["titre"])}</h2><p class="prose muted">{e(t.get("note", ""))}</p>
-<div class="cmpwrap"><table class="plain"><thead><tr><th>État</th><th>Réserves</th><th>Surface (km²)</th></tr></thead><tbody>{resume}<tr><td><strong>Total</strong></td><td class="mono num"><strong>{tot}</strong></td><td></td></tr></tbody></table></div>
-<details class="tabfull"><summary class="sans">Voir les {tot} réserves</summary><div class="cmpwrap"><table class="plain"><thead><tr><th>Réserve</th><th>État</th><th>District</th><th>km²</th><th>Notifiée</th><th>Source</th></tr></thead><tbody>{full}</tbody></table></div></details>
+        if num(r["km2"]) is not None:
+            x[1] += num(r["km2"]); x[2] += 1
+    resume = ""
+    if len(par) > 1 and tot >= 12:
+        lignes = "".join(f'<tr><td>{e(k)}</td><td class="mono num">{n}</td><td class="mono num">{fmt_num(round(sf)) if sf >= 1 else (str(round(sf, 2)).replace(".", ",") if sf else "—")}{(" <small>(" + str(nsf) + " renseignées)</small>") if nsf and nsf < n else ""}</td></tr>'
+                         for k, (n, sf, nsf) in sorted(par.items(), key=lambda kv: -kv[1][0]))
+        resume = f'<div class="cmpwrap"><table class="plain"><thead><tr><th>Subdivision</th><th>Sites</th><th>Surface (km²)</th></tr></thead><tbody>{lignes}<tr><td><strong>Total</strong></td><td class="mono num"><strong>{tot}</strong></td><td></td></tr></tbody></table></div>'
+    dcol = any(r["district"] for r in rows)
+    MAXL = 400
+    trop = tot > MAXL
+    rows_aff = rows[:MAXL]
+    full = "".join(f'<tr><td>{e(r["nom"])}</td><td>{e(r["sub"])}</td>{("<td>" + e(r["district"]) + "</td>") if dcol else ""}<td class="mono num">{e(r["km2"] or "—")}</td>'
+                   f'<td class="mono">{e(r["annee"])}</td><td>{link(r["src"], "source") if r["src"].startswith("http") else ""}</td></tr>' for r in rows_aff)
+    tabfull = f'<div class="cmpwrap"><table class="plain"><thead><tr><th>Site</th><th>Subdivision</th>{"<th>District</th>" if dcol else ""}<th>km²</th><th>Année</th><th>Source</th></tr></thead><tbody>{full}</tbody></table></div>'
+    if trop:
+        corps = resume + f'<details class="tabfull"><summary class="sans">Voir les {MAXL} premiers sites sur {fmt_num(tot)}</summary>{tabfull}<p class="muted sans">La liste complète des {fmt_num(tot)} sites est dans le fichier CSV ci-dessous.</p></details>'
+    else:
+        corps = (resume + f'<details class="tabfull"><summary class="sans">Voir les {tot} sites</summary>{tabfull}</details>') if (resume or tot > 25) else tabfull
+    note = f'<p class="prose muted">{e(t["note"])}</p>' if t.get("note") else ""
+    return f"""<h2 id="{ancre}">{e(t["titre"])} <span class="muted mono">({fmt_num(tot)})</span></h2>{note}{corps}
 <p class="sans"><a href="/donnees/{e(t["fichier"])}" download>Télécharger le tableau (CSV)</a></p>"""
 
 def dossier_html(d, fiches_par_uid):
@@ -474,7 +501,7 @@ def fiche_html(d):
     x, y = project(*d["coord"])
     px, py = 100 * x / MAP["W"], 100 * y / MAP["H"]
     kicker = f'{REGIONS[d["region"]]} · {TYPES[d["type"]]}'
-    sub = d["nom"] if d["titre"] != d["nom"] else (d.get("territoire") or "")
+    sub = d["nom"] if d["titre"] != d["nom"] else (d.get("endonyme") or d.get("territoire") or "")
     ladder = "".join(f'<span class="dg-{i}{" on" if i == d["degre"] else ""}"{" aria-hidden=true" if i != d["degre"] else ""}>{i}</span>' for i in range(6))
     types2 = ", ".join(TYPES.get(t, t) for t in (d.get("types_secondaires") or []))
     facts = "".join([
@@ -548,6 +575,7 @@ def fiche_html(d):
 <section><h2 id="textes">Textes nationaux</h2><ul class="un">{nat or '<li class="muted">Aucune entrée.</li>'}</ul></section>
 </div>
 
+{tableau_html({"titre": "Les sites de ce régime", "fichier": d["uid"] + ".csv"}, "sites") if (ROOT / "data" / "tables" / (d["uid"] + ".csv")).exists() else ""}
 {dossiers_liens(d)}
 <h2 id="application">Ce qui s'applique réellement</h2>
 <div class="box prose"><p class="kicker" style="margin:0 0 6px">{e(EFFECT[eff['valeur']])}</p><p style="margin:0">{e(eff.get('note', ''))}</p>{('<p class="src sans" style="font-size:.78rem;margin:8px 0 0">' + link(eff['source'], 'Source : ' + domain(eff['source'])) + '</p>') if eff.get('source') else ''}</div>

@@ -1,0 +1,53 @@
+uid: "zone-protegee-detroit-torres"
+nom: "Habitants traditionnels de la zone protégée du détroit de Torrès"
+endonyme: ""
+territoire: "Zone protégée du détroit de Torrès (Torres Strait Protected Zone)"
+etats: ["Australie", "Papouasie-Nouvelle-Guinée"]
+region: "oceanie"
+coord: [-9.7, 142.6]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: ["communaute_locale"]
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 27, unite: "communautés désignées (14 communautés insulaires australiennes et 13 villages papous)", annee: 2000, source: "https://www.dfat.gov.au/geo/torres-strait/the-torres-strait-treaty"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 27, annee: 2000, perimetre: "14 communautés australiennes (Badu, Boigu, Poruma, Erub, Dauan, Kubin, St Pauls, Mabuiag, Mer, Saibai, Ugar, Warraber, Iama, Masig) et 13 villages papous (Bula, Mari, Jarai, Tais, Buji/Ber, Sigabadaru, Mabadauan, Old Mawatta, Ture Ture, Kadawa, Katatai, Parama, Sui)", source: "https://www.dfat.gov.au/geo/torres-strait/the-torres-strait-treaty"}
+resume: >-
+  Le traité entre l'Australie et la Papouasie-Nouvelle-Guinée signé à Sydney le 18 décembre 1978, en vigueur depuis le 15 février 1985, crée une zone protégée dans le détroit de Torrès. L'objet principal de cette zone (art. 10) est de reconnaître et protéger le mode de vie et les moyens de subsistance des « habitants traditionnels » des deux pays : insulaires du détroit de nationalité australienne et habitants de la côte papoue voisine. Ces habitants circulent dans la zone sans passeport ni visa pour leurs activités traditionnelles, la pêche traditionnelle a priorité sur la pêche commerciale, et un conseil consultatif conjoint doit les consulter. En Australie, le traité figure en annexe du Torres Strait Fisheries Act 1984 (loi sur les pêcheries du détroit de Torrès). Les insulaires du côté australien font aussi l'objet de la fiche « Insulaires du détroit de Torrès ».
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Traité entre l'Australie et l'État indépendant de Papouasie-Nouvelle-Guinée relatif à la souveraineté et aux frontières maritimes dans la région du détroit de Torrès (Sydney, 18 décembre 1978), enregistré au Recueil des traités des Nations unies, vol. 1429, n° 24238", nature: "traite", annee: 1978, source: "https://treaties.un.org/doc/Publication/UNTS/Volume%201429/volume-1429-I-24238-English.pdf"}
+  - {instrument: "Torres Strait Fisheries Act 1984 (Australie), compilation n° 32 du 14 octobre 2024, annexe 1 (texte du traité)", nature: "loi", annee: 1984, source: "https://www.legislation.gov.au/C2004A02887/2024-10-14/2024-10-14/text/original/pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Article 12 du traité : chaque État permet aux habitants traditionnels de l'autre État de continuer d'exercer leurs droits coutumiers d'accès et d'usage des terres, fonds marins, mers, estuaires et zones intertidales situés sous sa juridiction, à des conditions non moins favorables que pour ses propres habitants traditionnels, si les habitants voisins reconnaissent ces droits conformes à la tradition locale ; il s'agit d'un droit d'accès et d'usage, non d'un titre de propriété.", source: "https://www.legislation.gov.au/C2004A02887/2024-10-14/2024-10-14/text/original/pdf"}
+  ressources: {valeur: "partiel", note: "Le traité fait de la pêche traditionnelle (y compris dugong et tortue, art. 1 l) un objet principal de la zone (art. 10 § 3) et impose d'administrer la pêche commerciale sans compromettre la pêche traditionnelle (art. 20 § 1, « priorité de la pêche traditionnelle »), mais des mesures de conservation peuvent s'y appliquer (art. 14 et 20 § 2) ; le Torres Strait Fisheries Act 1984 (art. 8 a) en fait une priorité de gestion.", source: "https://www.legislation.gov.au/C2004A02887/2024-10-14/2024-10-14/text/original/pdf"}
+  consentement: {valeur: "partiel", note: "Le Conseil consultatif conjoint du détroit de Torrès « veille à ce que les habitants traditionnels soient consultés » et transmet leurs vues aux deux États (art. 19 § 4 du traité) ; en Australie, le ministre et la Protected Zone Joint Authority (autorité conjointe de gestion des pêches) sollicitent l'avis des membres du conseil issus des habitants traditionnels « lorsqu'ils l'estiment approprié » (Torres Strait Fisheries Act 1984, art. 13 et 39). Aucun consentement n'est requis.", source: "https://www.legislation.gov.au/C2004A02887/2024-10-14/2024-10-14/text/original/pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Le Conseil consultatif conjoint compte neuf membres par État, dont au moins trois représentants des habitants traditionnels (art. 19 § 6 c du traité) ; il n'a aucune responsabilité de gestion (art. 19 § 3). Côté australien, le président de la Torres Strait Regional Authority (autorité régionale du détroit de Torrès, organisme fédéral) siège à la Protected Zone Joint Authority (Torres Strait Fisheries Act 1984, art. 30 § 2 c).", source: "https://www.legislation.gov.au/C2004A02887/2024-10-14/2024-10-14/text/original/pdf"}
+  statut_personnel: {valeur: "partiel", note: "Les habitants traditionnels de chaque État ont un droit de libre circulation dans la zone et à proximité pour leurs activités traditionnelles (art. 11 § 1 du traité), que les procédures d'immigration, de douane et de santé ne doivent pas entraver (art. 16 § 1) ; chaque État peut le limiter en cas d'abus ou d'épidémie (art. 16 § 3).", source: "https://www.legislation.gov.au/C2004A02887/2024-10-14/2024-10-14/text/original/pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon Stephen Howes (Development Policy Centre, Université nationale australienne, novembre 2020), les habitants des 13 villages papous se rendent dans les îles australiennes au-delà des seuls motifs traditionnels (soins, commerce, travail), mais même les déplacements traditionnels étaient alors interdits en raison de la COVID-19.", source: "https://devpolicy.org/too-close-to-ignore-but-what-to-do-20201102/"}
+chronologie:
+  - {annee: 1978, evenement: "Signature du traité à Sydney (18 décembre)."}
+  - {annee: 1984, evenement: "Torres Strait Fisheries Act : le traité est annexé à la loi australienne et la Protected Zone Joint Authority est créée."}
+  - {annee: 1985, evenement: "Entrée en vigueur du traité par échange des instruments de ratification (15 février)."}
+  - {annee: 1986, evenement: "Enregistrement du traité au Secrétariat de l'ONU par l'Australie (7 juillet)."}
+  - {annee: 2000, evenement: "Échange de notes entre les deux gouvernements confirmant les communautés dont les habitants bénéficient de la libre circulation (28 juin - 25 juillet)."}
+  - {annee: 2008, evenement: "Fin du rachat volontaire (2007-2008) des licences non traditionnelles de la pêcherie de poissons de récif : l'accès est réservé depuis aux habitants traditionnels, les droits de capture étant détenus en fiducie par la Torres Strait Regional Authority."}
+  - {annee: 2020, evenement: "Les déplacements traditionnels sont suspendus en raison de la COVID-19."}
+fiabilite:
+  verifie: ["Articles 1, 10, 11, 12, 14, 16, 18, 19 et 20 du traité (annexe 1 du Torres Strait Fisheries Act 1984, compilation n° 32).", "Date de signature, date d'entrée en vigueur et enregistrement (Recueil des traités des Nations unies, vol. 1429, n° 24238).", "Articles 8, 13, 30 et 39 du Torres Strait Fisheries Act 1984.", "Liste des 14 communautés australiennes et 13 villages papous, échange de notes de 2000 (ministère australien des Affaires étrangères).", "Réservation de la pêcherie de poissons de récif aux habitants traditionnels (Protected Zone Joint Authority)."]
+  non_confirme: ["Texte de l'échange de notes de 2000 : non consulté, seule la synthèse du ministère australien a été lue.", "Loi de mise en œuvre côté papou (pêches, immigration) : non consultée.", "Superficie de la zone protégée et population des communautés désignées : aucune source officielle ouverte.", "Date de reprise des déplacements traditionnels après la suspension liée à la COVID-19 : non vérifiée.", "Aucun document onusien nommant ce régime n'a été trouvé (rapport du Rapporteur spécial A/HRC/36/46/Add.2, observations du CERD, du Comité des droits de l'homme et du CDESC sur l'Australie consultés)."]
+sources:
+  - {titre: "Ministère australien des Affaires étrangères et du Commerce — The Torres Strait Treaty", url: "https://www.dfat.gov.au/geo/torres-strait/the-torres-strait-treaty"}
+  - {titre: "Recueil des traités des Nations unies, vol. 1429, n° 24238 — Traité Australie / Papouasie-Nouvelle-Guinée (1978)", url: "https://treaties.un.org/doc/Publication/UNTS/Volume%201429/volume-1429-I-24238-English.pdf"}
+  - {titre: "Torres Strait Fisheries Act 1984, compilation n° 32 — Federal Register of Legislation", url: "https://www.legislation.gov.au/C2004A02887/2024-10-14/2024-10-14/text/original/pdf"}
+  - {titre: "Protected Zone Joint Authority — Who we are", url: "https://www.pzja.gov.au/who-we-are"}
+  - {titre: "Protected Zone Joint Authority — Torres Strait Finfish (Reef Line) Fishery", url: "https://www.pzja.gov.au/commercial-fisheries-management/torres-strait-fisheries/torres-strait-finfish-reef-line-fishery"}
+  - {titre: "Stephen Howes, « PNG on the border: too close to ignore, but what to do? », Devpolicy Blog, 2 novembre 2020", url: "https://devpolicy.org/too-close-to-ignore-but-what-to-do-20201102/"}

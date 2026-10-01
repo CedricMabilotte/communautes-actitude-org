@@ -1,0 +1,56 @@
+uid: "wreck-bay-jervis-bay"
+nom: "Communauté aborigène de Wreck Bay (territoire de la baie de Jervis)"
+endonyme: "Koori"
+territoire: "Péninsule de Bherwerre, territoire de la baie de Jervis"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-35.2, 150.7]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 152, annee: 2021, perimetre: "Aborigènes ou insulaires du détroit de Torres recensés dans la zone statistique autochtone (Indigenous Location) Wreck Bay ; la population totale de la zone n'est pas publiée sous cette forme", source: "https://abs.gov.au/census/find-census-data/quickstats/2021/ILOC90200102"}
+lieux: {valeur: 2, unite: "ensembles fonciers (terres communautaires de Wreck Bay ; parc national de Booderee)", annee: 2015, source: "https://www.legislation.gov.au/F2015L01818/asmade/text"}
+surface_km2: {valeur: 67.82, annee: 2015, perimetre: "terres communautaires (403 ha) et parc national de Booderee (6 379 ha, dont 875 ha d'espace marin), selon le plan de gestion 2015-2025", source: "https://www.legislation.gov.au/F2015L01818/asmade/text"}
+villages: {valeur: 1, annee: null, perimetre: "village de Wreck Bay, desservi par le conseil", source: "https://wbacc.gov.au/aboriginal-land-grant-jervis-bay-territory-act-1986/"}
+resume: >-
+  Communauté koori établie à Wreck Bay, sur la péninsule de Bherwerre, dans le territoire fédéral de la baie de Jervis. La loi fédérale de 1986, nommée Aboriginal Land and Waters (Jervis Bay Territory) Act depuis 2023, crée le Wreck Bay Aboriginal Community Council, personne morale dont les membres inscrits forment le conseil, et lui attribue 403 ha de terres en pleine propriété inaliénable. Depuis 1995, le conseil est aussi propriétaire du parc national de Booderee, loué pour 99 ans au Directeur des parcs nationaux et cogéré par un conseil de gestion où les représentants de la communauté sont majoritaires. Le bail et la cogestion de Booderee sont aussi décrits dans la fiche « Parcs nationaux cogérés de Kakadu, Uluṟu-Kata Tjuṯa et Booderee ».
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Aboriginal Land and Waters (Jervis Bay Territory) Act 1986, ancien Aboriginal Land Grant (Jervis Bay Territory) Act 1986, compilation n° 14 du 22 août 2023", nature: "loi", annee: 1986, source: "https://www.legislation.gov.au/C2004A03405/latest/text"}
+  - {instrument: "Aboriginal Land Grant and Management (Jervis Bay Territory) Legislation Amendment Act 1995", nature: "loi", annee: 1995, source: "https://www.legislation.gov.au/C2004A04953/latest/text"}
+  - {instrument: "Aboriginal Land Grant (Jervis Bay Territory) Amendment (Strengthening Land and Governance Provisions) Act 2023", nature: "loi", annee: 2023, source: "https://www.legislation.gov.au/C2023A00057/asmade/text"}
+  - {instrument: "Aboriginal Land and Waters (Jervis Bay Territory) By-Laws 2026", nature: "loi", annee: 2026, source: "https://www.legislation.gov.au/F2026L01062/asmade/text"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Wreck Bay Aboriginal Community Council est une personne morale (s. 4) composée des membres inscrits (s. 5) ; un comité exécutif de neuf membres élus en assemblée générale exerce ses pouvoirs (s. 28 à 30) ; ses fonctions portent sur les terres et les services aux membres (s. 6) ; le ministre peut révoquer un membre de l'exécutif (s. 33(1)) et doit approuver tout contrat de plus d'un million de dollars (s. 7(3)) ; le registrar (registraire nommé par le ministre, s. 15) administre le conseil si tous les membres de l'exécutif sont révoqués (s. 33A, 2023).", source: "https://www.legislation.gov.au/C2004A03405/latest/text"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil peut édicter des règlements (by-laws) sur l'usage, l'accès, la chasse, la pêche, la coupe de bois et les sites sacrés des terres aborigènes hors parc de Booderee (s. 52A) ; ils ne peuvent contredire le droit fédéral ou territorial et sont enregistrés comme actes du ministre ; les règlements de 2026, pris par le conseil le 21 mai 2026, entrent en vigueur le 1er octobre 2026 et remplacent ceux de 2016.", source: "https://www.legislation.gov.au/F2026L01062/asmade/text"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Les terres déclarées terres aborigènes sont dévolues au conseil (s. 8 à 10) ; le conseil ne peut en disposer que par baux encadrés (s. 38) et ne peut les rétrocéder à la Couronne qu'avec l'accord écrit du ministre (s. 39) ; titre de pleine propriété (freehold) sur 403 ha depuis 1986 et sur le parc de Booderee depuis 1995 ; le parc doit être loué au Directeur des parcs nationaux (s. 38B), le ministre pouvant consentir le bail à la place du conseil (s. 38C).", source: "https://www.legislation.gov.au/C2004A03405/latest/text"}
+  ressources: {valeur: "partiel", note: "Les minéraux restent propriété de l'État fédéral (s. 14) ; aucune extraction sans accord entre l'État fédéral, le conseil et l'exploitant (s. 44) ; le conseil peut régler la coupe de bois, la chasse et la pêche sur ses terres hors parc (s. 52A).", source: "https://www.legislation.gov.au/C2004A03405/latest/text"}
+  consentement: {valeur: "partiel", note: "Les lois minières du territoire n'autorisent aucune entrée sur les terres aborigènes (s. 43) et l'exploitation exige l'accord du conseil (s. 44) ; en revanche, le ministre peut consentir lui-même le bail du parc de Booderee au Directeur si le conseil refuse (s. 38C).", source: "https://www.legislation.gov.au/C2004A03405/latest/text"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le conseil est exonéré des taxes foncières sur les terres aborigènes (s. 45) ; le bail de Booderee prévoit un loyer annuel et une part de 25 % des recettes du parc versés au conseil, pour un bail qui expire le 10 octobre 2094 (plan de gestion 2015-2025, expiré le 19 novembre 2025).", source: "https://www.legislation.gov.au/F2015L01818/asmade/text"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "L'audit de l'Australian National Audit Office (Cour des comptes fédérale) de 2019 relève que le conseil de gestion de Booderee s'est réuni en moyenne trois fois par an au lieu de quatre, qu'aucune révision du bail demandée depuis 2017 n'a commencé et que ce conseil a émis un avis formel de différend ; le plan de gestion du parc a expiré le 19 novembre 2025 (registre fédéral de la législation).", source: "https://www.anao.gov.au/work/performance-audit/management-commonwealth-national-parks"}
+chronologie:
+  - {annee: 1986, evenement: "Adoption de l'Aboriginal Land Grant (Jervis Bay Territory) Act : création du Wreck Bay Aboriginal Community Council et attribution de 403 ha."}
+  - {annee: 1992, evenement: "Proclamation du parc national de Jervis Bay ; la communauté refuse les deux sièges proposés au conseil de gestion."}
+  - {annee: 1995, evenement: "Loi de modification ; le parc est déclaré terre aborigène le 11 octobre, puis loué pour 99 ans au Directeur des parcs nationaux en décembre."}
+  - {annee: 1996, evenement: "Création du conseil de gestion du parc, à majorité de représentants de la communauté."}
+  - {annee: 1997, evenement: "Le parc prend le nom de Booderee, mot de la langue dhurga."}
+  - {annee: 2023, evenement: "Loi de modification : la loi devient l'Aboriginal Land and Waters (Jervis Bay Territory) Act et ajoute un directeur général (Chief Executive Officer) et une condition d'aptitude (fit and proper person) pour les membres de l'exécutif."}
+  - {annee: 2026, evenement: "Nouveaux règlements (by-laws) du conseil sur les terres aborigènes, en vigueur le 1er octobre, en remplacement de ceux de 2016."}
+fiabilite:
+  verifie: ["Sections 4 à 10, 14, 15, 28 à 30, 33, 33A, 38 à 39, 43 à 45 et 52A de la loi (compilation n° 14, legislation.gov.au).", "Changement de titre de la loi en 2023 (endnotes de la compilation et loi de modification n° 57 de 2023).", "Propriété du parc, bail de 99 ans, loyer et part de 25 % des recettes, majorité de la communauté au conseil de gestion (plan de gestion 2015-2025).", "152 Aborigènes ou insulaires du détroit de Torres dans la zone Wreck Bay au recensement de 2021 (ABS).", "Constats de l'audit ANAO de 2019 sur Booderee.", "Entrée en vigueur des règlements de 2026 le 1er octobre 2026 et expiration du plan de gestion 2015-2025 le 19 novembre 2025 (registre fédéral)."]
+  non_confirme: ["Superficie du parc : 6 379 ha selon le plan de gestion, 6 312 ha selon le site du conseil.", "Nombre de membres inscrits du conseil (315 en 2011 selon le site du conseil, chiffre ancien).", "Population totale du village (250 à 300 habitants en janvier 2011 selon le site du conseil, chiffre ancien).", "Contenu détaillé des règlements de 2026 et état de la revendication foncière déposée en 1997 sur le reste du territoire."]
+sources:
+  - {titre: "Aboriginal Land and Waters (Jervis Bay Territory) Act 1986, compilation n° 14 — legislation.gov.au", url: "https://www.legislation.gov.au/C2004A03405/latest/text"}
+  - {titre: "Aboriginal Land Grant (Jervis Bay Territory) Amendment (Strengthening Land and Governance Provisions) Act 2023 — legislation.gov.au", url: "https://www.legislation.gov.au/C2023A00057/asmade/text"}
+  - {titre: "Aboriginal Land and Waters (Jervis Bay Territory) By-Laws 2026 — legislation.gov.au", url: "https://www.legislation.gov.au/F2026L01062/asmade/text"}
+  - {titre: "Booderee National Park Management Plan 2015-2025 — legislation.gov.au", url: "https://www.legislation.gov.au/F2015L01818/asmade/text"}
+  - {titre: "Wreck Bay Aboriginal Community Council — Aboriginal Land Grant (Jervis Bay Territory) Act 1986", url: "https://wbacc.gov.au/aboriginal-land-grant-jervis-bay-territory-act-1986/"}
+  - {titre: "ANAO — Management of Commonwealth National Parks (2019)", url: "https://www.anao.gov.au/work/performance-audit/management-commonwealth-national-parks"}
+  - {titre: "ABS — Recensement 2021, QuickStats Wreck Bay (ILOC90200102)", url: "https://abs.gov.au/census/find-census-data/quickstats/2021/ILOC90200102"}

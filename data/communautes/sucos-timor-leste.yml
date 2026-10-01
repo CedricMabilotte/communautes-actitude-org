@@ -1,0 +1,75 @@
+uid: "sucos-timor-leste"
+nom: "Sucos du Timor-Leste"
+endonyme: "Suku"
+territoire: "Ensemble du territoire national du Timor-Leste"
+etats: ["Timor-Leste"]
+region: "asie"
+coord: [-8.8, 125.7]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1340434, annee: 2022, perimetre: "population totale du pays au recensement du 5 septembre 2022 (chiffre provisoire) ; la loi sur les sucos s'applique à tout le territoire national (art. 2)", source: "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/dyb2022/table03.pdf"}
+lieux: {valeur: 461, unite: "sucos reconnus par diplôme ministériel", annee: 2023, source: "https://www.mj.gov.tl/jornal/public/docs/2023/serie_1/SERIE_I_NO_16_A.pdf"}
+surface_km2: {valeur: 14954, annee: 2022, perimetre: "superficie totale du pays ; la loi n° 9/2016 s'applique à tout le territoire national (art. 2)", source: "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/dyb2022/table03.pdf"}
+villages: {valeur: 2233, annee: 2023, perimetre: "aldeias (hameaux) reconnues, composantes des sucos", source: "https://www.mj.gov.tl/jornal/public/docs/2023/serie_1/SERIE_I_NO_16_A.pdf"}
+resume: >-
+  Fiche agrégée : elle couvre les sucos (suku en tétoum), communautés de base du Timor-Leste. La loi n° 9/2016 du 8 juillet 2016, dite loi des sucos, les définit comme des personnes morales de droit public de nature associative (associations publiques), formées sur la base de circonstances historiques, culturelles et traditionnelles, dont les membres sont liés par des liens familiaux ou traditionnels dans un espace déterminé (art. 3 et 4). Chaque suco a un conseil de suco, organe délibérant qui comprend un lian-na'in (gardien de la parole coutumière) élu par le conseil selon la tradition du suco, un chef de suco élu au suffrage direct pour sept ans, et des aldeias (hameaux) dotées d'une assemblée et d'un chef. Le suco promeut le règlement des conflits selon les usages de la communauté et préserve les maisons sacrées (uma-lulik) ; les actes du chef de suco n'engagent ni l'État ni la municipalité et le suco est soumis à une tutelle administrative de légalité. L'État reconnaît les sucos par diplôme ministériel : 451 sucos et 2 233 aldeias en 2017, 461 sucos et 2 233 aldeias en 2023, cinq sucos de plus en décembre 2024. Le tableau reproduit la liste de 2017.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination à l'égard des femmes sur le quatrième rapport du Timor-Leste (CEDAW/C/TLS/CO/4, 31 mai 2023), § 31 et 43 : seuls 5 % des chefs de village (Xefe Suku) et 4 % des chefs de sous-village (Xefe Aldeia) sont des femmes ; § 14 : recommande d'adopter le projet de loi sur la justice traditionnelle.", annee: 2023, source: "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CEDAW%2FC%2FTLS%2FCO%2F4&Lang=en"}
+base_nationale:
+  - {instrument: "Constitution de la République démocratique du Timor-Leste (2002), art. 2(4) : l'État reconnaît et valorise les normes et usages coutumiers conformes à la Constitution", nature: "constitution", annee: 2002, source: "https://www.constituteproject.org/constitution/East_Timor_2002"}
+  - {instrument: "Loi n° 9/2016 du 8 juillet 2016, loi des sucos (Lei dos Sucos)", nature: "loi", annee: 2016, source: "https://estatal.gov.tl/wp-content/uploads/2020/08/Lei-n.%C2%BA-92016-de-8-de-Julho-Lei-dos-Sucos.pdf"}
+  - {instrument: "Diplôme ministériel n° 16/2017 du 31 mars 2017, reconnaissance des sucos et des aldeias", nature: "loi", annee: 2017, source: "https://faolex.fao.org/docs/pdf/tim176483.pdf"}
+  - {instrument: "Loi n° 13/2017 du 5 juin 2017, régime spécial de définition de la propriété des biens immeubles (art. 23 à 28 : zones de protection communautaire et biens immeubles communautaires)", nature: "loi", annee: 2017, source: "http://www.mj.gov.tl/jornal/public/docs/2017/serie_1/SERIE_I_NO_21.pdf"}
+  - {instrument: "Diplôme ministériel n° 19/2023 du 3 mai 2023, deuxième modification du diplôme n° 16/2017 (461 sucos)", nature: "loi", annee: 2023, source: "https://www.mj.gov.tl/jornal/public/docs/2023/serie_1/SERIE_I_NO_16_A.pdf"}
+  - {instrument: "Diplômes ministériels n° 75/2024 et 76/2024 du 23 décembre 2024 (reconnaissance de cinq nouveaux sucos)", nature: "loi", annee: 2024, source: "https://www.mj.gov.tl/jornal/public/docs/2024/serie_1/SERIE_I_NO_51_A.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Loi n° 9/2016, art. 8 à 33 : conseil de suco (organe délibérant, avec un lian-na'in), chef de suco élu au suffrage universel direct pour sept ans (art. 20 et 64), assemblée et chef d'aldeia ; tutelle administrative limitée au contrôle de légalité (art. 82), avec dissolution possible du conseil pour illégalité grave (art. 88).", source: "https://estatal.gov.tl/wp-content/uploads/2020/08/Lei-n.%C2%BA-92016-de-8-de-Julho-Lei-dos-Sucos.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "Loi n° 9/2016, art. 5(1)(c), 6(1)(a) et 23(1)(p)(q) : le suco promeut le règlement des conflits entre membres ou entre aldeias selon les usages et coutumes de la communauté ; médiation sans juridiction propre, la loi sur la justice traditionnelle n'étant pas adoptée en 2023 (CEDAW/C/TLS/CO/4, § 13 et 14).", source: "https://estatal.gov.tl/wp-content/uploads/2020/08/Lei-n.%C2%BA-92016-de-8-de-Julho-Lei-dos-Sucos.pdf"}
+  terres: {valeur: "partiel", note: "Loi n° 13/2017, art. 27 : les immeubles d'usage commun reconnus par la communauté locale selon ses usages sont sa propriété, inaliénables et insaisissables ; le régime détaillé est renvoyé à une loi (art. 28). Le titulaire est la « communauté locale », non le suco en tant que personne morale.", source: "http://www.mj.gov.tl/jornal/public/docs/2017/serie_1/SERIE_I_NO_21.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Loi n° 13/2017, art. 25(3) et 34 : l'usage économique par des tiers d'immeubles en zone de protection communautaire et le levantamento cadastral (relevé cadastral) y sont précédés d'une consultation de la communauté ; loi n° 9/2016, art. 23(1)(d) et 26(k) : le chef de suco organise les consultations et l'assemblée d'aldeia se prononce dans les consultations de l'État. Consultation, pas consentement.", source: "http://www.mj.gov.tl/jornal/public/docs/2017/serie_1/SERIE_I_NO_21.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Loi n° 9/2016, art. 23(1)(i), 79 et 80 : le chef de suco recouvre les recettes et paie les dépenses du suco ; le suco ne perçoit que les recettes expressément prévues par la loi et la loi n° 9/2016 n'en crée aucune ; les aides de l'État et des municipalités suivent un régime fixé par le gouvernement (art. 79) ; le personnel du suco est payé sur ses ressources propres (art. 81).", source: "https://estatal.gov.tl/wp-content/uploads/2020/08/Lei-n.%C2%BA-92016-de-8-de-Julho-Lei-dos-Sucos.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Les organes des sucos prévus par la loi n° 9/2016 ont été élus en 2016, puis le 28 octobre 2023 dans 442 sucos (second tour le 13 novembre dans 271 sucos), et en 2024 et 2025 dans les sucos créés depuis 2017. Le Comité CEDAW relève en 2023 que 5 % des chefs de suco et 4 % des chefs d'aldeia sont des femmes depuis les dernières élections (§ 31) et que le recours aux tribunaux traditionnels reste prédominant dans de nombreuses régions (§ 13).", source: "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CEDAW%2FC%2FTLS%2FCO%2F4&Lang=en"}
+chronologie:
+  - {annee: 2002, evenement: "La Constitution reconnaît les normes et usages coutumiers (art. 2(4))."}
+  - {annee: 2009, evenement: "Élections des chefs de suco et d'aldeia du 9 octobre 2009."}
+  - {annee: 2016, evenement: "Loi n° 9/2016 du 8 juillet 2016 (loi des sucos) ; élections des 29 octobre et 13 novembre."}
+  - {annee: 2017, evenement: "Diplôme ministériel n° 16/2017 : reconnaissance de 451 sucos et 2 233 aldeias ; loi foncière n° 13/2017 sur les biens immeubles communautaires."}
+  - {annee: 2023, evenement: "Diplôme ministériel n° 19/2023 : 461 sucos et 2 233 aldeias ; élections des organes des sucos le 28 octobre et le 13 novembre ; observations finales du Comité CEDAW."}
+  - {annee: 2024, evenement: "Diplôme ministériel n° 76/2024 : reconnaissance de cinq nouveaux sucos (Karahili, Hurai-Raco, Tahu-Bein, Mone-Meco, Cutete)."}
+fiabilite:
+  verifie:
+    - "Loi n° 9/2016 lue au Jornal da República : définition (art. 3), composition du conseil avec un lian-na'in (art. 10, 53), chef élu pour sept ans au suffrage direct (art. 20, 64), règlement des conflits selon les usages et préservation des uma-lulik (art. 6), tutelle (art. 82), recettes (art. 80)."
+    - "Diplôme ministériel n° 16/2017, art. 2 : 451 sucos et 2 233 aldeias ; annexes I-A à I-M dépouillées pour le tableau (451 lignes)."
+    - "Diplôme ministériel n° 19/2023 : article 2 modifié, 461 sucos et 2 233 aldeias."
+    - "Diplôme ministériel n° 76/2024 : reconnaissance de cinq sucos."
+    - "Loi n° 13/2017, art. 23 à 28 et 34 lus au Jornal da República."
+    - "CEDAW/C/TLS/CO/4 (2023), § 13, 14, 31 et 43 lus en français."
+    - "Élections des organes des sucos du 28 octobre 2023 (442 sucos, second tour dans 271 sucos le 13 novembre) : agence de presse Tatoli ; élections partielles de 2024 dans dix sucos : communiqué du gouvernement du 21 mars 2024 ; élections de janvier 2025 dans 18 sucos : Tatoli."
+    - "Tableau : 451 lignes, égal au total de l'art. 2 du diplôme n° 16/2017 ; huit lignes contrôlées sur les annexes (nom, municipalité, poste administratif)."
+  non_confirme:
+    - "Le tableau reproduit la liste de 2017 (451 sucos) ; les annexes de 2023 sont publiées en image et n'ont pas été transcrites. Une source secondaire indique 466 sucos et 2 227 aldeias depuis fin 2024, sans texte officiel consolidé lu."
+    - "Reconnaissance légale des règles coutumières environnementales (tara bandu) et régime détaillé des zones de protection communautaire non vérifiés."
+    - "Montant des aides financières aux sucos (Programme national de développement des sucos, PNDS) non vérifié."
+sources:
+  - {titre: "Lei n.º 9/2016 de 8 de Julho, Lei dos Sucos — Jornal da República (ministère de l'Administration d'État)", url: "https://estatal.gov.tl/wp-content/uploads/2020/08/Lei-n.%C2%BA-92016-de-8-de-Julho-Lei-dos-Sucos.pdf"}
+  - {titre: "Diploma Ministerial n.º 16/2017, Reconhecimento dos Sucos e das Aldeias — FAOLEX", url: "https://faolex.fao.org/docs/pdf/tim176483.pdf"}
+  - {titre: "Diploma Ministerial n.º 19/2023 — Jornal da República, Série I, n.º 16 A", url: "https://www.mj.gov.tl/jornal/public/docs/2023/serie_1/SERIE_I_NO_16_A.pdf"}
+  - {titre: "Diplomas Ministeriais n.º 75/2024 e 76/2024 — Jornal da República, Série I, n.º 51 A", url: "https://www.mj.gov.tl/jornal/public/docs/2024/serie_1/SERIE_I_NO_51_A.pdf"}
+  - {titre: "Lei n.º 13/2017 de 5 de Junho — Jornal da República, Série I, n.º 21 A", url: "http://www.mj.gov.tl/jornal/public/docs/2017/serie_1/SERIE_I_NO_21.pdf"}
+  - {titre: "Constitution du Timor-Leste (2002) — Constitute Project", url: "https://www.constituteproject.org/constitution/East_Timor_2002"}
+  - {titre: "CEDAW/C/TLS/CO/4, observations finales (2023) — base des organes de traités, HCDH", url: "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CEDAW%2FC%2FTLS%2FCO%2F4&Lang=en"}
+  - {titre: "Annuaire démographique des Nations unies 2022, tableau 3", url: "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/dyb2022/table03.pdf"}
+  - {titre: "2016 East Timorese local elections — Wikipedia", url: "https://en.wikipedia.org/wiki/2016_East_Timorese_local_elections"}
+  - {titre: "Ohin, Timor-Leste realiza eleisaun suku segunda ronda — Tatoli, 13 novembre 2023", url: "https://tatoli.tl/2023/11/13/ohin-timor-leste-realiza-eleisaun-suku-segunda-ronda/"}
+  - {titre: "The election of Village (Suco) Heads is scheduled for April 27th — gouvernement du Timor-Leste, 21 mars 2024", url: "http://timor-leste.gov.tl/?p=36820&n=1&lang=en"}
+  - {titre: "Government distributes voting materials for upcoming Community Leadership Elections — Tatoli, 21 janvier 2025", url: "https://en.tatoli.tl/2025/01/21/government-distributes-voting-materials-for-upcoming-community-leadership-elections/18/"}
+  - {titre: "Verwaltungsgliederung Osttimors — Wikipedia (allemand)", url: "https://de.wikipedia.org/wiki/Verwaltungsgliederung_Osttimors"}

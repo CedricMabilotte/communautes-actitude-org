@@ -1,0 +1,66 @@
+uid: "zones-tampons-nepal"
+nom: "Zones tampons des aires protégées du Népal"
+endonyme: ""
+territoire: "Zones tampons (buffer zones) déclarées autour des parcs nationaux et de la réserve de faune de Koshi Tappu"
+etats: ["Népal"]
+region: "asie"
+coord: [28.2, 84.0]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 1200000, annee: 2026, perimetre: "habitants des zones tampons (chiffre cité par Mongabay)", source: "https://news.mongabay.com/2026/03/in-nepal-calls-for-reform-grow-louder-in-buffer-zones/"}
+lieux: {valeur: 13, unite: "zones tampons déclarées", annee: 2020, source: "https://giwmscdnone.gov.np/media/pages/files/Final%20Report_GIS%20Database_v4olikj.pdf"}
+surface_km2: {valeur: 5687.78, annee: 2020, perimetre: "superficie totale des 13 zones tampons selon le Journal officiel du Népal (Nepal Gazette), compilée par le Département des parcs nationaux", source: "https://giwmscdnone.gov.np/media/pages/files/Final%20Report_GIS%20Database_v4olikj.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les habitants des zones tampons, c'est-à-dire les bandes de territoire habité que l'État déclare autour d'un parc national ou d'une réserve pour que la population locale y prélève des produits forestiers. Le régime vient du quatrième amendement de 1993 à la loi de 1973 sur les parcs nationaux et du règlement de 1996 sur la gestion des zones tampons. Les usagers élisent des comités qui gèrent des forêts communautaires de zone tampon et reçoivent une part des recettes du parc ; le gardien-chef du parc (warden) enregistre, contrôle et peut dissoudre ces comités. En 2020, le Département des parcs nationaux comptait 13 zones tampons pour 5 687,78 km².
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Stratégie et plan d'action nationaux pour la biodiversité 2014-2020, transmis au secrétariat de la Convention sur la diversité biologique : 12 zones tampons, 143 comités d'usagers et 4 088 groupes d'usagers en 2012 ; action PA-A4 sur la gouvernance des zones tampons.", annee: 2014, source: "https://www.cbd.int/doc/world/np/np-nbsap-v2-en.pdf"}
+base_nationale:
+  - {instrument: "National Parks and Wildlife Conservation Act, 2029 (1973)", nature: "loi", annee: 1973, source: "https://faolex.fao.org/docs/pdf/nep187181.pdf"}
+  - {instrument: "National Parks and Wild Life Conservation (Fourth Amendment) Act, 2049 (1993), sections 3A à 3C, 16C et 25A", nature: "loi", annee: 1993, source: "https://faolex.fao.org/docs/pdf/nep6222.pdf"}
+  - {instrument: "Buffer Zone Management Regulation, 2052 (1996)", nature: "loi", annee: 1996, source: "https://faolex.fao.org/docs/pdf/nep6229.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les usagers choisissent entre eux un président, un vice-président, un secrétaire, un trésorier et au moins cinq membres du comité d'usagers, pour cinq ans (règlement de 1996, règle 8) ; le gardien-chef forme le comité avec l'autorité locale, l'enregistre (règle 9) et peut le dissoudre (règle 14).", source: "https://faolex.fao.org/docs/pdf/nep6229.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le comité fixe chaque année le type, la quantité, la zone, la période et le tarif des prélèvements forestiers, ainsi que les zones et droits de pâturage (règle 10 h et i) ; son plan de travail doit être approuvé par le gardien-chef (règle 13).", source: "https://faolex.fao.org/docs/pdf/nep6229.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le gardien-chef peut remettre tout ou partie d'une forêt à un comité d'usagers comme forêt communautaire de zone tampon, avec un certificat, et la reprendre si le plan de travail n'est pas suivi, le comité pouvant faire appel devant le directeur général (règlement de 1996, règle 21).", source: "https://faolex.fao.org/docs/pdf/nep6229.pdf"}
+  ressources: {valeur: "partiel", note: "Les usagers d'une forêt communautaire de zone tampon prélèvent les produits forestiers dans les limites du plan de travail en payant la redevance fixée par le comité (règlement de 1996, règle 21) ; le ministère fixe la part des recettes du parc consacrée au développement local de la population, en tenant compte notamment de la population et de la surface de la zone tampon (règle 26).", source: "https://faolex.fao.org/docs/pdf/nep6229.pdf"}
+  consentement: {valeur: "partiel", note: "Le découpage de la zone tampon en unités se fait en coordination avec l'autorité locale et les usagers (règle 4) ; l'application d'un système d'utilisation des terres suppose l'accord du comité d'usagers (règle 34).", source: "https://faolex.fao.org/docs/pdf/nep6229.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Chaque comité dispose d'un fonds propre alimenté par la vente de produits forestiers, la part des recettes du parc et des dons (règle 15) ; un comité présidé par un élu des présidents de comités répartit la part des recettes entre unités, le gardien-chef en étant le secrétaire (règle 26) ; l'audit est confié à une personne désignée par le gardien-chef (règle 16).", source: "https://faolex.fao.org/docs/pdf/nep6229.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2026, des habitants et des présidents de comités demandent une réforme : le gardien-chef peut passer outre les décisions du conseil de zone tampon élu, et selon le directeur général du Département des parcs nationaux la part des recettes reversée est passée de 30-50 % à 20 % après le passage au fédéralisme en 2015 ; le 19 mars 2025, la commission de la loi, de la justice et des droits humains de la Chambre des représentants a demandé au ministère des Forêts et de l'Environnement un nouveau relevé et une nouvelle délimitation des zones tampons, travail interrompu par la dissolution du Parlement en septembre 2025.", source: "https://news.mongabay.com/2026/03/in-nepal-calls-for-reform-grow-louder-in-buffer-zones/"}
+chronologie:
+  - {annee: 1973, evenement: "Loi sur les parcs nationaux et la conservation de la faune."}
+  - {annee: 1993, evenement: "Quatrième amendement : création des zones tampons, des comités d'usagers et de la part de 30 à 50 % des recettes pour le développement local."}
+  - {annee: 1996, evenement: "Règlement sur la gestion des zones tampons."}
+  - {annee: 2012, evenement: "12 zones tampons, 143 comités d'usagers et 4 088 groupes d'usagers, selon la stratégie nationale pour la biodiversité."}
+  - {annee: 2015, evenement: "Passage au fédéralisme ; selon le Département des parcs nationaux, la part des recettes reversée descend à 20 %."}
+  - {annee: 2020, evenement: "Le Département des parcs nationaux recense 13 zones tampons pour 5 687,78 km²."}
+  - {annee: 2025, evenement: "Une commission de la Chambre des représentants demande un nouveau relevé et une nouvelle délimitation des zones tampons."}
+fiabilite:
+  verifie:
+    - "Sections 3A à 3C, 16C et 25A ajoutées en 1993 (texte publié par Nepal Press Digest, reproduit par FAOLEX)."
+    - "Règles 4, 8 à 16, 21, 26 et 34 du règlement de 1996 (traduction non officielle reproduite par FAOLEX)."
+    - "Liste et superficies des 13 zones tampons d'après le rapport SIG remis au Département des parcs nationaux en 2020 ; la somme des 13 superficies du tableau donne 5 687,78 km²."
+    - "Le site du Département des parcs nationaux compte toujours 13 zones tampons en 2026."
+    - "Chiffres de 2012 (12 zones, 143 comités, 4 088 groupes, environ 700 000 personnes) dans la stratégie nationale pour la biodiversité 2014-2020."
+  non_confirme:
+    - "La traduction du règlement de 1996 consultée est non officielle et ne reprend pas les amendements ultérieurs, notamment ceux qui instituent les groupes d'usagers et le conseil de zone tampon."
+    - "Le taux actuel de 20 % repose sur la déclaration du directeur général rapportée par Mongabay ; le texte qui le fixe n'a pas été consulté."
+    - "Surfaces différentes selon les sources : 5 602,7 km² (2012, stratégie nationale ; repris par Mongabay en 2026) et 5 687,78 km² (2020, Département des parcs nationaux)."
+    - "Le chiffre de 1,2 million d'habitants n'a pas été retrouvé dans une source officielle."
+sources:
+  - {titre: "National Parks and Wildlife Conservation Act, 2029 (1973) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/nep187181.pdf"}
+  - {titre: "National Parks and Wild Life Conservation (Fourth Amendment) Act, 1993 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/nep6222.pdf"}
+  - {titre: "Buffer Zone Management Regulation, 2052 (1996) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/nep6229.pdf"}
+  - {titre: "Fiche ECOLEX du règlement de 1996", url: "https://www.ecolex.org/details/legislation/buffer-zone-management-regulation-1996-no-2052-of-1996-lex-faoc006229/"}
+  - {titre: "Département des parcs nationaux et de la conservation de la faune (DNPWC), page d'accueil", url: "https://dnpwc.gov.np/en/"}
+  - {titre: "GIS Database of Protected Areas, rapport final remis au Département des parcs nationaux (2020)", url: "https://giwmscdnone.gov.np/media/pages/files/Final%20Report_GIS%20Database_v4olikj.pdf"}
+  - {titre: "Nepal National Biodiversity Strategy and Action Plan 2014-2020 — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/np/np-nbsap-v2-en.pdf"}
+  - {titre: "In Nepal, calls for reform grow louder in buffer zones — Mongabay, mars 2026", url: "https://news.mongabay.com/2026/03/in-nepal-calls-for-reform-grow-louder-in-buffer-zones/"}

@@ -1,0 +1,53 @@
+uid: "conseils-tribaux-nicobar"
+nom: "Nicobarais (conseils tribaux des îles Nicobar)"
+endonyme: ""
+territoire: "District de Nicobar (hors zones shompen et hors zones soumises au régime des panchayats) et zones d'établissement nicobarais, territoire de l'Union des îles Andaman-et-Nicobar"
+etats: ["Inde"]
+region: "asie"
+coord: [8.0, 93.4]
+type: "peuple_tribal"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 36842, annee: 2011, perimetre: "population totale du district de Nicobar au recensement de 2011, y compris les non-Nicobarais (Shompen, colons de Grande Nicobar et de Katchal) ; le nombre de Nicobarais seuls n'a pas été trouvé sur une source officielle ouverte", source: "https://nicobars.andaman.nic.in/demography/"}
+lieux: {valeur: 7, unite: "conseils tribaux d'île ou de groupe d'îles (Car Nicobar, Katchal, Nancowry, Kamorta, Teressa, Chowra, Pilobhabi)", annee: 2026, source: "https://nicobars.andaman.nic.in/tribal-council/"}
+surface_km2: {valeur: 1841, annee: 2026, perimetre: "superficie du district de Nicobar (22 îles, dont 12 habitées) selon l'administration du district, zones shompen et zones de panchayat comprises", source: "https://nicobars.andaman.nic.in/demography/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Nicobarais, inscrits sur la liste des Scheduled Tribes (groupes protégés par la Constitution indienne), vivent dans l'archipel des Nicobar. Le règlement présidentiel de 2009 sur les conseils tribaux crée, « pour donner une plus grande autonomie aux Scheduled Tribes nicobaraises dans la gestion de leurs affaires », des assemblées générales de village, des conseils de village dirigés par un premier capitaine et des conseils d'île dirigés par un capitaine en chef. Ce régime s'applique hors des zones relevant du règlement de 1994 sur les panchayats (conseils locaux ordinaires) et reste subordonné au règlement de 1956 sur la protection des populations aborigènes (Protection of Aboriginal Tribes Regulation). L'administration du district dispose d'un droit de suspension de leurs décisions ; un projet de règles électorales publié en mai 2026 est contesté par des chefs nicobarais.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Andaman and Nicobar Islands (Tribal Councils) Regulation, 2009 (règlement no 1 de 2009, promulgué par le Président le 31 décembre 2009 au titre de l'article 240 de la Constitution)", nature: "loi", annee: 2009, source: "https://indiankanoon.org/doc/155130333/"}
+  - {instrument: "Andaman and Nicobar Islands (Protection of Aboriginal Tribes) Regulation, 1956, qui prévaut sur le règlement de 2009 en cas de conflit (art. 112 du règlement de 2009)", nature: "loi", annee: 1956, source: "https://indiankanoon.org/doc/155130333/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Assemblée générale de village formée des Nicobarais inscrits (art. 3-4), conseil de village de 5 à 9 sièges élu au suffrage direct avec un premier capitaine (art. 11), conseil d'île avec un capitaine en chef élu au suffrage direct (art. 52-53), règlement de 2009 ; l'administrateur du territoire peut dissoudre les conseils (art. 49 et 88) et le commissaire adjoint (Deputy Commissioner, chef de l'administration du district) peut suspendre leurs résolutions (art. 47 et 86).", source: "https://indiankanoon.org/doc/155130333/"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le conseil de village prévient l'aliénation des terres et agit pour restituer les terres des Scheduled Tribes aliénées illégalement, et contrôle les terres communautaires (deuxième annexe, points 10 b et 5 h, règlement de 2009) ; l'administrateur peut lui confier les terres vacantes et de pâture (art. 35) ; la propriété du sol n'est pas transférée.", source: "https://indiankanoon.org/doc/155130333/"}
+  ressources: {valeur: "partiel", note: "Revenus des pêcheries gérées par le conseil (art. 33 (2) (g)), gestion des petits plans d'eau et des forêts, pâtures et vergers de village (deuxième annexe, points 7 i et 11), règlement de 2009.", source: "https://indiankanoon.org/doc/155130333/"}
+  consentement: {valeur: "conteste", note: "La loi de 2006 sur les droits forestiers (Forest Rights Act) et l'ordre du ministère de l'Environnement du 3 août 2009 exigent le consentement des assemblées de village des Scheduled Tribes avant la diversion (changement d'affectation) d'une forêt ; le commissaire adjoint a certifié ce consentement pour Grande Nicobar le 18 août 2022, et le conseil tribal de Petite et Grande Nicobar a écrit à plusieurs reprises aux autorités qu'il n'avait pas été donné ; le ministre des Affaires tribales a annoncé un examen le 26 mai 2025.", source: "https://frontline.thehindu.com/environment/shompen-nicobarese-great-nicobar-project-tribal-rights/article70007102.ece"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "Le conseil de village visite les écoles primaires, contrôle les registres de présence et adresse des recommandations sur leur budget ; le conseil d'île fait de même pour les écoles moyennes et secondaires (deuxième annexe, point 3, et troisième annexe, point 3, règlement de 2009).", source: "https://indiankanoon.org/doc/155130333/"}
+  fiscalite: {valeur: "partiel", note: "Fonds propre de chaque conseil (art. 33 et 74) ; le conseil de village peut lever des taxes sur les bâtiments, les professions et les marchés (art. 36) et le conseil d'île des péages et redevances (art. 75), règlement de 2009 ; le commissaire adjoint peut suspendre ces taxes (art. 38).", source: "https://indiankanoon.org/doc/155130333/"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Seuls les Nicobarais résidant dans le village, inscrits sur une liste électorale propre, sont membres de l'assemblée générale de village et électeurs des conseils (art. 4, 8 et 12, règlement de 2009).", source: "https://indiankanoon.org/doc/155130333/"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2026, l'administration du district décrit des conseils de village de trois capitaines et des conseils d'île dont le capitaine en chef est choisi par les premiers capitaines, alors que le règlement de 2009 prévoit des conseils de village de 5 à 9 sièges et l'élection directe du capitaine en chef (art. 11 et 53) ; selon Vajiram & Ravi, les capitaines sont désignés par consensus sans calendrier fixe, et le projet de règles électorales de mai 2026, qui applique le règlement de 2009, est contesté par des chefs nicobarais.", source: "https://vajiramandravi.com/current-affairs/nicobar-elections-controversy-tribal-self-governance-and-electoral-reforms/"}
+chronologie:
+  - {annee: 1956, evenement: "Protection of Aboriginal Tribes Regulation : l'entrée dans les îles Nicobar est restreinte."}
+  - {annee: 1974, evenement: "Création du district de Nicobar, chef-lieu à Car Nicobar, le 1er août."}
+  - {annee: 2004, evenement: "Le tsunami du 26 décembre frappe les côtes ; des Nicobarais de Grande Nicobar sont relogés dans des abris provisoires à Campbell Bay."}
+  - {annee: 2009, evenement: "Règlement présidentiel sur les conseils tribaux, le 31 décembre."}
+  - {annee: 2022, evenement: "Certificat de consentement du 18 août pour la diversion des forêts de Grande Nicobar, contesté ensuite par le conseil tribal de Petite et Grande Nicobar."}
+  - {annee: 2026, evenement: "Projet de règles sur les listes électorales et les élections des conseils tribaux publié en mai, objections ouvertes jusqu'au 15 juin."}
+fiabilite:
+  verifie: ["Texte du règlement de 2009 : préambule, champ (art. 1), assemblées et conseils (art. 3-4, 11, 52-53), fonds et taxes (art. 33-36, 74-75), tutelle (art. 38, 47, 49, 86, 88), remplacement des conseils coutumiers antérieurs par les conseils élus (art. 17 (2)), primauté du règlement de 1956 (art. 112), deuxième et troisième annexes (Indian Kanoon).", "Sept conseils tribaux, trois capitaines par village, élection à bulletin secret pour 4 ans en règle générale, capitaine en chef choisi par les premiers capitaines (site du district de Nicobar).", "Population 2011 et superficie du district (site du district de Nicobar).", "Certificat du 18 août 2022, lettres du conseil tribal de Petite et Grande Nicobar, déclaration du ministre du 26 mai 2025, ordre ministériel du 3 août 2009 (Frontline, 7 septembre 2025)."]
+  non_confirme: ["Indian Kanoon indique que le document de publication originale n'a pas pu être vérifié ; la version officielle de la Gazette n'a pas été consultée.", "Pouvoir de justice coutumière : un article de l'IJCRT (2025) affirme que les conseils rendent la justice et réglementent l'usage des terres en vertu du règlement de 2009, mais aucune disposition en ce sens n'a été trouvée dans le texte ; valeur laissée « aucune source trouvée ».", "Date exacte des lettres du conseil tribal de Petite et Grande Nicobar contestant le consentement : non trouvée sur une source ouverte.", "Nombre de Nicobarais au recensement de 2011 (une source secondaire, Vajiram & Ravi, avance environ 30 000) et nombre de villages relevant des conseils : non trouvés sur une source officielle ouverte.", "Identité du conseil « Pilobhabi » et rapport avec le conseil tribal de Petite et Grande Nicobar : non vérifiés.", "Texte du projet de règles électorales de 2026 : non consulté ; contenu connu par une source secondaire (Vajiram & Ravi, d'après The Hindu et Frontline)."]
+sources:
+  - {titre: "Andaman and Nicobar Islands (Tribal Councils) Regulation, 2009 — Indian Kanoon", url: "https://indiankanoon.org/doc/155130333/"}
+  - {titre: "District de Nicobar — Tribal Council / Village Council", url: "https://nicobars.andaman.nic.in/tribal-council/"}
+  - {titre: "District de Nicobar — Demography", url: "https://nicobars.andaman.nic.in/demography/"}
+  - {titre: "District de Nicobar — History", url: "https://nicobars.andaman.nic.in/history/"}
+  - {titre: "Frontline, Great Nicobar's consent con (7 septembre 2025)", url: "https://frontline.thehindu.com/environment/shompen-nicobarese-great-nicobar-project-tribal-rights/article70007102.ece"}
+  - {titre: "Vajiram & Ravi, Nicobar Elections Controversy (2026)", url: "https://vajiramandravi.com/current-affairs/nicobar-elections-controversy-tribal-self-governance-and-electoral-reforms/"}
+  - {titre: "IJCRT, vol. 13, no 11 (novembre 2025)", url: "https://www.ijcrt.org/papers/IJCRT2511430.pdf"}

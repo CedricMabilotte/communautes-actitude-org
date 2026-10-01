@@ -1,0 +1,58 @@
+uid: "societes-usagers-paturages-tadjikistan"
+nom: "Sociétés d'usagers des pâturages du Tadjikistan"
+endonyme: ""
+territoire: "Pâturages loués par les autorités locales de district aux sociétés d'usagers des pâturages, dans l'ensemble des régions du Tadjikistan, y compris la région autonome du Haut-Badakhchan"
+etats: ["Tadjikistan"]
+region: "asie"
+coord: [38.9, 71.0]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "sociétés d'usagers des pâturages", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les sociétés d'usagers des pâturages, associations que forment les éleveurs, les exploitations dekhkanes (exploitations agricoles familiales) et d'autres usagers pour coordonner l'usage des pâturages. La loi n° 1618 du 20 juin 2019 « sur les pâturages », qui remplace la loi n° 951 du 19 mars 2013, les définit comme des associations à but non lucratif qui s'administrent elles-mêmes (article 1). Une société reçoit des autorités locales un pâturage en location par contrat, l'exploite selon ses statuts et les plans annuels et pluriannuels d'usage, et élit son responsable (article 19) ; ses représentants siègent dans la commission de district ou de région qui fixe les limites des pâturages et les durées d'usage et prépare les plans (article 20). La terre reste propriété exclusive de l'État (Constitution, article 13). Aucun décompte national des sociétés n'a été trouvé.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République du Tadjikistan (1994, modifiée en 2016), article 13 : la terre et ses ressources, l'eau, l'espace aérien, la faune, la flore et les autres ressources naturelles sont la propriété exclusive de l'État", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Tajikistan_2016?lang=en"}
+  - {instrument: "Loi n° 1618 du 20 juin 2019 « sur les pâturages », articles 1, 11, 16, 17, 19, 20, 24 et 28", nature: "loi", annee: 2019, source: "https://www.cawater-info.net/library/rus/tj-1618-2019.pdf"}
+  - {instrument: "Loi n° 951 du 19 mars 2013 « sur les pâturages » (abrogée en 2019 par l'article 31 de la loi n° 1618)", nature: "loi", annee: 2013, source: "https://base.spinform.ru/show_doc.fwx?rgn=59051"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La société d'usagers des pâturages est une association à but non lucratif qui s'administre elle-même (loi n° 1618 de 2019, article 1) ; elle agit selon ses statuts et un contrat avec ses membres, qui élisent son responsable, lequel exerce ses pouvoirs dans le cadre des décisions des assemblées des membres (article 19.4 et 19.5) ; elle est enregistrée par les organes d'autonomie locale des bourgs et des villages (article 11).", source: "https://www.cawater-info.net/library/rus/tj-1618-2019.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La société fonctionne selon ses statuts et le contrat passé avec ses membres (loi n° 1618 de 2019, article 19.4) ; les plans annuels et pluriannuels d'usage, obligatoires pour les usagers, sont préparés par la commission de district où elle siège et approuvés par l'autorité exécutive locale (article 17.3 et 17.4).", source: "https://www.cawater-info.net/library/rus/tj-1618-2019.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La société demande un pâturage à l'autorité exécutive locale et le reçoit en location par contrat (loi n° 1618 de 2019, articles 16.3 et 19.3), pour une durée fixée par les plans d'usage (article 22.3) et contre un loyer versé au budget local (article 24) ; il s'agit d'un droit d'usage : la terre est la propriété exclusive de l'État (Constitution, article 13).", source: "https://www.cawater-info.net/library/rus/tj-1618-2019.pdf"}
+  ressources: {valeur: "partiel", note: "Le locataire d'un pâturage l'exploite selon le contrat et les plans d'usage, organise le pâturage, peut sous-louer, doit respecter la capacité de charge (nombre de bêtes que le pâturage supporte sans se dégrader) et empêcher l'usage sans droit par des tiers (loi n° 1618 de 2019, article 23).", source: "https://www.cawater-info.net/library/rus/tj-1618-2019.pdf"}
+  consentement: {valeur: "partiel", note: "Des représentants des sociétés d'usagers siègent dans la commission de régulation de l'usage des pâturages, créée par le madjlis (assemblée) des députés du peuple du district ou de la région, qui fixe les limites des pâturages, les durées d'usage, règle les litiges et prépare les plans d'usage (loi n° 1618 de 2019, article 20) ; les citoyens, directement ou par leurs associations civiles, peuvent participer à la préparation des décisions publiques sur la protection des pâturages (article 28.3) ; aucun texte trouvé ne prévoit de consentement préalable.", source: "https://www.cawater-info.net/library/rus/tj-1618-2019.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le rapport d'achèvement de la Banque mondiale de 2018, le projet de gestion environnementale des terres a créé huit unions d'usagers des pâturages dans le cadre de la loi de 2013, aucune union formelle n'existant au début du projet ; à la clôture, une seule avait obtenu des droits sur des pâturages et d'autres négociaient des locations de longue durée avec les districts, l'absence de droits fonciers limitant la collecte des cotisations. En 2021, le projet de restauration des paysages de la Banque mondiale prévoyait de financer jusqu'à 70 plans de gestion des pâturages mis en œuvre par ces unions.", source: "https://documents.worldbank.org/curated/en/183461545337753103/pdf/icr00004451-12172018-636808536685094337.pdf"}
+chronologie:
+  - {annee: 1994, evenement: "La Constitution fait de la terre la propriété exclusive de l'État (article 13)."}
+  - {annee: 2013, evenement: "Loi n° 951 du 19 mars « sur les pâturages », qui prévoit les sociétés d'usagers des pâturages."}
+  - {annee: 2018, evenement: "Clôture d'un projet de la Banque mondiale qui a créé huit unions d'usagers des pâturages ; une seule a obtenu des droits sur des pâturages."}
+  - {annee: 2019, evenement: "Loi n° 1618 du 20 juin « sur les pâturages », qui abroge la loi de 2013 et définit la société d'usagers des pâturages comme association qui s'administre elle-même."}
+fiabilite:
+  verifie:
+    - "Définition de la société d'usagers des pâturages (article 1), enregistrement par les organes d'autonomie locale des bourgs et villages (article 11), location par contrat (articles 16 et 19), élection du responsable (article 19), composition et pouvoirs de la commission (article 20), loyer versé au budget local (article 24), abrogation de la loi n° 951 du 19 mars 2013 (article 31) : texte russe de la loi n° 1618 publié par CAWater-Info."
+    - "Article 13 de la Constitution : Constitute Project."
+    - "Huit unions créées, une seule dotée de droits sur des pâturages à la clôture en 2018 : rapport d'achèvement de la Banque mondiale."
+    - "Prévision de 70 plans de gestion des pâturages par les unions : cadre de réinstallation du projet RESILAND CA+ (2021)."
+  non_confirme:
+    - "Texte officiel publié au journal du Madjlisi Oli pour la loi n° 1618 : seule une copie russe hébergée par CAWater-Info a été lue."
+    - "Nombre de sociétés d'usagers des pâturages enregistrées, de contrats de location signés et surface louée : aucune source trouvée ; pas de liste officielle des sites."
+    - "Modifications de la loi n° 1618 après 2019 : non vérifiées."
+    - "Le rapport de 2018 emploie tantôt « unions », tantôt « groupes » d'usagers des pâturages pour la même forme juridique."
+sources:
+  - {titre: "Loi n° 1618 du 20 juin 2019 « sur les pâturages » (texte russe) — CAWater-Info", url: "https://www.cawater-info.net/library/rus/tj-1618-2019.pdf"}
+  - {titre: "Loi n° 951 du 19 mars 2013 « sur les pâturages » — Spinform", url: "https://base.spinform.ru/show_doc.fwx?rgn=59051"}
+  - {titre: "Constitution du Tadjikistan — Constitute Project", url: "https://www.constituteproject.org/constitution/Tajikistan_2016?lang=en"}
+  - {titre: "Banque mondiale — Rapport d'achèvement du projet de gestion environnementale des terres et des moyens de subsistance ruraux (2018)", url: "https://documents.worldbank.org/curated/en/183461545337753103/pdf/icr00004451-12172018-636808536685094337.pdf"}
+  - {titre: "Banque mondiale — Cadre de réinstallation du projet de restauration des paysages RESILAND CA+ Tadjikistan (2021)", url: "https://documents.worldbank.org/curated/en/592971637347648229/pdf/Resettlement-Framework-RESILAND-CA-Tajikistan-Resilient-Landscape-Restoration-Project-P171524.pdf"}

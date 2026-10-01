@@ -1,0 +1,57 @@
+uid: "minorites-nationales-armenie"
+nom: "Minorités nationales d'Arménie (Yézidis, Russes, Assyriens, Kurdes)"
+endonyme: ""
+territoire: "Arménie (ensemble du territoire)"
+etats: ["Arménie"]
+region: "asie"
+coord: [40.1, 44.6]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 49573, annee: 2022, perimetre: "somme des personnes déclarées yézidies (31 079), russes (14 076), assyriennes (2 755) et kurdes (1 663) au recensement de 2022", source: "https://minorityrights.org/country/armenia/"}
+lieux: {valeur: 4, unite: "sièges réservés à l'Assemblée nationale (un par minorité)", annee: 2021, source: "https://odihr.osce.org/sites/default/files/f/documents/5/4/502386_0.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution arménienne révisée par référendum en 2015 prévoit des places à l'Assemblée nationale pour les représentants des minorités nationales (art. 89). Le Code électoral de 2016 (art. 95) réserve quatre sièges aux quatre minorités nationales les plus nombreuses selon le dernier recensement : Yézidis, Russes, Assyriens et Kurdes. Les candidats figurent dans une section distincte des listes de partis. Le dispositif s'applique depuis les élections législatives de 2017. Selon le Comité consultatif de la Convention-cadre, le projet de loi sur les minorités nationales élaboré en 2016 n'était pas adopté en 2022.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Convention-cadre pour la protection des minorités nationales ratifiée le 20 juillet 1998 ; cinquième avis du Comité consultatif adopté le 5 octobre 2022 : il fait état de critiques sur l'élection des quatre députés des minorités et demande la révision du projet de loi sur les minorités nationales élaboré en 2016 et non adopté.", annee: 2022, source: "https://rm.coe.int/5th-op-armenia-en/1680aa2a81"}
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale (CERD/C/ARM/CO/7-11), § 3 b et § 21-22 : le Comité salue l'article 89 de la Constitution et l'article 95 du Code électoral, et regrette que le seuil exclue de nombreux groupes minoritaires des quotas.", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=CERD/C/ARM/CO/7-11&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République d'Arménie (révision de 2015), art. 56 et 89", nature: "constitution", annee: 2015, source: "https://www.constituteproject.org/constitution/Armenia_2015"}
+  - {instrument: "Code électoral constitutionnel de la République d'Arménie (2016), art. 95", nature: "loi_organique", annee: 2016, source: "https://documents.un.org/api/symbol/access?s=CERD/C/ARM/CO/7-11&l=en&t=pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Constitution, art. 89 : des places sont attribuées à l'Assemblée nationale aux représentants des minorités nationales selon le Code électoral ; Code électoral de 2016, art. 95 : jusqu'à quatre sièges réservés, un pour chacune des quatre minorités les plus nombreuses (Yézidis, Russes, Assyriens, Kurdes), pourvus depuis une section distincte des listes de partis, avec jusqu'à quatre candidats par minorité et par liste.", source: "https://odihr.osce.org/sites/default/files/f/documents/5/4/502386_0.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les quatre sièges sont pourvus depuis 2017. Selon l'OSCE/BIDDH, l'alliance Mon pas détenait les quatre sièges dans la législature sortante ; aux élections de 2021, trois sièges reviennent au Contrat civil et un à l'alliance Arménie. Les candidats sont présentés par les partis, et l'OSCE/BIDDH et la Commission de Venise notent que ces sièges peuvent modifier l'équilibre entre partis. Le CERD relève que le seuil exclut les minorités moins nombreuses et que les quotas se limitent à l'Assemblée nationale.", source: "https://odihr.osce.org/sites/default/files/f/documents/5/4/502386_0.pdf"}
+chronologie:
+  - {annee: 1998, evenement: "L'Arménie ratifie la Convention-cadre pour la protection des minorités nationales (entrée en vigueur le 1er novembre 1998)."}
+  - {annee: 2015, evenement: "Révision constitutionnelle par référendum : l'article 89 prévoit des places pour les minorités nationales à l'Assemblée nationale."}
+  - {annee: 2016, evenement: "Adoption du Code électoral ; l'article 95 organise quatre sièges réservés."}
+  - {annee: 2017, evenement: "Premières élections législatives avec sièges réservés aux minorités nationales."}
+  - {annee: 2019, evenement: "Création du Conseil des minorités nationales, organe consultatif qui remplace l'ancien Conseil de coordination."}
+  - {annee: 2021, evenement: "Élections législatives anticipées : 13 candidats enregistrés pour les quatre sièges réservés ; trois sièges au Contrat civil, un à l'alliance Arménie."}
+  - {annee: 2022, evenement: "Recensement : 31 079 Yézidis, 14 076 Russes, 2 755 Assyriens, 1 663 Kurdes."}
+fiabilite:
+  verifie: ["Constitution, art. 56 et 89 (Constitute Project).", "CERD/C/ARM/CO/7-11 (31 mai 2017), § 3 b, 21 et 22 : renvoi à l'article 95 du Code électoral.", "Rapport final de l'OSCE/BIDDH sur les élections du 20 juin 2021 : quatre sièges réservés, un par minorité, jusqu'à quatre candidats par minorité et par liste.", "Ratification de la Convention-cadre le 20 juillet 1998, entrée en vigueur le 1er novembre 1998 (Conseil de l'Europe).", "Avis conjoint de la Commission de Venise et de l'OSCE/BIDDH du 13 juin 2016 (CDL-AD(2016)019), § 40-43 : articles 83.5 et 95.9 du projet de Code électoral, seconde partie de liste réservée aux quatre minorités, méthode d'Hondt.", "Cinquième avis du Comité consultatif (5 octobre 2022) : critiques sur le système des quatre députés, Conseil des minorités nationales créé par le décret n° 486-L du 3 mai 2019, projet de loi de 2016 non adopté."]
+  non_confirme: ["Texte de l'article 95 du Code électoral non consulté directement ; son contenu est tiré du CERD, de l'OSCE/BIDDH et de la Commission de Venise.", "Chiffres du recensement de 2022 tirés de Minority Rights Group et repris par Syriac Press (2026), non vérifiés sur la publication du Comité statistique d'Arménie.", "Sort du projet de loi sur les minorités nationales après 2022 non vérifié.", "Mode d'attribution des sièges dans le Code adopté non vérifié sur le texte : la méthode d'Hondt est décrite par la Commission de Venise pour le projet de 2016.", "Contenu détaillé des critiques du Comité consultatif sur les sièges réservés non consulté (texte intégral de l'avis inaccessible).", "Résultats des élections législatives de 2026 pour les sièges réservés non vérifiés."]
+sources:
+  - {titre: "Constitution de l'Arménie (2015) — Constitute Project", url: "https://www.constituteproject.org/constitution/Armenia_2015"}
+  - {titre: "CERD/C/ARM/CO/7-11 (2017) — Nations unies", url: "https://documents.un.org/api/symbol/access?s=CERD/C/ARM/CO/7-11&l=en&t=pdf"}
+  - {titre: "Armenia, Early Parliamentary Elections, 20 June 2021 : Final Report — OSCE/BIDDH", url: "https://odihr.osce.org/sites/default/files/f/documents/5/4/502386_0.pdf"}
+  - {titre: "Joint Opinion on the Draft Electoral Code of Armenia, CDL-AD(2016)019 — Commission de Venise et OSCE/BIDDH", url: "https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-AD(2016)019-e"}
+  - {titre: "Cinquième avis sur l'Arménie — Comité consultatif de la Convention-cadre (2022)", url: "https://rm.coe.int/5th-op-armenia-en/1680aa2a81"}
+  - {titre: "Armenia — Conseil de l'Europe, minorités nationales", url: "https://www.coe.int/en/web/minorities/armenia"}
+  - {titre: "Armenia — Minority Rights Group", url: "https://minorityrights.org/country/armenia/"}
+  - {titre: "Armenia issues decision guaranteeing parliamentary representation for Assyrian community — Syriac Press (2026)", url: "https://syriacpress.com/blog/2026/02/20/armenia-issues-decision-guaranteeing-parliamentary-representation-for-assyrian-community/"}

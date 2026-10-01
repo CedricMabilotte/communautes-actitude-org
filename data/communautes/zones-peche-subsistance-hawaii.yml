@@ -1,0 +1,62 @@
+uid: "zones-peche-subsistance-hawaii"
+nom: "Zones de pêche de subsistance d'Hawaï"
+endonyme: ""
+territoire: "Eaux côtières de Hā'ena (Kaua'i), de Miloli'i (île d'Hawaï) et de Kīpahulu (Maui) désignées zones de pêche de subsistance"
+etats: ["États-Unis"]
+region: "ameriques"
+coord: [20.5, -157.6]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: ["peuple_autochtone"]
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 3, unite: "zones de pêche de subsistance gérées par la communauté dotées de règles (Hā'ena, Miloli'i, Kīpahulu)", annee: 2026, source: "https://dlnr.hawaii.gov/dar/regulated-areas/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les zones de pêche de subsistance gérées par la communauté (Community-Based Subsistence Fishing Areas, CBSFA) de l'État d'Hawaï. Une loi de 1994 (Hawaii Revised Statutes, § 188-22.6) permet au département des Terres et Ressources naturelles de désigner de telles zones par règlement « pour réaffirmer et protéger les pratiques de pêche exercées de manière coutumière et traditionnelle à des fins de subsistance, de culture et de religion hawaïennes » ; un groupe communautaire peut lui soumettre une proposition accompagnée d'un plan de gestion. Le législateur a désigné lui-même Miloli'i (2005) et Hā'ena (2006) ; les règles de Hā'ena sont en vigueur depuis 2015, celles de Miloli'i depuis 2022 et celles de Kīpahulu, proposées par l'association Kīpahulu 'Ohana, depuis 2024. Les règles restent adoptées par l'État ; la communauté propose, est consultée et participe au suivi.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Hawaii Revised Statutes (code des lois de l'État d'Hawaï), § 188-22.6, désignation des zones de pêche de subsistance gérées par la communauté (lois de 1994, c. 271, § 1)", nature: "loi", annee: 1994, source: "https://data.capitol.hawaii.gov/sessions/session2017/HRS-Chapter-PDF's/HRS_0188.pdf"}
+  - {instrument: "Hawaii Revised Statutes, § 188-22.7, zone de gestion des pêches de Miloli'i désignée zone de pêche de subsistance (lois de 2005, c. 232, § 2)", nature: "loi", annee: 2005, source: "https://data.capitol.hawaii.gov/sessions/session2017/HRS-Chapter-PDF's/HRS_0188.pdf"}
+  - {instrument: "Hawaii Revised Statutes, § 188-22.9, zone de pêche de subsistance de Hā'ena (lois de 2006, c. 241, § 3)", nature: "loi", annee: 2006, source: "https://data.capitol.hawaii.gov/sessions/session2017/HRS-Chapter-PDF's/HRS_0188.pdf"}
+  - {instrument: "Hawaii Administrative Rules (règlements administratifs), chapitre 13-60.8, zone de pêche de subsistance de Hā'ena, Kaua'i, en vigueur le 14 août 2015", nature: "loi", annee: 2015, source: "https://dlnr.hawaii.gov/dar/files/2015/08/ch60.8.pdf"}
+  - {instrument: "Hawaii Administrative Rules, chapitre 13-60.10, zone de pêche de subsistance de Miloli'i, île d'Hawaï, en vigueur le 13 août 2022", nature: "loi", annee: 2022, source: "https://dlnr.hawaii.gov/dar/files/2022/08/ch60.10.pdf"}
+  - {instrument: "Hawaii Administrative Rules, chapitre 13-60.11, zone de pêche de subsistance de Kīpahulu, Maui, en vigueur le 25 mars 2024", nature: "loi", annee: 2024, source: "https://dlnr.hawaii.gov/dar/files/2024/04/ch60.11.pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Le § 188-22.6 (1994) permet à un groupe communautaire de proposer la désignation d'une zone, avec un plan de gestion (activités, suivi, financement, contrôle) ; dans les zones désignées, les règles limitent les prises et ferment des sous-zones, interdisent la vente des produits de la pêche à Hā'ena (HAR 13-60.8, 2015) et la pêche pour aquarium à Miloli'i (HAR 13-60.10, 2022). Les règles restent adoptées par le département des Terres et Ressources naturelles selon la procédure du chapitre 91 (loi sur la procédure administrative) ; la communauté n'a pas de pouvoir réglementaire propre.", source: "https://data.capitol.hawaii.gov/sessions/session2017/HRS-Chapter-PDF's/HRS_0188.pdf"}
+  consentement: {valeur: "partiel", note: "Le § 188-22.9 (2006) oblige le département à consulter « un groupe aussi large que possible » des habitants de l'ahupua'a (division territoriale traditionnelle, de la montagne à la mer) de Hā'ena pour fixer les règles de la zone ; le chapitre 13-60.8 (2015) impose au département de tenir une réunion annoncée publiquement dans l'ahupua'a cinq, dix et vingt ans après son entrée en vigueur pour évaluer la zone et réviser le plan de gestion. Il s'agit d'une consultation, pas d'un consentement.", source: "https://dlnr.hawaii.gov/dar/files/2015/08/ch60.8.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune évaluation publique de l'application des règles n'a été trouvée. Pour Kīpahulu, le dossier soumis au conseil des Terres et Ressources naturelles en janvier 2024 fait état de dix ans de concertation menée par Kīpahulu 'Ohana et de 88 témoignages recueillis lors de l'enquête publique de 2023.", source: "https://dlnr.hawaii.gov/wp-content/uploads/2024/01/F-2.pdf"}
+chronologie:
+  - {annee: 1994, evenement: "Loi créant la procédure de désignation des zones de pêche de subsistance gérées par la communauté (HRS § 188-22.6)."}
+  - {annee: 1995, evenement: "Création de l'association Kīpahulu 'Ohana, Maui."}
+  - {annee: 2005, evenement: "La loi désigne la zone de gestion des pêches de Miloli'i comme zone de pêche de subsistance (HRS § 188-22.7)."}
+  - {annee: 2006, evenement: "La loi désigne la zone de pêche de subsistance de Hā'ena, Kaua'i, et prescrit la consultation des habitants de l'ahupua'a (HRS § 188-22.9)."}
+  - {annee: 2015, evenement: "Entrée en vigueur des règles de Hā'ena (HAR 13-60.8), le 14 août."}
+  - {annee: 2022, evenement: "Entrée en vigueur des règles de Miloli'i (HAR 13-60.10), le 13 août."}
+  - {annee: 2024, evenement: "Entrée en vigueur des règles de Kīpahulu (HAR 13-60.11), le 25 mars."}
+fiabilite:
+  verifie: ["Texte des § 188-22.6, 188-22.7 et 188-22.9 et références des lois de 1994 (c. 271), 2005 (c. 232) et 2006 (c. 241) : chapitre 188 des Hawaii Revised Statutes publié par la législature (édition 2017).", "Dates d'entrée en vigueur des chapitres 13-60.8 (14 août 2015) et 13-60.10 (13 août 2022) : textes des règles publiés par la division des ressources aquatiques.", "Entrée en vigueur du chapitre 13-60.11 le 25 mars 2024 : texte de la règle publié par la division des ressources aquatiques ; déroulé de la procédure : page des procédures réglementaires passées.", "Liste des trois zones dotées de règles (Hā'ena, Miloli'i, Kīpahulu) : page des zones réglementées de la division des ressources aquatiques.", "Rôle de Kīpahulu 'Ohana (création en 1995, plan de gestion remis en janvier 2023) et déroulé de la procédure 2022-2024 : dossier F-2 du conseil des Terres et Ressources naturelles, 12 janvier 2024."]
+  non_confirme: ["Surface des zones : aucune donnée officielle trouvée ; une lettre jointe au dossier de Kīpahulu avance 5,7 milles de côte et 1 650 acres de fonds marins, chiffre non repris ici.", "Population concernée : seule une note d'information de 2023 indique environ 150 habitants à Kīpahulu ; aucun chiffre pour Hā'ena ni Miloli'i.", "Autres propositions en cours (Mo'omomi, Moloka'i, citée par la note d'information de 2023) : statut non vérifié.", "Aucun document de la Convention sur la diversité biologique ni du registre des aires gouvernées par la communauté visant ces zones n'a été trouvé."]
+sources:
+  - {titre: "Hawaii Revised Statutes, chapitre 188 (édition 2017) — législature de l'État d'Hawaï", url: "https://data.capitol.hawaii.gov/sessions/session2017/HRS-Chapter-PDF's/HRS_0188.pdf"}
+  - {titre: "Zones réglementées — division des ressources aquatiques, département des Terres et Ressources naturelles d'Hawaï", url: "https://dlnr.hawaii.gov/dar/regulated-areas/"}
+  - {titre: "Zone de pêche de subsistance de Hā'ena — division des ressources aquatiques", url: "https://dlnr.hawaii.gov/dar/regulated-areas/haena-community-based-subsistence-fishing-area/"}
+  - {titre: "Zone de pêche de subsistance de Miloli'i — division des ressources aquatiques", url: "https://dlnr.hawaii.gov/dar/regulated-areas/milolii-community-based-subsistence-fishing-area/"}
+  - {titre: "Hawaii Administrative Rules, chapitre 13-60.8 (Hā'ena, 2015)", url: "https://dlnr.hawaii.gov/dar/files/2015/08/ch60.8.pdf"}
+  - {titre: "Hawaii Administrative Rules, chapitre 13-60.10 (Miloli'i, 2022)", url: "https://dlnr.hawaii.gov/dar/files/2022/08/ch60.10.pdf"}
+  - {titre: "Hawaii Administrative Rules, chapitre 13-60.11 (Kīpahulu, 2024)", url: "https://dlnr.hawaii.gov/dar/files/2024/04/ch60.11.pdf"}
+  - {titre: "Procédures réglementaires passées (chapitre 13-60.11, Kīpahulu) — division des ressources aquatiques", url: "https://dlnr.hawaii.gov/dar/past-rulemaking/"}
+  - {titre: "Dossier F-2 du conseil des Terres et Ressources naturelles, approbation finale des règles de Kīpahulu, 12 janvier 2024", url: "https://dlnr.hawaii.gov/wp-content/uploads/2024/01/F-2.pdf"}
+  - {titre: "Note d'information F-3 sur la zone de Kīpahulu, 26 mai 2023", url: "https://dlnr.hawaii.gov/wp-content/uploads/2023/05/F-3-1.pdf"}
+  - {titre: "Kua'āina Ulu 'Auamo — réseau des communautés de gestion des ressources d'Hawaï", url: "https://kuahawaii.org/"}

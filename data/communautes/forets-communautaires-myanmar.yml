@@ -1,0 +1,62 @@
+uid: "forets-communautaires-myanmar"
+nom: "Forêts communautaires du Myanmar"
+endonyme: ""
+territoire: "Forêts communautaires certifiées dans les forêts classées, les forêts publiques protégées, les zones tampons des aires protégées, les terres à la disposition de l'État et les forêts et mangroves conservées selon la tradition"
+etats: ["Myanmar"]
+region: "asie"
+coord: [21.0, 96.0]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 178462, annee: 2021, perimetre: "membres des groupes d'usagers de forêt communautaire, chiffre du Département des forêts à novembre 2021", source: "https://data.opendevelopmentmyanmar.net/en/dataset/b389b601-85f9-499e-8e0a-4c5494cbcc97/resource/79d5e493-a16f-48bb-b187-8cdd818ccf8b/download/6.9.22-report_cf-assessment_recoftc.pdf"}
+lieux: {valeur: 7010, unite: "groupes d'usagers de forêt communautaire", annee: 2021, source: "https://data.opendevelopmentmyanmar.net/en/dataset/b389b601-85f9-499e-8e0a-4c5494cbcc97/resource/79d5e493-a16f-48bb-b187-8cdd818ccf8b/download/6.9.22-report_cf-assessment_recoftc.pdf"}
+surface_km2: {valeur: 3907.61, annee: 2021, perimetre: "surface confiée aux groupes d'usagers (390 761 ha), chiffre du Département des forêts à novembre 2021", source: "https://data.opendevelopmentmyanmar.net/en/dataset/b389b601-85f9-499e-8e0a-4c5494cbcc97/resource/79d5e493-a16f-48bb-b187-8cdd818ccf8b/download/6.9.22-report_cf-assessment_recoftc.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les groupes d'usagers de forêt communautaire (Community Forest User Groups), formés de ménages qui vivent depuis cinq ans dans la forêt ou à moins de cinq miles de sa lisière. Le régime vient des Instructions sur la foresterie communautaire de 1995, révisées en 2016 puis en 2019 (notification n° 69/2019) au titre de la loi forestière de 2018. Le responsable forestier de district délivre au groupe un certificat de forêt communautaire, bail foncier de trente ans renouvelable par périodes de trente ans, après approbation de son plan de gestion ; le groupe récolte et vend les produits selon ce plan mais ne peut ni vendre ni hypothéquer la forêt. Le Département des forêts comptait 5 426 groupes et 714 534 acres en décembre 2019, puis 7 010 groupes, 178 462 membres et 390 761 ha en novembre 2021.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Sixième rapport national du Myanmar à la Convention sur la diversité biologique (soumis le 27 décembre 2018) : objectif national 15.1 de placer plus de 130 000 ha de forêt sous foresterie communautaire d'ici 2020, présentation des Instructions de 1995 et de la loi forestière de 2018, et chiffres du Département des forêts pour 2018 (211 397 ha, 3 884 groupes d'usagers, 103 907 membres).", annee: 2018, source: "https://www.cbd.int/doc/world/mm/mm-nr-06-en.pdf"}
+base_nationale:
+  - {instrument: "Loi forestière de 2018 (Forest Law, 1380 M.E.), section 7 (d) (forêts conservées par les communautés locales selon la tradition), section 12 (d) (permission de foresterie communautaire) et section 57 (b) (pouvoir réglementaire), citées par les Instructions de 2019", nature: "loi", annee: 2018, source: "https://data.opendevelopmentmyanmar.net/laws_record/mylaff-4462-1"}
+  - {instrument: "Instructions sur la foresterie communautaire (Community Forestry Instructions), notification n° 69/2019 du ministère des Ressources naturelles et de la Conservation de l'environnement, 8 mai 2019", nature: "loi", annee: 2019, source: "https://data.opendevelopmentmyanmar.net/my/dataset/910fc697-d1f5-4075-9bd7-9161e5eb8157/resource/cc379796-fad3-4d35-b16e-f002f0367bd7/download/cfi-2019-mm-eng.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque groupe d'usagers élit à l'unanimité parmi ses membres un comité de gestion (président, secrétaire, trésorier et deux membres) et peut changer ce comité à la majorité (Instructions de 2019, para. 7 (a) et 23 (c)) ; le responsable forestier de district peut retirer le certificat avec l'accord du responsable forestier de l'État ou de la région, avec appel au directeur général dont la décision est définitive (para. 18 et 19) ; les responsables forestiers du township et du district inspectent la forêt et ses registres tous les trois mois (para. 45).", source: "https://data.opendevelopmentmyanmar.net/my/dataset/910fc697-d1f5-4075-9bd7-9161e5eb8157/resource/cc379796-fad3-4d35-b16e-f002f0367bd7/download/cfi-2019-mm-eng.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le groupe formule ses règles internes « sur la base des instructions du Département des forêts » et prépare le plan de gestion, que le responsable forestier de district confirme (Instructions de 2019, para. 15, 16 et 22 (h)).", source: "https://data.opendevelopmentmyanmar.net/my/dataset/910fc697-d1f5-4075-9bd7-9161e5eb8157/resource/cc379796-fad3-4d35-b16e-f002f0367bd7/download/cfi-2019-mm-eng.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Bail foncier (land lease, droit d'usage du sol) de trente ans, que le responsable forestier de district peut prolonger par périodes de trente ans, autant de fois qu'il le juge approprié, selon les résultats et le souhait du groupe (Instructions de 2019, para. 13 et 14) ; les membres transmettent à leurs héritiers légitimes leurs biens liés à la forêt communautaire et le groupe est exempté de redevance de bail pour les forêts établies sur des terres forestières (para. 23 (a) et (d)) ; la forêt ne peut être ni vendue, ni louée, ni hypothéquée, ni donnée (para. 39 (b)) et, en cas d'annulation, la terre retrouve son statut d'origine ou passe sous gestion du Département (para. 42 et 43).", source: "https://data.opendevelopmentmyanmar.net/my/dataset/910fc697-d1f5-4075-9bd7-9161e5eb8157/resource/cc379796-fad3-4d35-b16e-f002f0367bd7/download/cfi-2019-mm-eng.pdf"}
+  ressources: {valeur: "partiel", note: "Le groupe récolte le bois et les autres produits selon le plan de gestion, sans permission pour l'usage personnel, agricole ou de pêche, avec permission préalable du Département pour la récolte commerciale (Instructions de 2019, para. 23 (g), 24 et 25) ; il vend librement aux prix du marché et peut transporter et vendre sur les marchés locaux et internationaux (para. 29 et 32) ; l'extraction de métaux, de pierres, de sable et de graviers est interdite (para. 39 (c)).", source: "https://data.opendevelopmentmyanmar.net/my/dataset/910fc697-d1f5-4075-9bd7-9161e5eb8157/resource/cc379796-fad3-4d35-b16e-f002f0367bd7/download/cfi-2019-mm-eng.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les produits récoltés pour l'usage personnel et les ventes dans le village sont exemptés de taxe, les ventes hors du village sont taxées (Instructions de 2019, para. 26 à 28) ; le groupe tient un fonds sur un compte bancaire et décide par consensus de sa répartition entre revenus des membres, développement communautaire, fonds renouvelable et réinvestissement (para. 31) ; il n'a pas de pouvoir fiscal.", source: "https://data.opendevelopmentmyanmar.net/my/dataset/910fc697-d1f5-4075-9bd7-9161e5eb8157/resource/cc379796-fad3-4d35-b16e-f002f0367bd7/download/cfi-2019-mm-eng.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Selon une évaluation de RECOFTC et de l'Université nationale de Singapour (2022), plus de 7 000 forêts communautaires ont reçu un certificat depuis 1995, mais peu d'études disent combien fonctionnent ; dans quatre townships du delta de l'Ayeyarwady et de Yangon, environ 19 % des 73 forêts de mangrove certifiées étudiées sont inactives (groupes dissous, certificats retirés après le cyclone Nargis, conversion en terres agricoles). Aucune source consultée ne décrit l'application du régime depuis le coup d'État de février 2021.", source: "https://data.opendevelopmentmyanmar.net/en/dataset/b389b601-85f9-499e-8e0a-4c5494cbcc97/resource/79d5e493-a16f-48bb-b187-8cdd818ccf8b/download/6.9.22-report_cf-assessment_recoftc.pdf"}
+chronologie:
+  - {annee: 1995, evenement: "Premières Instructions sur la foresterie communautaire ; premières forêts communautaires dans le delta de l'Ayeyarwady."}
+  - {annee: 2016, evenement: "Révision des Instructions en août : droits commerciaux sur le bois et les produits forestiers non ligneux."}
+  - {annee: 2018, evenement: "Nouvelle loi forestière, qui abroge celle de 1992."}
+  - {annee: 2019, evenement: "Instructions de 2019 (notification n° 69/2019, 8 mai) ; 5 426 groupes et 714 534 acres en décembre."}
+  - {annee: 2021, evenement: "Coup d'État militaire du 1er février ; 7 010 groupes, 178 462 membres et 390 761 ha en novembre selon le Département des forêts."}
+fiabilite:
+  verifie:
+    - "Paragraphes 2, 3, 7, 13 à 19, 22 à 33, 39, 42 à 45 et 48 des Instructions de 2019 (texte anglais publié avec le texte birman, préparé avec l'appui technique de la FAO)."
+    - "Chiffres de décembre 2019 (5 426 groupes, 714 534 acres, 138 179 membres) et description du régime (usage du sol pendant trente ans, propriété et disposition des produits) dans Forestry in Myanmar 2019-2020 du Département des forêts."
+    - "Objectif 15.1, date d'adoption de la loi de 2018 et chiffres de 2018 dans le sixième rapport national à la Convention sur la diversité biologique."
+    - "Chiffres de novembre 2021 et état des forêts de mangrove certifiées dans l'évaluation RECOFTC-NUS de 2022."
+  non_confirme:
+    - "Le numéro de la notification de 2016 n'a pas été trouvé dans les sources ouvertes ; le Département des forêts date cette révision d'août 2016, RECOFTC indique qu'elle n'a été publiée officiellement qu'en 2019, après la loi de 2018."
+    - "Le texte de la loi forestière de 2018 n'a pas été ouvert (dépôt MyLAFF accessible après connexion) ; les sections 7 (d), 12 (d) et 57 (b) sont citées d'après les Instructions de 2019."
+    - "Les chiffres de 2021 viennent du Département des forêts, cités par RECOFTC ; la statistique officielle n'a pas été consultée directement. L'écart entre 714 534 acres (environ 289 000 ha) en 2019 et 390 761 ha en 2021 n'est pas expliqué."
+    - "On ne sait pas si les « membres » comptés sont des personnes ou des ménages."
+    - "Aucune liste officielle des forêts communautaires par site n'a été trouvée ; pas de tableau par site."
+    - "Application du régime et délivrance de certificats depuis février 2021 : non établies."
+sources:
+  - {titre: "Community Forestry Instructions 2019, notification n° 69/2019 — Open Development Myanmar", url: "https://data.opendevelopmentmyanmar.net/my/dataset/910fc697-d1f5-4075-9bd7-9161e5eb8157/resource/cc379796-fad3-4d35-b16e-f002f0367bd7/download/cfi-2019-mm-eng.pdf"}
+  - {titre: "Fiche de la loi forestière de 2018 — Open Development Myanmar", url: "https://data.opendevelopmentmyanmar.net/laws_record/mylaff-4462-1"}
+  - {titre: "Forestry in Myanmar 2019-2020 — Département des forêts", url: "https://forestdepartment.gov.mm/sites/default/files/Documents/Forestry_in_Myanmar_2020_0.pdf"}
+  - {titre: "Sixième rapport national du Myanmar — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/mm/mm-nr-06-en.pdf"}
+  - {titre: "RECOFTC et NUS, Myanmar community forest assessment report (2022)", url: "https://data.opendevelopmentmyanmar.net/en/dataset/b389b601-85f9-499e-8e0a-4c5494cbcc97/resource/79d5e493-a16f-48bb-b187-8cdd818ccf8b/download/6.9.22-report_cf-assessment_recoftc.pdf"}
+  - {titre: "Politique et administration forestières — Open Development Myanmar", url: "https://opendevelopmentmyanmar.net/topics/forest-policy-and-administration/"}

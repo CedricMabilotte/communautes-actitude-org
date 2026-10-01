@@ -1,0 +1,52 @@
+uid: "communautes-aborigenes-reglements-australie-occidentale"
+nom: "Communautés aborigènes à règlements propres (Australie-Occidentale)"
+endonyme: ""
+territoire: "Terres communautaires déclarées de communautés aborigènes d'Australie-Occidentale (notamment Kimberley, Pilbara, Goldfields et terres Ngaanyatjarra)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-21.0, 124.0]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 27, unite: "règlements communautaires (by-laws) en vigueur, un par communauté ou organisme déclaré", annee: 2026, source: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a2_subsidiary.html"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés aborigènes constituées en associations auxquelles s'applique l'Aboriginal Communities Act 1979, loi de l'État d'Australie-Occidentale entrée en vigueur le 15 février 1980. Le conseil d'une communauté déclarée par proclamation du gouverneur peut édicter des règlements (by-laws, règles locales obligatoires) sur l'accès aux terres communautaires, la circulation, l'alcool et les drogues, les armes, les dégâts aux plantations et le désordre ; ils s'appliquent à toute personne présente sur ces terres, membre ou non. Les règlements sont approuvés par le gouverneur, sanctionnés par une amende d'au plus 5 000 dollars versée au conseil, et ne dérogent pas au droit de l'État. Le registre officiel de la législation compte 27 règlements en vigueur, adoptés entre 1980 et 2006.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Aboriginal Communities Act 1979 (Australie-Occidentale), loi no 8 de 1979, version consolidée du 14 septembre 2012", nature: "loi", annee: 1979, source: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a2.html"}
+  - {instrument: "Règlements communautaires pris en application de la loi (27 en vigueur, 1980-2006), dont les Bidyadanga Community By-laws 2004", nature: "loi", annee: 1980, source: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a2_subsidiary.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le conseil de gestion de la communauté constituée en association exerce les pouvoirs de la loi après déclaration par le gouverneur, sur avis du ministre (Bidyadanga et l'association Bardi sont désignées par la loi elle-même), à condition que les statuts obligent le conseil à consulter les membres (s. 3 et 4) ; le gouverneur peut retirer cette déclaration, ce qui révoque les règlements (s. 5).", source: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/RedirectURL?OpenAgent&query=mrdoc_24182.htm"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil adopte à la majorité absolue des règlements sur les matières énumérées (accès, circulation, alcool et substances nocives, armes, désordre, déchets), approuvés par le gouverneur et publiés au Journal officiel (s. 7 et 8) ; ils ne restreignent aucune responsabilité prévue par une autre loi ni par la common law, droit issu de la jurisprudence (s. 13).", source: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/RedirectURL?OpenAgent&query=mrdoc_24182.htm"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La loi ne confère pas de titre de propriété ; le gouverneur délimite par proclamation les terres communautaires (s. 6), dont le conseil peut interdire ou réglementer l'accès (s. 7(1)(a)) ; à Bidyadanga, une personne non membre ne peut s'y trouver qu'avec la permission du conseil (règlement de 2004, art. 4).", source: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/RedirectURL?OpenAgent&query=mrdoc_49312.htm"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "La Commission australienne de réforme du droit (rapport 31, 1986, § 755-757) rapporte des avis divergents : le gouvernement précédent de l'État jugeait le dispositif très réussi, le ministre en fonction disait son effet variable selon les communautés, et une étude d'A. Hoddinott (1985) lui reprochait de ne pas intégrer le droit coutumier ; les infractions aux règlements relèvent des juridictions ordinaires (§ 750). Aucune évaluation récente de l'application des 27 règlements n'a été consultée.", source: "https://www.alrc.gov.au/publication/recognition-of-aboriginal-customary-laws-alrc-report-31/29-special-aboriginal-courts-and-justice-schemes/aboriginal-courts-in-western-australia/"}
+chronologie:
+  - {annee: 1979, evenement: "Sanction de l'Aboriginal Communities Act le 17 mai ; la loi vise d'emblée Bidyadanga (La Grange) et l'association Bardi (One Arm Point)."}
+  - {annee: 1980, evenement: "Entrée en vigueur de la loi le 15 février ; publication des règlements de l'association Bardi le 7 novembre."}
+  - {annee: 1982, evenement: "Règlements de Lombadina, Beagle Bay et Balgo Hills."}
+  - {annee: 1989, evenement: "Règlements du Ngaanyatjarra Council."}
+  - {annee: 1991, evenement: "Onze règlements publiés, dont dix toujours en vigueur (parmi eux Jigalong, Kalumburu, Looma, Oombulgurri et Mt Margaret)."}
+  - {annee: 2004, evenement: "Nouveaux règlements de Bidyadanga, qui remplacent ceux de 1980 ; deux lois de 2004, en vigueur en mai 2005, fixent un délai de prescription de six mois (s. 10) et abrogent la section 11."}
+  - {annee: 2006, evenement: "Derniers règlements publiés : Bayulu, Warmun et Parnpajinya."}
+fiabilite:
+  verifie: ["Sections 3 à 13 de la loi, version consolidée du 14 septembre 2012 (legislation.wa.gov.au).", "Liste des 27 règlements en vigueur et date de publication de chacun (registre de la législation de l'Australie-Occidentale, relevé le 1er octobre 2026).", "Contenu des Bidyadanga Community By-laws 2004 (version du 24 avril 2026).", "Les amendes reviennent au conseil pour l'usage de la communauté (s. 12)."]
+  non_confirme: ["Application actuelle des règlements de communautés fermées ou dépeuplées (Oombulgurri).", "Population et surface des terres communautaires déclarées.", "Nombre de communautés couvertes par les règlements du Ngaanyatjarra Council.", "Existence d'un document onusien visant ce régime."]
+sources:
+  - {titre: "Aboriginal Communities Act 1979 — Western Australian Legislation", url: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a2.html"}
+  - {titre: "Aboriginal Communities Act 1979, version consolidée de 2012 (HTML)", url: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/RedirectURL?OpenAgent&query=mrdoc_24182.htm"}
+  - {titre: "Règlements en vigueur pris en application de la loi — Western Australian Legislation", url: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a2_subsidiary.html"}
+  - {titre: "Bidyadanga Community By-laws 2004 — Western Australian Legislation", url: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_s34334.html"}
+  - {titre: "ALRC, Recognition of Aboriginal Customary Laws (rapport 31, 1986), Aboriginal Courts in Western Australia", url: "https://www.alrc.gov.au/publication/recognition-of-aboriginal-customary-laws-alrc-report-31/29-special-aboriginal-courts-and-justice-schemes/aboriginal-courts-in-western-australia/"}

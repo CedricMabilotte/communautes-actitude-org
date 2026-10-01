@@ -5,9 +5,9 @@ territoire: "Réserves communautaires de neuf États, dont 297 au Nagaland, au M
 etats: ["Inde"]
 region: "asie"
 coord: [26.1, 94.5]
-type: "peuple_tribal"
+type: "communaute_locale"
 base: "territoriale"
-types_secondaires: []
+types_secondaires: ["peuple_tribal"]
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 309, unite: "réserves communautaires notifiées", annee: 2025, source: "https://web.archive.org/web/20250908141706/https://wiienvis.nic.in/Database/cri_8228.aspx"}
 surface_km2: {valeur: 1455.15, annee: 2023, perimetre: "220 réserves, liste du Wildlife Institute of India de juillet 2023 ; le total de février 2025 (8 464,13 km²) n'est pas repris, car les surfaces du Meghalaya y sont 100 fois plus grandes que dans la liste de 2023", source: "https://web.archive.org/web/20240919033321/https://wiienvis.nic.in/Database/cri_8228.aspx"}

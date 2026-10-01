@@ -1,0 +1,57 @@
+uid: "terres-aborigenes-tasmanie"
+nom: "Aborigènes de Tasmanie (Conseil foncier aborigène de Tasmanie)"
+endonyme: "Palawa"
+territoire: "Tasmanie (terres de l'annexe 3 de l'Aboriginal Lands Act 1995)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-41.9, 146.8]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "mixte"
+population: {valeur: 30186, annee: 2021, perimetre: "personnes aborigènes ou insulaires du détroit de Torres recensées en Tasmanie (5,4 % de la population de l'État), et non les seuls inscrits sur la liste électorale du conseil", source: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/6"}
+lieux: {valeur: 15, unite: "terres dévolues au conseil (annexe 3 de la loi, version consolidée)", annee: 2005, source: "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1995-098"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'Aboriginal Lands Act 1995, loi de l'État de Tasmanie sanctionnée le 14 novembre 1995, crée l'Aboriginal Land Council of Tasmania (Conseil foncier aborigène de Tasmanie), composé de huit Aborigènes élus par les seuls électeurs aborigènes de cinq circonscriptions. La loi n'ouvre pas de procédure de revendication : elle dévolue au conseil une liste fermée de terres, « en fiducie pour les Aborigènes à perpétuité » (en trust, c'est-à-dire détenues pour le compte des Aborigènes). Douze terres sont dévolues en 1995, Wybalenna en 1999, l'île du Cap Barren et l'île Clarke en 2005. Ces terres ne peuvent être ni hypothéquées ni expropriées.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le CERD recommande à l'Australie de protéger les droits fonciers des peuples autochtones et d'inscrire dans la loi le consentement préalable, libre et éclairé (CERD/C/AUS/CO/18-20) ; le document vise les peuples autochtones d'Australie sans nommer la Tasmanie (par. 21 et 22).", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Aboriginal Lands Act 1995 (Tasmanie), n° 98 de 1995, version consolidée", nature: "loi", annee: 1995, source: "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1995-098"}
+  - {instrument: "Aboriginal Lands Act 1995 (Tasmanie), texte d'origine", nature: "loi", annee: 1995, source: "https://www.foundingdocs.gov.au/resources/transcripts/tas7_doc_1995.pdf"}
+  - {instrument: "Land Acquisition Act 1993 (Tasmanie), s. 5A", nature: "loi", annee: 1995, source: "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1993-023"}
+  - {instrument: "Mineral Resources Development Act 1995 (Tasmanie), s. 179", nature: "loi", annee: 1995, source: "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1995-116"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Conseil de huit Aborigènes élus pour environ trois ans par les électeurs aborigènes inscrits sur une liste propre : deux pour chacune des régions sud, nord et nord-ouest, un pour le groupe de l'île Flinders, un pour le groupe de l'île du Cap Barren (loi de 1995, s. 6 à 13) ; compétence limitée à la gestion des terres.", source: "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1995-098"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Les terres de l'annexe 3 sont dévolues au conseil en fiducie pour les Aborigènes à perpétuité (s. 27), ne peuvent être hypothéquées (s. 30) et ne peuvent être expropriées (Land Acquisition Act 1993, s. 5A) ; le ministre déclare terre aborigène, à la demande du conseil, toute terre que celui-ci acquiert (s. 35A, 2005).", source: "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1995-098"}
+  ressources: {valeur: "partiel", note: "La dévolution comprend les minéraux jusqu'à 50 mètres de profondeur, hors pétrole, substances atomiques et géothermiques (s. 27(2)) ; le conseil gère les terres et leurs ressources naturelles et approuve les plans de gestion (s. 18 et 32) ; des droits d'accès du public et de la Couronne sont réservés sur plusieurs terres (s. 27(4) à (10)).", source: "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1995-098"}
+  consentement: {valeur: "reconnu", note: "Le ministre ne peut accorder de bail ou de licence minière sur une terre aborigène sans l'accord du conseil (Mineral Resources Development Act 1995, s. 179).", source: "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1995-116"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Fonds propre administré par le conseil, alimenté par les baux et licences sur les terres aborigènes et par des crédits du Commonwealth ou de l'État (s. 21 et 22) ; aucun pouvoir fiscal, aucun montant garanti par la loi.", source: "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1995-098"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon ABC News (novembre 2025), vingt ans après le retour de l'île du Cap Barren, la Cape Barren Aboriginal Association (association aborigène de l'île) est au centre de sa gestion et toute décision sur l'île passe par elle ; deux groupes de gardes aborigènes (rangers) gèrent les terres des îles Furneaux ; le gouvernement de Tasmanie n'a procédé à aucun autre transfert de terres d'ampleur à la communauté aborigène depuis 2005. Aucune source indépendante consultée ne décrit le fonctionnement du conseil lui-même.", source: "https://www.abc.net.au/news/2025-11-29/cape-barren-island-20-years-after-land-return/105916324"}
+chronologie:
+  - {annee: 1995, evenement: "Sanction de l'Aboriginal Lands Act (14 novembre), qui crée le conseil et lui dévolue douze terres ; la loi entre en vigueur à des dates fixées par proclamation (s. 2)."}
+  - {annee: 1999, evenement: "Aboriginal Lands Amendment (Wybalenna) Act : dévolution de Wybalenna et gestion du cimetière de Settlement Point."}
+  - {annee: 2005, evenement: "Entrée en vigueur (12 avril) de la loi modificative de 2004 : dévolution de l'île du Cap Barren et de l'île Clarke, qui cessent d'être des réserves."}
+  - {annee: 2005, evenement: "Loi modificative n° 2 (21 juillet) : définition de la personne aborigène (ascendance, auto-identification, reconnaissance par la communauté) et déclaration des terres acquises par le conseil."}
+  - {annee: 2008, evenement: "Loi modificative : protection des pièces confidentielles produites pour l'inscription sur la liste électorale."}
+fiabilite:
+  verifie: ["Sections 3, 3A, 6 à 13, 18, 21, 27, 30, 32 et 35A et annexe 3 de la version consolidée (legislation.tas.gov.au, consultée le 1er octobre 2026).", "Douze terres de l'annexe 3 et annexe 5 du texte d'origine de 1995 (foundingdocs.gov.au).", "Interdiction d'expropriation (Land Acquisition Act 1993, s. 5A) et accord du conseil pour les titres miniers (Mineral Resources Development Act 1995, s. 179), versions en vigueur.", "Population aborigène ou insulaire du détroit de Torres de Tasmanie au recensement de 2021 (ABS)."]
+  non_confirme: ["Surface totale des terres dévolues au conseil : aucune source ouverte ne la donne.", "Nombre de terres déclarées aborigènes au titre de la section 35A depuis 2005.", "Nombre d'inscrits sur la liste électorale du conseil et date de la dernière élection.", "Portée normative des plans de gestion approuvés par le conseil (s. 32)."]
+sources:
+  - {titre: "Aboriginal Lands Act 1995 (Tas), version consolidée — Tasmanian Legislation Online", url: "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1995-098"}
+  - {titre: "Aboriginal Lands Act 1995 (Tas), texte d'origine — Documenting a Democracy, Museum of Australian Democracy", url: "https://www.foundingdocs.gov.au/resources/transcripts/tas7_doc_1995.pdf"}
+  - {titre: "Land Acquisition Act 1993 (Tas) — Tasmanian Legislation Online", url: "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1993-023"}
+  - {titre: "Mineral Resources Development Act 1995 (Tas) — Tasmanian Legislation Online", url: "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/act-1995-116"}
+  - {titre: "Australian Law Reform Commission — Connection to Country, rapport 126 (2015), chapitre 3", url: "https://www.alrc.gov.au/publication/connection-to-country-review-of-the-native-title-act-1993-cth-alrc-report-126/3-context-for-reform/land-rights-and-native-title-in-the-states-and-territories/"}
+  - {titre: "ABS — Recensement 2021, QuickStats Tasmanie", url: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/6"}
+  - {titre: "ABC News — Cape Barren Island, 20 ans après le retour des terres (2025)", url: "https://www.abc.net.au/news/2025-11-29/cape-barren-island-20-years-after-land-return/105916324"}
+  - {titre: "Tasmanian Aboriginal Centre — Land and Sea Management", url: "https://tacinc.com.au/programs/land-and-sea-management/"}
+  - {titre: "CERD — Observations finales sur l'Australie, CERD/C/AUS/CO/18-20 (2017)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}

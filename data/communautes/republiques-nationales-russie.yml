@@ -1,0 +1,58 @@
+uid: "republiques-nationales-russie"
+nom: "Républiques nationales de Russie"
+endonyme: ""
+territoire: "19 républiques de la Fédération de Russie (hors Tatarstan et Iakoutie)"
+etats: ["Russie"]
+region: "europe"
+coord: [52.0, 60.0]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 19551735, annee: 2021, perimetre: "population résidente totale des 19 républiques, toutes appartenances déclarées, recensement de 2021 (somme des chiffres par république)", source: "https://en.wikipedia.org/wiki/Republics_of_Russia"}
+lieux: {valeur: 19, unite: "républiques", annee: 1993, source: "https://www.consultant.ru/document/cons_doc_LAW_28399/d027bc5c1fa488e9337111c52c7aa947104dc7ad/"}
+surface_km2: {valeur: 1711373, annee: 2021, perimetre: "somme des surfaces des 19 républiques", source: "https://en.wikipedia.org/wiki/Republics_of_Russia"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre 19 des républiques de la Fédération de Russie, sujets de la Fédération (entités fédérées) créés sur la base de peuples titulaires, c'est-à-dire les peuples qui donnent leur nom à la république. Le Tatarstan et la Iakoutie ont leur propre fiche ; la Crimée, annexée en 2014, et les « républiques populaires » de Donetsk et de Louhansk, inscrites à l'art. 65 de la Constitution russe en 2022, ne sont pas comptées : la plupart des États membres de l'ONU rattachent ces territoires à l'Ukraine. Selon la Constitution fédérale de 1993, révisée en 2020, chaque république a sa propre constitution et sa législation (art. 5 et 66) et peut établir ses langues d'État, utilisées avec le russe dans ses organes de l'État et de l'autogouvernement local (art. 68). La Carélie n'a pas établi d'autre langue d'État que le russe ; le Daghestan désigne « le russe et les langues des peuples du Daghestan ». Depuis la loi fédérale 317-FZ du 3 août 2018, l'étude des langues d'État des républiques à l'école est facultative.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Quatrième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur la Fédération de Russie, ACFC/OP/IV(2018)001, adopté le 20 février 2018 : à la suite du conflit de 2017 entre le gouvernement fédéral et les républiques, l'enseignement obligatoire des secondes langues officielles des républiques n'est plus possible (§ 9 et 11) ; la Russie a cessé d'être membre du Conseil de l'Europe en 2022", annee: 2018, source: "https://www.ecoi.net/en/file/local/2002328/4_OP_RussianFederation_en.docx.pdf"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la Fédération de Russie, art. 5, 65, 66, 68, 72 et 73 (texte révisé le 1er juillet 2020)", nature: "constitution", annee: 1993, source: "https://www.consultant.ru/document/cons_doc_LAW_28399/"}
+  - {instrument: "Loi « Sur les langues des peuples de la Fédération de Russie », n° 1807-I du 25 octobre 1991, art. 2 et 3", nature: "loi", annee: 1991, source: "https://eprints.gla.ac.uk/208165/1/208165.pdf"}
+  - {instrument: "Loi fédérale n° 317-FZ du 3 août 2018 modifiant les art. 11 et 14 de la loi fédérale « Sur l'éducation dans la Fédération de Russie »", nature: "loi", annee: 2018, source: "https://rg.ru/2018/08/07/317-fz-dok.html"}
+  - {instrument: "Cour constitutionnelle de la Fédération de Russie, arrêt n° 16-P du 16 novembre 2004", nature: "jurisprudence", annee: 2004, source: "https://eprints.gla.ac.uk/208165/1/208165.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque république a sa propre constitution, qui fixe son statut avec la Constitution fédérale (art. 5 et 66, 1993) ; ses institutions sont territoriales et ne sont pas réservées aux peuples titulaires.", source: "https://www.constituteproject.org/constitution/Russia_2014"}
+  pouvoir_normatif: {valeur: "partiel", note: "Chaque république a sa législation (art. 5) et exerce le plein pouvoir d'État hors des compétences fédérales et conjointes (art. 73) ; les langues, l'éducation, la terre et les ressources relèvent des compétences conjointes (art. 72), où la loi fédérale prime.", source: "https://www.constituteproject.org/constitution/Russia_2014"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Les républiques peuvent établir leurs langues d'État, utilisées avec le russe dans leurs organes de l'État, de l'autogouvernement local et leurs institutions publiques (Constitution, art. 68-2, 1993, maintenu par la révision de 2020) ; toutes les républiques de la fiche l'ont fait sauf la Carélie, où la loi fédérale sur les langues impose l'alphabet cyrillique aux langues d'État des républiques alors que le carélien s'écrit en alphabet latin (Comité consultatif de la Convention-cadre, 2018, § 107).", source: "https://www.consultant.ru/document/cons_doc_LAW_28399/3ed9a4d68072c2f9d74767edb4d4d2ea1def6e9f/"}
+  education: {valeur: "conteste", note: "La Cour constitutionnelle a admis en 2004 l'étude obligatoire de la langue d'État d'une république ; la loi fédérale 317-FZ du 3 août 2018 soumet l'étude des langues d'État des républiques au choix des parents, ce qui retire aux républiques la possibilité de la rendre obligatoire.", source: "https://eprints.gla.ac.uk/208165/1/208165.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité consultatif de la Convention-cadre (2018) relève qu'après le conflit de 2017 avec le gouvernement fédéral, l'enseignement obligatoire des secondes langues officielles des républiques n'est plus possible ; plusieurs républiques l'ont déjà abandonné, et l'enseignement dans les langues minoritaires recule avec la fermeture d'écoles de village.", source: "https://www.ecoi.net/en/file/local/2002328/4_OP_RussianFederation_en.docx.pdf"}
+chronologie:
+  - {annee: 1991, evenement: "Loi « Sur les langues des peuples de la Fédération de Russie » (25 octobre)."}
+  - {annee: 1993, evenement: "La Constitution fédérale énumère les républiques (art. 65) et leur reconnaît le droit d'établir leurs langues d'État (art. 68)."}
+  - {annee: 2004, evenement: "La Cour constitutionnelle admet l'étude obligatoire de la langue d'État d'une république (arrêt 16-P, 16 novembre)."}
+  - {annee: 2017, evenement: "Inspections du parquet sur l'enseignement obligatoire des langues des républiques ; manifestations et protestations des autorités de plusieurs républiques."}
+  - {annee: 2018, evenement: "Loi fédérale 317-FZ (3 août) : étude facultative des langues d'État des républiques ; décret présidentiel n° 688 (26 octobre) créant un fonds pour la préservation et l'étude des langues des peuples de la Fédération."}
+  - {annee: 2020, evenement: "Révision constitutionnelle (1er juillet) : l'art. 68-1 désigne le russe comme « langue du peuple constitutif de l'État » ; l'art. 68-2 sur les langues d'État des républiques est maintenu."}
+  - {annee: 2022, evenement: "La Russie cesse d'être membre du Conseil de l'Europe ; l'art. 65 de la Constitution russe inscrit les « républiques populaires » de Donetsk et de Louhansk, territoires que la plupart des États membres de l'ONU rattachent à l'Ukraine."}
+fiabilite:
+  verifie: ["Art. 5, 65 et 68 de la Constitution fédérale dans le texte révisé en 2020 (ConsultantPlus) ; art. 66, 72 et 73 dans la version anglaise de 2014 (Constitute Project).", "Loi 317-FZ du 3 août 2018, texte publié par la Rossiïskaïa Gazeta.", "Loi sur les langues de 1991 (art. 2-1 et 3-4), arrêt 16-P de 2004, décret n° 688 de 2018 et exception de la Carélie (Jankiewicz, Knyaginina et Prina, 2020).", "Quatrième avis du Comité consultatif de la Convention-cadre, 20 février 2018, § 9, 11, 107 et 131.", "Population (recensement de 2021) et surface par république : tableau de Wikipédia, qui cite les résultats du recensement publiés par Rosstat."]
+  non_confirme: ["Fichier du recensement de 2021 de Rosstat non ouvert (certificat du site non reconnu) : population reprise de Wikipédia.", "Texte de la loi de 1991 non consulté sur un site officiel (sites juridiques russes inaccessibles) ; contenu repris de l'article de Jankiewicz et al.", "Liste des langues d'État par république : Jankiewicz et al. comptent cinq langues en Karatchaïevo-Tcherkessie, deux en Kabardino-Balkarie et en Mordovie, et un nombre non fixé au Daghestan (« langues des peuples du Daghestan », treize langues écrites selon les auteurs cités) ; constitutions républicaines non consultées.", "Effets de la loi fédérale de 2021 sur les principes généraux de l'organisation du pouvoir public dans les sujets de la Fédération sur les institutions des républiques : non analysés.", "Aucun document d'un organe de traité de l'ONU nommant les langues d'État des républiques n'a été trouvé (observations du CERD de 2017 et 2023, du CDESC et du Comité des droits de l'homme consultées).", "Tableau : l'année 1993 est celle de l'énumération des républiques à l'art. 65 de la Constitution ; les surfaces viennent de Wikipédia, colonne subdivision laissée vide (district fédéral non vérifié).", "Option ouverte : fiches propres pour le Bachkortostan, Touva, le Daghestan et la Tchouvachie."]
+sources:
+  - {titre: "Constitution de la Fédération de Russie, texte révisé en 2020 — ConsultantPlus", url: "https://www.consultant.ru/document/cons_doc_LAW_28399/"}
+  - {titre: "Constitution de la Fédération de Russie, version anglaise de 2014 — Constitute Project", url: "https://www.constituteproject.org/constitution/Russia_2014"}
+  - {titre: "Loi fédérale n° 317-FZ du 3 août 2018 — Rossiïskaïa Gazeta", url: "https://rg.ru/2018/08/07/317-fz-dok.html"}
+  - {titre: "Jankiewicz, Knyaginina et Prina, Linguistic Rights and Education in the Republics of the Russian Federation, Review of Central and East European Law 45 (2020)", url: "https://eprints.gla.ac.uk/208165/1/208165.pdf"}
+  - {titre: "Comité consultatif de la Convention-cadre, quatrième avis sur la Fédération de Russie, ACFC/OP/IV(2018)001 — ecoi.net", url: "https://www.ecoi.net/en/file/local/2002328/4_OP_RussianFederation_en.docx.pdf"}
+  - {titre: "Russian legislation — Mercator, réseau européen sur la diversité linguistique", url: "https://wiki.mercator-research.eu/general_information:russian_legislation"}
+  - {titre: "Republics of Russia — Wikipédia (population 2021, surfaces)", url: "https://en.wikipedia.org/wiki/Republics_of_Russia"}
+  - {titre: "Languages of Russia — Wikipédia (langues officielles par république)", url: "https://en.wikipedia.org/wiki/Languages_of_Russia"}

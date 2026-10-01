@@ -1,0 +1,58 @@
+uid: "parties-aborigenes-enregistrees-victoria"
+nom: "Parties aborigènes enregistrées de Victoria (patrimoine culturel)"
+endonyme: ""
+territoire: "État de Victoria, zones attribuées aux douze Registered Aboriginal Parties (environ 77,5 % de l'État en décembre 2024)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-36.9, 144.3]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 12, unite: "Registered Aboriginal Parties (corporations aborigènes enregistrées pour une zone)", annee: 2024, source: "https://www.aboriginalheritagecouncil.vic.gov.au/victoria-registered-aboriginal-parties"}
+surface_km2: {valeur: null, annee: 2024, perimetre: "environ 77,5 % de la surface de l'État couverte par les douze zones au 12 décembre 2024 ; aucune surface totale en km² publiée ; le tableau donne la surface de onze zones selon le rapport annuel 2023-2024 du Conseil (la zone Gunaikurnai inclut 200 m de mer côtière)", source: "https://www.aboriginalheritagecouncil.vic.gov.au/victoria-registered-aboriginal-parties"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les groupes de propriétaires traditionnels (traditional owners, peuples aborigènes rattachés à un territoire par leurs liens culturels) représentés par une Registered Aboriginal Party (RAP, « partie aborigène enregistrée »), corporation aborigène que le Conseil du patrimoine aborigène de Victoria (Victorian Aboriginal Heritage Council) enregistre pour une zone en application de l'Aboriginal Heritage Act 2006. Dans sa zone, la RAP évalue et approuve ou refuse les plans de gestion du patrimoine culturel exigés avant certains aménagements, délivre ou refuse les permis touchant le patrimoine aborigène depuis 2016, et conclut des accords de patrimoine culturel. Les premières RAP ont été enregistrées en 2007 ; en décembre 2024, douze RAP couvrent environ 77,5 % de l'État. Le régime porte sur le patrimoine culturel, pas sur la propriété des terres.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Aboriginal Heritage Act 2006 (Victoria), loi no 16/2006, version 030 en vigueur depuis le 1er mai 2026", nature: "loi", annee: 2006, source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-heritage-act-2006/030"}
+  - {instrument: "Aboriginal Heritage Amendment Act 2016 (Victoria), loi no 11/2016 : RAP désignées comme autorité de délivrance des permis, obligation d'être une corporation enregistrée au titre de la loi fédérale de 2006 sur les corporations aborigènes", nature: "loi", annee: 2016, source: "https://www.legislation.vic.gov.au/as-made/acts/aboriginal-heritage-amendment-act-2016"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La RAP est une corporation enregistrée au titre du Corporations (Aboriginal and Torres Strait Islander) Act 2006 fédéral (s. 150(2)), désignée par le Conseil, avec préférence pour les corps représentant les propriétaires traditionnels (s. 3(c), 151(2), (2A) et (7)) ; le Conseil, composé de propriétaires traditionnels (s. 131(3)), peut lui imposer des conditions, la suspendre ou la radier (s. 154A et 156).", source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-heritage-act-2006/030"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "La RAP approuve ou refuse dans les 30 jours le plan de gestion du patrimoine culturel (cultural heritage management plan) d'un projet situé dans sa zone, mais ne peut refuser que pour non-respect des normes ou des critères de la s. 61 (s. 63(3) et (4)), et le promoteur peut saisir le tribunal civil et administratif de Victoria (VCAT), qui peut approuver, modifier ou refuser le plan (s. 116) ; elle est l'autorité qui délivre ou refuse les permis de patrimoine culturel (s. 35A, 40 et 148(fc)) ; le refus d'un permis pour une activité susceptible de porter atteinte au patrimoine (s. 36(1)(c)) est contestable devant le VCAT (s. 121).", source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-heritage-act-2006/030"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les demandes d'approbation de plan adressées à la RAP sont accompagnées de la redevance prévue par règlement, le cas échéant (s. 62(3) ; Aboriginal Heritage Regulations 2018, r. 85 à 87) ; la RAP rend compte chaque année au Conseil des redevances perçues (s. 148(fe)) ; aucun pouvoir fiscal n'est prévu.", source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-heritage-act-2006/030"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La commission d'enquête Yoorrook (Yoorrook Justice Commission), instituée par l'État de Victoria, demande dans son rapport Yoorrook for Transformation (déposé au Parlement le 1er juillet 2025) d'appliquer toutes les recommandations du rapport du Conseil Taking Control of Our Heritage (recommandation 27) ; ce rapport du 4 octobre 2021 demande notamment un pouvoir de consentement des RAP sur les plans de gestion (sa recommandation 4). La commission demande aussi un financement durable du travail patrimonial des groupes de propriétaires traditionnels (recommandation 28). Selon le rapport annuel 2023-2024 du Conseil, onze RAP sur douze désignées étaient en activité au 30 juin 2024 (une radiée), couvrant 75 % de l'État, et aucune demande d'enregistrement n'avait été tranchée pendant l'exercice.", source: "https://www.yoorrook.org.au/reports-and-recommendations/recommendations"}
+chronologie:
+  - {annee: 2006, evenement: "Adoption de l'Aboriginal Heritage Act (loi no 16/2006), qui crée le Conseil du patrimoine aborigène de Victoria et le statut de Registered Aboriginal Party."}
+  - {annee: 2007, evenement: "Premières RAP : Gunditj Mirring Traditional Owners Aboriginal Corporation le 28 mai, Yorta Yorta Nation Aboriginal Corporation et Barengi Gadjin Land Council le 14 septembre."}
+  - {annee: 2010, evenement: "Le Traditional Owner Settlement Act (loi no 62/2010) impose d'enregistrer comme RAP le groupe titulaire d'un accord de reconnaissance et de règlement pour sa zone (s. 151(2A))."}
+  - {annee: 2016, evenement: "Aboriginal Heritage Amendment Act (loi no 11/2016) : les RAP deviennent l'autorité de délivrance des permis de patrimoine culturel dans leur zone et doivent être des corporations enregistrées au titre de la loi fédérale de 2006."}
+  - {annee: 2021, evenement: "Le Conseil publie le 4 octobre son rapport de réforme Taking Control of Our Heritage."}
+  - {annee: 2024, evenement: "Wamba Wemba Aboriginal Corporation enregistrée le 7 août ; au 12 décembre, douze RAP couvrent environ 77,5 % de l'État."}
+  - {annee: 2025, evenement: "Le Statewide Treaty Act (loi no 45/2025) confie à l'Assemblée des Premiers Peuples (First Peoples' Assembly) la nomination des membres du Conseil (s. 131(1A)) ; le rapport Yoorrook for Transformation (1er juillet) recommande d'appliquer le rapport Taking Control of Our Heritage."}
+  - {annee: 2025, evenement: "Le Conseil reçoit le 21 novembre une demande d'enregistrement de la Kurnai Aboriginal Corporation (Wilsons Promontory et Gippsland oriental)."}
+fiabilite:
+  verifie: ["Sections 1, 3, 35A, 36, 40, 61 à 64, 116, 121, 131, 148, 150 à 156 de la loi, version 030 (legislation.vic.gov.au).", "Liste des douze RAP et couverture d'environ 77,5 % de l'État (page du Conseil mise à jour le 12 décembre 2024).", "Dates d'enregistrement de chaque RAP (pages du Conseil consacrées à chaque RAP).", "Surface et part de l'État de onze zones, situation au 30 juin 2024 (rapport annuel 2023-2024 du Conseil).", "Motifs limités de refus et recours devant le VCAT (note de pratique d'urbanisme du gouvernement de Victoria, mise à jour le 22 mai 2026).", "Recommandations 27 et 28 de la commission Yoorrook ; dépôt du rapport Yoorrook for Transformation au Parlement le 1er juillet 2025 (site de la commission).", "Redevances d'évaluation des plans prévues par les règles 85 à 87 des Aboriginal Heritage Regulations 2018."]
+  non_confirme: ["Population des groupes représentés : aucune donnée officielle trouvée.", "Surface de la zone Wamba Wemba et surface totale couverte en km².", "Nom de la RAP radiée avant le 30 juin 2024.", "Nombre de plans de gestion approuvés ou refusés par les RAP.", "Aucun document onusien visant ce régime n'a été trouvé.", "Le rapport annuel 2023-2024 donne 75 % de couverture, la page du Conseil 77,5 % après l'enregistrement Wamba Wemba ; l'écart n'est pas expliqué par la source."]
+sources:
+  - {titre: "Aboriginal Heritage Act 2006, version 030 — Victorian Legislation", url: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-heritage-act-2006/030"}
+  - {titre: "Victoria's Registered Aboriginal Parties — Victorian Aboriginal Heritage Council", url: "https://www.aboriginalheritagecouncil.vic.gov.au/victoria-registered-aboriginal-parties"}
+  - {titre: "Registered Aboriginal Party applications before Council — Victorian Aboriginal Heritage Council", url: "https://www.aboriginalheritagecouncil.vic.gov.au/registered-aboriginal-party-applications-council"}
+  - {titre: "Rapport annuel 2023-2024 — Victorian Aboriginal Heritage Council", url: "https://www.aboriginalheritagecouncil.vic.gov.au/sites/default/files/2025-07/VACH-Annual-Report-2023-24-final-_final.pdf"}
+  - {titre: "Taking Control of Our Heritage — recommandations — Victorian Aboriginal Heritage Council", url: "https://www.aboriginalheritagecouncil.vic.gov.au/taking-control-our-heritage-recommendations"}
+  - {titre: "Aboriginal Heritage Act 2006 and the planning permit process — Planning Victoria", url: "https://www.planning.vic.gov.au/guides-and-resources/guides/planning-practice-notes/aboriginal-heritage-act-2006-and-the-planning-permit-process"}
+  - {titre: "Recommandations — Yoorrook Justice Commission", url: "https://www.yoorrook.org.au/reports-and-recommendations/recommendations"}
+  - {titre: "Aboriginal Heritage Amendment Act 2016 — Victorian Legislation", url: "https://www.legislation.vic.gov.au/as-made/acts/aboriginal-heritage-amendment-act-2016"}
+  - {titre: "Aboriginal Heritage Regulations 2018 — Victorian Legislation", url: "https://www.legislation.vic.gov.au/in-force/statutory-rules/aboriginal-heritage-regulations-2018/001"}
+  - {titre: "Rapports de la commission Yoorrook", url: "https://www.yoorrook.org.au/reports-and-recommendations/reports"}

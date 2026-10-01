@@ -1,0 +1,62 @@
+uid: "forets-communautaires-bhoutan"
+nom: "Forêts communautaires du Bhoutan"
+endonyme: ""
+territoire: "Forêts communautaires délimitées dans la forêt domaniale (State Reserved Forest Land), hors villes (thromde)"
+etats: ["Bhoutan"]
+region: "asie"
+coord: [27.4, 90.4]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 839, unite: "forêts communautaires", annee: 2021, source: "https://www.sciencedirect.com/science/article/pii/S2666719324000359"}
+surface_km2: {valeur: 1078.66, annee: 2021, perimetre: "superficie totale des forêts communautaires (107 866 ha), environ 4 % du domaine forestier national", source: "https://www.sciencedirect.com/science/article/pii/S2666719324000359"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les groupes de gestion de forêt communautaire (Community Forest Management Groups), c'est-à-dire les groupes d'au moins cinq ménages d'une même communauté auxquels l'administration forestière confie une parcelle de la forêt domaniale. Le régime actuel vient de la loi de 2023 sur la conservation des forêts et de la nature (sections 51 à 56) et de son règlement de 2023 (sections 88 à 123). Le groupe utilise et gère les arbres et les produits forestiers non ligneux selon un plan de gestion de dix ans, adopte ses statuts et peut vendre le surplus dans le pays, à un prix plafonné ; il n'est propriétaire ni du sol ni de l'eau. En 2021, on comptait 839 forêts communautaires, 107 866 ha et 34 761 ménages membres.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Cinquième rapport national du Bhoutan à la Convention sur la diversité biologique : 553 forêts communautaires établies au titre de l'utilisation durable des ressources biologiques. Le plan d'action pour la biodiversité de 2009, établi par le ministère de l'Agriculture et mis en ligne par la Convention, décrivait déjà le programme (117 unités, 15 489 ha).", annee: 2016, source: "https://www.cbd.int/doc/world/bt/bt-nr-05-en.pdf"}
+base_nationale:
+  - {instrument: "Forest and Nature Conservation Act of Bhutan 2023, sections 51 à 56 (forêts communautaires) et 142 à 146 (produits forestiers non ligneux)", nature: "loi", annee: 2023, source: "https://www.moenr.gov.bt/wp-content/uploads/2017/07/Forest-and-Nature-Conservation-Act-of-Bhutan-2023.pdf"}
+  - {instrument: "Forest and Nature Conservation Rules and Regulations 2023, chapitre 4, sections 88 à 123 ; sections 252 à 255", nature: "loi", annee: 2023, source: "https://www.moenr.gov.bt/wp-content/uploads/2017/07/FNCRR-2023.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le groupe de gestion, d'au moins cinq ménages inscrits au registre foncier (thram) et au registre des foyers (gung) du lieu où ils sont recensés, adopte ses propres statuts (by-laws) et son président délivre les permis de récolte (règlement de 2023, sections 90, 91 à 95 et 106) ; la division forestière peut suspendre la forêt communautaire un an et le Département peut retirer au groupe ses droits (loi de 2023, section 56 ; règlement, sections 114 et 116).", source: "https://www.moenr.gov.bt/wp-content/uploads/2017/07/FNCRR-2023.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le groupe adopte des statuts et prépare le plan de gestion de dix ans qui encadre toute activité dans la forêt (loi de 2023, section 53 ; règlement, sections 95 et 101) ; le plan est soumis au chef du Département des forêts, qui l'approuve ou le renvoie pour modification (règlement, sections 97 à 99).", source: "https://www.moenr.gov.bt/wp-content/uploads/2017/07/FNCRR-2023.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La forêt communautaire est une partie de la forêt domaniale désignée pour être gérée par une communauté locale ; ses membres n'ont aucune propriété sur le sol, l'eau, le sable, les pierres ni les matériaux de lit de rivière (loi de 2023, sections 52 et 251, définition 11) ; l'État peut reprendre la zone pour un projet d'importance nationale, et une indemnité fixée par le Département peut alors être versée au groupe (section 55).", source: "https://www.moenr.gov.bt/wp-content/uploads/2017/07/Forest-and-Nature-Conservation-Act-of-Bhutan-2023.pdf"}
+  ressources: {valeur: "partiel", note: "Les membres ont l'usage et la gestion des arbres et des produits forestiers non ligneux (loi de 2023, section 52) ; le groupe couvre ses besoins en bois, vend les produits non ligneux selon le plan et peut vendre le surplus à tout acheteur dans le pays sans dépasser le tarif du comité de fixation des prix des ressources naturelles (Natural Resources Pricing Committee), après évaluation du surplus par la division forestière ; chaque arbre est marqué par le bureau de secteur forestier (Range Office) avant abattage (règlement de 2023, sections 104 à 111).", source: "https://www.moenr.gov.bt/wp-content/uploads/2017/07/FNCRR-2023.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le nombre de forêts communautaires est passé d'une en 1997 à 839 en 2021 ; une étude de 2024 relève que les groupes de gestion exercent un contrôle sur le pâturage, la récolte des produits et l'accès des personnes extérieures, que le carbone de la biomasse et du sol n'y diffère pas de façon significative de celui des autres forêts et que la richesse en espèces y est plus élevée ; elle note que la propriété du carbone forestier et le partage des revenus de sa vente ne sont pas encore réglés.", source: "https://www.sciencedirect.com/science/article/pii/S2666719324000359"}
+chronologie:
+  - {annee: 1997, evenement: "Première forêt communautaire, avec le village de Dozam (gewog de Drametsi, district de Mongar)."}
+  - {annee: 2000, evenement: "Règles de foresterie sociale intégrées au règlement sur la conservation des forêts et de la nature."}
+  - {annee: 2003, evenement: "Lignes directrices pour la planification, l'établissement et la gestion des forêts communautaires."}
+  - {annee: 2008, evenement: "66 unités créées dans l'année ; 117 unités et 15 489 ha au total depuis 2001."}
+  - {annee: 2021, evenement: "839 forêts communautaires, 107 866 ha, 34 761 ménages."}
+  - {annee: 2023, evenement: "Loi sur la conservation des forêts et de la nature (en vigueur le 24 juillet 2023), qui abroge la loi de 1995, et règlement d'application (en vigueur le 31 octobre 2023)."}
+fiabilite:
+  verifie:
+    - "Sections 2, 4, 51 à 56, 142 à 146 et 251 (définitions 11 et 12) dans le texte de la loi de 2023 publié par le ministère de l'Énergie et des Ressources naturelles."
+    - "Sections 88 à 123 et 252 à 255 du règlement de 2023 publié par le même ministère."
+    - "Historique 1997-2008 (Dozam, règles de 2000, lignes directrices de 2003, 117 unités et 15 489 ha) dans le plan d'action pour la biodiversité de 2009 publié sur le site de la Convention sur la diversité biologique."
+    - "553 forêts communautaires mentionnées dans le cinquième rapport national à la Convention sur la diversité biologique."
+    - "Chiffres de 2021 (839 forêts, 107 866 ha, 34 761 ménages) dans Delma et al., Trees, Forests and People, 2024."
+  non_confirme:
+    - "Aucune liste officielle des forêts communautaires par site n'a été trouvée ; pas de tableau par site."
+    - "L'année du cinquième rapport national n'est pas imprimée sur le document ; 2016 est la date du fichier publié par la Convention."
+    - "Les chiffres de 2021 viennent d'une étude universitaire qui reprend les données du Département des forêts ; la statistique officielle n'a pas été consultée directement."
+    - "Le nombre de personnes membres n'est pas connu : seuls les 34 761 ménages membres sont comptés."
+    - "Le sort des revenus des ventes (fonds du groupe, contrôle des comptes) n'est pas précisé dans les sections consultées, hormis l'obligation de tenir des registres financiers (règlement, section 96)."
+sources:
+  - {titre: "Forest and Nature Conservation Act of Bhutan 2023 — ministère de l'Énergie et des Ressources naturelles", url: "https://www.moenr.gov.bt/wp-content/uploads/2017/07/Forest-and-Nature-Conservation-Act-of-Bhutan-2023.pdf"}
+  - {titre: "Forest and Nature Conservation Rules and Regulations 2023 — ministère de l'Énergie et des Ressources naturelles", url: "https://www.moenr.gov.bt/wp-content/uploads/2017/07/FNCRR-2023.pdf"}
+  - {titre: "Cinquième rapport national du Bhoutan — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/bt/bt-nr-05-en.pdf"}
+  - {titre: "Biodiversity Action Plan 2009 du Bhoutan — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/bt/bt-nbsap-v3-en.pdf"}
+  - {titre: "Delma et al., « Carbon stocks and sequestration potential of community forests in Bhutan », Trees, Forests and People, 2024", url: "https://www.sciencedirect.com/science/article/pii/S2666719324000359"}

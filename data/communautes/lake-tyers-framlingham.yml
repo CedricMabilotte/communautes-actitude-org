@@ -1,0 +1,63 @@
+uid: "lake-tyers-framlingham"
+nom: "Fiducies aborigènes de Lake Tyers et de Framlingham (Victoria)"
+endonyme: ""
+territoire: "Anciennes réserves de Lake Tyers (Gippsland) et de Framlingham (sud-ouest de l'État de Victoria)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-37.8, 148.1]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "mixte"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 2, unite: "anciennes réserves attribuées en pleine propriété à une fiducie (trust) : Lake Tyers et Framlingham", annee: 2026, source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-act-1970/1970"}
+surface_km2: {valeur: 19, annee: 2021, perimetre: "terres des deux anciennes réserves détenues par les fiducies : environ 4 000 acres à Lake Tyers et environ 694 acres à Framlingham selon le rapport de révision de 2021 (conversion : 16,2 + 2,8 km²), après la cession d'une partie de Framlingham en 2002 ; hors autres biens acquis par la fiducie de Framlingham", source: "https://www.firstpeoplesrelations.vic.gov.au/sites/default/files/2023-10/Final-report-for-the-review-of-the-Act.pdf"}
+villages: {valeur: 2, annee: 2021, perimetre: "établissements habités sur les anciennes réserves : Lake Tyers (environ 45 logements) et Framlingham (environ 17 logements)", source: "https://www.firstpeoplesrelations.vic.gov.au/sites/default/files/2023-10/Final-report-for-the-review-of-the-Act.pdf"}
+resume: >-
+  Fiche agrégée : l'Aboriginal Lands Act 1970, loi de l'État de Victoria sanctionnée le 8 décembre 1970, révoque le statut de réserve des anciennes missions de Lake Tyers et de Framlingham et en attribue la pleine propriété (freehold, propriété sans limite de durée) à deux personnes morales, le Lake Tyers Aboriginal Trust et le Framlingham Aboriginal Trust. Les membres de chaque fiducie sont des actionnaires : à l'origine, les Aborigènes résidant sur la réserve à l'entrée en vigueur de la loi et déjà présents au 1er janvier 1968 (à Lake Tyers, également ceux arrivés avant le 1er octobre 1970 avec l'accord du conseil aborigène local), ainsi que leurs enfants nés avant cette date (s. 3), soit 17 personnes à Framlingham et 92 à Lake Tyers selon la Gazette du 9 juin 1971. Chaque fiducie est gérée par un comité de gestion de sept personnes élues par les actionnaires, sous le contrôle du ministre, qui peut nommer un administrateur. Le rapport de révision de 2021 compte environ 160 à 170 actionnaires et 120 à 130 résidents à Lake Tyers, environ 20 à 25 actionnaires et 71 résidents (décembre 2017) à Framlingham ; la loi modificative de 2024, en vigueur depuis le 28 mai 2025, encadre la transmission des parts et la gouvernance.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Aboriginal Lands Act 1970 (Victoria), n° 8044, version 036 en vigueur au 1er mai 2026", nature: "loi", annee: 1970, source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-act-1970/1970"}
+  - {instrument: "Aboriginal Lands (Amendment) Act 2004, n° 58/2004 (pouvoir de nommer un administrateur à Lake Tyers, accès et routes de la réserve)", nature: "loi", annee: 2004, source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-act-1970/1970"}
+  - {instrument: "Aboriginal Lands Amendment Act 2013, n° 33/2013 (administrateur étendu à Framlingham, conseil d'administration, rapports au ministre)", nature: "loi", annee: 2013, source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-act-1970/1970"}
+  - {instrument: "Aboriginal Land Legislation Amendment Act 2024, n° 29/2024, sanctionnée le 3 septembre 2024, en vigueur le 28 mai 2025", nature: "loi", annee: 2024, source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-act-1970/1970"}
+  - {instrument: "Statewide Treaty Act 2025, n° 45/2025, s. 238 (consultation de la First Peoples' Assembly avant la nomination d'un administrateur), en vigueur le 1er mai 2026", nature: "loi", annee: 2025, source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-act-1970/1970"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque fiducie est gérée par un comité de gestion de sept personnes élues par les actionnaires en assemblée générale, seul habilité à exercer les pouvoirs de la fiducie (s. 15 et 16) ; la fiducie tient au moins une assemblée générale par an en plus de l'assemblée annuelle (s. 22(7)) ; depuis 2025, la fiducie soumet au ministre un plan stratégique triennal qu'il approuve ou modifie (s. 21A et 21B), et le ministre peut remplacer le comité par un administrateur (s. 23B et 23F).", source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-act-1970/1970"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Concession de la Couronne (Crown grant) des terres de chaque réserve à la fiducie (s. 8 et 9) ; la fiducie ne peut vendre ou céder de terres que par résolution unanime de ses membres et ne peut louer pour plus de 21 ans qu'à la majorité des trois quarts (s. 11(3) et 11(4)) ; droit à une licence perpétuelle et gratuite sur la bande de 200 chaînons d'arpenteur (links, environ 40 m) le long de la Hopkins et du lac Tyers exclue de la concession, où seuls la fiducie, ses membres et les personnes qu'elle autorise peuvent entrer (s. 9(4), 9(5) et 9(7)).", source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-act-1970/1970"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le ministre consulte les membres de la fiducie et les résidents de Lake Tyers avant de désigner un lieu de la réserve ouvert aux agents publics et aux prestataires de services de santé et sociaux (s. 24A(2) et 24A(3)) ; avant de nommer un administrateur, il consulte la First Peoples' Assembly (s. 23B(4A), 2025) et peut solliciter les observations des résidents (s. 23B(5)) ; consultation sans droit de veto.", source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-act-1970/1970"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le rapport de révision indépendante de 2021, la fiducie de Lake Tyers a été placée sous administration de 2004 à 2015 et rendue au contrôle de la communauté avec l'élection d'un comité en octobre 2015, la fiducie de Framlingham a reçu un administrateur (s. 23B) pendant la deuxième phase des consultations de la révision, une part des actions de Lake Tyers (jusqu'à 40 % selon le rapport) reste bloquée dans des successions et la loi ne garantit aucun financement aux fiducies.", source: "https://www.firstpeoplesrelations.vic.gov.au/sites/default/files/2023-10/Final-report-for-the-review-of-the-Act.pdf"}
+chronologie:
+  - {annee: 1970, evenement: "Sanction de l'Aboriginal Lands Act le 8 décembre : création des deux fiducies et attribution des réserves en pleine propriété."}
+  - {annee: 1971, evenement: "Gazette du 9 juin : publication des registres (17 membres fondateurs à Framlingham, 92 à Lake Tyers)."}
+  - {annee: 2002, evenement: "Révision interne de la loi par Aboriginal Affairs Victoria."}
+  - {annee: 2004, evenement: "Loi modificative (en vigueur le 4 novembre) : pouvoir de nommer un administrateur à Lake Tyers, routes de la réserve déclarées publiques ; Lake Tyers placée sous administration."}
+  - {annee: 2013, evenement: "Loi modificative (en vigueur le 1er juillet) : administrateur possible pour les deux fiducies, rapports financiers et sociaux au ministre."}
+  - {annee: 2015, evenement: "Fin de l'administration de Lake Tyers ; élection d'un comité de gestion en octobre."}
+  - {annee: 2018, evenement: "Nomination de deux réviseurs indépendants, Jason Behrendt et Timothy Goodwin."}
+  - {annee: 2021, evenement: "Rapport final de la révision (septembre) : 42 recommandations."}
+  - {annee: 2023, evenement: "Réponse du gouvernement de Victoria (août) : mise en œuvre en deux phases."}
+  - {annee: 2025, evenement: "Entrée en vigueur le 28 mai de l'Aboriginal Land Legislation Amendment Act 2024 (transmission des parts, assemblées, plan stratégique) et des Aboriginal Lands Regulations 2025."}
+  - {annee: 2026, evenement: "Entrée en vigueur le 1er mai de la s. 238 du Statewide Treaty Act 2025 : consultation de la First Peoples' Assembly avant toute nomination d'administrateur."}
+fiabilite:
+  verifie: ["Sections 2, 3, 8, 9, 11, 12, 14, 15, 16, 21A, 21B, 22, 23B, 23F, 23I et 24A de la version 036 de la loi, et notes finales (dates de sanction et d'entrée en vigueur des lois modificatives), legislation.vic.gov.au, consultée le 1er octobre 2026.", "Nombre de membres fondateurs, superficies approximatives, nombres d'actionnaires, de résidents et de logements, périodes d'administration : rapport final de la révision indépendante (2021), annexe B.", "Calendrier de la réforme (phase 1 en vigueur le 28 mai 2025, phase 2 en concertation jusqu'en mars 2026) : site First Peoples – State Relations.", "Aboriginal Lands Regulations 2025 (S.R. n° 29/2025), version 001 en vigueur le 28 mai 2025 : legislation.vic.gov.au."]
+  non_confirme: ["Situation actuelle de la fiducie de Framlingham : l'administrateur nommé vers 2020 est-il toujours en fonction ?", "Superficies exactes : le rapport de 2021 donne des valeurs approchées (environ 4 000 et 694 acres).", "Contenu et calendrier de la phase 2 de la réforme (14 recommandations restantes, dont la réservation des parts aux personnes aborigènes).", "Régime minier et fiscal des terres : la loi de 1970 modifie le Land Tax Act 1958, sans que la portée de cette modification ait été vérifiée.", "Aucun document onusien nommant ces fiducies n'a été trouvé."]
+sources:
+  - {titre: "Aboriginal Lands Act 1970 (Vic), version 036 — Victorian Legislation", url: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-act-1970/1970"}
+  - {titre: "Aboriginal Lands Act 1970 (Vic), version 036, texte authentifié (PDF)", url: "https://content.legislation.vic.gov.au/sites/default/files/2026-04/70-8044aa036-authorised.pdf"}
+  - {titre: "Overview of the Aboriginal Lands Act 1970 — First Peoples – State Relations", url: "https://www.firstpeoplesrelations.vic.gov.au/information-about-aboriginal-lands-act-1970/overview-aboriginal-lands-act-1970"}
+  - {titre: "Land use — First Peoples – State Relations", url: "https://www.firstpeoplesrelations.vic.gov.au/information-about-aboriginal-lands-act-1970/land-use"}
+  - {titre: "Shareholder system — First Peoples – State Relations", url: "https://www.firstpeoplesrelations.vic.gov.au/information-about-aboriginal-lands-act-1970/shareholder-system"}
+  - {titre: "Review and reform of the Aboriginal Lands Act 1970 — First Peoples – State Relations", url: "https://www.firstpeoplesrelations.vic.gov.au/review-and-reform-of-the-aboriginal-lands-act-1970"}
+  - {titre: "Independent Review of the Aboriginal Lands Act 1970, rapport final (J. Behrendt et T. Goodwin, 2021)", url: "https://www.firstpeoplesrelations.vic.gov.au/sites/default/files/2023-10/Final-report-for-the-review-of-the-Act.pdf"}
+  - {titre: "Aboriginal Lands Regulations 2025 (S.R. n° 29/2025) — Victorian Legislation", url: "https://www.legislation.vic.gov.au/in-force/statutory-rules/aboriginal-lands-regulations-2025/001"}
+  - {titre: "Victorian Government Response to the independent review of the Aboriginal Lands Act 1970 (août 2023)", url: "https://www.firstpeoplesrelations.vic.gov.au/sites/default/files/2023-09/Victorian-Government-Response-independent-review-of-the-Aboriginal-Lands-Act-1970.PDF"}

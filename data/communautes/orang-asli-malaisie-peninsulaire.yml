@@ -1,0 +1,59 @@
+uid: "orang-asli-malaisie-peninsulaire"
+nom: "Orang Asli de Malaisie péninsulaire"
+endonyme: ""
+territoire: "Malaisie péninsulaire (Pahang, Perak, Selangor, Kelantan, Johor, Negeri Sembilan et autres États)"
+etats: ["Malaisie"]
+region: "asie"
+coord: [4.2, 102.0]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 221098, annee: 2024, perimetre: "Orang Asli recensés par le Département du développement des Orang Asli (JAKOA) dans neuf États de la péninsule, au 31 décembre 2024 : Melayu Proto 93 702, Senoi 120 240, Negrito 7 156", source: "https://www.jakoa.gov.my/umum/jadual-taburan-etnik-orang-asli-mengikut-negeri/"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: 235.9, annee: 2012, perimetre: "aires aborigènes gazettées (10 078 ha) et réserves aborigènes gazettées (13 512 ha), chiffres de 2012 additionnés", source: "https://foe-malaysia.org/articles/indigenous-customary-land-rights-and-the-modern-legal-system-5/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  « Orang Asli » (en malais, « peuple originel ») désigne les populations autochtones de la péninsule malaise, distinctes des natifs du Sabah et du Sarawak. La loi sur les peuples aborigènes de 1954 (Act 134, révisée en 1974) permet aux États fédérés de déclarer par publication au journal officiel des aires aborigènes et des réserves aborigènes, protégées contre l'aliénation à des non-aborigènes, et reconnaît des chefs de communauté (headman), héréditaires ou choisis par la communauté, confirmés par le ministre. Ces déclarations sont révocables par l'État fédéré. La Constitution fédérale autorise des mesures de protection, dont la réservation de terres (art. 8(5)(c)), et la jurisprudence Sagong Tasi (2002, 2005) reconnaît un titre coutumier (native title) opposable devant les tribunaux.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "La Malaisie vote pour la résolution 61/295 adoptant la Déclaration des Nations unies sur les droits des peuples autochtones (A/61/PV.107)", annee: 2007, source: "https://docs.un.org/fr/A/61/PV.107"}
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination à l'égard des femmes, observations finales sur la Malaisie, § 41-42 : absence de mesures visant les femmes et les filles des populations aborigènes et des minorités ethniques en zone rurale, recommandation de ratifier la Convention OIT 169 (CEDAW/C/MYS/CO/3-5)", annee: 2018, source: "https://docs.un.org/en/CEDAW/C/MYS/CO/3-5"}
+base_nationale:
+  - {instrument: "Constitution fédérale de Malaisie, art. 8(5)(c), 45(2), 160 et Neuvième annexe, liste I, point 16", nature: "constitution", annee: 1957, source: "https://www.constituteproject.org/constitution/Malaysia_2007"}
+  - {instrument: "Aboriginal Peoples Act 1954 (Act 134, révisée en 1974), s. 3, 4, 6, 7, 8, 12 et 16", nature: "loi", annee: 1954, source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20134.pdf"}
+  - {instrument: "Sagong bin Tasi c. Gouvernement de l'État de Selangor, Haute Cour de Malaya à Shah Alam, jugement du 12 avril 2002, confirmé par la Cour d'appel (2005)", nature: "jurisprudence", annee: 2002, source: "https://www.malaysianbar.org.my/article/news/court-judgments/judgments/sagong-tasi-ors-v-kerajaan-negeri-selangor-ors-2002-high-court"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le chef héréditaire ou choisi par la communauté est chef (headman), sous réserve de confirmation par le ministre, qui peut le révoquer, Act 134, s. 16 ; l'administration générale relève du directeur général des affaires Orang Asli, s. 4.", source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20134.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La compétence générale du directeur général n'empêche pas le chef d'exercer son autorité « dans les matières de coutume et de croyance aborigènes » au sein de la communauté, Act 134, s. 4 (réserve finale de l'article) ; la loi ne confère aucun pouvoir d'édicter des règles.", source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20134.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Aires aborigènes (s. 6) et réserves aborigènes (s. 7) déclarées par l'État fédéré : pas de réserve malaise ni de réserve de faune, et dans les réserves aucune aliénation sauf aux aborigènes résidents ; déclarations révocables (s. 6(3) et 7(3)) ; droits d'occupation assimilés à une tenure précaire (tenant at will, s. 8) ; indemnisation facultative en cas d'excision (s. 12). Titre coutumier reconnu par la jurisprudence Sagong Tasi (2002, 2005).", source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20134.pdf"}
+  ressources: {valeur: "partiel", note: "Dans une aire aborigène, aucune licence de collecte de produits forestiers ne peut être délivrée à des non-résidents ou à une entreprise sans consultation du directeur général ; aucune forêt classée ne peut être déclarée dans une réserve aborigène, Act 134, s. 6(2)(iv) et 7(2)(iii).", source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20134.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Les sénateurs nommés par le roi peuvent l'être parce qu'ils sont « capables de représenter les intérêts des aborigènes », Constitution fédérale, art. 45(2) ; aucun siège n'est réservé par le texte.", source: "https://www.constituteproject.org/constitution/Malaysia_2007"}
+  statut_personnel: {valeur: "partiel", note: "La loi définit la qualité d'aborigène (filiation, langue, mode de vie, coutumes), le ministre tranchant les cas litigieux, Act 134, s. 3 ; l'adoption d'un enfant aborigène par une personne d'un autre groupe exige l'accord du directeur général, s. 18.", source: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20134.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Le Rapporteur spécial des Nations unies sur l'extrême pauvreté relève en 2020 que des terres coutumières sont déclarées réserves forestières puis ouvertes à l'exploitation par des entreprises, et recommande d'aligner le droit sur la Déclaration de 2007 et d'appliquer le consentement libre, préalable et éclairé (A/HRC/44/40/Add.1, § 53-57). Selon Sahabat Alam Malaysia, en 2012, les seules réserves aborigènes gazettées (13 512 ha) représentent environ 9 % des territoires coutumiers estimés par le gouvernement.", source: "https://docs.un.org/en/A/HRC/44/40/Add.1"}
+chronologie:
+  - {annee: 1954, evenement: "Ordonnance n° 3 de 1954 sur les peuples aborigènes."}
+  - {annee: 1957, evenement: "La Constitution fédérale autorise des mesures de protection des peuples aborigènes de la péninsule, dont la réservation de terres (art. 8(5)(c))."}
+  - {annee: 1974, evenement: "Révision de la loi, devenue Act 134 (en vigueur le 1er juillet 1974)."}
+  - {annee: 2002, evenement: "La Haute Cour de Shah Alam reconnaît le titre coutumier de familles Temuan expropriées à Bukit Tampoi (Selangor) dans l'affaire Sagong Tasi."}
+  - {annee: 2005, evenement: "La Cour d'appel confirme le jugement Sagong Tasi."}
+  - {annee: 2007, evenement: "La Malaisie vote pour la Déclaration des Nations unies sur les droits des peuples autochtones."}
+  - {annee: 2020, evenement: "Rapport du Rapporteur spécial sur l'extrême pauvreté (visite de 2019), qui traite des droits fonciers des peuples autochtones de Malaisie."}
+fiabilite:
+  verifie: ["Sections 3, 4, 6, 7, 8, 12, 16, 17 et 18 de l'Act 134 (réimpression officielle de 2006, Commissioner of Law Revision).", "Art. 8(5)(c), 45(2), 160 et Neuvième annexe de la Constitution fédérale (Constitute Project).", "Population au 31 décembre 2024 (tableau JAKOA).", "CEDAW/C/MYS/CO/3-5, § 41-42, et A/HRC/44/40/Add.1, § 53-57.", "Vote de la Malaisie pour la Déclaration (A/61/PV.107).", "Jugement Sagong Tasi du 12 avril 2002 (Haute Cour de Shah Alam)."]
+  non_confirme: ["Surfaces gazettées : chiffres de 2012 repris d'une source associative (Sahabat Alam Malaysia), qui donne aussi 27 768 ha de terres Orang Asli gazettées au titre de l'Act 134 ou du Code foncier national ; une réserve pouvant être constituée dans une aire (s. 7(1)), l'addition peut compter deux fois certaines terres.", "Arrêt de la Cour d'appel de 2005 (Sagong Tasi) et règlement amiable de 2010 connus seulement par un résumé encyclopédique ; le jugement de 2002 a été lu sur le site du Barreau de Malaisie.", "Nombre de villages Orang Asli : jeu de données JAKOA de 2017 non accessible.", "Modifications de l'Act 134 postérieures à 2006 non vérifiées."]
+sources:
+  - {titre: "Aboriginal Peoples Act 1954 (Act 134), réimpression 2006 — Attorney General's Chambers", url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20134.pdf"}
+  - {titre: "Constitution fédérale de Malaisie — Constitute Project", url: "https://www.constituteproject.org/constitution/Malaysia_2007"}
+  - {titre: "Jadual Taburan Etnik Orang Asli Mengikut Negeri — JAKOA", url: "https://www.jakoa.gov.my/umum/jadual-taburan-etnik-orang-asli-mengikut-negeri/"}
+  - {titre: "Indigenous customary land rights and the modern legal system — Sahabat Alam Malaysia (Friends of the Earth Malaysia)", url: "https://foe-malaysia.org/articles/indigenous-customary-land-rights-and-the-modern-legal-system-5/"}
+  - {titre: "Sagong Tasi & Ors v. Kerajaan Negeri Selangor & Ors, Haute Cour, 12 avril 2002 — Barreau de Malaisie", url: "https://www.malaysianbar.org.my/article/news/court-judgments/judgments/sagong-tasi-ors-v-kerajaan-negeri-selangor-ors-2002-high-court"}
+  - {titre: "Sagong Tasi — Wikipedia", url: "https://en.wikipedia.org/wiki/Sagong_Tasi"}
+  - {titre: "Rapport du Rapporteur spécial sur l'extrême pauvreté, visite en Malaisie, A/HRC/44/40/Add.1 (2020)", url: "https://docs.un.org/en/A/HRC/44/40/Add.1"}
+  - {titre: "CEDAW, observations finales sur la Malaisie, CEDAW/C/MYS/CO/3-5 (2018)", url: "https://docs.un.org/en/CEDAW/C/MYS/CO/3-5"}
+  - {titre: "Assemblée générale, A/61/PV.107 (13 septembre 2007)", url: "https://docs.un.org/fr/A/61/PV.107"}

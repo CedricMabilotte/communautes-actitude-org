@@ -1,0 +1,52 @@
+uid: "autonomies-nationales-culturelles-russie"
+nom: "Autonomies nationales-culturelles de Russie"
+endonyme: ""
+territoire: "Fédération de Russie (organisations à l'échelle d'une commune, d'un sujet de la Fédération ou de la Fédération)"
+etats: ["Russie"]
+region: "europe"
+coord: [55.8, 37.6]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "membres des autonomies nationales-culturelles : aucun chiffre officiel trouvé", source: ""}
+lieux: {valeur: 1101, unite: "autonomies nationales-culturelles enregistrées (820 locales, 259 régionales, 22 fédérales), hors 128 autonomies enregistrées en Crimée, à Sébastopol et dans les régions de Donetsk, Louhansk, Zaporijjia et Kherson", annee: 2026, source: "https://fadn.gov.ru/otkritoe-agenstvo/reestr-nka/"}
+surface_km2: {valeur: null, annee: null, perimetre: "sans objet : autonomie non territoriale", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les autonomies nationales-culturelles créées en application de la loi fédérale n° 74-FZ du 17 juin 1996. Une autonomie nationale-culturelle est une association de citoyens russes qui se rattachent à une communauté ethnique en situation de minorité nationale sur un territoire donné ; elle prend la forme juridique d'une organisation sociale (association à but non lucratif) et se fonde sur une appartenance déclarée, non sur un territoire. Elle existe à trois niveaux : local (commune), régional (sujet de la Fédération, c'est-à-dire entité fédérée) et fédéral. La loi lui reconnaît des droits dans la langue, l'éducation, la culture et les médias, mais précise que ce droit n'est pas un droit à l'autodétermination territoriale. Le registre tenu par l'Agence fédérale des affaires des nationalités compte 1 229 autonomies enregistrées au 21 septembre 2026, dont 22 fédérales et 128 situées en Crimée, à Sébastopol et dans des régions ukrainiennes annexées.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Quatrième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur la Fédération de Russie, ACFC/OP/IV(2018)001, adopté le 20 février 2018 : les autonomies nationales-culturelles (§ 55 à 57) comptent 19 fédérales, 287 régionales et 937 locales ; le Comité regrette qu'aucun domaine ne leur garantisse un pouvoir de décision exclusif et recommande un financement de base pluriannuel ; la Russie a cessé d'être membre du Conseil de l'Europe en 2022", annee: 2018, source: "https://www.ecoi.net/en/file/local/2002328/4_OP_RussianFederation_en.docx.pdf"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi fédérale n° 74-FZ du 17 juin 1996 « Sur l'autonomie nationale-culturelle », dans sa rédaction issue de la loi n° 89-FZ du 1er avril 2022", nature: "loi", annee: 1996, source: "http://kremlin.ru/acts/bank/9578"}
+  - {instrument: "Décret du gouvernement n° 1403 du 11 août 2022 sur la tenue du registre des autonomies nationales-culturelles", nature: "loi", annee: 2022, source: "https://fadn.gov.ru/otkritoe-agenstvo/reestr-nka/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi de 1996 fonde l'autonomie sur l'auto-organisation et l'administration propre (art. 2) ; chaque autonomie forme ses organes de direction et de contrôle selon ses statuts (art. 6), mais elle a le statut d'organisation sociale, forme d'association (art. 1, rédaction de 2003), et la loi ne lui attribue aucune compétence de puissance publique.", source: "http://kremlin.ru/acts/bank/9578"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Les autorités « tiennent compte » des propositions des autonomies dans les programmes régionaux de développement national-culturel et la création d'établissements scolaires (art. 12 et 14) ; un conseil consultatif des autonomies fédérales « peut être créé » auprès de l'organe fédéral chargé de la politique des nationalités et participe à la préparation des textes (art. 7, rédaction de 2022). Le Comité consultatif de la Convention-cadre relève en 2018 qu'aucun droit d'être consulté n'est garanti.", source: "http://kremlin.ru/acts/bank/9578"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "Droit à l'enseignement général de base dans la langue nationale « dans les limites des possibilités offertes par le système éducatif » (art. 10) ; les autonomies peuvent créer des établissements d'enseignement privés (art. 4 et 11, rédaction de 2013) ; les autorités ouvrent des classes en langue nationale « si nécessaire » (art. 12).", source: "http://kremlin.ru/acts/bank/9578"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "La loi précise que le droit à l'autonomie nationale-culturelle n'est pas un droit à l'autodétermination nationale-territoriale (art. 4).", source: "http://kremlin.ru/acts/bank/9578"}
+effectivite: {valeur: "partielle", note: "Le Comité consultatif de la Convention-cadre (2018) note que les autonomies organisent des cours de langue en écoles du dimanche, des groupes de musique et de danse et des médias, mais qu'aucun domaine ne leur garantit un pouvoir de décision exclusif. Alexander Osipov (Nationalities Papers, 2025) constate qu'elles fonctionnent comme les autres associations, sans compétence publique, sans financement garanti et sans participation régulière aux décisions ; le financement public prévu par la loi est peu utilisé. La loi rend facultatif le soutien sur les budgets fédéral et locaux et renvoie celui des sujets de la Fédération à leurs lois (art. 16, rédaction de 2009).", source: "https://www.cambridge.org/core/journals/nationalities-papers/article/cultural-autonomy-zeitgeist-and-simulation-politics-russia-as-a-specimen/5DE184B2F96586FFC2BC282FFC47BD2E"}
+chronologie:
+  - {annee: 1996, evenement: "Loi fédérale n° 74-FZ « Sur l'autonomie nationale-culturelle » (17 juin)."}
+  - {annee: 2003, evenement: "Loi n° 136-FZ (10 novembre) : l'autonomie devient une forme d'organisation sociale, réservée aux citoyens d'une communauté en situation de minorité nationale sur le territoire concerné."}
+  - {annee: 2009, evenement: "Loi n° 11-FZ (9 février) : nouvelle rédaction de l'article 16 sur le financement."}
+  - {annee: 2013, evenement: "Loi n° 185-FZ (2 juillet) : droit de créer des établissements d'enseignement privés."}
+  - {annee: 2014, evenement: "Loi n° 336-FZ (4 novembre) : ajout de l'unité de la nation russe et de l'intégration des migrants aux objets de l'autonomie."}
+  - {annee: 2018, evenement: "Quatrième avis du Comité consultatif de la Convention-cadre (20 février) : 19 autonomies fédérales, 287 régionales et 937 locales."}
+  - {annee: 2022, evenement: "Loi n° 89-FZ (1er avril) : registre public des autonomies et conseil consultatif ; décret n° 1403 (11 août) ; l'Agence fédérale des affaires des nationalités tient le registre depuis le 29 septembre. La Russie cesse d'être membre du Conseil de l'Europe."}
+fiabilite:
+  verifie: ["Texte consolidé de la loi n° 74-FZ (rédaction du 1er avril 2022), art. 1 à 21 : site officiel de la présidence (kremlin.ru).", "Registre des autonomies nationales-culturelles au 21 septembre 2026 (fichier xlsx de l'Agence fédérale des affaires des nationalités) : 1 402 lignes, 1 229 autonomies enregistrées (932 locales, 275 régionales, 22 fédérales) et 173 exclues.", "128 des 1 229 autonomies enregistrées le sont en Crimée (87), à Sébastopol (8), dans les régions de Donetsk (15), Louhansk (1), Zaporijjia (15) et Kherson (2), territoires ukrainiens annexés : elles ne sont comptées ni dans le chiffre des lieux ni dans le tableau.", "Quatrième avis du Comité consultatif de la Convention-cadre, 20 février 2018, § 55 à 57.", "Article d'Alexander Osipov (Nationalities Papers, 2025), section sur le fonctionnement des autonomies : 1 144 autonomies enregistrées au 25 novembre 2024 dans les frontières internationalement reconnues de la Russie.", "Dernière rédaction de la loi n° 74-FZ : loi n° 89-FZ du 1er avril 2022 (aucune modification postérieure relevée au 1er octobre 2026)."]
+  non_confirme: ["Population : le nombre de membres des autonomies n'est publié ni dans le registre ni dans la loi.", "Tableau : l'année est celle de l'inscription au registre unifié des personnes morales (créé en 2002), non toujours celle de la fondation ; les noms sont reproduits en russe tels qu'ils figurent au registre ; les noms des dirigeants, présents dans le registre, ne sont pas repris.", "Aucun document d'un organe de traité de l'ONU nommant les autonomies nationales-culturelles n'a été trouvé (observations finales du CERD de 2017 et 2023 et du Comité des droits de l'homme de 2022 consultées).", "Texte du décret n° 1403 du 11 août 2022 non ouvert ; contenu repris de la page du registre."]
+sources:
+  - {titre: "Loi fédérale n° 74-FZ du 17 juin 1996 « Sur l'autonomie nationale-culturelle » — kremlin.ru", url: "http://kremlin.ru/acts/bank/9578"}
+  - {titre: "Registre des autonomies nationales-culturelles — Agence fédérale des affaires des nationalités", url: "https://fadn.gov.ru/otkritoe-agenstvo/reestr-nka/"}
+  - {titre: "Comité consultatif de la Convention-cadre, quatrième avis sur la Fédération de Russie, ACFC/OP/IV(2018)001 — ecoi.net", url: "https://www.ecoi.net/en/file/local/2002328/4_OP_RussianFederation_en.docx.pdf"}
+  - {titre: "Alexander Osipov, « Cultural Autonomy, Zeitgeist and Simulation Politics: Russia as a Specimen », Nationalities Papers, vol. 53, n° 6, 2025 — Cambridge University Press", url: "https://www.cambridge.org/core/journals/nationalities-papers/article/cultural-autonomy-zeitgeist-and-simulation-politics-russia-as-a-specimen/5DE184B2F96586FFC2BC282FFC47BD2E"}

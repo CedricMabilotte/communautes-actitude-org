@@ -1,0 +1,61 @@
+uid: "aires-habitat-communautaire-territoire-du-nord"
+nom: "Aires d'habitat aborigènes sur baux pastoraux (Territoire du Nord)"
+endonyme: ""
+territoire: "Aboriginal community living areas (aires d'habitat communautaire aborigènes) détachées des baux pastoraux du Territoire du Nord, en majorité dans la région du Central Land Council (conseil foncier du Centre)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-21.0, 134.0]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 100, unite: "aires d'habitat communautaire (« approximately 100 » selon la source), dont 78 dans la région du Central Land Council", annee: 2026, source: "https://ahnt.org.au/country/community-living-areas/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Une Aboriginal community living area (aire d'habitat communautaire aborigène) est une petite parcelle détachée d'un bail pastoral du Territoire du Nord et attribuée en fee simple (pleine propriété) à une association ou corporation aborigène pour y loger une communauté. Le régime découle d'un mémorandum d'accord conclu en 1989 entre le gouvernement fédéral et celui du Territoire, qui fermait les revendications sur les routes de bétail et réserves au titre de la loi fédérale de 1976 sur les droits fonciers ; il figure aujourd'hui dans la partie 8 du Pastoral Land Act 1992 (loi sur les terres pastorales) et à l'article 46(1A) du Lands Acquisition Act 1978 (loi sur l'acquisition des terres). Peuvent demander une aire les Aborigènes qui ont résidé sur le bail à un moment depuis le 1er janvier 1968 ou y ont un lien de résidence historique, et qui justifient d'un besoin actuel, ou tout autre Aborigène avec l'accord écrit du titulaire du bail ; il n'est pas nécessaire d'être propriétaire traditionnel. On compte environ 100 aires dans le Territoire, dont 78 dans la région du Central Land Council (conseil foncier du Centre).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Pastoral Land Act 1992 (Territoire du Nord), partie 8 « Aboriginal community living areas », articles 92 à 114 et 134", nature: "loi", annee: 1992, source: "https://legislation.nt.gov.au/Legislation/PASTORAL-LAND-ACT-1992"}
+  - {instrument: "Lands Acquisition Act 1978 (Territoire du Nord), articles 28A et 46(1A)-(1B), insérés par le Miscellaneous Acts Amendment (Aboriginal Community Living Areas) Act 1989 (n° 78 de 1989)", nature: "loi", annee: 1989, source: "https://legislation.nt.gov.au/Legislation/LANDS-ACQUISITION-ACT-1978"}
+  - {instrument: "Associations Act 2003 (Territoire du Nord), article 110 (biens « prescribed property »)", nature: "loi", annee: 2003, source: "https://legislation.nt.gov.au/Legislation/ASSOCIATIONS-ACT-2003"}
+  - {instrument: "Mineral Titles Act 2010 (Territoire du Nord), articles 61 et 185", nature: "loi", annee: 2010, source: "https://legislation.nt.gov.au/Legislation/MINERAL-TITLES-ACT-2010"}
+  - {instrument: "Local Government Act 2019 (Territoire du Nord), articles 7, 222(1)(l), 223(3)-(4) et 255(2)(b)", nature: "loi", annee: 2019, source: "https://legislation.nt.gov.au/Legislation/LOCAL-GOVERNMENT-ACT-2019"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le titre est détenu par une association constituée selon l'Associations Act 2003 (loi sur les associations) ou par une corporation selon la loi fédérale de 2006 sur les corporations aborigènes, formée ou agréée par les demandeurs (Pastoral Land Act 1992, art. 111(1)) ; cette personne morale est le propriétaire foncier mais n'exerce aucune compétence publique.", source: "https://legislation.nt.gov.au/api/sitecore/Act/PDF?id=12076"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Pleine propriété attribuée à l'association par la publication de l'avis d'acquisition (Lands Acquisition Act 1978, art. 46(1A)) ; expropriation interdite sauf pour les réseaux d'énergie, d'eau, d'assainissement, de routes et de communications, ou en vertu d'une réserve inscrite au titre (art. 28A) ; toute cession, sûreté ou bail de plus de 12 mois exige l'accord du ministre (Associations Act 2003, art. 110) ; une aire inoccupée depuis cinq ans peut être rattachée au bail voisin après avis du tribunal (Pastoral Land Act 1992, art. 114).", source: "https://legislation.nt.gov.au/api/sitecore/Act/PDF?id=11930"}
+  ressources: {valeur: "partiel", note: "Dans les 30 jours suivant l'attribution, le propriétaire peut désigner une zone exclue d'un rayon d'au plus 1 km sur laquelle aucun titre minier n'est accordé sans son accord écrit (Mineral Titles Act 2010, loi sur les titres miniers, art. 61 et 185) ; les titres miniers déjà en vigueur sur la zone ne sont pas affectés (art. 185(5)) et le reste de l'aire reste soumis aux titres miniers (Lands Acquisition Act 1978, art. 46(1B)).", source: "https://legislation.nt.gov.au/api/sitecore/Act/PDF?id=12004"}
+  consentement: {valeur: "partiel", note: "Le consentement écrit du propriétaire n'est requis que pour les titres miniers sur la zone exclue (Mineral Titles Act 2010, art. 185(4)) ; pour la création de l'aire, le titulaire du bail pastoral et le demandeur sont parties devant un tribunal où siègent un membre proposé par le conseil foncier aborigène et un membre proposé par l'organisation des éleveurs (Pastoral Land Act 1992, art. 93).", source: "https://legislation.nt.gov.au/api/sitecore/Act/PDF?id=12004"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Dans sa réponse de 2013 à un document de consultation fédéral, le Central Land Council relève que les associations titulaires ne peuvent, sauf exceptions, accorder de baux à des tiers, que le schéma d'aménagement du Territoire limite les usages permis plus que sur les terres aborigènes, et, reprenant sa contribution à une enquête du Sénat sur la loi Stronger Futures, que les associations créées pour détenir le titre sont souvent radiées faute de respecter leurs obligations déclaratives.", source: "https://www.clc.org.au/wp-content/uploads/2021/04/CLA_Reform-_CLC_Submission_.pdf"}
+chronologie:
+  - {annee: 1976, evenement: "Aboriginal Land Rights (Northern Territory) Act (loi fédérale sur les droits fonciers aborigènes) : une terre sous bail pastoral ne peut être revendiquée que si le bail appartient aux propriétaires traditionnels ; dans les baux, seules les routes de bétail et réserves, terres de la Couronne, restent revendicables."}
+  - {annee: 1989, evenement: "Mémorandum d'accord entre les gouvernements fédéral et du Territoire : fin des revendications sur les routes de bétail et réserves, et lois territoriales sur les aires d'habitat communautaire."}
+  - {annee: 1989, evenement: "Miscellaneous Acts Amendment (Aboriginal Community Living Areas) Act 1989, sanctionné le 22 décembre 1989, en vigueur le 1er mars 1990."}
+  - {annee: 1992, evenement: "Pastoral Land Act 1992 : la partie 8 reprend la procédure et maintient le Community Living Areas Tribunal."}
+  - {annee: 2010, evenement: "Mineral Titles Act 2010 : zone exclue d'un rayon d'au plus 1 km soumise au consentement du propriétaire (art. 185)."}
+  - {annee: 2012, evenement: "Stronger Futures in the Northern Territory Act 2012 (loi fédérale), art. 35 : pouvoir de modifier par règlement les lois du Territoire applicables aux aires d'habitat communautaire."}
+  - {annee: 2019, evenement: "Local Government Act 2019 : les associations titulaires sont exemptées de taxes foncières locales et leurs terres ne peuvent être grevées ni vendues pour impayés (art. 222(1)(l), 223 et 255(2)(b))."}
+  - {annee: 2022, evenement: "Fin de la loi Stronger Futures le 16 juillet 2022, dix ans après son entrée en vigueur (art. 118, clause d'extinction)."}
+fiabilite:
+  verifie: ["Partie 8 du Pastoral Land Act 1992 (version du 27 novembre 2023) : art. 92 (définition du demandeur), 93 (composition du tribunal), 101, 109, 111 et 114.", "Lands Acquisition Act 1978 (version du 10 février 2026) : art. 28A, 46(1A)-(1B) et dates de la loi n° 78 de 1989.", "Associations Act 2003 (version du 22 juin 2026), art. 110.", "Mineral Titles Act 2010 (version du 5 juin 2026), art. 61 et 185.", "Local Government Act 2019 (version du 1er juillet 2026), art. 7, 222(1)(l), 223 et 255.", "78 aires dans la région du Central Land Council (site du Central Land Council) et environ 100 dans le Territoire (Aboriginal Housing NT).", "Liste de 68 aires de la région du Central Land Council (annexe 2 de la réponse du Central Land Council, 2013), contrôlée ligne à ligne.", "Stronger Futures in the Northern Territory Act 2012 (compilation n° 5) : art. 2 (entrée en vigueur le 16 juillet 2012), 35 et 118."]
+  non_confirme: ["Nombre exact d'aires dans le Territoire et liste des aires de la région du Northern Land Council : aucune liste officielle consultée.", "Liste de l'annexe 2 de la réponse du Central Land Council : document numérisé en avril 2013 (métadonnées du fichier), mis en ligne sous un chemin daté d'avril 2021 ; 68 aires listées contre 78 annoncées aujourd'hui par le Central Land Council.", "Population et surface totale des aires.", "Règlements éventuellement pris en vertu de l'art. 35 de la loi Stronger Futures avant son extinction."]
+sources:
+  - {titre: "Pastoral Land Act 1992 — NT Legislation", url: "https://legislation.nt.gov.au/Legislation/PASTORAL-LAND-ACT-1992"}
+  - {titre: "Pastoral Land Act 1992, version consolidée (PDF)", url: "https://legislation.nt.gov.au/api/sitecore/Act/PDF?id=12076"}
+  - {titre: "Lands Acquisition Act 1978, version consolidée (PDF)", url: "https://legislation.nt.gov.au/api/sitecore/Act/PDF?id=11930"}
+  - {titre: "Associations Act 2003, version consolidée (PDF)", url: "https://legislation.nt.gov.au/api/sitecore/Act/PDF?id=11613"}
+  - {titre: "Mineral Titles Act 2010, version consolidée (PDF)", url: "https://legislation.nt.gov.au/api/sitecore/Act/PDF?id=12004"}
+  - {titre: "Local Government Act 2019, version consolidée (PDF)", url: "https://legislation.nt.gov.au/api/sitecore/Act/PDF?id=12389"}
+  - {titre: "Stronger Futures in the Northern Territory Act 2012, compilation n° 5 (PDF) — Federal Register of Legislation", url: "https://www.legislation.gov.au/C2012A00100/2021-09-01/2021-09-01/text/original/pdf"}
+  - {titre: "Central Land Council — Community Living Areas", url: "https://www.clc.org.au/community-living-areas/"}
+  - {titre: "Central Land Council — Community Living Area Land Reform in the Northern Territory Discussion Paper, réponse (2013)", url: "https://www.clc.org.au/wp-content/uploads/2021/04/CLA_Reform-_CLC_Submission_.pdf"}
+  - {titre: "Aboriginal Housing NT — Community living areas", url: "https://ahnt.org.au/country/community-living-areas/"}

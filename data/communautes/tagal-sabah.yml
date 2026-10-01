@@ -1,0 +1,58 @@
+uid: "tagal-sabah"
+nom: "Zones de pêche tagal du Sabah"
+endonyme: "Tagal (bombon)"
+territoire: "Tronçons de rivières gérés par des comités villageois, surtout dans la côte ouest et l'intérieur du Sabah"
+etats: ["Malaisie"]
+region: "asie"
+coord: [5.8, 116.4]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 642, unite: "sites tagal, dans 23 districts et sur plus de 232 rivières, selon le Département des pêches du Sabah cité par un de ses anciens directeurs adjoints", annee: 2025, source: "https://www.theborneopost.com/2025/06/01/reviving-rivers-history-and-success-of-sabah-tagal-system/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés villageoises du Sabah qui gèrent un tronçon de rivière selon le système tagal. Le mot tagal signifie « interdit » en kadazan-dusun ; il désigne une interdiction de pêche décidée par le village, levée à des dates fixées, et sanctionnée par une amende coutumière (sogit). L'Enactment sur la pêche continentale et l'aquaculture de 2003 (loi de l'État du Sabah, en vigueur depuis le 1er avril 2019) permet au ministre de déclarer une « zone de gestion communautaire des pêches » et au directeur des pêches d'en confier la gestion à un comité formé de membres du village (art. 35 et 36). Depuis 2016, le Département des pêches signe aussi des protocoles d'accord avec les comités tagal. En 2025, le Département compte 642 sites dans 23 districts.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Sixième rapport national de la Malaisie à la Convention sur la diversité biologique (décembre 2019) : le système tagal, gestion communautaire des poissons de rivière établie depuis 2000, repose sur l'art. 58 des Native Courts (Native Customary Laws) Rules 1995 et l'art. 36 de l'Enactment de 2003 ; plus de 600 zones tagal sur près de 200 rivières dans 17 districts", annee: 2019, source: "https://www.cbd.int/doc/nr/nr-06/my-nr-06-en.pdf"}
+base_nationale:
+  - {instrument: "Sabah Inland Fisheries and Aquaculture Enactment 2003 (Enactment n° 2 de 2003), art. 5 (2), 35, 36, 37 et 118 (t) ; entré en vigueur le 1er avril 2019 (GN. 89/2019)", nature: "loi", annee: 2003, source: "http://fishdept.sabah.gov.my/wp-content/uploads/2023/01/SabahInlandFisheriesAquacultureEnactment2003.pdf"}
+  - {instrument: "Native Courts (Native Customary Laws) Rules 1995, règle 58 (pouvoirs propres des tribunaux autochtones pour les coutumes non prévues par le règlement)", nature: "coutume_reconnue", annee: 1995, source: "https://sagc.sabah.gov.my/sites/default/files/law/NativeCourts1992%28NativeCustomaryLaws1995%29.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le directeur des pêches peut nommer des agents ou des membres du village ou de la communauté locale pour former le comité qui administre la zone de gestion communautaire des pêches (Enactment de 2003, art. 36) ; il peut, par avis publié au journal officiel, déléguer certains de ses pouvoirs aux membres de ce comité (art. 5 (2)) ; le comité est donc nommé par l'administration, non élu de droit.", source: "http://fishdept.sabah.gov.my/wp-content/uploads/2023/01/SabahInlandFisheriesAquacultureEnactment2003.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les comités fixent les règles du tagal : périodes de fermeture et d'ouverture, interdiction du poison, des explosifs et de certains engins, entrée des personnes extérieures soumise à la permission de la communauté (exemple de Melangkap, Local Biodiversity Outlooks) ; les règlements opposables propres aux zones sont pris par le ministre (Enactment de 2003, art. 118 (t)) et leur violation est punie d'une amende jusqu'à 50 000 ringgits (art. 37).", source: "https://localbiodiversityoutlooks.net/the-community-based-tagal-system-in-sabah-malaysia/"}
+  justice_propre: {valeur: "partiel", note: "Les contrevenants s'exposent à une sanction coutumière (sogit), amende ou bétail (Borneo Post, 2025) ; selon le rapport de la Malaisie à la CDB (2019), le régime s'appuie sur la règle 58 des Native Courts (Native Customary Laws) Rules 1995, qui préserve les pouvoirs propres des tribunaux autochtones (native courts) dans les affaires de droit coutumier non prévues par ces règles mais reconnues par la coutume de la communauté du district ; aucune décision de ces tribunaux sur un tagal n'a été consultée.", source: "https://www.cbd.int/doc/nr/nr-06/my-nr-06-en.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Le comité administre la gestion et la conservation des ressources halieutiques de la zone (Enactment de 2003, art. 36) ; depuis fin 2004, le Département des pêches découpe les tronçons en zone rouge (protection, écotourisme, pêche avec remise à l'eau), jaune (pêche saisonnière encadrée) et verte (pêche toute l'année avec des pratiques traditionnelles) (Borneo Post, 2025) ; la zone reste déclarée par le ministre sur proposition du directeur (art. 35).", source: "http://fishdept.sabah.gov.my/wp-content/uploads/2023/01/SabahInlandFisheriesAquacultureEnactment2003.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Une étude de cas publiée par Local Biodiversity Outlooks (Forest Peoples Programme, 2020), écrite avec le comité « BioBudaya » de Melangkap, compte environ 400 systèmes de cogestion de rivière appliquant le tagal et décrit celui de Melangkap, où des sanctions frappent les contrevenants ; le nombre de sites passe à plus de 600 dans 17 districts en 2019 (rapport à la CDB) et à 642 dans 23 districts en 2025 (Borneo Post) ; le Département des pêches signe des protocoles d'accord avec les comités (Penampang 2023, Telupid 2025, Ranau 2026) ; une étude de l'Universiti Malaysia Sabah sur 15 sites tagal à vocation touristique (2024) trouve que, pour 87,3 % des 400 ménages interrogés, le revenu tiré de ces sites pèse peu dans le revenu total.", source: "https://localbiodiversityoutlooks.net/the-community-based-tagal-system-in-sabah-malaysia/"}
+chronologie:
+  - {annee: 1986, evenement: "Le village de Melangkap (Kota Belud) formalise son tagal de rivière ; des comités bombon de villageois élus le gèrent (bombon : zone soumise à des règles strictes)."}
+  - {annee: 2000, evenement: "Début du programme de gestion communautaire des rivières selon le système tagal, selon le rapport de la Malaisie à la CDB."}
+  - {annee: 2002, evenement: "Le Département des pêches finance le programme et ouvre en janvier un site modèle à la station de Babagon (Penampang) ; un peu plus de 40 sites tagal."}
+  - {annee: 2003, evenement: "Adoption de l'Enactment sur la pêche continentale et l'aquaculture (30 juin), qui crée la zone de gestion communautaire des pêches (art. 35 à 37)."}
+  - {annee: 2004, evenement: "Premier séminaire tagal (25 novembre), avec plus de 40 responsables communautaires et représentants de l'État ; zonage rouge, jaune et vert à la fin de l'année."}
+  - {annee: 2016, evenement: "Premiers protocoles d'accord entre le Département des pêches et des comités tagal."}
+  - {annee: 2019, evenement: "Entrée en vigueur de l'Enactment de 2003 le 1er avril ; le rapport national à la CDB compte plus de 600 zones tagal dans 17 districts."}
+  - {annee: 2025, evenement: "642 sites dans 23 districts, sur plus de 232 rivières."}
+fiabilite:
+  verifie: ["Enactment de 2003, art. 1, 5 (2), 35, 36, 37 et 118 (t), sur la version de référence publiée par le Département des pêches du Sabah (octobre 2020).", "Native Courts (Native Customary Laws) Rules 1995, règle 58 et définition du sogit, sur le site du procureur général de l'État du Sabah.", "Sixième rapport national de la Malaisie à la CDB (2019), passage sur le tagal et note 7.", "Protocoles d'accord avec les comités depuis 2016 (Kampung Babagon Bawah, 2023) et signatures de 2025 (Telupid) et 2026 (Ranau), sur le site du Département des pêches.", "Étude de l'Universiti Malaysia Sabah (2024) : 15 sites, 400 ménages, 87,3 % à faible dépendance."]
+  non_confirme: ["Aucun avis de déclaration d'une zone de gestion communautaire des pêches au journal officiel (art. 35) n'a été trouvé ; on ne sait pas combien des 642 sites sont déclarés selon la loi, liés par protocole d'accord ou reconnus comme tagal traditionnel.", "Le nombre de 642 sites vient d'un article d'un ancien directeur adjoint du Département des pêches, qui l'attribue au Département ; aucune publication officielle de ce chiffre n'a été consultée, et l'article ne dit pas combien de ces sites sont en activité.", "Aucune liste officielle des sites n'a été trouvée : pas de tableau par site.", "Le mode de désignation des comités (élection par le village ou nomination par le directeur) varie selon les sources ; l'élection n'est attestée que pour Melangkap.", "Population, nombre de villages et surface des zones : non trouvés."]
+sources:
+  - {titre: "Sabah Inland Fisheries and Aquaculture Enactment 2003, version de référence — Département des pêches du Sabah", url: "http://fishdept.sabah.gov.my/wp-content/uploads/2023/01/SabahInlandFisheriesAquacultureEnactment2003.pdf"}
+  - {titre: "Native Courts (Native Customary Laws) Rules 1995 — Procureur général de l'État du Sabah", url: "https://sagc.sabah.gov.my/sites/default/files/law/NativeCourts1992%28NativeCustomaryLaws1995%29.pdf"}
+  - {titre: "Sixth National Report of Malaysia to the Convention on Biological Diversity (2019) — CDB", url: "https://www.cbd.int/doc/nr/nr-06/my-nr-06-en.pdf"}
+  - {titre: "Reviving rivers: history and success of Sabah Tagal system — The Borneo Post (2025)", url: "https://www.theborneopost.com/2025/06/01/reviving-rivers-history-and-success-of-sabah-tagal-system/"}
+  - {titre: "The community-based tagal system in Sabah, Malaysia — Local Biodiversity Outlooks", url: "https://localbiodiversityoutlooks.net/the-community-based-tagal-system-in-sabah-malaysia/"}
+  - {titre: "Tagal MOU Kampung Babagon Bawah, Penampang (2023) — Département des pêches du Sabah", url: "http://fishdept.sabah.gov.my/2023/06/tagal-mou-kampung-babagon-bawah-penampang/"}
+  - {titre: "Protocole d'accord tagal avec les comités de Kampung Kopuran et Kampung Besta Ria, Telupid (2025) — Département des pêches du Sabah", url: "http://fishdept.sabah.gov.my/2025/05/majlis-menandatangani-memorandum-persefahaman-m-o-u-tagal-antara-jabatan-perikanan-sabah-dengan-jawatankuasa-tagal-kampung-kopuran-dan-kampung-besta-ria-telupid/"}
+  - {titre: "Protocole d'accord tagal avec trois comités du district de Ranau (2026) — Département des pêches du Sabah", url: "https://fishdept.sabah.gov.my/2026/05/majlis-menandatangani-memorandum-persefahaman-mou-tagal-di-antara-jabatan-perikanan-sabah-dan-3-buah-jawatankuasa-tagal-daerah-ranau/"}
+  - {titre: "Assessing tagal community dependency on ecotourism-based tagal, Journal of Sustainability Science and Management 19 (5), 2024 — Universiti Malaysia Sabah", url: "https://doi.org/10.46754/jssm.2024.05.001"}

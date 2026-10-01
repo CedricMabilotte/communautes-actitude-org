@@ -1,0 +1,55 @@
+uid: "zaisanku-japon"
+nom: "Circonscriptions de biens (zaisanku) du Japon"
+endonyme: "財産区 (zaisanku)"
+territoire: "Parties de communes (souvent d'anciens villages) dans 42 préfectures du Japon"
+etats: ["Japon"]
+region: "asie"
+coord: [34.9, 134.5]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 3913, unite: "circonscriptions de biens actives inscrites au registre des numéros d'entreprise (430 communes, 42 préfectures)", annee: 2026, source: "https://www.houjin-bangou.nta.go.jp/setsumei/images/property_ward.pdf"}
+surface_km2: {valeur: 4577.7, annee: 2025, perimetre: "terres des zaisanku déclarées par les communes, par catégorie de bien principal : forêts 3 904 km², landes 384 km², autres terres 235 km², eaux d'irrigation et marais 30 km², terrains bâtis 19 km², cimetières 5 km² (enquête au 1er avril 2025, 3 883 zaisanku)", source: "https://www.soumu.go.jp/main_content/001062176.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le zaisanku (« circonscription de biens ») est une collectivité publique spéciale formée par une partie d'une commune, le plus souvent un ancien village, qui possède en propre des biens ou des équipements : forêts surtout, canaux d'irrigation, marais, cimetières, terrains, sources chaudes.
+  La loi sur l'autonomie locale de 1947 (art. 1-3 et 294 à 297) lui donne la personnalité juridique, un compte séparé et, au choix de la commune, une assemblée, une assemblée générale des habitants ou un conseil de gestion de sept membres au plus.
+  Le maire de la commune gère ces biens, avec le consentement du conseil de gestion pour les décisions désignées par arrêté municipal.
+  Au 25 août 2026, l'Agence nationale des impôts recense 3 913 zaisanku actifs ; les préfectures d'Osaka, de Hyogo et d'Okayama en comptent le plus.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi sur l'autonomie locale (地方自治法, loi n° 67 de 1947), art. 1-3 al. 3 et livre III, chapitre 4, art. 294 à 297", nature: "loi", annee: 1947, source: "https://hourei.net/law/322AC0000000067"}
+  - {instrument: "Loi sur l'autonomie locale, art. 238-6 : usage des biens publics selon les « usages anciens » (旧慣)", nature: "loi", annee: 1947, source: "https://hourei.net/law/322AC0000000067"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Art. 295 et 296 de la loi sur l'autonomie locale : le gouverneur de préfecture peut faire créer par arrêté municipal une assemblée élue ou une assemblée générale du zaisanku ; art. 296-2 : à défaut, la commune peut instituer par arrêté un conseil de gestion (財産区管理会) de sept membres au plus, non permanents, nommés pour quatre ans ; art. 296-3 : le maire peut lui déléguer la gestion des biens et le conseil peut contrôler les comptes. Ces organes restent facultatifs et l'exécutif est le maire de la commune ; au 1er avril 2025, 1 495 zaisanku sur 3 883 n'avaient aucun organe propre (enquête du ministère de l'Intérieur).", source: "https://hourei.net/law/322AC0000000067"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Art. 1-3 al. 3, art. 2 et art. 294 de la loi sur l'autonomie locale : le zaisanku est une personne morale de droit public qui possède des biens ou des équipements publics ; leur gestion et leur aliénation suivent le droit des biens des collectivités, et l'art. 296-5 al. 1 lui impose de s'efforcer d'accroître le bien-être de ses habitants sans porter atteinte à l'unité de la commune.", source: "https://hourei.net/law/322AC0000000067"}
+  ressources: {valeur: "partiel", note: "Art. 294 al. 2 : les dépenses propres aux biens sont à la charge du zaisanku ; art. 296-5 al. 2 : la commune peut, après concertation avec le zaisanku, affecter tout ou partie des revenus de ces biens à ses propres dépenses ; elle peut alors, dans la limite du montant affecté, appliquer aux habitants du zaisanku une imposition ou des redevances différenciées.", source: "https://hourei.net/law/322AC0000000067"}
+  consentement: {valeur: "partiel", note: "Art. 296-3 al. 1 : le maire doit obtenir le consentement du conseil de gestion pour les actes de gestion ou d'aliénation importants fixés par arrêté municipal ; art. 296-5 al. 3 : l'accord sur l'affectation des revenus à la commune exige une délibération de l'assemblée ou le consentement du conseil de gestion.", source: "https://hourei.net/law/322AC0000000067"}
+  langue: {valeur: "non_applicable", note: "Le zaisanku est une entité de gestion de biens, sans dimension linguistique.", source: ""}
+  education: {valeur: "non_applicable", note: "Le zaisanku est une entité de gestion de biens, sans compétence éducative.", source: ""}
+  fiscalite: {valeur: "partiel", note: "Art. 294 al. 3 : la commune tient un compte séparé pour les recettes et les dépenses du zaisanku ; la loi ne lui donne pas de pouvoir fiscal propre.", source: "https://hourei.net/law/322AC0000000067"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "Le zaisanku se compose d'un territoire et de l'ensemble de ses habitants ; il ne crée pas de statut personnel.", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "Sans objet pour une subdivision communale de gestion de biens.", source: ""}
+effectivite: {valeur: "effective", note: "Une étude universitaire sur le district de Yamaguni (Kyoto) indique qu'en 2003 le zaisanku de Yamaguni gérait 5 % des forêts du district, puis qu'il a été dissous en 2005 et remplacé par des associations de quartier agréées (Shimada, International Journal of the Commons, 2014). Le registre de l'Agence nationale des impôts liste 3 913 zaisanku actifs au 25 août 2026 et 56 fermetures entre 2015 et 2025.", source: "https://thecommonsjournal.org/articles/10.18352/ijc.348"}
+chronologie:
+  - {annee: 1889, evenement: "Entrée en vigueur du régime municipal de l'ère Meiji : les fusions de villages laissent des biens aux anciens villages, origine des zaisanku."}
+  - {annee: 1947, evenement: "La loi sur l'autonomie locale désigne le zaisanku comme collectivité publique spéciale."}
+  - {annee: 1954, evenement: "Révision de la loi : création du conseil de gestion et principes de l'art. 296-5 (bien-être des habitants, unité de la commune)."}
+  - {annee: 2005, evenement: "Dissolution du zaisanku de Yamaguni (Kyoto), remplacé par des associations de quartier agréées."}
+  - {annee: 2026, evenement: "Le registre de l'Agence nationale des impôts compte 3 913 zaisanku actifs (25 août)."}
+fiabilite:
+  verifie: ["Texte des art. 1-3, 238-6 et 294 à 297 de la loi sur l'autonomie locale (version consolidée reprise de la base e-Gov).", "Liste nominative de 3 969 zaisanku, dont 56 marqués « fermé », publiée par l'Agence nationale des impôts (état au 25 août 2026).", "Biens détenus (forêts surtout, canaux d'irrigation, marais, cimetières, terrains bâtis, terres agricoles, sources chaudes) : publication du Conseil des collectivités locales pour les relations internationales, sur le site du ministère de l'Intérieur.", "Enquête du ministère de l'Intérieur au 1er avril 2025 : 3 883 zaisanku dans 421 communes, surfaces par catégorie de bien et organes (570 assemblées, 1 814 conseils de gestion, 4 assemblées générales, 1 495 sans organe)."]
+  non_confirme: ["Écart entre les deux décomptes officiels : 3 883 zaisanku pour le ministère de l'Intérieur (1er avril 2025), 3 913 actifs au registre de l'Agence nationale des impôts (25 août 2026) ; le registre peut garder des entités inactives non radiées.", "La date 1889 vient de la ville de Yao et d'une encyclopédie en ligne ; la date 1954 (conseil de gestion, art. 296-5) vient de l'encyclopédie en ligne seule.", "La surface publiée par le ministère est ventilée par catégorie de bien principal ; la prise en compte des biens secondaires n'est pas précisée. Population concernée : aucun chiffre national trouvé.", "Le rattachement communal du tableau suit l'adresse du siège inscrite au registre, en général la mairie."]
+sources:
+  - {titre: "Loi sur l'autonomie locale (地方自治法), texte consolidé — hourei.net (reprise de e-Gov)", url: "https://hourei.net/law/322AC0000000067"}
+  - {titre: "Liste des zaisanku (財産区一覧) — Agence nationale des impôts, site des numéros d'entreprise", url: "https://www.houjin-bangou.nta.go.jp/setsumei/images/property_ward.pdf"}
+  - {titre: "Enquête sur les zaisanku (財産区に関する調), état au 1er avril 2025 — ministère de l'Intérieur et des Communications", url: "https://www.soumu.go.jp/main_content/001062176.pdf"}
+  - {titre: "Le système d'autonomie locale au Japon (édition révisée 2023) — CLAIR, ministère de l'Intérieur et des Communications", url: "https://www.soumu.go.jp/main_content/000770124.pdf"}
+  - {titre: "Shimada D., External impacts on traditional commons and present-day changes: a case study of iriai forests in Yamaguni district, Kyoto, Japan, International Journal of the Commons, 2014", url: "https://thecommonsjournal.org/articles/10.18352/ijc.348"}
+  - {titre: "Zaisanku — ville de Yao (Osaka)", url: "https://www.city.yao.osaka.jp/0000013200.html"}
+  - {titre: "財産区 — Wikipédia en japonais", url: "https://ja.wikipedia.org/wiki/財産区"}

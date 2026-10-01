@@ -1,0 +1,65 @@
+uid: "falekaupule-tuvalu"
+nom: "Assemblées des îles de Tuvalu (falekaupule)"
+endonyme: "Falekaupule"
+territoire: "Les neuf îles de Tuvalu, réparties en huit aires d'autorité de falekaupule (Niulakita rattachée à Niutao), eaux intérieures, lagons et premiers 12 milles de mer territoriale compris"
+etats: ["Tuvalu"]
+region: "oceanie"
+coord: [-8.5, 179.2]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: ["communaute_locale"]
+population: {valeur: 10954, annee: 2025, perimetre: "population de Tuvalu (liste de population 2025 de la Division centrale de la statistique), soit l'ensemble des aires de falekaupule", source: "https://stats.gov.tv/"}
+lieux: {valeur: 8, unite: "falekaupule établis par l'annexe 1 de la loi sur les falekaupule (Funafuti, Nanumaga, Nanumea, Niutao et Niulakita, Nui, Nukufetau, Nukulaelae, Vaitupu) ; la base mondiale des aires protégées recense en outre 9 aires gérées par les kaupule", annee: 2008, source: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
+surface_km2: {valeur: 25.9, annee: 2016, perimetre: "terres émergées des neuf îles, sans les lagons ni la mer territoriale qui font aussi partie des aires d'autorité", source: "https://www.cbd.int/doc/world/tv/tv-nr-05-en.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les huit falekaupule de Tuvalu, assemblées traditionnelles de chaque île « composées selon l'Aganu », c'est-à-dire la coutume locale. La loi sur les falekaupule de 1997 (chap. 4.08, en vigueur en 1999) en fait l'autorité locale de chaque île, avec un organe exécutif élu de six membres, le kaupule, qui exerce les fonctions de l'annexe 3 (agriculture, pêche, écoles primaires, aménagement, ordre public). Le kaupule lève les taxes locales et adopte des règlements locaux (bye-laws) avec l'approbation du falekaupule ; la base mondiale des aires protégées lui attribue la gestion de neuf aires de conservation marines et terrestres. La Constitution révisée, entrée en vigueur le 1er octobre 2023, reconnaît à l'article 140 le falekaupule comme autorité traditionnelle de gouvernement de chaque île.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Cinquième rapport national de Tuvalu à la Convention sur la diversité biologique : aires de conservation établies sur huit des neuf atolls ; dans les atolls extérieurs, elles ont été créées par les communautés, sont gérées selon les systèmes traditionnels et protégées par des règlements locaux ; interdictions de collecte posées par des falekaupule et des kaupule ; renforcement des capacités des falekaupule comme objectif du plan d'action", annee: 2016, source: "https://www.cbd.int/doc/world/tv/tv-nr-05-en.pdf"}
+  - {mecanisme: "registre_apac", detail: "Base mondiale des aires protégées (WDPA) du PNUE-WCMC : 9 aires à Tuvalu (8 aires marines gérées localement et 1 aire de conservation communautaire), gouvernance « communautés locales », propriété « communale », autorité de gestion : le kaupule de chaque île", annee: 2026, source: "https://www.protectedplanet.net/country/TUV"}
+base_nationale:
+  - {instrument: "Loi sur les falekaupule (Falekaupule Act 1997, chap. 4.08, édition révisée 2008)", nature: "loi", annee: 1997, source: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
+  - {instrument: "Loi sur les aires de conservation (Conservation Areas Act 1999), art. 6 à 9", nature: "loi", annee: 1999, source: "https://cbfm.spc.int/countries/tuvalu"}
+  - {instrument: "Constitution de Tuvalu révisée en 2023, partie VIII, art. 140 (rôle du falekaupule comme autorité traditionnelle de gouvernement de chaque île) et principes du préambule", nature: "constitution", annee: 2023, source: "https://www.constituteproject.org/constitution/Tuvalu_2023"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Loi sur les falekaupule, art. 4 et 5 et annexe 1 : huit falekaupule établis, chacun doté d'un kaupule de six membres élus, organe exécutif doté de la personnalité morale (art. 6) ; le falekaupule élit le président (pule o kaupule), approuve le budget, les règlements et les nominations ; assemblée de tous les résidents de 18 ans et plus tous les trois mois (art. 121).", source: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
+  pouvoir_normatif: {valeur: "partiel", note: "Loi sur les falekaupule, art. 53 et 54 : le kaupule adopte, avec l'approbation du falekaupule, des règlements ayant force de loi dans l'aire du falekaupule, rédigés en tuvaluan, qui peuvent reprendre ou modifier des règles coutumières ; la loi nationale prévaut et le procureur général peut déclarer un règlement invalide (art. 54, al. 10).", source: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Loi sur les falekaupule, art. 4, al. 2 : l'aire d'autorité comprend les eaux intérieures, les lagons et les 12 premiers milles de mer territoriale, sous réserve des lois sur la propriété des terres, du rivage, de la faune marine et des minéraux ; art. 40 et annexe 3, par. 1 (n) et (o) : gestion de la pêche côtière, exercée avec les autorités nationales. Selon la Communauté du Pacifique, la loi sur les aires de conservation de 1999 (art. 6 à 9) réserve au ministre la déclaration des aires de conservation et permet au kaupule de conclure des accords de conservation marine ; chaque kaupule fixe les règles de son aire marine gérée localement, et chaque île dispose d'un plan de gestion des pêches côtières 2024-2027.", source: "https://cbfm.spc.int/countries/tuvalu"}
+  consentement: {valeur: "partiel", note: "Loi sur les falekaupule, art. 40, al. 5 : le ministre détermine en consultation avec chaque falekaupule quelles fonctions relèvent du falekaupule et lesquelles de l'État ; art. 124 et 125 : consultation du pule o kaupule avant tout transfert de pouvoirs et procédure de consultation du falekaupule. Il s'agit d'une consultation, sans droit de veto.", source: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
+  langue: {valeur: "partiel", note: "Loi sur les falekaupule, art. 54, al. 1 (a) : les règlements locaux sont rédigés en tuvaluan.", source: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
+  education: {valeur: "partiel", note: "Loi sur les falekaupule, annexe 3, par. 3 : construire, équiper et gérer des écoles maternelles et primaires, accorder des bourses, superviser la scolarité obligatoire des 5 à 15 ans conformément à la loi sur l'éducation ; ces fonctions s'exercent avec les autres autorités chargées d'appliquer cette loi (note de l'annexe 3), et les écoles autres que primaires requièrent l'accord du ministre.", source: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
+  fiscalite: {valeur: "partiel", note: "Loi sur les falekaupule, art. 83 et 84 : le kaupule est la seule autorité qui lève des taxes locales dans l'aire du falekaupule (taxe de développement communautaire par tête, taxe foncière, taxe sur les biens), avec l'approbation du falekaupule en assemblée ; budget propre approuvé par le falekaupule (art. 5) ; le ministre fixe par règlement l'assiette et l'incidence de ces taxes (art. 86) et approuve toute taxe spéciale (art. 84, al. 2).", source: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Loi sur les falekaupule, art. 2, al. 1 et 2, et art. 123 : le droit de vote au falekaupule suit l'Aganu de chaque île ; une personne qui travaille ailleurs dans le pays reste résidente de l'aire où elle déclare son domicile, présumé être son lieu de naissance, pour l'inscription électorale et les taxes locales.", source: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le profil 2017-2018 du Forum des collectivités locales du Commonwealth, les kaupule n'assurent que les services que leurs ressources permettent, les transferts aux collectivités locales représentaient 0,21 % des dépenses publiques au budget 2017 et une révision de la loi était engagée ; le rapport national à la CDB de 2016 note le braconnage dans les aires de conservation et un usage limité des règles coutumières par les kaupule.", source: "http://www.clgf.org.uk/default/assets/File/Country_profiles/Tuvalu.pdf"}
+chronologie:
+  - {annee: 1966, evenement: "Ordonnance sur l'administration locale : conseils de gouvernement local dans les îles, cadre maintenu après l'indépendance de 1978 jusqu'en 1999."}
+  - {annee: 1997, evenement: "Adoption de la loi sur les falekaupule, qui remplace les conseils locaux par les kaupule, organes exécutifs des falekaupule."}
+  - {annee: 1999, evenement: "Entrée en vigueur de la loi sur les falekaupule ; loi sur les aires de conservation et arrêté créant l'aire de conservation de Funafuti."}
+  - {annee: 2013, evenement: "Modification de la loi sur les falekaupule (nouvelle modification de l'art. 14 en 2016)."}
+  - {annee: 2023, evenement: "Entrée en vigueur, le 1er octobre, de la Constitution révisée qui reconnaît les falekaupule comme autorités traditionnelles de gouvernement des îles."}
+fiabilite:
+  verifie:
+    - "Définition du falekaupule « composé selon l'Aganu de chaque île » et de l'Aganu (art. 2), établissement des huit falekaupule et de leurs aires d'autorité (art. 4, annexe 1), kaupule de six membres (art. 8), règlements locaux (art. 53 et 54), taxes locales (art. 83 et 84), assemblée trimestrielle (art. 121) : texte de la loi, édition révisée 2008."
+    - "Neuf aires (18 parcelles) gérées par les kaupule, gouvernance « communautés locales », propriété « communale », surfaces et années par parcelle : base WDPA consultée en octobre 2026."
+    - "Article 140 (partie VIII) de la Constitution révisée de 2023 : « The role of the Falekaupule, as the island traditional governing authority on each of the islands of Tuvalu, is hereby recognized » ; texte du Constitute Project."
+    - "Ordonnance de 1966, modifications de la loi en mars 2013 et de l'art. 14 en 2016, révision de la loi engagée : profil 2017-2018 du Forum des collectivités locales du Commonwealth."
+    - "Aires de conservation établies sur huit des neuf atolls ; aire de conservation de Funafuti créée en 1999 par arrêté : cinquième rapport national à la CDB (2016)."
+  non_confirme:
+    - "Texte de la loi sur les aires de conservation de 1999 (art. 6 à 9) : connu par le résumé de la CPS, non consulté directement."
+    - "Année de création de l'aire de Funafuti : 1999 selon le rapport à la CDB, 1996 dans la base WDPA ; surface de 33 km² selon le rapport, 40 km² dans la base."
+    - "Régime foncier coutumier (loi sur les terres autochtones, tribunaux fonciers) : non documenté ici comme droit du falekaupule ; selon le rapport à la CDB, environ 95 % des terres sont des terres coutumières détenues par des individus, avec quelques terres communales."
+sources:
+  - {titre: "Falekaupule Act, chap. 4.08, édition révisée 2008 (texte intégral)", url: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
+  - {titre: "Commonwealth Local Government Forum — The local government system in Tuvalu, profil 2017-2018", url: "http://www.clgf.org.uk/default/assets/File/Country_profiles/Tuvalu.pdf"}
+  - {titre: "Tuvalu — Cinquième rapport national à la Convention sur la diversité biologique (2016)", url: "https://www.cbd.int/doc/world/tv/tv-nr-05-en.pdf"}
+  - {titre: "Protected Planet (PNUE-WCMC) — Tuvalu", url: "https://www.protectedplanet.net/country/TUV"}
+  - {titre: "Communauté du Pacifique — Gestion communautaire des pêches à Tuvalu", url: "https://cbfm.spc.int/countries/tuvalu"}
+  - {titre: "Constitute Project — Constitution de Tuvalu (2023)", url: "https://www.constituteproject.org/constitution/Tuvalu_2023"}
+  - {titre: "Devpolicy Blog — Tuvalu Constitution updated: culture, climate change and decolonisation (2023)", url: "https://devpolicy.org/tuvalu-constitution-updated-culture-climate-change-and-decolonisation-20230921/"}
+  - {titre: "Division centrale de la statistique de Tuvalu", url: "https://stats.gov.tv/"}
+  - {titre: "Wikipédia (anglais) — Falekaupule", url: "https://en.wikipedia.org/wiki/Falekaupule"}

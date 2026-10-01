@@ -1,0 +1,50 @@
+uid: "cantons-ethniques-chine"
+nom: "Cantons ethniques de Chine"
+endonyme: ""
+territoire: "Cantons ethniques créés dans les provinces, régions autonomes et municipalités de Chine"
+etats: ["Chine"]
+region: "asie"
+coord: [30.0, 105.0]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 1173, unite: "cantons ethniques (minzu xiang)", annee: 2003, source: "https://ie.china-embassy.gov.cn/eng/zt/ChinasTibet/201404/t20140409_2540529.htm"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les nationalités minoritaires titulaires d'un canton ethnique (minzu xiang), circonscription administrative de base créée là où une minorité vit regroupée mais trop peu nombreuse pour une zone autonome. Un canton dont la population minoritaire atteint au moins 30 % peut demander ce statut, un taux un peu inférieur étant admis dans des cas particuliers ; la création est décidée par le gouvernement de la province, de la région autonome ou de la municipalité, règlement sur le travail administratif des cantons ethniques du 15 septembre 1993 (art. 2 et 3). Le chef de canton est issu de la nationalité minoritaire pour laquelle le canton a été créé ; le gouvernement du canton utilise la langue d'usage local et bénéficie d'un régime financier préférentiel. Le canton ethnique ne relève pas de l'autonomie régionale des nationalités et ne dispose d'aucun pouvoir de réglementation propre. Le livre blanc de 2005 comptait 1 173 cantons ethniques fin 2003 et indiquait que neuf des onze nationalités dépourvues de zone autonome disposaient de cantons ethniques.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République populaire de Chine, art. 30 et 99", nature: "constitution", annee: 1982, source: "https://www.constituteproject.org/constitution/China_2018"}
+  - {instrument: "Règlement sur le travail administratif des cantons ethniques (民族乡行政工作条例), approuvé par le Conseil des affaires d'État le 29 août 1993, publié par la Commission d'État aux affaires ethniques le 15 septembre 1993", nature: "loi", annee: 1993, source: "https://xzfg.moj.gov.cn/front/law/detail?LawID=384"}
+  - {instrument: "Loi organique sur les assemblées populaires locales et les gouvernements populaires locaux, art. 70 (version révisée de 2022)", nature: "loi", annee: 2022, source: "https://www.gov.cn/xinwen/2022-03/12/content_5678642.htm"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le canton ethnique a une assemblée populaire et un gouvernement de droit commun ; le chef de canton est un citoyen de la nationalité minoritaire pour laquelle le canton a été créé, loi organique sur les assemblées et gouvernements locaux, art. 70 (2022) ; l'assemblée peut prendre, dans les limites fixées par la loi, des mesures adaptées aux particularités de la nationalité, Constitution, art. 99, et loi organique, art. 12 (2022). Le canton n'est pas un organe d'autogouvernement au sens de la Constitution (art. 30 et 95).", source: "https://www.gov.cn/xinwen/2022-03/12/content_5678642.htm"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Le canton gère et protège ses ressources naturelles et exploite en priorité celles qu'il peut mettre en valeur ; les entreprises qui exploitent ces ressources tiennent compte des intérêts du canton et de l'embauche de la population minoritaire locale, règlement de 1993, art. 12.", source: "https://xzfg.moj.gov.cn/front/law/detail?LawID=384"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Le gouvernement du canton utilise, dans l'exercice de ses fonctions, la langue et l'écriture d'usage courant dans la localité, règlement de 1993, art. 5 ; le texte ne désigne pas nommément la langue minoritaire et ne lui donne pas de statut officiel.", source: "https://xzfg.moj.gov.cn/front/law/detail?LawID=384"}
+  education: {valeur: "partiel", note: "Les écoles primaires et secondaires du canton peuvent enseigner dans la langue minoritaire d'usage local, tout en diffusant le putonghua (chinois standard) ; les écoles qui enseignent dans la langue minoritaire peuvent recevoir un budget de fonctionnement et des effectifs supérieurs à ceux des écoles ordinaires, règlement de 1993, art. 14.", source: "https://xzfg.moj.gov.cn/front/law/detail?LawID=384"}
+  fiscalite: {valeur: "partiel", note: "Le régime financier du canton est fixé par la province selon un principe de traitement préférentiel ; le niveau supérieur lui réserve une marge budgétaire, et les recettes excédentaires comme les économies de dépenses restent au canton, règlement de 1993, art. 8 ; les gouvernements de district et de niveau supérieur peuvent accorder des réductions et exonérations d'impôts, art. 10.", source: "https://xzfg.moj.gov.cn/front/law/detail?LawID=384"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune évaluation onusienne ou indépendante de l'application du règlement de 1993 n'a été trouvée ; seul le décompte officiel de 2003 a été vérifié.", source: ""}
+chronologie:
+  - {annee: 1982, evenement: "La Constitution inscrit le canton ethnique parmi les divisions administratives (art. 30) et autorise son assemblée à prendre des mesures adaptées aux particularités de la nationalité (art. 99)."}
+  - {annee: 1993, evenement: "Le Conseil des affaires d'État approuve le règlement sur le travail administratif des cantons ethniques, publié le 15 septembre."}
+  - {annee: 2003, evenement: "1 173 cantons ethniques sont recensés à la fin de l'année."}
+  - {annee: 2005, evenement: "Livre blanc sur l'autonomie régionale des minorités ethniques, qui publie ce décompte."}
+  - {annee: 2022, evenement: "La loi organique révisée maintient l'obligation d'un chef de canton issu de la nationalité minoritaire (art. 70)."}
+fiabilite:
+  verifie: ["Texte intégral du règlement de 1993, art. 2, 3, 5, 8, 10, 12 et 14 (base de données législative du ministère de la Justice).", "Art. 70 de la loi organique révisée de 2022 (gov.cn) : le chef de canton ethnique est issu de la nationalité minoritaire ; art. 12 : mesures adaptées aux particularités de la nationalité.", "Art. 30, 95, 99 et 107 de la Constitution (Constitute Project).", "1 173 cantons ethniques fin 2003 et neuf des onze nationalités sans zone autonome dotées de cantons ethniques (livre blanc de 2005)."]
+  non_confirme: ["Nombre actuel de cantons ethniques : aucun décompte officiel postérieur à 2003 n'a été ouvert ; un décompte non officiel donne 1 093 cantons en 2007.", "Aucune liste officielle des cantons n'a été ouverte ; pas de tableau des sites.", "Population, surface et nombre de villages des cantons ethniques : aucune source officielle trouvée.", "Aucune source indépendante ni observation d'organe de traité sur l'application du régime n'a été trouvée."]
+sources:
+  - {titre: "民族乡行政工作条例 (1993) — base de données législative du ministère de la Justice", url: "https://xzfg.moj.gov.cn/front/law/detail?LawID=384"}
+  - {titre: "Loi organique sur les assemblées populaires locales et les gouvernements populaires locaux (révision de 2022) — gov.cn", url: "https://www.gov.cn/xinwen/2022-03/12/content_5678642.htm"}
+  - {titre: "Constitution de la République populaire de Chine — Constitute Project", url: "https://www.constituteproject.org/constitution/China_2018"}
+  - {titre: "Livre blanc 2005 : Regional Autonomy for Ethnic Minorities in China — ambassade de Chine en Irlande", url: "https://ie.china-embassy.gov.cn/eng/zt/ChinasTibet/201404/t20140409_2540529.htm"}

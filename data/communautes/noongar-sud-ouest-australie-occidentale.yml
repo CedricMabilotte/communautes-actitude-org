@@ -1,0 +1,66 @@
+uid: "noongar-sud-ouest-australie-occidentale"
+nom: "Noongar (sud-ouest de l'Australie-Occidentale)"
+endonyme: "Noongar"
+territoire: "Sud-ouest de l'Australie-Occidentale (zone du South West Native Title Settlement)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-32.5, 116.5]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 40000, annee: null, perimetre: "Noongar concernés par le règlement, estimation du South West Aboriginal Land and Sea Council (organisme noongar de services centraux)", source: "https://www.noongar.org.au/"}
+lieux: {valeur: 6, unite: "zones d'accord (ILUA) dotées chacune d'une corporation régionale noongar", annee: 2023, source: "https://www.wa.gov.au/system/files/2023-02/Fact%20sheet%201%20-%20%20About%20the%20South%20West%20Native%20Title%20Settlement.pdf"}
+surface_km2: {valeur: 200000, annee: 2023, perimetre: "zone du règlement (six zones d'accord), valeur arrondie donnée par le gouvernement de l'Australie-Occidentale", source: "https://www.wa.gov.au/system/files/2023-02/Fact%20sheet%201%20-%20%20About%20the%20South%20West%20Native%20Title%20Settlement.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Noongar vivent dans le sud-ouest de l'Australie-Occidentale, de la région de Perth à Albany. Une loi de l'État de 2016 les reconnaît comme propriétaires traditionnels (Traditional Owners) du sud-ouest. Le South West Native Title Settlement, règlement négocié avec l'État et formé de six accords d'usage des terres autochtones (Indigenous Land Use Agreements, ILUA), est en vigueur depuis le 25 février 2021 sur environ 200 000 km². En échange de l'abandon du titre autochtone (native title, droits fonciers reconnus par le droit fédéral) dans cette zone, il crée un fonds fiduciaire (Noongar Boodja Trust), six corporations régionales noongar, une base foncière, la cogestion du domaine de conservation et un accord-type sur le patrimoine.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le CERD recommande à l'Australie de protéger les droits fonciers des peuples autochtones et d'inscrire le principe du consentement préalable, libre et éclairé dans la loi de 1993 sur les titres fonciers autochtones (CERD/C/AUS/CO/18-20, par. 21-22) ; le document vise les peuples autochtones d'Australie sans nommer les Noongar.", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Noongar (Koorah, Nitja, Boordahwan) (Past, Present, Future) Recognition Act 2016 (loi n° 9 de 2016, Australie-Occidentale)", nature: "loi", annee: 2016, source: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/main_mrtitle_13755_homepage.html"}
+  - {instrument: "Six accords d'usage des terres autochtones du South West Native Title Settlement (signés le 8 juin 2015, en vigueur le 25 février 2021), conclus en application du Native Title Act 1993", nature: "accord_revendication", annee: 2021, source: "https://www.wa.gov.au/government/publications/south-west-native-title-settlement-indigenous-land-use-agreements"}
+  - {instrument: "Land Administration (South West Native Title Settlement) Act 2016 (Australie-Occidentale), proclamée le 6 juin 2016", nature: "loi", annee: 2016, source: "https://www.wa.gov.au/government/publications/south-west-native-title-settlement-timeline"}
+  - {instrument: "McGlade v Native Title Registrar [2017] FCAFC 10, Cour fédérale (formation plénière)", nature: "jurisprudence", annee: 2017, source: "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/full/2017/2017fcafc0010"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Six corporations régionales noongar, nommées en octobre-novembre 2022 et parties aux ILUA depuis le 9 décembre 2022, représentent les groupes d'accord et gèrent les terres culturelles de leur région. Quatre des six administrateurs de chaque corporation sont élus par les membres par vote postal ; les décisions touchant aux intérêts culturels sont prises après avis d'un comité d'anciens (Cultural Advice Committee) élu par les membres. Les corporations sont financées par le Noongar Boodja Trust.", source: "https://www.wa.gov.au/system/files/2023-02/Fact%20sheet%203%20-%20Noongar%20Corporations_0.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le règlement prévoit le transfert au Noongar Boodja Trust de 300 000 ha au plus en réserve ou bail et de 20 000 ha au plus en pleine propriété ; les terres culturelles ne peuvent être ni vendues ni exploitées commercialement. En contrepartie, les ILUA prévoient l'abandon à l'État de tous les droits du titre autochtone dans la zone (McGlade, 2017).", source: "https://www.wa.gov.au/organisation/department-of-planning-lands-and-heritage/noongar-land-estate-south-west-native-title-settlement"}
+  ressources: {valeur: "partiel", note: "Les ILUA (annexes M et N) prévoient six accords de gestion coopérative du domaine de conservation (forêts d'État, parcs nationaux, réserves naturelles, parcs marins) entre le service de la conservation de l'État et chaque corporation régionale ; leurs comités mixtes donnent un avis stratégique. Des organes de cogestion, comptant jusqu'à six membres désignés par la corporation, gèrent des parcs ou réserves précis selon un plan de gestion : au moins un par zone d'accord dans les cinq ans, un second dans les dix ans.", source: "https://www.wa.gov.au/system/files/2021-10/Co-Operative%20and%20Joint%20Management%20of%20the%20Conservation%20Estate%20Factsheet.pdf"}
+  consentement: {valeur: "partiel", note: "Depuis le 8 juin 2015, les services de l'État doivent conclure un accord-type sur le patrimoine (Noongar Standard Heritage Agreement) avec le groupe concerné lorsqu'ils conduisent une prospection patrimoniale (Aboriginal Heritage Survey) ; les titres miniers ou pétroliers accordés depuis cette date portent l'obligation de conclure un accord sur le patrimoine. Les autres usagers, collectivités locales et propriétaires privés compris, n'y sont pas tenus ; l'autorisation de porter atteinte à un site reste régie par l'article 18 de l'Aboriginal Heritage Act 1972 (loi de l'État sur le patrimoine aborigène).", source: "https://www.wa.gov.au/system/files/2023-02/Fact%20sheet%204%20-%20Noongar%20Standard%20Heritage%20Agreements.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "L'État verse au Noongar Boodja Trust douze annuités, chacune de 50 millions de dollars australiens pour un fonds de capital (Future Fund) et de 10 millions pour le fonctionnement des corporations noongar, à partir d'avril 2021. Un fiduciaire professionnel (Perpetual Trustee Company Limited) gère l'ensemble des actifs du règlement pendant les douze premières années, à compter du 29 mars 2021. Aucun pouvoir fiscal.", source: "https://www.wa.gov.au/government/publications/noongar-boodja-trust"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon la corporation régionale Gnaala Karla Booja, l'État a effectué les versements au Noongar Boodja Trust le 22 avril 2021 et le 26 avril 2022 et signé le premier transfert de terres le 14 juillet 2021. Le transfert des terres est progressif : le dernier chiffre public trouvé, publié par le gouvernement en juillet 2021, est d'environ 1 016 ha sur un maximum de 320 000 ha.", source: "https://gkb.org.au/settlement"}
+chronologie:
+  - {annee: 2015, evenement: "Signature des six ILUA par l'État (8 juin) ; entrée en application de l'accord-type sur le patrimoine."}
+  - {annee: 2016, evenement: "Loi de reconnaissance des Noongar, proclamée le 6 juin."}
+  - {annee: 2017, evenement: "Arrêt McGlade de la Cour fédérale : quatre ILUA jugés non valides faute de signature de tous les demandeurs."}
+  - {annee: 2018, evenement: "Enregistrement des six ILUA par le greffier du titre autochtone (17 octobre)."}
+  - {annee: 2019, evenement: "La Cour fédérale confirme l'enregistrement (19 décembre)."}
+  - {annee: 2020, evenement: "La Haute Cour rejette les demandes d'autorisation d'appel (26 novembre)."}
+  - {annee: 2021, evenement: "Entrée en vigueur du règlement (25 février) ; création du Noongar Boodja Trust (29 mars) ; premiers versements (22 avril)."}
+  - {annee: 2022, evenement: "Nomination de la corporation de services centraux (juin) et des six corporations régionales (octobre-novembre) ; transfert des droits des ILUA aux corporations (9 décembre)."}
+fiabilite:
+  verifie: ["Titre, numéro (9 de 2016) et date d'assentiment (16 mai 2016) de la loi de reconnaissance (registre législatif de l'Australie-Occidentale).", "Date d'entrée en vigueur, surface, six ILUA et six corporations régionales (fiches officielles du gouvernement, 2023).", "Superficies de la base foncière et inaliénabilité des terres culturelles (page officielle du Noongar Land Estate).", "Abandon du titre autochtone prévu par les ILUA (arrêt McGlade, 2017).", "Montants et durée des versements au Noongar Boodja Trust ; gestion des actifs par un fiduciaire professionnel pendant douze ans.", "Dates d'enregistrement des ILUA (17 octobre 2018), de l'arrêt confirmatif (19 décembre 2019) et du rejet par la Haute Cour (26 novembre 2020).", "Composition et rôle des comités de gestion coopérative et des organes de cogestion (fiche officielle)."]
+  non_confirme: ["Population : estimation non datée du South West Aboriginal Land and Sea Council.", "Surface de terres effectivement transférée à ce jour (dernier chiffre trouvé : juillet 2021).", "Nombre d'accords de cogestion conclus pour des parcs ou réserves précis.", "Révision du dispositif patrimonial du règlement après les changements de la loi de l'État sur le patrimoine aborigène depuis 2021."]
+sources:
+  - {titre: "Gouvernement de l'Australie-Occidentale — South West Native Title Settlement", url: "https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/south-west-native-title-settlement"}
+  - {titre: "Noongar Recognition Act 2016 — registre législatif de l'Australie-Occidentale", url: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/main_mrtitle_13755_homepage.html"}
+  - {titre: "Fiche officielle — About the South West Native Title Settlement (2023)", url: "https://www.wa.gov.au/system/files/2023-02/Fact%20sheet%201%20-%20%20About%20the%20South%20West%20Native%20Title%20Settlement.pdf"}
+  - {titre: "Fiche officielle — Noongar Corporations (2023)", url: "https://www.wa.gov.au/system/files/2023-02/Fact%20sheet%203%20-%20Noongar%20Corporations_0.pdf"}
+  - {titre: "Fiche officielle — Co-operative and Joint Management of the Conservation Estate", url: "https://www.wa.gov.au/system/files/2021-10/Co-Operative%20and%20Joint%20Management%20of%20the%20Conservation%20Estate%20Factsheet.pdf"}
+  - {titre: "Fiche officielle — Noongar Standard Heritage Agreements (2023)", url: "https://www.wa.gov.au/system/files/2023-02/Fact%20sheet%204%20-%20Noongar%20Standard%20Heritage%20Agreements.pdf"}
+  - {titre: "Noongar Land Estate — ministère de la Planification, des Terres et du Patrimoine", url: "https://www.wa.gov.au/organisation/department-of-planning-lands-and-heritage/noongar-land-estate-south-west-native-title-settlement"}
+  - {titre: "Noongar Boodja Trust — gouvernement de l'Australie-Occidentale", url: "https://www.wa.gov.au/government/publications/noongar-boodja-trust"}
+  - {titre: "South West Native Title Settlement — actualités et calendrier", url: "https://www.wa.gov.au/government/publications/south-west-native-title-settlement-news"}
+  - {titre: "South West Native Title Settlement — calendrier officiel", url: "https://www.wa.gov.au/government/publications/south-west-native-title-settlement-timeline"}
+  - {titre: "Gnaala Karla Booja Aboriginal Corporation — The Settlement", url: "https://gkb.org.au/settlement"}
+  - {titre: "McGlade v Native Title Registrar [2017] FCAFC 10 — Cour fédérale d'Australie", url: "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/full/2017/2017fcafc0010"}
+  - {titre: "South West Aboriginal Land and Sea Council — Noongar", url: "https://www.noongar.org.au/"}
+  - {titre: "Ballardong Aboriginal Corporation — Noongar Recognition Act", url: "https://ballardong.org.au/noongar-recognition-act"}
+  - {titre: "CERD — Observations finales sur l'Australie, CERD/C/AUS/CO/18-20 (2017)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}

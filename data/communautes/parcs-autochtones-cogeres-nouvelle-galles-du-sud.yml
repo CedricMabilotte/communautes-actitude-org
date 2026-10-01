@@ -1,0 +1,62 @@
+uid: "parcs-autochtones-cogeres-nouvelle-galles-du-sud"
+nom: "Parcs aborigènes de Nouvelle-Galles du Sud"
+endonyme: ""
+territoire: "Six ensembles de parcs et réserves de Nouvelle-Galles du Sud : Mutawintji, Mount Grenfell, Biamanga, Gulaga, Worimi, Gaagal Wanggaan"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-32.5, 148.0]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 6, unite: "ensembles de terres rendus et loués à l'État sous la partie 4A (Biamanga, Gaagal Wanggaan, Gulaga, Mutawintji, Mount Grenfell, Worimi)", annee: 2016, source: "https://alc.org.au/wp-content/uploads/2019/12/160421-accessing-country-3-joint-management-part-4a-updated-2.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La partie 4A de la National Parks and Wildlife Act 1974 (loi de Nouvelle-Galles du Sud sur les parcs nationaux), ajoutée par la National Parks and Wildlife Amendment (Aboriginal Ownership) Act de décembre 1996, permet de rendre des parcs et réserves inscrits à l'annexe 14 de la loi à un conseil foncier aborigène local, qui en détient la pleine propriété inaliénable au nom des propriétaires aborigènes. Les terres sont aussitôt louées au ministre de l'Environnement pour 30 ans renouvelables et restent des aires protégées ouvertes au public. Un conseil de gestion (board of management) à majorité de propriétaires aborigènes en a la charge, et le loyer est affecté à la gestion du parc. Six ensembles relèvent de ce régime, de Mutawintji (1998) à Gaagal Wanggaan (2010) ; ce régime est distinct des revendications foncières de l'Aboriginal Land Rights Act 1983.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "National Parks and Wildlife Act 1974 (Nouvelle-Galles du Sud), partie 4A et annexe 14, issues de la National Parks and Wildlife Amendment (Aboriginal Ownership) Act 1996", nature: "loi", annee: 1996, source: "https://www.environment.nsw.gov.au/sites/default/files/mutawintji-lease-back-agreement.pdf"}
+  - {instrument: "Aboriginal Land Rights Act 1983 (Nouvelle-Galles du Sud) : registre des propriétaires aborigènes et s. 36A (règlement de revendications par la partie 4A)", nature: "loi", annee: 1983, source: "https://alc.org.au/wp-content/uploads/2019/12/160421-accessing-country-3-joint-management-part-4a-updated-2.pdf"}
+  - {instrument: "Baux de Mutawintji (1998), Mount Grenfell (2004), Biamanga et Gulaga (2006), Worimi (2007) et Gaagal Wanggaan (2010) entre les conseils fonciers aborigènes locaux et le ministre de l'Environnement", nature: "accord_revendication", annee: 1998, source: "https://www.environment.nsw.gov.au/topics/parks-reserves-and-protected-areas/park-management/aboriginal-joint-management/about-aboriginal-joint-management"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque ensemble est placé sous un conseil de gestion nommé par le ministre (s. 71AN), à majorité de propriétaires aborigènes, avec des représentants du ou des conseils fonciers locaux (deux pour Biamanga), du service des parcs, de la collectivité locale, des associations de conservation et des voisins ; ce conseil reste soumis aux directives du ministre, sauf pour le contenu de ses avis et rapports (s. 71AO).", source: "https://www.environment.nsw.gov.au/sites/default/files/biamanga-national-park-lease-back-agreement.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les terres deviennent une pleine propriété inaliénable (inalienable freehold) détenue par le conseil foncier aborigène local au nom des propriétaires aborigènes (s. 71O, citée dans les baux), mais elles sont louées à l'État pour 30 ans renouvelables d'un commun accord par périodes d'au moins 30 ans et restent des aires protégées avec accès général du public (s. 71AD(1)(m)).", source: "https://www.environment.nsw.gov.au/sites/default/files/biamanga-national-park-lease-back-agreement.pdf"}
+  ressources: {valeur: "partiel", note: "Les propriétaires aborigènes, et les Aborigènes autorisés par les membres aborigènes du conseil de gestion, peuvent chasser, pêcher et cueillir des aliments traditionnels pour un usage domestique, cérémoniel et culturel, dans les limites de la loi, du plan de gestion et des autorisations du conseil de gestion, sans arme à feu (bail de Biamanga, 2006, cl. 13.9 et 13.10).", source: "https://www.environment.nsw.gov.au/sites/default/files/biamanga-national-park-lease-back-agreement.pdf"}
+  consentement: {valeur: "partiel", note: "Le bail est révisé au moins tous les cinq ans par l'État, les conseils fonciers et les membres aborigènes du conseil de gestion ; un amendement requiert leur accord, et à défaut un arbitrage tenu de préserver les droits conférés aux propriétaires aborigènes (s. 71AH et 71BJ, bail de Biamanga, cl. 5.8).", source: "https://www.environment.nsw.gov.au/sites/default/files/biamanga-national-park-lease-back-agreement.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le ministre verse un loyer annuel indexé (210 000 dollars australiens pour Biamanga en 2006, 275 000 pour Mutawintji en 1998) sur un compte distinct ; ce loyer n'est pas versé au conseil foncier mais dépensé sur décision du conseil de gestion pour la gestion du parc, le développement communautaire ou, avec l'accord du ministre, l'achat de terres à ajouter au parc (s. 139(5), bail de Biamanga, cl. 6.8 et 6.9).", source: "https://www.environment.nsw.gov.au/sites/default/files/biamanga-national-park-lease-back-agreement.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Le gouvernement de Nouvelle-Galles du Sud constate que les modèles de gestion conjointe existants, dont la partie 4A, donnent aux Aborigènes des niveaux de participation aux décisions variables et des retombées économiques inégales, et prépare depuis 2022 un modèle commun ; aucune évaluation publiée des six conseils de gestion n'a été trouvée.", source: "https://www.environment.nsw.gov.au/topics/parks-reserves-and-protected-areas/park-management/aboriginal-joint-management/developing-a-new-model-for-aboriginal-joint-management-of-national-parks"}
+chronologie:
+  - {annee: 1983, evenement: "Le 4 septembre, les propriétaires aborigènes bloquent l'entrée du site historique de Mutawintji (alors Mootwingee) pour en réclamer la propriété."}
+  - {annee: 1996, evenement: "Adoption à l'unanimité de la National Parks and Wildlife Amendment (Aboriginal Ownership) Act, qui crée la partie 4A."}
+  - {annee: 1998, evenement: "Le 4 septembre, les terres de Mutawintji sont dévolues au conseil foncier aborigène local de Mutawintji et louées au ministre : premier bail du régime."}
+  - {annee: 2004, evenement: "Bail du site historique de Mount Grenfell, détenu par le conseil foncier de Cobar au nom des Ngiyampaa Wangaaypuwan."}
+  - {annee: 2006, evenement: "Le 6 mai, remise des parcs nationaux de Biamanga et de Gulaga aux propriétaires aborigènes yuin."}
+  - {annee: 2007, evenement: "Les terres de Worimi, attribuées au conseil foncier de Worimi, sont classées parc national, aire de conservation d'État et parc régional."}
+  - {annee: 2010, evenement: "Le 23 avril, accord sur le parc national de Gaagal Wanggaan (South Beach) avec les Gumbaynggirr."}
+  - {annee: 2022, evenement: "Avenants aux baux de Biamanga et de Gulaga en janvier ; le gouvernement de l'État annonce un nouveau modèle de gestion conjointe."}
+fiabilite:
+  verifie: ["Six ensembles sous bail de la partie 4A (fiche du NSW Aboriginal Land Council).", "Bail de 30 ans, renouvelable, conseil de gestion à majorité de propriétaires aborigènes, composition et usage du loyer (page du ministère de l'Environnement de Nouvelle-Galles du Sud et bail de Biamanga).", "Sections 71AD, 71AH, 71AN, 71AO, 71BJ et 139(5) citées dans le bail de Biamanga ; s. 71O citée dans le bail de Mutawintji.", "Dates : Mutawintji 4 septembre 1998 (bail), Mount Grenfell juillet 2004 (bail), Biamanga et Gulaga 6 mai 2006 (discours du ministre), Worimi 2007 (site des Worimi Conservation Lands), Gaagal Wanggaan 23 avril 2010 (NSW National Parks).", "Loyers initiaux : 210 000 dollars (Biamanga) et 275 000 dollars (Mutawintji).", "Adoption de la loi de 1996 en décembre, à l'unanimité des deux chambres (préambule du bail de Mutawintji).", "La page du ministère mise à jour le 15 janvier 2024 ne cite pas d'autre accord de propriété et de bail que ces six ensembles."]
+  non_confirme: ["Le texte consolidé de la National Parks and Wildlife Act 1974 n'a pas pu être ouvert (legislation.nsw.gov.au inaccessible) ; les numéros de sections viennent des baux.", "Surface de chaque ensemble, sauf Worimi (4 200 ha selon le site des Worimi Conservation Lands).", "Nombre de propriétaires aborigènes inscrits au registre pour chaque ensemble.", "Existence d'un septième bail conclu après janvier 2024.", "Conseil foncier titulaire du parc de Gaagal Wanggaan."]
+sources:
+  - {titre: "NSW Aboriginal Land Council — Accessing Country 3 : joint management, Part 4A", url: "https://alc.org.au/wp-content/uploads/2019/12/160421-accessing-country-3-joint-management-part-4a-updated-2.pdf"}
+  - {titre: "Ministère de l'Environnement de Nouvelle-Galles du Sud — About Aboriginal joint management", url: "https://www.environment.nsw.gov.au/topics/parks-reserves-and-protected-areas/park-management/aboriginal-joint-management/about-aboriginal-joint-management"}
+  - {titre: "Ministère de l'Environnement de Nouvelle-Galles du Sud — Aboriginal ownership and lease-back agreements", url: "https://www.environment.nsw.gov.au/topics/parks-reserves-and-protected-areas/park-management/aboriginal-joint-management/how-aboriginal-joint-management-works/aboriginal-ownership-and-lease-back-agreements"}
+  - {titre: "Ministère de l'Environnement de Nouvelle-Galles du Sud — Developing a new model for Aboriginal joint management", url: "https://www.environment.nsw.gov.au/topics/parks-reserves-and-protected-areas/park-management/aboriginal-joint-management/developing-a-new-model-for-aboriginal-joint-management-of-national-parks"}
+  - {titre: "Bail du parc national de Biamanga (2006)", url: "https://www.environment.nsw.gov.au/sites/default/files/biamanga-national-park-lease-back-agreement.pdf"}
+  - {titre: "Biamanga and Gulaga National Park Aboriginal Ownership and Leaseback Agreements", url: "https://www.environment.nsw.gov.au/publications/biamanga-and-gulaga-national-park-aboriginal-ownership-and-leaseback-agreements"}
+  - {titre: "Discours du ministre de l'Environnement pour la remise de Biamanga et Gulaga (6 mai 2006)", url: "https://www.environment.nsw.gov.au/sites/default/files/biamanga-gulaga-environment-minister-handback-speech.pdf"}
+  - {titre: "Bail des terres de Mutawintji (1998)", url: "https://www.environment.nsw.gov.au/sites/default/files/mutawintji-lease-back-agreement.pdf"}
+  - {titre: "Bail du site historique de Mount Grenfell (2004)", url: "https://www.environment.nsw.gov.au/sites/default/files/mount-grenfell-lease-agreement.pdf"}
+  - {titre: "Gaagal Wanggaan National Park Aboriginal Ownership and Leaseback Agreement — eLibrary du ministère", url: "https://nswdpe.intersearch.com.au/nswdpejspui/handle/1/13494"}
+  - {titre: "NSW National Parks — Gaagal Wanggaan (South Beach) National Park", url: "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/gaagal-wanggaan-south-beach-national-park"}
+  - {titre: "Worimi Conservation Lands — History of the park", url: "https://worimiconservationlands.com/parkhistory/"}
+  - {titre: "Worimi Conservation Lands — accueil (surface de 4 200 ha)", url: "https://www.worimiconservationlands.com/"}

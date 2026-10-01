@@ -1,0 +1,58 @@
+uid: "hakka-taiwan"
+nom: "Hakka de Taïwan"
+endonyme: "客家人"
+territoire: "70 cantons, villes et districts de 11 villes et comtés, surtout à Taoyuan, Hsinchu, Miaoli, Taichung, Kaohsiung, Pingtung, Hualien et Taitung"
+etats: ["Taïwan"]
+region: "asie"
+coord: [24.6, 121.0]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 4669000, annee: 2021, perimetre: "personnes répondant à la définition légale de Hakka dans tout Taïwan (19,8 % de la population), estimation de l'enquête nationale du Conseil des affaires hakka ; la population des 70 zones n'est pas isolée", source: "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%A3%94%E8%87%BA%E7%81%A3%E4%BA%BA"}
+lieux: {valeur: 70, unite: "cantons, villes et districts désignés zones de développement culturel hakka", annee: 2017, source: "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg023039/ch02/type3/gov14/num2/images/Eg01.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Hakka forment le deuxième groupe de population de Taïwan. La loi fondamentale sur les Hakka, adoptée en 2010 et révisée le 29 décembre 2017 (promulguée le 31 janvier 2018), fait du hakka une langue nationale et protège les « droits collectifs du groupe hakka ». Dans les cantons et districts où les Hakka forment au moins un tiers de la population, désignés par le Conseil des affaires hakka (ministère chargé des Hakka) comme zones de développement culturel hakka, le hakka est langue d'usage public. Les droits portent sur la langue, l'enseignement et l'administration ; la loi ne crée pas d'institution propre.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi fondamentale sur les Hakka (客家基本法), révisée le 29 décembre 2017, promulguée le 31 janvier 2018", nature: "loi", annee: 2018, source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0140005"}
+  - {instrument: "Règlement sur le hakka langue d'usage public (客語為通行語實施辦法), 26 novembre 2018", nature: "loi", annee: 2018, source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0140019"}
+  - {instrument: "Avis du Conseil des affaires hakka n° 1000002677 du 25 février 2011 désignant 69 zones de développement culturel hakka", nature: "loi", annee: 2011, source: "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg017036/ch02/type3/gov14/num4/Eg.htm"}
+  - {instrument: "Avis du Conseil des affaires hakka n° 1060002892 du 24 février 2017 ajoutant le district de Daxi (liste de 70 zones)", nature: "loi", annee: 2017, source: "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg023039/ch02/type3/gov14/num2/Eg.htm"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Les politiques publiques et l'aménagement régional doivent tenir compte des droits et du développement du groupe hakka (art. 7) ; dans les districts de municipalités spéciales issus d'anciens cantons et classés zones hakka, le gouvernement doit tenir compte de la volonté des Hakka et garantir le développement autonome de leur langue et de leur culture (art. 8, al. 2), loi fondamentale de 2018. Aucune obligation de consentement.", source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0140005"}
+  langue: {valeur: "reconnu", note: "Le hakka est une langue nationale, égale aux langues des autres groupes (art. 3) ; dans les cantons et districts où les Hakka forment au moins un tiers de la population, il est l'une des langues d'usage public (通行語), et la langue d'usage public principale dans les municipalités, comtés, villes, cantons et districts où ils formaient au moins la moitié de la population à l'entrée en vigueur de la révision (art. 4, al. 2) ; les agents publics et les enseignants de ces zones doivent être certifiés en hakka dans une proportion égale à la part des Hakka dans la population locale (art. 9), loi fondamentale de 2018.", source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0140005"}
+  education: {valeur: "partiel", note: "Dans les zones où le hakka est langue d'usage public, les écoles maternelles et les écoles de l'enseignement obligatoire doivent garantir aux enfants le droit d'apprendre en hakka et d'être enseignés en hakka (règlement du 26 novembre 2018, art. 9, pris pour l'application de l'art. 4 de la loi fondamentale ; art. 12 de la loi) ; les écoles restent gérées par l'État et les collectivités.", source: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0140019"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune évaluation publiée de l'application des articles 4, 9 et 12 n'a été consultée. Le règlement de 2018 fixe un délai de huit ans pour la certification en hakka des agents publics et des enseignants (art. 13) ; aucun bilan n'a été consulté. Le Taipei Times (janvier 2016, avant la révision) rapporte que 22,8 % des Hakka de 19 à 29 ans parlent la langue.", source: "https://www.taipeitimes.com/News/feat/archives/2016/01/25/2003637997"}
+chronologie:
+  - {annee: 2010, evenement: "Première loi fondamentale sur les Hakka."}
+  - {annee: 2011, evenement: "Le Conseil des affaires hakka désigne 69 zones de développement culturel hakka (avis du 25 février)."}
+  - {annee: 2017, evenement: "Ajout du district de Daxi (Taoyuan), soit 70 zones (avis du 24 février)."}
+  - {annee: 2017, evenement: "Le Yuan législatif (parlement) adopte la révision de la loi fondamentale (29 décembre)."}
+  - {annee: 2018, evenement: "Promulgation de la loi révisée (31 janvier), en vigueur le 2 février."}
+  - {annee: 2018, evenement: "Règlement sur le hakka langue d'usage public (26 novembre)."}
+fiabilite:
+  verifie: ["Texte des articles 1 à 21 de la loi fondamentale révisée, version en vigueur (Base nationale des lois, dernière modification le 31 janvier 2018).", "Texte du règlement du 26 novembre 2018 sur le hakka langue d'usage public (art. 1 à 16).", "Liste des 69 zones de 2011 (Journal officiel du Yuan exécutif).", "Ajout de Daxi et liste complète de 70 zones dans 11 villes et comtés (annexe PDF de l'avis du 24 février 2017, Journal officiel) ; les 70 lignes du tableau correspondent à cette liste.", "Adoption de la révision le 29 décembre 2017 (Taipei Times)."]
+  non_confirme: ["Une désignation postérieure à 2017, fondée sur l'enquête de population de 2021, n'a pas été trouvée ; la liste de 70 zones est celle de 2017. Le site du Conseil des affaires hakka n'a pas pu être consulté.", "Noms des zones : la table reprend les noms administratifs actuels ; l'avis de 2011 utilisait les anciens noms de Taoyuan (comté, cantons) et l'avis de 2017 écrit encore Toufen « 頭份鎮 » (aujourd'hui 頭份市).", "Population de 4 669 000 Hakka (2021) reprise de Wikipédia, qui cite le rapport du Conseil des affaires hakka ; rapport non ouvert.", "Les cantons de Tai'an (Miaoli) et Heping (Taichung) sont aussi des régions autochtones ; le régime conjoint (loi, art. 4, al. 2 et art. 9, al. 3 ; règlement de 2018, art. 15) est inscrit, son application n'est pas documentée."]
+sources:
+  - {titre: "客家基本法 (Loi fondamentale sur les Hakka, version en vigueur) — Base nationale des lois, ministère de la Justice", url: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0140005"}
+  - {titre: "客語為通行語實施辦法 (Règlement sur le hakka langue d'usage public, 26 novembre 2018) — Base nationale des lois, ministère de la Justice", url: "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0140019"}
+  - {titre: "Annexe de l'avis n° 1060002892 : liste des 70 zones — Journal officiel du Yuan exécutif (PDF, 2017)", url: "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg023039/ch02/type3/gov14/num2/images/Eg01.pdf"}
+  - {titre: "Avis n° 1000002677 désignant 69 zones de développement culturel hakka — Journal officiel du Yuan exécutif (2011)", url: "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg017036/ch02/type3/gov14/num4/Eg.htm"}
+  - {titre: "Avis n° 1060002892 ajoutant le district de Daxi — Journal officiel du Yuan exécutif (2017)", url: "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg023039/ch02/type3/gov14/num2/Eg.htm"}
+  - {titre: "臺灣客家文化重點發展區 — Wikipédia", url: "https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%AE%A2%E5%AE%B6%E6%96%87%E5%8C%96%E9%87%8D%E9%BB%9E%E7%99%BC%E5%B1%95%E5%8D%80"}
+  - {titre: "客家裔臺灣人 (population, enquêtes du Conseil des affaires hakka) — Wikipédia", url: "https://zh.wikipedia.org/wiki/%E5%AE%A2%E5%AE%B6%E8%A3%94%E8%87%BA%E7%81%A3%E4%BA%BA"}
+  - {titre: "Hakka made an official language — Taipei Times (30 décembre 2017)", url: "https://www.taipeitimes.com/News/taiwan/archives/2017/12/30/2003684894"}
+  - {titre: "Study of Hakka language to become mandatory in designated regions — Taipei Times (25 juin 2017)", url: "https://www.taipeitimes.com/News/taiwan/archives/2017/06/25/2003673260"}
+  - {titre: "Demographic shift spells language decline — Taipei Times (25 janvier 2016)", url: "https://www.taipeitimes.com/News/feat/archives/2016/01/25/2003637997"}

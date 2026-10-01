@@ -1,0 +1,58 @@
+uid: "ile-lord-howe"
+nom: "Insulaires de l'île Lord Howe"
+endonyme: ""
+territoire: "Île Lord Howe et îles voisines, mer de Tasman, à environ 600 km à l'est de la côte de la Nouvelle-Galles du Sud"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-31.6, 159.1]
+type: "collectivite_autonome"
+base: "mixte"
+types_secondaires: ["communaute_locale"]
+population: {valeur: 445, annee: 2021, perimetre: "personnes recensées ayant leur résidence habituelle dans la localité de Lord Howe Island (recensement australien de 2021) ; inclut les résidents qui n'ont pas le statut d'Islander", source: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL12396"}
+lieux: {valeur: 1, unite: "île habitée administrée par le Lord Howe Island Board", annee: 2026, source: "https://www.lhib.nsw.gov.au/environment/world-heritage"}
+surface_km2: {valeur: 14.55, annee: 2026, perimetre: "île principale (1 455 hectares), hors îlots et Ball's Pyramid", source: "https://www.lhib.nsw.gov.au/environment/world-heritage"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'île Lord Howe, rattachée à la Nouvelle-Galles du Sud depuis 1855, est administrée par le Lord Howe Island Board, un organisme public (statutory authority) créé par le Lord Howe Island Act 1953. La loi définit un statut d'« Islander » (insulaire) : personnes résidant sur l'île avant le 1er janvier 1982 et titulaires, ou proches d'un titulaire, d'une autorisation d'occupation antérieure au 22 avril 1954, et toute personne y résidant de façon continue depuis 10 ans. Depuis 1982, des Islanders élus par les résidents siègent au Board ; depuis 2004, ils en occupent 4 sièges sur 7, sous la direction du ministre de l'État. Toute la terre reste propriété de la Couronne et les baux perpétuels résidentiels sont réservés aux Islanders, sauf si aucun Islander n'est preneur.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Lord Howe Island Act 1953 (loi de Nouvelle-Galles du Sud n° 39 de 1953), modifié notamment en 1968, 1981-1982 et 2004", nature: "loi", annee: 1953, source: "https://www.lhib.nsw.gov.au/sites/default/files/2022-08/Information%2520Sheet%25201%2520-%2520History%2520of%2520the%2520Lord%2520Howe%2520Island%2520Act%25201953%5B1%5D.pdf"}
+  - {instrument: "Lord Howe Island Regulation 2014 (règlement d'application : élection des membres du Board, transfert et sous-location des baux perpétuels, loyers maximaux)", nature: "loi", annee: 2014, source: "https://www.lhib.nsw.gov.au/sites/default/files/2022-08/Information%2520Sheet%25201%2520-%2520History%2520of%2520the%2520Lord%2520Howe%2520Island%2520Act%25201953%5B1%5D.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Lord Howe Island Board compte 7 membres : 4 Islanders élus par les résidents et 3 membres nommés par le ministre (Lord Howe Island Act 1953, modifié en 2004) ; le Board est chargé de la garde, du contrôle et de la gestion de l'île, de ses affaires et de son commerce, et reste soumis en tout (hors rapports et recommandations) à la direction et au contrôle du ministre de l'Environnement de Nouvelle-Galles du Sud.", source: "https://www.lhib.nsw.gov.au/about"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Toute la terre de l'île appartient à la Couronne et aucun titre de pleine propriété (freehold) ne peut y être créé ; le ministre ne peut accorder de bail perpétuel résidentiel qu'à un Islander, et un bail ne passe à un non-Islander que si le Board constate qu'aucun Islander n'est disposé à le reprendre (Lord Howe Island Act 1953, art. 23(4)) ; tout transfert est approuvé par le ministre sur recommandation du Board, et un transfert à un non-Islander exige aussi l'accord du gouverneur.", source: "https://www.lhib.nsw.gov.au/sites/default/files/2023-11/Information%20Sheet%203%20-%20Owning%20and%20Inheriting%20Land%20on%20Lord%20Howe%20Island.PDF"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "La loi définit l'Islander (insulaire) : personne ayant résidé sur l'île de façon continue pendant les 10 dernières années, ou y résidant avant le 1er janvier 1982 et titulaire, ou proche d'un titulaire, d'une autorisation d'occupation antérieure au 22 avril 1954 ; ce statut ouvre la priorité sur les baux et l'éligibilité au Board (Lord Howe Island Act 1953, modifié en 1982).", source: "https://www.lhib.nsw.gov.au/sites/default/files/2022-09/Information%20Sheet%204%20-%20Who%20is%20a%20Lord%20Howe%20Islander.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Selon le Board lui-même, il siège avec 4 Islanders élus dont les mandats courent jusqu'au 28 février 2027 et 3 membres nommés, dont la présidence ; les transferts de baux vers des non-Islanders suivent une procédure publique d'annonce prévue par sa politique de transfert. Aucune évaluation indépendante (rapport d'audit, décision de justice, étude universitaire) n'a été trouvée.", source: "https://www.lhib.nsw.gov.au/about/board-members"}
+chronologie:
+  - {annee: 1855, evenement: "L'île est incluse dans la colonie de Nouvelle-Galles du Sud."}
+  - {annee: 1913, evenement: "Premier Lord Howe Island Board, composé de 3 fonctionnaires de Sydney, avec un comité consultatif de résidents."}
+  - {annee: 1953, evenement: "Lord Howe Island Act : Board de 5 membres nommés, comité insulaire de 4 membres élus, baux perpétuels réservés aux Islanders."}
+  - {annee: 1982, evenement: "Entrée en vigueur des amendements de 1981 : 3 Islanders élus sur 5 membres du Board, suppression du comité insulaire, statut d'Islander ouvert aux résidents de 10 ans, création de la réserve permanente (Permanent Park Preserve)."}
+  - {annee: 1982, evenement: "Inscription du groupe de Lord Howe sur la Liste du patrimoine mondial de l'UNESCO."}
+  - {annee: 2004, evenement: "Board porté à 7 membres, dont 4 Islanders élus ; fin du monopole du Board sur le commerce des graines de palmier kentia."}
+  - {annee: 2014, evenement: "Lord Howe Island Regulation 2014 (élections, transferts de baux, loyers)."}
+fiabilite:
+  verifie: ["Composition du Board (4 Islanders élus, 3 membres nommés), mission et soumission à la direction et au contrôle du ministre : page « About » et page des membres du Board (lhib.nsw.gov.au).", "Définition de l'Islander, règles de perte du statut et pouvoir du ministre d'accorder le statut : fiche d'information n° 4 du Board.", "Propriété de la Couronne, absence de pleine propriété, réservation des baux perpétuels aux Islanders et article 23(4) : fiche d'information n° 3 du Board.", "Étapes 1913, 1953, 1968, 1981-1982, 2004 et 2014 : fiche d'information n° 1 du Board.", "Population de 445 personnes au recensement de 2021 (ABS, localité SAL12396).", "Superficie de l'île principale de 1 455 hectares et part de 75 % classée en réserve permanente : page « World Heritage » du Board.", "Inscription UNESCO en 1982 (whc.unesco.org/en/list/186)."]
+  non_confirme: ["Texte consolidé de la loi non consulté directement : les sites legislation.nsw.gov.au et austlii.edu.au ont refusé l'accès ; les numéros d'articles hors art. 15 et 23(4) ne sont pas cités.", "Nombre d'Islanders au sens de la loi : aucun décompte officiel trouvé ; la population recensée inclut des non-Islanders.", "Pouvoir réglementaire propre du Board : les règlements sont pris par le gouverneur ; l'étendue des actes que le Board peut adopter seul n'a pas été vérifiée sur le texte.", "Financement du Board par l'État de Nouvelle-Galles du Sud et part des ressources propres non établis ; le Board perçoit des redevances approuvées pour ses services (art. 15), ce qui ne constitue pas un pouvoir fiscal ni un budget garanti.", "Effectivité : les seules informations sur le fonctionnement actuel du Board proviennent du Board ; la Lord Howe Island Signal reprend ses guides et ses rapports.", "Aucun document de l'ONU ou d'un mécanisme régional visant ce régime n'a été trouvé."]
+sources:
+  - {titre: "Lord Howe Island Board, About (statut, composition, Permanent Park Preserve)", url: "https://www.lhib.nsw.gov.au/about"}
+  - {titre: "Lord Howe Island Board, Information Sheet 1 : History of the Lord Howe Island Act 1953", url: "https://www.lhib.nsw.gov.au/sites/default/files/2022-08/Information%2520Sheet%25201%2520-%2520History%2520of%2520the%2520Lord%2520Howe%2520Island%2520Act%25201953%5B1%5D.pdf"}
+  - {titre: "Lord Howe Island Board, Information Sheet 2 : NSW and Commonwealth Laws on Lord Howe Island", url: "https://www.lhib.nsw.gov.au/sites/default/files/2022-09/Information%20Sheet%202%20-%20NSW%20and%20Commonwealth%20Laws%20on%20Lord%20Howe%20Island.pdf"}
+  - {titre: "Lord Howe Island Board, Information Sheet 3 : Owning and Inheriting Land on Lord Howe Island", url: "https://www.lhib.nsw.gov.au/sites/default/files/2023-11/Information%20Sheet%203%20-%20Owning%20and%20Inheriting%20Land%20on%20Lord%20Howe%20Island.PDF"}
+  - {titre: "Lord Howe Island Board, Information Sheet 4 : Who is a Lord Howe Islander?", url: "https://www.lhib.nsw.gov.au/sites/default/files/2022-09/Information%20Sheet%204%20-%20Who%20is%20a%20Lord%20Howe%20Islander.pdf"}
+  - {titre: "Lord Howe Island Board, membres du Board", url: "https://www.lhib.nsw.gov.au/about/board-members"}
+  - {titre: "Lord Howe Island Board, Fees and charges", url: "https://www.lhib.nsw.gov.au/services/fees-and-charges"}
+  - {titre: "Lord Howe Island Board, World Heritage", url: "https://www.lhib.nsw.gov.au/environment/world-heritage"}
+  - {titre: "Australian Bureau of Statistics, recensement 2021, Lord Howe Island (SAL12396)", url: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL12396"}
+  - {titre: "UNESCO, Centre du patrimoine mondial, Lord Howe Island Group", url: "https://whc.unesco.org/en/list/186"}
+  - {titre: "Australian Rural & Regional News (The Lord Howe Island Signal), Plain language guide to the Lord Howe Island Act, 2 mai 2022", url: "https://arr.news/2022/05/02/plain-language-guide-to-the-lord-howe-island-act/"}

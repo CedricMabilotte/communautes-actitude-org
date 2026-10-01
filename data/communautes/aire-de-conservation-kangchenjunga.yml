@@ -1,0 +1,62 @@
+uid: "aire-de-conservation-kangchenjunga"
+nom: "Aire de conservation du Kangchenjunga"
+endonyme: ""
+territoire: "Aire de conservation du Kangchenjunga (Kanchenjunga Conservation Area), nord du district de Taplejung, province de Koshi"
+etats: ["Népal"]
+region: "asie"
+coord: [27.7, 87.9]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 5254, annee: 2012, perimetre: "habitants des quatre anciens comités de développement villageois (VDC) de l'aire : Lelep, Olangchungola, Tapethok et Yamphudin (968 ménages), selon l'étude de Wildlife Watch Group publiée par l'IPSI", source: "https://satoyamainitiative.org/case_studies/observation-of-functioning-of-kanchenjunga-conservation-area-kca-the-regions-first-community-owned-conservation-area/"}
+lieux: {valeur: 4, unite: "circonscriptions (wards) de deux municipalités rurales, Phaktanglung (wards 5, 6 et 7) et Sirijangha (ward 8)", annee: 2020, source: "https://giwmscdnone.gov.np/media/pages/files/Final%20Report_GIS%20Database_v4olikj.pdf"}
+surface_km2: {valeur: 2035, annee: 2020, perimetre: "superficie de l'aire de conservation selon le Département des parcs nationaux et de la conservation de la faune", source: "https://giwmscdnone.gov.np/media/pages/files/Final%20Report_GIS%20Database_v4olikj.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'aire de conservation du Kangchenjunga couvre 2 035 km² au pied du Kangchenjunga, dans le nord du district de Taplejung, à la frontière de la Chine et de l'Inde. L'État l'a créée en 1997 en application de la loi de 1973 sur les parcs nationaux et la conservation de la faune. Le 22 septembre 2006, le ministère des Forêts et de la Conservation des sols a remis la gestion de l'aire au Kangchenjunga Conservation Area Management Council (conseil de gestion de l'aire), formé de représentants des comités et groupes d'usagers locaux. Le plan de gestion préparé par ce conseil avait été approuvé par le conseil des ministres le 31 août 2006.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Stratégie et plan d'action nationaux pour la biodiversité 2014-2020, transmis au secrétariat de la Convention sur la diversité biologique (p. 45) : le gouvernement a remis en 2006 la gestion de l'aire de conservation du Kangchenjunga au conseil local de gestion, première aire protégée du pays gérée par des communautés locales.", annee: 2014, source: "https://www.cbd.int/doc/world/np/np-nbsap-v2-en.pdf"}
+base_nationale:
+  - {instrument: "National Parks and Wildlife Conservation Act, 2029 (1973), section 3 (déclaration des aires de conservation) et section 16B (gestion d'une aire de conservation confiée à une institution)", nature: "loi", annee: 1973, source: "https://faolex.fao.org/docs/pdf/nep187181.pdf"}
+  - {instrument: "Conservation Area Government Management Regulation, 2057 (2000) (règlement sur la gestion des aires de conservation par l'État)", nature: "loi", annee: 2000, source: "https://satoyamainitiative.org/case_studies/observation-of-functioning-of-kanchenjunga-conservation-area-kca-the-regions-first-community-owned-conservation-area/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le 22 septembre 2006, le ministre d'État aux Forêts et à la Conservation des sols a remis au président du Kangchenjunga Conservation Area Management Council (conseil de gestion de l'aire) un certificat d'autorité pour la gestion de l'aire ; formé en 2000, le conseil réunit des représentants des 7 comités d'usagers de l'aire, de 44 groupes d'usagers et de 32 groupes de mères ; il agit dans le cadre d'un plan de gestion approuvé par le conseil des ministres le 31 août 2006.", source: "https://satoyamainitiative.org/case_studies/observation-of-functioning-of-kanchenjunga-conservation-area-kca-the-regions-first-community-owned-conservation-area/"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le transfert de 2006 confie aux habitants la responsabilité de gestion de l'ensemble de l'aire protégée (2 035 km²), dont les terres et les ressources avaient été placées sous statut d'aire protégée par l'État ; il porte sur la gestion, non sur la propriété, et s'exerce selon le plan de gestion approuvé par le conseil des ministres (31 août 2006).", source: "https://satoyamainitiative.org/case_studies/observation-of-functioning-of-kanchenjunga-conservation-area-kca-the-regions-first-community-owned-conservation-area/"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2012, une étude de Wildlife Watch Group publiée par l'IPSI (Université des Nations unies) rapporte que, selon des habitants, les activités de l'aire se limitent à quelques villages et que beaucoup de villages n'ont pas de règles claires de gestion forestière.", source: "https://satoyamainitiative.org/case_studies/observation-of-functioning-of-kanchenjunga-conservation-area-kca-the-regions-first-community-owned-conservation-area/"}
+chronologie:
+  - {annee: 1973, evenement: "Loi sur les parcs nationaux et la conservation de la faune."}
+  - {annee: 1997, evenement: "Création de l'aire de conservation du Kangchenjunga (2054 du calendrier népalais)."}
+  - {annee: 1998, evenement: "Le Département des parcs nationaux lance avec le WWF Népal le projet de l'aire de conservation (22 mars)."}
+  - {annee: 2000, evenement: "Règlement sur la gestion des aires de conservation par l'État ; l'aire passe de 1 659 à 2 035 km² ; formation du conseil de gestion."}
+  - {annee: 2004, evenement: "Le conseil de gestion remet au Département des parcs nationaux son projet de plan de gestion (juillet)."}
+  - {annee: 2006, evenement: "Le conseil des ministres approuve le plan de gestion (31 août) ; la gestion de l'aire est remise au conseil de gestion (22 septembre)."}
+  - {annee: 2020, evenement: "Un rapport SIG remis au Département des parcs nationaux situe l'aire dans les municipalités rurales de Phaktanglung et de Sirijangha."}
+fiabilite:
+  verifie:
+    - "Date de création (2054, soit 1997), superficie de 2 035 km² et transfert de la gestion au conseil le 2063 Asoj 6 (22 septembre 2006), sur la page officielle du bureau de l'aire (Département des parcs nationaux), qui présente l'aire comme gérée par les communautés locales."
+    - "Section 16B de la loi de 1973 (version consolidée de la Commission du droit du Népal) : le gouvernement peut confier, par avis publié au journal officiel, la gestion d'une aire de conservation à une institution créée pour la conservation de la nature, pour la durée fixée dans l'avis."
+    - "Mention du transfert de 2006 dans la stratégie nationale pour la biodiversité 2014-2020 transmise à la Convention sur la diversité biologique."
+    - "Répartition de l'aire en quatre wards de Phaktanglung et Sirijangha, dans le rapport SIG remis au Département des parcs nationaux en 2020."
+  non_confirme:
+    - "Le texte du règlement de 2000 sur la gestion des aires de conservation par l'État n'a pas été consulté : les pouvoirs exacts du conseil (prélèvements, redevances, part des recettes, tutelle) restent à établir ; le règlement de 1996 sur les aires de conservation confiées à une institution ne s'applique pas forcément à cette aire."
+    - "La base légale exacte du transfert de 2006 (section 16B de la loi de 1973 ou règlement de 2000) n'a pas été confirmée sur un texte."
+    - "Population de 5 254 habitants tirée d'une étude d'ONG de 2012, sans recensement officiel par aire ; composition du conseil donnée de façon variable (44 ou 81 groupes d'usagers)."
+    - "Le statut actuel du conseil après la réorganisation fédérale de 2017 (remplacement des VDC par des municipalités rurales), la durée fixée pour le transfert et son éventuel renouvellement n'ont pas été vérifiés sur un texte."
+sources:
+  - {titre: "Bureau de l'aire de conservation du Kangchenjunga — Département des parcs nationaux et de la conservation de la faune (en népali)", url: "https://dnpwc.gov.np/pages/kanchenjunga-conservation-area-office/"}
+  - {titre: "Observation of functioning of Kanchenjunga Conservation Area (KCA) — étude de cas, IPSI (Université des Nations unies), 2012", url: "https://satoyamainitiative.org/case_studies/observation-of-functioning-of-kanchenjunga-conservation-area-kca-the-regions-first-community-owned-conservation-area/"}
+  - {titre: "Nepal National Biodiversity Strategy and Action Plan 2014-2020 — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/np/np-nbsap-v2-en.pdf"}
+  - {titre: "GIS Database of Protected Areas, rapport final remis au Département des parcs nationaux (2020)", url: "https://giwmscdnone.gov.np/media/pages/files/Final%20Report_GIS%20Database_v4olikj.pdf"}
+  - {titre: "National Parks and Wildlife Conservation Act, 2029 (1973) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/nep187181.pdf"}
+  - {titre: "Conservation Area Management Rules, 2053 (1996) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/nep187182.pdf"}

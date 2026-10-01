@@ -1,0 +1,61 @@
+uid: "tamouls-province-du-nord-sri-lanka"
+nom: "Tamouls de la Province du Nord"
+endonyme: ""
+territoire: "Province du Nord (Jaffna, Kilinochchi, Mullaitivu, Mannar, Vavuniya)"
+etats: ["Sri Lanka"]
+region: "asie"
+coord: [9.2, 80.4]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1280918, annee: 2024, perimetre: "population de la Province du Nord, dont 1 145 703 Tamouls (secrétariats de district, tableaux 3.5 et 3.6)", source: "https://np.gov.lk/pdf/DCS-Planning/2025/Statistical%20Information%202025.pdf"}
+lieux: {valeur: 5, unite: "districts (34 divisions de secrétariat divisionnaire)", annee: 2024, source: "https://np.gov.lk/pdf/DCS-Planning/2025/Statistical%20Information%202025.pdf"}
+surface_km2: {valeur: 8884, annee: 2024, perimetre: "superficie des cinq districts de la Province du Nord (tableau 3.5)", source: "https://np.gov.lk/pdf/DCS-Planning/2025/Statistical%20Information%202025.pdf"}
+villages: {valeur: 3570, annee: 2024, perimetre: "villages recensés par division de secrétariat divisionnaire dans la Province du Nord, répartis en 921 divisions de Grama Niladhari (circonscriptions de village) (tableau 2.1)", source: "https://np.gov.lk/pdf/DCS-Planning/2025/Statistical%20Information%202025.pdf"}
+resume: >-
+  La Province du Nord, à l'extrémité nord de Sri Lanka, est peuplée en 2024 de 1,28 million d'habitants, dont 89 % de Tamouls. Le 13e amendement de la Constitution et la loi sur les conseils provinciaux n° 42 de 1987, issus de l'accord indo-sri-lankais du 29 juillet 1987, créent dans chaque province un conseil élu qui adopte des statuts (lois provinciales) dans les matières de la liste provinciale ; le même amendement fait du tamoul une langue officielle, et le 16e amendement (1988) en fait la langue de l'administration dans les provinces du Nord et de l'Est. Le conseil provincial du Nord, séparé de celui de l'Est depuis le 1er janvier 2007, a été élu une seule fois, en 2013 ; aucune élection provinciale n'a eu lieu depuis 2014 dans le pays et la province est administrée par un gouverneur nommé par le président.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité des droits de l'homme, CCPR/C/LKA/CO/6, § 32 et 34 : accès des personnes de langue tamoule à la justice, accaparement de terres et présence militaire dans les provinces du Nord et de l'Est, réinstallation forcée de Tamouls", annee: 2023, source: "https://docs.un.org/fr/CCPR/C/LKA/CO/6"}
+base_nationale:
+  - {instrument: "Constitution de la République socialiste démocratique de Sri Lanka, 13e amendement (chapitre XVII A, art. 154A à 154T, huitième et neuvième annexes ; art. 18 (2))", nature: "constitution", annee: 1987, source: "https://www.parliament.lk/files/pdf/constitution.pdf"}
+  - {instrument: "Constitution de la République socialiste démocratique de Sri Lanka, 16e amendement (art. 20 et 22 : langues de l'administration)", nature: "constitution", annee: 1988, source: "https://www.parliament.lk/files/pdf/constitution.pdf"}
+  - {instrument: "Loi sur les conseils provinciaux n° 42 de 1987 (Provincial Councils Act)", nature: "loi", annee: 1987, source: "https://np.gov.lk/about/"}
+droits:
+  autogouvernement: {valeur: "conteste", note: "Conseil provincial élu et bureau des ministres responsable devant lui, art. 154A et 154F de la Constitution (1987) ; le pouvoir exécutif est exercé par un gouverneur nommé par le président, art. 154B et 154C ; aucun conseil élu depuis l'expiration du mandat issu de l'élection de 2013.", source: "https://www.parliament.lk/files/pdf/constitution.pdf"}
+  pouvoir_normatif: {valeur: "conteste", note: "Le conseil adopte des statuts applicables à la province dans les matières de la liste I de la neuvième annexe (police, éducation, collectivités locales, logement, agriculture, santé, terres), art. 154G (1) ; faute de conseil élu, ce pouvoir n'est pas exercé par des représentants de la province.", source: "https://www.parliament.lk/files/pdf/constitution.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les terres sont une matière provinciale (liste I, point 18), mais les terres domaniales restent la propriété de la République et leur aliénation se fait par le président sur avis du conseil provincial, neuvième annexe, appendice II, § 1:3.", source: "https://www.parliament.lk/files/pdf/constitution.pdf"}
+  ressources: {valeur: "partiel", note: "Irrigation hors projets interprovinciaux, agriculture hors terres domaniales et plantations, élevage et protection de l'environnement dans la limite des lois du Parlement, liste I, points 9, 19, 20 et 37 ; impôts sur les droits miniers, point 36:18.", source: "https://www.parliament.lk/files/pdf/constitution.pdf"}
+  consentement: {valeur: "conteste", note: "Tout projet de loi modifiant le chapitre XVII A ou la neuvième annexe, ou portant sur une matière de la liste provinciale, est soumis pour avis aux conseils provinciaux ; en cas de désaccord, il exige la majorité spéciale de l'art. 82, art. 154G (2) et (3) ; faute de conseil élu depuis le mandat issu de l'élection de 2013, cet avis n'est pas rendu par des représentants élus de la province.", source: "https://www.parliament.lk/files/pdf/constitution.pdf"}
+  langue: {valeur: "reconnu", note: "Le tamoul est langue officielle et langue nationale, art. 18 (2) et 19 ; il est la langue de l'administration et des registres publics dans les provinces du Nord et de l'Est, art. 22 (1) dans sa rédaction issue du 16e amendement (1988).", source: "https://www.parliament.lk/files/pdf/constitution.pdf"}
+  education: {valeur: "partiel", note: "Écoles publiques hors écoles nationales, gestion et mutation des enseignants, liste I, point 3 et appendice III ; le ministère national de l'Éducation garde un droit d'inspection.", source: "https://www.parliament.lk/files/pdf/constitution.pdf"}
+  fiscalite: {valeur: "partiel", note: "Taxes provinciales listées (chiffre d'affaires, droits de timbre, licences, taxes foncières), liste I, point 36 ; dotations de l'État sur recommandation de la Commission des finances, art. 154R.", source: "https://www.parliament.lk/files/pdf/constitution.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Le Thesawalamai, droit coutumier des Tamouls de la péninsule de Jaffna codifié en 1707, rendu applicable par le règlement de 1806, s'applique aux Tamouls domiciliés dans la Province du Nord en matière de biens et de successions.", source: "https://en.wikipedia.org/wiki/Thesavalamai"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Le Haut-Commissariat aux droits de l'homme relève en 2024 et 2025 qu'aucune élection de conseil de province prévue par le 13e amendement n'a eu lieu depuis 2014 (A/HRC/60/21, § 5) ; en mai 2026, le Centre for Policy Alternatives constate que les conseils restent administrés par des gouverneurs nommés par le gouvernement central et que la délimitation des circonscriptions exigée par la loi électorale de 2017 reste inachevée et contestée.", source: "https://www.cpalanka.org/statement-on-the-continued-delay-of-provincial-council-elections/"}
+chronologie:
+  - {annee: 1987, evenement: "Accord indo-sri-lankais du 29 juillet ; 13e amendement de la Constitution et loi n° 42 sur les conseils provinciaux en novembre."}
+  - {annee: 1988, evenement: "Élection du conseil provincial du Nord-Est, constitué le 5 décembre ; il est dissous en juin 1990."}
+  - {annee: 2006, evenement: "Arrêt de la Cour suprême du 16 octobre ; la province du Nord-Est est séparée en deux provinces le 1er janvier 2007."}
+  - {annee: 2013, evenement: "Première élection du conseil provincial du Nord : 30 sièges sur 38 pour la Tamil National Alliance ; C. V. Vigneswaran ministre principal."}
+  - {annee: 2017, evenement: "Loi modifiant les élections provinciales : nouveau mode de scrutin et nouvelle délimitation des circonscriptions, restée inachevée."}
+  - {annee: 2025, evenement: "En août, le ministre Bimal Rathnayake annonce l'objectif d'élections provinciales au premier semestre 2026."}
+  - {annee: 2026, evenement: "En mai, les élections provinciales n'ont toujours pas eu lieu."}
+fiabilite:
+  verifie: ["Art. 18, 19, 22, 154A à 154G, 154R et neuvième annexe (liste I, appendices I, II et III) de la Constitution, texte publié par le Parlement de Sri Lanka ; l'art. 22 a été substitué par le 16e amendement (note 8 du texte consolidé).", "Population, surface, districts et villages : Statistical Information – Northern Province 2025 (données 2024), tableaux 2.1, 3.5 et 3.6.", "A/HRC/57/19 (§ 6) et A/HRC/60/21 (§ 5) : aucune élection de conseil de province depuis 2014.", "CCPR/C/LKA/CO/6 (2023), § 32 et 34.", "Déclaration du Centre for Policy Alternatives du 25 mai 2026.", "Historique du conseil (1988, 2006, 2007) : site officiel du conseil provincial du Nord."]
+  non_confirme: ["Résultats de 2013 (30 sièges sur 38) : source secondaire, la page de la Commission électorale n'a pas répondu.", "Non-transfert effectif des compétences sur la police et les terres domaniales : non vérifié sur une source primaire.", "Date exacte d'expiration du mandat du conseil élu en 2013 (durée de cinq ans, art. 154E) : non vérifiée.", "Tenue d'élections provinciales entre juin et septembre 2026 : aucune trouvée ; le site du conseil ne mentionne en septembre 2026 que l'action du gouverneur.", "Thesawalamai : texte du règlement de 1806 et des ordonnances ultérieures non consulté."]
+sources:
+  - {titre: "Constitution de la République socialiste démocratique de Sri Lanka (texte consolidé) — Parlement de Sri Lanka", url: "https://www.parliament.lk/files/pdf/constitution.pdf"}
+  - {titre: "About NPC — Conseil provincial du Nord", url: "https://np.gov.lk/about/"}
+  - {titre: "Statistical Information – Northern Province 2025 — Conseil provincial du Nord", url: "https://np.gov.lk/pdf/DCS-Planning/2025/Statistical%20Information%202025.pdf"}
+  - {titre: "Haut-Commissariat aux droits de l'homme, Situation des droits de l'homme à Sri Lanka, A/HRC/60/21 (2025)", url: "https://docs.un.org/fr/A/HRC/60/21"}
+  - {titre: "Haut-Commissariat aux droits de l'homme, A/HRC/57/19 (2024)", url: "https://docs.un.org/fr/A/HRC/57/19"}
+  - {titre: "Comité des droits de l'homme, CCPR/C/LKA/CO/6 (2023)", url: "https://docs.un.org/fr/CCPR/C/LKA/CO/6"}
+  - {titre: "Statement on the Continued Delay of Provincial Council Elections — Centre for Policy Alternatives (2026)", url: "https://www.cpalanka.org/statement-on-the-continued-delay-of-provincial-council-elections/"}
+  - {titre: "Sri Lanka plans Provincial Council elections for early 2026 — The Morning (2025)", url: "https://www.themorning.lk/articles/aTwVfH0az1sD8U4PYoVR"}
+  - {titre: "Tamils in Sri Lanka — Minority Rights Group", url: "https://minorityrights.org/communities/tamils/"}
+  - {titre: "Northern Provincial Council — Wikipédia (en)", url: "https://en.wikipedia.org/wiki/Northern_Provincial_Council"}
+  - {titre: "Thesavalamai — Wikipédia (en)", url: "https://en.wikipedia.org/wiki/Thesavalamai"}
+  - {titre: "Constitution of Sri Lanka (liste des amendements et dates) — Wikipédia (en)", url: "https://en.wikipedia.org/wiki/Constitution_of_Sri_Lanka"}

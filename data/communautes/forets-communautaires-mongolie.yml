@@ -1,0 +1,54 @@
+uid: "forets-communautaires-mongolie"
+nom: "Forêts des groupes d'usagers de Mongolie"
+endonyme: "Ойн нөхөрлөл (oin nökhörlöl)"
+territoire: "Forêts du fonds forestier d'État confiées par contrat à des groupes d'usagers, principalement dans la ceinture forestière du nord de la Mongolie"
+etats: ["Mongolie"]
+region: "asie"
+coord: [49.0, 105.0]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 1281, unite: "groupes d'usagers de la forêt gérant une forêt", annee: 2018, source: "https://www.cbd.int/doc/nr/nr-06/mn-nr-06-en.pdf"}
+surface_km2: {valeur: 33454, annee: 2018, perimetre: "surface forestière gérée par les 1 281 groupes d'usagers (3 345,4 milliers d'hectares), selon le sixième rapport national de la Mongolie à la CDB", source: "https://www.cbd.int/doc/nr/nr-06/mn-nr-06-en.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les groupes d'usagers de la forêt, associations volontaires de citoyens définies par la loi sur les forêts du 17 mai 2012 (art. 3.1.8). Sur proposition du khural public du bagh (assemblée des habitants de la plus petite circonscription), le khural des représentants des citoyens du soum (conseil élu du district rural) leur confère la possession d'une partie du fonds forestier par contrat, d'abord pour un an, puis par périodes de dix ans jusqu'à soixante ans (art. 4.4.2 et 4.5). La forêt reste propriété de l'État (art. 4.1). Le groupe adopte ses statuts, applique un plan de gestion, exploite le bois et les produits non ligneux et vend l'excédent (art. 21). En 2018, 1 281 groupes géraient 3 345 400 hectares de forêt selon le rapport national de la Mongolie à la Convention sur la diversité biologique.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Sixième rapport national de la Mongolie à la Convention sur la diversité biologique (2019) : indique que la loi sur les forêts a été modifiée pour fixer les droits et obligations des groupes d'usagers de la forêt, dans le cadre du principe « l'usager est le gardien », et compte 1 281 groupes gérant 3 345,4 milliers d'hectares en 2018", annee: 2019, source: "https://www.cbd.int/doc/nr/nr-06/mn-nr-06-en.pdf"}
+  - {mecanisme: "registre_apac", detail: "Le groupe d'usagers de la forêt de Bayanbulag (soum de Batsumber), communauté d'éleveurs de langue kazakhe qui a reçu en 2017 un premier certificat d'attribution de ressources forestières et applique un accord d'usage de quinze ans conclu avec le gouverneur du soum, fait l'objet d'une fiche au registre ICCA (aires et territoires du patrimoine autochtone et communautaire), publiée par le PNUE-WCMC en novembre 2023 ; l'aire est auto-déclarée et n'a pas été vérifiée par les pairs", annee: 2023, source: "https://www.iccaregistry.org/en/explore/mongolia/bayanbulag-forest-user-group"}
+base_nationale:
+  - {instrument: "Constitution de la Mongolie (1992, texte révisé en 2001), art. 6 : la terre hors propriété privée des citoyens, le sous-sol, les forêts, les eaux et la faune sont propriété de l'État", nature: "constitution", annee: 1992, source: "https://www.constituteproject.org/constitution/Mongolia_2001"}
+  - {instrument: "Loi sur les forêts (version révisée du 17 mai 2012, modifiée en 2012, 2013, 2015 et 2017), art. 3.1.8, 4.4 à 4.12, 7.4.3 et 21", nature: "loi", annee: 2012, source: "https://faolex.fao.org/docs/pdf/mon73111E.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le groupe est une association volontaire de citoyens constituée selon l'art. 481.1 du Code civil (art. 3.1.8 de la loi sur les forêts de 2012), dont 80 % au moins des membres résident en permanence dans l'unité administrative (art. 21.6) ; l'assemblée de tous les membres peut décider de renoncer à la forêt (art. 21.11.2) ; le groupe rend compte chaque année au khural du soum (art. 21.3) et le gouverneur du soum met fin à ses activités et annule le contrat sur décision du khural, sur décision de l'assemblée des membres ou en cas de manquements répétés (art. 21.11).", source: "https://faolex.fao.org/docs/pdf/mon73111E.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le groupe adopte des statuts conformes aux lois et règlements (art. 21.2 de la loi de 2012) et applique un plan de gestion de sa forêt (art. 21.1), approuvé par le service de l'environnement de l'aimag (province) (art. 17.3.9 de la traduction FAOLEX).", source: "https://faolex.fao.org/docs/pdf/mon73111E.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les ressources forestières sont propriété de l'État (art. 4.1 de la loi de 2012, renvoyant à l'art. 6 de la Constitution) ; le khural du soum confère au groupe, sur proposition du khural public du bagh, la possession et l'usage d'une partie du fonds forestier par contrat (art. 4.4.2), conclu pour un an puis prolongé par périodes de dix ans jusqu'à soixante ans au total (art. 4.5) ; le groupe dispose d'un droit de priorité pour demander cette possession (art. 21.8) et peut devenir propriétaire des forêts qu'il plante à ses frais sur les terres qu'il détient, sur décision prise selon l'art. 4.3 (art. 4.2).", source: "https://faolex.fao.org/docs/pdf/mon73111E.pdf"}
+  ressources: {valeur: "partiel", note: "Le groupe titulaire d'un contrat exploite le bois et les produits forestiers non ligneux selon son plan de gestion et sa licence de possession et vend l'excédent (art. 21.12.2 de la loi de 2012) ; le gouverneur du soum décide des coupes, sur la base du plan de gestion, dans les limites fixées par le khural du soum (art. 18.2.7) ; les citoyens gardent le droit de traverser la forêt, d'y faire passer le bétail, d'y élever des abeilles et, avec autorisation, d'y récolter des produits non ligneux et d'y chasser (art. 4.11).", source: "https://faolex.fao.org/docs/pdf/mon73111E.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les tiers qui exploitent du bois ou des produits non ligneux dans la forêt du groupe lui versent une part des frais de protection, de restauration et de nettoyage (art. 4.12 de la loi de 2012) ; le groupe finance l'aménagement forestier (inventaire et organisation de la forêt) et l'exécution de son plan de gestion, sauf le premier aménagement de la forêt qui lui est attribuée, payé par le budget local (art. 7.4.3), et peut présenter des projets financés par les budgets national et local (art. 21.12.3).", source: "https://faolex.fao.org/docs/pdf/mon73111E.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La fiche du registre ICCA sur Bayanbulag (2023), rédigée par la communauté, indique que le groupe applique ses plans de gestion 2016-2022 et 2022-2027 et un accord d'usage de quinze ans, mais relève des coupes illégales dans le soum de Batsumber et des menaces d'emprise foncière liées aux infrastructures ; le sixième rapport national à la CDB (2019) compte 1 281 groupes gérant 3 345 400 hectares en 2018, à côté de 90 entreprises gérant 681 400 hectares.", source: "https://www.iccaregistry.org/en/explore/mongolia/bayanbulag-forest-user-group"}
+chronologie:
+  - {annee: 1992, evenement: "La Constitution place les ressources naturelles, dont les forêts, sous la propriété de l'État."}
+  - {annee: 2006, evenement: "Création du groupe de Bayanbulag (soum de Batsumber) et adoption de ses statuts et d'un premier plan de gestion forestière, selon le registre ICCA."}
+  - {annee: 2012, evenement: "Loi sur les forêts révisée du 17 mai : définition du groupe d'usagers de la forêt, contrats de possession jusqu'à soixante ans et droits du groupe (art. 21)."}
+  - {annee: 2013, evenement: "Modification de la loi sur les forêts le 9 juillet ; d'autres modifications suivent en 2015 et en 2017."}
+  - {annee: 2015, evenement: "Le Parlement approuve la politique d'État sur les forêts, selon le rapport national à la CDB."}
+  - {annee: 2018, evenement: "1 281 groupes d'usagers gèrent 3 345 400 hectares de forêt."}
+  - {annee: 2019, evenement: "Le sixième rapport national de la Mongolie à la CDB présente le régime."}
+fiabilite:
+  verifie: ["Loi sur les forêts du 17 mai 2012 (traduction anglaise et texte mongol, FAOLEX) : art. 3.1.5, 3.1.8, 4.1 à 4.13, 7.4.3, 9.3, 17.3.9, 18.1.4, 18.2.6, 18.2.7, 20.1.2 et 21 ; la numérotation des art. 17.3.9 et 18.2.7 est identique dans le texte mongol.", "Endonyme « ойн нөхөрлөл » : terme de la loi (art. 3.1.8 et 21 du texte mongol).", "Constitution, art. 6 (texte révisé en 2001, Constitute Project).", "Chiffres de 2018 (1 281 groupes, 3 345,4 milliers d'hectares) : sixième rapport national de la Mongolie à la CDB, publié en 2019.", "Fiche du groupe de Bayanbulag au registre ICCA, publiée en novembre 2023 : certificat d'attribution de ressources forestières (2017), accord d'usage de quinze ans, statuts de 2006, plans de gestion 2016-2022 et 2022-2027."]
+  non_confirme: ["Version en vigueur de la loi sur les forêts : le texte mongol diffusé par FAOLEX intègre les modifications jusqu'au 9 février 2017, sans changement des art. 4, 7.4.3 et 21 ; les modifications postérieures n'ont pas été consultées sur le site officiel legalinfo.mn.", "Effet de la révision constitutionnelle de 2019 sur la rédaction de l'art. 6 non vérifié.", "Nombre de groupes et surfaces après 2018 non trouvés ; nombre de membres ou de personnes non publié.", "Aucune liste officielle des groupes et de leurs forêts trouvée sur source ouverte : pas de tableau par site.", "Fiche ICCA de Bayanbulag : la surface citée (21 175 ha) n'est pas cohérente avec le détail donné (1 000 ha de pâturages et 1 175 ha de forêt)."]
+sources:
+  - {titre: "Law on Forest (version révisée du 17 mai 2012), traduction anglaise — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mon73111E.pdf"}
+  - {titre: "Ойн тухай хууль (loi sur les forêts, version révisée du 17 mai 2012), texte mongol — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mon73111.pdf"}
+  - {titre: "Constitution of Mongolia (texte révisé en 2001) — Constitute Project", url: "https://www.constituteproject.org/constitution/Mongolia_2001"}
+  - {titre: "Mongolia's Sixth National Report to the Convention on Biological Diversity (2019) — CDB", url: "https://www.cbd.int/doc/nr/nr-06/mn-nr-06-en.pdf"}
+  - {titre: "Bayanbulag Forest User Group, Mongolia — ICCA Registry", url: "https://www.iccaregistry.org/en/explore/mongolia/bayanbulag-forest-user-group"}

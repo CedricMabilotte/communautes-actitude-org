@@ -1,0 +1,52 @@
+uid: "motu-koita-port-moresby"
+nom: "Motu-Koita de Port Moresby"
+endonyme: "Motu Koitabu"
+territoire: "Villages et terres coutumières motu et koita du district de la capitale nationale (Port Moresby)"
+etats: ["Papouasie-Nouvelle-Guinée"]
+region: "oceanie"
+coord: [-9.5, 147.2]
+type: "peuple_tribal"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 30000, annee: 2010, perimetre: "Motu-Koita du district de la capitale nationale, ordre de grandeur (« around 30,000 ») donné par l'évaluation sociale de la Banque mondiale", source: "https://documents1.worldbank.org/curated/en/890471468086338758/pdf/IPP4280v20P1141al0Assessment1515-10.pdf"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 10, annee: 1982, perimetre: "villages motu koitabu sur lesquels l'assemblée intérimaire de 1982 reçoit le pouvoir de légiférer", source: "https://documents1.worldbank.org/curated/en/890471468086338758/pdf/IPP4280v20P1141al0Assessment1515-10.pdf"}
+resume: >-
+  Les Motu et les Koita (Koitabu) sont les propriétaires fonciers coutumiers de la région de Port Moresby, capitale de la Papouasie-Nouvelle-Guinée. Le Motu Koita Assembly Act 2007 établit pour eux « un système de gouvernement local » : une assemblée élue, compétente pour légiférer dans les villages et sur les terres coutumières motu-koita du district de la capitale nationale. La loi soumet tout projet d'exploitation de ressources naturelles ou tout grand projet industriel sur leurs terres coutumières à une licence d'accès délivrée par l'assemblée et au consentement préalable des villages concernés. L'institution succède à l'assemblée intérimaire créée en 1982, fusionnée avec la commission du district en 1990, puis au conseil motu koitabu (1992-2007).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Motu Koita Assembly Act 2007 (loi n° 7 de 2007, certifiée le 3 juillet 2007)", nature: "loi", annee: 2007, source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/88031/PNG88031.pdf"}
+  - {instrument: "National Capital District Government Act 1982 (création de la Motu Koitabu Interim Assembly)", nature: "loi", annee: 1982, source: "https://documents1.worldbank.org/curated/en/890471468086338758/pdf/IPP4280v20P1141al0Assessment1515-10.pdf"}
+  - {instrument: "National Capital District Commission (Amendment) Law 2021 (répartition de la TPS)", nature: "loi", annee: 2021, source: "https://www.thenational.com.pg/law-change-concerns-motu-koita-assembly/"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Assemblée composée d'un président et de quatorze membres élus par les Motu-Koita, de deux élues des zones Est et Ouest et de trois membres désignés par l'assemblée (jeunes, entreprises, Églises) ; les élections sont organisées par la Commission électorale (Motu Koita Assembly Act 2007, art. 6, 10 et 11).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/88031/PNG88031.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'assemblée légifère dans les zones motu-koita sur une liste de 29 matières (foncier, marchés, cimetières, mariages et adoptions coutumiers, sites sacrés, zones de pêche coutumières…) ; ses lois n'entrent en vigueur qu'avec l'accord écrit du ministre chargé des collectivités, réputé donné après 30 jours, et cèdent devant les lois du Parlement (art. 35 à 37).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/88031/PNG88031.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La loi désigne les Motu et les Koita comme propriétaires fonciers coutumiers du district (art. 2) ; l'assemblée a pour fonction de protéger leurs terres coutumières et peut légiférer sur « land and land development » (le foncier et l'aménagement) dans les zones motu-koita (art. 4, 24 et 36).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/88031/PNG88031.pdf"}
+  ressources: {valeur: "partiel", note: "Toute exploitation de ressources naturelles (minerais, pétrole, gaz, eau, bois, produits marins…) et tout projet industriel de grande échelle (500 000 kina ou plus) sur terre coutumière motu-koita exigent une licence d'accès délivrée par l'assemblée ; les droits d'accès sont reversés au village concerné et partagés à parts égales entre les propriétaires coutumiers, et un contrat de partage des bénéfices est obligatoire avant la licence (art. 2, 49 et 52).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/88031/PNG88031.pdf"}
+  consentement: {valeur: "partiel", note: "Pour les projets de ressources naturelles et les grands projets industriels, le consentement préalable et éclairé des villages motu-koita et des propriétaires coutumiers directement touchés doit être obtenu par le promoteur et l'assemblée avant toute licence délivrée en vertu d'une autre loi (art. 50) ; aucune source trouvée sur l'application de cette règle.", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/88031/PNG88031.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "L'assemblée peut lever des taxes (capitation, taxe foncière, licences) et reçoit des dotations nationales (art. 38 et 42) ainsi que 10 % de la taxe sur les produits et services (TPS) versée à la commission du district (art. 38 d) ; son budget et ses emprunts sont soumis à l'approbation du ministre des Finances (art. 43 et 46).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/88031/PNG88031.pdf"}
+  representation: {valeur: "partiel", note: "Le président de l'assemblée siège de droit à la commission du district de la capitale nationale (art. 22) ; aucun siège réservé au Parlement national n'a été trouvé.", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/88031/PNG88031.pdf"}
+  statut_personnel: {valeur: "partiel", note: "L'assemblée légifère sur les mariages et adoptions coutumiers, la compensation matrimoniale et l'état civil dans les zones motu-koita ; seule une personne dont le père ou la mère est motu koitabu et qui réside dans la zone depuis deux ans peut être candidate à un siège élu (art. 12 et 36).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/88031/PNG88031.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En décembre 2021, le président de l'assemblée écrit au Premier ministre que les parts de TPS dues à l'assemblée (2 % et 10 %, art. 33 et 33A de la loi sur la commission du district) et les dotations de l'art. 38 b de la loi de 2007 (taxes d'aéroport, droits de port, loyers des baux d'État) n'ont pas été versées, et conteste la loi d'amendement de 2021, qui fixe la part de l'assemblée à 2 % sans l'avoir consultée.", source: "https://www.thenational.com.pg/law-change-concerns-motu-koita-assembly/"}
+chronologie:
+  - {annee: 1982, evenement: "Le National Capital District Government Act crée la Motu Koitabu Interim Assembly, compétente pour légiférer dans dix villages et sur les terres coutumières associées."}
+  - {annee: 1990, evenement: "La loi sur la commission du district de la capitale nationale fusionne l'assemblée intérimaire avec la commission."}
+  - {annee: 1992, evenement: "Un amendement à la loi sur la commission du district crée le Motu Koitabu Council."}
+  - {annee: 2004, evenement: "Un amendement attribue au conseil 2 % de la TPS perçue par la commission du district."}
+  - {annee: 2007, evenement: "Le Motu Koita Assembly Act fait de l'assemblée une entité distincte de la commission du district."}
+  - {annee: 2008, evenement: "Premières élections de l'assemblée."}
+  - {annee: 2021, evenement: "La National Capital District Commission (Amendment) Law attribue 2 % de la TPS du district à l'assemblée ; son président, qui revendique 12 %, la conteste auprès du Premier ministre."}
+fiabilite:
+  verifie: ["Composition, compétences législatives, licence d'accès et consentement préalable : texte du Motu Koita Assembly Act 2007 (base NATLEX de l'OIT).", "Historique 1982-2007 et objectifs de la loi : évaluation sociale de la Banque mondiale (2010).", "Contestation de la loi de 2021 et parts de TPS non versées : The National, 7 décembre 2021.", "Dix-sept membres élus (président, deux représentantes, quatorze circonscriptions) : liste de 2025 sur Wikipédia, conforme à l'art. 11."]
+  non_confirme: ["Nomination effective des trois membres désignés (jeunes, entreprises, Églises).", "Élections de 2008, 2013, 2018 et 2025 et report du scrutin prévu en 2023 : Wikipédia seulement.", "Application du consentement préalable de l'art. 50 : aucun cas documenté trouvé.", "Fonction de gouverneur adjoint du district attribuée au président : non lue dans un texte de loi.", "Texte du National Capital District Commission Act 2001 (art. 33 et 33A) et de l'amendement de 2021 : non consultés ; les parts de 2 %, 10 % et 12 % sont celles qu'avance le président de l'assemblée.", "Population récente et surface des terres coutumières motu-koita."]
+sources:
+  - {titre: "Motu Koita Assembly Act 2007 — NATLEX (OIT)", url: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/88031/PNG88031.pdf"}
+  - {titre: "The Motu-Koita of inner-city Port Moresby, évaluation sociale pour la commission du district de la capitale nationale — Banque mondiale, 2010", url: "https://documents1.worldbank.org/curated/en/890471468086338758/pdf/IPP4280v20P1141al0Assessment1515-10.pdf"}
+  - {titre: "Law change concerns Motu-Koita Assembly — The National, 2021", url: "https://www.thenational.com.pg/law-change-concerns-motu-koita-assembly/"}
+  - {titre: "Motu Koita Assembly — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Motu_Koita_Assembly"}

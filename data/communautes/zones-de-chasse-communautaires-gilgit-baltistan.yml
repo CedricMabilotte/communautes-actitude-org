@@ -1,0 +1,56 @@
+uid: "zones-de-chasse-communautaires-gilgit-baltistan"
+nom: "Zones de chasse communautaires du Gilgit-Baltistan"
+endonyme: ""
+territoire: "47 zones de chasse contrôlées par les communautés (Community Controlled Hunting Areas) ou aires de conservation gérées par les communautés (Community Managed Conservation Areas) notifiées au Gilgit-Baltistan"
+etats: ["Pakistan"]
+region: "asie"
+coord: [36.1, 74.8]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 47, unite: "zones de chasse ou aires de conservation communautaires notifiées", annee: 2025, source: "https://fwegb.gov.pk/trophy-hunting/"}
+surface_km2: {valeur: 21750, annee: 2021, perimetre: "« plus de 50 » aires de conservation communautaires désignées, environ 30 % du Gilgit-Baltistan, selon The Express Tribune (2021) ; la somme des 39 surfaces publiées par le département des forêts, de la faune et de l'environnement pour ses 47 zones est de 16 505,6 km²", source: "https://tribune.com.pk/article/97338/the-story-behind-why-gilgit-baltistan-allows-trophy-hunting"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés villageoises du Gilgit-Baltistan qui gèrent une zone de chasse contrôlée par la communauté (Community Controlled Hunting Area, CCHA) ou une aire de conservation gérée par la communauté (Community Managed Conservation Area, CMCA). Au Gilgit-Baltistan, la chasse au trophée du markhor, de l'ibex et du bharal n'est autorisée que dans ces zones, par exception à l'interdiction générale fixée par le gouvernement du Pakistan. Le programme a commencé dans la vallée de Bar en 1990 ou 1991 ; le département des forêts, de la faune et de l'environnement compte 47 zones notifiées. Les lignes directrices de 2019, prises au titre de l'article 45 de la loi de 1975 sur la faune, prévoient la création sur résolution de l'assemblée villageoise, un comité de gestion, un plan de gestion de cinq ans et le versement à la communauté de 80 % du prix des permis de chasse ; la loi elle-même ne mentionne pas les communautés.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Troisième rapport national du Pakistan à la Convention sur la diversité biologique (28 novembre 2006) : le programme de chasse au trophée à base communautaire (Community Based Trophy Hunting Programme) verse 80 % des recettes aux communautés locales, et la chasse au trophée « développée dans les Territoires du Nord et la province de la Frontière-du-Nord-Ouest » sert de mesure incitative ; le quatrième rapport (2009) indique que plus de 30 aires du pays sont gérées comme aires de conservation communautaires pour la chasse au trophée. Les rapports visent le programme national, pas une liste de zones du Gilgit-Baltistan.", annee: 2006, source: "https://www.cbd.int/doc/world/pk/pk-nr-03-en.pdf"}
+base_nationale:
+  - {instrument: "Northern Areas Wildlife Preservation Act, 1975 (désignée par le département comme Gilgit-Baltistan Wildlife (Protection, Preservation, Conservation and Management) Act, 1975) : art. 5 (aires protégées par notification), art. 10 et 11 (permis de chasse du gibier), art. 45 (pouvoir réglementaire)", nature: "loi", annee: 1975, source: "https://fwegb.gov.pk/wp-content/uploads/2022/01/NA-Wildliffe-Act-1975.pdf"}
+  - {instrument: "Guidelines for Streamlining the Community-Based Sustainable Trophy Hunting Programme in Gilgit-Baltistan (lignes directrices prises au titre de l'art. 45 de la loi de 1975, département des forêts, des parcs et de la faune et UICN Pakistan, 2019)", nature: "loi", annee: 2019, source: "https://fwegb.gov.pk/wp-content/uploads/2022/01/Tropy-Hunting-Guidelines-English.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La communauté décide de créer une aire (conservancy) en assemblée générale et se dote d'un comité de gestion (Management Committee) et d'un comité de conservation qui certifie les rapports annuels, lignes directrices de 2019, § 2.1 et 4 (b) et (j) ; le plan de gestion est approuvé par un comité de district présidé par le commissaire adjoint (Deputy Commissioner), § 2.6 et 3, et le gouvernement peut retirer la notification, § 2.8.", source: "https://fwegb.gov.pk/wp-content/uploads/2022/01/Tropy-Hunting-Guidelines-English.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Le gouvernement verse 80 % du prix des permis de chasse au trophée à l'aire concernée dans les 45 jours suivant la saison, et peut retenir ce montant en cas d'infraction ou de litige dans la communauté, lignes directrices de 2019, § 16 ; au moins 30 % doivent aller à la conservation, § 4 (f) ; les quotas sont fixés par le conseil de gestion de la faune du Gilgit-Baltistan sur avis d'un comité technique, § 6.2 et 6.3. La part de 80 % découle d'une décision du Premier ministre du Pakistan de 1995 (The Express Tribune, 2021), pas de la loi de 1975.", source: "https://fwegb.gov.pk/wp-content/uploads/2022/01/Tropy-Hunting-Guidelines-English.pdf"}
+  consentement: {valeur: "partiel", note: "La création d'une aire exige une résolution signée par au moins 75 % des ménages, lignes directrices de 2019, § 2.1 ; le retrait de la notification passe par une mise en demeure, un délai de réponse de 45 jours et une audition devant le comité de district, § 2.8.1.", source: "https://fwegb.gov.pk/wp-content/uploads/2022/01/Tropy-Hunting-Guidelines-English.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En juin 2021, le ministre en chef du Gilgit-Baltistan a remis 50 millions de roupies aux représentants de 18 zones au titre de la part communautaire (Dawn, 16 juin 2021) ; The Express Tribune (2021) rapporte des critiques sur la gestion et le détournement des fonds ; selon le même article, la CITES a relevé une application faible des textes, un manque de transparence et de la corruption ; le quatrième rapport du Pakistan à la CDB (2009) écrit qu'aucune aire protégée du pays n'est gérée par des communautés autochtones ou locales, que plus de 30 aires sont gérées comme aires de conservation communautaires pour la chasse au trophée, et que la gestion collaborative des aires protégées n'est pas inscrite dans les instruments juridiques formels.", source: "https://www.dawn.com/news/1629653/gb-communities-get-share-in-trophy-hunting-fee"}
+chronologie:
+  - {annee: 1975, evenement: "Loi sur la préservation de la faune des Territoires du Nord."}
+  - {annee: 1990, evenement: "Début du programme de chasse au trophée avec la communauté de la vallée de Bar, selon le département (1991 selon The Express Tribune)."}
+  - {annee: 1992, evenement: "Le gouvernement fédéral approuve un partage des recettes de 75 % pour la communauté et 25 % pour l'État."}
+  - {annee: 1995, evenement: "La part communautaire passe à 80 %."}
+  - {annee: 1997, evenement: "La CITES (Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction) autorise un quota annuel de 12 markhors pour le Pakistan."}
+  - {annee: 2019, evenement: "Lignes directrices sur le programme de chasse au trophée à base communautaire, prises au titre de l'art. 45 de la loi de 1975."}
+  - {annee: 2021, evenement: "50 millions de roupies versés à 18 zones au titre de la part communautaire."}
+fiabilite:
+  verifie: ["Liste des 47 zones et 39 surfaces sur les pages « Trophy Hunting » et « CMCAs (CCHAs) » du département des forêts, de la faune et de l'environnement du Gilgit-Baltistan.", "Texte de la loi de 1975 (art. 5, 10, 11, 44, 45) : aucune disposition sur les communautés ni sur le partage des recettes.", "Lignes directrices de 2019 : § 2.1 à 2.8, 3, 4, 6, 16 et 23 (part de 20 % de l'État réservée à la conservation).", "Troisième (2006) et quatrième (2009) rapports nationaux du Pakistan à la CDB.", "Versement de 50 millions de roupies à 18 zones (Dawn, 16 juin 2021)."]
+  non_confirme: ["Le PDF des lignes directrices est publié par l'UICN et le département ; leur publication au journal officiel (gazette) n'a pas été vérifiée.", "Les notifications individuelles des 47 zones n'ont pas été trouvées ; aucune année de notification par zone.", "Le texte de la décision fédérale de 1995 sur la part de 80 % n'a pas été consulté ; elle est rapportée par The Express Tribune.", "Surface totale : 21 750 km² pour « plus de 50 » aires (presse, 2021) contre 16 505,6 km² pour 39 des 47 zones du département ; 8 zones sans surface publiée.", "Une loi de 2021 sur les aires de biodiversité (GB Wildlife Biodiversity Areas Act 2021) figure comme projet soumis au gouvernement sur le site du département ; son adoption n'a pas été vérifiée.", "Inscription de zones au registre des APAC ou à la base WDPA : non vérifiée."]
+sources:
+  - {titre: "Trophy Hunting — département des forêts, de la faune et de l'environnement du Gilgit-Baltistan", url: "https://fwegb.gov.pk/trophy-hunting/"}
+  - {titre: "Community Managed Conservation Areas — département des forêts, de la faune et de l'environnement du Gilgit-Baltistan", url: "https://fwegb.gov.pk/cmcas/"}
+  - {titre: "Northern Areas Wildlife Preservation Act, 1975 — département des forêts, de la faune et de l'environnement du Gilgit-Baltistan", url: "https://fwegb.gov.pk/wp-content/uploads/2022/01/NA-Wildliffe-Act-1975.pdf"}
+  - {titre: "Guidelines for Streamlining the Community-Based Sustainable Trophy Hunting Programme in Gilgit-Baltistan — UICN Pakistan et département des forêts, des parcs et de la faune (2019)", url: "https://fwegb.gov.pk/wp-content/uploads/2022/01/Tropy-Hunting-Guidelines-English.pdf"}
+  - {titre: "Third National Report on implementation of the CBD in Pakistan (2006)", url: "https://www.cbd.int/doc/world/pk/pk-nr-03-en.pdf"}
+  - {titre: "Fourth National Report of Pakistan to the CBD (2009)", url: "https://www.cbd.int/doc/world/pk/pk-nr-04-en.pdf"}
+  - {titre: "Dawn, « GB communities get share in trophy hunting fee » (16 juin 2021)", url: "https://www.dawn.com/news/1629653/gb-communities-get-share-in-trophy-hunting-fee"}
+  - {titre: "The Express Tribune, « The story behind why Gilgit-Baltistan allows trophy hunting » (25 mars 2021)", url: "https://tribune.com.pk/article/97338/the-story-behind-why-gilgit-baltistan-allows-trophy-hunting"}

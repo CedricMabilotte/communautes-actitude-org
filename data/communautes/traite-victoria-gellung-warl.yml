@@ -1,0 +1,59 @@
+uid: "traite-victoria-gellung-warl"
+nom: "Premiers peuples de Victoria (traité de 2025)"
+endonyme: ""
+territoire: "État de Victoria"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-37.0, 144.5]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "personnelle"
+population: {valeur: 65646, annee: 2021, perimetre: "personnes recensées comme aborigènes ou insulaires du détroit de Torres dont la résidence habituelle est dans l'État de Victoria ; la loi inclut aussi les propriétaires traditionnels qui résident hors de l'État", source: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/2"}
+lieux: {valeur: 5, unite: "régions de représentation de Gellung Warl", annee: 2026, source: "https://gellungwarl.org/"}
+surface_km2: {valeur: 227444, annee: 2004, perimetre: "superficie terrestre de l'État de Victoria (continent et îles), ressort de Gellung Warl", source: "https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/area-of-australia-states-and-territories"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le Statewide Treaty Act 2025 (loi sur le traité à l'échelle de l'État) de Victoria, adopté par l'Assemblée législative le 16 octobre 2025 et par le Conseil législatif le 30 octobre 2025, est le premier traité inscrit dans une loi en Australie. Il crée Gellung Warl, personne morale de droit public qui représente les Premiers peuples de Victoria, définis comme les propriétaires traditionnels (Traditional Owners) et les Aborigènes et insulaires du détroit de Torres qui vivent dans l'État. Gellung Warl réunit trois composantes : la First Peoples' Assembly of Victoria, assemblée élue qui décide et édicte des règles ; Nginma Ngainga Wara, mécanisme de redevabilité du gouvernement ; Nyerna Yoorrook Telkuna, chargé de la recherche de la vérité historique et de l'éducation. L'assemblée conseille le Parlement et le gouvernement sans droit de veto ; la plupart des dispositions sont en vigueur depuis le 1er mai 2026. Les accords de règlement de 2010, les parties aborigènes enregistrées et les fiducies de Lake Tyers et de Framlingham font l'objet de fiches distinctes.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Rapport de la Rapporteuse spéciale sur sa visite en Australie (A/HRC/36/46/Add.2), § 25 : relève que le gouvernement de Victoria conduit une démarche en vue d'un traité avec les peuples aborigènes", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=A/HRC/36/46/Add.2&l=en&t=pdf"}
+  - {mecanisme: "dnudpa", detail: "L'Australie a rallié la Déclaration en 2009 (A/HRC/36/46/Add.2, § 14) ; le préambule de la loi de 2025 s'y réfère, y compris au consentement libre, préalable et éclairé, et la s. 18(2) charge l'assemblée de réaliser l'autodétermination des Premiers peuples conformément à la Déclaration", annee: 2025, source: "https://content.legislation.vic.gov.au/sites/default/files/2025-11/25-045aa-authorised.pdf"}
+base_nationale:
+  - {instrument: "Statewide Treaty Act 2025 (Victoria), loi n° 45 de 2025, sanctionnée le 13 novembre 2025", nature: "traite", annee: 2025, source: "https://www.legislation.vic.gov.au/as-made/acts/statewide-treaty-act-2025"}
+  - {instrument: "Advancing the Treaty Process with Aboriginal Victorians Act 2018 (Victoria)", nature: "loi", annee: 2018, source: "https://www.legislation.vic.gov.au/in-force/acts/advancing-treaty-process-aboriginal-victorians-act-2018"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Gellung Warl est une personne morale qui n'est soumise ni à la direction ni au contrôle du ministre (s. 10 et 13) ; la First Peoples' Assembly, composée de membres généraux élus sur une liste électorale propre et de membres réservés désignés par les groupes de propriétaires traditionnels (s. 17, 55 et 62), en est l'organe central de décision (s. 16).", source: "https://content.legislation.vic.gov.au/sites/default/files/2025-11/25-045aa-authorised.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'assemblée édicte des règles internes et des « règles substantielles » (substantive rules) dans les matières que la loi autorise, dont la certification de l'appartenance aborigène, règles qui s'imposent aux organisations des Premiers peuples (s. 31 et 32) ; ces pouvoirs ne sont pas coercitifs et ne permettent aucune sanction (s. 8), les lois de l'État prévalent (s. 43) et chaque règle peut être annulée par les deux chambres du Parlement (s. 45).", source: "https://content.legislation.vic.gov.au/sites/default/files/2025-11/25-045aa-authorised.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Tout projet de loi est notifié à l'assemblée et accompagné d'une déclaration de compatibilité avec le traité qui indique si elle a été consultée (s. 65 et 66) ; ministres et autorités répondent par écrit en 60 jours à ses observations (s. 83 et 89) ; mais le défaut de consultation ou de réponse n'affecte la validité d'aucune loi ni décision (s. 68, 85 et 89(6)) et la loi ne donne aucun droit de veto.", source: "https://content.legislation.vic.gov.au/sites/default/files/2025-11/25-045aa-authorised.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Crédits prélevés chaque année sur le fonds consolidé de l'État dans des plafonds fixés par la loi (3 millions de dollars australiens en 2025-2026, 72,179 millions en 2028-2029, puis + 2,5 % par an), et autonomie pour fixer ses priorités et répartir ses ressources (s. 143 et 144) ; aucun pouvoir fiscal propre.", source: "https://content.legislation.vic.gov.au/sites/default/files/2025-11/25-045aa-authorised.pdf"}
+  representation: {valeur: "partiel", note: "Discours annuel de l'assemblée devant les deux chambres réunies du Parlement de Victoria (s. 64), avis sur les projets de loi et réunions d'information au moins deux fois par an avec chaque secrétaire de ministère et le chef de la police (s. 86 et 87) ; aucun siège réservé au Parlement.", source: "https://content.legislation.vic.gov.au/sites/default/files/2025-11/25-045aa-authorised.pdf"}
+  statut_personnel: {valeur: "partiel", note: "Les règles substantielles de l'assemblée fixent la manière dont les organisations des Premiers peuples certifient qu'une personne est acceptée comme aborigène ou insulaire du détroit de Torres par sa communauté ; elles s'imposent à ces organisations et ne servent que de référence facultative aux autres entités de Victoria (s. 32).", source: "https://content.legislation.vic.gov.au/sites/default/files/2025-11/25-045aa-authorised.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "La plupart des dispositions sont entrées en vigueur le 1er mai 2026 ; le traité a commencé formellement le 12 décembre 2025 et l'opposition s'est engagée à abroger la loi si elle gagne les élections de l'État de novembre 2026 (ABC News) ; aucune évaluation indépendante de la mise en œuvre n'a été consultée.", source: "https://www.abc.net.au/news/2025-12-12/victorias-historic-treaty-formally-begins/106137848"}
+chronologie:
+  - {annee: 2018, evenement: "Advancing the Treaty Process with Aboriginal Victorians Act : cadre du processus de traité et organe représentatif aborigène."}
+  - {annee: 2022, evenement: "Treaty Authority and Other Treaty Elements Act : loi sur la Treaty Authority, sur laquelle s'appuie la loi de 2025 (préambule)."}
+  - {annee: 2025, evenement: "Projet de loi déposé le 9 septembre, adopté le 16 octobre (Assemblée législative, 54 voix contre 27) et le 30 octobre (Conseil législatif, 21 voix contre 16), sanctionné le 13 novembre."}
+  - {annee: 2025, evenement: "Commencement formel du traité le 12 décembre, à Melbourne."}
+  - {annee: 2026, evenement: "Entrée en vigueur de la plupart des dispositions le 1er mai ; Gellung Warl succède à la First Peoples' Assembly of Victoria Ltd, dont les biens lui sont transférés au 1er juillet (s. 3 et 213)."}
+fiabilite:
+  verifie: ["Texte authentifié de la loi n° 45 de 2025 : préambule, s. 1 à 3, 5, 8, 10, 13, 16 à 19, 31, 32, 43, 45, 55, 62, 64 à 68, 83 à 90, 121, 143, 144 et annexe 2 (legislation.vic.gov.au).", "Absence de droit de veto et contrôle par le Vérificateur général, l'IBAC et l'Ombudsman (ministère des relations avec les Premiers peuples).", "Dates et résultats des votes au Parlement (Parlement de Victoria).", "Population recensée en 2021 (ABS) et superficie de l'État (Geoscience Australia).", "Mention de la démarche de Victoria par la Rapporteuse spéciale en 2017 (A/HRC/36/46/Add.2, § 25)."]
+  non_confirme: ["Nombre de membres de l'assemblée en 2026 : 33 membres selon ABC News (août 2025) avant la loi ; la page d'accueil de Gellung Warl ne donne pas de total ; l'annexe 2 fixe un plafond de 80 membres.", "Date et résultats de l'élection de transition prévue par la partie 18 de la loi.", "Création effective du First Peoples' Institute, organisme de formation annoncé par l'assemblée.", "Issue politique du traité après les élections de l'État de novembre 2026."]
+sources:
+  - {titre: "Statewide Treaty Act 2025, loi n° 45 de 2025, version authentifiée — legislation.vic.gov.au", url: "https://content.legislation.vic.gov.au/sites/default/files/2025-11/25-045aa-authorised.pdf"}
+  - {titre: "Statewide Treaty Act 2025 — fiche de la loi, legislation.vic.gov.au", url: "https://www.legislation.vic.gov.au/as-made/acts/statewide-treaty-act-2025"}
+  - {titre: "Advancing the Treaty Process with Aboriginal Victorians Act 2018 — legislation.vic.gov.au", url: "https://www.legislation.vic.gov.au/in-force/acts/advancing-treaty-process-aboriginal-victorians-act-2018"}
+  - {titre: "Parlement de Victoria — adoption du projet de loi sur le traité (31 octobre 2025)", url: "https://www.parliament.vic.gov.au/news/society/treaty-bill-passed/"}
+  - {titre: "Gouvernement de Victoria — Information about Victoria's Treaty and Statewide Treaty Act 2025", url: "https://www.firstpeoplesrelations.vic.gov.au/information-about-victorias-treaty-and-statewide-treaty-act-2025"}
+  - {titre: "Gellung Warl — site officiel", url: "https://gellungwarl.org/"}
+  - {titre: "Nations unies — Rapport de la Rapporteuse spéciale sur les droits des peuples autochtones, visite en Australie, A/HRC/36/46/Add.2 (2017)", url: "https://documents.un.org/api/symbol/access?s=A/HRC/36/46/Add.2&l=en&t=pdf"}
+  - {titre: "ABC News — Victoria's historic treaty formally begins (12 décembre 2025)", url: "https://www.abc.net.au/news/2025-12-12/victorias-historic-treaty-formally-begins/106137848"}
+  - {titre: "ABC News — Statewide treaty: new powers and education institute (22 août 2025)", url: "https://www.abc.net.au/news/2025-08-22/statewide-treaty-victoria-new-powers-education-institute/105678462"}
+  - {titre: "Allens — Victoria becomes the first state to agree a treaty with First Peoples (novembre 2025)", url: "https://www.allens.com.au/insights-news/insights/2025/11/victoria-becomes-the-first-state-to-agree-a-treaty-with-first-peoples/"}
+  - {titre: "ABS — Recensement 2021, QuickStats Victoria", url: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/2"}
+  - {titre: "Geoscience Australia — Area of Australia, States and Territories", url: "https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/area-of-australia-states-and-territories"}

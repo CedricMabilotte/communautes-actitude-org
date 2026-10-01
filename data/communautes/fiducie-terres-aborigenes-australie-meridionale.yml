@@ -1,0 +1,53 @@
+uid: "fiducie-terres-aborigenes-australie-meridionale"
+nom: "Fiducie des terres aborigènes d'Australie-Méridionale"
+endonyme: ""
+territoire: "Terres détenues par l'Aboriginal Lands Trust en Australie-Méridionale (Eyre et Ouest, Far North, Murray et Mallee, Yorke et Mid North, Limestone Coast, Adelaide)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-31.5, 136.0]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 65, unite: "titres fonciers détenus par le Trust", annee: 2026, source: "https://alt.sa.gov.au/about/"}
+surface_km2: {valeur: 5420, annee: 2026, perimetre: "ensemble des terres détenues par le Trust (« some 5,420 square kilometres »)", source: "https://alt.sa.gov.au/about/"}
+villages: {valeur: 9, annee: 2026, perimetre: "communautés désignées (Designated Communities) : Davenport, Dunjiba, Gerard, Koonibba, Nipapanha (Nepabunna), Point Pearce, Raukkan, Umoona, Yalata ; anciennes missions et réserves", source: "https://alt.sa.gov.au/trust-lands-communities/"}
+resume: >-
+  L'Aboriginal Lands Trust (fiducie des terres aborigènes) d'Australie-Méridionale, créé par une loi de l'État de 1966 et maintenu par l'Aboriginal Lands Trust Act 2013, détient des terres pour le bénéfice continu des Aborigènes d'Australie-Méridionale. Il est composé de huit membres aborigènes et détient 65 titres fonciers, soit environ 5 420 km². Les terres sont inaliénables sauf résolution des deux chambres du Parlement ; le Trust les loue à des conseils communautaires, notamment ceux des neuf communautés désignées, anciennes missions et réserves. Le Trust autorise ou refuse les activités minières sur ses terres, sous réserve d'un arbitrage demandé par l'entreprise, et reçoit les deux tiers des redevances.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Aboriginal Lands Trust Act 2013 (Australie-Méridionale), n° 81 de 2013, en vigueur le 1er juillet 2014", nature: "loi", annee: 2013, source: "https://www.legislation.sa.gov.au/lz?path=%2FC%2FA%2FAboriginal%20Lands%20Trust%20Act%202013"}
+  - {instrument: "Aboriginal Lands Trust Act 1966 (Australie-Méridionale), abrogé", nature: "loi", annee: 1966, source: "https://alt.sa.gov.au/documents/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Trust compte huit membres aborigènes nommés par le gouverneur sur proposition du ministre, après recommandation d'un comité de sélection composé d'Aborigènes (loi de 2013, s. 11 et 12) ; les terres des communautés désignées sont louées à des conseils communautaires (registre des terres, s. 42). Le ministre peut adresser des directives au Trust et le suspendre en nommant un administrateur (s. 29 et 30).", source: "https://alt.sa.gov.au/wp-content/uploads/2025/11/ALT_Act_2013.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les terres du Trust sont inaliénables (loi de 2013, s. 43) ; leur cession en pleine propriété exige une résolution des deux chambres du Parlement (s. 44(2)). Le titre appartient au Trust ; les communautés détiennent des baux de longue durée, par exemple le conseil communautaire de Koonibba sur l'ensemble de la terre de Koonibba (registre, entrée 11).", source: "https://alt.sa.gov.au/wp-content/uploads/2025/11/ALT_Act_2013.pdf"}
+  ressources: {valeur: "partiel", note: "Nul ne peut mener d'activité minière sur les terres du Trust sans sa permission (loi de 2013, s. 53) ; les deux tiers des redevances minières lui reviennent (s. 55), dont la moitié doit servir à la terre concernée ou à la communauté qui y vit (s. 21(3)), dans un plafond annuel fixé par règlement (s. 55(2)). En cas de refus du Trust, le demandeur peut obtenir du ministre des Mines la saisine d'un arbitre (s. 54).", source: "https://alt.sa.gov.au/wp-content/uploads/2025/11/ALT_Act_2013.pdf"}
+  consentement: {valeur: "partiel", note: "Avant toute opération sur une terre ou toute décision sur une demande minière, le Trust consulte les détenteurs de liens traditionnels avec la terre, dont les titulaires du titre autochtone, les résidents et les autres intéressés (loi de 2013, s. 8, 44(5) et 53(4)) ; il s'agit d'une consultation, pas d'un consentement des communautés.", source: "https://alt.sa.gov.au/wp-content/uploads/2025/11/ALT_Act_2013.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2021, le Trust a nommé un gestionnaire qui a remplacé le conseil communautaire de Davenport comme preneur à bail, en invoquant l'état des bâtiments et la gestion du conseil (ABC News, 8 juin 2021). Le rapport annuel 2024-2025 du Trust fait état de difficultés de gouvernance, d'un audit du vérificateur général sur les contrôles internes, d'un programme de révision des baux, de l'exclusion du Trust et de ses communautés du plan d'État Closing the Gap, et d'une proposition de SA Native Title Services (mai 2025) de dissoudre le Trust et de transférer ses terres aux titulaires du titre autochtone.", source: "https://www.abc.net.au/news/2021-06-08/aboriginal-lands-trust-davenport-community-council-housing/100199664"}
+chronologie:
+  - {annee: 1966, evenement: "Aboriginal Lands Trust Act 1966 : création du Trust, composé d'Aborigènes, qui reçoit des terres de la Couronne."}
+  - {annee: 2013, evenement: "Adoption de l'Aboriginal Lands Trust Act 2013, qui remplace la loi de 1966."}
+  - {annee: 2014, evenement: "Entrée en vigueur de la loi de 2013 (1er juillet)."}
+  - {annee: 2021, evenement: "Le Trust nomme un gestionnaire des terres de Davenport à la place du conseil communautaire (juin)."}
+  - {annee: 2025, evenement: "SA Native Title Services propose au ministre des Affaires aborigènes de dissoudre le Trust et de transférer ses terres aux titulaires du titre autochtone (mai)."}
+fiabilite:
+  verifie: ["Sections 8, 11, 12, 21(3), 29, 30, 43, 44, 45, 53, 54 et 55 de la loi de 2013 (version consolidée du 1er janvier 2021, publiée par le Trust).", "65 titres, environ 5 420 km² et neuf communautés désignées (site du Trust).", "Registre public des terres du Trust (s. 42) : 64 entrées numérotées, dont les baux aux conseils communautaires.", "Rapport annuel 2024-2025 : audit, révision des baux, proposition de SA Native Title Services.", "Nomination d'un gestionnaire à Davenport en 2021 (ABC News)."]
+  non_confirme: ["Population résidant sur les terres du Trust et dans les neuf communautés désignées.", "Écart entre les 65 titres annoncés et les 64 entrées du registre public.", "Pouvoirs propres des conseils communautaires au-delà de leurs baux, et teneur des règlements de Yalata et d'Umoona sur les substances réglementées (s. 49).", "Dates du bail de Koonibba : le registre indique un début au 1er janvier 1976 dans la description de l'acte et au 8 juin 1979 dans la colonne des durées.", "Le site du Trust affiche quatre membres du conseil alors que la loi en prévoit huit ; le rapport 2024-2025 en liste sept."]
+sources:
+  - {titre: "Aboriginal Lands Trust Act 2013 — legislation.sa.gov.au", url: "https://www.legislation.sa.gov.au/lz?path=%2FC%2FA%2FAboriginal%20Lands%20Trust%20Act%202013"}
+  - {titre: "Aboriginal Lands Trust Act 2013, version consolidée (PDF) — Aboriginal Lands Trust", url: "https://alt.sa.gov.au/wp-content/uploads/2025/11/ALT_Act_2013.pdf"}
+  - {titre: "Aboriginal Lands Trust — About", url: "https://alt.sa.gov.au/about/"}
+  - {titre: "Aboriginal Lands Trust — Trust Lands & Communities", url: "https://alt.sa.gov.au/trust-lands-communities/"}
+  - {titre: "Registre des terres du Trust (s. 42)", url: "https://alt.sa.gov.au/wp-content/uploads/2025/11/UPLOADED-DOCUMENTS-s42_Register_Trust-Land_Public.pdf"}
+  - {titre: "Aboriginal Lands Trust — Rapport annuel 2024-2025", url: "https://alt.sa.gov.au/wp-content/uploads/2026/08/2024-25-Annual-Report-Final-A4277845.pdf"}
+  - {titre: "ABC News — Manager appointed to run services in Davenport Indigenous community (8 juin 2021)", url: "https://www.abc.net.au/news/2021-06-08/aboriginal-lands-trust-davenport-community-council-housing/100199664"}
+  - {titre: "ABC News — Community group criticises « permit » requirement to deliver programs to Davenport (6 septembre 2021)", url: "https://www.abc.net.au/news/2021-09-06/davenport-council-lands-trust-aboriginal-permit-manage/100437220"}

@@ -1,0 +1,55 @@
+uid: "recifs-coutumiers-chuuk"
+nom: "Récifs et municipalités coutumières de Chuuk"
+endonyme: ""
+territoire: "État de Chuuk (lagon de Chuuk et îles extérieures)"
+etats: ["États fédérés de Micronésie"]
+region: "oceanie"
+coord: [7.4, 151.8]
+type: "communaute_locale"
+types_secondaires: ["collectivite_autonome"]
+base: "territoriale"
+population: {valeur: 33885, annee: 2023, perimetre: "population de l'État de Chuuk au recensement de la population et de l'habitat de 2023", source: "https://stats.gov.fm/topics/social/population-statistics/"}
+lieux: {valeur: 39, unite: "municipalités", annee: 1989, source: "http://fsmlaw.org/chuuk/constitution/article13.htm"}
+surface_km2: {valeur: 121.5, annee: null, perimetre: "superficie de l'État indiquée par la source, lagons non compris (le seul lagon du groupe central de Chuuk couvre 2 072 km² selon PacIOOS)", source: "https://en.wikipedia.org/wiki/Chuuk_State"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'État de Chuuk, l'un des quatre États fédérés de Micronésie, a adopté une constitution entrée en vigueur le 1er octobre 1989. Son article IV reconnaît les droits traditionnels sur les récifs, les estrans (zones découvertes à marée basse) et les autres terres submergées, y compris la colonne d'eau, et maintient le rôle des chefs traditionnels. L'article XIII institue 39 municipalités, dont la constitution « doit être démocratique et peut être traditionnelle ». Les terres de lignage (fonuen eterenges) sont tenues collectivement par des lignages matrilinéaires.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de l'État de Chuuk (1989), art. IV (droits traditionnels)", nature: "constitution", annee: 1989, source: "http://fsmlaw.org/chuuk/constitution/article04.htm"}
+  - {instrument: "Constitution de l'État de Chuuk (1989), art. XIII (municipalités)", nature: "constitution", annee: 1989, source: "http://fsmlaw.org/chuuk/constitution/article13.htm"}
+  - {instrument: "Constitution des États fédérés de Micronésie, art. XIII, s. 4 (interdiction de l'acquisition de terres par des non-citoyens)", nature: "constitution", annee: null, source: "http://fsmlaw.org/fsm/constitution/article13.htm"}
+  - {instrument: "Tenure foncière coutumière chuukaise (fonuen eterenges, terres de lignage)", nature: "coutume_reconnue", annee: null, source: "https://micsem.org/micronesian-counselo/land-issues-in-chuuk/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque municipalité adopte sa constitution, qui « doit être démocratique et peut être traditionnelle » (art. XIII, s. 5) ; la constitution ne retire pas leur rôle aux chefs traditionnels reconnus par la coutume et permet de leur confier des fonctions dans le gouvernement (art. IV, s. 2).", source: "https://fsmlaw.org/chuuk/constitution/entire.htm"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les pouvoirs municipaux sur les affaires locales priment sur la loi de l'État (art. XIII, s. 5) ; la coutume et la tradition chuukaises existantes sont respectées et la législature peut les protéger par la loi (art. IV, s. 1).", source: "https://fsmlaw.org/chuuk/constitution/entire.htm"}
+  justice_propre: {valeur: "partiel", note: "Le pouvoir judiciaire est confié aux tribunaux de l'État et aux tribunaux municipaux (art. VII, s. 1) ; les décisions de justice doivent être compatibles avec les traditions et coutumes locales (art. VII, s. 14).", source: "http://fsmlaw.org/chuuk/constitution/article07.htm"}
+  terres: {valeur: "partiel", note: "Les droits traditionnels sur les récifs, estrans et autres terres submergées sont reconnus (Constitution de Chuuk, art. IV, s. 4). Les terres émergées de lignage n'ont pas de disposition constitutionnelle propre ; la Cour suprême de Chuuk juge qu'elles appartiennent aux descendants matrilinéaires du lignage (Chipuelong v. Chuuk, 1993).", source: "http://fsmlaw.org/chuuk/constitution/article04.htm"}
+  ressources: {valeur: "reconnu", note: "« Les droits traditionnels sur tous les récifs, estrans et autres terres submergées, y compris leur colonne d'eau, et les droits des successeurs sont reconnus » ; la législature peut en réglementer l'usage raisonnable (art. IV, s. 4). La compétence municipale s'étend à l'espace marin situé à l'intérieur des récifs (art. XIII, s. 4).", source: "https://fsmlaw.org/chuuk/constitution/entire.htm"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "« Le chuukais est la langue de l'État, mais le chuukais et l'anglais sont tous deux langues officielles » (art. XI, s. 6).", source: "https://fsmlaw.org/chuuk/constitution/entire.htm"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "La législature affecte chaque année aux municipalités au moins 8 % des crédits de fonctionnement de l'État et au moins 40 % des crédits de développement (art. VIII, s. 6) ; elle peut leur déléguer des pouvoirs fiscaux par la loi (art. VIII, s. 7).", source: "http://fsmlaw.org/chuuk/constitution/article08.htm"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La Cour suprême de Chuuk applique l'article IV, s. 4 en restreignant sa portée : effet pour l'avenir seulement (Nimeisa v. Department of Public Works, 1993), exclusion des chenaux profonds, qui restent à l'État, et des estrans remblayés avant le 1er octobre 1989 (Sellem v. Maras, 1995). En 1994, sur 15 000 parcelles, 7 300 étaient déposées au bureau foncier et 4 300 avaient une propriété établie (F. X. Hezel, Micronesian Counselor no 16).", source: "http://fsmlaw.org/chuuk/constitution/article04.htm"}
+chronologie:
+  - {annee: 1989, evenement: "Entrée en vigueur de la Constitution de l'État de Chuuk le 1er octobre (art. XV, s. 1)."}
+  - {annee: 1990, evenement: "Fin de la tutelle de l'ONU pour les États fédérés de Micronésie (résolution 683 du Conseil de sécurité)."}
+  - {annee: 1993, evenement: "Nimeisa v. Department of Public Works : la Cour suprême de Chuuk reconnaît les droits traditionnels sur les estrans, pour l'avenir seulement."}
+  - {annee: 1994, evenement: "Publication de l'étude de F. X. Hezel sur la tenure foncière à Chuuk (Micronesian Seminar)."}
+  - {annee: 1995, evenement: "Sellem v. Maras : la Cour suprême de Chuuk exclut les chenaux profonds et les terres remblayées avant 1989 du champ de l'art. IV, s. 4."}
+fiabilite:
+  verifie: ["Art. IV (s. 1 à 4), VII (s. 1 et 14), VIII (s. 6 à 8), XI (s. 6) et XIII (s. 1 à 7) de la Constitution de Chuuk (FSM Legal Information System).", "Liste de 39 municipalités à l'art. XIII, s. 2.", "Art. XIII, s. 4 de la Constitution fédérale.", "Description des terres de lignage (fonuen eterenges) et des droits sur les récifs et estrans (Hezel, 1994).", "Jurisprudence de la Cour suprême de Chuuk sur l'art. IV, s. 4 (Nimeisa, 1993 ; Nena v. Walter, 1993 ; Sellem v. Maras, 1995) et sur les terres de lignage (Chipuelong, 1993), annotations du FSM Legal Information System.", "Population de 2023 : 33 885 (office statistique des États fédérés de Micronésie)."]
+  non_confirme: ["Nombre actuel de municipalités : une source secondaire en compte 40 (16 dans le lagon, 24 dans les îles extérieures), contre 39 dans le texte constitutionnel.", "Existence d'une loi réglementant l'usage des récifs au titre de l'art. IV, s. 4.", "Tenue effective de la conférence des chefs traditionnels prévue à l'art. IV, s. 3.", "Nombre de municipalités dotées d'une constitution de forme traditionnelle.", "Application de l'art. IV, s. 4 après 1995 et état actuel de l'enregistrement foncier."]
+sources:
+  - {titre: "Constitution de l'État de Chuuk — FSM Legal Information System", url: "https://fsmlaw.org/chuuk/constitution/entire.htm"}
+  - {titre: "Constitution de Chuuk, art. IV — Droits traditionnels", url: "http://fsmlaw.org/chuuk/constitution/article04.htm"}
+  - {titre: "Constitution de Chuuk, art. XIII — Municipalités", url: "http://fsmlaw.org/chuuk/constitution/article13.htm"}
+  - {titre: "Constitution des États fédérés de Micronésie, art. XIII", url: "http://fsmlaw.org/fsm/constitution/article13.htm"}
+  - {titre: "F. X. Hezel, « Land Issues in Chuuk », Micronesian Counselor no 16 (1994)", url: "https://micsem.org/micronesian-counselo/land-issues-in-chuuk/"}
+  - {titre: "PacIOOS — Federated States of Micronesia", url: "https://www.pacioos.hawaii.edu/education/region-fsm/"}
+  - {titre: "FSM Statistics — Population Statistics (recensement de 2023)", url: "https://stats.gov.fm/topics/social/population-statistics/"}
+  - {titre: "Wikipedia — Chuuk State", url: "https://en.wikipedia.org/wiki/Chuuk_State"}

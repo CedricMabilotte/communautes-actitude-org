@@ -1,0 +1,54 @@
+uid: "adjarie-georgie"
+nom: "République autonome d'Adjarie"
+endonyme: "აჭარის ავტონომიური რესპუბლიკა (Atcharis avtonomiouri respoublika)"
+territoire: "Adjarie, au sud-ouest de la Géorgie, sur la mer Noire, à la frontière turque ; chef-lieu Batoumi"
+etats: ["Géorgie"]
+region: "asie"
+coord: [41.6, 42.0]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 413214, annee: 2026, perimetre: "population de la république autonome au 1er janvier 2026, publiée en milliers par l'office national de la statistique (Geostat)", source: "https://geostat.ge/media/78356/01-population-by-self-governed-unit.xlsx"}
+lieux: {valeur: 6, unite: "municipalités (ville de Batoumi et municipalités de Keda, Kobouleti, Khelvatchaouri, Chouakhevi et Khoulo)", annee: 2026, source: "https://geostat.ge/media/78356/01-population-by-self-governed-unit.xlsx"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'Adjarie est une république autonome de la Géorgie, située sur la mer Noire autour de Batoumi. Son autonomie remonte à 1921 : une république soviétique autonome est créée en juillet, et le traité de Kars d'octobre cède Batoumi à la Géorgie soviétique sous condition d'autonomie locale. Elle ne repose sur aucune désignation ethnique : elle a été accordée à une population géorgienne de tradition musulmane. Depuis 2017, la loi constitutionnelle n° 1325 « sur la République autonome d'Adjarie » encadre sa constitution propre, son Conseil suprême de 21 députés au plus qui vote des lois et le budget, et un gouvernement dont le président est proposé par le président de la Géorgie. La Constitution de la Géorgie de 2018 renvoie ses compétences à des lois constitutionnelles (art. 7) et donne au Conseil suprême l'initiative des lois au Parlement géorgien (art. 45).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la Géorgie (version révisée en vigueur depuis 2018), art. 7(2), 45(1), 50(3) et 60(4)", nature: "constitution", annee: 2018, source: "https://www.constituteproject.org/constitution/Georgia_2018"}
+  - {instrument: "Loi constitutionnelle de la Géorgie « sur la République autonome d'Adjarie », n° 1325-რს du 13 octobre 2017, publiée le 19 octobre 2017", nature: "statut_autonomie", annee: 2017, source: "https://www.matsne.gov.ge/en/document/view/3811829"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Conseil suprême (organe représentatif suprême) de 21 députés au plus, élus pour quatre ans au suffrage universel direct par les citoyens géorgiens inscrits en Adjarie, et gouvernement responsable devant lui (loi constitutionnelle de 2017, art. 3 et 4) ; le président de la Géorgie propose le président du gouvernement et peut dissoudre le Conseil avec l'accord du Parlement géorgien, et le gouvernement adjar répond aussi devant le président et le gouvernement de la Géorgie (art. 3(8), 4(3) et 4(6)).", source: "https://www.matsne.gov.ge/en/document/view/3811829"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le Conseil suprême adopte à la majorité des deux tiers la constitution de l'Adjarie, qui entre en vigueur après approbation par une loi organique de la Géorgie, et adopte les lois de l'Adjarie dans ses compétences propres (loi constitutionnelle de 2017, art. 1(4), 2(2)(a) et 3(5)) ; le gouvernement de la Géorgie peut suspendre ou annuler les actes du gouvernement adjar contraires au droit géorgien (art. 4(7)).", source: "https://www.matsne.gov.ge/en/document/view/3811829"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La république autonome gère et cède les terres dont elle est propriétaire et assure la planification spatiale et territoriale, selon les règles du droit géorgien et adjar (loi constitutionnelle de 2017, art. 2(2)(d), (e) et (f)).", source: "https://www.matsne.gov.ge/en/document/view/3811829"}
+  ressources: {valeur: "partiel", note: "La république autonome gère et cède les forêts et ressources en eau dont elle est propriétaire, dans le cadre du droit géorgien (loi constitutionnelle de 2017, art. 2(2)(e)).", source: "https://www.matsne.gov.ge/en/document/view/3811829"}
+  consentement: {valeur: "partiel", note: "Les limites administratives de l'Adjarie peuvent être modifiées par une loi organique de la Géorgie à l'initiative de son Conseil suprême, qui statue à la majorité des deux tiers (loi constitutionnelle de 2017, art. 1(2)) ; la loi ne prévoit pas d'autre consultation obligatoire.", source: "https://www.matsne.gov.ge/en/document/view/3811829"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "La république autonome crée, gère et soutient les établissements d'enseignement, de recherche, d'art et de sport d'importance régionale, et peut exercer des compétences en éducation, culture, sport et jeunesse non réservées à l'État ni aux collectivités locales (loi constitutionnelle de 2017, art. 2(2)(h) et 2(3)).", source: "https://www.matsne.gov.ge/en/document/view/3811829"}
+  fiscalite: {valeur: "partiel", note: "Le Conseil suprême adopte la loi de budget de l'Adjarie ; la république autonome dispose d'une « autonomie financière dans les limites fixées par la législation de la Géorgie » et peut recevoir une part des recettes fiscales de l'État et un financement spécial du budget national (loi constitutionnelle de 2017, art. 2(2)(c), 2(5) et 3(5)(d)).", source: "https://www.matsne.gov.ge/en/document/view/3811829"}
+  representation: {valeur: "partiel", note: "Le Conseil suprême détient l'initiative législative au Parlement de la Géorgie (Constitution de 2018, art. 45(1)) ; ses membres font partie du collège électoral qui élit le président de la Géorgie (art. 50(3)) ; il peut, comme le gouvernement adjar, saisir la Cour constitutionnelle d'un conflit de compétences (art. 60(4)(d)) ; un Sénat comprenant des membres élus en Adjarie n'est prévu qu'après le rétablissement de la juridiction géorgienne sur tout le territoire (art. 37(1)).", source: "https://www.constituteproject.org/constitution/Georgia_2018"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Conseil suprême élu le 26 octobre 2024 a tenu sa première session le 26 novembre 2024 et élu son président et ses présidents de commission, alors que l'opposition, qui conteste la régularité des élections, refuse de siéger (Civil.ge).", source: "https://civil.ge/archives/638034"}
+chronologie:
+  - {annee: 1921, evenement: "Création de la République socialiste soviétique autonome d'Adjarie (juillet) ; traité de Kars (13 octobre) : la Turquie cède Batoumi et sa région à la Géorgie soviétique sous condition d'autonomie locale."}
+  - {annee: 2004, evenement: "Départ du dirigeant Aslan Abachidze en mai ; loi n° 305 du 1er juillet sur le statut de la République autonome d'Adjarie."}
+  - {annee: 2017, evenement: "Loi constitutionnelle n° 1325 du 13 octobre « sur la République autonome d'Adjarie », qui abroge celle de 2004."}
+  - {annee: 2018, evenement: "Entrée en vigueur de la Constitution révisée de la Géorgie : compétences de l'Adjarie fixées par loi constitutionnelle (art. 7) et initiative législative de son Conseil suprême (art. 45)."}
+  - {annee: 2024, evenement: "Élection du Conseil suprême le 26 octobre (participation de 63,6 %) ; 13 sièges sur 21 au Rêve géorgien."}
+  - {annee: 2025, evenement: "Fin, à leur demande, du mandat de six députés d'opposition du Conseil suprême (février)."}
+fiabilite:
+  verifie: ["Texte anglais de la loi constitutionnelle n° 1325-რს du 13 octobre 2017 (art. 1 à 5) sur le registre législatif officiel (Matsne), dont l'abrogation de la loi de 2004 (art. 5(2)).", "Loi n° 305 du 1er juillet 2004 (qualifiée de loi constitutionnelle par la loi de 2017, art. 5(2)) : date d'expiration au 19 octobre 2017 indiquée par Matsne ; elle prévoyait l'introduction d'impôts et taxes locaux (art. 7(1)(n)), disposition absente de la loi de 2017.", "Constitution de la Géorgie (version 2018), art. 2(3), 7(1), 7(2), 37(1), 45(1), 50(3) et 60(4)(d), sur Constitute Project et sur Matsne.", "Population de 413 214 habitants au 1er janvier 2026 et liste des six municipalités, tableau de Geostat.", "Résultats et suites des élections du Conseil suprême de 2024 (Civil.ge, articles 636141, 638034 et 662163)."]
+  non_confirme: ["Superficie : 2 880 km² selon l'encyclopédie Wikipédia ; aucune source officielle consultée.", "Nombre de villages : non trouvé dans une source officielle.", "Termes exacts de l'article 6 du traité de Kars (1921) : non lus sur une source primaire ; date de création de la république soviétique autonome (16 juillet 1921) selon l'encyclopédie Wikipédia seulement.", "Texte de la constitution propre de l'Adjarie et liste de ses ministères : non consultés.", "Avis de la Commission de Venise sur le statut de l'Adjarie (2004) : site inaccessible lors de la recherche.", "Aucun document de l'ONU ni d'un mécanisme régional visant ce statut n'a été trouvé."]
+sources:
+  - {titre: "Loi constitutionnelle de la Géorgie « On the Autonomous Republic of Ajara », n° 1325-რს, 2017 — Matsne (registre législatif de la Géorgie)", url: "https://www.matsne.gov.ge/en/document/view/3811829"}
+  - {titre: "Loi « On the Status of the Autonomous Republic of Ajara », n° 305, 2004 (abrogée) — Matsne", url: "https://www.matsne.gov.ge/en/document/view/30442"}
+  - {titre: "Constitution de la Géorgie (révision de 2018) — Constitute Project", url: "https://www.constituteproject.org/constitution/Georgia_2018"}
+  - {titre: "Constitution de la Géorgie, version consolidée — Matsne", url: "https://www.matsne.gov.ge/en/document/view/30346"}
+  - {titre: "Geostat, Population as of 1 January by regions and self-governed units", url: "https://geostat.ge/media/78356/01-population-by-self-governed-unit.xlsx"}
+  - {titre: "Civil.ge, Final Results of Adjara Supreme Council Elections (2024)", url: "https://civil.ge/archives/636141"}
+  - {titre: "Civil.ge, Supreme Council of Adjara Holds First Session, Opposition Does Not Enter (2024)", url: "https://civil.ge/archives/638034"}
+  - {titre: "Civil.ge, GD Terminates Mandates of Six Opposition Deputies in Adjara Supreme Council (2025)", url: "https://civil.ge/archives/662163"}

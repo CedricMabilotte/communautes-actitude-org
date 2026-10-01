@@ -1,0 +1,62 @@
+uid: "foresterie-sociale-indonesie"
+nom: "Foresterie sociale d'Indonésie"
+endonyme: ""
+territoire: "Zones de la forêt domaniale (kawasan hutan) attribuées en gestion aux villages et aux groupes locaux, dans les provinces d'Indonésie"
+etats: ["Indonésie"]
+region: "asie"
+coord: [-0.5, 116.5]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 11065, unite: "décisions d'accès à la foresterie sociale (SK), tous schémas confondus, forêts coutumières et partenariats forestiers compris", perimetre: "tous schémas, forêts coutumières comprises (voir la fiche « Forêts coutumières d'Indonésie »)", annee: 2025, source: "https://www.kehutanan.go.id/news/menhut-8-4-juta-hektare-telah-diberikan-ke-masyarakat-untuk-perhutanan-sosial"}
+surface_km2: {valeur: 84000, annee: 2025, perimetre: "surface totale des approbations de foresterie sociale, tous schémas confondus (8,4 millions d'ha)", source: "https://www.kehutanan.go.id/news/menhut-8-4-juta-hektare-telah-diberikan-ke-masyarakat-untuk-perhutanan-sosial"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les villages et les groupes locaux qui détiennent une approbation de gestion au titre de la foresterie sociale (perhutanan sosial), surtout les forêts de village (hutan desa, confiées à une institution villageoise) et les forêts communautaires (hutan kemasyarakatan, confiées à des groupes d'exploitants ou à des coopératives). Le régime repose sur le règlement gouvernemental n° 23 de 2021 (chapitre VI) et sur le règlement du ministre de l'Environnement et des Forêts n° 9 de 2021, qui prévoit aussi les plantations populaires, les forêts coutumières et les partenariats forestiers. L'approbation de forêt de village, de forêt communautaire ou de plantation populaire donne un droit de gestion et d'usage de 35 ans renouvelable, sans propriété du sol. Le 10 septembre 2025, le ministère des Forêts annonçait 11 065 décisions, 8,4 millions d'ha et 1,4 million de ménages, tous schémas confondus. Les forêts coutumières, comptées dans ces totaux, font l'objet de la fiche « Forêts coutumières d'Indonésie ».
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Règlement gouvernemental n° 23 de 2021 sur l'administration des forêts (Peraturan Pemerintah 23/2021), art. 1 point 64 et chapitre VI (art. 203 à 247) sur la gestion de la foresterie sociale", nature: "loi", annee: 2021, source: "https://pasal.id/peraturan/pp/pp-no-23-tahun-2021"}
+  - {instrument: "Règlement du ministre de l'Environnement et des Forêts n° 9 de 2021 sur la gestion de la foresterie sociale (Permen LHK 9/2021), art. 1, 3, 7, 8, 90, 92 et 93", nature: "loi", annee: 2021, source: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'approbation de gestion d'une forêt de village est donnée par le ministre à une institution villageoise (lembaga desa) que le chef de village crée à l'issue de l'assemblée délibérative du village (musyawarah desa) ; celle d'une forêt communautaire va à une personne, à un groupe d'exploitants, à une union de groupes ou à une coopérative locale (règlement ministériel n° 9 de 2021, art. 1 points 15, 16 et 21, art. 7 (1)) ; le titulaire rend compte de l'exécution de ses plans à l'autorité qui a délivré l'approbation (art. 93).", source: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "L'approbation de gestion porte sur la forêt domaniale et « n'est pas un droit de propriété sur la zone forestière » (règlement ministériel n° 9 de 2021, art. 7 (2)) ; elle est accordée pour 35 ans et peut être prolongée (art. 8 (1)) ; le titulaire ne peut ni la céder, ni donner la zone en garantie, ni la louer, ni l'utiliser à d'autres fins ; si la zone est déclarée projet stratégique national, le ministre modifie l'approbation (art. 97).", source: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
+  ressources: {valeur: "partiel", note: "Le titulaire a le droit de gérer et d'utiliser la zone selon les savoirs locaux (kearifan lokal), de tirer profit des ressources génétiques et de développer une économie fondée sur la forêt (règlement ministériel n° 9 de 2021, art. 90) ; il doit tenir le registre des produits forestiers et payer les recettes non fiscales dues à l'État (art. 93 (1) f et g) ; la plantation de palmiers à huile est interdite sur toute la zone, la coupe d'arbres et les engins mécaniques dans la partie classée forêt de protection.", source: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Une étude sur Sumatra et Kalimantan (Santika et al., Global Environmental Change, 2017) mesure une déforestation évitée dans les forêts de village entre 2012 et 2016, par comparaison avec des zones semblables sans ce statut, avec des résultats de plus en plus variables selon les années, les lieux et la sécheresse ; une revue de la littérature (Rakatama et Pandit, Forest Policy and Economics, 2020) relève des résultats inégaux entre régions et des obstacles sociaux et environnementaux à la mise en œuvre.", source: "https://doi.org/10.1016/j.gloenvcha.2017.08.002"}
+chronologie:
+  - {annee: 2012, evenement: "Les forêts de village couvrent 750 km² à Sumatra et à Kalimantan."}
+  - {annee: 2016, evenement: "Les forêts de village couvrent 2 500 km² à Sumatra et à Kalimantan."}
+  - {annee: 2021, evenement: "Règlement gouvernemental n° 23 sur l'administration des forêts et règlement ministériel n° 9 sur la gestion de la foresterie sociale (1er avril 2021) : cinq schémas, approbations de 35 ans renouvelables."}
+  - {annee: 2025, evenement: "Le ministère des Forêts annonce 11 065 décisions d’accès, 8,4 millions d'ha, 1,4 million de ménages et 15 769 groupes d'activité économique de foresterie sociale (KUPS), tous schémas confondus."}
+fiabilite:
+  verifie:
+    - "Définitions des cinq schémas, des forêts de village, des forêts communautaires et de l'institution villageoise (art. 1 et 3), absence de droit de propriété (art. 7 (2)), durée de 35 ans renouvelable (art. 8 (1)), droits et obligations des titulaires (art. 90 et 93) dans le texte du règlement ministériel n° 9 de 2021 publié sur pasal.id."
+    - "Définition de la foresterie sociale (art. 1 point 64) et intitulé du chapitre VI (art. 203 à 247) du règlement gouvernemental n° 23 de 2021."
+    - "Chiffres de septembre 2025 (11 065 décisions, 8,4 millions d'ha, 1,4 million de ménages, 15 769 groupes d'activité économique) dans le communiqué SP. 198/HUMAS/PP/HMS.3/9/2025 du ministère des Forêts."
+    - "Interdictions faites au titulaire (cession, palmier à huile sur toute la zone, mise en garantie, coupe et engins mécaniques en forêt de protection, location, usage à d'autres fins) et modification en cas de projet stratégique national (art. 97) dans le texte publié sur pasal.id."
+    - "Le règlement gouvernemental n° 8 de 2026 modifie le règlement n° 23 de 2021 en insérant le seul article 293A (zone franche de Batam) ; le chapitre VI n'est pas modifié."
+    - "Surfaces des forêts de village de 2012 et 2016 dans le résumé de Santika et al., 2017."
+  non_confirme:
+    - "Le communiqué de 2025 situe les chiffres « de janvier à septembre 2025 » ; ils semblent cumulés depuis le début du programme, sans que le texte le dise."
+    - "Les chiffres de 2025 couvrent tous les schémas, y compris forêts coutumières et partenariats forestiers ; la part des forêts de village et des forêts communautaires n'a pas été trouvée."
+    - "Aucune liste officielle des approbations par site n'a pu être consultée ; pas de tableau par site."
+    - "Le nombre de personnes concernées n'est pas connu : seuls 1,4 million de ménages sont comptés."
+    - "Le règlement ministériel n° 9 de 2021 figure comme en vigueur sur pasal.id ; une modification après la création du ministère des Forêts en 2024 n'a pas été vérifiée."
+    - "Le numéro de l'article qui énumère les interdictions n'a pas pu être lu dans la version en ligne (texte désordonné ; le parallèle avec l'art. 94 (2) pour les forêts coutumières suggère l'art. 93 (2), non confirmé)."
+    - "Aucun document onusien nommant ce régime n'a été trouvé (le cinquième rapport national à la Convention sur la diversité biologique ne cite que la direction générale chargée de la foresterie sociale)."
+sources:
+  - {titre: "Règlement du ministre de l'Environnement et des Forêts n° 9 de 2021 sur la gestion de la foresterie sociale — pasal.id", url: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
+  - {titre: "Règlement gouvernemental n° 23 de 2021 sur l'administration des forêts — pasal.id", url: "https://pasal.id/peraturan/pp/pp-no-23-tahun-2021"}
+  - {titre: "« Menhut : 8,4 juta hektare telah diberikan ke masyarakat untuk perhutanan sosial », communiqué du ministère des Forêts, 10 septembre 2025", url: "https://www.kehutanan.go.id/news/menhut-8-4-juta-hektare-telah-diberikan-ke-masyarakat-untuk-perhutanan-sosial"}
+  - {titre: "Santika et al., « Community forest management in Indonesia: Avoided deforestation in the context of anthropogenic and climate complexities », Global Environmental Change, 2017", url: "https://doi.org/10.1016/j.gloenvcha.2017.08.002"}
+  - {titre: "Rakatama et Pandit, « Reviewing social forestry schemes in Indonesia: Opportunities and challenges », Forest Policy and Economics, 2020", url: "https://doi.org/10.1016/j.forpol.2019.102052"}

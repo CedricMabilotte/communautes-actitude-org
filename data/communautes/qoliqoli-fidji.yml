@@ -1,0 +1,58 @@
+uid: "qoliqoli-fidji"
+nom: "Zones de pêche coutumières (qoliqoli) de Fidji"
+endonyme: "iQoliqoli"
+territoire: "Zones de pêche coutumières marines et d'eau douce enregistrées à Fidji"
+etats: ["Fidji"]
+region: "oceanie"
+coord: [-17.8, 178.0]
+type: "peuple_autochtone"
+types_secondaires: ["communaute_locale"]
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 410, unite: "zones de pêche coutumières (qoliqoli), dont 385 marines et 25 d'eau douce selon le cinquième rapport national à la CDB (2014) ; le profil de la FAO (2009) compte 406 zones de gestion traditionnelle", annee: 2020, source: "https://www.cbd.int/doc/world/fj/fj-nbsap-v2-en.pdf"}
+surface_km2: {valeur: null, annee: 2020, perimetre: "ensemble des qoliqoli, soit 2,3 % des eaux territoriales selon la stratégie nationale pour la biodiversité 2020-2025 ; aucune surface en km² publiée trouvée", source: "https://www.cbd.int/doc/world/fj/fj-nbsap-v2-en.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les unités sociales iTaukei (mataqali, lignages ou clans, et autres subdivisions) titulaires de droits de pêche coutumiers enregistrés à Fidji. La loi sur les pêches (chap. 158, en vigueur depuis le 1er janvier 1942) charge une Commission des pêcheries autochtones (aujourd'hui Commission des pêcheries iTaukei) d'établir quels droits de pêche coutumiers sont la propriété héréditaire de ces unités et d'en inscrire les limites et les titulaires dans un registre tenu par le conservateur des titres (art. 14 à 20). Sur un récif ou un banc de coquillages inscrit au registre, une personne extérieure au groupe doit obtenir un permis du commissaire de division, qui consulte le groupe titulaire (art. 13). La Constitution de 2013 donne aux titulaires de droits de pêche coutumiers enregistrés une part des redevances minières perçues sur le fond marin de leur zone (art. 30). Ce régime est distinct de celui des terres iTaukei.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Stratégie et plan d'action nationaux pour la biodiversité 2020-2025, transmis à la Convention sur la diversité biologique : ils décrivent le droit des propriétaires coutumiers de pêcher sans permis dans les zones inscrites au registre des droits de pêche coutumiers iTaukei, le rôle de la Commission des terres et pêcheries iTaukei, les 410 iQoliqoli et les 415 aires tabu (protégées) du réseau des aires marines gérées localement dans 143 d'entre elles en 2013 ; le cinquième rapport national (2014) décrit les qoliqoli comme des zones de pêche sous le contrôle des communautés riveraines", annee: 2020, source: "https://www.cbd.int/doc/world/fj/fj-nbsap-v2-en.pdf"}
+base_nationale:
+  - {instrument: "Fisheries Act (loi sur les pêches), chap. 158, éd. 1992, art. 13 à 20", nature: "loi", annee: 1942, source: "https://faolex.fao.org/docs/pdf/fij1155.pdf"}
+  - {instrument: "Native Fisheries Commission (Inquiries) Rules (règles d'enquête de la Commission des pêcheries autochtones), prises en vertu de l'art. 15 de la loi, en vigueur le 9 mai 1947, modifiées en 1977", nature: "loi", annee: 1947, source: "https://faolex.fao.org/docs/pdf/fij4299.pdf"}
+  - {instrument: "Fisheries Regulations (règlement sur les pêches), chap. 158, pris en vertu de l'art. 9 de la loi, en vigueur le 26 février 1965, règl. 4 et 28", nature: "loi", annee: 1965, source: "https://faolex.fao.org/docs/pdf/fij4296.pdf"}
+  - {instrument: "Constitution de la République de Fidji (2013), art. 30", nature: "constitution", annee: 2013, source: "https://www.constituteproject.org/constitution/Fiji_2013"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La Commission des pêcheries autochtones établit quels droits de pêche coutumiers sont la « propriété légitime et héréditaire » des mataqali ou d'autres subdivisions, consigne leurs limites et le nom des communautés titulaires (loi sur les pêches, art. 14 et 15) et les inscrit au registre des droits de pêche coutumiers, conservé comme le registre des terres concédées par la Couronne ; chaque groupe reçoit une copie de la partie qui le concerne (art. 19 et 20). La loi enregistre des droits de pêche ; elle ne traite pas de la propriété du fond marin.", source: "https://faolex.fao.org/docs/pdf/fij1155.pdf"}
+  ressources: {valeur: "partiel", note: "Dans une zone inscrite au registre, il est interdit de prendre du poisson sur un récif ou un banc de coquillages sans être membre du groupe titulaire ou sans permis ; la pêche à la ligne, au harpon ou au piège portatif hors activité commerciale en est exemptée (loi sur les pêches, art. 13 (1)). Une licence de pêche ne permet pas de pêcher dans ces zones sans ce permis (règlement sur les pêches, règl. 4). Les titulaires de droits de pêche coutumiers enregistrés ont droit à une part équitable des redevances versées à l'État pour l'extraction de minerais du fond marin de leur zone (Constitution 2013, art. 30 (1)).", source: "https://faolex.fao.org/docs/pdf/fij1155.pdf"}
+  consentement: {valeur: "partiel", note: "Le commissaire de division accorde le permis de pêche dans une zone coutumière à sa discrétion, après avoir consulté l'agent des pêches et la subdivision dont les droits peuvent être touchés (loi sur les pêches, art. 13 (2)) ; la loi prévoit une consultation, non un consentement. Selon le profil de la FAO (2009), le service des pêches délivre en pratique ces licences après accord préalable du chef de l'unité titulaire.", source: "https://faolex.fao.org/docs/pdf/fij1155.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le profil de la FAO (2009), dans chacune des 406 zones de gestion traditionnelle, une autorité coutumière, le plus souvent un chef héréditaire, prend les décisions de gestion : limitation de l'accès des personnes extérieures, interdiction des filets maillants, des compresseurs de plongée ou de la pêche commerciale le dimanche ; la plupart de ces zones n'ont pas d'objectifs de gestion formels. Le cinquième rapport national à la CDB (2014) indique qu'au moins 70 des 400 qoliqoli sont surexploités et 250 autres « pleinement développés ».", source: "https://www.fao.org/fishery/docs/DOCUMENT/fcp/en/FI_CP_FJ.pdf"}
+chronologie:
+  - {annee: 1942, evenement: "Entrée en vigueur de la loi sur les pêches (1er janvier) : création de la Commission des pêcheries autochtones et du registre des droits de pêche coutumiers."}
+  - {annee: 1947, evenement: "Règles d'enquête de la Commission (9 mai) : procédure en langue fidjienne et formulaires d'enregistrement des limites et des titulaires."}
+  - {annee: 1964, evenement: "Nouvelle rédaction de l'art. 13 : permis obligatoire pour pêcher dans une zone coutumière enregistrée, après consultation du groupe titulaire."}
+  - {annee: 2000, evenement: "Création du réseau des aires marines gérées localement de Fidji (FLMMA) à l'échelle des qoliqoli."}
+  - {annee: 2013, evenement: "Constitution : part des redevances minières pour les titulaires de droits de pêche coutumiers enregistrés (art. 30)."}
+  - {annee: 2020, evenement: "La stratégie nationale pour la biodiversité 2020-2025 recense 410 iQoliqoli."}
+fiabilite:
+  verifie: ["Art. 13 à 20 de la loi sur les pêches, éd. 1992 (texte FAOLEX).", "Règles d'enquête de la Commission des pêcheries autochtones, règles 1 à 11 et formulaire du registre (texte FAOLEX).", "Règl. 4 et 28 du règlement sur les pêches (texte FAOLEX).", "Art. 30 de la Constitution de 2013 (Constitute Project).", "Nombre de 410 qoliqoli (stratégie nationale 2020-2025 ; cinquième rapport national à la CDB : 385 marins et 25 d'eau douce).", "Accord préalable du chef de l'unité titulaire pour les licences, pratique décrite par la FAO (2009)."]
+  non_confirme: ["Modifications de la loi sur les pêches postérieures à l'édition de 1992 (texte consolidé récent non consulté).", "Nombre de zones dont l'enregistrement est achevé et surface totale des qoliqoli en km².", "Liste officielle des qoliqoli : registre tenu par la Commission des terres et pêcheries iTaukei, non publié en ligne.", "Suite donnée au projet de loi sur les qoliqoli de 2006, qui prévoyait de transférer aux groupes titulaires la propriété des zones."]
+sources:
+  - {titre: "Fisheries Act, chap. 158 (éd. 1992) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/fij1155.pdf"}
+  - {titre: "Native Fisheries Commission (Inquiries) Rules — FAOLEX", url: "https://faolex.fao.org/docs/pdf/fij4299.pdf"}
+  - {titre: "Fisheries Regulations, chap. 158 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/fij4296.pdf"}
+  - {titre: "Fiche ECOLEX — Native Fisheries Commission (Inquiries) Rules", url: "https://www.ecolex.org/details/legislation/native-fisheries-commission-inquiries-rules-lex-faoc004299/"}
+  - {titre: "Constitution de Fidji (2013) — Constitute Project", url: "https://www.constituteproject.org/constitution/Fiji_2013"}
+  - {titre: "Stratégie et plan d'action nationaux pour la biodiversité de Fidji 2020-2025 — CDB", url: "https://www.cbd.int/doc/world/fj/fj-nbsap-v2-en.pdf"}
+  - {titre: "Cinquième rapport national de Fidji à la CDB (2014)", url: "https://www.cbd.int/doc/world/fj/fj-nr-05-en.pdf"}
+  - {titre: "Quatrième rapport national de Fidji à la CDB (2010)", url: "https://www.cbd.int/doc/world/fj/fj-nr-04-en.pdf"}
+  - {titre: "FAO — Profil de la pêche et de l'aquaculture par pays : Fidji (2009)", url: "https://www.fao.org/fishery/docs/DOCUMENT/fcp/en/FI_CP_FJ.pdf"}

@@ -1,0 +1,53 @@
+uid: "maralinga-tjarutja"
+nom: "Maralinga Tjarutja"
+endonyme: "Anangu"
+territoire: "Terres Maralinga Tjarutja (ouest de l'Australie-Méridionale)"
+etats: ["Australie"]
+region: "oceanie"
+coord: [-29.5, 130.5]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 102, annee: 2021, perimetre: "population résidente estimée au 30 juin de la zone statistique (LGA) Maralinga Tjarutja, dont 84 Aborigènes ou insulaires du détroit de Torres", source: "https://dbr.abs.gov.au/region.html?lyr=lga&rgn=44000"}
+lieux: {valeur: 1, unite: "communauté habitée permanente (Oak Valley)", annee: null, source: "https://dit.sa.gov.au/__data/assets/pdf_file/0019/5185/9_ABORIGINAL_LANDS_88-93.pdf"}
+surface_km2: {valeur: 105766, annee: 2021, perimetre: "superficie terrestre de la zone statistique (LGA) Maralinga Tjarutja de l'ABS, qui peut différer des terres concédées", source: "https://dbr.abs.gov.au/region.html?lyr=lga&rgn=44000"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Propriétaires traditionnels anangu des terres de l'ouest de l'Australie-Méridionale, en bordure du Grand Désert de Victoria, dont une partie a servi aux essais nucléaires britanniques des années 1950. Le Maralinga Tjarutja Land Rights Act 1984, loi de l'État d'Australie-Méridionale, crée une personne morale, Maralinga Tjarutja, dont tous les propriétaires traditionnels sont membres, et permet de lui concéder les terres en pleine propriété (fee simple, propriété privée sans limite de durée), inaliénable ; Maralinga Tjarutja détient ce titre. Ce régime est distinct de celui des terres APY. Oak Valley, fondée en 1985, est la seule communauté habitée en permanence.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le CERD recommande à l'Australie de protéger les droits fonciers des peuples autochtones et d'inscrire dans la loi le principe du consentement préalable, libre et éclairé (CERD/C/AUS/CO/18-20, par. 21 et 22) ; le document vise les peuples autochtones d'Australie sans nommer Maralinga Tjarutja", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Maralinga Tjarutja Land Rights Act 1984 (Australie-Méridionale), version du 1er janvier 2021", nature: "loi", annee: 1984, source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/maralinga%20tjarutja%20land%20rights%20act%201984/current/1984.3.auth.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Maralinga Tjarutja est une personne morale dont tous les propriétaires traditionnels sont membres (s. 4) ; son conseil réunit les personnes reconnues comme leaders des propriétaires traditionnels (s. 6), exerce ses pouvoirs (s. 7) et doit consulter les propriétaires traditionnels et tenir compte de leurs coutumes (s. 8).", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/maralinga%20tjarutja%20land%20rights%20act%201984/current/1984.3.auth.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Maralinga Tjarutja peut, avec l'approbation du ministre, prendre des règlements locaux (by-laws) applicables sur ses seules terres, limités à l'alcool, à l'essence et aux autres substances réglementées, aux jeux d'argent et aux matières prévues par décret ; ils sont soumis à la confirmation du gouverneur et à l'annulation par le Parlement, et l'amende est plafonnée à 2 000 dollars (s. 43). Le registre officiel ne liste aucun règlement local pris en vertu de cette section.", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/maralinga%20tjarutja%20land%20rights%20act%201984/current/1984.3.auth.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Le gouverneur peut concéder les terres en pleine propriété à Maralinga Tjarutja (s. 13) ; elles ne peuvent être ni aliénées ni expropriées en vertu du droit de l'État (s. 15) ; l'entrée des personnes autres que les propriétaires traditionnels est soumise à autorisation (s. 18).", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/maralinga%20tjarutja%20land%20rights%20act%201984/current/1984.3.auth.pdf"}
+  ressources: {valeur: "partiel", note: "Un tiers des redevances minières (royalties) perçues sur les terres revient à Maralinga Tjarutja, un tiers au ministre des Affaires aborigènes pour la santé, le bien-être et le progrès des habitants aborigènes et un tiers au budget de l'État ; au-delà d'un plafond fixé par décret, l'excédent revient au budget de l'État (s. 24) ; toute activité minière est interdite sur l'ancien site d'essais nucléaires (s. 15K, ajoutée en 2009).", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/maralinga%20tjarutja%20land%20rights%20act%201984/current/1984.3.auth.pdf"}
+  consentement: {valeur: "partiel", note: "Les activités minières requièrent la permission de Maralinga Tjarutja ; en cas de refus, de conditions jugées inacceptables ou sans réponse après 120 jours, le demandeur peut obtenir que le ministre des Mines saisisse un arbitre, qui tient compte du mode de vie, de la culture et des traditions des propriétaires traditionnels, de l'environnement et de l'intérêt économique des opérations pour l'État et l'Australie (s. 21) ; les travaux routiers requièrent aussi son consentement, avec recours à l'arbitrage en cas de désaccord et sans consentement pour l'entretien de la route inscrite à l'annexe (s. 28 à 31).", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/maralinga%20tjarutja%20land%20rights%20act%201984/current/1984.3.auth.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "L'organisation indique que Maralinga Tjarutja Inc. et Oak Valley (Maralinga) Inc. sont contrôlées par deux conseils composés d'Anangu propriétaires traditionnels ; aucune évaluation indépendante n'a été consultée.", source: "https://maralingatjarutja.com.au/about/"}
+chronologie:
+  - {annee: 1984, evenement: "Adoption du Maralinga Tjarutja Land Rights Act par le Parlement d'Australie-Méridionale."}
+  - {annee: 1985, evenement: "Fondation de la communauté d'Oak Valley par des Anangu déplacés des terres de Maralinga lors des essais nucléaires britanniques."}
+  - {annee: 1991, evenement: "Loi de modification ajoutant des terres au régime."}
+  - {annee: 2004, evenement: "Loi de modification créant un conseil de cogestion du parc de conservation de Mamungari, dont la majorité des membres appartiennent à Maralinga Tjarutja."}
+  - {annee: 2009, evenement: "Loi de modification intégrant l'ancien site d'essais nucléaires (section 400) et y interdisant toute activité minière."}
+fiabilite:
+  verifie: ["Sections 4 à 8, 13, 15, 15B, 18, 21, 24, 28 à 31 et 43 de la loi (version du 1er janvier 2021, legislation.sa.gov.au) ; absence de la section 400 dans l'annexe 1 de la version antérieure à 2009.", "Section 15K et liste des terres de l'annexe 1, dont la section 400 (version du 1er janvier 2021).", "Population résidente estimée et superficie de la zone statistique (ABS, Data by Region).", "Oak Valley seule communauté habitée des terres (atlas du gouvernement d'Australie-Méridionale) ; fondation en 1985 (Maralinga Tjarutja)."]
+  non_confirme: ["Superficie exacte des terres concédées : environ 102 864 km² selon des sources secondaires, contre 105 766 km² pour la zone statistique.", "Date de la dernière restitution de l'ancien site d'essais nucléaires (2014 selon des sources secondaires).", "Statut de Maralinga Village et nombre de lieux habités hors Oak Valley.", "Rôle du conseil comme autorité locale au sens du droit des collectivités locales de l'État.", "Existence de règlements locaux (by-laws) pris en vertu de la section 43 et publiés hors du registre de la législation."]
+sources:
+  - {titre: "Maralinga Tjarutja Land Rights Act 1984, version du 1er janvier 2021 — legislation.sa.gov.au", url: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/maralinga%20tjarutja%20land%20rights%20act%201984/current/1984.3.auth.pdf"}
+  - {titre: "Maralinga Tjarutja Land Rights Act 1984, version de 2006-2009 — legislation.sa.gov.au", url: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/maralinga%20tjarutja%20land%20rights%20act%201984/2009.11.25/1984.3.auth.pdf"}
+  - {titre: "ALRC — Connection to Country, rapport 126, droits fonciers et titre autochtone dans les États et territoires", url: "https://www.alrc.gov.au/publication/connection-to-country-review-of-the-native-title-act-1993-cth-alrc-report-126/3-context-for-reform/land-rights-and-native-title-in-the-states-and-territories/"}
+  - {titre: "Maralinga Tjarutja Land Rights Act 1984 et textes d'application — registre de la législation d'Australie-Méridionale", url: "https://www.legislation.sa.gov.au/lz?path=%2FC%2FA%2FMaralinga%20Tjarutja%20Land%20Rights%20Act%201984"}
+  - {titre: "ABS — Data by Region, Maralinga Tjarutja (LGA 44000)", url: "https://dbr.abs.gov.au/region.html?lyr=lga&rgn=44000"}
+  - {titre: "Gouvernement d'Australie-Méridionale — Aboriginal Lands (atlas)", url: "https://dit.sa.gov.au/__data/assets/pdf_file/0019/5185/9_ABORIGINAL_LANDS_88-93.pdf"}
+  - {titre: "Maralinga Tjarutja — présentation", url: "https://maralingatjarutja.com.au/about/"}
+  - {titre: "CERD — Observations finales sur l'Australie, CERD/C/AUS/CO/18-20 (2017)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}

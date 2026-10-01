@@ -13,7 +13,7 @@ lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
-  Le Tatarstan est l'une des républiques de la Fédération de Russie. Son statut est fixé par la Constitution fédérale et par sa propre constitution (art. 66), et il exerce le plein pouvoir d'État hors des compétences fédérales et conjointes (art. 73). Le tatar y est langue d'État aux côtés du russe (art. 68 de la Constitution fédérale). En 2004, la Cour constitutionnelle a admis l'étude obligatoire du tatar dans les écoles de la République ; la loi fédérale de 2018 l'a rendue facultative.
+  Le Tatarstan est l'une des républiques de la Fédération de Russie. Son statut est fixé par la Constitution fédérale et par sa propre constitution (art. 66), et il exerce le plein pouvoir d'État hors des compétences fédérales et conjointes (art. 73). Le tatar y est langue d'État aux côtés du russe (art. 68 de la Constitution fédérale). En 2004, la Cour constitutionnelle a admis l'étude obligatoire du tatar dans les écoles de la République ; la loi fédérale de 2018 l'a rendue facultative. Les autres républiques font l'objet de la fiche « Républiques nationales de Russie ».
 reconnaissance_regionale:
   - {mecanisme: "conseil_europe_fcnm", detail: "Quatrième avis du Comité consultatif de la Convention-cadre sur la Fédération de Russie, ACFC/OP/IV(2018)001 : Tatars deuxième groupe national (3,87 %) ; protestations du Tatarstan contre la fin de l'enseignement obligatoire des langues des républiques ; la Russie a cessé d'être membre du Conseil de l'Europe en 2022", annee: 2018, source: "https://www.ecoi.net/en/document/2002328.html"}
 reconnaissance_onu: []

@@ -1,0 +1,57 @@
+uid: "gorno-badakhchan-tadjikistan"
+nom: "Région autonome du Haut-Badakhchan (Pamir)"
+endonyme: "Вилояти Мухтори Кӯҳистони Бадахшон"
+territoire: "Région autonome du Haut-Badakhchan (Kŭhistoni Badakhshon), Pamir"
+etats: ["Tadjikistan"]
+region: "asie"
+coord: [38.2, 72.9]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 227916, annee: 2020, perimetre: "population de la région autonome au recensement du 1er octobre 2020 (Comité d'État de la statistique du Tadjikistan, repris par City Population)", source: "https://www.citypopulation.de/en/tajikistan/admin/"}
+lieux: {valeur: 7, unite: "districts (Darvoz, Vanch, Rouchan, Chougnan avec la ville de Khorog, Rochtkala, Ichkachim, Mourgab)", annee: 2020, source: "https://www.citypopulation.de/en/tajikistan/admin/"}
+surface_km2: {valeur: 63701, annee: 2026, perimetre: "superficie de la région autonome indiquée par l'Encyclopædia Britannica, consultée en 2026 ; d'autres sources donnent 62 900 km² (City Population) ou 64 100 km² (Wikipédia en russe)", source: "https://www.britannica.com/place/Gorno-Badakhshan"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Région autonome du Haut-Badakhchan (Kŭhistoni Badakhshon) couvre le Pamir, à l'est du Tadjikistan. Créée en 1925 comme région autonome au sein de la République autonome du Tadjikistan, elle fait partie de la République socialiste soviétique du Tadjikistan à partir de 1929. La Constitution de 1994, révisée en 2016, en fait une « partie intégrante et indivisible » de la République (art. 81) ; son assemblée, le Majlis des députés du peuple, dispose de l'initiative législative au Parlement (art. 58 et 82) et vote le budget et les impôts locaux (art. 77). L'autonomie n'est pas définie par une appartenance ethnique : l'État compte les Pamiris parmi les Tadjiks, ce que le Comité pour l'élimination de la discrimination raciale (CERD) regrette en 2017 et 2023.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du CERD sur le Tadjikistan (adoptées le 27 avril 2023), § 5, 13, 14, 17 et 19 : le Comité se dit « sérieusement préoccupé » par les tensions dans la « Kŭhistoni Badakhshon Autonomous Province », les informations sur l'usage d'une force létale et excessive contre des manifestants et les détentions arbitraires de membres de la « minorité pamirie » ; il recommande une enquête sur les faits survenus depuis novembre 2021 et un dialogue avec cette minorité.", annee: 2023, source: "https://docs.un.org/en/CERD/C/TJK/CO/12-13"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du CERD sur le Tadjikistan (adoptées le 21 août 2017), § 5 et 25 : absence de données sur les Pamiris, comptés comme Tadjiks au recensement de 2010 ; absence des langues pamiries des programmes scolaires.", annee: 2017, source: "https://docs.un.org/en/CERD/C/TJK/CO/9-11"}
+base_nationale:
+  - {instrument: "Constitution de la République du Tadjikistan (1994, révisée en 2016), art. 7, 49, 58, 77 à 83, 86 et 89", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Tajikistan_2016"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Majlis des députés du peuple de la région, élu pour cinq ans, Constitution, art. 77 ; le président de la région, qui dirige le Majlis et l'exécutif, est nommé et révoqué par le président de la République avec l'approbation du Majlis, art. 77 et 78 ; le Majlisi Milli (chambre haute) peut dissoudre une assemblée locale, art. 80.", source: "https://www.constituteproject.org/constitution/Tajikistan_2016"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le Majlis et le président de la région adoptent des actes juridiques obligatoires sur leur territoire, Constitution, art. 79 ; le Majlis a l'initiative des lois au Parlement national, art. 58 et 82 ; les compétences sociales, économiques et culturelles de la région sont fixées par une loi constitutionnelle (loi votée par le Parlement national), art. 83.", source: "https://www.constituteproject.org/constitution/Tajikistan_2016"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Toute modification des frontières de la région sans le consentement de son Majlis des députés du peuple est interdite, Constitution, art. 81.", source: "https://www.constituteproject.org/constitution/Tajikistan_2016"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le Majlis des députés du peuple approuve le budget local et établit les impôts locaux dans le cadre fixé par la loi, Constitution, art. 77.", source: "https://www.constituteproject.org/constitution/Tajikistan_2016"}
+  representation: {valeur: "partiel", note: "La région dispose au Majlisi Milli (chambre haute) d'un nombre de membres égal à celui de chaque province, élus par ses députés locaux, Constitution, art. 49 ; un des sept juges de la Cour constitutionnelle représente la région, art. 89.", source: "https://www.constituteproject.org/constitution/Tajikistan_2016"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Minority Rights Group écrit que le pouvoir du président de la République de nommer le président de l'assemblée régionale et les juges de la région sert aux autorités centrales à contourner une partie de l'autonomie ; il rapporte, lors de la répression de mai 2022, au moins 17 civils tués selon des informations non confirmées, après des tirs sur des manifestants à Vomar, et l'assassinat de Mamadbokir Mamadbokirov à Khorog ; le CERD (2023, § 13) fait état d'informations sur l'usage d'une force létale et excessive contre des manifestants, de coupures prolongées d'Internet et de détentions arbitraires de Pamiris.", source: "https://minorityrights.org/communities/pamiris/"}
+chronologie:
+  - {annee: 1925, evenement: "Le 2 janvier, le Comité exécutif central de l'URSS crée la région autonome du Haut-Badakhchan au sein de la République autonome du Tadjikistan."}
+  - {annee: 1929, evenement: "Le 16 octobre, la République autonome du Tadjikistan devient République socialiste soviétique ; la région en fait partie."}
+  - {annee: 1992, evenement: "Le 11 avril, le Conseil des députés du peuple de la région proclame une « République autonome du Badakhchan », que le Soviet suprême du Tadjikistan ne reconnaît pas ; Minority Rights Group parle d'une déclaration d'indépendance, révoquée par la suite."}
+  - {annee: 1994, evenement: "Adoption de la Constitution du Tadjikistan : statut de la région aux articles 81 à 83."}
+  - {annee: 2012, evenement: "Affrontements à Khorog : 22 civils tués par les forces de sécurité selon Minority Rights Group."}
+  - {annee: 2016, evenement: "Révision de la Constitution par référendum ; les articles sur la région sont maintenus."}
+  - {annee: 2021, evenement: "En novembre, un habitant est tué par les forces de sécurité ; deux manifestants sont tués ; coupure d'Internet jusqu'en mars 2022."}
+  - {annee: 2022, evenement: "En mai, opération des forces de sécurité contre les manifestants, tirs sur des manifestants à Vomar ; au moins 17 civils tués selon des informations non confirmées citées par Minority Rights Group."}
+  - {annee: 2023, evenement: "Le CERD demande une enquête impartiale sur les faits survenus dans la région depuis novembre 2021."}
+fiabilite:
+  verifie: ["Articles 7, 49, 58, 77 à 83, 86 et 89 de la Constitution du Tadjikistan (version de 2016, Constitute Project).", "Observations finales du CERD de 2017 (§ 5, 25) et de 2023 (§ 5, 6, 13, 14, 17 à 20), texte intégral consulté.", "Population aux recensements de 2000, 2010 et 2020 par district (City Population, d'après le Comité d'État de la statistique).", "Fiche « Pamiris » de Minority Rights Group (mise à jour de mars 2023).", "Superficie de la région (Encyclopædia Britannica)."]
+  non_confirme: ["Texte de la loi constitutionnelle sur la Région autonome du Haut-Badakhchan prévue à l'art. 83 non consulté (bases juridiques tadjikes inaccessibles) : les droits « éducation », « langue », « ressources » et « justice propre » restent sans source et pourraient être précisés par cette loi.", "Superficie : les sources divergent (62 900, 63 701, 64 100 km²) ; la publication de l'Agence de la statistique n'a pas été consultée.", "Nombre de jamoats (communes rurales, 43 selon Wikipédia en russe) et de villages non vérifiés sur une source officielle.", "Nature de la proclamation de 1992 (république autonome selon Wikipédia en russe, indépendance selon Minority Rights Group) non vérifiée sur une source primaire.", "Bilan des victimes de mai 2022 variable selon les sources (17 civils au moins selon Minority Rights Group, davantage selon d'autres sources)."]
+sources:
+  - {titre: "Constitution de la République du Tadjikistan (1994, révisée en 2016) — Constitute Project", url: "https://www.constituteproject.org/constitution/Tajikistan_2016"}
+  - {titre: "CERD, observations finales sur le Tadjikistan, CERD/C/TJK/CO/12-13 (2023)", url: "https://docs.un.org/en/CERD/C/TJK/CO/12-13"}
+  - {titre: "CERD, observations finales sur le Tadjikistan, CERD/C/TJK/CO/9-11 (2017)", url: "https://docs.un.org/en/CERD/C/TJK/CO/9-11"}
+  - {titre: "Minority Rights Group, « Pamiris »", url: "https://minorityrights.org/communities/pamiris/"}
+  - {titre: "City Population, Tadjikistan : divisions administratives et recensements", url: "https://www.citypopulation.de/en/tajikistan/admin/"}
+  - {titre: "Горно-Бадахшанская автономная область — Wikipédia en russe", url: "https://ru.wikipedia.org/wiki/Горно-Бадахшанская_автономная_область"}
+  - {titre: "Encyclopædia Britannica, « Gorno-Badakhshan »", url: "https://www.britannica.com/place/Gorno-Badakhshan"}

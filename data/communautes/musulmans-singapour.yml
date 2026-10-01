@@ -1,0 +1,62 @@
+uid: "musulmans-singapour"
+nom: "Communauté musulmane et malaise de Singapour"
+endonyme: ""
+territoire: "Singapour (base personnelle, sans territoire propre)"
+etats: ["Singapour"]
+region: "asie"
+coord: [1.4, 103.8]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: ["peuple_autochtone"]
+population: {valeur: 539251, annee: 2020, perimetre: "résidents (citoyens et résidents permanents) de 15 ans et plus se déclarant de religion musulmane (15,6 % des 3 459 093 résidents de cet âge), recensement de 2020 ; 442 368 sont malais (98,8 % des Malais, 82 % des musulmans)", source: "https://tablebuilder.singstat.gov.sg/table/CT/17459"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les musulmans forment 15,6 % des résidents de Singapour de 15 ans et plus en 2020 ; la plupart sont malais. La Constitution reconnaît aux Malais la qualité de « peuple autochtone de Singapour » (art. 152) et impose une loi régissant les affaires religieuses musulmanes (art. 153). La loi sur l'administration du droit musulman (Administration of Muslim Law Act, AMLA), adoptée en 1966 et en vigueur depuis 1968, institue le Conseil religieux islamique de Singapour (Majlis Ugama Islam Singapura, MUIS), la Cour de la charia (Syariah Court) et le Registre des mariages musulmans. Ces institutions appliquent le droit musulman au mariage, au divorce et aux successions entre musulmans, sans autonomie territoriale.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination à l'égard des femmes (CEDAW/C/SGP/CO/5), § 44 et 45 : réserves aux articles 2 et 16 de la Convention au nom de la protection des droits des minorités, et dispositions de l'AMLA sur le mariage, le divorce, la polygamie et les successions", annee: 2017, source: "https://docs.un.org/en/CEDAW/C/SGP/CO/5"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du CEDAW (CEDAW/C/SGP/CO/6) : femmes musulmanes parmi les groupes défavorisés (§ 9 et 10), maintien des réserves aux articles 2 et 16 (§ 11 et 12), place des femmes au MUIS, polygamie, divorce et successions (§ 59 et 60)", annee: 2024, source: "https://docs.un.org/en/CEDAW/C/SGP/CO/6"}
+base_nationale:
+  - {instrument: "Constitution de la République de Singapour, art. 152 (minorités et position spéciale des Malais), art. 153 (religion musulmane), art. 153A (langues officielles et langue nationale), art. 39A (circonscriptions de représentation de groupe)", nature: "constitution", annee: 1963, source: "https://www.constituteproject.org/constitution/Singapore_2016"}
+  - {instrument: "Administration of Muslim Law Act 1966 (loi sur l'administration du droit musulman) ; modification débattue au Parlement le 5 février 2024", nature: "loi", annee: 1966, source: "https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2024/Feb/Amending-the-Administration-of-Muslim-Law-Act-to-keep-pace"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le conseil du MUIS, organe de décision du Conseil religieux islamique qui conseille le président de la République (Constitution, art. 153 ; AMLA), réunit le président du MUIS, son directeur général, le mufti de Singapour et des membres recommandés par le ministre chargé des Affaires musulmanes ou proposés par des organisations musulmanes ; tous sont nommés par le président de la République.", source: "https://www.muis.gov.sg/about-us/council-of-muis/"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "La Cour de la charia (Syariah Court) juge, selon l'article 35 de l'AMLA, les litiges relatifs au mariage, aux divorces de droit musulman, aux fiançailles, à la nullité, à la séparation judiciaire, au partage des biens après divorce, à la dot (emas kahwin) et à la pension alimentaire, lorsque toutes les parties sont musulmanes ou mariées selon le droit musulman.", source: "https://syariahcourt.gov.sg/Who-We-Are/Jurisdiction"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Le malais est langue nationale et l'une des quatre langues officielles (Constitution, art. 153A) ; l'article 152 charge le gouvernement de protéger et de promouvoir la langue malaise.", source: "https://www.constituteproject.org/constitution/Singapore_2016"}
+  education: {valeur: "partiel", note: "L'AMLA charge le MUIS d'administrer toutes les écoles religieuses musulmanes (madrasas) ; la modification présentée au Parlement le 5 février 2024 définit ces écoles et donne aux agents du MUIS un pouvoir d'inspection, avec appel au ministre chargé des Affaires musulmanes.", source: "https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2024/Feb/Amending-the-Administration-of-Muslim-Law-Act-to-keep-pace"}
+  fiscalite: {valeur: "partiel", note: "Le MUIS gère le Fonds pour la construction des mosquées et Mendaki (Mosque Building and MENDAKI Fund, MBMF), alimenté par des contributions, à côté de la zakat (aumône légale) ; la modification de l'AMLA présentée au Parlement le 5 février 2024 l'autorise à créer un wakaf (dotation religieuse) communautaire, le Wakaf Masyarakat Singapura.", source: "https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2024/Feb/Amending-the-Administration-of-Muslim-Law-Act-to-keep-pace"}
+  representation: {valeur: "partiel", note: "L'article 39A de la Constitution prévoit des circonscriptions de représentation de groupe (listes de 3 à 6 candidats) dont certaines doivent compter au moins un candidat de la communauté malaise ; l'article 19B réserve l'élection présidentielle à une communauté qui n'a pas occupé la fonction pendant cinq mandats. Ces garanties visent les Malais, non les musulmans en tant que tels.", source: "https://www.constituteproject.org/constitution/Singapore_2016"}
+  statut_personnel: {valeur: "partiel", note: "Le droit musulman régit le mariage, le divorce et les successions entre musulmans, selon l'AMLA de 1966 ; les mariages sont enregistrés au Registre des mariages musulmans. Le CEDAW relève en 2017 et en 2024 des écarts entre ce régime et l'égalité entre femmes et hommes.", source: "https://docs.un.org/en/CEDAW/C/SGP/CO/5"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le CEDAW constate en 2024 l'effort pour accroître la place des femmes dans les institutions religieuses, dont le MUIS, et des fatwas (avis religieux) sur l'égalité des femmes dans la propriété du logement (§ 49 et 59) ; il relève que la polygamie reste légale pour les hommes musulmans et que des dispositions sur le divorce et les successions restent discriminatoires (§ 59).", source: "https://docs.un.org/en/CEDAW/C/SGP/CO/6"}
+chronologie:
+  - {annee: 1958, evenement: "Entrée en vigueur, le 25 novembre, de l'ordonnance musulmane de 1957, qui crée la Cour de la charia."}
+  - {annee: 1966, evenement: "Adoption de l'Administration of Muslim Law Act."}
+  - {annee: 1968, evenement: "Entrée en vigueur de l'AMLA en juillet ; création du MUIS ; abrogation de l'ordonnance de 1957."}
+  - {annee: 2017, evenement: "Le CEDAW recommande une révision complète de l'AMLA (CEDAW/C/SGP/CO/5)."}
+  - {annee: 2024, evenement: "Le 5 février, le ministre chargé des Affaires musulmanes présente au Parlement la modification de l'AMLA : wakaf communautaire Wakaf Masyarakat Singapura, définition et inspection des écoles religieuses musulmanes, comité de la fatwa porté de quatre à huit membres."}
+  - {annee: 2024, evenement: "Observations finales du CEDAW sur le sixième rapport de Singapour (CEDAW/C/SGP/CO/6)."}
+  - {annee: 2025, evenement: "Le vingtième conseil du MUIS, de 19 membres, prend ses fonctions le 7 août pour trois ans."}
+fiabilite:
+  verifie: ["Texte des articles 19B, 39A, 152, 153 et 153A de la Constitution (Constitute Project, version 2016).", "Paragraphes 44 et 45 de CEDAW/C/SGP/CO/5 (21 novembre 2017) et 11, 12, 59 et 60 de CEDAW/C/SGP/CO/6 (6 juin 2024).", "Compétence de la Cour de la charia (AMLA, art. 35) et dates de 1958 et 1968 : site de la Cour de la charia.", "Création du MUIS en 1968 et mode de nomination de son conseil : site du MUIS.", "Contenu de la modification de 2024 : discours du ministre chargé des Affaires musulmanes au Parlement, 5 février 2024.", "Effectif des musulmans de 15 ans et plus (539 251), part dans les résidents de cet âge (15,6 %), part des Malais se déclarant musulmans (98,8 %) et part des Malais parmi les musulmans (82 %) : tableau 17459 du recensement de 2020 (SingStat Table Builder).", "Composition du vingtième conseil du MUIS (19 membres, 7 août 2025) : site du MUIS."]
+  non_confirme: ["Texte de l'AMLA non consulté directement : le site officiel de la législation singapourienne refuse l'accès.", "Adoption et date d'entrée en vigueur de la modification de 2024 : seul le discours de présentation au Parlement a été consulté ; le site du Wakaf Masyarakat Singapura atteste son fonctionnement.", "Valeur juridique des fatwas et règles d'application du droit musulman des successions non vérifiées sur le texte de loi.", "Nombre de mosquées et de madrasas : pas de source officielle ouverte.", "Composition et finalité des décisions du Conseil d'appel non vérifiées."]
+sources:
+  - {titre: "Constitution de la République de Singapour (version 2016) — Constitute Project", url: "https://www.constituteproject.org/constitution/Singapore_2016"}
+  - {titre: "Ministère de la Culture, de la Communauté et de la Jeunesse, « Amending the Administration of Muslim Law Act to keep pace », 5 février 2024", url: "https://www.mccy.gov.sg/about-us/news-and-resources/parliamentary-matters/2024/Feb/Amending-the-Administration-of-Muslim-Law-Act-to-keep-pace"}
+  - {titre: "Cour de la charia de Singapour — compétence", url: "https://syariahcourt.gov.sg/Who-We-Are/Jurisdiction"}
+  - {titre: "Cour de la charia de Singapour — historique", url: "https://syariahcourt.gov.sg/Who-We-Are/History"}
+  - {titre: "Cour de la charia de Singapour — appels", url: "https://syariahcourt.gov.sg/Divorce/Appeals"}
+  - {titre: "MUIS — rôles et fonctions", url: "https://www.muis.gov.sg/about-us/roles-and-functions/"}
+  - {titre: "MUIS — conseil", url: "https://www.muis.gov.sg/about-us/council-of-muis/"}
+  - {titre: "Département de la statistique de Singapour, recensement de 2020, tableau 17459 : résidents de 15 ans et plus par religion, groupe ethnique et sexe", url: "https://tablebuilder.singstat.gov.sg/table/CT/17459"}
+  - {titre: "CEDAW, observations finales sur Singapour, CEDAW/C/SGP/CO/5 (2017)", url: "https://docs.un.org/en/CEDAW/C/SGP/CO/5"}
+  - {titre: "CEDAW, observations finales sur Singapour, CEDAW/C/SGP/CO/6 (2024)", url: "https://docs.un.org/en/CEDAW/C/SGP/CO/6"}
+  - {titre: "Minority Rights Group, Singapore", url: "https://minorityrights.org/country/singapore/"}
+  - {titre: "Wikipedia, « Administration of Muslim Law Act »", url: "https://en.wikipedia.org/wiki/Administration_of_Muslim_Law_Act"}
+  - {titre: "Wikipedia, « Islam in Singapore »", url: "https://en.wikipedia.org/wiki/Islam_in_Singapore"}
