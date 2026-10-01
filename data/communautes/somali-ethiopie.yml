@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 4439147, annee: 2007, perimetre: "population recensée de l'État régional somali (recensement de 2007)", source: "https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf"}
 lieux: {valeur: 17, unite: "zones administratives (11 zones et 6 zones spéciales)", annee: 2025, source: "https://en.wikipedia.org/wiki/Somali_Region"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Somali d'Éthiopie forment une « nation, nationalité et peuple » au sens de la Constitution fédérale de 1994, dans l'est du pays.
   Ils disposent d'un État régional, l'un des neuf États fondateurs de la fédération, avec son conseil, son gouvernement, sa constitution et le somali comme langue de travail.

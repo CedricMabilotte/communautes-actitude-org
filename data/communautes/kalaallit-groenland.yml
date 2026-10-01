@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 56600, annee: 2023, perimetre: "population du territoire", source: "https://documents.un.org/doc/undoc/gen/g23/142/04/pdf/g2314204.pdf"}
 lieux: {valeur: 5, unite: "communes", annee: 2026, source: "https://stat.gl/publ/en/GF/2026/pdf/Greenland%20in%20Figures%202026.pdf"}
 surface_km2: {valeur: 2166086, annee: 2026, perimetre: "superficie totale, inlandsis compris (zones libres de glace : 410 449 km²)", source: "https://stat.gl/publ/en/GF/2026/pdf/Greenland%20in%20Figures%202026.pdf"}
+villages: {valeur: 72, annee: 2026, perimetre: "localités ayant au moins un habitant au 1er janvier 2026 : 17 villes et 55 villages (bygder) ; hors base de Pituffik et lieux non spécifiés", source: "https://bank.stat.gl/pxweb/en/Greenland/Greenland__BE__BE01__BE0120/BEXSTD.px/"}
 resume: >-
   Le Groenland est un territoire autonome du Royaume de Danemark dont près de 90 % des habitants sont inuit, répartis en trois groupes : Kalaallit, Iivit et Inughuit. La Loi sur l'autonomie du Groenland de 2009 a remplacé le régime d'autonomie interne de 1979. Son préambule reconnaît le peuple du Groenland comme un peuple au sens du droit international, titulaire du droit à l'autodétermination. Le Parlement (Inatsisartut) et le Gouvernement (Naalakkersuisut) exercent le pouvoir législatif et exécutif dans les domaines transférés ; l'indépendance est prévue par l'article 21.
 reconnaissance_onu:

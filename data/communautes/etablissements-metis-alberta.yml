@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 4238, annee: 2021, perimetre: "personnes résidant dans les huit établissements (recensement 2021) ; 3 540 personnes se déclarent membres inscrits d'un établissement", source: "https://www12.statcan.gc.ca/census-recensement/2021/as-sa/98-200-X/2021006/98-200-X2021006-eng.cfm"}
 lieux: {valeur: 8, unite: "établissements métis (Buffalo Lake, East Prairie, Elizabeth, Fishing Lake, Gift Lake, Kikino, Paddle Prairie, Peavine)", annee: 2026, source: "https://www.alberta.ca/metis-settlements"}
 surface_km2: {valeur: 5059, annee: 2026, perimetre: "terres des établissements, 1,25 million d'acres convertis en km²", source: "https://www.alberta.ca/metis-settlements"}
+villages: {valeur: 8, annee: 2026, perimetre: "établissements métis (Buffalo Lake, East Prairie, Elizabeth, Fishing Lake, Gift Lake, Kikino, Paddle Prairie, Peavine)", source: "https://www.alberta.ca/metis-settlements"}
 resume: >-
   Les Métis sont l'un des trois peuples autochtones reconnus par l'article 35 de la Loi constitutionnelle de 1982. En Alberta, douze établissements métis sont créés en 1938 ; huit subsistent. Depuis 1990, la loi sur les établissements métis (Metis Settlements Act) leur donne des conseils élus et un Conseil général (Metis Settlements General Council), qui détient les terres en fief simple (pleine propriété). Un amendement à la constitution de l'Alberta interdit d'exproprier ces terres ou de modifier leur régime sans l'accord du Conseil général.
 reconnaissance_regionale: []

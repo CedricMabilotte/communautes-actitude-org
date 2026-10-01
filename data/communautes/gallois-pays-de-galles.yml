@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 3187000, annee: 2024, perimetre: "population du pays de Galles au 30 juin", source: "https://www.gov.wales/mid-year-estimates-population-2024-html"}
 lieux: {valeur: 22, unite: "collectivités locales (local authorities)", annee: 2024, source: "https://www.gov.wales/mid-year-estimates-population-2024-html"}
 surface_km2: {valeur: 20779, annee: null, perimetre: "pays de Galles", source: "https://www.wales.com/about/welcome-wales/facts-and-information-about-wales"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Le Government of Wales Act 2006 organise le Senedd (Parlement gallois) et le gouvernement gallois. Depuis 2017, la loi déclare qu'ils ne peuvent être abolis que sur décision du « peuple du pays de Galles » par référendum. Le Senedd vote des lois dans les matières non réservées, fixe les taux gallois de l'impôt sur le revenu et légifère sur deux impôts dévolus. Le gallois a un statut officiel au pays de Galles depuis 2011. Le Royaume-Uni applique la Convention-cadre du Conseil de l'Europe aux Gallois comme minorité nationale.
 reconnaissance_regionale:

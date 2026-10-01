@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 2218210, annee: 2025, perimetre: "population résidente de la Communauté autonome au 1er janvier", source: "https://en.eustat.eus/elementos/ele0011400/ti_poblacion-de-la-ca-de-euskadi-por-ambitos-territoriales-segun-grandes-grupos-de-edad-y-sexo-01012025/tbl0011427_i.html"}
 lieux: {valeur: 3, unite: "territoires historiques", annee: 1979, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1979-30177"}
 surface_km2: {valeur: 7234, annee: 2025, perimetre: "Communauté autonome", source: "https://turismo.euskadi.eus/guia-sobre-euskadi/cifras/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Le Statut de Gernika (loi organique 3/1979) constitue le « Peuple basque ou Euskal-Herria », comme expression de sa nationalité, en Communauté autonome. Le Parlement basque exerce le pouvoir législatif ; les trois territoires historiques gardent leurs institutions forales (propres à l'ancien régime des fueros, chartes coutumières). Les relations fiscales avec l'État suivent le Concert économique : les territoires historiques lèvent et règlent l'impôt. L'euskera est co-officiel avec le castillan.
 reconnaissance_regionale:

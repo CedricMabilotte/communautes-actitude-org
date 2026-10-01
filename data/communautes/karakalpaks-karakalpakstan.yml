@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 2002700, annee: 2024, perimetre: "population permanente de la République du Karakalpakstan au 1er janvier 2024, toutes nationalités", source: "https://stat.uz/en/press-center/news-of-committee/49560-qoraqalpog-iston-resp-ublikasi-doimiy-aholisi-sonining-taqsimlanishi-4"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La République souveraine du Karakalpakstan fait partie de l'Ouzbékistan, qui protège sa souveraineté. Elle a sa propre constitution, un parlement (Jokargy Kenes) et un gouvernement, et ses frontières ne peuvent être modifiées sans son consentement. La Constitution ouzbèke de 2023 lui reconnaît le droit de faire sécession par un référendum de son peuple (art. 89). En juillet 2022, un projet de révision qui supprimait ce droit a provoqué des manifestations à Noukous ; le projet a été abandonné.
 reconnaissance_regionale: []

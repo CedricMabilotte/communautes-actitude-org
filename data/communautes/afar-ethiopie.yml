@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1411092, annee: 2007, perimetre: "population de l'État régional afar au recensement de 2007, y compris une estimation de 21 410 personnes pour huit kebele non recensés", source: "https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf"}
 lieux: {valeur: 6, unite: "zones administratives (plus un woreda spécial)", annee: 2025, source: "https://en.wikipedia.org/wiki/Afar_Region"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Afar sont un peuple pastoral de la dépression de l'Afar et de la vallée de l'Awash, répartis entre l'Éthiopie, Djibouti et l'Érythrée.
   En Éthiopie, ils forment une « nation, nationalité et peuple » au sens de la Constitution fédérale de 1994 et disposent d'un État régional, l'un des neuf États fondateurs de la fédération.

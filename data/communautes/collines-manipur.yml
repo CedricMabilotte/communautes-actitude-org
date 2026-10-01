@@ -1,0 +1,55 @@
+uid: "collines-manipur"
+nom: "Peuples des collines du Manipur (Naga, Kuki-Zo et autres)"
+endonyme: ""
+territoire: "Zones de collines (Hill Areas) de l'État du Manipur"
+etats: ["Inde"]
+region: "asie"
+coord: [24.8, 93.9]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1093532, annee: 2011, perimetre: "population des cinq districts de collines de 2011 (Senapati, Churachandpur, Ukhrul, Chandel, Tamenglong), toutes communautés", source: "https://manipur.gov.in/wp-content/uploads/2015/03/annexure-01-manipur-comprehensive.pdf"}
+lieux: {valeur: 6, unite: "conseils de district autonomes, couvrant 10 des 16 districts", annee: 2021, source: "https://scroll.in/article/1013582/old-divides-have-surfaced-over-a-proposed-bill-in-manipur-as-elections-approach"}
+surface_km2: {valeur: 20089, annee: 2015, perimetre: "somme des superficies des cinq districts de collines du découpage de 2011 (Churachandpur 4 570, Chandel 3 313, Senapati 3 271, Tamenglong 4 391, Ukhrul 4 544 km²)", source: "https://manipur.gov.in/wp-content/uploads/2015/03/annexure-01-manipur-comprehensive.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les collines du Manipur, qui couvrent environ 90 % de l'État, sont habitées par des tribus répertoriées naga, kuki-zo et d'autres groupes. L'article 371C de la Constitution (1971) crée un comité de l'Assemblée formé des députés élus dans les collines, qui examine les lois touchant ces zones. Une loi du Parlement de 1971 y institue six conseils de district autonomes élus, chargés notamment de l'attribution des terres, des forêts non classées et de la culture itinérante (jhum). Aucune élection n'a eu lieu depuis la fin des mandats en mai 2020.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/IND/CO/19, § 12 (loi sur les pouvoirs spéciaux des forces armées au Manipur) et § 19 (barrages au Manipur sans consentement préalable des communautés tribales)", annee: 2007, source: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+base_nationale:
+  - {instrument: "Constitution de l'Inde, art. 371C, inséré par le 27e amendement (1971)", nature: "constitution", annee: 1971, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {instrument: "Manipur (Hill Areas) District Councils Act, 1971 (loi 76 de 1971), modifiée en 2000 et 2008", nature: "loi", annee: 1971, source: "https://indiankanoon.org/doc/1523562/"}
+droits:
+  autogouvernement: {valeur: "conteste", note: "Six conseils de district autonomes élus, loi de 1971 ; les mandats ont pris fin en mai 2020 et aucune élection n'a eu lieu depuis (délimitation inachevée, conflit de 2023).", source: "https://nenow.in/north-east-news/manipur/manipur-tribal-leaders-urge-cm-to-expedite-long-delayed-adc-elections.html"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le conseil attribue les terres pour l'agriculture, le pâturage, l'habitat ou le développement communautaire, loi de 1971, art. 29 (1) ; il ne peut que recommander des lois sur la désignation des chefs, l'héritage, le mariage et la coutume, art. 29 (2).", source: "https://indiankanoon.org/doc/1523562/"}
+  ressources: {valeur: "partiel", note: "Gestion des forêts non classées et régulation de la culture itinérante (jhum), loi de 1971, art. 29 (1).", source: "https://indiankanoon.org/doc/1523562/"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "Création et gestion des écoles primaires, loi de 1971, art. 29 (1).", source: "https://indiankanoon.org/doc/1523562/"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Comité de l'Assemblée composé des députés élus dans les zones de collines, avec responsabilité spéciale du gouverneur et rapport annuel au président, Constitution, art. 371C (1) et (2).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Conseils sans élus depuis mai 2020 ; un projet de loi de 2021 élargissant leurs pouvoirs a été combattu par des organisations de la vallée et n'a pas abouti.", source: "https://nenow.in/north-east-news/manipur/manipur-tribal-leaders-urge-cm-to-expedite-long-delayed-adc-elections.html"}
+chronologie:
+  - {annee: 1971, evenement: "Loi du Parlement sur les conseils de district des collines ; 27e amendement (art. 371C)."}
+  - {annee: 1972, evenement: "Le Manipur devient un État ; ordonnance sur le comité des zones de collines."}
+  - {annee: 2008, evenement: "Modification de la loi de 1971."}
+  - {annee: 2020, evenement: "Fin des mandats des conseils en mai ; pas d'élection depuis."}
+  - {annee: 2019, evenement: "Le régime de l'Inner Line Permit (permis d'entrée des non-résidents) est étendu au Manipur."}
+  - {annee: 2021, evenement: "Projet de loi sur les conseils autonomes des collines, contesté."}
+fiabilite:
+  verifie: ["Texte de l'art. 371C (édition officielle de la Constitution, 2024).", "Art. 29 de la loi de 1971 (Indian Kanoon).", "Nombre de conseils et de districts couverts (Scroll, 26 décembre 2021).", "Absence d'élection depuis 2020 (Northeast Now, 19 mai 2026).", "Population et superficie des districts de collines (gouvernement du Manipur)."]
+  non_confirme: ["Surface : somme calculée des cinq districts de collines donnés par le gouvernement du Manipur ; la presse parle d'« environ 90 % » des 22 327 km² de l'État.", "Inner Line Permit : le permis d'entrée de la Bengal Eastern Frontier Regulation de 1873, étendu au Manipur en décembre 2019, vaut pour tout l'État et non pour les seules collines ; il n'est pas compté comme droit propre des peuples des collines. Recours devant la Cour suprême, réponse du Manipur demandée le 21 novembre 2024.", "Nombre de villages des collines : non trouvé.", "Northeast Now mentionne un passage de six à dix conseils après un amendement : non vérifié.", "Composition des conseils (nombre de sièges élus) : texte complet de la loi non consulté."]
+sources:
+  - {titre: "Constitution de l'Inde (édition au 1er mai 2024) — Ministère du Droit et de la Justice", url: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+  - {titre: "Manipur (Hill Areas) District Councils Act, 1971, art. 29 — Indian Kanoon", url: "https://indiankanoon.org/doc/1523562/"}
+  - {titre: "Scroll, Manipur divided over bill granting more autonomy to tribal councils (26 décembre 2021)", url: "https://scroll.in/article/1013582/old-divides-have-surfaced-over-a-proposed-bill-in-manipur-as-elections-approach"}
+  - {titre: "Northeast Now, élections des conseils de district (19 mai 2026)", url: "https://nenow.in/north-east-news/manipur/manipur-tribal-leaders-urge-cm-to-expedite-long-delayed-adc-elections.html"}
+  - {titre: "Gouvernement du Manipur — données générales sur l'État", url: "https://manipur.gov.in/wp-content/uploads/2015/03/annexure-01-manipur-comprehensive.pdf"}
+  - {titre: "The Tribune, recours contre l'Inner Line Permit au Manipur (21 novembre 2024)", url: "https://www.tribuneindia.com/news/india/sc-seeks-manipurs-reply-on-plea-against-inner-line-permit"}
+  - {titre: "Bengal Eastern Frontier Regulation, 1873 (texte) — Indian Kanoon", url: "https://indiankanoon.org/doc/32142694/"}

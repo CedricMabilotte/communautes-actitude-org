@@ -1,0 +1,54 @@
+uid: "van-panchayats-uttarakhand"
+nom: "Communautés villageoises des Van Panchayats de l'Uttarakhand"
+endonyme: "Van Panchayat"
+territoire: "Forêts de conseil de village des districts de montagne de l'Uttarakhand"
+etats: ["Inde"]
+region: "asie"
+coord: [29.9, 79.5]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 11217, unite: "conseils forestiers de village (van panchayats)", annee: 2026, source: "https://www.downtoearth.org.in/governance/a-step-back-by-uttarakhand"}
+surface_km2: {valeur: 4526.44, annee: 2026, perimetre: "forêts gérées par les van panchayats (4 526,44 km²)", source: "https://www.downtoearth.org.in/governance/a-step-back-by-uttarakhand"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés villageoises des montagnes de l'Uttarakhand (Kumaon et Garhwal) auxquelles l'État a confié la gestion d'une forêt de village. Le régime date des règles de 1931, prises après les incendies de forêt de protestation de 1921. Les habitants élisent en assemblée un conseil de neuf membres et un président (sarpanch), qui fixe les règles d'usage et les amendes ; le service forestier approuve le plan de gestion et les ventes. En 2026, 11 217 conseils géraient environ 4 526 km² de forêts.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Indian Forest Act, 1927, section 28 (forêts de village)", nature: "loi", annee: 1927, source: "https://indiankanoon.org/doc/644357/"}
+  - {instrument: "Règles des forêts de panchayat de 1931, refondues en 2001 (Uttaranchal Panchayati Forest Rules), 2005 (Uttarakhand Panchayati Van Niyamavali), modifiées en 2012 et 2024", nature: "loi", annee: 2005, source: "https://lead-journal.org/content/12141.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les ayants droit du village élisent un conseil de neuf membres au plus, dont quatre sièges réservés aux femmes (un pour une femme de caste ou tribu répertoriée) ; les membres élisent le président (sarpanch), règles de 2001 et de 2005 prises au titre des sections 28 (2) et 76 de la loi forestière de 1927 ; la révocation d'un membre ou du sarpanch passe par le sous-préfet (Sub-Divisional Magistrate).", source: "https://lead-journal.org/content/12141.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil fixe les règles d'accès et de partage des produits de la forêt (pâturage, coupe de branches, bois de feu) et les sanctions, dans le cadre des règles de l'État (2005, modifiées en 2012 et 2024).", source: "https://www.groundreport.in/biodiversity/how-van-panchayat-works-in-uttarakhand/"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "L'État peut attribuer à une communauté villageoise ses droits sur une forêt classée et retirer cette attribution, loi forestière de 1927, section 28 (1) ; le sol reste à l'État.", source: "https://indiankanoon.org/doc/644357/"}
+  ressources: {valeur: "partiel", note: "Le conseil perçoit des redevances de pâturage, d'herbe, de bois et de pierre et peut vendre localement des produits avec l'accord de l'agent forestier ; depuis les règles de 2001, le chef de division forestière approuve le plan de gestion quinquennal et les agents marquent les arbres à abattre.", source: "https://lead-journal.org/content/12141.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le conseil tient un fonds forestier propre sous le contrôle du chef de division forestière ; les règles de 2005 en imposent le partage : 30 % au conseil de village élu (gram panchayat), 40 % pour la forêt, 30 % pour des travaux locaux (2001 : 20 % au conseil de district).", source: "https://lead-journal.org/content/12141.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Entre 2020 et 2022, l'État a relancé les élections des conseils et corrigé leurs registres fonciers ; l'amendement de mars 2024 ne modifie que 15 règles, alors que le projet de 2023 comptait 58 modifications.", source: "https://www.downtoearth.org.in/governance/a-step-back-by-uttarakhand"}
+chronologie:
+  - {annee: 1921, evenement: "Incendies de forêt de protestation au Kumaon et au Garhwal ; commission des griefs forestiers du Kumaon."}
+  - {annee: 1931, evenement: "Règles des forêts de panchayat."}
+  - {annee: 1976, evenement: "Règles rattachées à la loi forestière ; un agent de l'État chargé des conseils."}
+  - {annee: 2001, evenement: "Règles de l'Uttaranchal : conseil de neuf membres, plan de gestion approuvé par le service forestier, partage imposé des revenus."}
+  - {annee: 2005, evenement: "Uttarakhand Panchayati Van Niyamavali ; revenus partagés entre conseil de village élu, forêt et travaux locaux."}
+  - {annee: 2024, evenement: "Amendement de 15 règles approuvé le 16 mars."}
+fiabilite:
+  verifie: ["Section 28 (1) de la loi forestière de 1927 (Indian Kanoon).", "Composition, élection, révocation et partage des revenus selon les règles de 1931 à 2005 (tableau comparatif du LEAD Journal ; People's Science Institute).", "Élections relancées entre 2020 et 2022 et amendement de 2024 (Down To Earth, 3 mars 2026).", "Nombre de conseils et surface en 2026 (Down To Earth, 3 mars 2026), concordant avec le communiqué du cabinet de mars 2024 (Drishti IAS)."]
+  non_confirme: ["Textes des règles de 2005, 2012 et 2024 : non consultés (site du département forestier inaccessible).", "Les chiffres varient de 11 217 à 12 167 conseils et de 4 050 à 7 351 km² selon les sources.", "Population concernée : seule une estimation en familles est publiée.", "Type « peuple tribal ou coutumier » : approximation. Les ayants droit sont des communautés villageoises du Kumaon et du Garhwal, en majorité non répertoriées comme tribus ; le type est retenu au titre de « coutumier » (Convention OIT 169, art. 1 (1) (a) : statut régi en partie par des coutumes propres), car leurs droits prolongent des droits d'usage coutumiers reconnus par les règles de 1931. Aucun autre type du cadre ne convient : « minorité nationale » supposerait un groupe défini par la langue, l'ethnie ou la religion, ce que le régime ne vise pas.", "Part des conseils inactifs (environ la moitié selon IndiaSpend et Ground Report) : estimation de presse."]
+sources:
+  - {titre: "Indian Forest Act, 1927, section 28 (1) — Indian Kanoon", url: "https://indiankanoon.org/doc/644357/"}
+  - {titre: "Uttarakhand Van Panchayats — LEAD Journal", url: "https://lead-journal.org/content/12141.pdf"}
+  - {titre: "Water-Forest Management, Law and Policy in Uttaranchal — People's Science Institute", url: "https://peoplesscienceinstitute.org/research/WaterForestManagement.pdf"}
+  - {titre: "Down To Earth, « A step back by Uttarakhand » (3 mars 2026)", url: "https://www.downtoearth.org.in/governance/a-step-back-by-uttarakhand"}
+  - {titre: "Drishti IAS, amendement des règles des forêts de panchayat (mars 2024)", url: "https://www.drishtiias.com/state-pcs-current-affairs/uttarakhand-approved-forest-panchayat-amendment-rules"}
+  - {titre: "Dialogue Earth, Van panchayats", url: "https://dialogue.earth/en/forests/van-panchayats-upholding-forest-rights-in-uttarakhands-hillside-communities/"}
+  - {titre: "Ground Report, How Van Panchayat works in Uttarakhand", url: "https://www.groundreport.in/biodiversity/how-van-panchayat-works-in-uttarakhand/"}
+  - {titre: "IndiaSpend, How Van Panchayats are losing their relevance", url: "https://www.isignal.in/governance/how-van-panchayats-meant-to-protect-uttarakhands-forests-are-losing-their-relevance-830561"}

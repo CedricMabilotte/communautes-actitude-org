@@ -11,6 +11,7 @@ base: "territoriale"
 population: {valeur: 42, annee: 2022, perimetre: "population du territoire, personnes temporairement à l'étranger comprises", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
 lieux: {valeur: 1, unite: "île habitée (Pitcairn, 4,35 km²)", annee: 2024, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
 surface_km2: {valeur: 35.5, annee: 2024, perimetre: "terres émergées des quatre îles ; zone économique exclusive, devenue aire marine protégée, de 842 000 km²", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
+villages: {valeur: 1, annee: 2024, perimetre: "établissement habité : Adamstown, seule localité de l'île", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/12&l=en&t=pdf"}
 resume: >-
   Territoire britannique du Pacifique Sud inscrit sur la liste des territoires non autonomes de l'ONU, dont la plupart des habitants descendent des mutinés du Bounty et de leurs compagnons tahitiens arrivés en 1790. La Constitution entrée en vigueur en mars 2010 confie les lois au gouverneur, qui est le haut-commissaire britannique en Nouvelle-Zélande, après consultation du Conseil de l'île. Ce conseil de sept membres élus gère les affaires internes et prend des règlements. Une ordonnance de 2006 garantit à chaque habitant une attribution de terres.
 reconnaissance_regionale: []

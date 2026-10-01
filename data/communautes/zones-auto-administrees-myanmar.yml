@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 18, unite: "townships regroupés dans six unités auto-administrées", annee: 2008, source: "https://www.constituteproject.org/constitution/Myanmar_2008"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La Constitution du Myanmar de 2008 crée cinq zones auto-administrées (Naga, Danu, Pa-O, Pa Laung, Kokang) et une division auto-administrée (Wa), chacune nommée d'après un groupe national (« national race »). Chaque unité est dirigée par un organe dirigeant (Leading Body) d'au moins dix membres, composé des élus de ses townships à l'assemblée de l'État ou de la région, de militaires désignés par le commandant en chef et de membres cooptés. L'organe dirigeant légifère sur une liste de matières locales (annexe 3) et prépare un budget à faire approuver par le gouvernement de l'État ou de la région. Depuis le coup d'État de 2021, plusieurs de ces territoires sont administrés de fait par des groupes armés. Fiche agrégée des six unités.
 reconnaissance_regionale: []

@@ -1,0 +1,51 @@
+uid: "mendha-lekha"
+nom: "Gond de Mendha-Lekha"
+endonyme: ""
+territoire: "Village de Mendha-Lekha, taluka de Dhanora, district de Gadchiroli (Maharashtra)"
+etats: ["Inde"]
+region: "asie"
+coord: [20.3, 80.3]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 500, annee: 2020, perimetre: "habitants du village, ordre de grandeur donné par la source (« près de 500 »)", source: "https://www.etvbharat.com/english/state/maharashtra/mendha-lekha-of-mumbai-the-village-of-its-own-rule/na20200130123818325"}
+lieux: {valeur: 1, unite: "village", annee: 2022, source: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
+surface_km2: {valeur: 18, annee: 2022, perimetre: "ressource forestière communautaire reconnue (1 800 ha)", source: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
+villages: {valeur: 1, annee: 2022, perimetre: "village de Mendha-Lekha", source: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
+resume: >-
+  Mendha-Lekha est un village gond du district de Gadchiroli. Son assemblée de village (gram sabha) décide par consensus. En décembre 2009, elle a été l'une des deux premières en Inde à obtenir un titre de droits forestiers communautaires, sur environ 1 800 ha, au titre de la loi de 2006 ; elle vend elle-même son bambou depuis la remise du permis de transport le 27 avril 2011. Le village a été notifié en 2013 comme village « gramdan » (terres mises en commun au nom de l'assemblée), mais les registres fonciers n'avaient pas été modifiés en 2022.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, art. 3 (1) (i) et 5", nature: "loi", annee: 2006, source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  - {instrument: "Maharashtra Gramdan Act, 1964 ; notification de Mendha-Lekha comme village gramdan, 28 novembre 2013", nature: "loi", annee: 2013, source: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'assemblée de village exerce les droits de gestion de la loi de 2006, art. 5 ; la loi du Maharashtra de 1964 sur le gramdan, art. 39, prévoit qu'elle exerce les pouvoirs du conseil de village, mesure non appliquée en 2022.", source: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Titre de droits forestiers communautaires sur environ 1 800 ha (décembre 2009), inaliénable, loi de 2006, art. 4 (4) ; tous les propriétaires ont cédé leurs terres à l'assemblée (gramdan notifié le 28 novembre 2013), mutation des registres fonciers non faite en 2022.", source: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
+  ressources: {valeur: "reconnu", note: "Droit de gérer la ressource forestière communautaire, loi de 2006, art. 3 (1) (i) ; le service forestier a remis à l'assemblée le carnet de permis de transport du bambou le 27 avril 2011, après 18 mois de refus.", source: "https://www.cseindia.org/finally-bamboo-liberated-report-from-the-field-2509"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Gestion forestière et vente du bambou effectives ; la notification gramdan de 2013 n'avait toujours pas produit d'effet sur les registres fonciers en décembre 2022, d'où un recours devant le banc de Nagpur de la Haute Cour de Bombay.", source: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
+chronologie:
+  - {annee: 1992, evenement: "Forêts du village classées ; entrée dans le programme de gestion conjointe des forêts."}
+  - {annee: 2009, evenement: "Titre de droits forestiers communautaires en décembre."}
+  - {annee: 2011, evenement: "Permis de transport du bambou remis à l'assemblée le 27 avril."}
+  - {annee: 2013, evenement: "Notification comme village gramdan le 28 novembre."}
+  - {annee: 2022, evenement: "Recours devant la Haute Cour pour l'application du statut gramdan."}
+fiabilite:
+  verifie: ["Titre CFR de décembre 2009 et remise du permis de transport le 27 avril 2011 (CSE).", "Notification gramdan du 28 novembre 2013 et recours de 2022 (Vikalp Sangam).", "Décision par consensus de l'assemblée (Kalpavriksh).", "Surface de 1 800 ha (Vikalp Sangam, Community Conserved Areas)."]
+  non_confirme: ["Population : ordre de grandeur de presse (environ 400 selon Kalpavriksh, près de 500 selon ETV Bharat, 2020).", "Issue du recours de 2022 devant la Haute Cour : non trouvée.", "Revenus du bambou : non trouvés sur une source consultée."]
+sources:
+  - {titre: "Kalpavriksh, Mendha Lekha Village", url: "https://kalpavriksh.org/mendha-lekha-village/"}
+  - {titre: "Centre for Science and Environment, Finally bamboo liberated (2011)", url: "https://www.cseindia.org/finally-bamboo-liberated-report-from-the-field-2509"}
+  - {titre: "Vikalp Sangam, India's 1st CFR village moves HC for gramdan status (26 décembre 2022)", url: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
+  - {titre: "ETV Bharat, Mendha (Lekha), the village of self-rule (2020)", url: "https://www.etvbharat.com/english/state/maharashtra/mendha-lekha-of-mumbai-the-village-of-its-own-rule/na20200130123818325"}
+  - {titre: "Forest Rights Act, 2006 — texte (PRS Legislative Research)", url: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  - {titre: "Down To Earth, Forest governance 2.0 (2017)", url: "https://www.downtoearth.org.in/coverage/wildlife-biodiversity/forest-governance-2-0-59363"}

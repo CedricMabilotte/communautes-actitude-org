@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 2200, annee: 2001, perimetre: "Ju|'hoansi vivant dans la zone de Nyae Nyae", source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/controlling-their-destiny-juhoansi-nyae-nyae"}
 lieux: {valeur: 35, unite: "communautés (villages)", annee: 2001, source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/controlling-their-destiny-juhoansi-nyae-nyae"}
 surface_km2: {valeur: 9003, annee: 2001, perimetre: "superficie de la conservancy", source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/controlling-their-destiny-juhoansi-nyae-nyae"}
+villages: {valeur: 35, annee: 2001, perimetre: "communautés (villages) de la conservancy de Nyae Nyae", source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/controlling-their-destiny-juhoansi-nyae-nyae"}
 resume: >-
   Les Ju|'hoansi sont un peuple san du nord-est de la Namibie, organisé en communautés réparties sur leurs territoires traditionnels.
   En février 1998, la zone de Nyae Nyae est devenue la première conservancy communale (zone de gestion communautaire de la faune) du pays, au titre de la loi de 1996 sur la conservation de la nature.

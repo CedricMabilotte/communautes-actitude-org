@@ -11,6 +11,7 @@ base: "territoriale"
 population: {valeur: 10335, annee: 2017, perimetre: "personnes recensées comme Rotumans dans tout Fidji (1,2 % de la population), dont une minorité réside sur l'île", source: "https://minorityrights.org/country/fiji-islands/"}
 lieux: {valeur: 7, unite: "districts coutumiers", annee: 2016, source: "https://islandstudies.com/files/2016/11/Rotuma.pdf"}
 surface_km2: {valeur: 44, annee: 2016, perimetre: "île de Rotuma", source: "https://islandstudies.com/files/2016/11/Rotuma.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Peuple de l'île de Rotuma, à environ 500 km au nord de l'archipel principal de Fidji, rattachée administrativement à Fidji depuis 1881. La Constitution de 2013 reconnaît les Rotumans comme peuple autochtone et interdit l'aliénation définitive des terres rotumanes (art. 28). L'île, dépendance de Fidji, dispose d'un Conseil de Rotuma institué par le Rotuma Act, composé de chefs de district et de représentants élus.
 reconnaissance_regionale: []

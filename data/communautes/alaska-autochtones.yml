@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 180000, annee: 2026, perimetre: "membres des 229 tribus reconnues au niveau fédéral (« plus de 180 000 », BIA)", source: "https://www.bia.gov/regional-office/alaska-region"}
 lieux: {valeur: 229, unite: "tribus reconnues au niveau fédéral", annee: 2026, source: "https://www.bia.gov/regional-office/alaska-region"}
 surface_km2: {valeur: 179501, annee: 2025, perimetre: "terres transférées aux corporations autochtones au titre de l'ANCSA (44 355 611 acres)", source: "https://www.blm.gov/programs/lands-and-realty/regional-information/alaska/land_transfer"}
+villages: {valeur: 221, annee: 2020, perimetre: "zones statistiques de villages autochtones d'Alaska (ANVSA) délimitées pour le recensement 2020", source: "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/AIANNHA/MapServer/42/query?where=1%3D1&returnCountOnly=true&f=json"}
 resume: >-
   Les peuples autochtones d'Alaska forment 229 tribus reconnues par le gouvernement fédéral des États-Unis, qui comptent plus de 180 000 membres selon le Bureau des affaires indiennes. La loi de 1971 sur le règlement des revendications des autochtones d'Alaska (ANCSA) a éteint les titres ancestraux et transféré des terres à des sociétés autochtones régionales et de village, sans créer de réserves. Le gouvernement propre des tribus repose sur la reconnaissance fédérale, non sur l'ANCSA. La réserve d'Annette Island relève de la région Nord-Ouest du BIA et non de sa région Alaska.
 reconnaissance_onu:

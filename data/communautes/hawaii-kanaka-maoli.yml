@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 317497, annee: 2020, perimetre: "Hawaïens autochtones seuls ou en combinaison avec d'autres origines, État d'Hawaï (94 025 déclarés seuls)", source: "https://files.hawaii.gov/dbedt/census/census_2020/data/reports/Native_Hawaiian_Population_in_Hawaii_in_2020.pdf"}
 lieux: {valeur: 10045, unite: "baux de homestead sur les terres domaniales hawaïennes", annee: 2026, source: "https://dhhl.hawaii.gov/about/"}
 surface_km2: {valeur: 825, annee: 2026, perimetre: "terres domaniales hawaïennes gérées par le Department of Hawaiian Home Lands (203 981 acres)", source: "https://dhhl.hawaii.gov/about/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Hawaïens autochtones sont le peuple de l'archipel d'Hawaï, État des États-Unis depuis 1959. Ils n'ont pas de gouvernement propre reconnu par le droit fédéral. La constitution de l'État d'Hawaï, révisée en 1978, crée l'Office of Hawaiian Affairs (Bureau des affaires hawaïennes), fait de l'hawaïen une langue officielle et reprend la loi fédérale sur les terres de la Hawaiian Homes Commission. En 1993, le Congrès a présenté des excuses pour le renversement du royaume d'Hawaï en 1893.
 reconnaissance_onu:

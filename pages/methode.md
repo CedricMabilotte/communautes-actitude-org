@@ -31,7 +31,7 @@ Une erreur, un oubli ? La page [Droit de réponse](/droit-de-reponse/) explique 
 
 ## Les chiffres {#chiffres}
 
-Chaque fiche donne la population, le nombre de lieux concernés et la surface du territoire, avec leur année, leur source et leur périmètre. Un chiffre introuvable reste vide : il n'est jamais estimé.
+Chaque fiche donne la population, le nombre de lieux concernés, le nombre de villages et la surface du territoire, avec leur année, leur source et leur périmètre. Un chiffre introuvable reste vide : il n'est jamais estimé.
 
 ## Les dossiers thématiques {#dossiers}
 

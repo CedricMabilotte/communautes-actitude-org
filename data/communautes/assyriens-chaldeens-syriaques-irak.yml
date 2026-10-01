@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Assyriens, Chaldéens et Syriaques sont des communautés chrétiennes de langue néo-araméenne (syriaque), présentes surtout dans la plaine de Ninive, à Bagdad et au Kurdistan irakien.
   La Constitution irakienne de 2005 fait du syriaque une langue officielle dans les unités administratives où ils sont nombreux et leur garantit des droits administratifs, politiques, culturels et éducatifs (art. 125), jamais mis en œuvre sous forme d'unité administrative propre.

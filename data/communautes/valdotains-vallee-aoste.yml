@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 122877, annee: 2023, perimetre: "population résidente de la région au 31 décembre (recensement permanent)", source: "https://www.istat.it/wp-content/uploads/2025/04/Censimento-permanente-popolazione_Anno-2023_Valle-dAosta.pdf"}
 lieux: {valeur: 74, unite: "communes", annee: 2023, source: "https://www.istat.it/wp-content/uploads/2025/04/Censimento-permanente-popolazione_Anno-2023_Valle-dAosta.pdf"}
 surface_km2: {valeur: 3262, annee: null, perimetre: "région", source: "https://www.axl.cefan.ulaval.ca/europe/italieaoste.htm"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La Vallée d'Aoste est une région autonome à statut spécial (loi constitutionnelle n° 4 du 26 février 1948). Le statut place la langue française et la langue italienne sur un plan d'égalité et réserve au français autant d'heures d'enseignement qu'à l'italien. Le Conseil de la Vallée légifère dans les matières énumérées à l'article 2, dont les droits d'usage et les consorteries (communautés de copropriétaires de biens agricoles et forestiers). Les populations de langue allemande (walser) de la vallée du Lys ont des droits propres depuis 1993.
 reconnaissance_regionale:

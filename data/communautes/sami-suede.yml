@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 9755, annee: 2025, perimetre: "personnes inscrites sur la liste électorale du Sameting (18 ans et plus)", source: "https://www.sametinget.se/2627"}
 lieux: {valeur: 51, unite: "samebyar (communautés villageoises d'élevage de rennes)", annee: null, source: "https://www.sametinget.se/samebyar"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Depuis 2011, l'Instrument de gouvernement, l'une des lois fondamentales suédoises, reconnaît les Sámi comme un peuple. La Loi de 1992 sur le Sameting institue une assemblée élue qui est aussi une autorité administrative de l'État. Le droit à l'élevage des rennes est réservé aux Sámi membres des communautés villageoises (samebyar). La Loi de 2022 oblige l'État, les régions et les communes à consulter les représentants sâmes avant les décisions qui les concernent particulièrement.
 reconnaissance_onu:

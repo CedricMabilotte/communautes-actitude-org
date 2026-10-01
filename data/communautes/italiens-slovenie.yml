@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 2258, annee: 2002, perimetre: "personnes déclarées de nationalité italienne en Slovénie, recensement de 2002", source: "https://www.culturalpolicies.net/country_profile/slovenia-2-6/"}
 lieux: {valeur: 4, unite: "communes bilingues (Ankaran, Koper, Izola, Piran)", annee: 2020, source: "https://2014-2020.ita-slo.eu/en/all-news/news/primis-presentation-minority-communities-italian-national-community-slovenia"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La Constitution slovène de 1991 reconnaît la communauté nationale italienne comme communauté autochtone, avec la communauté hongroise. Elle vit sur la côte de l'Istrie slovène, dans les communes de Koper, Izola, Piran et Ankaran. L'article 64 de la Constitution garantit l'éducation dans sa langue, la création de communautés nationales autogérées et un député à l'Assemblée nationale. Chaque commune bilingue a une communauté autogérée de nationalité italienne, coordonnées par la Communauté autogérée côtière (CAN Costiera) de Koper.
 reconnaissance_onu:

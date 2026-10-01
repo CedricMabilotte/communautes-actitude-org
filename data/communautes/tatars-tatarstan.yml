@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 2091175, annee: 2021, perimetre: "Tatars résidant dans la République, recensement de 2021 (53,6 % de la population)", source: "https://www.tatar-inform.ru/news/itogi-perepisi-2021-tatarstan-rastet-no-tatar-v-rossii-stalo-mense-5892351"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Le Tatarstan est l'une des républiques de la Fédération de Russie. Son statut est fixé par la Constitution fédérale et par sa propre constitution (art. 66), et il exerce le plein pouvoir d'État hors des compétences fédérales et conjointes (art. 73). Le tatar y est langue d'État aux côtés du russe (art. 68 de la Constitution fédérale). En 2004, la Cour constitutionnelle a admis l'étude obligatoire du tatar dans les écoles de la République ; la loi fédérale de 2018 l'a rendue facultative.
 reconnaissance_regionale:

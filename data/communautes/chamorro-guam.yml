@@ -11,6 +11,7 @@ types_secondaires: ["peuple_autochtone"]
 population: {valeur: 153836, annee: 2020, perimetre: "population totale de Guam (toutes origines)", source: "https://www.census.gov/data/tables/2020/dec/2020-guam.html"}
 lieux: {valeur: 19, unite: "municipalités", annee: 2020, source: "https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/guam/population-and-housing-unit-counts/guam-phc-table01.pdf"}
 surface_km2: {valeur: 544, annee: 2026, perimetre: "terres émergées de Guam (TIGERweb, Bureau du recensement des États-Unis)", source: "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/0/query?where=STATE%3D%2766%27&outFields=NAME,AREALAND,AREAWATER&returnGeometry=false&f=json"}
+villages: {valeur: 19, annee: 2020, perimetre: "villages (municipalités) de Guam au recensement 2020", source: "https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/guam/population-and-housing-unit-counts/guam-phc-table01.pdf"}
 resume: >-
   Guam est un territoire non incorporé des États-Unis (territoire soumis au pouvoir plénier du Congrès sans être intégré à l'Union), doté depuis l'Organic Act de 1950 d'un gouvernement élu. Les Chamorros sont le peuple autochtone de l'île. Une loi de Guam de 2000 prévoyait un plébiscite sur le statut politique réservé aux « habitants autochtones de Guam » ; la justice fédérale l'a invalidé en 2017, décision confirmée en 2019 et devenue définitive en 2020. Guam figure sur la liste des territoires non autonomes.
 reconnaissance_onu:

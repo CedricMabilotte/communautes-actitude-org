@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1905617, annee: 2018, perimetre: "personnes s'identifiant comme autochtones dans tout le pays (recensement national), dans et hors des resguardos", source: "https://www.dane.gov.co/files/investigaciones/boletines/grupos-etnicos/presentacion-grupos-etnicos-2019.pdf"}
 lieux: {valeur: 959, unite: "titres de resguardo (propriété collective) au 31 décembre 2025, d'après les données de l'Agence nationale des terres", annee: 2025, source: "https://geoactivismo.org/territorios-indigenas-en-colombia-2025/"}
 surface_km2: {valeur: 350000, annee: 2025, perimetre: "surface des resguardos titrés (35 millions d'hectares, environ 30,6 % du territoire continental)", source: "https://geoactivismo.org/territorios-indigenas-en-colombia-2025/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Fiche agrégée. La Constitution colombienne de 1991 fait des resguardos une propriété collective autochtone inaliénable, imprescriptible et insaisissable. Les territoires autochtones sont gouvernés par des conseils formés selon les usages et coutumes des communautés ; leurs autorités exercent une juridiction spéciale selon leurs propres normes. Les langues des groupes ethniques sont officielles dans leurs territoires et deux sièges du Sénat leur sont réservés. Fin 2025, 959 titres couvrent environ 35 millions d'hectares ; les huit premières entités territoriales autochtones ont été formalisées en décembre 2025. La fiche du peuple nasa du Cauca détaille un cas.
 reconnaissance_regionale: []

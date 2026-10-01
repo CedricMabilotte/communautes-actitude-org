@@ -11,6 +11,7 @@ types_secondaires: ["peuple_tribal"]
 population: {valeur: 500000, annee: 1991, perimetre: "membres des 11 peuples autochtones de la région (« environ 500 000 », d'après le recensement de 1991)", source: "https://docs.un.org/fr/E/C.19/2011/6"}
 lieux: {valeur: 3, unite: "districts (Rangamati, Khagrachari, Bandarban)", annee: 2011, source: "https://docs.un.org/fr/E/C.19/2011/6"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Onze peuples (Bawm, Chak, Chakma, Khumi, Khyang, Lushai, Marma, Mro, Pangkhua, Tanchangya, Tripura) vivent dans les Chittagong Hill Tracts, au sud-est du Bangladesh. L'accord du 2 décembre 1997 entre le gouvernement et le Parbatya Chattagram Jana Samhati Samiti (PCJSS) définit la région comme « région habitée par des tribus » et crée un conseil régional et trois conseils de district. L'État les désigne comme « tribus » (upajati) et non comme peuples autochtones. Les institutions prévues sont dirigées par des membres nommés, sans élection depuis 1989.
 reconnaissance_onu:

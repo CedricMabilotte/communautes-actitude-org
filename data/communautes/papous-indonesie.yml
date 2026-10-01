@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 7156, annee: 2025, perimetre: "kampung (villages, desa) des six provinces de Papouasie : Papua 948, Papua Barat 803, Papua Selatan 677, Papua Tengah 1 172, Papua Pegunungan 2 617, Papua Barat Daya 939 ; hors 205 kelurahan urbaines", source: "https://jdih.sumutprov.go.id/assets/reg/1753776905441_KEPMEN_NOMOR_300222430_TAHUN_2025.pdf"}
 resume: >-
   Les Papous autochtones (Orang Asli Papua) vivent dans l'ouest de l'île de Nouvelle-Guinée, placé sous administration de l'ONU (UNTEA) en 1962-1963 puis rattaché à l'Indonésie. La loi 21/2001 sur l'autonomie spéciale crée une assemblée du peuple papou (MRP), représentation culturelle des Papous autochtones, réserve le poste de gouverneur à un Papou autochtone et reconnaît le droit coutumier sur les terres (hak ulayat) et une justice coutumière. La loi 2/2021 modifie ce régime : sièges nommés réservés aux Papous autochtones dans les assemblées locales, suppression des partis politiques locaux, prolongation des transferts financiers jusqu'en 2041.
 reconnaissance_onu:

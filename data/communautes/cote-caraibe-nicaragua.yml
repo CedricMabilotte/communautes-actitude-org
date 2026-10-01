@@ -11,6 +11,7 @@ types_secondaires: ["communaute_afrodescendante"]
 population: {valeur: 997358, annee: 2023, perimetre: "population estimée des deux régions autonomes, toutes origines (RACCN 563 088 ; RACCS 434 270)", source: "https://www.inide.gob.ni/docs/Anuarios/Anuario2023/Anuario_Estadistico_2023.pdf"}
 lieux: {valeur: 20, unite: "communes (8 en RACCN, 12 en RACCS)", annee: 2023, source: "https://www.inide.gob.ni/docs/Anuarios/Anuario2023/Anuario_Estadistico_2023.pdf"}
 surface_km2: {valeur: 60366, annee: 2023, perimetre: "superficie des deux régions autonomes (RACCN 33 106 ; RACCS 27 260), données INETER", source: "https://www.inide.gob.ni/docs/Anuarios/Anuario2023/Anuario_Estadistico_2023.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les deux régions autonomes de la côte caraïbe regroupent des peuples autochtones (Miskitu, Mayangna, Ulwa, Rama) et afrodescendants (Kriol, Garífuna). Le statut d'autonomie (loi 28 de 1987) y établit des conseils régionaux élus. La loi 445 de 2003 organise la démarcation et le titre collectif des terres communales. La Constitution de 2025 maintient le régime d'autonomie et l'usage officiel des langues de la côte.
 reconnaissance_onu:

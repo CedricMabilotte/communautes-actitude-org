@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1693535, annee: 2022, perimetre: "personnes autochtones au Brésil, dans et hors des terres indigènes (recensement IBGE)", source: "https://revistapesquisa.fapesp.br/populacao-indigena-soma-169-milhao-de-pessoas-no-brasil/"}
 lieux: {valeur: 573, unite: "terres indigènes déclarées, homologuées ou régularisées", annee: 2022, source: "https://revistapesquisa.fapesp.br/populacao-indigena-soma-169-milhao-de-pessoas-no-brasil/"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 6130, annee: 2022, perimetre: "localités indigènes situées dans des terres indigènes déclarées, homologuées, régularisées ou réservées (agglomérations permanentes d'au moins 15 habitants indigènes : villages, communautés, campements…), sur 8 568 localités indigènes au total (recensement 2022)", source: "https://agenciabrasil.ebc.com.br/geral/noticia/2024-12/censo-2022-mapeou-85-mil-localidades-indigenas-em-todo-o-pais"}
 resume: >-
   L'article 231 de la Constitution de 1988 reconnaît aux peuples autochtones leur organisation sociale et des droits originaires sur les terres qu'ils occupent traditionnellement. Ces terres appartiennent à l'Union ; les peuples en ont la possession permanente et l'usufruit exclusif (droit d'usage et de jouissance) des richesses du sol, des rivières et des lacs. Le recensement de 2022 compte 1 693 535 personnes autochtones, dont environ 622 100 vivent dans les 573 terres indigènes alors déclarées, homologuées ou régularisées.
 reconnaissance_onu:

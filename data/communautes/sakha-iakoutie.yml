@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 466500, annee: 2010, perimetre: "Sakha (Iakoutes) résidant dans la République, recensement de 2010 (49,9 % de la population)", source: "https://ysia.ru/saha-yakutiya-stat-v-respublike-prozhivayut-predstaviteli-bolee-120-natsionalnostej/"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La République de Sakha (Iakoutie) est l'une des républiques de la Fédération de Russie. Son statut est fixé par la Constitution fédérale et par sa propre constitution (art. 66), et elle exerce le plein pouvoir d'État hors des compétences fédérales et conjointes (art. 73). Les républiques peuvent établir leurs propres langues d'État (art. 68) ; le sakha y est langue d'État aux côtés du russe, et les langues évenke, évène, youkaguire, dolgane et tchouktche sont officielles dans les lieux d'habitat de ces peuples. Les Sakha ne relèvent pas de la liste des peuples autochtones peu nombreux, qui exclut les peuples de plus de 50 000 personnes.
 reconnaissance_regionale:

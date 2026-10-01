@@ -11,6 +11,7 @@ base: "mixte"
 population: {valeur: 555499, annee: 2017, perimetre: "personnes recensées comme iTaukei (62,8 % de la population)", source: "https://minorityrights.org/country/fiji-islands/"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: 2026, perimetre: "terres iTaukei, soit 91 % des terres de Fidji selon le Bureau fiduciaire des terres iTaukei ; aucune surface en km² publiée trouvée", source: "https://tltb.com.fj/corporate-profile/"}
+villages: {valeur: 1171, annee: null, perimetre: "villages (koro) iTaukei des 14 provinces, cartographiés par l'Institut iTaukei de la langue et de la culture ; date de dénombrement non indiquée", source: "https://www.itaukeiaffairs.gov.fj/index.php/divisions/tilc"}
 resume: >-
   Peuple autochtone de Fidji, majoritaire dans la population. La Constitution de 2013 reconnaît dans son préambule les iTaukei et leur propriété des terres iTaukei, et interdit l'aliénation définitive de ces terres (art. 28). Les terres sont administrées pour leurs propriétaires coutumiers par le Bureau fiduciaire des terres iTaukei (iTaukei Land Trust Board), organisme créé en 1940. Le Grand Conseil des chefs (Bose Levu Vakaturaga), dissous en 2007, a été rétabli par une loi de 2023.
 reconnaissance_regionale: []

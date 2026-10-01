@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "population des municipalités inscrites au catalogue ; aucun total publié trouvé", source: ""}
 lieux: {valeur: 418, unite: "municipalités inscrites au catalogue de l'Institut électoral d'Oaxaca (413 avis de détermination du mode électoral disponibles)", annee: 2025, source: "https://www.laondaoaxaca.com.mx/2025/06/ieepco-aprueba-catalogo-de-municipios-de-sistemas-normativos-indigenas/"}
 surface_km2: {valeur: null, annee: null, perimetre: "surface cumulée des municipalités inscrites ; non trouvée", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Fiche agrégée. La Constitution de l'État d'Oaxaca reconnaît aux peuples et communautés autochtones l'autonomie comme expression de leur libre détermination, la personnalité juridique de droit public et leurs systèmes normatifs internes. Des municipalités de l'État élisent leurs autorités selon ces systèmes, la volonté exprimée en assemblée communautaire étant garantie par la Constitution de l'État. Le catalogue approuvé par l'Institut électoral d'Oaxaca le 25 juin 2025 compte 418 municipalités. L'État reconnaît quinze peuples autochtones et les communautés afromexicaines.
 reconnaissance_regionale: []

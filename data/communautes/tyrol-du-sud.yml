@@ -11,6 +11,7 @@ types_secondaires: ["collectivite_insulaire_ou_regionale"]
 population: {valeur: 539679, annee: 2025, perimetre: "population de la province au 1er janvier (Eurostat, NUTS 3 ITH10)", source: "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_r_pjanaggr3?geo=ITH10&sex=T&age=TOTAL&unit=NR&sinceTimePeriod=2023"}
 lieux: {valeur: 116, unite: "communes", annee: 2025, source: "https://works.eurac.edu/Autonomy-Report-South-Tyrol-2025.pdf"}
 surface_km2: {valeur: 7398, annee: 2024, perimetre: "superficie totale de la province (Eurostat)", source: "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/reg_area3?geo=ITH10&sinceTimePeriod=2015"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La province de Bolzano – Tyrol du Sud compte trois groupes linguistiques officiellement recensés : germanophone (68,61 %), italophone (26,98 %) et ladin (4,41 %) selon la déclaration d'appartenance de 2024. Son autonomie repose sur l'accord de Paris de 1946 entre l'Autriche et l'Italie, sur l'article 116 de la Constitution et sur le Statut d'autonomie de 1972. Le différend entre les deux États, porté devant l'Assemblée générale des Nations unies en 1960, a été clos en 1992. Une loi constitutionnelle de réforme du Statut a été définitivement adoptée le 13 mai 2026.
 reconnaissance_onu:

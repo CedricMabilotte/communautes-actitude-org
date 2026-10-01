@@ -11,6 +11,7 @@ types_secondaires: ["collectivite_insulaire_ou_regionale"]
 population: {valeur: 30541, annee: 2023, perimetre: "population du territoire", source: "https://www.asub.ax/"}   # valeur null si inconnue ; perimetre dit ce qui est compté
 lieux: {valeur: 16, unite: "communes", annee: 2024, source: "https://..."}   # nombre de lieux concernés (communes, réserves, resguardos, villages, terres, conseils…) ; valeur null si inconnu
 surface_km2: {valeur: 1580, annee: 2024, perimetre: "terres émergées", source: "https://..."}   # surface du territoire concerné ; null si inconnue
+villages: {valeur: null, annee: null, perimetre: "", source: ""}   # nombre de villages ou établissements habités dans la zone concernée (villages, hameaux, localités, villages nordiques…) ; null si introuvable, jamais estimé
 resume: >-
   Deux à quatre phrases factuelles. Qui, où, quel régime, depuis quand. Aucun adjectif d'appréciation.
 reconnaissance_regionale: []   # ex. [{mecanisme: "commission_africaine", detail: "...", annee: 2010, source: "https://..."}] ; mécanismes : commission_africaine, cour_africaine, cour_interamericaine, commission_interamericaine, conseil_europe_fcnm, charte_langues_regionales, union_europeenne

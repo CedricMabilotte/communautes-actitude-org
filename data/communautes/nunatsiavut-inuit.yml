@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 2323, annee: 2021, perimetre: "résidents de la division de recensement n° 11 (Nunatsiavut), recensement de Statistique Canada ; les bénéficiaires inscrits vivant hors de la région ne sont pas comptés", source: "https://en.wikipedia.org/wiki/Nunatsiavut"}
 lieux: {valeur: 5, unite: "communautés inuit (Nain, Hopedale, Makkovik, Postville, Rigolet)", annee: 2005, source: "https://www.gov.nl.ca/exec/iar/overview/land-claims/highlights/"}
 surface_km2: {valeur: 15800, annee: 2005, perimetre: "terres inuit du Labrador en propriété ; la région visée par l'accord couvre 72 520 km² de terres et 48 690 km² de zone marine", source: "https://www.gov.nl.ca/exec/iar/overview/land-claims/highlights/"}
+villages: {valeur: 5, annee: 2005, perimetre: "communautés inuit (Nain, Hopedale, Makkovik, Postville, Rigolet)", source: "https://www.gov.nl.ca/exec/iar/overview/land-claims/highlights/"}
 resume: >-
   Les Inuit du nord du Labrador ont signé le 22 janvier 2005 un accord de revendication territoriale avec le Canada et la province de Terre-Neuve-et-Labrador. L'accord, ratifié par la loi fédérale du 23 juin 2005, leur attribue la propriété de 15 800 km² et crée le gouvernement du Nunatsiavut. Ce gouvernement régional, doté d'une assemblée, légifère pour les Inuit dans des domaines comme l'éducation, la santé et la langue ; cinq gouvernements communautaires inuit remplacent les municipalités.
 reconnaissance_regionale: []

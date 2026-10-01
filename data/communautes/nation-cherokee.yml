@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 450000, annee: 2026, perimetre: "citoyens de la Nation cherokee, tous lieux de résidence (« plus de 450 000 » selon la Nation)", source: "https://www.cherokee.gov/about-the-nation/frequently-asked-questions/common-questions/"}
 lieux: {valeur: 14, unite: "comtés de l'Oklahoma couverts en tout ou en partie par la réserve", annee: 2026, source: "https://www.cherokee.gov/about-the-nation/maps/"}
 surface_km2: {valeur: 18130, annee: 2026, perimetre: "réserve de 7 000 milles carrés convertis en km² ; périmètre de compétence, pas de propriété", source: "https://www.cherokee.gov/about-the-nation/maps/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La Nation cherokee est l'une des trois nations cherokees reconnues par l'État fédéral ; elle siège à Tahlequah (Oklahoma), où elle a été déportée en 1838. Elle a un gouvernement à trois pouvoirs (législatif, exécutif, judiciaire), une constitution, des tribunaux et une commission fiscale. Après l'arrêt McGirt v. Oklahoma de la Cour suprême (2020), la Cour d'appel pénale de l'Oklahoma juge en 2021 (Hogner v. Oklahoma) que sa réserve n'a jamais été supprimée. La Nation exerce depuis la compétence pénale sur les Autochtones (catégorie « Indiens » du droit fédéral) dans une réserve de 7 000 milles carrés.
 reconnaissance_regionale: []

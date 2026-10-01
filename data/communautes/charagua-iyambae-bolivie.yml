@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 40000, annee: 2020, perimetre: "habitants du territoire (« unos 40.000 », projection de l'INE pour 2020 citée par l'auteur)", source: "https://dialnet.unirioja.es/descarga/articulo/8331297.pdf"}
 lieux: {valeur: 4, unite: "capitanías guarani (plus de 100 communautés rurales), outre sept colonies mennonites et deux bourgs", annee: 2021, source: "https://dialnet.unirioja.es/descarga/articulo/8331297.pdf"}
 surface_km2: {valeur: 74000, annee: 2021, perimetre: "territoire de l'autonomie, ancienne commune de Charagua (« más de 74.000 km2 »)", source: "https://dialnet.unirioja.es/descarga/articulo/8331297.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Charagua Iyambae est la première autonomie indigène originaire paysanne (AIOC, collectivité territoriale indigène prévue par la Constitution de 2009) en fonctionnement en Bolivie. Son statut est approuvé par référendum le 20 septembre 2015 et ses 46 autorités prennent leurs fonctions le 8 janvier 2017, date de disparition de la commune. Le territoire compte environ 40 000 habitants selon une projection de 2020, répartis entre plus de 100 communautés guarani, sept colonies mennonites et deux bourgs.
 reconnaissance_onu:

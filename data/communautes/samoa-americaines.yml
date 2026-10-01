@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 49710, annee: 2020, perimetre: "population du territoire (recensement des États-Unis)", source: "https://www.census.gov/newsroom/press-releases/2021/2020-census-american-samoa.html"}
 lieux: {valeur: 14, unite: "conseils de comté", annee: 2026, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/1&l=fr&t=pdf"}
 surface_km2: {valeur: 200, annee: 2026, perimetre: "terres émergées des sept îles", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/1&l=fr&t=pdf"}
+villages: {valeur: 76, annee: 2020, perimetre: "villages habités au recensement de 2020 (77 villages recensés, dont Swains sans habitant)", source: "https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/american-samoa/population-and-housing-unit-counts/american-samoa-phc-table02.pdf"}
 resume: >-
   Territoire non incorporé et non organisé des États-Unis (sans loi organique du Congrès), administré sous l'autorité du secrétaire à l'Intérieur. La Constitution révisée de 1967, approuvée par le secrétaire à l'Intérieur et par les électeurs en 1966, protège les terres et le mode de vie samoans et réserve le Sénat territorial aux matai (chefs de famille) désignés selon la coutume. Les habitants sont nationaux, non citoyens, des États-Unis. Le territoire figure sur la liste des territoires non autonomes.
 reconnaissance_onu:

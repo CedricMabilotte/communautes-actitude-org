@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 214102, annee: 2011, perimetre: "population totale du district, toutes communautés (treize groupes tribaux et des non-tribaux)", source: "https://dimahasao.assam.gov.in/about-district/district-glance"}
 lieux: {valeur: 695, unite: "villages cadastraux", annee: 2011, source: "https://dimahasao.assam.gov.in/about-district/district-glance"}
 surface_km2: {valeur: 4888, annee: 2024, perimetre: "superficie du district, territoire du conseil autonome", source: "https://dimahasao.assam.gov.in/about-district/district-glance"}
+villages: {valeur: 695, annee: 2011, perimetre: "villages cadastraux (revenue villages) du district de Dima Hasao", source: "https://dimahasao.assam.gov.in/about-district/district-glance"}
 resume: >-
   Le district de Dima Hasao, au sud de l'Assam, est un district autonome de la Sixième annexe de la Constitution depuis 1952, dont les Dimasa forment le groupe principal parmi treize groupes tribaux. Son conseil, appelé North Cachar Hills Autonomous Council, dispose depuis 1995 de quinze domaines législatifs supplémentaires. Le mémorandum d'accord du 27 avril 2023 avec le Dimasa National Liberation Army prévoit un conseil de bien-être pour les Dimasa hors du district et l'examen de l'extension du territoire du conseil.
 reconnaissance_regionale: []

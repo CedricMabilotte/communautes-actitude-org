@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 248200, annee: 2001, perimetre: "Tatars de Crimée recensés en Crimée (recensement ukrainien de 2001)", source: "https://minorityrights.org/communities/crimean-tatars/"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Tatars de Crimée sont reconnus comme peuple autochtone de l'Ukraine par une résolution de la Verkhovna Rada (Parlement) de 2014 et par la Loi sur les peuples autochtones de l'Ukraine du 1er juillet 2021, qui vise aussi les Karaïmes et les Krymtchaks. La résolution de 2014 reconnaît le Qurultay comme organe représentatif suprême et le Mejlis comme son organe exécutif. La loi de 2021 leur reconnaît un droit à l'autodétermination au sein de l'Ukraine. La Crimée est occupée par la Russie depuis 2014, qui a interdit le Mejlis en 2016.
 reconnaissance_onu:

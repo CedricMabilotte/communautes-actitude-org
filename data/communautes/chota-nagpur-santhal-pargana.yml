@@ -1,0 +1,58 @@
+uid: "chota-nagpur-santhal-pargana"
+nom: "Adivasis du Jharkhand (Chota Nagpur et Santhal Pargana)"
+endonyme: ""
+territoire: "Divisions du Chota Nagpur et du Santhal Pargana, État du Jharkhand"
+etats: ["Inde"]
+region: "asie"
+coord: [23.6, 85.3]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 8645042, annee: 2011, perimetre: "membres des tribus répertoriées du Jharkhand (26,2 % de la population de l'État)", source: "https://www.trijharkhand.in/en/tribe-specific-data-jharkhand"}
+lieux: {valeur: 16, unite: "districts où s'appliquent les règles PESA de 2025 (13 en totalité, 3 en partie)", annee: 2026, source: "https://www.downtoearth.org.in/governance/pesa-act-implemented-in-jharkhand-after-25-years-but-will-it-change-tribal-lives"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 12164, annee: 2011, perimetre: "villages où vit plus de la moitié de la population tribale de l'État (recensement de 2011, cité par Down To Earth)", source: "https://www.downtoearth.org.in/governance/pesa-act-implemented-in-jharkhand-after-25-years-but-will-it-change-tribal-lives"}
+resume: >-
+  Fiche agrégée : elle couvre les 32 tribus répertoriées du Jharkhand, dont les Santal, les Oraon, les Munda et les Ho. Deux lois foncières interdisent la cession des terres tribales à des non-tribaux : le Chota Nagpur Tenancy Act de 1908 (loi sur les baux du Chota Nagpur), qui protège aussi les terres des lignages fondateurs munda (khuntkatti), et le Santhal Pargana Tenancy Act de 1949. Les règles d'application de la loi PESA de 1996 (extension des conseils de village aux zones répertoriées), approuvées par le gouvernement de l'État le 23 décembre 2025, reconnaissent les systèmes coutumiers manki-munda et majhi-pargana et confient à l'assemblée de village la gestion de ressources et le règlement de litiges.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/IND/CO/19, § 10 et § 20 : appliquer l'interdiction de louer les terres tribales et inscrire dans la loi des garanties contre l'acquisition de terres tribales", annee: 2007, source: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+base_nationale:
+  - {instrument: "Chota Nagpur Tenancy Act, 1908 (Bengal Act 6 de 1908), art. 46, 71A et 240", nature: "loi", annee: 1908, source: "https://www.lbsnaa.gov.in/storage/uploads/pdf_data/1740658547_23-Studies_in_the_Jharkhand_Tenancy_Laws.pdf"}
+  - {instrument: "Santhal Pargana Tenancy (Supplementary Provisions) Act, 1949, art. 20", nature: "loi", annee: 1949, source: "https://www.lbsnaa.gov.in/storage/uploads/pdf_data/1740658547_23-Studies_in_the_Jharkhand_Tenancy_Laws.pdf"}
+  - {instrument: "Mora Ho c. État du Bihar, Haute Cour de Patna, 2000 (règles de Wilkinson de 1837 reconnues comme coutume)", nature: "jurisprudence", annee: 2000, source: "https://www.drishtiias.com/daily-updates/daily-news-analysis/manki-munda-system-and-ho-tribe"}
+  - {instrument: "Règles PESA du Jharkhand (Jharkhand PESA Rules, 2025), approuvées le 23 décembre 2025", nature: "loi", annee: 2025, source: "https://theprint.in/india/jharkhand-govt-notifies-pesa-rules-empowering-gram-sabhas/2817677/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Règles PESA de 2025 : assemblée de village présidée par une personne choisie selon la coutume, reconnaissance des systèmes manki-munda et majhi-pargana, indemnités pour plus de 28 500 responsables coutumiers.", source: "https://www.downtoearth.org.in/governance/pesa-act-implemented-in-jharkhand-after-25-years-but-will-it-change-tribal-lives"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "Règles PESA de 2025 : l'assemblée de village règle les litiges de son ressort et peut infliger des amendes jusqu'à 2 000 roupies ; chez les Ho du Kolhan, le munda de village et le manki de groupe de villages tranchent les litiges selon la coutume reconnue par la Haute Cour de Patna en 2000.", source: "https://www.downtoearth.org.in/governance/pesa-act-implemented-in-jharkhand-after-25-years-but-will-it-change-tribal-lives"}
+  terres: {valeur: "partiel", note: "Un tenancier tribal ne peut céder sa terre qu'à un autre membre de tribu du même ressort de police, avec l'accord du préfet de district, CNT 1908, art. 46 ; restitution des terres cédées en fraude, art. 71A ; terres khuntkatti des lignages fondateurs non vendables, art. 240 ; aucune cession d'une terre de tenancier n'est valable si le droit de céder n'est pas inscrit au registre des droits, SPT 1949, art. 20 (1).", source: "https://www.lbsnaa.gov.in/storage/uploads/pdf_data/1740658547_23-Studies_in_the_Jharkhand_Tenancy_Laws.pdf"}
+  ressources: {valeur: "partiel", note: "Règles PESA de 2025 : l'assemblée de village gère les ressources naturelles et communes, les minéraux mineurs et les petits plans d'eau ; elle n'a pas de pouvoir sur les fonds miniers de district.", source: "https://www.downtoearth.org.in/governance/pesa-act-implemented-in-jharkhand-after-25-years-but-will-it-change-tribal-lives"}
+  consentement: {valeur: "partiel", note: "La loi PESA impose la consultation de l'assemblée de village avant tout projet touchant les terres ; en l'absence de règles d'application, la Haute Cour du Jharkhand a suspendu les enchères de sable dans les zones répertoriées (Adivasi Buddhijeevi Manch c. État du Jharkhand) ; les règles de 2025 exigent l'accord préalable de l'assemblée pour l'acquisition de terres et la réinstallation (ThePrint).", source: "https://www.calj.in/post/from-protection-to-dispossession-how-jharkhand-s-executive-undermines-tribal-land-rights"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Projet d'amendement des lois CNT et SPT de 2016 renvoyé par la gouverneure ; banque foncière ayant reclassé des terres khuntkatti en terres publiques ; loi PESA appliquée 25 ans après son adoption ; responsables coutumiers critiques envers les règles de 2026.", source: "https://www.calj.in/post/from-protection-to-dispossession-how-jharkhand-s-executive-undermines-tribal-land-rights"}
+chronologie:
+  - {annee: 1837, evenement: "Règles de Wilkinson pour le Kolhan (système manki-munda des Ho)."}
+  - {annee: 1908, evenement: "Chota Nagpur Tenancy Act."}
+  - {annee: 1949, evenement: "Santhal Pargana Tenancy (Supplementary Provisions) Act."}
+  - {annee: 1969, evenement: "Insertion de l'art. 71A (restitution des terres) dans la loi de 1908."}
+  - {annee: 2000, evenement: "Création de l'État du Jharkhand ; arrêt Mora Ho de la Haute Cour de Patna."}
+  - {annee: 2016, evenement: "Projet d'amendement des lois CNT et SPT ; la gouverneure refuse son assentiment."}
+  - {annee: 2025, evenement: "Règles PESA du Jharkhand approuvées par le gouvernement de l'État le 23 décembre."}
+  - {annee: 2026, evenement: "Le 7 janvier, des responsables coutumiers contestent les règles devant le gouverneur."}
+fiabilite:
+  verifie: ["Articles 46, 71A et 240 de la loi de 1908 et article 20 de la loi de 1949 (étude de l'Académie nationale d'administration, 2005).", "Contenu des règles PESA de 2025, districts couverts (Down To Earth, 12 janvier 2026) ; approbation du 23 décembre 2025 (ThePrint).", "Population tribale de 2011 (Institut de recherche tribale du Jharkhand).", "Amendement de 2016, banque foncière, affaires judiciaires (CALJ, décembre 2025)."]
+  non_confirme: ["Textes officiels des lois de 1908 et 1949 : non consultés (India Code inaccessible).", "Texte des règles PESA de 2025 et date exacte de leur publication au journal officiel : non consultés.", "Interdiction de cession d'un aborigène à un non-aborigène dans le Santhal Pargana : citée par des sources secondaires, non retrouvée dans l'extrait de l'art. 20 (1) consulté.", "Surface couverte par les deux lois foncières : non trouvée.", "Recoupe en partie la fiche agrégée sur la Cinquième annexe et la loi PESA."]
+sources:
+  - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+  - {titre: "C. Ashokvardhan, Studies in the Jharkhand Tenancy Laws — LBSNAA (2005)", url: "https://www.lbsnaa.gov.in/storage/uploads/pdf_data/1740658547_23-Studies_in_the_Jharkhand_Tenancy_Laws.pdf"}
+  - {titre: "Down To Earth, PESA Act implemented in Jharkhand after 25 years (12 janvier 2026)", url: "https://www.downtoearth.org.in/governance/pesa-act-implemented-in-jharkhand-after-25-years-but-will-it-change-tribal-lives"}
+  - {titre: "CALJ, From protection to dispossession (8 décembre 2025)", url: "https://www.calj.in/post/from-protection-to-dispossession-how-jharkhand-s-executive-undermines-tribal-land-rights"}
+  - {titre: "ThePrint, Jharkhand govt notifies PESA rules (décembre 2025)", url: "https://theprint.in/india/jharkhand-govt-notifies-pesa-rules-empowering-gram-sabhas/2817677/"}
+  - {titre: "Drishti IAS, Manki-Munda system and Ho tribe", url: "https://www.drishtiias.com/daily-updates/daily-news-analysis/manki-munda-system-and-ho-tribe"}
+  - {titre: "Tribal Research Institute Jharkhand, données par tribu", url: "https://www.trijharkhand.in/en/tribe-specific-data-jharkhand"}

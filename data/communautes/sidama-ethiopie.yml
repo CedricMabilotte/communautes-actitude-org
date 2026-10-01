@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 24, unite: "woredas (districts) de la zone Sidama", annee: 2019, source: "https://eip.org/wp-content/uploads/2020/06/Sidamas-quest-for-self-rule.pdf"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Sidama sont une « nation, nationalité et peuple » au sens de la Constitution fédérale éthiopienne, dans le sud du pays.
   Ils formaient une zone de l'État régional des nations, nationalités et peuples du Sud.

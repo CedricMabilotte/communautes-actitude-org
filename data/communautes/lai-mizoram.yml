@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 73620, annee: 2008, perimetre: "population du territoire du conseil, avril 2008", source: "https://ladc.mizoram.gov.in/page/welcome-to-lai-autonomous-district-council"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: 1870.75, annee: null, perimetre: "territoire du conseil", source: "https://ladc.mizoram.gov.in/page/welcome-to-lai-autonomous-district-council"}
+villages: {valeur: 74, annee: 2022, perimetre: "villages du territoire du conseil autonome lai, plus 7 sous-villages non comptés (registre du conseil 2022) ; 94 conseils de village", source: "https://ladc.mizoram.gov.in/page/ladc-at-a-glance"}
 resume: >-
   Les Lai, appelés Pawi dans l'administration coloniale, vivent au sud du Mizoram. Le Lai Autonomous District Council est issu de la division du conseil régional Pawi-Lakher en 1972 et figure à la Partie III de la Table de la Sixième annexe de la Constitution. Les lois de l'État du Mizoram sur les matières du conseil ne s'y appliquent que sur décision de celui-ci.
 reconnaissance_regionale: []
@@ -30,7 +31,7 @@ droits:
   education: {valeur: "partiel", note: "Le conseil peut créer et gérer des écoles primaires et fixer la langue et les modalités de l'enseignement primaire, avec l'accord préalable du gouverneur, Sixième annexe, paragraphe 6 (1).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   fiscalite: {valeur: "partiel", note: "Fonds de district propre, paragraphe 7 ; perception de l'impôt foncier et de taxes sur les terres et bâtiments, les professions, les animaux, les véhicules et les marchés, paragraphe 8 ; réglementation des prêts d'argent et du commerce des non-tribaux, paragraphe 10, Sixième annexe.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "reconnu", note: "Compétence législative sur l'héritage, le mariage, le divorce et les coutumes sociales, Sixième annexe, paragraphe 3 (1) (h) à (j).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  statut_personnel: {valeur: "reconnu", note: "Compétence législative sur l'héritage, le mariage, le divorce et les coutumes sociales, Sixième annexe, paragraphe 3 (1) (h) à (j). Le Mizoram applique sur tout son territoire le permis d'entrée des non-résidents (Inner Line Permit), Bengal Eastern Frontier Regulation de 1873, art. 2.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "effective", note: "Élection du conseil le 3 décembre 2025 (25 sièges élus, aucune majorité ; dépouillement le 9 décembre).", source: "https://assamtribune.com/north-east/hung-house-in-lai-council-polls-as-mnf-leads-with-8-seats-congress-7-zpm-6-1600628"}
 chronologie:
@@ -38,10 +39,12 @@ chronologie:
   - {annee: 1988, evenement: "Le conseil prend le nom de Lai."}
   - {annee: 2025, evenement: "Élection du conseil en décembre."}
 fiabilite:
-  verifie: ["Superficie et population de 2008 (site du conseil).", "Partie III de la Table, modifiée en 1988, et paragraphe 12B (édition officielle de la Constitution).", "Élection de décembre 2025 (Assam Tribune)."]
+  verifie: ["Superficie et population de 2008 (site du conseil).", "Partie III de la Table, modifiée en 1988, et paragraphe 12B (édition officielle de la Constitution).", "Élection de décembre 2025 (Assam Tribune).", "Régime de l'Inner Line Permit : art. 2 et 7 du règlement de 1873 (copie Indian Kanoon) et réponse du ministère de l'Intérieur au Rajya Sabha (2013)."]
   non_confirme: ["Nombre de villages du conseil : non trouvé.", "Date exacte de création du conseil en 1972."]
 sources:
   - {titre: "Constitution de l'Inde (édition au 1er mai 2024) — Ministère du Droit et de la Justice", url: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
   - {titre: "Lai Autonomous District Council — site officiel", url: "https://ladc.mizoram.gov.in/page/welcome-to-lai-autonomous-district-council"}
   - {titre: "Assam Tribune, élection du LADC (décembre 2025)", url: "https://assamtribune.com/north-east/hung-house-in-lai-council-polls-as-mnf-leads-with-8-seats-congress-7-zpm-6-1600628"}
+  - {titre: "Bengal Eastern Frontier Regulation, 1873 (texte) — Indian Kanoon", url: "https://indiankanoon.org/doc/32142694/"}
+  - {titre: "Ministère de l'Intérieur, réponse au Rajya Sabha n° 393 sur l'Inner Line Permit (27 février 2013)", url: "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2013-pdfs/rs-270213/393.pdf"}

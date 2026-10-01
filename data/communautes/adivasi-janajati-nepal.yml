@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La loi de 2002 sur la Fondation nationale pour le développement des nationalités autochtones (NFDIN) reconnaît 59 groupes comme nationalités autochtones ; les Humlo ont été ajoutés en 2024. Le Népal a ratifié la Convention 169 de l'OIT en 2007. La Constitution de 2015 prévoit des quotas de candidats adivasi janajati sur les listes proportionnelles, un droit de participation aux organes de l'État et une commission des Adivasi Janajati. Son article 56 (5) permet de créer des régions spéciales, protégées ou autonomes, qui n'ont pas été créées.
 reconnaissance_regionale: []

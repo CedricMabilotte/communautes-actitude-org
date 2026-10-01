@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 184442, annee: 2022, perimetre: "personnes déclarant l'appartenance hongroise au recensement, Serbie entière", source: "https://www.stat.gov.rs/en-us/vesti/20230428-konacnirezpopisa/?a=0&s=1904"}
 lieux: {valeur: null, unite: "communes où le hongrois est en usage officiel", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "autonomie non territoriale", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La Constitution serbe de 2006 garantit aux minorités nationales des droits individuels et collectifs, dont l'élection de conseils nationaux dans la culture, l'éducation, l'information et l'usage officiel de la langue (art. 75). La loi de 2009 sur les conseils nationaux des minorités nationales en fait des organes investis de compétences publiques pour exercer le « droit collectif d'une minorité nationale à l'autogouvernement » dans ces domaines. Le Conseil national hongrois compte 35 membres. Un arrêt de la Cour constitutionnelle de 2014 a supprimé plusieurs de ses compétences.
 reconnaissance_regionale:

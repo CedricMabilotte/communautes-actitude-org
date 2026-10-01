@@ -11,6 +11,7 @@ base: "mixte"
 population: {valeur: 54819, annee: 2013, perimetre: "personnes déclarant une affiliation à Ngāi Tahu au recensement (hors Kāti Māmoe et Waitaha)", source: "https://www.tkm.govt.nz/iwi/ngai-tahu/"}
 lieux: {valeur: 18, unite: "papatipu rūnanga (conseils locaux de l'iwi)", annee: 2026, source: "https://ngaitahu.iwi.nz/te-runanga-o-ngai-tahu/our-people/ngai-tahu-governance/"}
 surface_km2: {valeur: null, annee: null, perimetre: "takiwā (territoire) de Ngāi Tahu, fixé par une décision de la Cour d'appel foncière māori de 1990 ; surface non publiée dans les sources consultées", source: ""}
+villages: {valeur: 18, annee: 2025, perimetre: "marae rattachés à l'iwi Ngāi Tahu dans le jeu de données des marae de Te Puni Kōkiri", source: "https://hub.arcgis.com/datasets/TPK::marae-of-aotearoa/about"}
 resume: >-
   Iwi (peuple māori) de Te Waipounamu, l'île du Sud, dont le takiwā (territoire) a été délimité par la Cour d'appel foncière māori en 1990. Te Rūnanga o Ngāi Tahu, personne morale créée par une loi de 1996, représente l'ensemble des Ngāi Tahu et réunit un représentant de chacun des 18 papatipu rūnanga (conseils locaux). Le règlement de 1998 comprend des excuses de la Couronne, un droit de préemption sur des terres publiques et des mécanismes de reconnaissance culturelle ; une loi de 1997 attribue à Te Rūnanga la propriété du pounamu (jade). Une loi de 2022 permet à Ngāi Tahu de nommer deux membres votants du conseil régional de Canterbury.
 reconnaissance_regionale: []

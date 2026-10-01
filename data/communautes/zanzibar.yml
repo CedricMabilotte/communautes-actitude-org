@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1889773, annee: 2022, perimetre: "population de Zanzibar (recensement national de 2022)", source: "https://en.wikipedia.org/wiki/Zanzibar"}
 lieux: {valeur: 5, unite: "régions administratives (3 à Unguja, 2 à Pemba)", annee: 2024, source: "https://en.wikipedia.org/wiki/Zanzibar"}
 surface_km2: {valeur: 2449, annee: 2024, perimetre: "îles d'Unguja (1 464 km²) et de Pemba (985 km²)", source: "https://en.wikipedia.org/wiki/Zanzibar"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Zanzibar est un archipel de l'océan Indien, État souverain jusqu'à son union avec le Tanganyika en 1964.
   Dans la République-Unie de Tanzanie, il conserve un gouvernement, un président, une Chambre des représentants et une Haute Cour propres, régis par la Constitution de Zanzibar de 1984.

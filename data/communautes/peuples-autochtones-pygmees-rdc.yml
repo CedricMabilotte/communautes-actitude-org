@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La loi n° 22/030 du 15 juillet 2022 est le premier texte de la République démocratique du Congo consacré aux peuples autochtones pygmées, qu'elle définit comme des peuples de chasseurs-cueilleurs vivant généralement en forêt.
   Elle leur reconnaît le recours à leurs coutumes pour régler leurs conflits internes, des droits sur les terres et ressources qu'ils possèdent, occupent ou utilisent, et le consentement libre, informé et préalable à tout projet touchant leurs terres.

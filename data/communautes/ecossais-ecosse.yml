@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 5545500, annee: 2025, perimetre: "population de l'Écosse au 30 juin", source: "https://www.nrscotland.gov.uk/publications/mid-2025-population-estimates/"}
 lieux: {valeur: 32, unite: "council areas (collectivités locales)", annee: 2025, source: "https://www.nrscotland.gov.uk/publications/mid-2025-population-estimates/"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 514, annee: 2020, perimetre: "settlements (agglomérations de 500 habitants ou plus) délimités par les National Records of Scotland, mi-2020", source: "https://nrscotland.gov.uk/publications/population-estimates-for-settlements-and-localities-in-scotland-mid-2020"}
 resume: >-
   Le Scotland Act 1998 a créé un Parlement et un gouvernement écossais. Depuis 2016, la loi déclare qu'ils ne peuvent être abolis que sur décision du « peuple d'Écosse » par référendum. Le Parlement vote des lois dans toutes les matières non réservées au Royaume-Uni et fixe les taux de l'impôt sur le revenu des contribuables écossais. L'Écosse a gardé son propre système judiciaire depuis l'acte d'Union de 1707. Le Royaume-Uni applique la Convention-cadre du Conseil de l'Europe aux Écossais comme minorité nationale.
 reconnaissance_regionale:

@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 5554820, annee: 2024, perimetre: "population de la province d'Aceh (BPS)", source: "https://aceh.antaranews.com/berita/375406/jumlah-penduduk-aceh-2024-capai-555-juta-jiwa-populasi-terpadat-di-banda-aceh"}
 lieux: {valeur: 23, unite: "kabupaten et kota (districts et villes)", annee: 2024, source: "https://data.acehprov.go.id/dataset/luas-daerah-dan-jumlah-pulau-menurut-kabupaten-kota-di-provinsi-aceh"}
 surface_km2: {valeur: 56839, annee: 2024, perimetre: "somme des superficies des 23 kabupaten et kota (BPS Aceh)", source: "https://data.acehprov.go.id/dataset/luas-daerah-dan-jumlah-pulau-menurut-kabupaten-kota-di-provinsi-aceh"}
+villages: {valeur: 6497, annee: 2023, perimetre: "gampong (villages) des 23 kabupaten et kota de la province d'Aceh", source: "https://data.acehprov.go.id/dataset/jumlah-gampong"}
 resume: >-
   Aceh est une province de l'extrémité nord de Sumatra. Le mémorandum d'entente signé à Helsinki le 15 août 2005 entre le gouvernement indonésien et le Mouvement pour un Aceh libre (GAM) met fin au conflit armé. La loi 11/2006 sur le gouvernement d'Aceh (UUPA) donne à la province un parlement qui adopte des qanun (lois locales), des partis politiques locaux, des tribunaux islamiques et une part accrue des recettes pétrolières et gazières. Le texte vise « la population d'Aceh » et reconnaît une direction coutumière, le Wali Nanggroe.
 reconnaissance_onu:

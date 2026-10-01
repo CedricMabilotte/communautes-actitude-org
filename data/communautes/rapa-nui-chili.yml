@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 4800, annee: 2024, perimetre: "population de la commune d'Isla de Pascua, toutes origines (recensement INE)", source: "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2026&idcom=5201"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: 163.6, annee: null, perimetre: "commune d'Isla de Pascua", source: "https://www.bcn.cl/siit/reportescomunales/comunas_v.html?anno=2026&idcom=5201"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Rapa Nui sont le peuple autochtone de l'île de Pâques, rattachée au Chili par l'acte de cession de souveraineté du 9 septembre 1888. La loi indigène 19.253 de 1993 crée la Commission de développement de l'île de Pâques, qui comprend six membres rapa nui élus. La loi 21.070 de 2018 limite à 30 jours le séjour des personnes non rapa nui et crée un conseil de gestion de la capacité de charge démographique. Depuis 2017, la communauté Ma'u Henua administre le parc national Rapa Nui par concession. Le recensement de 2017 compte 6 081 habitants sur l'île, toutes origines confondues.
 reconnaissance_onu:

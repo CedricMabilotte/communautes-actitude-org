@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1485, annee: 2022, perimetre: "population de jure résidant habituellement dans les trois atolls", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
 lieux: {valeur: 3, unite: "villages (atolls)", annee: 2026, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
 surface_km2: {valeur: 12.2, annee: 2026, perimetre: "terres émergées des trois atolls", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
+villages: {valeur: 3, annee: 2026, perimetre: "villages, un par atoll (Atafu, Nukunonu, Fakaofo)", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
 resume: >-
   Trois atolls administrés par la Nouvelle-Zélande depuis 1926 et intégrés à son territoire par le Tokelau Act de 1948. Le Fono général (assemblée nationale des trois villages) édicte des règles depuis 1996. Les référendums d'autodétermination de 2006 et 2007 sur la libre association avec la Nouvelle-Zélande n'atteignent pas la majorité des deux tiers fixée par le Fono général. Les Tokélaou restent inscrites sur la liste des territoires non autonomes.
 reconnaissance_onu:

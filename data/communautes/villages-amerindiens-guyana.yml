@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "résidents des villages titrés ; aucun chiffre officiel récent ouvert", source: ""}
 lieux: {valeur: 96, unite: "communautés amérindiennes titrées (sur 169 communautés, y compris hameaux et établissements)", annee: null, source: "https://moaa.gov.gy/land-tenure/"}
 surface_km2: {valeur: null, annee: null, perimetre: "surface titrée totale ; le ministère indique environ 6 % du territoire national après les titres de 1991, sans chiffre à jour", source: ""}
+villages: {valeur: 96, annee: null, perimetre: "villages amérindiens titrés (sur 169 communautés amérindiennes, hameaux et établissements compris)", source: "https://moaa.gov.gy/land-tenure/"}
 resume: >-
   Fiche agrégée. Au Guyana, neuf peuples amérindiens vivent surtout dans l'intérieur du pays. La loi amérindienne de 2006 (Amerindian Act, n° 6 de 2006) confie à chaque village titré un conseil élu (Village Council), présidé par un toshao, qui détient les terres du village, en règle l'usage et fait des règles locales. Les terres de village ne peuvent être aliénées hors des cas prévus par la loi. Un conseil national des toshaos (National Toshaos Council) conseille le ministre. Le ministère des Affaires amérindiennes recense 96 communautés titrées.
 reconnaissance_regionale: []

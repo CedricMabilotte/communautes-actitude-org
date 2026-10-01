@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 60000, annee: 2009, perimetre: "effectif de la communauté selon les requérants devant la Commission africaine (« approximately 60,000 »)", source: "https://www.hlrn.org/img/documents/achpr4627603eng.pdf"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Endorois sont une communauté pastorale de la région du lac Bogoria, dans la vallée du Rift ; la requête déposée en leur nom les estime à environ 60 000 personnes.
   La création de la réserve de chasse du lac Hannington en 1973, puis de celle du lac Bogoria en 1978, les a privés de l'accès à ces terres.

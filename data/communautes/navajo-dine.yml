@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: 63271.17, annee: 2020, perimetre: "superficie terrestre de la réserve et des terres en fiducie hors réserve (US Census Gazetteer)", source: "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2020_Gazetteer/2020_Gaz_aiannh_national.zip"}
+villages: {valeur: 110, annee: null, perimetre: "chapitres (communautés locales de gouvernement) de la Nation navajo", source: "https://opvp.navajo-nsn.gov/priorities/government/"}
 resume: >-
   La Nation navajo est une tribu reconnue par le gouvernement fédéral des États-Unis, sur une réserve établie par le traité de 1868 qui s'étend sur l'Arizona, le Nouveau-Mexique et l'Utah. Elle n'a pas adopté le régime de l'Indian Reorganization Act de 1934. Son Conseil légifère ; ses résolutions sont codifiées dans le Code de la Nation navajo en 26 titres. Un système judiciaire propre existe depuis 1959.
 reconnaissance_onu:

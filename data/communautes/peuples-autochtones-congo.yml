@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les peuples autochtones du Congo regroupent notamment les Ba'Aka, Mbendjele, Mikaya, Gyeli, Luma, Twa et Babongo, chasseurs-cueilleurs de tradition semi-nomade.
   Ils représentent 1,2 % de la population selon le recensement de 2007, jusqu'à 10 % selon d'autres estimations.

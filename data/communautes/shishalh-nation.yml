@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1770, annee: 2026, perimetre: "membres inscrits de la Nation (registre des Indiens, août 2026), toutes résidences confondues", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=551&lang=eng"}
 lieux: {valeur: 33, unite: "parcelles de terres shíshálh", annee: 2026, source: "https://shishalh.com/services/inter-government/land-public-works/"}
 surface_km2: {valeur: 10.5, annee: 2026, perimetre: "terres détenues en fief simple, 2 600 acres convertis en km²", source: "https://shishalh.com/services/inter-government/land-public-works/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La bande indienne sechelte (aujourd'hui Nation shíshálh) est la première Première Nation à sortir du régime de la Loi sur les Indiens par une loi fédérale d'autonomie, adoptée le 17 juin 1986 après un référendum du 15 mars 1986. Les terres de réserve lui sont transférées en fief simple (pleine propriété). Son conseil (hiwus) légifère sur ses terres dans les domaines fixés par la loi. La loi a été modifiée en 2022 et renommée Loi sur l'autonomie gouvernementale de la Nation shishalhe.
 reconnaissance_regionale: []

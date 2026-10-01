@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 887493, annee: 2023, perimetre: "personnes du groupe ethnique māori, recensement 2023", source: "https://www.stats.govt.nz/assets/Infographics/2023-Census-infographics/2023-Census-infographics-National.pdf"}
 lieux: {valeur: 27742, unite: "blocs de terres māori (coutumières et en pleine propriété)", annee: 2025, source: "https://www.maorilandcourt.govt.nz/assets/Documents/Maori-Land-Data/2025-10-28-MLC-Maori-Land-Update-2025.pdf"}
 surface_km2: {valeur: 14134, annee: 2025, perimetre: "terres coutumières māori et terres māori en pleine propriété (1 413 375 ha)", source: "https://www.maorilandcourt.govt.nz/assets/Documents/Maori-Land-Data/2025-10-28-MLC-Maori-Land-Update-2025.pdf"}
+villages: {valeur: 1060, annee: 2025, perimetre: "marae recensés par Te Puni Kōkiri : 849 marae tribaux, 58 urbains ou communautaires, 110 institutionnels, 43 non classés", source: "https://hub.arcgis.com/datasets/TPK::marae-of-aotearoa/about"}
 resume: >-
   Peuple autochtone d'Aotearoa, 17,8 % de la population au recensement de 2023. Le Traité de Waitangi (Te Tiriti o Waitangi), signé en 1840 entre la Couronne britannique et des chefs māori, fonde leurs relations ; sa version māori garantit le tino rangatiratanga (pleine autorité) sur les terres et ressources. Le Tribunal de Waitangi, créé en 1975, examine les manquements de la Couronne aux principes du Traité. Des circonscriptions électorales māori existent au Parlement et le te reo Māori est langue officielle.
 reconnaissance_onu:

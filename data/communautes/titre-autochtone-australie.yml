@@ -11,6 +11,7 @@ base: "territoriale"
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 295, unite: "organismes de gestion du titre autochtone enregistrés (RNTBC ou PBC)", annee: 2026, source: "https://nativetitle.org.au/find/pbc"}
 surface_km2: {valeur: 3321766, annee: 2023, perimetre: "surfaces où la Cour fédérale a déterminé que le titre autochtone existe, exclusif (1 133 105 km²) ou non exclusif (2 188 661 km²), au 1er avril 2023", source: "https://www.nntt.gov.au/Maps/Determinations_map.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Fiche agrégée. Depuis l'arrêt Mabo (1992) de la Haute Cour, qui a écarté la doctrine de la terra nullius, le droit australien reconnaît les droits des peuples aborigènes et des insulaires du détroit de Torres sur leurs terres et leurs eaux, antérieurs à la colonisation (titre autochtone, native title). Le Native Title Act 1993, loi fédérale, organise leur reconnaissance par la Cour fédérale, un droit de négocier sur certains projets et la gestion du titre par des personnes morales (Prescribed Bodies Corporate). Au 1er avril 2023, le titre autochtone était reconnu sur 3 321 766 km².
 reconnaissance_regionale: []

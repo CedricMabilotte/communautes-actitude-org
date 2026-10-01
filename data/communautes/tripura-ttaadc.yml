@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 527, unite: "villages (élections des comités de développement villageois)", annee: 2006, source: "https://twd.tripura.gov.in/institutional-framework-welfare-tribes-tripura"}
 surface_km2: {valeur: 7132.56, annee: 2024, perimetre: "territoire du district autonome, environ 68 % de la superficie de l'État", source: "https://cag.gov.in/uploads/download_audit_report/2024/6-CH-1-Report-2018-19-068d151aeaea4a3.07334094.pdf"}
+villages: {valeur: 527, annee: 2006, perimetre: "villages ayant élu un comité de développement villageois dans le territoire du conseil de district autonome", source: "https://twd.tripura.gov.in/institutional-framework-welfare-tribes-tripura"}
 resume: >-
   Les tribus répertoriées de Tripura, dont les Tripuri, ont pour langue officielle commune le kokborok depuis 1979. Le Tripura Tribal Areas Autonomous District Council, mis en place en janvier 1982 et inscrit à la Sixième annexe de la Constitution par le 49e amendement (1984, en vigueur le 1er avril 1985), couvre environ 68 % de l'État. Les lois de l'État sur les matières du conseil ne s'y appliquent que sur décision de celui-ci. L'accord tripartite du 2 mars 2024 avec le parti Tipra Motha porte sur l'histoire, les terres, les droits politiques, l'identité et la langue.
 reconnaissance_regionale: []

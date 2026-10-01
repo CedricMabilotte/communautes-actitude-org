@@ -81,7 +81,7 @@ FORCE_TXT = {"contraignant": "Engagement contraignant", "déclaratif": "Texte d�
 NATURES = {"constitution": "Constitution", "loi_organique": "Loi organique", "statut_autonomie": "Statut d'autonomie", "loi": "Loi ou décret",
            "traite": "Traité", "accord_revendication": "Accord de revendication", "accord_paix": "Accord de paix",
            "jurisprudence": "Jurisprudence", "coutume_reconnue": "Coutume reconnue"}
-PUBLIC_KEYS = ["uid", "nom", "endonyme", "territoire", "etats", "region", "coord", "type", "types_secondaires", "base", "population", "lieux", "surface_km2", "reconnaissance_regionale",
+PUBLIC_KEYS = ["uid", "nom", "endonyme", "territoire", "etats", "region", "coord", "type", "types_secondaires", "base", "population", "lieux", "villages", "surface_km2", "reconnaissance_regionale",
                "resume", "reconnaissance_onu", "base_nationale", "droits", "effectivite", "chronologie", "fiabilite", "sources"]
 
 NNBSP = "\u202f"
@@ -319,10 +319,10 @@ def fmt_num(x):
 
 def chiffres_html(d):
     items = []
-    for key, label, unit in (("population", "personnes", None), ("lieux", None, "unite"), ("surface_km2", "km²", None)):
+    for key, label, unit in (("population", "personnes", None), ("lieux", None, "unite"), ("villages", "villages", None), ("surface_km2", "km²", None)):
         c = d.get(key) or {}
         if c.get("valeur") is None:
-            items.append(f'<div class="ch ch-na"><b>—</b><span>{e(dict(population="population", lieux="lieux", surface_km2="surface")[key])} : aucune source trouvée</span></div>')
+            items.append(f'<div class="ch ch-na"><b>—</b><span>{e(dict(population="population", lieux="lieux", villages="villages", surface_km2="surface")[key])} : aucune source trouvée</span></div>')
             continue
         lab = c.get("unite") if unit else label
         per = c.get("perimetre") or ""
@@ -381,7 +381,25 @@ def dossiers_index_html(dossiers):
     body = f"""<div class="wrap"><header style="padding:44px 0 8px"><p class="kicker">Dossiers thématiques</p><h1>Des questions précises, communauté par communauté</h1>
 <p class="lede prose">Chaque dossier suit une question à travers les communautés de l'atlas et au-delà : les notions qu'elles emploient, les textes qui les fondent, ce qui s'applique réellement.</p></header>
 <ol class="dlist">{''.join(cards)}</ol></div>"""
-    return page("/dossiers/", "Dossiers thématiques", "Études thématiques : personnalité juridique des entités naturelles, habiter sans posséder.", body)
+    return page("/dossiers/", "Dossiers thématiques", "Études thématiques : personnalité juridique des entités naturelles, habiter sans posséder, gestion des territoires au village en Inde.", body)
+
+def tableau_html(t):
+    rows = list(csv.DictReader((ROOT / "data" / "tables" / t["fichier"]).open(encoding="utf-8")))
+    par = {}
+    for r in rows:
+        x = par.setdefault(r["etat"], [0, 0.0, 0])
+        x[0] += 1
+        if r.get("surface_km2"):
+            x[1] += float(r["surface_km2"]); x[2] += 1
+    tot = sum(x[0] for x in par.values())
+    resume = "".join(f'<tr><td>{e(k)}</td><td class="mono num">{n}</td><td class="mono num">{fmt_num(round(sf)) if sf else "—"}{(" <small>(" + str(nsf) + " renseignées)</small>") if nsf and nsf < n else ""}</td></tr>'
+                     for k, (n, sf, nsf) in sorted(par.items(), key=lambda kv: -kv[1][0]))
+    full = "".join(f'<tr><td>{e(r["nom"])}</td><td>{e(r["etat"])}</td><td>{e(r.get("district") or "")}</td><td class="mono num">{e(r.get("surface_km2") or "—")}</td>'
+                   f'<td class="mono">{e(r.get("annee_notification") or "")}</td><td>{link(r["source_url"], "source") if r.get("source_url") else ""}</td></tr>' for r in rows)
+    return f"""<h2 id="tableau">{e(t["titre"])}</h2><p class="prose muted">{e(t.get("note", ""))}</p>
+<div class="cmpwrap"><table class="plain"><thead><tr><th>État</th><th>Réserves</th><th>Surface (km²)</th></tr></thead><tbody>{resume}<tr><td><strong>Total</strong></td><td class="mono num"><strong>{tot}</strong></td><td></td></tr></tbody></table></div>
+<details class="tabfull"><summary class="sans">Voir les {tot} réserves</summary><div class="cmpwrap"><table class="plain"><thead><tr><th>Réserve</th><th>État</th><th>District</th><th>km²</th><th>Notifiée</th><th>Source</th></tr></thead><tbody>{full}</tbody></table></div></details>
+<p class="sans"><a href="/donnees/{e(t["fichier"])}" download>Télécharger le tableau (CSV)</a></p>"""
 
 def dossier_html(d, fiches_par_uid):
     mecas = d.get("mecanismes") or []
@@ -417,6 +435,7 @@ def dossier_html(d, fiches_par_uid):
 <h2 id="index">Les cas</h2><div class="cmpwrap"><table class="plain"><thead><tr><th>Entité ou terre</th><th>Communauté</th><th>État</th><th>Année</th><th>Mécanisme</th></tr></thead><tbody>{idx}</tbody></table></div>
 {('<h2 id="concepts">Les notions des communautés</h2><dl class="cpts">' + concepts + '</dl>') if concepts else ''}
 {''.join(blocs)}
+{tableau_html(d["tableau"]) if d.get("tableau") else ""}
 <h2 id="synthese">Ce que les cas ont en commun</h2><div class="prose">{paras(d.get("synthese"))}</div>
 {('<h2 id="limites">Limites du dossier</h2><ul class="prose">' + lim + '</ul>') if lim else ''}
 <p class="warn">Information juridique générale, à la date de mise à jour. Une erreur ? <a href="/droit-de-reponse/">Droit de réponse</a>.</p></div>"""
@@ -720,10 +739,10 @@ def v(f, k):
 def export_csv(fiches):
     buf = io.StringIO()
     w = csv.writer(buf)
-    w.writerow(["uid", "nom", "endonyme", "territoire", "etats", "region", "type", "base", "latitude", "longitude", "population", "population_perimetre", "lieux", "lieux_unite", "surface_km2", "degre", "effectivite", "niveau_reconnaissance", "force_onu", "date_maj"] + DKEYS)
+    w.writerow(["uid", "nom", "endonyme", "territoire", "etats", "region", "type", "base", "latitude", "longitude", "population", "population_perimetre", "lieux", "lieux_unite", "villages", "villages_perimetre", "surface_km2", "degre", "effectivite", "niveau_reconnaissance", "force_onu", "date_maj"] + DKEYS)
     for f in fiches:
         w.writerow([f["uid"], f["nom"], f.get("endonyme") or "", f.get("territoire") or "", "; ".join(f["etats"]), f["region"], f["type"], f["base"],
-                    f["coord"][0], f["coord"][1], v(f, "population"), (f.get("population") or {}).get("perimetre", ""), v(f, "lieux"), (f.get("lieux") or {}).get("unite", ""), v(f, "surface_km2"),
+                    f["coord"][0], f["coord"][1], v(f, "population"), (f.get("population") or {}).get("perimetre", ""), v(f, "lieux"), (f.get("lieux") or {}).get("unite", ""), v(f, "villages"), (f.get("villages") or {}).get("perimetre", ""), v(f, "surface_km2"),
                     f["degre"], f["effectivite"]["valeur"], f["niveau_reconnaissance"], f["force_onu"] or "", f["date_maj"]] + [f["droits"][k]["valeur"] for k in DKEYS])
     return buf.getvalue()
 
@@ -794,6 +813,8 @@ def main():
     w("donnees/communautes.json", json.dumps({"licence": "CC BY-NC-SA 4.0", "auteur": "Cedric Mabilotte",
                                               "genere_le": TODAY, "cadre": BASE + "/cadre/", "fiches": pub}, ensure_ascii=False, indent=1))
     w("donnees/communautes.csv", export_csv(fiches))
+    for t in sorted((ROOT / "data" / "tables").glob("*.csv")):
+        w("donnees/" + t.name, t.read_text(encoding="utf-8"))
     w("flux.xml", feed(fiches))
     w("sitemap.xml", sitemap(fiches, pages))
     w("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")

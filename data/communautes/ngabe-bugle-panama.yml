@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 3, unite: "régions", annee: 1997, source: "https://faolex.fao.org/docs/pdf/pan205776.pdf"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 2048, annee: 2023, perimetre: "lieux habités (lugares poblados) de la comarca Ngäbe-Buglé (INEC, division politico-administrative 2023)", source: "https://www.inec.gob.pa/publicaciones/Default3.aspx?ID_PUBLICACION=1381&ID_CATEGORIA=17&ID_SUBCATEGORIA=45"}
 resume: >-
   La loi 10 de 1997 crée la comarca (division territoriale indigène à statut spécial) Ngäbe-Buglé sur des terres des provinces de Bocas del Toro, Chiriquí et Veraguas. Les terres y sont propriété collective et le Congrès général est reconnu comme organe de décision. La loi 11 de 2012 y interdit les concessions minières et soumet les projets hydroélectriques à l'accord des congrès et à un référendum. Le recensement de 2023 compte 444 878 personnes du peuple ngäbe dans l'ensemble du pays ; les sources consultées ne donnent pas la population de la comarca.
 reconnaissance_onu:

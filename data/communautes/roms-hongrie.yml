@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 210000, annee: 2022, perimetre: "personnes déclarant appartenir à la communauté rom au recensement (appartenance, langue maternelle ou langue familiale), chiffre arrondi", source: "https://nemzetisegek.hu/2023/10/04/a-nepszamlalas-adataibol/"}
 lieux: {valeur: 1208, unite: "autogouvernements locaux roms élus", annee: 2019, source: "https://webassets.eurac.edu/31538/1661962535-hungary-2022.pdf"}
 surface_km2: {valeur: null, annee: null, perimetre: "autonomie non territoriale", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Roms sont l'une des treize nationalités reconnues en Hongrie. La Loi fondamentale leur reconnaît le droit de créer des autogouvernements locaux et nationaux (art. XXIX), organisés par la loi CLXXIX de 2011 sur les droits des nationalités. Les électeurs inscrits sur la liste rom élisent des autogouvernements locaux, territoriaux et l'Autogouvernement national rom. Ces organes donnent leur avis ou leur consentement sur les questions d'éducation, de culture et d'usage de la langue, et peuvent reprendre des établissements scolaires et culturels.
 reconnaissance_regionale:

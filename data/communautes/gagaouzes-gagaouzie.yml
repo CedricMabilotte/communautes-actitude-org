@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 103700, annee: 2024, perimetre: "résidents permanents de l'unité territoriale autonome (recensement 2024)", source: "https://statistica.gov.md/en/final-results-of-the-2024-population-and-housing-census-geographical-distributio-10121_61877.html"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 32, annee: 2024, perimetre: "localités de l'unité territoriale autonome (3 urbaines, 29 rurales), recensement 2024", source: "https://statistica.gov.md/ro/rezultatele-finale-ale-recensamantului-populatiei-si-locuintelor-2024-distributi-10121_62380.html"}
 resume: >-
   La Gagaouzie est une unité territoriale autonome du sud de la Moldavie, créée par la Loi sur le statut juridique spécial de la Gagaouzie du 23 décembre 1994. L'article 111 de la Constitution la définit comme une forme d'autodétermination du peuple gagaouze. Elle dispose d'une Assemblée populaire (Halk Topluşu) qui adopte des lois locales et d'un gouverneur (Başkan) élu au suffrage direct. Le gagaouze, le moldave (roumain) et le russe y sont langues officielles. Une crise institutionnelle entre Comrat et Chișinău est ouverte depuis l'automne 2025 autour de l'élection de l'Assemblée populaire.
 reconnaissance_onu:

@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 5691583, annee: 2024, perimetre: "population de la région au recensement du 1er juillet 2024, province de Sulu et zone géographique spéciale incluses", source: "https://psa.gov.ph/content/highlights-bangsamoro-autonomous-region-muslim-mindanao-barmm-population-2024-census"}
 lieux: {valeur: 2595, unite: "barangays (Sulu inclus)", annee: 2024, source: "https://psa.gov.ph/content/highlights-bangsamoro-autonomous-region-muslim-mindanao-barmm-population-2024-census"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 2595, annee: 2024, perimetre: "barangays (villages ou quartiers, plus petite unité administrative) de la région, province de Sulu incluse, recensement 2024", source: "https://psa.gov.ph/content/highlights-bangsamoro-autonomous-region-muslim-mindanao-barmm-population-2024-census"}
 resume: >-
   Les Bangsamoro sont les populations musulmanes originaires de Mindanao et de l'archipel de Sulu. La loi organique bangsamoro (Republic Act No. 11054, 2018) crée une région autonome à régime parlementaire, qui remplace la Région autonome en Mindanao musulman créée en 1989. Une autorité de transition gouverne la région depuis 2019. La province de Sulu en est exclue depuis une décision de la Cour suprême de septembre 2024.
 reconnaissance_onu:

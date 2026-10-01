@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 279500, annee: 2024, perimetre: "population de la collectivité (estimation de l'Institut de la statistique de la Polynésie française, citée par l'ONU)", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/7&l=fr&t=pdf"}
 lieux: {valeur: 48, unite: "communes", annee: 2026, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/7&l=fr&t=pdf"}
 surface_km2: {valeur: 3500, annee: 2026, perimetre: "terres émergées des 118 îles (valeur approchée)", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/7&l=fr&t=pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Collectivité d'outre-mer française dont l'autonomie relève de l'article 74 de la Constitution et de la loi organique du 27 février 2004. Elle dispose d'une assemblée, d'un gouvernement et d'un président propres. L'Assemblée générale des Nations unies l'a réinscrite sur la liste des territoires non autonomes par la résolution 67/265 du 17 mai 2013, à la demande de l'Assemblée de la Polynésie française (résolution du 18 août 2011).
 reconnaissance_onu:

@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 25852345, annee: 2020, perimetre: "population de la région autonome, toutes nationalités (7e recensement)", source: "https://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817188.html"}
 lieux: {valeur: 14, unite: "préfectures, villes et préfectures autonomes", annee: null, source: "https://www.xinjiang.gov.cn/xinjiang/dmxj/dmxj.shtml"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Ouïghours sont l'une des nationalités minoritaires reconnues par la Chine. La Région autonome ouïghoure du Xinjiang relève du système d'autonomie régionale des nationalités prévu par la Constitution (art. 4 et 112 à 122) et par la loi de 1984 sur l'autonomie régionale des nationalités, modifiée en 2001. Le droit prévoit des organes d'autogouvernement, un pouvoir de réglementation soumis à l'approbation du Comité permanent de l'Assemblée populaire nationale et l'usage des langues locales. Selon une étude universitaire de 2017, aucune des cinq régions autonomes n'a adopté de règlement d'autonomie.
 reconnaissance_onu:

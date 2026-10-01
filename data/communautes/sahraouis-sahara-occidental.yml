@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 600000, annee: 2024, perimetre: "habitants de la partie à l'ouest du mur de sable (recensement marocain de 2024, ordre de grandeur cité par l'ONU)", source: "https://docs.un.org/fr/A/AC.109/2026/17"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Le Sahara occidental figure sur la liste des territoires non autonomes (territoires dont la population ne s'administre pas encore pleinement elle-même) des Nations unies depuis 1963.
   L'Espagne l'a administré jusqu'en 1975 ; le Maroc en contrôle depuis la majeure partie, à l'ouest du mur de sable, et le Front POLISARIO revendique l'indépendance.

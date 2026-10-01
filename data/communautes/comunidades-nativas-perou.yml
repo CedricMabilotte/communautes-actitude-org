@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "habitants des communautés natives ; total non relevé dans le tome ouvert du recensement 2017", source: ""}
 lieux: {valeur: 2703, unite: "communautés natives recensées, rattachées à 44 peuples autochtones", annee: 2017, source: "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1598/TOMO_01.pdf"}
 surface_km2: {valeur: null, annee: null, perimetre: "surface titrée des communautés natives ; non trouvée dans une source officielle ouverte", source: ""}
+villages: {valeur: 2703, annee: 2017, perimetre: "communautés natives recensées en 2017 (recensement des communautés autochtones de l'Amazonie), rattachées à 44 peuples", source: "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1598/TOMO_01.pdf"}
 resume: >-
   Fiche agrégée. La Constitution péruvienne de 1993 donne aux « comunidades campesinas y nativas » une existence légale et la personnalité juridique ; elles sont autonomes dans leur organisation, le travail communal, l'usage et la libre disposition de leurs terres. Leurs autorités peuvent exercer des fonctions juridictionnelles selon le droit coutumier. Le recensement de 2017 compte 2 703 communautés natives amazoniennes appartenant à 44 peuples ; 77,1 % des communautés reconnues ont un titre de propriété. Les communautés paysannes andines, régies par les mêmes articles, feront l'objet d'une fiche distincte.
 reconnaissance_regionale: []

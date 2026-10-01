@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 2523581, annee: 2020, perimetre: "Hui résidant dans la région, septième recensement (35 % environ de 7 202 654 habitants)", source: "https://cn.chinadaily.com.cn/a/202105/25/WS60acee2fa3101e7ce97519b0.html"}
 lieux: {valeur: 5, unite: "villes de niveau préfecture", annee: 2020, source: "https://fdi.mofcom.gov.cn/resource/pdf/2020/10/21/2b91bdb7db4b48519eaff35bebfa8f82.pdf"}
 surface_km2: {valeur: 66400, annee: 2020, perimetre: "superficie de la région autonome", source: "https://fdi.mofcom.gov.cn/resource/pdf/2020/10/21/2b91bdb7db4b48519eaff35bebfa8f82.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Hui, musulmans de langue chinoise, sont l'une des nationalités minoritaires reconnues par la Chine. La Région autonome hui du Ningxia, créée en 1958, relève du système d'autonomie régionale des nationalités prévu par la Constitution (art. 4 et 112 à 122) et par la loi de 1984 modifiée en 2001. Le droit prévoit des organes d'autogouvernement et un pouvoir de réglementation soumis à l'approbation du Comité permanent de l'Assemblée populaire nationale. Le Ningxia a rédigé seize projets de règlement d'autonomie de 1980 à 2001 ; aucun n'a été soumis au pouvoir central.
 reconnaissance_regionale: []

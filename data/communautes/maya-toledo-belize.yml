@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 21000, annee: null, perimetre: "habitants des 41 communautés maya du sud du Belize (chiffre arrondi du projet de mise en œuvre, non daté)", source: "https://thetenurefacility.org/projects/protecting-rights-of-the-maya-people-belize/"}
 lieux: {valeur: 41, unite: "communautés maya du sud du Belize", annee: null, source: "https://thetenurefacility.org/projects/protecting-rights-of-the-maya-people-belize/"}
 surface_km2: {valeur: null, annee: null, perimetre: "terres coutumières maya ; non délimitées à ce jour", source: ""}
+villages: {valeur: 41, annee: null, perimetre: "communautés (villages) maya du sud du Belize", source: "https://thetenurefacility.org/projects/protecting-rights-of-the-maya-people-belize/"}
 resume: >-
   Les villages maya du district de Toledo, représentés par leurs alcaldes (autorités traditionnelles élues) et la Maya Leaders Alliance, ont obtenu la reconnaissance judiciaire de leur régime foncier coutumier. Par une ordonnance d'accord du 22 avril 2015, la Cour caribéenne de justice, dernière instance du Belize, confirme que la tenure coutumière maya existe dans les villages du Toledo et crée des droits de propriété collectifs et individuels protégés par la Constitution. Le gouvernement s'engage à créer, en consultation avec les Maya, un mécanisme pour identifier et protéger ces droits, et à s'abstenir d'ici là de tout acte affectant ces terres sans leur consentement éclairé.
 reconnaissance_regionale:

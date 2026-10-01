@@ -1,0 +1,437 @@
+slug: "inde-gerer-son-territoire"
+titre: "Inde : gérer son territoire au village"
+chapeau: >-
+  En Inde, des villages gèrent une forêt, une zone humide ou un territoire coutumier au titre de lois nationales ou de lois des États, sans passer par les mécanismes des Nations unies. Ce dossier compare 20 cas, dont cinq consacrés à des réserves communautaires, pour répondre à une question : qui décide réellement sur le terrain, la communauté, l'administration, ou les deux ?
+
+introduction: >-
+  La Constitution indienne donne déjà à certains territoires une autonomie propre : conseils de district autonomes de la Sixième annexe (régime des districts autonomes du Nord-Est) chez les Khasi, les Garo ou les Pnar du Meghalaya, article 371A au Nagaland, Cinquième annexe et loi PESA de 1996 (extension des conseils de village aux zones dites répertoriées) dans l'Inde centrale. Ces régimes sont décrits dans les fiches de l'atlas. Ce dossier regarde un niveau plus bas : le village, l'assemblée de village (gram sabha, réunion de tous les électeurs inscrits du village), le conseil coutumier, le comité de forêt. Il laisse de côté les recours devant les organes des Nations unies et ne retient que le droit indien.
+
+
+  Le dossier distingue six mécanismes. L'autonomie territoriale par la loi confie à un conseil élu la terre d'un district entier. La gestion propre d'une forêt ou d'un territoire coutumier donne à une assemblée de village un droit de gestion sur une ressource délimitée. La cogestion d'une aire protégée associe un comité local et le service forestier dans une réserve créée par l'État. La protection foncière interdit de vendre la terre à des personnes extérieures au groupe, sans créer d'institution de décision. L'institution coutumière reconnue est un conseil de village ou un tribunal coutumier auquel la loi donne des pouvoirs. Enfin, la gouvernance de la biodiversité passe par des comités créés dans chaque collectivité locale.
+
+
+  Les réserves communautaires occupent une place à part. Créées en 2003 par la loi sur la protection de la faune, elles étaient 309 selon la liste officielle de février 2025, dont 297 dans quatre États du Nord-Est. Le dossier en examine cinq cas, du Nagaland au Haryana, avec pour chacune trois questions : qui décide, quelles règles s'appliquent, quelles sanctions existent. Trois cas du Nagaland (Khonoma, Sendenyu, Pangti) montrent aussi des règles de conservation décidées par un village sans notification de l'État ou avant elle.
+
+mecanismes:
+  - {cle: "autonomie_territoriale", libelle: "Autonomie territoriale par la loi", definition: "Une loi confie à un conseil élu l'attribution des terres, la gestion de forêts et des services publics sur un district ; l'État garde l'expropriation et peut dissoudre le conseil."}
+  - {cle: "gestion_propre", libelle: "Gestion propre d'une forêt ou d'un territoire coutumier", definition: "Une assemblée de village ou un conseil élu par les habitants fixe les règles d'usage d'une forêt ou d'un territoire délimité ; le sol reste en général à l'État."}
+  - {cle: "cogestion_aire_protegee", libelle: "Cogestion d'une aire protégée", definition: "L'État crée une réserve ou un comité forestier ; un comité où siègent des représentants locaux et un agent forestier gère la zone, et l'État approuve les décisions qui changent l'usage du sol."}
+  - {cle: "protection_fonciere", libelle: "Protection foncière", definition: "La loi interdit ou limite la vente des terres à des personnes extérieures au groupe, ou l'entrée de ces personnes sur le territoire ; elle ne crée pas d'institution qui décide pour la communauté."}
+  - {cle: "institution_coutumiere", libelle: "Institution coutumière reconnue", definition: "Un conseil de village ou une autorité coutumière tient de la loi, ou de la coutume tolérée par la loi, des pouvoirs de règlement, de justice ou de gestion de services."}
+  - {cle: "gouvernance_biodiversite", libelle: "Gouvernance de la biodiversité", definition: "Un comité créé par la collectivité locale élue tient un registre des ressources biologiques et perçoit une part des avantages tirés de leur usage commercial."}
+
+concepts:
+  - {terme: "gram sabha", langue: "hindi", communautes: ["droits-forestiers-communautaires-inde", "cinquieme-annexe-pesa-inde", "mendha-lekha"], sens: "Assemblée de tous les électeurs inscrits d'un village ; titulaire des droits de gestion de la forêt communautaire au titre de la loi de 2006.", source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  - {terme: "gramdan", langue: "hindi / marathi", communautes: ["mendha-lekha"], sens: "« Don du village » : les propriétaires cèdent leurs terres à l'assemblée de village, qui les tient en commun.", source: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
+  - {terme: "van panchayat", langue: "hindi", communautes: ["van-panchayats-uttarakhand"], sens: "« Conseil de la forêt » : conseil élu par les habitants d'un village de montagne de l'Uttarakhand pour gérer la forêt du village.", source: "https://dialogue.earth/en/forests/van-panchayats-upholding-forest-rights-in-uttarakhands-hillside-communities/"}
+  - {terme: "dorbar shnong ; rangbah shnong", langue: "khasi", communautes: ["khasi-khasi-hills"], sens: "Assemblée de village khasi et le chef de village qui la préside.", source: "https://theshillongtimes.com/2024/11/12/reforming-and-streamlining-the-role-of-the-dorbar-shnong/"}
+  - {terme: "hima ; raid", langue: "khasi", communautes: ["khasi-khasi-hills"], sens: "Hima : territoire coutumier khasi dirigé par un chef ; raid : groupement de villages. Les deux sont propriétaires de réserves communautaires en Ri Bhoi.", source: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280994"}
+  - {terme: "nokma", langue: "garo", communautes: ["garo-garo-hills"], sens: "Chef de village garo, gardien des terres du clan (a·king).", source: "https://www.wti.org.in/news/felicitating-conservation-champions-the-nokmas-of-garo-hills-meghalaya/"}
+  - {terme: "kebang", langue: "adi", communautes: ["autorites-villageoises-arunachal"], sens: "Conseil coutumier des Adi, au niveau du village ou de plusieurs villages ; reconnu comme autorité villageoise depuis 2023.", source: "https://www.ijcrt.org/papers/IJCRT2602272.pdf"}
+  - {terme: "khuntkatti", langue: "mundari", communautes: ["chota-nagpur-santhal-pargana"], sens: "Terres des lignages fondateurs d'un village munda, tenues en commun et que la loi de 1908 interdit de vendre.", source: "https://www.lbsnaa.gov.in/storage/uploads/pdf_data/1740658547_23-Studies_in_the_Jharkhand_Tenancy_Laws.pdf"}
+  - {terme: "manki-munda ; majhi-pargana", langue: "ho ; santali", communautes: ["chota-nagpur-santhal-pargana"], sens: "Systèmes coutumiers de chefs de village (munda, majhi) et de chefs de groupes de villages (manki, pargana) chez les Ho et les Santal.", source: "https://www.drishtiias.com/daily-updates/daily-news-analysis/manki-munda-system-and-ho-tribe"}
+  - {terme: "jhum", langue: "usage régional (Nord-Est)", communautes: ["collines-manipur", "naga-nagaland"], sens: "Culture itinérante sur brûlis, réglée par les conseils de district au Manipur et interdite dans les réserves communautaires du Nagaland.", source: "https://www.downtoearth.org.in/forests/community-reserves-are-they-forest-department-s-backdoor-entry-into-north-east-india-85242"}
+
+cas:
+  - id: "ladakh-conseils"
+    atlas_uid: "ladakh-conseils-collines"
+    communaute: "Habitants des districts de Leh et de Kargil"
+    etats: ["Inde (Ladakh)"]
+    entite: "Terres des districts de Leh et de Kargil"
+    mecanisme: "autonomie_territoriale"
+    annee: 1997
+    concept_local: ""
+    resume: >-
+      La loi de 1997 sur les conseils autonomes de développement des collines du Ladakh crée à Leh (depuis 1995) et à Kargil (depuis juillet 2003) un conseil de 26 membres élus au suffrage direct et de 4 membres nommés au plus. Toute la terre du district est transférée au conseil (art. 42), qui décide de son attribution et de son usage, gère les forêts non délimitées, les canaux, l'éducation et la santé (art. 23) et peut lever des taxes (art. 24). Plus de 83 % de la population relève des tribus répertoriées (Scheduled Tribes, liste officielle des groupes protégés par la Constitution). Le 14 juillet 2026, le gouvernement a annoncé un conseil dans chacun des sept districts.
+    gouvernance: "Conseil élu et conseil exécutif dirigé par le Chief Executive Councillor (art. 29) ; pouvoirs exercés sous réserve des directives du gouvernement (art. 23) ; dissolution possible par le gouverneur (art. 52) ; l'État garde l'expropriation (art. 42 (3))."
+    effectivite: "Les deux conseils sont élus et fonctionnent ; les organisations de Leh et de Kargil jugent insuffisants les règlements de juin 2025 et demandent toujours un État et l'inscription à la Sixième annexe (The Wire)."
+    textes:
+      - {titre: "Ladakh Autonomous Hill Development Councils Act 1997", nature: "loi", annee: 1997, source: "https://faolex.fao.org/docs/pdf/IND227527.pdf"}
+    sources:
+      - {titre: "FAOLEX — Ladakh Autonomous Hill Development Councils Act 1997", url: "https://faolex.fao.org/docs/pdf/IND227527.pdf"}
+      - {titre: "The Wire — Statehood and Sixth Schedule unresolved as Union notifies new rules", url: "https://m.thewire.in/article/government/issue-of-statehood-and-sixth-schedule-unresolved-ladakh-leaders-as-union-govt-notifies-new-rules"}
+      - {titre: "Organiser — All 7 districts to have autonomous hill councils (14 juillet 2026)", url: "https://organiser.org/2026/07/14/369881/bharat/ladakh-gets-major-governance-boost-all-7-districts-to-have-autonomous-hill-councils/"}
+
+  - id: "manipur-conseils-collines"
+    atlas_uid: "collines-manipur"
+    communaute: "Peuples des collines du Manipur (Naga, Kuki-Zo et autres)"
+    etats: ["Inde (Manipur)"]
+    entite: "Zones de collines, environ 90 % du territoire de l'État"
+    mecanisme: "autonomie_territoriale"
+    annee: 1971
+    concept_local: "jhum"
+    resume: >-
+      La loi du Parlement de 1971 sur les conseils de district des zones de collines du Manipur crée six conseils élus, qui couvraient 10 des 16 districts en 2021. Ils attribuent les terres pour l'agriculture, le pâturage et l'habitat, gèrent les forêts non classées, règlent la culture itinérante (jhum) et tiennent écoles primaires, dispensaires et marchés (art. 29 (1)). Sur la désignation des chefs, l'héritage, le mariage et la coutume, ils ne peuvent que recommander des lois (art. 29 (2)). L'article 371C de la Constitution réserve l'examen des lois touchant les collines à un comité des députés élus dans ces zones.
+    gouvernance: "Six conseils de district élus ; comité des zones de collines de l'Assemblée de l'État (art. 371C) ; le pouvoir de faire la loi reste à l'Assemblée."
+    effectivite: "Aucune élection depuis la fin des mandats en mai 2020 (délimitation inachevée, conflit de 2023) ; un projet de loi de 2021 élargissant les pouvoirs des conseils n'a pas abouti (Northeast Now, Scroll)."
+    textes:
+      - {titre: "Constitution de l'Inde, art. 371C", nature: "constitution", annee: 1971, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+      - {titre: "Manipur (Hill Areas) District Councils Act 1971, art. 29", nature: "loi", annee: 1971, source: "https://indiankanoon.org/doc/1523562/"}
+    sources:
+      - {titre: "Indian Kanoon — Manipur (Hill Areas) District Councils Act 1971", url: "https://indiankanoon.org/doc/1523562/"}
+      - {titre: "Northeast Now — Tribal leaders urge CM to expedite long-delayed ADC elections", url: "https://nenow.in/north-east-news/manipur/manipur-tribal-leaders-urge-cm-to-expedite-long-delayed-adc-elections.html"}
+      - {titre: "Scroll — Old divides have surfaced over a proposed bill in Manipur", url: "https://scroll.in/article/1013582/old-divides-have-surfaced-over-a-proposed-bill-in-manipur-as-elections-approach"}
+
+  - id: "mendha-lekha-cfr"
+    atlas_uid: "mendha-lekha"
+    communaute: "Gond de Mendha-Lekha et assemblées de village du district de Gadchiroli"
+    etats: ["Inde (Maharashtra)"]
+    entite: "Forêt communautaire de Mendha-Lekha, environ 1 800 ha"
+    mecanisme: "gestion_propre"
+    annee: 2009
+    concept_local: "gram sabha ; gramdan"
+    resume: >-
+      La loi de 2006 sur les droits forestiers reconnaît à une communauté le droit de protéger, régénérer et gérer sa « ressource forestière communautaire » (Community Forest Resource, CFR) (art. 3 (1) (i)). L'assemblée de village de Mendha-Lekha a reçu l'un des deux premiers titres de ce type en décembre 2009. Après 18 mois de refus, le service forestier lui a remis le 27 avril 2011 le carnet de permis de transport du bambou : le village vend lui-même sa récolte. Les propriétaires ont aussi cédé leurs terres à l'assemblée, et le village a été déclaré gramdan (terres mises en commun) le 28 novembre 2013. Dans le district, 1 171 villages sur 1 292 ont choisi en 2017 de vendre eux-mêmes les feuilles de tendu.
+    gouvernance: "L'assemblée de village décide par consensus ; les règles de 2007 (règle 4 (1) (e)) lui permettent de former des comités de protection de la forêt et de la faune parmi ses membres."
+    effectivite: "Vente du bambou effective depuis 2011 ; rendement passé de 2,7 à 5,7 t/ha/an entre 2011 et 2014 (Kalpavriksh). Les registres fonciers n'avaient pas été modifiés en 2022 malgré la notification gramdan, d'où un recours devant la Haute Cour à Nagpur (Vikalp Sangam)."
+    textes:
+      - {titre: "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act 2006, art. 3 (1) (i) et 5", nature: "loi", annee: 2006, source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+    sources:
+      - {titre: "Kalpavriksh — Mendha-Lekha village", url: "https://kalpavriksh.org/mendha-lekha-village/"}
+      - {titre: "CSE — Finally, bamboo liberated", url: "https://www.cseindia.org/finally-bamboo-liberated-report-from-the-field-2509"}
+      - {titre: "Vikalp Sangam — India's 1st CFR village moves HC for gramdan status", url: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
+      - {titre: "Scroll — Ten years of Forest Rights Act: Maharashtra tops in implementation", url: "https://scroll.in/article/843046/ten-years-of-forest-rights-act-maharashtra-tops-in-implementation-but-credit-goes-to-one-district"}
+
+  - id: "baiga-chak-habitat"
+    atlas_uid: "droits-habitat-pvtg-inde"
+    communaute: "Baiga du Baiga Chak"
+    etats: ["Inde (Madhya Pradesh)"]
+    entite: "Habitat coutumier de sept villages, 9 300 ha, district de Dindori"
+    mecanisme: "gestion_propre"
+    annee: 2015
+    concept_local: ""
+    resume: >-
+      La loi de 2006 sur les droits forestiers reconnaît aux groupes tribaux particulièrement vulnérables (Particularly Vulnerable Tribal Groups, 75 groupes désignés par l'État) des droits sur leur « habitat », c'est-à-dire leur territoire coutumier, y compris en forêt classée (art. 2 (h) et 3 (1) (e)). Les Baiga du Baiga Chak ont été les premiers à l'obtenir, en novembre 2015, pour sept villages et 9 300 ha. Le droit couvre les pratiques religieuses, les sites sacrés, la collecte, la culture et les déplacements saisonniers ; il est héréditaire et ne peut être vendu (art. 4 (4)). Il ne donne pas la propriété du sol et la chasse reste interdite.
+    gouvernance: "La demande passe par l'assemblée de village et les institutions traditionnelles du groupe ; le comité de district délivre le titre ; titulaires et assemblée protègent l'habitat (art. 5 (c))."
+    effectivite: "Down To Earth compte 10 reconnaissances d'habitat en septembre 2024 (Odisha 6, Chhattisgarh 2, Madhya Pradesh 1, Maharashtra 1) ; Mongabay relève une procédure floue, des recouvrements avec des mines et des aires protégées, et le mot « habitat » traduit par « maison » dans certaines langues."
+    textes:
+      - {titre: "Forest Rights Act 2006, art. 2 (h), 3 (1) (e), 4 (4) et 5", nature: "loi", annee: 2006, source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+    sources:
+      - {titre: "Down To Earth — Baigas get home", url: "https://www.downtoearth.org.in/governance/baigas-get-home-52666"}
+      - {titre: "Mongabay India — Explainer: habitat rights under the Forest Rights Act (janvier 2025)", url: "http://india.mongabay.com/2025/01/explainer-what-are-habitat-rights-under-the-forest-rights-act-and-why-are-they-being-discussed-now/"}
+      - {titre: "Down To Earth — Mankidia community becomes 6th PVTG to get habitat rights in Odisha", url: "https://www.downtoearth.org.in/forests/fra-implementation-mankidia-community-becomes-6th-pvtg-to-get-habitat-rights-over-forests-in-odisha"}
+
+  - id: "van-panchayats"
+    atlas_uid: "van-panchayats-uttarakhand"
+    communaute: "Communautés villageoises des montagnes du Kumaon et du Garhwal"
+    etats: ["Inde (Uttarakhand)"]
+    entite: "Forêts de conseil de village, environ 4 526 km² (2026)"
+    mecanisme: "gestion_propre"
+    annee: 1931
+    concept_local: "van panchayat"
+    resume: >-
+      Les règles de 1931 sur les forêts de panchayat du Kumaon, prises après les incendies de forêt de protestation de 1921, permettent à un village de gérer une forêt que l'État lui attribue (loi forestière de 1927, section 28). Les habitants élisent en assemblée un conseil de neuf membres, avec des sièges réservés aux femmes, et un président (sarpanch) pour cinq ans. Le conseil fixe les règles de pâturage, de coupe de branches et de bois de feu, et les amendes : de 50 à 1 000 roupies à Sarmoli, avec saisie du bétail. Depuis 2001-2005, ses revenus sont partagés : 30 % au conseil de village élu, 40 % pour la forêt, 30 % pour des travaux locaux. En 2026, 11 217 conseils géraient environ 4 526 km².
+    gouvernance: "Conseil élu par l'assemblée des habitants ; le chef de division forestière approuve le plan quinquennal et les ventes, les agents marquent les arbres à abattre, le sous-préfet délimite et l'administration peut révoquer le président."
+    effectivite: "Près de la moitié des conseils inscrits sont inactifs (Ground Report : environ 6 000 actifs sur plus de 12 000) ; élections en retard ; l'amendement de mars 2024 n'a repris que 15 des 58 modifications du projet de 2023 (Down To Earth, 2026)."
+    textes:
+      - {titre: "Indian Forest Act 1927, section 28 (forêts de village)", nature: "loi", annee: 1927, source: "https://indiankanoon.org/doc/644357/"}
+      - {titre: "Uttarakhand Panchayati Van Niyamavali (règles des forêts de panchayat) 2005, modifiées en 2012 et 2024", nature: "reglement", annee: 2005, source: "https://www.drishtiias.com/state-pcs-current-affairs/uttarakhand-approved-forest-panchayat-amendment-rules"}
+    sources:
+      - {titre: "LEAD Journal — Van Panchayats in Uttarakhand", url: "https://lead-journal.org/content/12141.pdf"}
+      - {titre: "People's Science Institute — Water and forest management", url: "https://peoplesscienceinstitute.org/research/WaterForestManagement.pdf"}
+      - {titre: "Down To Earth — A step back by Uttarakhand (2026)", url: "https://www.downtoearth.org.in/governance/a-step-back-by-uttarakhand"}
+      - {titre: "Ground Report — How Van Panchayat works in Uttarakhand", url: "https://www.groundreport.in/biodiversity/how-van-panchayat-works-in-uttarakhand/"}
+
+  - id: "khonoma-reserve"
+    atlas_uid: "reserves-communautaires-inde"
+    communaute: "Angami de Khonoma"
+    etats: ["Inde (Nagaland)"]
+    entite: "Sanctuaire de Khonoma (1998) et réserve communautaire « Khonoma », 2,65 km² (2018)"
+    mecanisme: "cogestion_aire_protegee"
+    annee: 2018
+    concept_local: ""
+    resume: >-
+      En 1998, le conseil de village de Khonoma déclare environ 20 km² « Khonoma Nature Conservation and Tragopan Sanctuary » et interdit la chasse sur tout le territoire du village (123 km²), après la mort de 300 tragopans de Blyth en 1993. Un trust villageois, avec règlement et responsables élus, gère le sanctuaire. En 2018, l'État notifie (publie au journal officiel) une réserve communautaire « Khonoma » de 2,65 km² au titre de la loi sur la faune. Qui décide : le conseil de village et le trust pour le sanctuaire ; pour la réserve notifiée, le comité de gestion prévu par la loi, avec un représentant forestier. Règles : interdiction de la chasse sur tout le village. Sanctions : amendes de 300 à 3 000 roupies, perçues par les jeunes du village qui assurent la surveillance et gardent l'argent pour leurs activités.
+    gouvernance: "Conseil de village coutumier (loi de 1978) et trust de conservation élu ; comité de gestion de la réserve communautaire avec un représentant du département forestier (art. 36D)."
+    effectivite: "Kalpavriksh signale moins de 10 infractions sur plusieurs années, l'absence de femmes au conseil et des dégâts de sangliers aux cultures après l'interdiction. Les sources ne disent pas si la réserve de 2018 couvre tout ou partie du sanctuaire de 1998."
+    textes:
+      - {titre: "Wild Life (Protection) Act 1972, art. 36C et 36D (insérés en 2003, modifiés en 2022)", nature: "loi", annee: 2003, source: "https://indiankanoon.org/doc/185112523/"}
+      - {titre: "Nagaland Village and Area Councils Act 1978", nature: "loi", annee: 1978, source: "https://www.indiacode.nic.in/bitstream/123456789/11037/1/the_nagaland_village_area_and_area_councils_act_1979.pdf"}
+    sources:
+      - {titre: "Kalpavriksh — Khonoma village (Directory of Community Conserved Areas, 2009)", url: "https://kalpavriksh.org/khonoma-village/"}
+      - {titre: "ENVIS / Wildlife Institute of India — Community Reserves, liste de février 2025 (copie archivée)", url: "https://web.archive.org/web/20250908141706/https://wiienvis.nic.in/Database/cri_8228.aspx"}
+
+  - id: "ri-bhoi-mawpen-reserves"
+    atlas_uid: "reserves-communautaires-inde"
+    communaute: "Hima Jirang, Raid Nongbri, Raid Nonglyngdoh, village et église de Nongsangu ; Dorbar Shnong de Mawpen"
+    etats: ["Inde (Meghalaya)"]
+    entite: "Réserves communautaires du district de Ri Bhoi (2014-2016) et de Mawpen (2024)"
+    mecanisme: "cogestion_aire_protegee"
+    annee: 2014
+    concept_local: "hima ; raid ; dorbar shnong"
+    resume: >-
+      Au Meghalaya, 85 réserves communautaires figuraient dans la liste de février 2025. En Ri Bhoi, cinq réserves de moins de 2 km² appartiennent à des institutions khasi : la Hima Jirang, les raid de Nongbri et de Nonglyngdoh, le village de Nongsangu et son église (bois sacré de Lum Jusong, vendu aux enchères à des scieries avant sa notification en 2016). Qui décide : chaque réserve a un comité de quatre membres de la communauté et d'un représentant forestier. À Mawpen, la notification d'octobre 2024 nomme un président et sept membres issus de l'assemblée de village ; un agent de la division faune de Shillong est membre-secrétaire et le président devient garde honoraire de la faune. Règles : aucun changement d'usage du sol sans résolution du comité et accord de l'État (art. 36C (3)), et les interdictions de la loi (feu, produits chimiques, chasse). Sanctions : aucune source trouvée sur des amendes appliquées dans une réserve du Meghalaya.
+    gouvernance: "Comité à majorité locale (4 pour 1 en Ri Bhoi, 8 pour 1 à Mawpen), membres issus des institutions coutumières khasi ; agent forestier membre-secrétaire."
+    effectivite: "Comités en place (PLOS One, 2023 ; Highland Post, 2024). En 2024, le département forestier demande au gouvernement central de notifier les bois sacrés comme réserves communautaires, ce qui les rendrait éligibles au programme centralisé « Integrated Development of Wildlife Habitats » (Hub News)."
+    textes:
+      - {titre: "Wild Life (Protection) Act 1972, art. 36C et 36D", nature: "loi", annee: 2003, source: "https://indiankanoon.org/doc/104683125/"}
+    sources:
+      - {titre: "PLOS One (2023) — étude de cinq réserves communautaires du district de Ri Bhoi", url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280994"}
+      - {titre: "Highland Post — Govt notifies 2 community reserves (31 octobre 2024)", url: "https://highlandpost.com/govt-notifies-2-community-reserves/"}
+      - {titre: "Hub News — Meghalaya requests Centre to declare sacred groves as community reserves (19 juin 2024)", url: "https://hubnetwork.in/meghalaya-requests-centre-to-declare-sacred-groves-as-community-reserves/"}
+
+  - id: "keshopur-miani"
+    atlas_uid: "reserves-communautaires-inde"
+    communaute: "Cinq villages propriétaires de Keshopur-Miani"
+    etats: ["Inde (Punjab)"]
+    entite: "Réserve communautaire de Keshopur Chhamb, 3,4 km², district de Gurdaspur"
+    mecanisme: "cogestion_aire_protegee"
+    annee: 2007
+    concept_local: ""
+    resume: >-
+      Keshopur Chhamb est l'une des premières réserves communautaires du pays, déclarée en 2007 après des discussions engagées par le département forestier. Une partie des habitants s'y opposait ; l'opposition a été levée par l'assurance que les activités rémunératrices continueraient. La propriété reste aux cinq villages. Qui décide : le comité de la réserve, formé d'un représentant par village et d'un agent forestier (range officer). Règles : le comité attribue les baux des bassins à poissons et des cultures de lotus et de châtaigne d'eau. Sanctions : aucune source trouvée. La zone humide est inscrite sur la liste de Ramsar (zones humides d'importance internationale) depuis le 26 septembre 2019, pour 343,9 ha.
+    gouvernance: "Comité de six membres : cinq représentants des villages, un agent forestier ; autorité désignée pour le site Ramsar : département des forêts et de la faune du Punjab."
+    effectivite: "India Water Portal (2016) décrit des fonds de développement (abribus, routes, drains, cours de couture), des emplois de guides et un projet d'écotourisme soumis au gouvernement central."
+    textes:
+      - {titre: "Wild Life (Protection) Act 1972, art. 36C et 36D", nature: "loi", annee: 2003, source: "https://indiankanoon.org/doc/185112523/"}
+    sources:
+      - {titre: "India Water Portal — A cut above the rest (5 décembre 2016)", url: "https://www.indiawaterportal.org/environment/ecology/cut-above-rest"}
+      - {titre: "Indian Wetlands — Keshopur-Miani Community Reserve, fiche Ramsar", url: "https://indianwetlands.in/wp-content/uploads/factsheet/Keshopur-Miani_Community_Reserve_Factsheet.pdf"}
+
+  - id: "kadalundi-vallikkunnu"
+    atlas_uid: "reserves-communautaires-inde"
+    communaute: "Habitants des panchayats de Kadalundi et de Vallikkunnu"
+    etats: ["Inde (Kerala)"]
+    entite: "Réserve communautaire de Kadalundi-Vallikkunnu, 1,5 km² d'estuaire"
+    mecanisme: "cogestion_aire_protegee"
+    annee: 2007
+    concept_local: ""
+    resume: >-
+      Déclarée en 2007 sur 1,5 km² d'estuaire à la limite des districts de Kozhikode et de Malappuram, la réserve dépend de deux panchayats (conseils de village élus) dirigés par des partis opposés. La formation du comité a pris deux ans ; le ministre des Forêts du Kerala a tranché : trois membres pour Vallikkunnu, deux pour Kadalundi, un forestier, et un président élu à Kadalundi. Qui décide : ce comité de six membres. Règles : le projet de plan de gestion n'avait pas été accepté par le gouvernement lors de l'enquête de 2012. Sanctions : aucune source trouvée. Le statut de la terre est discuté : le département forestier la dit privée, des habitants la disent à eux, un chercheur à l'État et au panchayat.
+    gouvernance: "Comité de six membres désignés par les deux panchayats et le département forestier ; composition arrêtée par le ministre des Forêts de l'État."
+    effectivite: "Lors d'entretiens de janvier-février 2012, des habitants disent ne pas soutenir un comité « nominated by the government and not by them » ; les gardiens recrutés n'étaient pas payés et des répondants parlent de « paper park » (réserve sur le papier) ; le comité a ouvert un atelier de fibre de coco pour compenser des pertes de revenu (Journal of Threatened Taxa, 2013)."
+    textes:
+      - {titre: "Wild Life (Protection) Act 1972, art. 36C et 36D", nature: "loi", annee: 2003, source: "https://indiankanoon.org/doc/185112523/"}
+    sources:
+      - {titre: "Kanagavel et al., Journal of Threatened Taxa 5 (17), 2013 — Kadalundi-Vallikkunnu Community Reserve", url: "https://pdfs.semanticscholar.org/d1df/5cb2390aa6c1d9386cea09622e89d05f0788.pdf"}
+
+  - id: "fatehabad-reserves"
+    atlas_uid: "reserves-communautaires-inde"
+    communaute: "Villages de Dhangar, Dhani Majra et Kajalheri ; panchayat de Chaudhariwali"
+    etats: ["Inde (Haryana)"]
+    entite: "Trois réserves communautaires du district de Fatehabad (2019) et réserve de Chaudhariwali (2025)"
+    mecanisme: "cogestion_aire_protegee"
+    annee: 2019
+    concept_local: ""
+    resume: >-
+      Trois réserves de moins de 0,1 km² chacune sont déclarées en 2019 dans le district de Fatehabad. Leurs comités ne sont notifiés que le 3 janvier 2025, plus de cinq ans plus tard. Qui décide : selon The Tribune, chaque comité est présidé par l'officier de la faune de la division de Hisar, l'inspecteur de la faune en est membre-secrétaire, il se réunit deux fois par an et il est chargé de conseiller le directeur de la faune de l'État. La loi prévoit au contraire que le comité est l'autorité de gestion et élit lui-même son président (art. 36D (1) et (4)). Règles et sanctions : celles de la loi sur la faune ; aucune règle propre documentée. En février 2025, Chaudhariwali (district de Hisar) devient réserve sur environ 150 acres de terre du panchayat, à sa demande : la terre reste au panchayat, mais son usage ne peut plus changer.
+    gouvernance: "Comités présidés par l'administration de la faune et limités à un rôle de conseil (The Tribune, 11 février 2025)."
+    effectivite: "Comités constitués cinq ans après la déclaration ; aucune source sur leur activité depuis janvier 2025."
+    textes:
+      - {titre: "Wild Life (Protection) Act 1972, art. 36D (1) et (4)", nature: "loi", annee: 2003, source: "https://indiankanoon.org/doc/185112523/"}
+    sources:
+      - {titre: "The Tribune — Panels formed for conservation of wildlife in Fatehabad (11 février 2025)", url: "https://www.tribuneindia.com/news/haryana/panels-formed-for-conservation-of-wildlife-in-fatehabad"}
+      - {titre: "The Tribune — Hisar gets first community reserve (3 mars 2025)", url: "https://www.tribuneindia.com/news/haryana/hisar-gets-first-community-reserve-for-protection-of-wildlife-ecology"}
+
+  - id: "gestion-conjointe-forets"
+    atlas_uid: ""
+    communaute: "Comités villageois de gestion conjointe des forêts"
+    etats: ["Inde"]
+    entite: "Forêts de l'État confiées en gestion conjointe, 10,1 millions d'ha en 2002"
+    mecanisme: "cogestion_aire_protegee"
+    annee: 1990
+    concept_local: ""
+    resume: >-
+      La gestion conjointe des forêts (Joint Forest Management, JFM) repose sur une circulaire du ministère de l'Environnement et des Forêts du 1er juin 1990, prise après la politique forestière de 1988, et sur des lignes directrices de 2000 ; aucune loi ne la fonde. Le service forestier crée des comités villageois, qui protègent une forêt de l'État et reçoivent une part des produits : 30 % au Haryana, 50 % au Karnataka, 100 % du bois et du bambou en Andhra Pradesh. Le plan d'aménagement reste celui du service forestier. En 2002, 63 618 comités couvraient 10,1 millions d'ha.
+    gouvernance: "Le secrétaire du comité est en général un agent forestier ; le droit de la communauté est un droit d'usage conditionnel et révocable."
+    effectivite: "Aucun chiffre officiel récent n'a été trouvé. Des comités de gestion conjointe sont parfois présentés à la place des assemblées de village titulaires de droits forestiers au titre de la loi de 2006, ce que cette loi ne prévoit pas (Down To Earth)."
+    textes:
+      - {titre: "Circulaire du ministère de l'Environnement et des Forêts du 1er juin 1990 sur la gestion conjointe des forêts", nature: "circulaire", annee: 1990, source: "https://www.fao.org/4/XII/1056-B4.htm"}
+    sources:
+      - {titre: "FAO — Joint Forest Management in India (Indira Gandhi National Forest Academy)", url: "https://www.fao.org/4/XII/1056-B4.htm"}
+      - {titre: "Press Information Bureau — Joint Forest Management", url: "https://www.pib.gov.in/newsite/erelcontent.aspx?relid=31663&reg=48&lang=2"}
+      - {titre: "Down To Earth — Gram sabhas hold supreme authority under FRA", url: "https://www.downtoearth.org.in/forests/gram-sabhas-hold-supreme-authority-under-fra-forest-departments-must-facilitate-not-regulate-cfr-governance"}
+
+  - id: "jharkhand-cnt-spt"
+    atlas_uid: "chota-nagpur-santhal-pargana"
+    communaute: "Tribus répertoriées du Jharkhand (Munda, Ho, Santal, Oraon et autres)"
+    etats: ["Inde (Jharkhand)"]
+    entite: "Terres des membres de tribus répertoriées et terres khuntkatti du Chota Nagpur et du Santhal Pargana"
+    mecanisme: "protection_fonciere"
+    annee: 1908
+    concept_local: "khuntkatti ; manki-munda ; majhi-pargana"
+    resume: >-
+      La loi de 1908 sur les baux du Chota Nagpur (Chota Nagpur Tenancy Act, CNT) interdit à un tenancier membre d'une tribu répertoriée de céder sa terre, sauf à un autre membre de tribu du même ressort de police et avec l'accord du préfet de district (art. 46). Le préfet doit restituer une terre cédée en fraude, dans un délai de 30 ans (art. 71A). Les terres khuntkatti, tenues en commun par les lignages fondateurs munda, ne peuvent être vendues (art. 240). La loi de 1949 sur le Santhal Pargana (SPT) interdit toute cession d'un aborigène à un non-aborigène (art. 20). Depuis janvier 2026, les règles PESA du Jharkhand confient à l'assemblée de village, présidée selon la coutume, la gestion des ressources naturelles, des minéraux mineurs et des petits plans d'eau, et le règlement des litiges avec des amendes jusqu'à 2 000 roupies.
+    gouvernance: "Pour la terre : le préfet de district, non la communauté. Depuis 2026 : l'assemblée de village et les chefs coutumiers des systèmes manki-munda et majhi-pargana, dont plus de 28 500 reçoivent une indemnité."
+    effectivite: "Projet d'amendement de 2016 facilitant l'acquisition renvoyé par la gouverneure ; banque foncière ayant reclassé des terres khuntkatti en terres publiques (CALJ) ; règles PESA appliquées dans 13 districts sur 24, jugées en retrait par les responsables coutumiers (Down To Earth)."
+    textes:
+      - {titre: "Chota Nagpur Tenancy Act 1908, art. 46, 71A et 240", nature: "loi", annee: 1908, source: "https://www.lbsnaa.gov.in/storage/uploads/pdf_data/1740658547_23-Studies_in_the_Jharkhand_Tenancy_Laws.pdf"}
+      - {titre: "Santhal Pargana Tenancy (Supplementary Provisions) Act 1949, art. 20", nature: "loi", annee: 1949, source: "https://www.lbsnaa.gov.in/storage/uploads/pdf_data/1740658547_23-Studies_in_the_Jharkhand_Tenancy_Laws.pdf"}
+    sources:
+      - {titre: "LBSNAA — Studies in the Jharkhand Tenancy Laws", url: "https://www.lbsnaa.gov.in/storage/uploads/pdf_data/1740658547_23-Studies_in_the_Jharkhand_Tenancy_Laws.pdf"}
+      - {titre: "CALJ — From protection to dispossession", url: "https://www.calj.in/post/from-protection-to-dispossession-how-jharkhand-s-executive-undermines-tribal-land-rights"}
+      - {titre: "Down To Earth — PESA Act implemented in Jharkhand after 25 years", url: "https://www.downtoearth.org.in/governance/pesa-act-implemented-in-jharkhand-after-25-years-but-will-it-change-tribal-lives"}
+
+  - id: "samatha-regulation-1970"
+    atlas_uid: "cinquieme-annexe-pesa-inde"
+    communaute: "Tribus répertoriées des zones répertoriées d'Andhra Pradesh (et du Telangana)"
+    etats: ["Inde (Andhra Pradesh, Telangana)"]
+    entite: "Terres des zones répertoriées de la Cinquième annexe"
+    mecanisme: "protection_fonciere"
+    annee: 1997
+    concept_local: ""
+    resume: >-
+      Le règlement de 1959 sur la cession des terres des zones répertoriées d'Andhra Pradesh, modifié par la Regulation 1 de 1970 que le gouverneur a prise au titre de la Cinquième annexe, présume que toute terre de ces zones appartient à un membre de tribu répertoriée et interdit sa cession à d'autres personnes. Dans l'arrêt Samatha du 11 juillet 1997, la Cour suprême juge que l'État lui-même est une « personne » au sens de ce règlement. Les baux miniers accordés à des entreprises privées dans ces zones sont nuls ; l'exploitation n'est possible que par l'entreprise publique ou par des coopératives de membres des tribus répertoriées, et au moins 20 % des bénéfices doivent aller aux services locaux.
+    gouvernance: "Pas d'institution communautaire de décision : la protection passe par l'administration et les tribunaux."
+    effectivite: "L'arrêt est cité comme référence pour les zones de la Cinquième annexe (ESCR-Net) ; aucune source ouverte ne mesure son application actuelle."
+    textes:
+      - {titre: "Andhra Pradesh Scheduled Areas Land Transfer Regulation 1959, modifiée par la Regulation 1 de 1970", nature: "reglement", annee: 1970, source: "https://www.escr-net.org/caselaw/2020/samatha-vs-state-ap-and-ors-air-1997-sc-3297-jt-1997-6-sc-449-1997-4-scale-746/"}
+      - {titre: "Cour suprême, Samatha c. État d'Andhra Pradesh, 11 juillet 1997", nature: "jurisprudence", annee: 1997, source: "https://www.escr-net.org/caselaw/2020/samatha-vs-state-ap-and-ors-air-1997-sc-3297-jt-1997-6-sc-449-1997-4-scale-746/"}
+    sources:
+      - {titre: "ESCR-Net — Samatha vs. State of AP and Ors.", url: "https://www.escr-net.org/caselaw/2020/samatha-vs-state-ap-and-ors-air-1997-sc-3297-jt-1997-6-sc-449-1997-4-scale-746/"}
+
+  - id: "inner-line-permit"
+    atlas_uid: ""
+    communaute: "Habitants de l'Arunachal Pradesh, du Nagaland, du Mizoram et du Manipur"
+    etats: ["Inde (Arunachal Pradesh, Nagaland, Mizoram, Manipur)"]
+    entite: "Territoires situés au-delà de la « ligne intérieure »"
+    mecanisme: "protection_fonciere"
+    annee: 1873
+    concept_local: ""
+    resume: >-
+      Le règlement de 1873 sur la frontière orientale du Bengale (Bengal Eastern Frontier Regulation) interdit aux personnes extérieures de franchir la « ligne intérieure » sans permis (Inner Line Permit). Il s'applique en Arunachal Pradesh, au Nagaland (étendu au district de Dimapur en 2019), au Mizoram et, depuis décembre 2019, au Manipur. Le permis est délivré par l'État et limite l'entrée et le séjour des non-résidents, ce qui freine l'installation et l'achat de terres par des personnes extérieures.
+    gouvernance: "Le gouvernement de chaque État délivre les permis ; la communauté n'a pas de rôle formel."
+    effectivite: "En vigueur dans les quatre États ; un recours contre l'extension au Manipur est pendant devant la Cour suprême, qui a demandé une réponse à l'État le 21 novembre 2024 (The Tribune)."
+    textes:
+      - {titre: "Bengal Eastern Frontier Regulation 1873, art. 2", nature: "reglement", annee: 1873, source: "https://vajiramandravi.com/current-affairs/inner-line-permit-ilp/"}
+    sources:
+      - {titre: "Vajiram & Ravi — Inner Line Permit (ILP)", url: "https://vajiramandravi.com/current-affairs/inner-line-permit-ilp/"}
+      - {titre: "The Tribune — SC seeks Manipur's reply on plea against Inner Line Permit", url: "https://www.tribuneindia.com/news/india/sc-seeks-manipurs-reply-on-plea-against-inner-line-permit"}
+
+  - id: "nagaland-conseils-de-village"
+    atlas_uid: "naga-nagaland"
+    communaute: "Villages naga du Nagaland"
+    etats: ["Inde (Nagaland)"]
+    entite: "Territoires villageois et services publics des villages du Nagaland"
+    mecanisme: "institution_coutumiere"
+    annee: 1978
+    concept_local: ""
+    resume: >-
+      L'article 371A de la Constitution soumet à une résolution de l'Assemblée du Nagaland l'application des lois du Parlement sur le droit coutumier naga et sur la propriété et la cession des terres et de leurs ressources. La loi de 1978 sur les conseils de village et de zone forme les conseils selon la coutume, avec les chefs héréditaires (art. 4) ; ils rendent la justice coutumière (art. 14) et aucune terre ne peut être cédée sans leur accord (art. 15). Les règles de chasse et de conservation sont prises par résolution du conseil, au titre de ses pouvoirs coutumiers. La loi de 2002 sur la « communitisation » (transfert aux communautés) confie aux villages la gestion des écoles élémentaires, des centres de santé, de l'eau et de l'électricité : les comités d'éducation de village versent les salaires des enseignants selon la règle « pas de travail, pas de salaire ».
+    gouvernance: "Conseil de village choisi selon la coutume ; comité de développement de village qui reçoit les fonds publics (art. 12) ; comités de village pour l'école, la santé, l'eau et l'électricité (loi de 2002)."
+    effectivite: "Environ 97 % des forêts du Nagaland sont « non classées », possédées et gérées surtout par les communautés (Down To Earth, 2022). La communitisation couvrait 94 % des écoles élémentaires en 2004 (Kalpavriksh). TERI a recensé 407 aires conservées par des villages, sur plus de 1 700 km², sans notification de l'État (Mongabay India, 2020)."
+    textes:
+      - {titre: "Constitution de l'Inde, art. 371A", nature: "constitution", annee: 1962, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+      - {titre: "Nagaland Village and Area Councils Act 1978, art. 4, 12, 14 et 15", nature: "loi", annee: 1978, source: "https://www.indiacode.nic.in/bitstream/123456789/11037/1/the_nagaland_village_area_and_area_councils_act_1979.pdf"}
+      - {titre: "Nagaland Communitisation of Public Institutions and Services Act 2002", nature: "loi", annee: 2002, source: "https://vikalpsangam.org/wp-content/uploads/migrate/Resources/nagaland_communitisation_neema.pdf"}
+    sources:
+      - {titre: "Kalpavriksh / Vikalp Sangam — Communitisation in Nagaland", url: "https://vikalpsangam.org/wp-content/uploads/migrate/Resources/nagaland_communitisation_neema.pdf"}
+      - {titre: "Down To Earth — Community reserves: forest department's backdoor entry into North East India? (2022)", url: "https://www.downtoearth.org.in/forests/community-reserves-are-they-forest-department-s-backdoor-entry-into-north-east-india-85242"}
+      - {titre: "Mongabay India — A community in Nagaland strives to sustain wildlife protection (octobre 2020)", url: "https://india.mongabay.com/2020/10/a-community-in-nagaland-strives-to-sustain-wildlife-protection-amid-fresh-challenges/"}
+
+  - id: "sendenyu"
+    atlas_uid: "naga-nagaland"
+    communaute: "Rengma de Sendenyu"
+    etats: ["Inde (Nagaland)"]
+    entite: "Aire de conservation villageoise de Sendenyu, 18 km²"
+    mecanisme: "institution_coutumiere"
+    annee: 2001
+    concept_local: ""
+    resume: >-
+      En 2001, le village rengma de Sendenyu adopte sa propre loi, le « Sendenyu Village Council Act for Nature Conservation ». Les propriétaires cèdent 18 km² à l'aire protégée. Qui décide : selon le président du comité de conservation, « every decision for conservation acts/rules is taken by the Sendenyu people's general public meeting » (toute règle est adoptée par l'assemblée générale des habitants). Règles : un comité de conservation et une force de protection bénévole font respecter la loi villageoise. Sanctions : les sources ouvertes ne les décrivent pas. Sendenyu n'est pas une réserve communautaire au sens de la loi sur la faune : il n'apparaît pas dans la liste de février 2025.
+    gouvernance: "Assemblée générale du village, comité de conservation, force de protection bénévole ; aucun représentant de l'État."
+    effectivite: "En 2020, le village signale des dégâts de cerfs aux cultures sans indemnisation (seuls ceux des éléphants sont indemnisés) et la perte du revenu de la viande de chasse ; le comité envisage la notification comme réserve communautaire pour obtenir des fonds (Mongabay India)."
+    textes:
+      - {titre: "Sendenyu Village Council Act for Nature Conservation (loi villageoise)", nature: "coutume_reconnue", annee: 2001, source: "https://india.mongabay.com/2020/10/a-community-in-nagaland-strives-to-sustain-wildlife-protection-amid-fresh-challenges/"}
+    sources:
+      - {titre: "Mongabay India — A community in Nagaland strives to sustain wildlife protection amid fresh challenges (octobre 2020)", url: "https://india.mongabay.com/2020/10/a-community-in-nagaland-strives-to-sustain-wildlife-protection-amid-fresh-challenges/"}
+
+  - id: "pangti"
+    atlas_uid: "naga-nagaland"
+    communaute: "Lotha de Pangti"
+    etats: ["Inde (Nagaland)"]
+    entite: "Territoire du village de Pangti, près du réservoir de Doyang (district de Wokha)"
+    mecanisme: "institution_coutumiere"
+    annee: 2013
+    concept_local: ""
+    resume: >-
+      En novembre 2012, 120 000 à 140 000 faucons de l'Amour sont capturés en dix jours près du réservoir de Doyang, selon des naturalistes. Le gouvernement de l'État menace de couper les fonds de développement du village. Qui décide : en 2013, le conseil de village de Pangti interdit la chasse au faucon « without consulting the broader community » (sans consulter l'ensemble des habitants). Règles : le village interdit ensuite les carabines à air comprimé et toute chasse six mois par an. Sanctions : les sources ouvertes ne les décrivent pas. Pangti n'est pas une réserve communautaire notifiée.
+    gouvernance: "Conseil de village coutumier, qui décide par résolution ; incitations des ONG et du département forestier."
+    effectivite: "Interdiction appliquée et étendue à d'autres espèces (The Conversation, 2024) ; attentes de développement (route, tourisme) non satisfaites (Current Conservation, 2024)."
+    textes:
+      - {titre: "Résolution du conseil de village de Pangti interdisant la chasse au faucon de l'Amour", nature: "coutume_reconnue", annee: 2013, source: "https://www.currentconservation.org/the-path-to-community-led-conservation-the-amur-falcon-story/"}
+    sources:
+      - {titre: "The Conversation — An Indian village went from hunting Amur falcons to being their biggest protectors (2024)", url: "https://theconversation.com/an-indian-village-went-from-hunting-amur-falcons-to-being-their-biggest-protectors-heres-how-conservationists-can-harness-the-power-of-persuasion-239856"}
+      - {titre: "Current Conservation — The path to community-led conservation: the Amur falcon story (16 décembre 2024)", url: "https://www.currentconservation.org/the-path-to-community-led-conservation-the-amur-falcon-story/"}
+
+  - id: "dorbar-shnong"
+    atlas_uid: "khasi-khasi-hills"
+    communaute: "Villages khasi"
+    etats: ["Inde (Meghalaya)"]
+    entite: "Villages des Khasi Hills"
+    mecanisme: "institution_coutumiere"
+    annee: 2014
+    concept_local: "dorbar shnong ; rangbah shnong"
+    resume: >-
+      La dorbar shnong est l'assemblée de village khasi, présidée par le chef de village (rangbah shnong). Elle n'avait pas de statut légal avant la création de l'État du Meghalaya. Le conseil de district autonome des Khasi Hills a adopté le 1er juillet 2014 un projet de loi sur l'administration des villages, toujours en attente d'assentiment, puis une loi de 2021 sur les conseils de développement de village et de ville. Le 10 décembre 2014, la Haute Cour du Meghalaya a jugé que l'administration ne devait plus exiger de certificat du chef de village.
+    gouvernance: "Assemblée de village et chef de village selon la coutume, sous le conseil de district autonome des Khasi Hills (Sixième annexe)."
+    effectivite: "Le syndicat des chefs de village a refusé d'appliquer l'arrêt de 2014 (Oh Meghalaya) ; en 2024, le rôle de la dorbar shnong fait l'objet d'un débat de réforme (The Shillong Times)."
+    textes:
+      - {titre: "Haute Cour du Meghalaya, arrêt du 10 décembre 2014 sur les certificats des chefs de village", nature: "jurisprudence", annee: 2014, source: "https://ohmeghalaya.com/headmen-decides-to-defy-court-order/"}
+    sources:
+      - {titre: "The Shillong Times — Reforming and streamlining the role of the Dorbar Shnong (12 novembre 2024)", url: "https://theshillongtimes.com/2024/11/12/reforming-and-streamlining-the-role-of-the-dorbar-shnong/"}
+      - {titre: "Oh Meghalaya — Headmen decide to defy court order", url: "https://ohmeghalaya.com/headmen-decides-to-defy-court-order/"}
+
+  - id: "kebang-arunachal"
+    atlas_uid: "autorites-villageoises-arunachal"
+    communaute: "Adi et autres peuples de l'Arunachal Pradesh"
+    etats: ["Inde (Arunachal Pradesh)"]
+    entite: "Villages de l'Arunachal Pradesh (5 589 villages)"
+    mecanisme: "institution_coutumiere"
+    annee: 2021
+    concept_local: "kebang"
+    resume: >-
+      Le règlement de 1945 sur l'administration de la justice dans la frontière de l'Assam reconnaît les autorités villageoises (art. 5) et leur permet de juger vols, coups et intrusions et d'infliger des amendes (art. 19-20). La loi de 2021 sur les tribunaux civils de l'Arunachal Pradesh fait du tribunal coutumier, le tribunal du conseil traditionnel du village « quel que soit son nom », un degré de juridiction (art. 2 (d) et 3 (e)). Les autorités villageoises jugent tous les procès civils entre autochtones de l'État, sans limite de valeur (art. 27). Depuis l'amendement de 2023, elles comprennent les conseils traditionnels de village, les conseils inter-villages et les conseils coutumiers supérieurs, comme le kebang des Adi.
+    gouvernance: "Conseils traditionnels de village et conseils coutumiers ; le préfet de district peut en désigner les membres (règlement de 1945, art. 5)."
+    effectivite: "Inconnue : aucune source ouverte ne chiffre les affaires jugées par les tribunaux coutumiers depuis 2021."
+    textes:
+      - {titre: "Assam Frontier (Administration of Justice) Regulation 1945, art. 5, 19, 20 et 40", nature: "reglement", annee: 1945, source: "https://www.ijcrt.org/papers/IJCRT2602272.pdf"}
+      - {titre: "Arunachal Pradesh Civil Courts Act 2021 (loi n° 4 de 2021)", nature: "loi", annee: 2021, source: "https://prsindia.org/files/bills_acts/acts_states/arunachal-pradesh/2021/ActNo-4of2021ArunachalPradesh.pdf"}
+    sources:
+      - {titre: "PRS India — Arunachal Pradesh Civil Courts Act 2021", url: "https://prsindia.org/files/bills_acts/acts_states/arunachal-pradesh/2021/ActNo-4of2021ArunachalPradesh.pdf"}
+      - {titre: "IJCRT — étude sur les autorités villageoises de l'Arunachal Pradesh (2026)", url: "https://www.ijcrt.org/papers/IJCRT2602272.pdf"}
+      - {titre: "Gouvernement de l'Arunachal Pradesh — Arunachal Pradesh at a Glance 2021", url: "https://ecostatistics.arunachal.gov.in/vali_admin/images/state_publication/508535Arunachal%20Pradesh%20at%20a%20Glance%202021.pdf"}
+
+  - id: "comites-biodiversite"
+    atlas_uid: ""
+    communaute: "Comités de gestion de la biodiversité des collectivités locales"
+    etats: ["Inde"]
+    entite: "Territoires des collectivités locales élues (panchayats et municipalités)"
+    mecanisme: "gouvernance_biodiversite"
+    annee: 2002
+    concept_local: ""
+    resume: >-
+      La loi de 2002 sur la diversité biologique (art. 41) impose à chaque collectivité locale élue de constituer un comité de gestion de la biodiversité (Biodiversity Management Committee, BMC). Le comité tient un registre de la biodiversité des peuples (People's Biodiversity Register), qui recense les ressources et les savoirs locaux ; il peut percevoir des droits de collecte et doit être consulté par l'Autorité nationale de la biodiversité avant toute autorisation d'accès. Le comité est désigné par le panchayat ou la municipalité, non par une communauté définie par l'appartenance. Les comités ont été créés en masse après une ordonnance du Tribunal vert national d'avril 2019.
+    gouvernance: "Comité désigné par la collectivité locale élue ; Autorité nationale et conseils de la biodiversité des États pour les autorisations d'accès."
+    effectivite: "Plus de 276 653 comités et environ 272 648 registres en juin 2026 ; environ 145 crore roupies (1,45 milliard) versés au titre du partage des avantages de 2017 à 2026, à environ 11 000 comités, soit moins de 5 % (PIB, 5 juin 2026)."
+    textes:
+      - {titre: "Biological Diversity Act 2002, art. 41 (modifié en 2023)", nature: "loi", annee: 2002, source: "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jun/doc202665883601.pdf"}
+    sources:
+      - {titre: "Press Information Bureau — document du 5 juin 2026 sur la biodiversité", url: "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/jun/doc202665883601.pdf"}
+      - {titre: "Down To Earth — Most biodiversity panels now in place (janvier 2020)", url: "https://www.downtoearth.org.in/india/most-biodiversity-panels-now-in-place-national-biodiversity-authority-to-tell-ngt-69334"}
+
+synthese: >-
+  La réponse dépend moins du nom du régime que de l'institution qui l'exerce. L'autogestion réelle, où la communauté fixe les règles, les fait respecter et sanctionne, se trouve là où une institution du village existait avant la loi et garde la terre : conseils de village du Nagaland, appuyés sur l'article 371A et la propriété coutumière de la plupart des forêts (Khonoma, Sendenyu, et Pangti où le conseil a agi sous la menace d'une coupure des fonds de l'État) ; assemblées de village du district de Gadchiroli au Maharashtra, qui vendent elles-mêmes bambou et feuilles de tendu au titre des droits forestiers communautaires ; tribunaux coutumiers de l'Arunachal Pradesh pour la justice civile ; dorbar shnong des Khasi, qui fonctionnent sans loi propre. Dans ces cas, l'État garde l'expropriation, l'interdiction nationale de la chasse et le contrôle des registres fonciers, comme le montre Mendha-Lekha.
+
+
+  La cogestion est la règle dans les autres cas. Les réserves communautaires en sont le type : la loi donne au comité local la majorité et le plan de gestion, mais l'État déclare la réserve, fixe le comité, approuve tout changement d'usage du sol et ne prévoit aucune sortie. Leur fonctionnement varie selon l'État : au Nagaland, la réserve ajoute un agent forestier et des fonds fédéraux à une gestion villageoise antérieure ; au Meghalaya, les comités sont issus des institutions khasi avec un forestier comme secrétaire ; au Punjab, les cinq villages de Keshopur gardent la terre et attribuent les baux ; au Kerala, le comité de Kadalundi n'avait ni plan approuvé ni soutien local en 2012 ; au Haryana, les comités de Fatehabad sont présidés par l'administration et limités au conseil, ce qui en fait une gestion d'État sous le nom de réserve communautaire. Les Van Panchayats de l'Uttarakhand, les conseils de Leh et de Kargil et les habitats coutumiers reconnus en Odisha, au Chhattisgarh et au Madhya Pradesh relèvent aussi de la cogestion : la communauté fixe les règles d'usage, l'administration approuve les plans, les ventes ou les budgets. La gestion d'État domine dans la gestion conjointe des forêts, dans les comités de biodiversité créés par les collectivités élues et dans les permis d'entrée de la ligne intérieure. Les lois foncières du Jharkhand et d'Andhra Pradesh empêchent la perte des terres sans donner à la communauté le pouvoir de décider de leur usage ; au Manipur, les conseils des collines n'ont plus d'élus depuis 2020.
+
+limites:
+  - "Réserves communautaires de l'Arunachal Pradesh (9), du Manipur (15), du Bihar et du Karnataka : aucune source sur le fonctionnement des comités n'a été trouvée."
+  - "Les sanctions appliquées dans les réserves du Meghalaya, de Keshopur, de Kadalundi et de Fatehabad ne sont décrites dans aucune source ouverte ; seules celles de Khonoma sont documentées."
+  - "Les directives du ministère de l'Environnement sur la création des réserves communautaires (procédure, protocole d'accord type) et le montant versé par réserve au titre du programme « Integrated Development of Wildlife Habitats » n'ont pas été trouvés."
+  - "Le lien entre la réserve « Khonoma » de 2018 (2,65 km²) et le sanctuaire villageois de 1998 n'est établi par aucune source ; la résolution de l'Assemblée du Nagaland adoptant la loi de 1972 sur la faune n'a pas été consultée."
+  - "Textes non ouverts : texte intégral de la loi CNT de 1908 et des règles PESA du Jharkhand de 2026, règlement de 1873 sur la ligne intérieure, règles des Van Panchayats de 2005 et 2012, article 41 de la loi de 2002 sur la diversité biologique ; les cas s'appuient sur des analyses secondaires citées."
+  - "Aucun chiffre officiel récent sur la gestion conjointe des forêts n'a été trouvé ; le dernier chiffre fiable date de 2002."
+  - "Hors champ : conseils de district autonomes de la Sixième annexe, Bodoland, Sikkim et Mizoram, traités dans leurs fiches."
+
+candidats_atlas:
+  - "Forêts de village des Garo Hills (Meghalaya) : 40 forêts notifiées par le conseil de district autonome des Garo Hills sur 6 753 ha de terres de clan, gérées par les nokma (Wildlife Trust of India, décembre 2025) ; à rattacher à garo-garo-hills ou à décrire dans une fiche propre."
+  - "Assemblées de village du district de Gadchiroli (Maharashtra) : 1 171 villages sur 1 292 vendent eux-mêmes leurs feuilles de tendu ; candidates à une fiche de district à côté de mendha-lekha."
+  - "Ho du Kolhan (Jharkhand) : système manki-munda reconnu par les règles PESA de 2026, qualifié de coutume par la Haute Cour de Patna en 2000 ; à vérifier au regard du critère d'autonomie du cadre."
+
+tableau:
+  titre: "Les réserves communautaires notifiées"
+  fichier: "reserves-communautaires-inde.csv"
+  note: >-
+    Le total officiel, 309 réserves pour 8 464,13 km², vient de la liste du Wildlife Institute of India (base ENVIS) arrêtée en février 2025 ; le tableau en reprend les 308 réserves distinctes et ajoute trois notifications parues dans la presse en octobre 2024 et en février 2025. Pour 65 réserves du Meghalaya, cette liste donne des surfaces exactement 100 fois supérieures à celles de juillet 2023, soit des hectares étiquetés en km², ce que confirme une étude de 2023 : le tableau garde la valeur de 2023, laisse vide la surface de 11 réserves plus récentes, et le total officiel est surévalué.

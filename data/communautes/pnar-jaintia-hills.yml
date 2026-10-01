@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 395124, annee: 2011, perimetre: "population totale des districts de West et East Jaintia Hills, toutes communautés", source: "https://meghalaya.gov.in/index.php/districts"}
 lieux: {valeur: 2, unite: "districts", annee: 2022, source: "https://meghalaya.gov.in/index.php/districts"}
 surface_km2: {valeur: 3819, annee: 2022, perimetre: "somme des superficies des districts de West et East Jaintia Hills", source: "https://meghalaya.gov.in/index.php/districts"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Pnar, aussi appelés Jaintia, vivent à l'est du Meghalaya. Le Jaintia Hills Autonomous District Council, issu en 1967 de la division du conseil créé en 1952 en application de la Sixième annexe de la Constitution, couvre deux districts. Il légifère sur les terres, les forêts non classées, les chefs et les coutumes, et fait fonctionner des tribunaux coutumiers. Ses recettes proviennent surtout de sa part des redevances minières.
 reconnaissance_regionale: []

@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 36858, annee: 2021, perimetre: "population du territoire, toutes origines (recensement du Canada)", source: "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/data/STC_CP,DF_PR/A5.2021A000262.1.1+7.1?format=csv"}
 lieux: {valeur: 25, unite: "municipalités (24 hameaux et 1 ville)", annee: 2021, source: "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/codelist/STC_CP/CL_GEO_CSD"}
 surface_km2: {valeur: 1836993.78, annee: 2021, perimetre: "superficie terrestre du territoire", source: "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/data/STC_CP,DF_PR/A5.2021A000262.1.1+7.1?format=csv"}
+villages: {valeur: 25, annee: 2021, perimetre: "communautés (municipalités : 24 hameaux et 1 ville, recensement 2021)", source: "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/codelist/STC_CP/CL_GEO_CSD"}
 resume: >-
   Les Inuit de la région du Nunavut ont signé en 1993 avec le Canada un accord sur les revendications territoriales (règlement négocié des droits fonciers ancestraux), protégé par l'article 35 de la Loi constitutionnelle de 1982. L'accord a conduit à la création du territoire du Nunavut le 1er avril 1999, doté d'un gouvernement public élu par tous les résidents. Les droits propres aux Inuit (terres, redevances, faune) sont gérés par Nunavut Tunngavik Incorporated.
 reconnaissance_onu:

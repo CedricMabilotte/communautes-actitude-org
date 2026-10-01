@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1300, annee: 2018, perimetre: "estimation du nombre total de Hadza", source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/securing-hadza-land-titles-securing-futures-tanzania"}
 lieux: {valeur: 12, unite: "titres fonciers communautaires (certificats de droit coutumier d'occupation), dont certains délivrés à des groupes datoga voisins", annee: 2016, source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/securing-hadza-land-titles-securing-futures-tanzania"}
 surface_km2: {valeur: 809, annee: 2018, perimetre: "plus de 200 000 acres couverts par les 8 certificats collectifs de droit coutumier d'occupation obtenus depuis 2011 (conversion de l'unité)", source: "https://www.culturalsurvival.org/publications/cultural-survival-quarterly/securing-hadza-land-titles-securing-futures-tanzania"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Hadza sont un peuple de chasseurs-cueilleurs du nord de la Tanzanie, dans la vallée de Yaeda et autour du lac Eyasi.
   Aucun texte tanzanien trouvé ne reconnaît de peuples autochtones ; la loi de 1999 sur les terres villageoises permet de délivrer des certificats de droit coutumier d'occupation (titres fonciers fondés sur la coutume) à des groupes reconnus par le droit coutumier.

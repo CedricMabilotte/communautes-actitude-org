@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 78, unite: "conseils de village", annee: null, source: "https://siaha.nic.in/about-district/"}
 surface_km2: {valeur: 1966, annee: null, perimetre: "district de Siaha, entièrement placé sous le conseil mara", source: "https://siaha.nic.in/about-district/"}
+villages: {valeur: 71, annee: null, perimetre: "villages des blocs de Saiha et de Tuipang, sous le conseil autonome mara (site du conseil, non daté)", source: "https://madc.mizoram.gov.in/page/siaha-district"}
 resume: >-
   Les Mara, appelés Lakher dans l'administration coloniale, vivent à l'extrême sud du Mizoram. Le Mara Autonomous District Council est issu de la division du conseil régional Pawi-Lakher en 1972 et figure à la Partie III de la Table de la Sixième annexe de la Constitution. Son territoire correspond au district de Siaha. Les lois de l'État du Mizoram sur les matières du conseil ne s'y appliquent que sur décision de celui-ci.
 reconnaissance_regionale: []
@@ -30,7 +31,7 @@ droits:
   education: {valeur: "partiel", note: "Le conseil peut créer et gérer des écoles primaires et fixer la langue et les modalités de l'enseignement primaire, avec l'accord préalable du gouverneur, Sixième annexe, paragraphe 6 (1).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   fiscalite: {valeur: "partiel", note: "Fonds de district propre, paragraphe 7 ; perception de l'impôt foncier et de taxes sur les terres et bâtiments, les professions, les animaux, les véhicules et les marchés, paragraphe 8 ; réglementation des prêts d'argent et du commerce des personnes n'appartenant pas aux tribus répertoriées, paragraphe 10, Sixième annexe.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "reconnu", note: "Compétence législative sur l'héritage, le mariage, le divorce et les coutumes sociales, Sixième annexe, paragraphe 3 (1) (h) à (j).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  statut_personnel: {valeur: "reconnu", note: "Compétence législative sur l'héritage, le mariage, le divorce et les coutumes sociales, Sixième annexe, paragraphe 3 (1) (h) à (j). Le Mizoram applique sur tout son territoire le permis d'entrée des non-résidents (Inner Line Permit), Bengal Eastern Frontier Regulation de 1873, art. 2.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "effective", note: "Élection du conseil le 5 mai 2022 (25 sièges élus, aucune majorité absolue).", source: "https://www.eastmojo.com/news/2022/05/09/mizoram-mara-autonomous-council-elections-results-in-hung-house/"}
 chronologie:
@@ -38,10 +39,12 @@ chronologie:
   - {annee: 1988, evenement: "Le conseil prend le nom de Mara."}
   - {annee: 2022, evenement: "Élection du conseil le 5 mai."}
 fiabilite:
-  verifie: ["Le district de Siaha relève en entier du conseil ; superficie et nombre de conseils de village (site du district).", "Partie III de la Table, modifiée en 1988 (édition officielle de la Constitution).", "Élection de 2022 (EastMojo)."]
+  verifie: ["Le district de Siaha relève en entier du conseil ; superficie et nombre de conseils de village (site du district).", "Partie III de la Table, modifiée en 1988 (édition officielle de la Constitution).", "Élection de 2022 (EastMojo).", "Régime de l'Inner Line Permit : art. 2 et 7 du règlement de 1873 (copie Indian Kanoon) et réponse du ministère de l'Intérieur au Rajya Sabha (2013)."]
   non_confirme: ["Superficie : 1 966 km² selon la page « About district », 1 399,9 km² selon la page « History » du même site, 1 445 km² selon Wikipédia.", "Population : seul le chiffre de 2001 (61 056) figure sur la page consultée.", "Élection suivante (prévue en 2027) : non vérifiée."]
 sources:
   - {titre: "Constitution de l'Inde (édition au 1er mai 2024) — Ministère du Droit et de la Justice", url: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
   - {titre: "District de Siaha — About district", url: "https://siaha.nic.in/about-district/"}
   - {titre: "EastMojo, élection du MADC (9 mai 2022)", url: "https://www.eastmojo.com/news/2022/05/09/mizoram-mara-autonomous-council-elections-results-in-hung-house/"}
+  - {titre: "Bengal Eastern Frontier Regulation, 1873 (texte) — Indian Kanoon", url: "https://indiankanoon.org/doc/32142694/"}
+  - {titre: "Ministère de l'Intérieur, réponse au Rajya Sabha n° 393 sur l'Inner Line Permit (27 février 2013)", url: "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2013-pdfs/rs-270213/393.pdf"}

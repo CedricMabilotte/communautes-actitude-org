@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 243176, annee: 2018, perimetre: "personnes s'identifiant comme Nasa en Colombie (recensement national CNPV 2018)", source: "https://www.dane.gov.co/files/investigaciones/boletines/grupos-etnicos/presentacion-grupos-etnicos-2019.pdf"}
 lieux: {valeur: 56, unite: "resguardos nasa des zones du CRIC (Cauca)", annee: 2020, source: "https://www.minjusticia.gov.co/programas-co/fortalecimiento-etnico/Documents/Documentos/VF%20CARACTERIZACIO%CC%81N%20DE%20JUSTICIA%20CRIC.pdf"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Nasa vivent dans des resguardos (territoires indigènes en propriété collective) de plusieurs zones du Cauca (Tierradentro, nord, ouest), dans le sud-ouest de la Colombie. Le Conseil régional indigène du Cauca (CRIC) est fondé le 24 février 1971 à Toribío par cinq cabildos (conseils de communauté) et cinq resguardos. La Constitution de 1991 reconnaît les resguardos, les conseils indigènes et une juridiction spéciale indigène. Le décret-loi 1953 de 2014 permet aux territoires indigènes d'administrer directement des ressources publiques et un système éducatif propre.
 reconnaissance_onu:

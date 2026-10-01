@@ -1,0 +1,55 @@
+uid: "droits-habitat-pvtg-inde"
+nom: "Groupes tribaux particulièrement vulnérables titulaires de droits d'habitat"
+endonyme: ""
+territoire: "Habitats coutumiers reconnus en Odisha, au Chhattisgarh, au Madhya Pradesh et au Maharashtra"
+etats: ["Inde"]
+region: "asie"
+coord: [21.5, 82.5]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 10, unite: "reconnaissances de droits d'habitat, par groupe et par État (Odisha 6, Chhattisgarh 2, Madhya Pradesh 1, Maharashtra 1) ; la reconnaissance des Bharia (2022) n'y figure pas", annee: 2024, source: "https://www.downtoearth.org.in/forests/fra-implementation-mankidia-community-becomes-6th-pvtg-to-get-habitat-rights-over-forests-in-odisha"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les groupes tribaux particulièrement vulnérables (Particularly Vulnerable Tribal Groups, 75 groupes dans 18 États et un territoire) dont le territoire coutumier a été reconnu au titre de l'article 3 (1) (e) de la loi de 2006 sur les droits forestiers. Ce droit d'« habitat » couvre l'usage et la protection d'un territoire : pratiques religieuses, sites sacrés, collecte, culture, déplacements saisonniers. Les Baiga du Madhya Pradesh l'ont obtenu les premiers en 2015, sur sept villages et 9 300 ha ; ont suivi les Bharia (2022), les Kamar et les Baiga du Chhattisgarh (2023) et six groupes d'Odisha (2024).
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/IND/CO/19, § 10 (reconnaître les peuples tribaux comme groupes distincts) et § 19 (respect de la propriété collective des terres occupées traditionnellement)", annee: 2007, source: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+base_nationale:
+  - {instrument: "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, art. 2 (h) et 3 (1) (e)", nature: "loi", annee: 2006, source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les titulaires, l'assemblée de village (gram sabha) et les institutions villageoises veillent à protéger l'habitat de toute pratique destructrice, loi de 2006, art. 5 (c) ; les demandes de droits d'habitat sont portées par les institutions traditionnelles du groupe (Mongabay India, 2025).", source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Droit aux « tenures communautaires d'habitat et d'habitation » des « groupes tribaux primitifs et communautés pré-agricoles », loi de 2006, art. 3 (1) (e) ; l'habitat comprend l'habitat coutumier en forêt classée ou protégée, art. 2 (h) ; droits héréditaires, inaliénables et incessibles, art. 4 (4) ; pas de propriété du sol.", source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  ressources: {valeur: "partiel", note: "Collecte, pêche, culture et accès aux terres de déplacement saisonnier dans l'habitat reconnu ; la chasse reste interdite par la loi sur la faune.", source: "http://india.mongabay.com/2025/01/explainer-what-are-habitat-rights-under-the-forest-rights-act-and-why-are-they-being-discussed-now/"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Une dizaine de groupes sur 75 ont un habitat reconnu en 2024 ; procédure jugée floue, terme « habitat » parfois traduit par « maison », recouvrements avec des mines et des aires protégées.", source: "http://india.mongabay.com/2025/01/explainer-what-are-habitat-rights-under-the-forest-rights-act-and-why-are-they-being-discussed-now/"}
+chronologie:
+  - {annee: 2006, evenement: "Loi sur les droits forestiers, art. 3 (1) (e)."}
+  - {annee: 2014, evenement: "Étude du ministère des Affaires tribales et de l'ONG Vasundhara sur la notion d'habitat des PVTG."}
+  - {annee: 2015, evenement: "Premiers titres : Baiga de Baiga Chak (Dindori, Madhya Pradesh), sept villages, 9 300 ha."}
+  - {annee: 2022, evenement: "Bharia de Patalkot (Chhindwara, Madhya Pradesh), 12 villages, 9 276 ha."}
+  - {annee: 2023, evenement: "Kamar (22 villages, Dhamtari) en août et Baiga (19 villages, 6 483 habitants) en octobre au Chhattisgarh."}
+  - {annee: 2024, evenement: "Paudi Bhuyan (32 villages) puis cinq autres groupes en Odisha, dont les Mankidia le 22 septembre."}
+fiabilite:
+  verifie: ["Articles 2 (h), 3 (1) (e), 4 (4) et 5 de la loi de 2006 (texte publié par PRS).", "Baiga du Madhya Pradesh, 2015 (Down To Earth).", "Bharia, 2022 (ETV Bharat).", "Kamar et Baiga du Chhattisgarh, 2023 (Down To Earth).", "Groupes d'Odisha, 2024 (Down To Earth, The Statesman).", "75 PVTG dans 18 États et un territoire (Press Information Bureau, 15 novembre 2023)."]
+  non_confirme: ["Aucun décompte officiel national des droits d'habitat n'a été trouvé.", "Surface totale et nombre total de villages : non publiés ; seuls cinq cas sont chiffrés (92 villages au total pour ces cinq cas).", "Reconnaissance des Maria Gond au Maharashtra : date et étendue non vérifiées.", "Lignes directrices nationales propres aux droits d'habitat : non trouvées ; Mongabay India (2025) relève l'absence de directives adaptées aux pratiques des groupes."]
+sources:
+  - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+  - {titre: "Forest Rights Act, 2006 — texte (PRS Legislative Research)", url: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  - {titre: "Down To Earth, Baigas get home (2015)", url: "https://www.downtoearth.org.in/governance/baigas-get-home-52666"}
+  - {titre: "ETV Bharat, droits d'habitat des Bharia (29 novembre 2022)", url: "https://www.etvbharat.com/english/bharat/mp-government-accords-habitat-rights-to-bharia-tribal-community/na20221129173620867867380"}
+  - {titre: "Down To Earth, droits d'habitat des Baiga du Chhattisgarh (20 octobre 2023)", url: "https://www.downtoearth.org.in/governance/how-chhattisgarh-s-baiga-tribe-secured-habitat-ownership-in-the-face-of-eviction-threats-92421"}
+  - {titre: "Down To Earth, les Mankidia, sixième PVTG d'Odisha (24 septembre 2024)", url: "https://www.downtoearth.org.in/forests/fra-implementation-mankidia-community-becomes-6th-pvtg-to-get-habitat-rights-over-forests-in-odisha"}
+  - {titre: "The Statesman, droits d'habitat des Paudi Bhuyan (mars 2024)", url: "https://www.thestatesman.com/cities/odishas-paudi-bhuyan-community-gets-habitat-rights-under-fra-1503280117.html"}
+  - {titre: "Mongabay India, What are habitat rights? (13 janvier 2025)", url: "http://india.mongabay.com/2025/01/explainer-what-are-habitat-rights-under-the-forest-rights-act-and-why-are-they-being-discussed-now/"}
+  - {titre: "Press Information Bureau, PM-JANMAN (15 novembre 2023)", url: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2036831"}

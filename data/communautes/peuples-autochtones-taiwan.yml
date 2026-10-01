@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 611674, annee: 2024, perimetre: "membres des 16 peuples autochtones reconnus", source: "https://iwgia.org/en/taiwan/5676-iw-2025-taiwan.html"}
 lieux: {valeur: 55, unite: "districts et cantons autochtones (30 de montagne, 25 de plaine)", annee: 2017, source: "https://www.loc.gov/item/global-legal-monitor/2017-06-21/taiwan-new-indigenous-languages-act/"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 739, annee: 2026, perimetre: "部落 (communautés-villages autochtones) dont le Conseil des peuples autochtones a approuvé la délimitation et l'a publiée au journal officiel, liste mise à jour le 2 septembre 2026 (12 villes et comtés)", source: "https://www.cip.gov.tw/zh-tw/news/data-list/7CDD0E527E32B424/47DCC78D5EC386CD96EC7EA4291B1657-info.html"}
 resume: >-
   Taïwan reconnaît 16 peuples autochtones, dont les Amis, Atayal, Paiwan, Bunun et Truku. La loi fondamentale sur les peuples autochtones, promulguée le 5 février 2005 et modifiée en 2015, reconnaît leurs droits sur les terres et les ressources et impose leur consentement préalable pour les projets qui les concernent. Les articles additionnels à la Constitution réservent six sièges du Yuan législatif (parlement) aux autochtones. Taïwan n'étant pas membre de l'ONU, la reconnaissance est nationale.
 reconnaissance_regionale: []

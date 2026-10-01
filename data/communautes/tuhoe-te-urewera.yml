@@ -11,6 +11,7 @@ base: "territoriale"
 population: {valeur: 34887, annee: 2013, perimetre: "personnes déclarant une affiliation à Tūhoe au recensement", source: "https://www.tkm.govt.nz/iwi/tuhoe/"}
 lieux: {valeur: 43, unite: "marae (lieux de rassemblement) recensés dans l'annuaire officiel des iwi", annee: 2026, source: "https://www.tkm.govt.nz/iwi/tuhoe/"}
 surface_km2: {valeur: 2127, annee: 2014, perimetre: "Te Urewera, ancien parc national devenu personne juridique ; le rohe (territoire) de Tūhoe est plus étendu", source: "https://www.britannica.com/place/Urewera-National-Park"}
+villages: {valeur: 43, annee: 2026, perimetre: "marae (lieux de rassemblement) de Tūhoe recensés dans l'annuaire officiel des iwi ; ce ne sont pas des villages", source: "https://www.tkm.govt.nz/iwi/tuhoe/"}
 resume: >-
   Iwi (peuple māori) de Te Urewera, région de forêts et de collines de l'est de l'île du Nord. Le Tūhoe Claims Settlement Act 2014 contient les excuses de la Couronne, qui reconnaît avoir porté atteinte au mana motuhake (autorité autonome) de Tūhoe. Le Te Urewera Act 2014 retire Te Urewera de la propriété de la Couronne et du statut de parc national et en fait une entité juridique, gouvernée par un conseil dont Tūhoe Te Uru Taumatua nomme la majorité des membres après les trois premières années.
 reconnaissance_regionale: []

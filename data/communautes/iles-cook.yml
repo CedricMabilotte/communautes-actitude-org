@@ -11,6 +11,7 @@ types_secondaires: ["peuple_autochtone"]
 population: {valeur: 15040, annee: 2021, perimetre: "population totale recensée (population résidente : 14 987)", source: "https://stats.gov.ck/download/83/census-2021/1497/2021-census-report-with-tables-and-questionnaire.pdf"}
 lieux: {valeur: 15, unite: "îles", annee: 2021, source: "https://stats.gov.ck/download/83/census-2021/1497/2021-census-report-with-tables-and-questionnaire.pdf"}
 surface_km2: {valeur: 236.7, annee: 2021, perimetre: "terres émergées des 15 îles", source: "https://stats.gov.ck/download/83/census-2021/1497/2021-census-report-with-tables-and-questionnaire.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   État autonome en libre association avec la Nouvelle-Zélande depuis 1965, à l'issue d'un acte d'autodétermination supervisé par l'ONU. La Nouvelle-Zélande conserve des responsabilités pour les affaires extérieures et la défense, exercées après consultation du Premier ministre des Îles Cook ; les habitants conservent la citoyenneté néo-zélandaise. La Constitution reconnaît une Chambre des Ariki (chefs coutumiers) et la coutume comme source du droit.
 reconnaissance_onu:

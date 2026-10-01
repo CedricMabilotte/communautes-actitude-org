@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1403600, annee: 2020, perimetre: "Kadazan-Dusun (698 300), Bajau (592 400) et Murut (112 900) recensés en Malaisie ; les autres groupes autochtones du Sabah ne sont pas comptés", source: "https://www.dosm.gov.my/portal-main/release-content/key-findings-population-and-housing-census-of-malaysia-2020-administrative-district"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La Constitution fédérale de Malaisie protège la « position spéciale » des natifs du Sabah et du Sarawak (art. 161A). Au Sabah, des tribunaux autochtones à trois niveaux, composés de chefs autochtones, jugent les atteintes au droit coutumier entre natifs selon la loi de 1992. L'ordonnance foncière du Sabah définit les droits coutumiers autochtones, permet des titres communaux et des réserves autochtones et interdit les transactions foncières entre natifs et non-natifs sans autorisation.
 reconnaissance_regionale: []

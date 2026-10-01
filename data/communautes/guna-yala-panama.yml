@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 50734, annee: 2023, perimetre: "population estimée de la comarca au 1er juillet 2023 (INEC)", source: "https://www.inec.gob.pa/publicaciones/Default3.aspx?ID_PUBLICACION=1381&ID_CATEGORIA=17&ID_SUBCATEGORIA=45"}
 lieux: {valeur: 121, unite: "lieux habités (lugares poblados)", annee: 2023, source: "https://www.inec.gob.pa/publicaciones/Default3.aspx?ID_PUBLICACION=1381&ID_CATEGORIA=17&ID_SUBCATEGORIA=45"}
 surface_km2: {valeur: 2307.6, annee: 2023, perimetre: "superficie approximative de la comarca (INEC)", source: "https://www.inec.gob.pa/publicaciones/Default3.aspx?ID_PUBLICACION=1381&ID_CATEGORIA=17&ID_SUBCATEGORIA=45"}
+villages: {valeur: 121, annee: 2023, perimetre: "lieux habités (lugares poblados) de la comarca Guna Yala (INEC, division politico-administrative 2023)", source: "https://www.inec.gob.pa/publicaciones/Default3.aspx?ID_PUBLICACION=1381&ID_CATEGORIA=17&ID_SUBCATEGORIA=45"}
 resume: >-
   Les Guna vivent sur la côte caraïbe du Panama et dans l'archipel voisin. La comarca (division territoriale indigène à statut spécial) de San Blas est créée en 1938 et organisée par la loi 16 de 1953, qui reconnaît le Congrès général guna. La loi 99 de 1998 la renomme Kuna Yala. Le recensement de 2023 compte 112 319 personnes du peuple guna dans l'ensemble du pays, sans chiffre propre à la comarca dans les sources consultées.
 reconnaissance_onu:

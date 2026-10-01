@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 265000, annee: 2021, perimetre: "membres des 40 peuples autochtones peu nombreux du Nord, de la Sibérie et de l'Extrême-Orient, chiffre arrondi (plus de 315 000 pour les 47 peuples de la liste nationale), recensement de 2020-2021", source: "https://iwgia.org/en/russia/5758-iw-2025-russia.html"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La Constitution russe garantit les droits des peuples autochtones peu nombreux (art. 69). La loi fédérale 82-FZ de 1999 les définit comme des peuples de moins de 50 000 personnes vivant sur les territoires de leurs ancêtres et menant un mode de vie traditionnel ; la liste officielle compte 47 peuples, dont 40 du Nord, de la Sibérie et de l'Extrême-Orient. La loi leur donne l'usage gratuit des terres nécessaires à leurs activités traditionnelles, le droit de créer des communautés (obchtchinas) et un autogouvernement local, et la prise en compte de leurs coutumes par les tribunaux. Une loi de 2001 prévoit des territoires d'usage traditionnel de la nature ; aucun territoire de statut fédéral n'a été créé. Fiche agrégée couvrant l'ensemble des peuples de la liste.
 reconnaissance_regionale:

@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1900000, annee: 2026, perimetre: "Amérindiens et Autochtones de l'Alaska desservis par les Affaires indiennes (directement ou par contrats et compacts), chiffre arrondi", source: "https://www.bia.gov/about-us"}
 lieux: {valeur: 575, unite: "nations tribales et villages autochtones reconnus par l'État fédéral", annee: 2026, source: "https://www.bia.gov/frequently-asked-questions"}
 surface_km2: {valeur: 227434, annee: 2026, perimetre: "terres détenues en fiducie par les États-Unis pour les nations tribales et des individus (56,2 millions d'acres convertis en km²) ; environ 326 réserves", source: "https://www.bia.gov/frequently-asked-questions"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Fiche agrégée. Les États-Unis entretiennent une relation « de gouvernement à gouvernement » avec 575 nations amérindiennes et villages autochtones de l'Alaska inscrits sur une liste publiée par le secrétaire à l'Intérieur (25 U.S.C. 5131). Ces nations tribales conservent une souveraineté inhérente, limitée par le Congrès : gouvernement propre, tribunaux, fiscalité, définition de leurs membres. Les terres de réserve sont détenues en fiducie (trust) par l'État fédéral. Les Navajo, les Autochtones de l'Alaska et la Nation cherokee ont une fiche propre.
 reconnaissance_regionale: []

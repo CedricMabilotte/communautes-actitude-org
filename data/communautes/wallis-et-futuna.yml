@@ -11,6 +11,7 @@ base: "territoriale"
 population: {valeur: 11151, annee: 2023, perimetre: "population municipale de la collectivité (recensement Insee)", source: "https://www.insee.fr/fr/statistiques/7756937?sommaire=2121453"}
 lieux: {valeur: 36, unite: "villages (21 à Uvea, 9 à Alo, 6 à Sigave)", annee: 2023, source: "https://www.insee.fr/fr/statistiques/7756937?sommaire=2121453"}
 surface_km2: {valeur: 142, annee: 2020, perimetre: "superficie totale des îles (Wallis 77,9 km², Futuna 46,3 km², Alofi 17,8 km²)", source: "https://www.ieom.fr/IMG/pdf/rapport-annuel-economique-wallis-et-futuna-2020.pdf"}
+villages: {valeur: 36, annee: 2023, perimetre: "villages (21 à Uvea, 9 à Alo, 6 à Sigave) du recensement de 2023", source: "https://www.insee.fr/fr/statistiques/7756937?sommaire=2121453"}
 resume: >-
   Population des îles Wallis et Futuna, collectivité d'outre-mer française régie par la loi statutaire du 29 juillet 1961. La loi garantit le respect des croyances et des coutumes tant qu'elles ne sont pas contraires aux principes généraux du droit. Trois rois coutumiers (le Lavelua à Uvea, le Tuiagaifo à Alo, le Keletaona à Sigave) siègent au conseil territorial et président les conseils des trois circonscriptions, calquées sur les royaumes. La chefferie règle les questions foncières et les différends entre familles.
 reconnaissance_regionale: []

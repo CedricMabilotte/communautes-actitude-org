@@ -1,6 +1,6 @@
 # Cadre de catégorisation — communautes.actitude.org
 
-Version 2 — 2026-10-01 : le critère d'entrée s'ouvre aux reconnaissances nationales et régionales ; ajout des chiffres (lieux, surface, population). Version 1.1 — 2026-09-30 (libellés affichés, base territoriale/personnelle, force de la reconnaissance ONU, règle du degré). Ce cadre fixe ce qu'on range, comment on le range, et ce qu'on refuse de conclure.
+Version 2 — 2026-10-01 : le critère d'entrée s'ouvre aux reconnaissances nationales et régionales ; ajout des chiffres (lieux, villages, surface, population). Version 1.1 — 2026-09-30 (libellés affichés, base territoriale/personnelle, force de la reconnaissance ONU, règle du degré). Ce cadre fixe ce qu'on range, comment on le range, et ce qu'on refuse de conclure.
 
 ## 0. Critère d'entrée (périmètre) — v2
 
@@ -20,7 +20,7 @@ Cas limites assumés : un territoire non autonome inscrit à la liste de l'ONU e
 
 ## 0 bis. Chiffres
 
-`population` (avec `perimetre` : qui est compté), `lieux` (nombre et unité : communes, réserves, resguardos, villages, terres indigènes, conseils…), `surface_km2` (avec `perimetre`). Chaque chiffre porte son année et sa source ; sans source, `valeur: null`. Les chiffres ne se comparent pas entre fiches sans lire le périmètre.
+`population` (avec `perimetre` : qui est compté), `lieux` (nombre et unité : communes, réserves, resguardos, terres indigènes, conseils…), `villages` (nombre de villages ou de localités habitées dans la zone concernée, avec `perimetre`), `surface_km2` (avec `perimetre`). Chaque chiffre porte son année et sa source ; sans source, `valeur: null`. Les chiffres ne se comparent pas entre fiches sans lire le périmètre.
 
 ## 1. Types de communautés (`type`) — un seul type principal, `types_secondaires` possibles
 

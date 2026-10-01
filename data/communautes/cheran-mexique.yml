@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 20586, annee: 2020, perimetre: "population de la commune de Cherán (recensement INEGI 2020), localité de Tanaco comprise", source: "https://gaia.inegi.org.mx/wscatgeo/v2/mgem/16/024"}
 lieux: {valeur: 6, unite: "localités de la commune (INEGI)", annee: 2020, source: "https://gaia.inegi.org.mx/wscatgeo/v2/localidades/16/024"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 6, annee: 2020, perimetre: "localités de la commune de Cherán (INEGI), Tanaco compris", source: "https://gaia.inegi.org.mx/wscatgeo/v2/localidades/16/024"}
 resume: >-
   Cherán est une commune purépecha du Michoacán. Le 15 avril 2011, des habitantes affrontent des exploitants forestiers illégaux ; la communauté cesse de reconnaître le gouvernement municipal et exclut les partis politiques. Le 2 novembre 2011, le Tribunal électoral fédéral reconnaît son droit d'élire ses autorités selon ses usages et coutumes. Depuis janvier 2012, la commune est gouvernée par un Grand Conseil de gouvernement communal (Concejo Mayor de Gobierno Comunal).
 reconnaissance_onu:

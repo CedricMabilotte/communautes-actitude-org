@@ -11,6 +11,7 @@ base: "territoriale"
 population: {valeur: 2333, annee: 2021, perimetre: "population recensée de la zone APY, dont 2 064 Aborigènes ou insulaires du détroit de Torres (88,5 %)", source: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA40250"}
 lieux: {valeur: 20, unite: "communautés et homelands (environ)", annee: 2026, source: "https://www.landscape.sa.gov.au/aw/visiting/communities"}
 surface_km2: {valeur: 102650, annee: null, perimetre: "terres APY en pleine propriété inaliénable", source: "https://dit.sa.gov.au/__data/assets/pdf_file/0019/5185/9_ABORIGINAL_LANDS_88-93.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Peuples Pitjantjatjara et Yankunytjatjara (Anangu) du nord-ouest de l'Australie-Méridionale. L'Anangu Pitjantjatjara Yankunytjatjara Land Rights Act 1981, loi de l'État d'Australie-Méridionale entrée en vigueur le 2 octobre 1981, confère un titre de pleine propriété inaliénable sur plus de 100 000 km² à une personne morale, Anangu Pitjantjatjara Yankunytjatjara, dirigée par un conseil exécutif élu. Les non-Anangu doivent obtenir un permis pour entrer sur les terres, et les activités minières requièrent l'autorisation de l'APY.
 reconnaissance_regionale: []

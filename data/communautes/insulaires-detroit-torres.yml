@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 69848, annee: 2021, perimetre: "personnes recensées en Australie comme insulaires du détroit de Torrès seulement (33 765) ou à la fois aborigènes et insulaires (36 083)", source: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/IQSAUS"}
 lieux: {valeur: 19, unite: "communautés (17 îles habitées du détroit et 2 communautés de la Northern Peninsula Area)", annee: 2024, source: "https://www.tsra.gov.au/the-torres-strait/our-region/"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 19, annee: 2024, perimetre: "communautés (17 îles habitées du détroit et 2 communautés de la Northern Peninsula Area)", source: "https://www.tsra.gov.au/the-torres-strait/our-region/"}
 resume: >-
   Peuple autochtone des îles du détroit de Torrès, entre la péninsule du cap York et la Papouasie-Nouvelle-Guinée. La décision Mabo (No 2) de la Haute Cour d'Australie du 3 juin 1992, obtenue par Eddie Koiki Mabo, écarte la doctrine de la terra nullius (terre sans maître) et reconnaît un titre autochtone limité. La Torres Strait Regional Authority, autorité statutaire fédérale créée le 1er juillet 1994, dont tous les membres sont élus depuis 2012, a pour mission de reconnaître et maintenir l'Ailan Kastom (coutume insulaire). En 2022, le Comité des droits de l'homme de l'ONU constate que l'inaction climatique de l'Australie viole les droits d'insulaires à la vie culturelle de leur minorité.
 reconnaissance_onu:

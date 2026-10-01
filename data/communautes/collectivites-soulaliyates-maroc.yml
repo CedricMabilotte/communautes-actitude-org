@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 4725000, annee: 2024, perimetre: "membres recensés (2,625 millions d'hommes et 2,1 millions de femmes) dans 76 % des collectivités, recensement en cours", source: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}
 lieux: {valeur: 4908, unite: "collectivités soulaliyates", annee: 2024, source: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}
 surface_km2: {valeur: 156000, annee: 2024, perimetre: "environ 15,6 millions d'hectares de terres collectives (agriculture, forêt, parcours)", source: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les collectivités soulaliyates (ou « collectivités ethniques ») sont des groupements qui détiennent en commun des terres au Maroc, sous la tutelle du ministère de l'Intérieur.
   La loi n° 62-17 de 2019 fixe leur organisation : une assemblée de délégués élus répartit la jouissance des biens entre les membres, hommes et femmes, qui n'ont qu'un droit d'exploitation personnelle.

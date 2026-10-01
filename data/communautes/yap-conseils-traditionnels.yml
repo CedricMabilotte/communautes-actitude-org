@@ -11,6 +11,7 @@ base: "territoriale"
 population: {valeur: 11377, annee: 2010, perimetre: "Yap au recensement de 2010 (périmètre exact, État ou îles principales, non précisé par la source)", source: "https://www.britannica.com/place/Yap-Islands"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: 118.9, annee: null, perimetre: "terres émergées de l'État de Yap (lagons exclus : 1 049 km²)", source: "https://www.pacioos.hawaii.edu/education/region-fsm/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   L'État de Yap, l'un des quatre États fédérés de Micronésie, comprend les îles Yap et des atolls dits « îles extérieures ». Sa constitution reconnaît les chefs traditionnels (Dalip pi Nguchol) et crée deux conseils coutumiers, le Conseil de Pilung et le Conseil de Tamol. Ces conseils peuvent s'opposer à toute loi qui porte atteinte à la tradition et à la coutume. La constitution reconnaît aussi les droits coutumiers sur les terres et sur l'espace marin.
 reconnaissance_regionale: []

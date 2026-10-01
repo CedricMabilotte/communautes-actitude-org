@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 25690, annee: 2025, perimetre: "personnes inscrites sur la liste électorale du Sámediggi", source: "https://www.ssb.no/valg/sametingsvalg/statistikk/sametingsvalet"}
 lieux: {valeur: 14, unite: "communes de la zone administrative des langues sâmes", annee: null, source: "https://sametinget.no/sprak/forvaltningsomradet-for-samiske-sprak/"}
 surface_km2: {valeur: 46000, annee: 2006, perimetre: "terres transférées à la Finnmarkseiendommen (FeFo), 95 % du Finnmark", source: "https://www.fefo.no/om-fefo/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Sámi sont le peuple autochtone du nord de la Norvège, de la Suède, de la Finlande et de la péninsule de Kola. En Norvège, l'article 108 de la Constitution charge l'État de créer les conditions permettant aux Sámi de préserver leur langue, leur culture et leur mode de vie. La Loi sâme de 1987 institue un parlement élu, le Sámediggi, et une obligation de consultation. La Loi sur le Finnmark de 2005 a transféré la propriété des terres de l'État dans ce comté à un organisme dont la moitié du conseil est élue par le Sámediggi.
 reconnaissance_onu:

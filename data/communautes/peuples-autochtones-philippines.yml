@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La loi de 1997 sur les droits des peuples autochtones (Indigenous Peoples' Rights Act, IPRA) reconnaît aux « communautés culturelles autochtones / peuples autochtones » (ICCs/IPs) la propriété de leurs domaines ancestraux, un droit à l'autogouvernance et l'exigence de leur consentement préalable pour les projets qui les concernent. Une Commission nationale des peuples autochtones (NCIP) délivre les titres de domaine ancestral. La Cour suprême a confirmé la constitutionnalité de la loi en décembre 2000. IWGIA estime la population autochtone entre 10 et 20 % de la population nationale.
 reconnaissance_onu:

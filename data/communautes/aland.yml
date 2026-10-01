@@ -11,6 +11,7 @@ types_secondaires: ["collectivite_insulaire_ou_regionale"]
 population: {valeur: 30938, annee: 2026, perimetre: "population du territoire", source: "https://www.asub.ax/"}
 lieux: {valeur: 16, unite: "communes", annee: 2026, source: "https://www.asub.ax/sites/default/files/media/document/ALSIFF26%20ENG.pdf"}
 surface_km2: {valeur: 1556, annee: 2026, perimetre: "terres émergées (surface totale avec les eaux : 13 325 km²)", source: "https://www.asub.ax/sites/default/files/media/document/ALSIFF26%20ENG.pdf"}
+villages: {valeur: 245, annee: 2024, perimetre: "villages habités (byar) des communes rurales (185) et de l'archipel (60) au 31 décembre, hors quartiers de Mariehamn", source: "https://www.asub.ax/sv/statistik/invanarantalet-byar-och-stadsdelar-31122024"}
 resume: >-
   Les îles Åland forment une province autonome suédophone de la Finlande. Le Conseil de la Société des Nations a attribué l'archipel à la Finlande en 1921 avec des garanties d'autonomie et de démilitarisation. Le régime actuel repose sur la Loi sur l'autonomie d'Åland de 1991, en vigueur depuis le 1er janvier 1993, et sur l'article 120 de la Constitution finlandaise. L'archipel dispose d'un parlement (Lagting) et d'un gouvernement (Landskapsregering) propres et d'un droit de domicile régional ; le suédois y est la seule langue officielle.
 reconnaissance_onu:

@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 12, unite: "circonscriptions réservées sur 32 sièges de l'Assemblée", annee: 1993, source: "https://indiankanoon.org/doc/745161/"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Bhutia et les Lepcha sont deux peuples du Sikkim, ancien royaume intégré à l'Inde en 1975. L'article 371F de la Constitution, inséré par le 36e amendement (en vigueur le 26 avril 1975), maintient les lois antérieures du Sikkim et permet au Parlement de réserver des sièges à des « sections » de la population. Douze des 32 sièges de l'Assemblée sont réservés aux Bhutia-Lepcha et un siège au Sangha (clergé bouddhiste), réservations validées par la Cour suprême en 1993. L'ordre foncier n° 1 de 1917 interdit la cession de terres de Bhutia ou de Lepcha à d'autres personnes.
 reconnaissance_regionale: []

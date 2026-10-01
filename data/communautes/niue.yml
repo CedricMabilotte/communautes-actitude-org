@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1681, annee: 2022, perimetre: "population résidente de l'île (recensement)", source: "https://niuestatistics.nu/"}
 lieux: {valeur: 14, unite: "villages (circonscriptions de l'Assemblée)", annee: 2023, source: "https://www.gov.nu/government"}
 surface_km2: {valeur: 260, annee: null, perimetre: "île entière", source: "https://www.gov.nu/our-history"}
+villages: {valeur: 14, annee: 2023, perimetre: "villages (chacun formant une circonscription de l'Assemblée)", source: "https://www.gov.nu/government"}
 resume: >-
   Île du Pacifique Sud, État autonome en libre association avec la Nouvelle-Zélande depuis le 19 octobre 1974, par un acte d'autodétermination observé par l'ONU. La Nouvelle-Zélande garde des responsabilités pour les affaires extérieures et la défense et une obligation d'assistance économique et administrative ; les Niuéens conservent la citoyenneté néo-zélandaise. L'Assemblée de Niue compte 20 membres, dont 14 élus par les villages.
 reconnaissance_onu:

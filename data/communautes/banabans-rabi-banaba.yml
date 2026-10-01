@@ -11,6 +11,7 @@ base: "mixte"
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 4, unite: "communautés (villages) de l'île Rabi : Uma, Buakonikai, Tabwewa, Tabiang", annee: 2016, source: "https://unfccc.int/files/adaptation/groups_committees/loss_and_damage_executive_committee/application/pdf/lhr.pdf"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 4, annee: 2016, perimetre: "villages (communautés) de l'île Rabi : Uma, Buakonikai, Tabwewa, Tabiang ; Banaba non comptée", source: "https://unfccc.int/files/adaptation/groups_committees/loss_and_damage_executive_committee/application/pdf/lhr.pdf"}
 resume: >-
   Peuple originaire de Banaba (Ocean Island), dans l'actuel Kiribati, réinstallé à partir de 1945 sur l'île Rabi à Fidji après l'exploitation du phosphate sur son île. À Fidji, le Conseil des dirigeants de Rabi (Rabi Council of Leaders) administre la communauté en vertu du Banaban Settlement Act, et la Constitution de 2013 interdit l'aliénation définitive des terres banabanes (art. 28). La Constitution de Kiribati (1979) consacre un chapitre aux Banabans : siège réservé au Parlement, droits fonciers sur Banaba, droit inaliénable d'y entrer et d'y résider, Conseil de l'île de Banaba.
 reconnaissance_regionale: []

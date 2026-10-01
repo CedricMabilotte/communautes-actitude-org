@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 15721956, annee: 2020, perimetre: "Zhuang résidant dans la région, septième recensement (31,36 % de la population)", source: "https://gxxwfb.gxnews.com.cn/staticpages/20210513/newgx609c9bb5-20258801.shtml"}
 lieux: {valeur: 14, unite: "villes de niveau préfecture", annee: 2019, source: "https://fdi.mofcom.gov.cn/resource/pdf/2019/12/28/b57e5e001fc343f78c0ebe1e5af0e236.pdf"}
 surface_km2: {valeur: 237600, annee: 2019, perimetre: "superficie terrestre de la région (hors 40 000 km² d'eaux du golfe du Tonkin)", source: "https://fdi.mofcom.gov.cn/resource/pdf/2019/12/28/b57e5e001fc343f78c0ebe1e5af0e236.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Zhuang sont l'une des nationalités minoritaires reconnues par la Chine. La Région autonome zhuang du Guangxi, créée en 1958, relève du système d'autonomie régionale des nationalités prévu par la Constitution (art. 4 et 112 à 122) et par la loi de 1984 modifiée en 2001. Le droit prévoit des organes d'autogouvernement, un pouvoir de réglementation soumis à l'approbation du Comité permanent de l'Assemblée populaire nationale et l'usage des langues locales. Le Guangxi a rédigé vingt projets de règlement d'autonomie de 1958 à 1993 ; aucun n'a été approuvé.
 reconnaissance_regionale: []

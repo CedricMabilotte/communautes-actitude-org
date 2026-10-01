@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1195100, annee: 2020, perimetre: "Iban, Bidayuh, Melanau et autres Bumiputera non malais résidant au Sarawak (recensement 2020)", source: "https://www.dosm.gov.my/uploads/content-downloads/file_20220928154847.pdf"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La Constitution fédérale de Malaisie protège la « position spéciale » des natifs du Sarawak et du Sabah (art. 161A). Au Sarawak, des tribunaux autochtones (Native Courts), composés de chefs et de chefs de village, appliquent le droit coutumier (adat) entre natifs selon l'ordonnance de 1992. Le code foncier de 1957 reconnaît des droits coutumiers autochtones (Native Customary Rights, NCR) acquis par défrichement et occupation. En 2016, la Cour fédérale a jugé que ces droits ne couvrent pas les forêts non cultivées revendiquées comme territoire coutumier.
 reconnaissance_regionale: []

@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 62094, annee: null, perimetre: "habitants inscrits au registre de population des villages du conseil (15 572 familles), année non indiquée", source: "https://www.cadc.gov.in/cadc-at-a-glance/"}
 lieux: {valeur: 88, unite: "conseils de village", annee: null, source: "https://www.cadc.gov.in/cadc-at-a-glance/"}
 surface_km2: {valeur: 686.25, annee: null, perimetre: "territoire du conseil", source: "https://www.cadc.gov.in/cadc-at-a-glance/"}
+villages: {valeur: 88, annee: null, perimetre: "conseils de village (villages dotés d'un conseil) du Conseil autonome de district chakma ; année non indiquée", source: "https://www.cadc.gov.in/cadc-at-a-glance/"}
 resume: >-
   Les Chakma vivent au sud-ouest du Mizoram, à la frontière du Bangladesh ; d'autres Chakma relèvent du régime des Chittagong Hill Tracts au Bangladesh. Le Chakma Autonomous District Council a été créé le 29 avril 1972 par la division du conseil régional Pawi-Lakher, en application de la Sixième annexe de la Constitution. Les lois de l'État du Mizoram sur les matières du conseil ne s'y appliquent que sur décision de celui-ci. Le conseil a été placé sous administration du gouverneur de juillet 2025 à juillet 2026.
 reconnaissance_regionale: []
@@ -30,7 +31,7 @@ droits:
   education: {valeur: "partiel", note: "Le conseil peut créer et gérer des écoles primaires et fixer la langue et les modalités de l'enseignement primaire, avec l'accord préalable du gouverneur, Sixième annexe, paragraphe 6 (1).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   fiscalite: {valeur: "partiel", note: "Fonds de district propre, paragraphe 7 ; perception de l'impôt foncier et de taxes sur les terres et bâtiments, les professions, les animaux, les véhicules et les marchés, paragraphe 8 ; réglementation des prêts d'argent et du commerce des non-tribaux, paragraphe 10, Sixième annexe.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "reconnu", note: "Compétence législative sur l'héritage, le mariage, le divorce et les coutumes sociales, Sixième annexe, paragraphe 3 (1) (h) à (j).", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
+  statut_personnel: {valeur: "reconnu", note: "Compétence législative sur l'héritage, le mariage, le divorce et les coutumes sociales, Sixième annexe, paragraphe 3 (1) (h) à (j). Le Mizoram applique sur tout son territoire le permis d'entrée des non-résidents (Inner Line Permit), Bengal Eastern Frontier Regulation de 1873, art. 2.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "contestee", note: "Administration directe par le gouverneur du 7 juillet 2025 au 8 juillet 2026, date de l'investiture d'un nouveau chef de l'exécutif du conseil.", source: "https://eastmojo.com/mizoram/2026/07/08/governors-rule-ends-as-nirupam-chakma-takes-oath-to-lead-chakma-adc/"}
 chronologie:
@@ -38,7 +39,7 @@ chronologie:
   - {annee: 2025, evenement: "Administration du gouverneur à partir du 7 juillet."}
   - {annee: 2026, evenement: "Fin de l'administration du gouverneur le 8 juillet."}
 fiabilite:
-  verifie: ["Date de création, superficie, nombre de conseils de village et population inscrite (site du conseil).", "Partie III de la Table et paragraphe 12B (édition officielle de la Constitution).", "Période d'administration du gouverneur (EastMojo, juillet 2026)."]
+  verifie: ["Date de création, superficie, nombre de conseils de village et population inscrite (site du conseil).", "Partie III de la Table et paragraphe 12B (édition officielle de la Constitution).", "Période d'administration du gouverneur (EastMojo, juillet 2026).", "Régime de l'Inner Line Permit : art. 2 et 7 du règlement de 1873 (copie Indian Kanoon) et réponse du ministère de l'Intérieur au Rajya Sabha (2013)."]
   non_confirme: ["Date exacte de création du conseil régional Pawi-Lakher (1953 ou 1954 selon les sources).", "Année du chiffre de population.", "Statut du chakma comme langue d'enseignement : non vérifié."]
 sources:
   - {titre: "Constitution de l'Inde (édition au 1er mai 2024) — Ministère du Droit et de la Justice", url: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
@@ -46,3 +47,5 @@ sources:
   - {titre: "CADC at a glance", url: "https://www.cadc.gov.in/cadc-at-a-glance/"}
   - {titre: "About CADC", url: "https://www.cadc.gov.in/about-cadc/"}
   - {titre: "EastMojo, fin de l'administration du gouverneur (8 juillet 2026)", url: "https://eastmojo.com/mizoram/2026/07/08/governors-rule-ends-as-nirupam-chakma-takes-oath-to-lead-chakma-adc/"}
+  - {titre: "Bengal Eastern Frontier Regulation, 1873 (texte) — Indian Kanoon", url: "https://indiankanoon.org/doc/32142694/"}
+  - {titre: "Ministère de l'Intérieur, réponse au Rajya Sabha n° 393 sur l'Inner Line Permit (27 février 2013)", url: "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2013-pdfs/rs-270213/393.pdf"}

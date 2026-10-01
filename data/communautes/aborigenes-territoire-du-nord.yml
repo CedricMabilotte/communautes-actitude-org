@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 61115, annee: 2021, perimetre: "Aborigènes et/ou insulaires du détroit de Torrès recensés dans le Territoire du Nord", source: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/IQS7"}
 lieux: {valeur: 4, unite: "conseils fonciers (land councils)", annee: 2023, source: "https://www.anao.gov.au/work/performance-audit/governance-the-northern-land-council"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 72, annee: 2026, perimetre: "communautés aborigènes isolées (remote communities) desservies par le programme des services essentiels du gouvernement du Territoire du Nord ; s'y ajoutent 79 outstations desservies et environ 500 homelands", source: "https://nt.gov.au/community/local-councils-remote-communities-and-homelands/services-to-remote-communities-and-homelands"}
 resume: >-
   Peuples aborigènes du Territoire du Nord, 25,2 % de la population du territoire au recensement de 2021. L'Aboriginal Land Rights (Northern Territory) Act 1976, loi fédérale entrée en vigueur le 26 janvier 1977, permet l’attribution de titres fonciers collectifs à des fiducies foncières aborigènes (Land Trusts) administrées sur instruction de conseils fonciers (Land Councils) élus. Les conseils fonciers doivent consentir à l'attribution de titres miniers sur ces terres. L'Australie a soutenu la Déclaration des Nations unies sur les droits des peuples autochtones en 2009.
 reconnaissance_onu:

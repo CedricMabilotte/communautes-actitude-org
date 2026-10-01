@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 136, unite: "villages", annee: 2018, source: "https://en.wikipedia.org/wiki/Lebanese_Druze"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 136, annee: 2018, perimetre: "villages druzes du Liban", source: "https://en.wikipedia.org/wiki/Lebanese_Druze"}
 resume: >-
   Les Druzes, qui se nomment « unitaires » (muwaḥḥidūn), forment l'une des 18 communautés confessionnelles reconnues du Liban et vivent surtout dans les montagnes à l'est et au sud de Beyrouth.
   Une loi du 9 juin 2006 organise la communauté : un Conseil confessionnel gère ses affaires temporelles, sociales et financières et ses biens de mainmorte (waqfs), et élit le cheikh al-Aql, chef spirituel.

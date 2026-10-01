@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 6243, annee: 2002, perimetre: "personnes déclarées de nationalité hongroise en Slovénie, recensement de 2002 (5 212 dans les cinq communes bilingues)", source: "https://inv.si/en/madzarska-narodna-skupnost/"}
 lieux: {valeur: 30, unite: "localités (dans cinq communes bilingues)", annee: 2022, source: "https://inv.si/en/madzarska-narodna-skupnost/"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 30, annee: 2022, perimetre: "localités (naselja) de l'aire d'implantation autochtone de la communauté hongroise, dans cinq communes bilingues du Prekmurje", source: "https://inv.si/en/madzarska-narodna-skupnost/"}
 resume: >-
   La Constitution slovène de 1991 reconnaît la communauté nationale hongroise comme communauté autochtone, avec la communauté italienne. Elle vit dans 30 localités de cinq communes bilingues du Prekmurje, à la frontière hongroise. L'article 64 de la Constitution garantit l'éducation dans sa langue, la création de communautés nationales autogérées et un député à l'Assemblée nationale. Chaque commune bilingue a une communauté autogérée, fédérée par la Communauté nationale autogérée hongroise du Pomurje.
 reconnaissance_onu:

@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1103542, annee: 2011, perimetre: "population des cinq districts des Garo Hills (recensement 2011), toutes communautés ; le site du conseil indique 1 394 362", source: "https://meghalaya.gov.in/index.php/districts"}
 lieux: {valeur: 5, unite: "districts", annee: 2024, source: "https://ghadc.nic.in/"}
 surface_km2: {valeur: 8167, annee: 2022, perimetre: "somme des superficies des cinq districts des Garo Hills (annuaire statistique du Meghalaya 2022) ; le site du conseil indique 10 102 km²", source: "https://meghalaya.gov.in/index.php/districts"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Garo vivent à l'ouest du Meghalaya. Le Garo Hills Autonomous District Council, créé en juin 1952 en application de la Sixième annexe de la Constitution, couvre cinq districts. Il légifère sur les terres, les forêts non classées, les chefferies et les coutumes, et fait fonctionner des tribunaux coutumiers. Au Meghalaya, une loi de l'État l'emporte sur une loi du conseil qui lui est contraire.
 reconnaissance_regionale: []

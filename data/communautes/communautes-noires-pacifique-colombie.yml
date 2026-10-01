@@ -11,6 +11,7 @@ types_secondaires: ["peuple_tribal"]
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 336, unite: "titres collectifs de conseils communautaires, tout le pays (226 dans les départements de Chocó, Cauca, Valle del Cauca et Nariño)", annee: 2026, source: "https://data-agenciadetierras.opendata.arcgis.com/datasets/agenciadetierras::consejo-comunitario-titulado"}
 surface_km2: {valeur: 57678, annee: 2026, perimetre: "superficie des titres collectifs de communautés noires, tout le pays (54 551 km² dans les départements de Chocó, Cauca, Valle del Cauca et Nariño)", source: "https://data-agenciadetierras.opendata.arcgis.com/datasets/agenciadetierras::consejo-comunitario-titulado"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La loi 70 de 1993 reconnaît aux communautés noires qui occupent les terres riveraines des fleuves du bassin du Pacifique un droit de propriété collective. Chaque communauté forme un conseil communautaire (consejo comunitario) pour recevoir et administrer le titre. La loi applique l'article transitoire 55 de la Constitution de 1991. La Cour constitutionnelle a jugé en 2001 que ces communautés relèvent de la Convention 169 de l'OIT en tant que peuple tribal.
 reconnaissance_onu:

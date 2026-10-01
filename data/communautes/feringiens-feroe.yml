@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 54738, annee: 2023, perimetre: "population du territoire", source: "https://hagstova.fo/en/news/population-surpasses-54700-0"}
 lieux: {valeur: 29, unite: "communes", annee: 2023, source: "https://hagstova.fo/en/news/population-surpasses-54700-0"}
 surface_km2: {valeur: 1396, annee: 2026, perimetre: "superficie totale de l'archipel (Agence faroïenne de l'environnement)", source: "https://hagstova.fo/en/environment/geography/islands-mountains-islets-og-lakes"}
+villages: {valeur: 115, annee: 2026, perimetre: "villages et villes (bygdir) avec habitants au registre de population en août 2026, sur 119 localités listées", source: "https://statbank.hagstova.fo/pxweb/en/H2/H2__IB__IB01/fo_abgd_md_t.px/"}
 resume: >-
   Les îles Féroé forment une communauté autonome au sein du Royaume de Danemark depuis la Loi sur l'autonomie interne de 1948. La Loi de 2005 sur la reprise des compétences permet aux autorités féroïennes d'assumer tous les domaines sauf la Constitution, la nationalité, la Cour suprême, la politique étrangère et de défense, et la politique monétaire. Le Parlement (Løgting) et le Gouvernement (Landsstýri) exercent le pouvoir législatif et exécutif dans les domaines repris. Le féroïen est reconnu comme langue principale.
 reconnaissance_onu:

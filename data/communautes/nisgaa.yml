@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1794, annee: 2021, perimetre: "résidents des terres nisga'a, toutes origines (recensement du Canada)", source: "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/data/STC_CP,DF_CSD/A5.2021A00055949035.1.1+7.1?format=csv"}
 lieux: {valeur: 4, unite: "villages", annee: 2000, source: "https://www.nnkn.ca/files/u28/nis-eng.pdf"}
 surface_km2: {valeur: 1992, annee: 2000, perimetre: "terres nisga'a à la date d'entrée en vigueur de l'Accord définitif", source: "https://www.nnkn.ca/files/u28/nis-eng.pdf"}
+villages: {valeur: 4, annee: 2000, perimetre: "villages nisga'a reconnus par l'Accord définitif nisga'a", source: "https://www.nnkn.ca/files/u28/nis-eng.pdf"}
 resume: >-
   La Nation nisga'a vit dans la vallée de la Nass, au nord-ouest de la Colombie-Britannique. L'Accord définitif nisga'a, conclu avec le Canada et la Colombie-Britannique, est entré en vigueur en 2000 après son approbation par une loi provinciale de 1999 et une loi fédérale de 2000. Il constitue un traité au sens de l'article 35 de la Loi constitutionnelle de 1982. Il institue le Gouvernement Nisg̱a'a Lisims et des gouvernements de village, et attribue à la Nation la propriété de 1 992 km² de terres.
 reconnaissance_onu:

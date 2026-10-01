@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 11, unite: "Premières Nations autonomes", annee: 1994, source: "https://laws-lois.justice.gc.ca/fra/lois/Y-2.6/page-1.html"}
 surface_km2: {valeur: 31468.37, annee: 1993, perimetre: "terres visées par un règlement allouées aux onze Premières Nations autonomes (annexe A du chapitre 9 de l'accord-cadre, hors article 4.3.4)", source: "https://www.rcaanc-cirnac.gc.ca/eng/1297278586814/1542811130481"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   L'accord-cadre définitif (Umbrella Final Agreement) a été signé le 29 mai 1993 par le Canada, le Yukon et le Conseil des Indiens du Yukon. Il sert de cadre aux accords définitifs et aux accords d'autonomie gouvernementale négociés par chaque Première Nation. Onze Premières Nations figurent à l'annexe II de la loi fédérale de 1994 sur l'autonomie gouvernementale : Carmacks/Little Salmon, Champagne et Aishihik, Gwitchin Vuntut, Nacho Nyak Dun, Selkirk, Ta'an Kwach'an, Tlingits de Teslin, Tr'ondëk Hwëch'in, Kluane, Kwanlin Dun et Carcross/Tagish. Chacune a une constitution, un code de citoyenneté et un pouvoir législatif.
 reconnaissance_onu:

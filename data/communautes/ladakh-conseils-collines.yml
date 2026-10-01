@@ -1,0 +1,54 @@
+uid: "ladakh-conseils-collines"
+nom: "Ladakhis (conseils autonomes de Leh et de Kargil)"
+endonyme: ""
+territoire: "Territoire de l'Union du Ladakh (districts de Leh et de Kargil)"
+etats: ["Inde"]
+region: "asie"
+coord: [34.2, 77.0]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 274289, annee: 2011, perimetre: "population des districts de Leh (133 487, profil de district de l'autorité de gestion des catastrophes du Ladakh) et de Kargil (140 802, site du district), toutes communautés", source: "https://kargil.nic.in/demography/"}
+lieux: {valeur: 2, unite: "conseils autonomes de développement des collines (Leh, Kargil) ; un conseil par district annoncé pour les sept districts en juillet 2026", annee: 2026, source: "https://organiser.org/2026/07/14/369881/bharat/ladakh-gets-major-governance-boost-all-7-districts-to-have-autonomous-hill-councils/"}
+surface_km2: {valeur: 59146, annee: 2024, perimetre: "superficie du territoire de l'Union administrée par l'Inde", source: "https://ldma.ladakh.gov.in/dprofile.html"}
+villages: {valeur: 242, annee: 2011, perimetre: "villages du recensement de 2011 : 113 dans le district de Leh, 129 dans celui de Kargil", source: "https://leh.nic.in/about-district/demography/"}
+resume: >-
+  Le Ladakh, peuplé à plus de 83 % de membres de tribus répertoriées, a deux conseils autonomes de développement des collines, à Leh depuis 1995 et à Kargil depuis 2003, régis par une loi de 1997. Chaque conseil compte 26 membres élus au suffrage direct ; la terre du district lui est transférée et il décide de son attribution, de l'éducation, de la santé et du budget de développement. Devenu territoire de l'Union en 2019, le Ladakh a reçu en 2025 des règles de domicile, de réservation d'emplois et de langues officielles ; la demande d'inscription à la Sixième annexe reste ouverte.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Ladakh Autonomous Hill Development Councils Act, 1997 (loi du Jammu-et-Cachemire, modifiée en 2002)", nature: "loi", annee: 1997, source: "https://faolex.fao.org/docs/pdf/IND227527.pdf"}
+  - {instrument: "Règlements présidentiels pour le Ladakh de juin 2025 (domicile, réservations, Ladakh Official Languages Regulation 2025)", nature: "loi", annee: 2025, source: "https://m.thewire.in/article/government/issue-of-statehood-and-sixth-schedule-unresolved-ladakh-leaders-as-union-govt-notifies-new-rules"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Conseil de 26 membres élus au suffrage direct et jusqu'à 4 nommés, loi de 1997, art. 4 ; conseil exécutif dirigé par le Chief Executive Councillor, art. 29 ; pouvoirs exercés sous réserve des directives du gouvernement, art. 23 ; dissolution possible par le gouverneur, art. 52 ; un tiers des sièges réservés aux femmes depuis un règlement de juin 2025.", source: "https://faolex.fao.org/docs/pdf/IND227527.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Toute la terre du district est transférée au conseil à sa constitution, loi de 1997, art. 42 (1) ; le conseil décide de l'attribution et de l'usage des terres, art. 23 (i) ; le gouvernement garde le pouvoir d'exproprier pour un usage public ou la défense, art. 42 (3).", source: "https://faolex.fao.org/docs/pdf/IND227527.pdf"}
+  ressources: {valeur: "partiel", note: "Gestion des forêts non délimitées et usage des canaux pour l'agriculture, loi de 1997, art. 23 (xi) et (xii).", source: "https://faolex.fao.org/docs/pdf/IND227527.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Le bhoti et le purgi sont langues officielles avec l'anglais, le hindi et l'ourdou, Ladakh Official Languages Regulation 2025 ; le conseil a la charge de la promotion des langues et de la culture, loi de 1997, art. 23 (x).", source: "https://m.thewire.in/article/government/issue-of-statehood-and-sixth-schedule-unresolved-ladakh-leaders-as-union-govt-notifies-new-rules"}
+  education: {valeur: "partiel", note: "Pouvoirs exécutifs du conseil en matière d'éducation et de formation professionnelle, loi de 1997, art. 23 (xvi) et (xx).", source: "https://faolex.fao.org/docs/pdf/IND227527.pdf"}
+  fiscalite: {valeur: "partiel", note: "Le conseil peut lever certaines taxes et redevances fixées par règlement local, art. 24, et gère un fonds propre, art. 43 ; il prépare le budget du district, art. 23 (iv).", source: "https://faolex.fao.org/docs/pdf/IND227527.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Domicile accordé après 15 ans de résidence continue depuis le 31 octobre 2019 ; 85 % des emplois publics réservés aux castes et tribus répertoriées et autres classes défavorisées, règlements de juin 2025.", source: "https://m.thewire.in/article/government/issue-of-statehood-and-sixth-schedule-unresolved-ladakh-leaders-as-union-govt-notifies-new-rules"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les conseils fonctionnent et sont élus ; les organisations de Leh et de Kargil jugent les règlements de 2025 insuffisants et maintiennent leurs demandes d'État et de Sixième annexe.", source: "https://m.thewire.in/article/government/issue-of-statehood-and-sixth-schedule-unresolved-ladakh-leaders-as-union-govt-notifies-new-rules"}
+chronologie:
+  - {annee: 1995, evenement: "Conseil autonome de développement des collines de Leh."}
+  - {annee: 1997, evenement: "Loi du Jammu-et-Cachemire sur les conseils du Ladakh, assentiment du 8 octobre."}
+  - {annee: 2003, evenement: "Conseil de Kargil, juillet."}
+  - {annee: 2019, evenement: "Le Ladakh devient territoire de l'Union le 31 octobre."}
+  - {annee: 2025, evenement: "Règlements de juin sur le domicile, les réservations et les langues officielles."}
+  - {annee: 2024, evenement: "Le ministère de l'Intérieur porte le nombre de districts de deux à sept (août)."}
+  - {annee: 2026, evenement: "Les cinq nouveaux districts deviennent opérationnels en avril ; le 14 juillet, l'administration annonce un conseil dans chacun des sept districts."}
+fiabilite:
+  verifie: ["Articles 4, 23, 24, 29, 42, 43 et 52 de la loi de 1997 (texte FAOLEX).", "Dates de création des conseils de Leh et de Kargil (Organiser, site du district de Kargil).", "Villages de 2011 (sites des districts de Leh et de Kargil) ; population de Kargil (site du district) et de Leh (Ladakh Disaster Management Authority).", "Surface du territoire (Ladakh Disaster Management Authority).", "Règlements de juin 2025 (The Wire)."]
+  non_confirme: ["Texte de la loi en vigueur après 2019 (adaptations par décret) : non consulté ; FAOLEX donne la version de 1997 modifiée en 2002.", "Part de la population tribale (plus de 83 %) : chiffre de la Commission nationale des tribus répertoriées cité par la presse.", "Dates et cadre juridique des conseils des cinq nouveaux districts : annonce seulement.", "Le nombre de villages de Leh varie (113 au recensement de 2011, 119 villages de revenu selon l'autorité de gestion des catastrophes)."]
+sources:
+  - {titre: "Ladakh Autonomous Hill Development Councils Act, 1997 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/IND227527.pdf"}
+  - {titre: "LAHDC Kargil — site du district", url: "https://kargil.nic.in/lahdc/"}
+  - {titre: "District de Kargil — démographie", url: "https://kargil.nic.in/demography/"}
+  - {titre: "District de Leh — démographie", url: "https://leh.nic.in/about-district/demography/"}
+  - {titre: "Ladakh Disaster Management Authority — profil du district", url: "https://ldma.ladakh.gov.in/dprofile.html"}
+  - {titre: "The Wire, règlements de juin 2025 pour le Ladakh", url: "https://m.thewire.in/article/government/issue-of-statehood-and-sixth-schedule-unresolved-ladakh-leaders-as-union-govt-notifies-new-rules"}
+  - {titre: "Organiser, conseils dans les sept districts (14 juillet 2026)", url: "https://organiser.org/2026/07/14/369881/bharat/ladakh-gets-major-governance-boost-all-7-districts-to-have-autonomous-hill-councils/"}

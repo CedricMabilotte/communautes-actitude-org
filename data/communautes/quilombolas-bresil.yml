@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 1327802, annee: 2022, perimetre: "personnes se déclarant quilombolas au Brésil (recensement IBGE)", source: "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"}
 lieux: {valeur: 494, unite: "territoires quilombolas officiellement délimités", annee: 2022, source: "https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/22327-quilombolas.html"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 8441, annee: 2022, perimetre: "localités quilombolas recensées par l'IBGE (agglomérations permanentes d'au moins 15 quilombolas dont les logements sont à moins de 200 m les uns des autres), dans ou hors des territoires délimités, rattachées à 7 666 communautés (recensement 2022)", source: "https://www.al.pi.leg.br/comunicacao/tv-assembleia/noticias-tv/censo-2022-brasil-possui-8-441-localidades-quilombolas-24-delas-no-maranhao"}
 resume: >-
   Le décret 4.887 de 2003 définit les communautés rémanentes de quilombos comme des groupes ethno-raciaux auto-identifiés, dotés d'une trajectoire historique propre et d'une ascendance noire liée à la résistance à l'oppression. L'article 68 des dispositions transitoires de la Constitution de 1988 leur reconnaît la propriété définitive des terres qu'ils occupent. Le même décret organise l'identification et le titre collectif. Le recensement de 2022 compte 1 327 802 quilombolas, dont 12,6 % vivent dans les 494 territoires officiellement délimités.
 reconnaissance_onu:

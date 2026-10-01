@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 2920000, annee: 2001, perimetre: "population de la zone du Conseil territorial du Bodoland au recensement de 2001 (« 29,2 lakhs »), avant l'extension de 2020", source: "https://web.archive.org/web/20170212204056/http://bodoland.gov.in/btcataglance.html"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: 8795, annee: 2015, perimetre: "superficie provisoire des quatre districts du Conseil territorial du Bodoland, avant l'extension de 2020", source: "https://web.archive.org/web/20170212204056/http://bodoland.gov.in/btcataglance.html"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Bodo (« Boro, Borokachari » dans la liste officielle) figurent parmi les tribus répertoriées (Scheduled Tribes, catégorie constitutionnelle des peuples tribaux) des plaines de l'Assam. Le mémorandum d'accord du 10 février 2003 et l'amendement constitutionnel de la même année créent le Conseil territorial du Bodoland (BTC), conseil autonome relevant de la Sixième annexe de la Constitution. L'accord du 27 janvier 2020 prévoit l'extension de ses compétences et de son territoire, renommé Région territoriale du Bodoland, qui compte cinq districts. Le conseil est élu ; la dernière élection a eu lieu en septembre 2025.
 reconnaissance_onu:

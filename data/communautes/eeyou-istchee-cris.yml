@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 20000, annee: 2026, perimetre: "habitants d'Eeyou Istchee (« plus de 20 000 », Gouvernement de la nation crie)", source: "https://www.cngov.ca/community-culture/communities/"}
 lieux: {valeur: 9, unite: "communautés cries parties à la Convention de la Baie-James (11 communautés au total)", annee: 2026, source: "https://www.cngov.ca/community-culture/communities/"}
 surface_km2: {valeur: 400000, annee: 2026, perimetre: "territoire traditionnel cri (« plus de 400 000 km² »)", source: "https://www.cngov.ca/community-culture/communities/"}
+villages: {valeur: 9, annee: 2026, perimetre: "communautés (villages) cries établies en Eeyou Istchee et parties à la Convention de la Baie-James ; Washaw Sibi en cours d'établissement et MoCreebec (Ontario) non comptées", source: "https://www.cngov.ca/community-culture/communities/"}
 resume: >-
   Les Cris d'Eeyou Istchee vivent à l'est de la baie James, au Québec. La Convention de la Baie-James et du Nord québécois de 1975, approuvée par une loi fédérale (S.C. 1976-77, ch. 32), leur attribue des terres de catégorie I et des droits de chasse et de pêche. L'Entente sur la gouvernance de la nation crie de 2017, mise en vigueur par une loi fédérale de 2018, reconnaît le Gouvernement de la nation crie et une constitution crie. Depuis 2013, les Cris siègent au Gouvernement régional d'Eeyou Istchee Baie-James avec les autres résidents du territoire.
 reconnaissance_onu:

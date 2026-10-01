@@ -1,0 +1,54 @@
+uid: "autorites-villageoises-arunachal"
+nom: "Peuples de l'Arunachal Pradesh (autorités villageoises coutumières)"
+endonyme: ""
+territoire: "État de l'Arunachal Pradesh"
+etats: ["Inde"]
+region: "asie"
+coord: [28.0, 94.5]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 951755, annee: 2011, perimetre: "membres des tribus répertoriées de l'État", source: "https://ecostatistics.arunachal.gov.in/vali_admin/images/state_publication/508535Arunachal%20Pradesh%20at%20a%20Glance%202021.pdf"}
+lieux: {valeur: 25, unite: "districts", annee: 2021, source: "https://ecostatistics.arunachal.gov.in/vali_admin/images/state_publication/508535Arunachal%20Pradesh%20at%20a%20Glance%202021.pdf"}
+surface_km2: {valeur: 83743, annee: 2021, perimetre: "superficie de l'État", source: "https://ecostatistics.arunachal.gov.in/vali_admin/images/state_publication/508535Arunachal%20Pradesh%20at%20a%20Glance%202021.pdf"}
+villages: {valeur: 5589, annee: 2011, perimetre: "villages du recensement de 2011", source: "https://ecostatistics.arunachal.gov.in/vali_admin/images/state_publication/508535Arunachal%20Pradesh%20at%20a%20Glance%202021.pdf"}
+resume: >-
+  Fiche agrégée : elle couvre les tribus répertoriées de l'Arunachal Pradesh, dont les Adi, les Nyishi, les Galo, les Apatani et les Monpa. Le règlement de 1945 sur l'administration de la justice dans la frontière de l'Assam reconnaît les autorités villageoises, comme le kebang (conseil de village) des Adi ou les chefs de village (gaon bura). La loi de 2021 sur les tribunaux civils de l'État fait du tribunal coutumier un degré de juridiction et lui confie tous les procès civils entre autochtones de l'État, sans limite de valeur. L'entrée des non-résidents est soumise à un permis (Inner Line Permit) depuis un règlement de 1873.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, CERD/C/IND/CO/19, § 10 et § 19 (grands barrages dans les États du nord-est sans consentement préalable des communautés tribales)", annee: 2007, source: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+base_nationale:
+  - {instrument: "Assam Frontier (Administration of Justice) Regulation, 1945 (règlement 1 de 1945), art. 5, 19, 20 et 40", nature: "loi", annee: 1945, source: "https://www.ijcrt.org/papers/IJCRT2602272.pdf"}
+  - {instrument: "Arunachal Pradesh Civil Courts Act, 2021 (loi 4 de 2021)", nature: "loi", annee: 2021, source: "https://prsindia.org/files/bills_acts/acts_states/arunachal-pradesh/2021/ActNo-4of2021ArunachalPradesh.pdf"}
+  - {instrument: "Bengal Eastern Frontier Regulation, 1873 (règlement 5 de 1873), art. 2 et 7 (Inner Line Permit)", nature: "loi", annee: 1873, source: "https://indiankanoon.org/doc/32142694/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les autorités villageoises sont reconnues et le préfet de district peut en désigner les membres, règlement de 1945, art. 5 ; l'amendement de 2023 y inclut les conseils traditionnels de village, les conseils inter-villages et les conseils coutumiers supérieurs.", source: "https://www.ijcrt.org/papers/IJCRT2602272.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "reconnu", note: "Le tribunal coutumier, « tribunal du conseil ou de l'autorité traditionnelle d'un ou plusieurs villages, quel que soit son nom », est un degré de juridiction civile, loi de 2021, art. 2 (d) et 3 (e) ; les autorités villageoises jugent tous les procès sans limite de valeur entre parties autochtones de l'État, art. 27 modifiant l'art. 40 du règlement de 1945.", source: "https://prsindia.org/files/bills_acts/acts_states/arunachal-pradesh/2021/ActNo-4of2021ArunachalPradesh.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Les citoyens indiens non résidents doivent obtenir un permis délivré par l'administration pour franchir la « ligne intérieure », Bengal Eastern Frontier Regulation de 1873, art. 2 ; une personne qui n'est pas originaire de ces districts ne peut acquérir de droit sur la terre au-delà de la ligne sans l'accord du gouvernement, art. 7 ; selon le ministère de l'Intérieur (2013), le régime vise à empêcher l'installation d'autres Indiens pour protéger la population autochtone et tribale.", source: "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2013-pdfs/rs-270213/393.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "", source: ""}
+chronologie:
+  - {annee: 1873, evenement: "Bengal Eastern Frontier Regulation : ligne intérieure et permis d'entrée."}
+  - {annee: 1945, evenement: "Règlement sur l'administration de la justice dans la frontière de l'Assam."}
+  - {annee: 1987, evenement: "L'Arunachal Pradesh devient un État."}
+  - {annee: 2021, evenement: "Loi sur les tribunaux civils, publiée le 12 avril : tribunaux coutumiers intégrés à l'organisation judiciaire."}
+  - {annee: 2023, evenement: "Amendement définissant les autorités villageoises."}
+fiabilite:
+  verifie: ["Articles 2 (d), 3 (e) et 27 de la loi de 2021 (texte publié par PRS).", "Population tribale, villages, districts et surface (Direction des statistiques de l'Arunachal Pradesh, 2021).", "Paragraphes 10 et 19 du CERD (2007).", "Régime de l'Inner Line Permit (réponse du ministère de l'Intérieur au Rajya Sabha, 2013)."]
+  non_confirme: ["Règlement de 1945 et amendement de 2023 : connus par un article de revue (IJCRT, 2026), textes non consultés.", "Fonctionnement réel des tribunaux coutumiers et du kebang : pas de source d'évaluation consultée, d'où une effectivité inconnue.", "Régime des terres coutumières : non étudié.", "Texte de 1873 : lu dans une copie d'Indian Kanoon (version publiée pour le Pendjab, mêmes articles) ; texte officiel de l'Arunachal Pradesh non consulté."]
+sources:
+  - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
+  - {titre: "Arunachal Pradesh Civil Courts Act, 2021 — PRS Legislative Research", url: "https://prsindia.org/files/bills_acts/acts_states/arunachal-pradesh/2021/ActNo-4of2021ArunachalPradesh.pdf"}
+  - {titre: "From executive frontier regulation to judicialized hybrid (IJCRT, 2026)", url: "https://www.ijcrt.org/papers/IJCRT2602272.pdf"}
+  - {titre: "Arunachal Pradesh at a Glance 2021 — Direction de l'économie et des statistiques", url: "https://ecostatistics.arunachal.gov.in/vali_admin/images/state_publication/508535Arunachal%20Pradesh%20at%20a%20Glance%202021.pdf"}
+  - {titre: "Vajiram & Ravi, Inner Line Permit", url: "https://vajiramandravi.com/current-affairs/inner-line-permit-ilp/"}
+  - {titre: "Bengal Eastern Frontier Regulation, 1873 (texte) — Indian Kanoon", url: "https://indiankanoon.org/doc/32142694/"}
+  - {titre: "Ministère de l'Intérieur, réponse au Rajya Sabha n° 393 sur l'Inner Line Permit (27 février 2013)", url: "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2013-pdfs/rs-270213/393.pdf"}

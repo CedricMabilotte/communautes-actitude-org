@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 956313, annee: 2011, perimetre: "population totale du district de Karbi Anglong avant sa division de 2015, toutes communautés ; 538 738 membres des tribus répertoriées", source: "https://kvkdiphu.aau.ac.in/public/dp"}
 lieux: {valeur: 2712, unite: "villages", annee: 2011, source: "https://kvkdiphu.aau.ac.in/public/dp"}
 surface_km2: {valeur: 10434, annee: 2024, perimetre: "territoire du conseil autonome (districts de Karbi Anglong et de Karbi Anglong-Ouest)", source: "https://karbianglong.gov.in/about-us/about-kaac-secratariat"}
+villages: {valeur: 2712, annee: 2011, perimetre: "villages recensés dans le district de Karbi Anglong (recensement de l'Inde 2011)", source: "https://kvkdiphu.aau.ac.in/public/dp"}
 resume: >-
   Les Karbi vivent sur les plateaux du centre de l'Assam. Leur territoire forme un district autonome de la Sixième annexe de la Constitution depuis le 23 juin 1952 (conseil des Mikir Hills, renommé Karbi Anglong en 1976). L'amendement de 1995 ajoute quinze domaines législatifs au conseil, dont l'éducation et la cession des terres. L'accord du 4 septembre 2021 entre le gouvernement indien, l'Assam et des groupes armés karbi prévoit une dévolution supplémentaire de pouvoirs au conseil.
 reconnaissance_regionale: []

@@ -11,6 +11,7 @@ types_secondaires: []
 population: {valeur: 60000, annee: null, perimetre: "Sorabes de Saxe et du Brandebourg, estimation (aucun recensement ethnique en Allemagne)", source: "https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/339351/sorben/"}
 lieux: {valeur: null, unite: "communes de l'aire d'implantation", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les Sorabes, ou Wendes dans le Brandebourg, sont une des quatre minorités nationales reconnues par l'Allemagne. Le traité d'unification de 1990 garantit la préservation de leur culture. La loi saxonne de 1999 et la loi brandebourgeoise de 1994 délimitent une aire d'implantation où le sorabe peut être employé devant les autorités avec le même effet juridique que l'allemand. Chaque Land a un conseil pour les affaires sorabes de cinq membres. La Fondation pour le peuple sorabe, financée par l'État fédéral, la Saxe et le Brandebourg, soutient la langue et la culture.
 reconnaissance_regionale:
