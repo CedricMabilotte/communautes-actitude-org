@@ -1,0 +1,73 @@
+uid: "imraguen-banc-darguin"
+nom: "Imraguen du Banc d'Arguin"
+endonyme: "Imrâgen"
+territoire: "Parc national du Banc d'Arguin (PNBA), littoral entre Mamghar et Agadir, wilaya de Dakhlet Nouadhibou"
+etats: ["Mauritanie"]
+region: "afrique"
+coord: [19.9, -16.3]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 1025, annee: 2025, perimetre: "habitants des neuf villages côtiers du parc, selon le plan d'aménagement et de gestion 2025-2029, qui ne date pas le décompte ; le parc et sa zone périphérique continentale comptent environ 2232 habitants, dont 1207 hors de la limite officielle du parc, le long de la route Nouakchott-Nouadhibou", source: "https://pnba.mr/wp-content/uploads/2025/12/PAG-PNBA-2025-2029-decembre-2025-VF.pdf"}
+lieux: {valeur: 1, unite: "aire protégée (Parc national du Banc d'Arguin, auquel est rattachée la réserve satellite du Cap Blanc)", annee: 2000, source: "https://faolex.fao.org/docs/pdf/mau20609.pdf"}
+surface_km2: {valeur: 12000, annee: 2025, perimetre: "superficie totale du parc, dont 5400 km² marins (plan d'aménagement et de gestion 2025-2029)", source: "https://pnba.mr/wp-content/uploads/2025/12/PAG-PNBA-2025-2029-decembre-2025-VF.pdf"}
+villages: {valeur: 9, annee: 2025, perimetre: "villages côtiers du parc : Mamghar, Awguej, R'gueiba, Teichott, Tessot, Iwik, Ten Alloul, Arkeiss et Agadir ; ce sont les seuls sites de débarquement reconnus par le PNBA et le ministère des Pêches", source: "https://pnba.mr/wp-content/uploads/2025/12/PAG-PNBA-2025-2029-decembre-2025-VF.pdf"}
+resume: >-
+  Les Imraguen sont des pêcheurs établis dans neuf villages du littoral du Parc national du Banc d'Arguin, créé en 1976. La loi n° 2000-024 du 19 janvier 2000 interdit la pêche dans le parc, sauf exceptions : les populations résidentes conservent la pêche de subsistance, dont la pêche à pied dite « pêche Imraguen » et la pêche à la lanche à voile (embarcation de pêche à voile latine) ; d'autres activités de pêche peuvent être autorisées par le parc, à la lanche à voile seulement. Les embarcations motorisées sont interdites pour la pêche dans le parc, et le nombre de lanches est plafonné. Le plan d'aménagement et de gestion 2025-2029 présente les communautés imraguen comme les seules autorisées à y pratiquer la pêche artisanale. La loi prévoit des représentants des populations résidentes dans le conseil d'administration du parc, établissement public sous tutelle de l'État.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Quatrième rapport national de la Mauritanie à la Convention sur la diversité biologique, section 2.2.6 « Connaissances traditionnelles » : cite « le cas des Imraguens installés à l'intérieur des limites du PNBA et qui bénéficient des droits de pêche exclusifs » ; le sixième rapport national (février 2018) cite, au titre de l'objectif 18 (connaissances traditionnelles), les connaissances et pratiques traditionnelles des communautés imraguen et le « respect des pratiques de pêcheur Imraguine ».", annee: 2009, source: "https://www.cbd.int/doc/world/mr/mr-nr-04-fr.pdf"}
+base_nationale:
+  - {instrument: "Loi n° 2000-024 du 19 janvier 2000 relative au Parc national du Banc d'Arguin (art. 2, 6, 7, 10, 11, 12 et 17)", nature: "loi", annee: 2000, source: "https://faolex.fao.org/docs/pdf/mau20609.pdf"}
+  - {instrument: "Décret n° 2006-068 portant application de la loi n° 2000-024 relative au Parc national du Banc d'Arguin (art. 2, 3, 8, 10, 13 à 17)", nature: "loi", annee: 2006, source: "https://faolex.fao.org/docs/pdf/mau170207.pdf"}
+  - {instrument: "Décret n° 2006-058 du 14 juin 2006 fixant les règles d'organisation et de fonctionnement du Parc national du Banc d'Arguin (art. 5), abrogé et remplacé par le décret n° 2015-054 du 26 février 2015", nature: "loi", annee: 2006, source: "https://faolex.fao.org/docs/pdf/mau86959.pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Par exception à l'interdiction générale de pêcher (loi n° 2000-024, art. 10), les populations résidentes conservent la pêche de subsistance, dont la pêche à pied dite « pêche Imraguen » et la pêche à la lanche à voile, ainsi que des droits de culture, de cueillette et de ramassage du bois mort pour leurs besoins domestiques (art. 11) ; l'usage des embarcations motorisées est interdit sauf pour le transport, la surveillance et la recherche (art. 17) ; le nombre de lanches ne peut dépasser le nombre autorisé, les autorisations sont délivrées par le ministre chargé des pêches et la direction du parc peut prendre des mesures conservatoires sur ces droits d'usage (décret n° 2006-068, art. 8, 14 et 15).", source: "https://faolex.fao.org/docs/pdf/mau20609.pdf"}
+  consentement: {valeur: "partiel", note: "Les plans d'aménagement et de gestion sont élaborés et mis en œuvre selon une approche participative qui inclut les communautés locales, et le conseil d'administration est chargé de créer un cadre de concertation (décret n° 2006-068, art. 2 et 3) ; il n'y a pas d'obligation de consentement : le conseil d'administration adopte les plans après avis du conseil scientifique (art. 4).", source: "https://faolex.fao.org/docs/pdf/mau170207.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "L'organe délibérant du parc, établissement public de l'État, comprend des représentants des populations résidant à l'intérieur du parc (loi n° 2000-024, art. 6) ; le décret n° 2006-058 (art. 5), abrogé en 2015, leur attribuait un siège, « un représentant des Communautés vivants à l'Intérieur du Parc », dans un conseil de quatorze membres et un président, dont dix membres représentaient des ministères et des instituts publics ; la composition fixée par le décret n° 2015-054 qui l'a remplacé n'a pas été consultée.", source: "https://faolex.fao.org/docs/pdf/mau20609.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "S. Boulay (CEPED, 2011) relève que les habitants du parc « semblent de fait exclus des instances décisionnelles » : un seul représentant des communautés résidentes sur quatorze sièges du conseil d'administration, autant que la Fondation internationale du Banc d'Arguin. Le plan d'aménagement et de gestion 2025-2029 du parc constate que la cogestion s'est érodée depuis plus de dix ans : règles de pêche non mises à jour, recul des investissements dans le développement communautaire, retour de pratiques interdites comme la pêche d'espèces menacées ; un recensement de juin 2023 compte 116 lanches, dont 93 plastifiées, alors que seules les lanches traditionnelles à voile sont autorisées à pêcher.", source: "https://hal.science/hal-01327593/document"}
+chronologie:
+  - {annee: 1976, evenement: "Décret n° 76-147 du 24 juin 1976 : création du Parc national du Banc d'Arguin."}
+  - {annee: 1982, evenement: "Inscription du site sur la liste des zones humides d'importance internationale de la convention de Ramsar."}
+  - {annee: 1989, evenement: "Inscription du parc sur la liste du patrimoine mondial de l'UNESCO."}
+  - {annee: 2000, evenement: "Loi n° 2000-024 du 19 janvier 2000 : droits d'usage des populations résidentes, dont la « pêche Imraguen », et représentation de ces populations dans l'organe délibérant du parc."}
+  - {annee: 2006, evenement: "Décret n° 2006-058 du 14 juin 2006 (organisation du parc, un siège pour les communautés résidentes) et décret n° 2006-068 (application de la loi : approche participative, plafonnement et registre des lanches à voile)."}
+  - {annee: 2009, evenement: "Quatrième rapport national à la Convention sur la diversité biologique : les Imraguen y sont cités comme titulaires de droits de pêche exclusifs dans le parc."}
+  - {annee: 2015, evenement: "Décret n° 2015-054 du 26 février 2015 : nouvelles règles d'organisation et de fonctionnement du parc, en remplacement du décret n° 2006-058."}
+  - {annee: 2025, evenement: "Plan d'aménagement et de gestion 2025-2029 : neuf villages côtiers, 1025 habitants, constat d'érosion de la cogestion et objectif de redynamiser le système de cogestion avec les populations résidentes."}
+fiabilite:
+  verifie:
+    - "Texte de la loi n° 2000-024 (FAOLEX) : art. 6 (représentants des populations résidentes dans l'organe délibérant), art. 7 (projets de développement communautaire, nombre de lanches), art. 10 (interdiction de pêcher), art. 11 (pêche de subsistance, « pêche Imraguen », lanches à voile), art. 12 (autres activités de pêche limitées aux lanches à voile), art. 17 (interdiction des embarcations motorisées sauf transport, surveillance et recherche)."
+    - "Texte du décret n° 2006-068 (FAOLEX) : art. 2 et 3 (approche participative, cadre de concertation), art. 8 (mesures conservatoires sur les droits d'usage), art. 10 (activités touristiques au profit des communautés locales), art. 13 à 16 (définition, plafonnement, autorisation et registre des lanches)."
+    - "Texte du décret n° 2006-058 (FAOLEX, J.O. n° 1127 du 30 septembre 2006) : art. 5, composition du conseil d'administration avec un représentant des communautés vivant à l'intérieur du parc."
+    - "Plan d'aménagement et de gestion 2025-2029 publié par le PNBA : neuf villages côtiers nommés, 1025 habitants, 12 000 km² dont 5400 km² marins, comité local de concertation et de cogestion composé de représentants des neuf villages, des corps de métiers, du PNBA et du ministère des Pêches, recensement de 116 lanches en juin 2023."
+    - "Mention des Imraguen dans les quatrième (2009) et sixième (2018) rapports nationaux de la Mauritanie à la Convention sur la diversité biologique."
+    - "Boulay S., 2011 (HAL) : une étude de 2009 compte 1207 personnes (241 ménages) sur le littoral entre Mamghar et Agadir ; un seul représentant des communautés résidentes sur quatorze sièges (décret n° 2006-058, art. 5), autant que la FIBA."
+    - "Plan d'aménagement et de gestion 2025-2029 : le décret n° 2006-058 a été abrogé et remplacé par le décret n° 2015-054 du 26 février 2015."
+  non_confirme:
+    - "Aucun texte trouvé ne définit les critères de la qualité de « population résidente » qui ouvre les droits d'usage de l'article 11 de la loi n° 2000-024, ni l'autorité qui la reconnaît : le droit « statut personnel » reste non établi."
+    - "La composition du conseil d'administration fixée par le décret n° 2015-054, qui a remplacé le décret n° 2006-058, n'a pas été consultée : le nombre de sièges des communautés résidentes depuis 2015 n'est pas vérifié."
+    - "Le chiffre de 1025 habitants n'est pas daté dans le plan ; le recensement de l'ANSADE de 2023 qu'il reproduit ne couvre que cinq des neuf villages (Mamghar 690, Akweijatt 57, Teichett 174, Iwik 183, Rgueiba 165) ; une étude de 2009 citée par S. Boulay comptait 1207 personnes (241 ménages) sur le littoral entre Mamghar et Agadir ; la valeur d'environ 500 personnes dans sept villages, donnée par Wikipédia en anglais sans source, n'est pas retenue."
+    - "Le plafond de 114 lanches cité par le plan d'aménagement et de gestion n'a pas été rattaché à un arrêté consulté ; le comité local de concertation et de cogestion n'a pas de texte constitutif trouvé."
+    - "Tous les habitants des villages du parc ne se rattachent pas au groupe imraguen ; le texte de loi vise les « populations résidentes » et ne nomme les Imraguen qu'à travers la « pêche Imraguen »."
+sources:
+  - {titre: "Loi n° 2000-024 du 19 janvier 2000 relative au Parc national du Banc d'Arguin — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mau20609.pdf"}
+  - {titre: "Loi n° 2000-024 relative au Parc national du Banc d'Arguin — ECOLEX", url: "https://www.ecolex.org/fr/details/legislation/loi-no-2000-024-relative-au-parc-national-du-banc-darguin-lex-faoc020609/"}
+  - {titre: "Décret n° 2006-068 portant application de la loi n° 2000-024 relative au PNBA — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mau170207.pdf"}
+  - {titre: "Décret n° 2006-058 du 14 juin 2006 fixant les règles d'organisation et de fonctionnement du PNBA — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mau86959.pdf"}
+  - {titre: "Plan d'aménagement et de gestion du PNBA 2025-2029 — Parc national du Banc d'Arguin", url: "https://pnba.mr/wp-content/uploads/2025/12/PAG-PNBA-2025-2029-decembre-2025-VF.pdf"}
+  - {titre: "Rapport du tableau de bord 2024 — Parc national du Banc d'Arguin", url: "https://pnba.mr/wp-content/uploads/2025/11/Rapport-TDB-VF-2024.pdf"}
+  - {titre: "Quatrième rapport national de la Mauritanie — Convention sur la diversité biologique, 2009", url: "https://www.cbd.int/doc/world/mr/mr-nr-04-fr.pdf"}
+  - {titre: "Sixième rapport national de la Mauritanie — Convention sur la diversité biologique, 2018", url: "https://www.cbd.int/doc/world/mr/mr-nr-06-fr.pdf"}
+  - {titre: "Boulay S., « La “tradition imrâgen” : ultime recours pour concilier conservation et développement au Parc national du Banc d'Arguin ? », 2011 — HAL", url: "https://hal.science/hal-01327593/document"}
+  - {titre: "Banc d'Arguin National Park — Wikipédia (en anglais)", url: "https://en.wikipedia.org/wiki/Banc_d%27Arguin_National_Park"}
+  - {titre: "Parc national du Banc d'Arguin — Centre du patrimoine mondial de l'UNESCO", url: "https://whc.unesco.org/fr/list/506/"}

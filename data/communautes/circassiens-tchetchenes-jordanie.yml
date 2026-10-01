@@ -1,0 +1,55 @@
+uid: "circassiens-tchetchenes-jordanie"
+nom: "Circassiens et Tchétchènes de Jordanie"
+endonyme: ""
+territoire: "Jordanie (communauté sans territoire propre ; sièges réservés dans les gouvernorats d'Amman et de Zarqa)"
+etats: ["Jordanie"]
+region: "asie"
+coord: [32.0, 35.9]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "Aucun recensement par origine ; des sources secondaires donnent 100 000 à 170 000 Circassiens et environ 30 000 Tchétchènes, sans source primaire ouverte", source: ""}
+lieux: {valeur: 2, unite: "gouvernorats dotés d'un siège réservé dans les circonscriptions locales (Amman, Zarqa)", annee: 2022, source: "https://iec.jo/sites/default/files/2025-09/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D9%84%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%20%D9%88%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D9%87%20%282%29.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Circassiens (Adyguéens) et les Tchétchènes de Jordanie descendent de populations du Caucase du Nord expulsées vers l'Empire ottoman au XIXe siècle et installées en Transjordanie entre 1878 et 1906, notamment à Amman, Wadi es-Sir, Jerash, Zarqa, Russeifa, Sweileh et Sukhna.
+  La loi n° 4 de 2022 sur l'élection de la Chambre des députés leur réserve conjointement au moins 3 des 138 sièges : un dans le gouvernorat d'Amman, un dans celui de Zarqa et au moins un dans la circonscription nationale des listes de partis.
+  Aucun autre droit collectif n'a été trouvé dans un texte en vigueur.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi n° 4 de 2022 sur l'élection de la Chambre des députés, art. 8 et 9 (texte consolidé publié par la Commission électorale indépendante)", nature: "loi", annee: 2022, source: "https://iec.jo/sites/default/files/2025-09/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D9%84%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%20%D9%88%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D9%87%20%282%29.pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Loi n° 4 de 2022 sur l'élection de la Chambre des députés : art. 8(b)(1) et 8(b)(6), un siège réservé aux Circassiens et Tchétchènes dans le gouvernorat d'Amman et un dans celui de Zarqa ; art. 8(d), au moins un siège dans la circonscription nationale ; art. 9(b), dans les circonscriptions locales, les candidats choisissent entre la voie du quota (siège réservé) et la concurrence libre.", source: "https://iec.jo/sites/default/files/2025-09/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D9%84%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%20%D9%88%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D9%87%20%282%29.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Aux élections du 10 septembre 2024, premières tenues sous la loi de 2022, les trois sièges réservés ont été pourvus : un dans la circonscription nationale (liste du Parti de la Charte nationale), un dans la circonscription Amman 3 et un dans celle de Zarqa (listes du Front d'action islamique), selon le tableau des résultats établi d'après la Commission électorale indépendante.", source: "https://en.wikipedia.org/wiki/2024_Jordanian_general_election"}
+chronologie:
+  - {annee: 1878, evenement: "Des Circassiens s'installent à Amman ; Wadi es-Sir suit en 1880 et Jerash en 1884."}
+  - {annee: 1903, evenement: "Les autorités ottomanes installent en Transjordanie les 700 premières familles tchétchènes."}
+  - {annee: 1906, evenement: "Fondation de Sukhna, dernier des établissements mixtes circassiens et tchétchènes créés depuis 1901 (Naour, Zarqa, Russeifa, Sweileh)."}
+  - {annee: 2010, evenement: "Le règlement de 2010 sur les circonscriptions électorales prévoit un quota (sièges réservés) pour les chrétiens, les Circassiens et les Tchétchènes à la Chambre des députés, selon le rapport de la Jordanie au Comité pour l'élimination de la discrimination raciale."}
+  - {annee: 2022, evenement: "Loi électorale n° 4 : au moins 3 sièges sur 138 réservés aux Circassiens et Tchétchènes ; elle abroge la loi n° 6 de 2016 (art. 73)."}
+  - {annee: 2024, evenement: "Élections du 10 septembre, premières sous la loi de 2022 ; les trois sièges réservés sont pourvus."}
+fiabilite:
+  verifie: ["Texte arabe de la loi n° 4 de 2022 (version consolidée, site de la Commission électorale indépendante) : art. 8(a) 138 sièges, art. 8(b)(1) Amman et 8(b)(6) Zarqa, un siège chacun pour les Circassiens et Tchétchènes, art. 8(d) au moins un siège national, art. 9(b) choix entre quota et concurrence libre, art. 73 abrogation de la loi n° 6 de 2016.", "Répartition 2 sièges locaux + 1 siège national (base Parline de l'Union interparlementaire ; fiche de la Fondation internationale pour les systèmes électoraux, IFES).", "Mention d'un quota pour les chrétiens, Circassiens et Tchétchènes depuis le règlement de 2010 (rapport de la Jordanie au CERD, CERD/C/JOR/13-17, 2011, § 48)."]
+  non_confirme: ["Population : aucun chiffre officiel ; les estimations (100 000 à 170 000 Circassiens, environ 30 000 Tchétchènes) ne proviennent pas d'une source primaire.", "Date d'origine de la représentation réservée avant 2010 non établie sur un texte.", "Aucune observation d'un organe de l'ONU nommant ces communautés n'a été trouvée ; le rapport de 2011 au CERD émane de l'État, il n'est donc pas retenu comme reconnaissance onusienne.", "Attribution des trois sièges réservés en 2024 (national, Amman 3, Zarqa) lue sur un tableau secondaire ; le Journal officiel n° 5950 des résultats n'a pas pu être ouvert.", "Associations culturelles (Association caritative circassienne, 1932) sans statut de droit collectif dans un texte consulté."]
+sources:
+  - {titre: "Loi n° 4 de 2022 sur l'élection de la Chambre des députés (texte consolidé, arabe) — Commission électorale indépendante de Jordanie", url: "https://iec.jo/sites/default/files/2025-09/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D9%84%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%20%D9%88%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D9%87%20%282%29.pdf"}
+  - {titre: "Union interparlementaire, Parline — Jordanie, Chambre des députés", url: "https://data.ipu.org/parliament/JO/JO-LC01/"}
+  - {titre: "Rapport de la Jordanie au Comité pour l'élimination de la discrimination raciale, CERD/C/JOR/13-17 (2011)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/JOR/13-17&l=en&t=pdf"}
+  - {titre: "Circassians in Jordan — Wikipedia", url: "https://en.wikipedia.org/wiki/Circassians_in_Jordan"}
+  - {titre: "Chechens in Jordan — Wikipedia", url: "https://en.wikipedia.org/wiki/Chechens_in_Jordan"}
+  - {titre: "IFES — Elections in the Hashemite Kingdom of Jordan: 2024 Parliamentary Elections", url: "https://www.ifes.org/tools-resources/faqs/elections-hashemite-kingdom-jordan-2024-parliamentary-elections"}
+  - {titre: "Union interparlementaire, Parline — Jordanie, élection de 2024", url: "https://data.ipu.org/parliament/JO/JO-LC01/election/JO-LC01-E20240910/"}
+  - {titre: "2024 Jordanian general election — Wikipedia", url: "https://en.wikipedia.org/wiki/2024_Jordanian_general_election"}

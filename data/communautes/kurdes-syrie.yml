@@ -1,0 +1,63 @@
+uid: "kurdes-syrie"
+nom: "Kurdes de Syrie"
+endonyme: "Kurd"
+territoire: "Nord et nord-est de la Syrie (gouvernorats de Hassaké et d'Alep notamment)"
+etats: ["Syrie"]
+region: "asie"
+coord: [36.7, 40.8]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 2500000, annee: 2018, perimetre: "estimation de Minority Rights Group pour l'ensemble des Kurdes de Syrie (« environ 2,5 millions », page mise à jour en mars 2018)", source: "https://minorityrights.org/communities/kurds-5/"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Kurdes vivent surtout dans le nord et le nord-est de la Syrie. Le décret présidentiel n° 13 du 16 janvier 2026 reconnaît le kurde comme langue nationale,
+  autorise son enseignement dans les écoles publiques et privées des zones où les Kurdes forment une part notable de la population, comme matière optionnelle ou dans le cadre d'activités culturelles et éducatives, accorde la nationalité syrienne
+  aux personnes d'origine kurde privées de nationalité depuis le recensement de Hassaké de 1962 et fait de Norouz (21 mars) un jour férié.
+  Une décision du ministre de l'Éducation du 27 août 2026 organise cet enseignement. L'Administration autonome du Nord et de l'Est de la Syrie, qui n'avait pas de base
+  dans le droit de l'État, est en cours d'intégration dans les institutions de l'État en application de l'accord du 29 janvier 2026 ; la dissolution des Forces démocratiques syriennes a été annoncée le 25 août 2026.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Décret présidentiel n° 13 de 2026 sur les droits des citoyens kurdes", nature: "loi", annee: 2026, source: "https://sana.sy/en/politics/2290934/"}
+  - {instrument: "Décision du ministre de l'Éducation du 27 août 2026 sur l'enseignement de la langue kurde", nature: "loi", annee: 2026, source: "https://english.enabbaladi.net/archives/2026/08/syria-allows-kurdish-classes-in-public-private-schools/"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Décret n° 13 de 2026 : le kurde est reconnu « langue nationale » (le décret ne le déclare pas langue officielle) et peut être enseigné dans les écoles publiques et privées des zones où les Kurdes forment une part notable de la population, comme matière optionnelle ou dans le cadre d'activités culturelles et éducatives.", source: "https://sana.sy/en/politics/2290934/"}
+  education: {valeur: "partiel", note: "Décision du ministre de l'Éducation du 27 août 2026 : trois séances de kurde et une séance d'activités par semaine à tous les niveaux dans les écoles publiques et privées des zones concernées ; la première année, les élèves peuvent suivre les sciences sociales, l'histoire, la géographie et la philosophie en arabe ou en kurde ; programmes préparés par le Centre national de développement des programmes scolaires.", source: "https://english.enabbaladi.net/archives/2026/08/syria-allows-kurdish-classes-in-public-private-schools/"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Fin septembre 2026, Enab Baladi décrit la préparation des programmes de kurde et le recrutement des enseignants par examens écrit et oral, sans indiquer que les cours ont commencé à la rentrée 2026-2027.", source: "https://english.enabbaladi.net/archives/2026/09/education-in-syria-challenges-beyond-school-doors/"}
+chronologie:
+  - {annee: 1962, evenement: "Recensement exceptionnel du gouvernorat de Hassaké (5 octobre, décret n° 93) : environ 120 000 Kurdes perdent la nationalité syrienne et sont inscrits comme « ajanib » (étrangers). Une partie de leurs descendants, absents des registres d'état civil, forme ensuite la catégorie des « maktoumin » (non enregistrés), sans papiers d'identité."}
+  - {annee: 2011, evenement: "Le décret n° 49 ouvre la nationalité aux Kurdes inscrits comme « ajanib » à Hassaké ; environ 150 000 « maktoumin » en restent exclus."}
+  - {annee: 2014, evenement: "Janvier : une administration transitoire est proclamée dans les cantons de Djézireh, Kobané et Afrin, sans reconnaissance par l'État."}
+  - {annee: 2026, evenement: "16 janvier : décret présidentiel n° 13 (langue nationale, nationalité, Norouz). 29 janvier : accord entre le gouvernement et les Forces démocratiques syriennes sur l'intégration des institutions civiles et militaires."}
+  - {annee: 2026, evenement: "25 août : annonce de la dissolution des Forces démocratiques syriennes. 27 août : décision du ministre de l'Éducation sur l'enseignement du kurde."}
+fiabilite:
+  verifie:
+    - "Contenu du décret n° 13 de 2026 (langue nationale, enseignement, nationalité, Norouz), d'après l'agence officielle SANA ; signé le vendredi 16 janvier 2026, compte rendu publié le 17."
+    - "Décision du 27 août 2026 : trois séances hebdomadaires de kurde et une séance d'activités, d'après Enab Baladi."
+    - "Recensement de 1962 (décret n° 93, environ 120 000 personnes), d'après Human Rights Watch (1996)."
+    - "Accord du 29 janvier 2026 et annonce de la dissolution des Forces démocratiques syriennes le 25 août 2026, d'après Asharq Al-Awsat."
+  non_confirme:
+    - "Texte intégral du décret n° 13 non consulté : seul le compte rendu de SANA a été lu."
+    - "Annonce du 25 août 2026 (deux séances optionnelles) puis décision du 27 août (trois séances) : Enab Baladi rapporte les deux versions successives ; seule la seconde est retenue."
+    - "Nombre de personnes ayant obtenu la nationalité en application du décret : aucune source trouvée."
+    - "Aucun document de l'ONU visant le décret n'a été trouvé."
+sources:
+  - {titre: "SANA — décret présidentiel n° 13 de 2026 sur les droits des citoyens kurdes", url: "https://sana.sy/en/politics/2290934/"}
+  - {titre: "Enab Baladi — enseignement du kurde dans les écoles publiques et privées (août 2026)", url: "https://english.enabbaladi.net/archives/2026/08/syria-allows-kurdish-classes-in-public-private-schools/"}
+  - {titre: "Enab Baladi — l'éducation en Syrie à la rentrée 2026", url: "https://english.enabbaladi.net/archives/2026/09/education-in-syria-challenges-beyond-school-doors/"}
+  - {titre: "Asharq Al-Awsat — processus d'intégration après la dissolution des Forces démocratiques syriennes", url: "https://english.aawsat.com/features/5314707-syrian-official-asharq-al-awsat-integration-process-following-sdf-dissolution"}
+  - {titre: "Minority Rights Group — Kurdes de Syrie", url: "https://minorityrights.org/communities/kurds-5/"}
+  - {titre: "Human Rights Watch — Syria: The Silenced Kurds (1996)", url: "https://www.hrw.org/reports/1996/Syria.htm"}

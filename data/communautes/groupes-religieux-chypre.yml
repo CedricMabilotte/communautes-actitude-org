@@ -1,0 +1,64 @@
+uid: "groupes-religieux-chypre"
+nom: "Groupes religieux de Chypre"
+endonyme: ""
+territoire: "République de Chypre (groupes sans territoire propre ; quatre villages maronites traditionnels dans le nord de l'île : Kormakitis, Asomatos, Agia Marina, Karpasia)"
+etats: ["Chypre"]
+region: "asie"
+coord: [35.2, 33.4]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 4, annee: null, perimetre: "villages comptant encore une population maronite traditionnelle (nord de l'île)", source: "https://minorityrights.org/country/cyprus/"}
+resume: >-
+  La Constitution de Chypre de 1960 (art. 2, al. 3) définit le « groupe religieux » (personnes résidant à Chypre et professant la même religion, au nombre de plus de mille) et l'oblige à opter pour la communauté grecque ou turque ; les Arméniens, les Latins (catholiques romains) et les Maronites ont opté en 1960 pour la communauté grecque.
+  Chaque groupe devait être représenté à la Chambre communale grecque (art. 109) ; après la suppression de cette Chambre en 1965, la loi n° 58 de 1970, qui nomme les trois groupes, leur donne un représentant élu chacun ; ce représentant n'est pas député, et les commissions parlementaires et l'administration doivent recueillir son avis.
+  Le mariage de leurs membres relève du droit de leur Église (art. 111). L'État les traite comme minorités nationales au titre de la Convention-cadre du Conseil de l'Europe.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Chypre a ratifié la Convention-cadre pour la protection des minorités nationales le 4 juin 1996 (entrée en vigueur le 1er février 1998) ; selon la délégation chypriote devant le CERD en 2026, les groupes arménien, latin et maronite détiennent les droits des minorités nationales prévus par la Convention-cadre. Avis du sixième cycle du Comité consultatif adopté le 1er juillet 2025.", annee: 2025, source: "https://www.coe.int/en/web/minorities/cyprus"}
+  - {mecanisme: "charte_langues_regionales", detail: "Au titre de la Charte européenne des langues régionales ou minoritaires, l'arménien est reconnu comme langue minoritaire de Chypre depuis le 1er décembre 2002.", annee: 2002, source: "https://en.wikipedia.org/wiki/Armenians_in_Cyprus"}
+  - {mecanisme: "charte_langues_regionales", detail: "L'arabe maronite chypriote est reconnu comme langue minoritaire de Chypre depuis 2008.", annee: 2008, source: "https://en.wikipedia.org/wiki/Cypriot_Maronite_Arabic"}
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, examen du vingt-cinquième rapport périodique de Chypre (CERD/C/CYP/25), 17 avril 2026 : la délégation présente les communautés arménienne, latine et maronite comme groupes religieux de la Constitution de 1960, titulaires des droits des minorités nationales au titre de la Convention-cadre, qui élisent des représentants à la Chambre des représentants et participent à ses réunions.", annee: 2026, source: "https://www.ohchr.org/en/meeting-summaries/2026/04/experts-committee-elimination-racial-discrimination-commend-cyprus"}
+base_nationale:
+  - {instrument: "Constitution de la République de Chypre, art. 2 (al. 3 et 5), 109, 110 (al. 3) et 111", nature: "constitution", annee: 1960, source: "https://www.constituteproject.org/constitution/Cyprus_2013"}
+  - {instrument: "Loi de 1970 sur les groupes religieux (représentation), n° 58/1970 (Ο περί Θρησκευτικών Ομάδων (Εκπροσώπηση) Νόμος), modifiée en dernier lieu par la loi 85(I)/2025", nature: "loi", annee: 1970, source: "https://cylaw.org/nomoi/enop/non-ind/1970_1_58/full.html"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Dans les matières autrefois confiées à la Chambre communale grecque, la loi n° 58 de 1970 (art. 4, révisé en 2011) oblige les commissions parlementaires compétentes à inviter les représentants des groupes religieux aux séances où ces matières sont examinées, et l'administration à les informer par écrit et à recueillir leur avis avant de décider ; une autorité qui s'écarte de cet avis doit motiver sa décision par écrit. Il s'agit d'une consultation (avis préalable), sans obligation de consentement.", source: "https://cylaw.org/nomoi/enop/non-ind/1970_1_58/full.html"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Chaque groupe élit un représentant pour la durée de la législature (loi n° 58 de 1970, art. 3) ; ce représentant ne peut pas être député (art. 9) et exprime l'avis de son groupe devant la Chambre des représentants et l'administration dans les matières autrefois confiées à la Chambre communale grecque (art. 4). La représentation à la Chambre communale grecque prévue par l'article 109 de la Constitution a disparu avec la suppression de cette Chambre en 1965.", source: "https://cylaw.org/nomoi/enop/non-ind/1970_1_58/full.html"}
+  statut_personnel: {valeur: "partiel", note: "Les fiançailles, le mariage et la nullité du mariage des membres d'un groupe religieux relèvent du droit de l'Église du groupe (Constitution, art. 111, al. 1) ; le divorce et les relations familiales relèvent d'un tribunal de la famille créé par la loi (art. 111, al. 2 révisé). L'Église de chaque groupe conserve les droits en matière religieuse qu'elle détenait sous le droit colonial (art. 110, al. 3).", source: "https://www.constituteproject.org/constitution/Cyprus_2013"}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les représentants des trois groupes sont élus et participent aux réunions de la Chambre des représentants (délégation chypriote devant le CERD, 2026) ; Minority Rights Group les décrit comme trois observateurs sans droit de vote et indique que la population maronite restée dans les villages du nord, hors du contrôle du gouvernement, est âgée et décroît, et seuls quatre villages comptent encore une population maronite traditionnelle.", source: "https://minorityrights.org/country/cyprus/"}
+chronologie:
+  - {annee: 1960, evenement: "Entrée en vigueur de la Constitution ; les groupes arménien, latin et maronite optent pour la communauté grecque (référendum du 13 novembre)."}
+  - {annee: 1965, evenement: "Suppression de la Chambre communale grecque, où les groupes religieux devaient être représentés (art. 109)."}
+  - {annee: 1970, evenement: "Loi n° 58 sur la représentation des groupes religieux : un représentant élu par groupe."}
+  - {annee: 1986, evenement: "Loi n° 70 : élection des représentants en même temps que les élections législatives."}
+  - {annee: 1996, evenement: "Ratification de la Convention-cadre pour la protection des minorités nationales (entrée en vigueur en 1998)."}
+  - {annee: 2002, evenement: "L'arménien est reconnu comme langue minoritaire au titre de la Charte européenne (1er décembre)."}
+  - {annee: 2008, evenement: "L'arabe maronite chypriote est reconnu comme langue minoritaire au titre de la Charte européenne."}
+  - {annee: 2025, evenement: "Dernière modification de la loi n° 58/1970 (loi 85(I)/2025) ; avis du sixième cycle du Comité consultatif de la Convention-cadre (1er juillet)."}
+  - {annee: 2026, evenement: "Examen du rapport de Chypre par le CERD (avril)."}
+fiabilite:
+  verifie: ["Constitution de 1960, art. 2 (al. 3 et 5), 87, 109, 110 (al. 3) et 111 (Constitute Project).", "Loi n° 58/1970 : définition du groupe religieux par les trois groupes nommés (art. 2), un représentant élu par groupe (art. 3), consultation obligatoire par les commissions parlementaires et l'administration avec motivation écrite en cas de désaccord (art. 4), inéligibilité des députés (art. 9), liste des lois modificatives jusqu'à 85(I)/2025 (CyLaw).", "Ratification de la Convention-cadre le 4 juin 1996 et avis du Comité consultatif du 1er juillet 2025 (Conseil de l'Europe).", "Déclarations de la délégation chypriote au CERD sur le statut de minorité nationale et la représentation, avril 2026 (résumé du HCDH)."]
+  non_confirme: ["Population : Minority Rights Group donne 4 940 Maronites, 2 600 Arméniens et 900 Latins sans année ; Wikipédia cite 3 656 Maronites au recensement de 2011 dans la zone contrôlée par le gouvernement ; aucun chiffre officiel daté consulté.", "Dates de reconnaissance de l'arménien (2002) et de l'arabe maronite chypriote (2008) au titre de la Charte européenne vérifiées sur Wikipédia seulement, pas sur le site du Conseil de l'Europe (inaccessible).", "Absence de droit de vote des représentants à la Chambre : rapportée par Minority Rights Group et Wikipédia, non lue dans la loi n° 58/1970 ni sur le site de la Chambre (inaccessible).", "Exemption fiscale des groupes religieux reconnus, hors activités commerciales, rapportée par Minority Rights Group sans référence au texte ; l'article correspondant n'a pas été trouvé dans la Constitution.", "Financement public des écoles arméniennes, maronite et latine non vérifié sur une source primaire.", "Option collective de 1960 pour la communauté grecque datée d'après Wikipédia (référendum de novembre 1960).", "Une fiche distincte pour les Maronites des villages du nord (Kormakitis) reste à examiner : aucun régime juridique propre à ces villages n'a été trouvé."]
+sources:
+  - {titre: "Constitution de Chypre (1960, rév. 2013) — Constitute Project", url: "https://www.constituteproject.org/constitution/Cyprus_2013"}
+  - {titre: "Ο περί Θρησκευτικών Ομάδων (Εκπροσώπηση) Νόμος του 1970 (58/1970) — CyLaw", url: "https://cylaw.org/nomoi/enop/non-ind/1970_1_58/full.html"}
+  - {titre: "Experts of the Committee on the Elimination of Racial Discrimination Commend Cyprus — HCDH, avril 2026", url: "https://www.ohchr.org/en/meeting-summaries/2026/04/experts-committee-elimination-racial-discrimination-commend-cyprus"}
+  - {titre: "Cyprus — Convention-cadre pour la protection des minorités nationales, Conseil de l'Europe", url: "https://www.coe.int/en/web/minorities/cyprus"}
+  - {titre: "Cyprus — Minority Rights Group", url: "https://minorityrights.org/country/cyprus/"}
+  - {titre: "Cypriot Maronite Arabic — Wikipedia", url: "https://en.wikipedia.org/wiki/Cypriot_Maronite_Arabic"}
+  - {titre: "Armenians in Cyprus — Wikipedia", url: "https://en.wikipedia.org/wiki/Armenians_in_Cyprus"}
+  - {titre: "Maronites in Cyprus — Wikipedia", url: "https://en.wikipedia.org/wiki/Maronites_in_Cyprus"}
+  - {titre: "Communal Chambers — Wikipedia", url: "https://en.wikipedia.org/wiki/Communal_Chambers"}

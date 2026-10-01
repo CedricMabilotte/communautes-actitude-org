@@ -8,7 +8,7 @@ coord: [36.4, 44.4]
 type: "minorite_nationale"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: 6370668, annee: 2024, perimetre: "population de la Région du Kurdistan, résultats préliminaires du recensement irakien de 2024", source: "https://www.kurdistan24.net/en/story/812393/kurdistan-region-accounts-for-14-of-iraqs-population-census-shows"}
+population: {valeur: 6370668, annee: 2024, perimetre: "population de la Région du Kurdistan, résultats préliminaires du recensement irakien de 2024 ; toutes appartenances, y compris les Turkmènes, les chrétiens et les Yézidis, qui ont leurs fiches propres", source: "https://www.kurdistan24.net/en/story/812393/kurdistan-region-accounts-for-14-of-iraqs-population-census-shows"}
 lieux: {valeur: 4, unite: "gouvernorats (33 districts, 138 sous-districts)", annee: 2021, source: "https://web.archive.org/web/20220731173708/https://krso.gov.krd/en/indicator"}
 surface_km2: {valeur: 46861, annee: 2021, perimetre: "superficie des quatre gouvernorats (Erbil, Duhok, Souleimaniye, Halabja), hors territoires disputés", source: "https://web.archive.org/web/20220731173708/https://krso.gov.krd/en/indicator"}
 villages: {valeur: 5605, annee: 2013, perimetre: "villages recensés par l'enquête agricole d'été 2013 du KRSO : Erbil 1 633, Souleimaniye 2 079, Duhok 1 441, administration de Garmian 452", source: "https://krso.gov.krd/content/upload/1/root/e104.pdf"}

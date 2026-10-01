@@ -1,0 +1,62 @@
+uid: "tigray-ethiopie"
+nom: "Tigréens (État régional du Tigray)"
+endonyme: ""
+territoire: "État régional du Tigray (capitale : Mekele)"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [13.8, 38.9]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 4314456, annee: 2007, perimetre: "population recensée de l'État régional du Tigray (recensement de 2007, résumé) ; les Tigréens (« Tigrie ») de tout le pays sont 4 483 776", source: "https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf"}
+lieux: {valeur: 7, unite: "zones administratives (six zones et la zone spéciale de Mekele)", annee: 2020, source: "https://en.wikipedia.org/wiki/Tigray_Region"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Tigréens forment une « nation, nationalité et peuple » au sens de la Constitution fédérale de 1994, dans le nord de l'Éthiopie.
+  L'État du Tigray est le premier des neuf États membres énumérés par la Constitution (art. 47), avec un droit à l'autodétermination, sécession comprise (art. 39).
+  Après la guerre de 2020-2022, l'Accord de cessation des hostilités signé à Pretoria le 2 novembre 2022 sous médiation de l'Union africaine prévoit une administration régionale intérimaire (art. 10(1)), mise en place en mars 2023 sur décision fédérale.
+  En mai 2026, le Front populaire de libération du Tigray (TPLF) écarte le président intérimaire nommé par le gouvernement fédéral ; les combats reprennent en septembre 2026.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme note la reconnaissance du droit des communautés ethniques et linguistiques à l'autodétermination au niveau de l'État régional (CCPR/C/ETH/CO/1, par. 26). Vise la catégorie, pas les Tigréens nommément.", annee: 2011, source: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 5, 39, 40, 47, 50, 52, 61, 62, 78 et 97", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {instrument: "Accord pour une paix durable par une cessation permanente des hostilités entre le gouvernement fédéral et le TPLF (Pretoria, 2 novembre 2022), art. 10(1) : administration régionale intérimaire inclusive", nature: "accord_paix", annee: 2022, source: "https://addisstandard.com/news-pm-abiy-appoints-getachew-reda-head-of-tirgay-interim-admin/"}
+  - {instrument: "Décision du Conseil des ministres et nomination du chef de l'administration intérimaire, fondées sur l'art. 62(9) de la Constitution (intervention fédérale ordonnée par la Chambre de la Fédération) et l'art. 14(2)(b) de la proclamation 359/1995", nature: "loi", annee: 2023, source: "https://addisstandard.com/news-pm-abiy-appoints-getachew-reda-head-of-tirgay-interim-admin/"}
+droits:
+  autogouvernement: {valeur: "conteste", note: "Art. 39(3) et 47(1) de la Constitution : institutions propres et État membre de la fédération. Depuis mars 2023, une administration intérimaire dont le chef est nommé par le Premier ministre (art. 62(9), accord de Pretoria art. 10(1)) remplace les organes élus ; le TPLF en écarte le président le 5 mai 2026.", source: "https://www.crisisgroup.org/qna/africa/ethiopia-eritrea/power-struggle-ethiopias-tigray-averting-return-war"}
+  pouvoir_normatif: {valeur: "conteste", note: "Art. 52(2) : les États exercent les pouvoirs non attribués à la fédération, dont l'adoption de leur constitution et de leurs lois. Depuis 2023, ce pouvoir passe par une administration intérimaire sous décision fédérale ; l'administration intérimaire crée un conseil intérimaire le 2 février 2025.", source: "https://en.wikipedia.org/wiki/Interim_Regional_Administration_of_Tigray"}
+  justice_propre: {valeur: "reconnu", note: "Art. 50(2) : les États détiennent le pouvoir judiciaire ; art. 78(5) : leurs conseils peuvent créer ou reconnaître des tribunaux religieux et coutumiers.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  terres: {valeur: "partiel", note: "Art. 40(3) : la propriété de la terre appartient exclusivement à l'État et aux peuples d'Éthiopie, propriété commune inaliénable ; art. 52(2)(d) : les États l'administrent selon la loi fédérale.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "partiel", note: "Art. 52(2)(d) : les États administrent la terre et les autres ressources naturelles conformément aux lois fédérales.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Art. 5(3) : chaque État membre fixe par la loi sa langue de travail ; art. 39(2) : droit de parler, écrire et développer sa langue.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Art. 97 : les États lèvent l'impôt sur le revenu des salariés de l'État et des entreprises privées, les redevances d'usufruit foncier et d'autres impôts ; art. 52(2)(e) : ils établissent et gèrent leur budget.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  representation: {valeur: "reconnu", note: "Art. 61(2) : chaque nation, nationalité et peuple a au moins un siège à la Chambre de la Fédération, plus un par million d'habitants.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) : droit inconditionnel à l'autodétermination, y compris la sécession, par vote aux deux tiers du conseil législatif puis référendum organisé par l'État fédéral ; art. 62(3) : la Chambre de la Fédération statue sur ces questions. Jamais exercé.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "contestee", note: "Selon Crisis Group, le gouvernement fédéral interdit le TPLF comme parti en mai 2025, prolonge seul le mandat de l'administration intérimaire le 8 avril 2026 ; il restreint à partir de fin 2025 les subventions budgétaires et l'approvisionnement en carburant de la région ; le TPLF installe Debretsion Gebremichael à la tête de la région le 5 mai 2026 ; des combats de grande ampleur reprennent le 23 septembre 2026. Le Tigray occidental reste hors du contrôle régional.", source: "https://www.crisisgroup.org/stm/africa/ethiopia-eritrea/arresting-dangerous-descent-back-war-northern-ethiopia"}
+chronologie:
+  - {annee: 1994, evenement: "Adoption de la Constitution fédérale ; l'État du Tigray figure en tête des neuf États membres (art. 47)."}
+  - {annee: 2007, evenement: "Recensement national : 4 314 456 habitants dans l'État du Tigray (résumé du recensement)."}
+  - {annee: 2011, evenement: "Observations du Comité des droits de l'homme sur l'autodétermination au niveau des États régionaux."}
+  - {annee: 2020, evenement: "Élection régionale organisée par le Tigray ; début de la guerre entre forces fédérales et forces tigréennes le 4 novembre."}
+  - {annee: 2022, evenement: "Accord de cessation des hostilités signé à Pretoria le 2 novembre, sous médiation de l'Union africaine."}
+  - {annee: 2023, evenement: "Nomination de Getachew Reda à la tête de l'administration régionale intérimaire (23 mars)."}
+  - {annee: 2025, evenement: "Création d'un conseil intérimaire (février) ; Tadesse Werede remplace Getachew Reda ; interdiction du TPLF comme parti (mai)."}
+  - {annee: 2026, evenement: "Prolongation fédérale du mandat intérimaire (8 avril) ; le TPLF écarte Tadesse Werede et installe Debretsion Gebremichael (5 mai) ; reprise des combats (23 septembre)."}
+fiabilite:
+  verifie: ["Texte des art. 5, 39, 40, 47, 50, 52, 61, 62, 78 et 97 de la Constitution (Constitute Project).", "Par. 26 de CCPR/C/ETH/CO/1 (19 août 2011).", "Population de l'État du Tigray en 2007 (4 314 456) et effectif national des « Tigrie » (4 483 776) dans le résumé du recensement (copie archivée).", "Fondement juridique de la nomination de mars 2023 : directive du Conseil des ministres du 18 mars 2023, art. 62(9), proclamation 359/1995 art. 14(2)(b), accord de Pretoria art. 10(1) (Addis Standard).", "Événements de 2025-2026 : interdiction du TPLF, prolongation du 8 avril 2026, éviction du 5 mai 2026, combats du 23 septembre 2026 (Crisis Group, 15 mai et 25 septembre 2026)."]
+  non_confirme: ["Texte officiel de l'accord de Pretoria non ouvert ; contenu de l'art. 10(1) lu dans la presse (Addis Standard).", "Date exacte de la nomination de Tadesse Werede : mars ou avril 2025 selon les sources.", "Surface : valeurs divergentes selon les sources (53 036 km² dans une encyclopédie) ; aucune valeur retenue.", "Nombre de zones (sept, depuis la réorganisation de 2020) lu dans une encyclopédie ; le recensement de 2007 comptait cinq zones et la zone spéciale de Mekele.", "Constitution régionale du Tigray non consultée.", "Éthiopie absente lors du vote de la DNUDPA (A/61/PV.107)."]
+sources:
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur l'Éthiopie, CCPR/C/ETH/CO/1 (2011)", url: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+  - {titre: "Agence centrale de la statistique — Résumé du recensement de 2007 (copie archivée)", url: "https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf"}
+  - {titre: "Addis Standard — Nomination de Getachew Reda à la tête de l'administration intérimaire du Tigray (2023)", url: "https://addisstandard.com/news-pm-abiy-appoints-getachew-reda-head-of-tirgay-interim-admin/"}
+  - {titre: "Crisis Group — Power Struggle in Ethiopia's Tigray: Averting a Return to War (15 mai 2026)", url: "https://www.crisisgroup.org/qna/africa/ethiopia-eritrea/power-struggle-ethiopias-tigray-averting-return-war"}
+  - {titre: "Crisis Group — Arresting the Dangerous Descent Back into War in Northern Ethiopia (25 septembre 2026)", url: "https://www.crisisgroup.org/stm/africa/ethiopia-eritrea/arresting-dangerous-descent-back-war-northern-ethiopia"}
+  - {titre: "Interim Regional Administration of Tigray — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Interim_Regional_Administration_of_Tigray"}
+  - {titre: "Ethiopia–Tigray peace agreement — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Ethiopia–Tigray_peace_agreement"}
+  - {titre: "Tigray Region — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Tigray_Region"}

@@ -1,0 +1,58 @@
+uid: "administrations-nationalites-amhara"
+nom: "Administrations de nationalité de la région Amhara"
+endonyme: ""
+territoire: "Zones de nationalité Wag Hemra, Awi et Oromo et woreda (district) de nationalité argobba, État régional Amhara"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [11.4, 38.9]
+type: "minorite_nationale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 4, unite: "administrations de nationalité (3 zones, 1 woreda)", annee: 2010, source: "https://chilot.wordpress.com/wp-content/uploads/2013/05/minority-rights-protection-in-the-amhara-national-regional-state-the-case-of-the-kemant-people-in-north-gondar.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution révisée de l'État régional Amhara (2001) dote certaines nationalités minoritaires de la région de conseils propres (art. 45(2)) et d'administrations de nationalité (art. 73).
+  Trois zones de nationalité existent : Wag Hemra (Agaw Xamir), Awi (Agaw Awi) et Oromo ; la Proclamation régionale 130/2006 y ajoute un woreda (district) de nationalité argobba.
+  Chaque administration comprend un conseil de nationalité, un conseil administratif et un organe judiciaire.
+  Les Qemant, absents de la constitution régionale de 2001, obtiennent du gouvernement régional une administration propre, d'abord sur 42 kebele (plus petite unité administrative), puis en 2017 sur 69 unités ; un référendum se tient le 17 septembre 2017 dans des kebele disputés de quatre woredas.
+  Le régime de l'État régional lui-même relève de la fiche « Amhara (État régional Amhara) ».
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 39, 47 et 61", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {instrument: "Constitution révisée de l'État régional Amhara (Proclamation 59/2001), art. 5, 39, 45(2), 73, 74 et 78", nature: "constitution", annee: 2001, source: "https://chilot.wordpress.com/wp-content/uploads/2013/05/minority-rights-protection-in-the-amhara-national-regional-state-the-case-of-the-kemant-people-in-north-gondar.pdf"}
+  - {instrument: "Proclamation régionale 130/2006 portant création du woreda de nationalité argobba et fixant ses pouvoirs (Zikre Hig n° 15, 18 avril 2006)", nature: "loi", annee: 2006, source: "https://chilot.wordpress.com/wp-content/uploads/2013/05/minority-rights-protection-in-the-amhara-national-regional-state-the-case-of-the-kemant-people-in-north-gondar.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Constitution régionale révisée de 2001, art. 45(2) et 73(2) : chaque administration de nationalité a un conseil de nationalité (législatif), un conseil administratif (exécutif) et un organe judiciaire ; Proclamation 130/2006, art. 3(1) : le woreda argobba est créé comme unité « autonome » de gouvernement propre.", source: "https://chilot.wordpress.com/wp-content/uploads/2013/05/minority-rights-protection-in-the-amhara-national-regional-state-the-case-of-the-kemant-people-in-north-gondar.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Constitution régionale révisée, art. 74(3) : le conseil de nationalité fixe notamment la langue de travail et la protection de la langue et de l'histoire de la nationalité ; art. 73(2) : ce conseil est l'organe législatif de l'administration de nationalité.", source: "https://chilot.wordpress.com/wp-content/uploads/2013/05/minority-rights-protection-in-the-amhara-national-regional-state-the-case-of-the-kemant-people-in-north-gondar.pdf"}
+  justice_propre: {valeur: "partiel", note: "Constitution régionale révisée, art. 73(2) : chaque administration de nationalité comprend un organe judiciaire.", source: "https://chilot.wordpress.com/wp-content/uploads/2013/05/minority-rights-protection-in-the-amhara-national-regional-state-the-case-of-the-kemant-people-in-north-gondar.pdf"}
+  terres: {valeur: "partiel", note: "Constitution fédérale de 1994, art. 40(3) : la terre est propriété commune des nations, nationalités et peuples d'Éthiopie, inaliénable ; la propriété est attribuée à l'État et aux peuples, pas à l'administration de nationalité.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Constitution régionale révisée, art. 5 : égalité des langues parlées dans la région ; art. 74(3) : le conseil de nationalité fixe la langue de travail de la nationalité.", source: "https://chilot.wordpress.com/wp-content/uploads/2013/05/minority-rights-protection-in-the-amhara-national-regional-state-the-case-of-the-kemant-people-in-north-gondar.pdf"}
+  education: {valeur: "partiel", note: "Sur le fondement des art. 5 et 39(1) de la Constitution régionale révisée, l'awngi, le xamtanga et l'oromo sont langues d'enseignement dans le primaire des administrations de nationalité (constat de 2009).", source: "https://chilot.wordpress.com/wp-content/uploads/2013/05/minority-rights-protection-in-the-amhara-national-regional-state-the-case-of-the-kemant-people-in-north-gondar.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Constitution fédérale de 1994, art. 39(3) et 61(2) : représentation équitable et au moins un siège à la Chambre de la Fédération pour chaque nation, nationalité et peuple ; au Conseil régional, seuls les Awi, Himra, Oromo et Argobba sont représentés à côté des Amhara (thèse de 2010).", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "reconnu", note: "Constitution fédérale de 1994, art. 39(1) et 39(4) : droit de chaque nation, nationalité et peuple à l'autodétermination, sécession comprise ; art. 47(2) : droit de créer son propre État membre. Jamais exercé par ces nationalités.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "partielle", note: "En 2010, une thèse de la faculté de droit d'Addis-Abeba constate le fonctionnement des quatre administrations et l'enseignement primaire en awngi, xamtanga et oromo, mais l'absence de reconnaissance des Qemant et des Woyto. Selon Ethiopia Insight (16 décembre 2018), la Commission éthiopienne des droits de l'homme a imputé à la police spéciale amhara et à des habitants la mort de 74 Qemant et 23 Amhara lors de violences en décembre 2015, après l'octroi des 42 premiers kebele, et trois unités revendiquées restent hors de l'administration qemant.", source: "https://www.ethiopia-insight.com/2018/12/16/violent-qemant-dispute-fueling-explosive-amhara-tigray-divide/"}
+chronologie:
+  - {annee: 1994, evenement: "Constitution fédérale : droit de chaque nation, nationalité et peuple à l'autogouvernement et à l'autodétermination (art. 39)."}
+  - {annee: 2001, evenement: "Constitution révisée de l'État régional Amhara (Proclamation 59/2001) : conseils propres et administrations de nationalité (art. 45(2) et 73)."}
+  - {annee: 2006, evenement: "Proclamation régionale 130/2006 : création du woreda de nationalité argobba (18 avril)."}
+  - {annee: 2015, evenement: "Violences de décembre dans les woredas de Chilga, Metemma et Lay Armachiho, après l'octroi aux Qemant d'une administration propre sur 42 kebele."}
+  - {annee: 2017, evenement: "Sur demande de la Chambre de la Fédération (20 juillet), référendum du 17 septembre sur une administration qemant ; 20 831 votants sur 23 283 inscrits. La même année, administration qemant accordée dans 69 unités, refusée dans trois autres."}
+fiabilite:
+  verifie: ["Art. 39(1), 39(3), 47(2) et 61(2) de la Constitution fédérale (Constitute Project).", "Référendum du 17 septembre 2017 : demande de la Chambre de la Fédération du 20 juillet 2017, 12 kebele visés dans quatre woredas, vote tenu dans huit kebele, 23 283 inscrits et 20 831 votants (rapport de la Commission électorale nationale).", "Surface du woreda argobba (305,52 km²) et population de 2007 (34 998) lues dans une encyclopédie.", "Art. 40(3) de la Constitution fédérale (Constitute Project)."]
+  non_confirme: ["Texte de la Constitution régionale révisée de 2001 et de la Proclamation 130/2006 : non consultés directement ; articles cités d'après une thèse de 2010 (Addis Ababa University).", "Administration qemant : 42 kebele (avant décembre 2015) puis 69 unités (2017) selon la presse (Ethiopia Insight, 2018) ; texte régional de création non consulté ; l'article parle de « districts » pour les 69 unités ; le rapport de la Commission électorale ne donne pas le résultat par kebele. Elle ne figure pas au tableau faute de surface sourcée.", "Surfaces du tableau : lues dans une encyclopédie (valeurs reprises de Geohive), année de référence non précisée par la source.", "Population : seules des populations de zones (toutes appartenances) sont disponibles, pas d'effectif par nationalité ; aucune valeur agrégée retenue.", "Fiscalité et budget propres des administrations de nationalité : aucune source trouvée."]
+sources:
+  - {titre: "Belay Shibeshi Awoke, Minority Rights Protection in the Amhara National Regional State: The Case of the Kemant People in North Gondar, thèse, Addis Ababa University (2010)", url: "https://chilot.wordpress.com/wp-content/uploads/2013/05/minority-rights-protection-in-the-amhara-national-regional-state-the-case-of-the-kemant-people-in-north-gondar.pdf"}
+  - {titre: "Commission électorale nationale d'Éthiopie — Amhara and Qemant People's Referendum", url: "https://nebe.org.et/sites/default/files/2020-04/Amhara-and-Qemant-Referendum-english.pdf"}
+  - {titre: "Ethiopia Insight — Violent Qemant dispute fueling explosive Amhara-Tigray divide (16 décembre 2018)", url: "https://www.ethiopia-insight.com/2018/12/16/violent-qemant-dispute-fueling-explosive-amhara-tigray-divide/"}
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "Argobba special woreda (Amhara) — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Argobba_special_woreda_(Amhara)"}
+  - {titre: "Wag Hemra Zone — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Wag_Hemra_Zone"}
+  - {titre: "Agew Awi Zone — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Agew_Awi_Zone"}
+  - {titre: "Oromia Zone — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Oromia_Zone"}

@@ -1,0 +1,58 @@
+uid: "oromo-oromia"
+nom: "Oromo (État régional d'Oromia)"
+endonyme: "Oromoo"
+territoire: "État régional d'Oromia (Oromiyaa)"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [8.0, 39.0]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 27158471, annee: 2007, perimetre: "population recensée de l'État régional d'Oromia, toutes appartenances (rapport de synthèse du recensement de 2007) ; dont 23 846 380 Oromo (87,8 %)", source: "https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf"}
+lieux: {valeur: 21, unite: "zones administratives, dont la zone spéciale entourant Finfinne (liste du gouvernement régional consultée en 2020, reprise par l'encyclopédie)", annee: 2020, source: "https://en.wikipedia.org/wiki/Oromia"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Oromo forment une « nation, nationalité et peuple » au sens de la Constitution fédérale éthiopienne de 1994, dans le centre, l'ouest et le sud du pays.
+  Ils disposent de l'État régional d'Oromia, l'un des neuf États fondateurs de la fédération (art. 47), avec son conseil, son gouvernement, sa constitution et l'afaan oromo (langue oromo) comme langue de travail.
+  La Constitution reconnaît un « intérêt particulier » de l'Oromia à Addis-Abeba (Finfinne), ville fédérale enclavée dans son territoire (art. 49(5)).
+  Comme les autres nations de la fédération, les Oromo ont un droit constitutionnel à l'autodétermination, sécession comprise (art. 39).
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme note la reconnaissance du droit des communautés ethniques et linguistiques à l'autodétermination au niveau de l'État régional (CCPR/C/ETH/CO/1, par. 26). Vise la catégorie, pas les Oromo nommément.", annee: 2011, source: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme relève la poursuite des violences des forces de sécurité, notamment des forces spéciales de police régionales, depuis septembre 2018, exécutions extrajudiciaires comprises, dans plusieurs régions dont l'Oromia et l'Amhara (par. 17), et les arrestations lors des manifestations qui ont suivi le meurtre du chanteur oromo Hachalu Hundessa en juin 2020 : 3 560 selon l'État, 9 000 selon d'autres signalements (par. 41). Vise l'Oromia pour des violations, pas pour son statut.", annee: 2022, source: "https://docs.un.org/en/CCPR/C/ETH/CO/2"}
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 5, 34, 39, 40, 47, 49, 50, 52, 61, 78 et 97", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Art. 39(3) : droit de chaque nation, nationalité et peuple à l'autogouvernement et à ses propres institutions ; art. 47(1) : l'État d'Oromia est l'un des neuf États membres de la fédération.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Art. 52(2) : les États exercent tous les pouvoirs non attribués à la fédération, dont l'adoption de leur constitution et de leurs lois.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  justice_propre: {valeur: "reconnu", note: "Art. 50(2) : les États détiennent le pouvoir judiciaire ; art. 78(3) : ils créent leurs cours suprême, supérieures et de première instance ; art. 78(5) : leurs conseils peuvent créer ou reconnaître des tribunaux religieux et coutumiers ; art. 34(5) : le statut personnel et familial peut être jugé selon le droit religieux ou coutumier avec l'accord des parties.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  terres: {valeur: "partiel", note: "Art. 40(3) : la propriété de la terre appartient exclusivement à l'État et aux peuples d'Éthiopie, propriété commune inaliénable ; art. 52(2)(d) : les États l'administrent selon la loi fédérale.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "partiel", note: "Art. 52(2)(d) : les États administrent la terre et les autres ressources naturelles selon les lois fédérales ; art. 49(5) : l'intérêt particulier de l'Oromia à Addis-Abeba pour les services sociaux et l'utilisation des ressources naturelles est respecté.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Art. 5(3) : chaque État membre fixe par la loi sa langue de travail ; art. 39(2) : droit de parler, écrire et développer sa langue. L'usage de l'afaan oromo comme langue de travail de l'Oromia est attesté par une encyclopédie ; la loi régionale n'a pas été consultée.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Art. 97 : les États lèvent l'impôt sur le revenu des salariés de l'État et des entreprises privées, les redevances d'usufruit foncier (droit d'usage de la terre) et d'autres impôts ; art. 52(2)(e) : ils établissent et gèrent leur budget.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  representation: {valeur: "reconnu", note: "Art. 61(2) : chaque nation, nationalité et peuple a au moins un siège à la Chambre de la Fédération, plus un par million d'habitants.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) : droit inconditionnel à l'autodétermination, y compris la sécession, par vote aux deux tiers du conseil législatif puis référendum organisé par l'État fédéral dans les trois ans. Jamais exercé.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "contestee", note: "Human Rights Watch établit que les forces de sécurité ont tué plus de 400 manifestants et autres personnes et arrêté des dizaines de milliers d'autres en Oromia depuis novembre 2015 (enquête couvrant la période jusqu'à mai 2016), lors des manifestations nées de l'opposition au plan directeur d'extension des limites d'Addis-Abeba, qui faisait craindre le déplacement d'agriculteurs oromo ; le Comité des droits de l'homme relève en 2022 la poursuite des violences des forces de sécurité dans la région depuis 2018.", source: "https://www.hrw.org/report/2016/06/16/such-brutal-crackdown/killings-and-arrests-response-ethiopias-oromo-protests"}
+chronologie:
+  - {annee: 1994, evenement: "Adoption de la Constitution fédérale ; l'Oromia figure parmi les neuf États membres (art. 47) et son intérêt particulier à Addis-Abeba est inscrit (art. 49(5))."}
+  - {annee: 2000, evenement: "La capitale régionale est transférée d'Addis-Abeba à Adama."}
+  - {annee: 2004, evenement: "Référendum (octobre) dans environ 420 kebele (circonscriptions locales) disputés entre l'Oromia et l'État somali ; environ 80 % des zones disputées sont attribuées à l'Oromia selon les résultats officiels."}
+  - {annee: 2005, evenement: "Annonce du retour de la capitale régionale à Addis-Abeba (10 juin)."}
+  - {annee: 2014, evenement: "Manifestations contre le plan directeur d'extension d'Addis-Abeba ; d'avril à juin, des dizaines de morts selon Human Rights Watch."}
+  - {annee: 2015, evenement: "Reprise des manifestations en novembre ; plus de 400 morts jusqu'en mai 2016 selon Human Rights Watch."}
+  - {annee: 2020, evenement: "Meurtre du chanteur Hachalu Hundessa (juin) ; 3 560 arrestations selon l'État, 9 000 selon d'autres signalements relevés par le Comité des droits de l'homme."}
+  - {annee: 2022, evenement: "Observations finales du Comité des droits de l'homme nommant la région d'Oromia."}
+fiabilite:
+  verifie: ["Texte des art. 5(3), 39, 47(1), 49(5) et 61(2) de la Constitution (Constitute Project).", "Par. 26 de CCPR/C/ETH/CO/1 (2011).", "Par. 17 et 41 de CCPR/C/ETH/CO/2 (2022).", "Bilan de Human Rights Watch (rapport du 15 juin 2016).", "Population de 2007 et nombre d'Oromo dans la région : rapport de synthèse du recensement (Agence centrale de la statistique, 2008)."]
+  non_confirme: ["Population : le rapport statistique final du recensement donnerait 26 993 933 habitants selon l'encyclopédie ; le rapport de synthèse retenu donne 27 158 471.", "Nombre de zones : liste de 2020 ; la ville de Sheger, créée en 2022 autour d'Addis-Abeba, a pu modifier le découpage de la zone spéciale entourant Finfinne.", "Langue de travail régionale et langue de l'enseignement primaire : attestées par une encyclopédie, loi régionale non consultée.", "Surface : 353 690 km² ou 353 006,81 km² selon les passages de la même encyclopédie ; aucune valeur retenue.", "Constitution régionale de l'Oromia (adoptée en 1992 selon l'encyclopédie, révisée ensuite), nom du conseil régional (Caffee) et loi fixant la langue de travail : non consultés.", "Statut de l'afaan oromo comme langue de travail fédérale : décision du 29 février 2020 rapportée par Africanews (4 mars 2020), texte non consulté.", "La reconnaissance onusienne vise la catégorie « nations, nationalités et peuples » ; l'Oromia est nommée pour des violations, pas pour son statut.", "Conflit armé avec l'Armée de libération oromo depuis 2018 : non documenté ici par une source ouverte."]
+sources:
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur l'Éthiopie, CCPR/C/ETH/CO/1 (2011)", url: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur le deuxième rapport de l'Éthiopie, CCPR/C/ETH/CO/2 (2022)", url: "https://docs.un.org/en/CCPR/C/ETH/CO/2"}
+  - {titre: "Human Rights Watch — « Such a Brutal Crackdown »: Killings and Arrests in Response to Ethiopia's Oromo Protests (2016)", url: "https://www.hrw.org/report/2016/06/16/such-brutal-crackdown/killings-and-arrests-response-ethiopias-oromo-protests"}
+  - {titre: "Agence centrale de la statistique — Summary and Statistical Report of the 2007 Population and Housing Census Results (2008, archive)", url: "https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf"}
+  - {titre: "Oromia — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Oromia"}

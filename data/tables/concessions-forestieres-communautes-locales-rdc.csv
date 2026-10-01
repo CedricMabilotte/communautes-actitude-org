@@ -1,0 +1,193 @@
+nom,subdivision,surface_km2,annee,source_url
+Kalunda Kisununu,"Bukanda, Kipushi, Haut-Katanga",29.9,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Katanga,"Lufira, Kambove, Haut-Katanga",60.95,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kete Kaisala,"Bukanda, Kipushi, Haut-Katanga",271.37,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kibundu,"Kisamamba, Kasenga, Haut-Katanga",178.4,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kibuye,"Bukanda, Kipushi, Haut-Katanga",62.79,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kikonke,"Kaponda, Kipushi, Haut-Katanga",40.42,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kitafya,"Kisamamba, Kasenga, Haut-Katanga",500.0,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kyalubamba,"Bukanda, Kipushi, Haut-Katanga",37.01,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kyunga,"Lufira, Kambove, Haut-Katanga",79.38,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Lukutwe,"Lufira, Kambove, Haut-Katanga",82.75,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Makondo,"Lufira, Kambove, Haut-Katanga",89.05,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mampa,"Kaponda, Kipushi, Haut-Katanga",68.93,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Milando,"Lufira, Kambove, Haut-Katanga",129.0,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Musoshi,"Kaponda, Kipushi, Haut-Katanga",173.77,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mwanguvu,"Lufira, Kambove, Haut-Katanga",8.4,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mwawa,"Kaponda, Kipushi, Haut-Katanga",46.04,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Potonti,"Kisamamba, Kasenga, Haut-Katanga",139.0,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Sapwe I,"Kisamamba, Kasenga, Haut-Katanga",347.48,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Satumba,"Lufira, Kambove, Haut-Katanga",30.37,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Shonongo,"Kisamamba, Kasenga, Haut-Katanga",15.0,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Batwa Bushobe,"Bakuba, Mweka, Kasaï",285.36,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Batwa Kembe,"Bakuba, Mweka, Kasaï",465.46,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bondo,"Lubi, Dimbelenge, Kasaï-Central",293.47,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kombe,"Lubi, Dimbelenge, Kasaï-Central",254.96,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mitshia,"Lubi, Dimbelenge, Kasaï-Central",310.69,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Tongonuena,"Lubi, Dimbelenge, Kasaï-Central",258.48,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kimongo Mananu,"Lubuzi, Tshela, Kongo Central",9.64,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Malemba,"De La Mer, Moanda, Kongo Central",103.93,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mbumba Mongo,"Lubolo, Tshela, Kongo Central",4.43,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mabaka,"Dinga, Kenge, Kwango",103.0,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Makasa Mandundu,"Bukanga Lonzo, Kenge, Kwango",106.94,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mbinda Nzadi,"Dinga, Kenge, Kwango",135.02,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Miboti,"Pelende-Nord, Kenge, Kwango",315.21,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kialu,"Luniungu, Bulungu, Kwilu",102.63,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kikongo,"Nko, Bulungu, Kwilu",124.86,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kingwaya,"Nko, Bulungu, Kwilu",17.54,2019,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mbanza,"Nko, Bulungu, Kwilu",204.71,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mbonga Kakesa,"Nko, Bulungu, Kwilu",122.94,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mikwi,"Mikwi, Bulungu, Kwilu",92.97,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mwensia,"Mikwi, Bulungu, Kwilu",289.81,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Sia,"Kizweme, Bagata, Kwilu",492.47,2019,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bodzuna,"Bateke Nord, Bolobo, Mai-Ndombe",47.82,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bolombi,"Pendjwa, Kiri, Mai-Ndombe",405.08,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bomoma-Mpoke,"Lokolama, Oshwe, Mai-Ndombe",121.99,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Embirima,"Bateke Nord, Bolobo, Mai-Ndombe",93.47,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Endala,"Bateke Nord, Bolobo, Mai-Ndombe",65.78,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Imoma,"Ell/Nkaw, Oshwe, Mai-Ndombe",357.2,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Imoma,"Ell/Nkaw, Oshwe, Mai-Ndombe",360.1,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kadjo,"Lokolama, Oshwe, Mai-Ndombe",160.18,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kilongalola,"Lokolama, Oshwe, Mai-Ndombe",390.29,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Lompole,"Ell/Nkaw, Oshwe, Mai-Ndombe",357.2,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Lovua,"Baboma Nord, Mushie, Mai-Ndombe",233.61,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Maa,"Baboma Nord, Mushie, Mai-Ndombe",291.79,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Makaa,"Bateke Nord, Bolobo, Mai-Ndombe",15.87,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Maseke,"Baboma Nord, Mushie, Mai-Ndombe",333.96,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mbee-Nkuru,"Bateke Nord, Bolobo, Mai-Ndombe",175.31,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mongama,"Baboma Nord, Mushie, Mai-Ndombe",203.74,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mpelu,"Bateke Nord, Bolobo, Mai-Ndombe",60.51,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Nkala,"Bateke Nord, Bolobo, Mai-Ndombe",41.13,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ntya-Mbomo,"Bateke Nord, Bolobo, Mai-Ndombe",35.12,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Valosi,"Lokolama, Oshwe, Mai-Ndombe",310.73,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Welo,"Basengele, Inongo, Mai-Ndombe",243.33,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Yayisomba,"Lokolama, Oshwe, Mai-Ndombe",381.45,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bakuko,"Ambwe, Kailo, Maniema",470.13,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Banamukulumanya,"Babira-Bakwame, Punia, Maniema",486.95,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Furaha,"Bangengele, Kailo, Maniema",62.38,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kakungu,"Bangengele, Kailo, Maniema",99.07,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Koenonga,"Maringa, Kasongo, Maniema",57.82,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+MIB/059,"Babira-Bakwame, Punia, Maniema",496.35,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mbuli,"Bangengele, Kailo, Maniema",147.37,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mokoba,"Wazimba wa Mulu, Kasongo, Maniema",245.37,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mongobea,"Babira-Bakwame, Punia, Maniema",486.95,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mpande,"Wasongola, Kailo, Maniema",33.74,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mwanvuwa,"Wakabangu II, Pangi, Maniema",312.82,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Nyembe,"Bangengele, Kailo, Maniema",316.58,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ondjoka,"Matapa, Kibombo, Maniema",492.04,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Umoja,"Wasongola, Kailo, Maniema",33.74,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Babumbu,"Wanianga, Walikale, Nord-Kivu",80.66,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bafuna-Bakano/Kabangwa,"Bakano, Walikale, Nord-Kivu",325.41,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bamasobha,"Bapere, Lubero, Nord-Kivu",291.42,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bambuti Babuloko,"Bakano, Walikale, Nord-Kivu",55.73,2019,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bananzigha/Kameli,"Bakano, Walikale, Nord-Kivu",81.81,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Banarindirwa et Banantandu,"Wanianga, Walikale, Nord-Kivu",39.74,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Banisamasi,"Bakano, Walikale, Nord-Kivu",458.41,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Basengele/Binakwa,"Bakano, Walikale, Nord-Kivu",336.97,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bassa Nord / Rusi,"Wanianga, Walikale, Nord-Kivu",492.16,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bassa Sud / Ndjingala,"Wanianga, Walikale, Nord-Kivu",425.99,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Batiri/Boboro,"Wanianga, Walikale, Nord-Kivu",307.2,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Batiri/Mpofi,"Wanianga, Walikale, Nord-Kivu",292.55,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Batulanga/Ibanga,"Bakano, Walikale, Nord-Kivu",118.06,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Benyangala-Kikingi,"Ruwenzori, Beni, Nord-Kivu",48.36,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Buloloma,"Beni-Mbau, Beni, Nord-Kivu",26.58,2019,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kyakaba Bolema,"Ruwenzori, Beni, Nord-Kivu",13.0,2019,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mbungu,"Wanianga, Walikale, Nord-Kivu",356.43,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Motondo / Makana,"Wanianga, Walikale, Nord-Kivu",236.42,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Nsuhu,"Wanianga, Walikale, Nord-Kivu",492.19,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Seko,"Wanianga, Walikale, Nord-Kivu",215.78,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Tenambo,"Beni Mbau, Beni, Nord-Kivu",166.61,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Asu'u,"Basile, Mwenga, Sud-Kivu",232.0,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bagunga,"Wamuzimu, Mwenga, Sud-Kivu",282.75,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bakisimbi,"Bakisi, Shabunda, Sud-Kivu",461.13,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bamozi,"Bakisi, Shabunda, Sud-Kivu",480.03,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bashiluhaka,"Wamuzimu, Mwenga, Sud-Kivu",300.38,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Basimbi,"Wamuzimu, Mwenga, Sud-Kivu",397.36,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Basimbi,"Wamuzimu, Mwenga, Sud-Kivu",386.89,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bawanda,"Basile, Mwenga, Sud-Kivu",315.59,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bingilibazala/Bawandeme et Banakabiwa,"Wamuzimu, Mwenga, Sud-Kivu",100.44,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bizalugulu,"Basile, Mwenga, Sud-Kivu",137.93,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Burhinyi,"Burhinyi, Mwenga, Sud-Kivu",52.72,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Buuse,"Wamuzimu, Mwenga, Sud-Kivu",481.6,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ihangi et Mukangala,"Luindi, Mwenga, Sud-Kivu",73.19,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ilowe,"Luindi, Mwenga, Sud-Kivu",11.69,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Irangi,"Luindi, Mwenga, Sud-Kivu",88.11,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kalambi,"Luindi, Mwenga, Sud-Kivu",16.61,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kigogo,"Luindi, Mwenga, Sud-Kivu",73.45,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Lubanda-Lwitu,"Bakisi, Shabunda, Sud-Kivu",463.9,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Lwango,"Bakisi, Shabunda, Sud-Kivu",467.61,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Se'ele,"Basile, Mwenga, Sud-Kivu",80.13,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Tuligano,"Bakisi, Shabunda, Sud-Kivu",380.43,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Twakuka,"Bakisi, Shabunda, Sud-Kivu",263.11,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Yetebingi,"Basile, Mwenga, Sud-Kivu",82.25,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ikpangbala,"Dongo, Kungu, Sud-Ubangi",163.97,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Kake,"Dongo, Kungu, Sud-Ubangi",190.28,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Motuba,"Bomboma, Kungu, Sud-Ubangi",357.13,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mukosi,"Dongo, Kungu, Sud-Ubangi",156.91,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ngbaka Mabo,"Libenge Centre, Libenge, Sud-Ubangi",448.96,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ngona,"Dongo, Kungu, Sud-Ubangi",490.55,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bafwabula,"Bekeni Kondolole, Bafwasende, Tshopo",489.67,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bafwadodi,"Bakundumu, Bafwasende, Tshopo",111.09,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bafwalungu,"Bakundumu, Bafwasende, Tshopo",92.39,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bafwambela,"Bakundumu, Bafwasende, Tshopo",496.73,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bafwapada,"Bakundumu, Bafwasende, Tshopo",332.17,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bafwapoka,"Bakundumu, Bafwasende, Tshopo",491.97,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bambaka de Bafwamogo,"Bekeni kondolole, Bafwasende, Tshopo",246.0,2020,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bambaka de Bapondi,"Bekeni kondolole, Bafwasende, Tshopo",160.0,2020,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Barumbi,"Bekeni kondolole, Bafwasende, Tshopo",491.5,2020,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Batama,"Bekeni Kondolole, Bafwasende, Tshopo",458.58,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Belika,"Bakundumu, Bafwasende, Tshopo",230.33,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bolima,"Duale, Befale, Tshuapa",184.12,2017,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ilima Lotulo et Bolima/Lomako,"Duale, Befale, Tshuapa",140.3,2017,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+"Ilima, Lotulo et Bolima","Duale, Befale, Tshuapa",84.12,2017,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Lotulo,"Duale, Befale, Tshuapa",130.43,2017,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Yalokembe,"Loile, Ikela, Tshuapa",470.7,2017,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Yaseka,"Loile, Ikela, Tshuapa",160.61,2017,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Yongoli,"Loile, Ikela, Tshuapa",480.0,2017,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bofekalasumba,"Duali, Ingende, Équateur",13.53,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bofidji,"Elanga, Bikoro, Équateur",231.28,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bokamba,"Ngiri, Bomongo, Équateur",9.5,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bokonda We Banza,"Ekonda, Bikoro, Équateur",15.72,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Boleki/ Bozamba,"Ngiri, Bomongo, Équateur",27.2,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bongindji,"Elanga, Bikoro, Équateur",164.04,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bonkongo,"Ngiri, Bomongo, Équateur",33.99,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bopoto,"Ngiri, Bomongo, Équateur",11.35,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bosende,"Lusakani, Lukolela, Équateur",29.58,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bosobele / Bobele,"Ngiri, Bomongo, Équateur",12.92,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Bosulu-Ntomba,"Basankusu, Basankusu, Équateur",175.04,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Botale,"Lac Ntomba, Bikoro, Équateur",2.73,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Botanga,"Ngiri, Bomongo, Équateur",82.0,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Dzuka,"Ngiri, Bomongo, Équateur",22.97,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ebeka,"Ngiri, Bomongo, Équateur",13.01,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ehanga,"Lac Ntomba, Bikoro, Équateur",15.09,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ekele,"Elanga, Bikoro, Équateur",91.5,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+"Ikoko, Bonginda","Lac Ntomba, Bikoro, Équateur",173.46,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ilanga,"Elanga, Bikoro, Équateur",130.39,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ilebo,"Mpama, Lukolela, Équateur",129.73,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ilinga,"Lusakani, Lukolela, Équateur",33.93,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ilonga Poo,"Gombalo, Basankusu, Équateur",500.0,2017,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Inganda,"Duali, Ingende, Équateur",11.09,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Irebu,"Lusakani, Lukolela, Équateur",298.15,2017,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Likundandjoku,"Waka-Bokeka, Basankusu, Équateur",162.43,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Lokanga,"Lac Ntomba, Bikoro, Équateur",4.5,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Lokolama,"Elanga, Bikoro, Équateur",101.51,2019,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Lokongo,"Lac Ntomba, Bikoro, Équateur",437.52,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Loondo Mbula Nene I,"Ekonda, Bikoro, Équateur",4.0,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mbonzi,"Ngiri, Bomongo, Équateur",38.61,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mibenga,"Mpama, Lukolela, Équateur",118.9,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mokili,"Lac Ntomba, Bikoro, Équateur",1.31,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mooto,"Lac Ntomba, Bikoro, Équateur",11.47,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Mpangi,"Ekonda, Bikoro, Équateur",19.36,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Muntembo,"Ngiri, Bomongo, Équateur",175.62,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ndzondo,"Ngiri, Bomongo, Équateur",7.76,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ngelo-Monzoi,"Lac Ntomba, Bikoro, Équateur",114.61,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Nkake,"Lac Ntomba, Bikoro, Équateur",92.71,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Nkoto,"Ngiri, Bomongo, Équateur",15.17,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Ntomba Bolongo I,"Waka-Bokeka, Basankusu, Équateur",329.22,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Nzondo,"Mpama, Lukolela, Équateur",6.06,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Penzele,"Elanga, Bikoro, Équateur",105.78,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+"Penzele, Ebondo et Bongonda","Lusanganya, Bolomba, Équateur",422.99,2019,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Samba,"Lac Ntomba, Bikoro, Équateur",7.07,2018,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Wal'aok'asongu,"Waka-Bokeka, Basankusu, Équateur",206.75,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Wala Eladji,"Waka-Bokeka, Basankusu, Équateur",209.79,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118
+Wamba Mondjo,"Waka-Bokeka, Basankusu, Équateur",214.43,,https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118

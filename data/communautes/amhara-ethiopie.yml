@@ -1,0 +1,56 @@
+uid: "amhara-ethiopie"
+nom: "Amhara (État régional Amhara)"
+endonyme: "Amara"
+territoire: "État régional Amhara (capitale : Bahir Dar)"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [11.5, 38.0]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 17214056, annee: 2007, perimetre: "population recensée de l'État régional Amhara (recensement de 2007, résumé provisoire) ; les Amhara de tout le pays sont 19 867 817 ; ce total inclut les administrations de nationalité décrites dans la fiche « Administrations de nationalité de la région Amhara »", source: "https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf"}
+lieux: {valeur: 11, unite: "zones (7 zones administratives, 3 zones de nationalité et la zone spéciale de Bahir Dar)", annee: 2010, source: "https://chilot.wordpress.com/wp-content/uploads/2013/05/minority-rights-protection-in-the-amhara-national-regional-state-the-case-of-the-kemant-people-in-north-gondar.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Amhara forment une « nation, nationalité et peuple » au sens de la Constitution fédérale de 1994, dans le nord-ouest de l'Éthiopie.
+  Ils disposent d'un État régional, l'un des neuf États membres énumérés par la Constitution (art. 47), avec son conseil, son administration et sa constitution (art. 50 et 52).
+  Comme les autres nations de la fédération, ils ont un droit constitutionnel à l'autodétermination, sécession comprise (art. 39).
+  Depuis août 2023, la région connaît un conflit armé entre l'armée fédérale et les milices Fano ; en septembre 2026, des combats de grande ampleur opposent les forces fédérales aux Fano alliés au Front populaire de libération du Tigray.
+  Les administrations de nationalité créées dans la région pour les Agaw, les Oromo, les Argobba et les Qemant relèvent de la fiche « Administrations de nationalité de la région Amhara ».
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme note la reconnaissance du droit des communautés ethniques et linguistiques à l'autodétermination au niveau de l'État régional et s'inquiète du sort des minorités vivant hors de leur région (CCPR/C/ETH/CO/1, par. 26). Vise la catégorie, pas les Amhara nommément.", annee: 2011, source: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 5, 34, 39, 40, 47, 50, 52, 61, 78 et 97", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Art. 39(3) : droit de chaque nation, nationalité et peuple à l'autogouvernement et à ses propres institutions ; art. 47(1) : l'État amhara est l'un des États membres de la fédération.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Art. 52(1) : les États exercent tous les pouvoirs non attribués à la fédération ; art. 50(5) et 52(2)(b) : le conseil de l'État adopte la constitution de l'État et ses lois.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  justice_propre: {valeur: "reconnu", note: "Art. 50(7) et 78(3) : le pouvoir judiciaire de l'État appartient à ses tribunaux (cour suprême, hautes cours, tribunaux de première instance) ; art. 78(5) : leurs conseils peuvent créer ou reconnaître des tribunaux religieux et coutumiers ; art. 34(5) : le statut personnel et familial peut être jugé selon le droit religieux ou coutumier avec l'accord des parties.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  terres: {valeur: "partiel", note: "Art. 40(3) : la propriété de la terre appartient exclusivement à l'État et aux peuples d'Éthiopie, propriété commune inaliénable ; art. 52(2)(d) : les États l'administrent selon la loi fédérale.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "partiel", note: "Art. 52(2)(d) : les États administrent la terre et les autres ressources naturelles conformément aux lois fédérales.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Art. 5(3) : chaque État membre fixe par la loi sa langue de travail ; art. 39(2) : droit de parler, écrire et développer sa langue. L'amharique est aussi la langue de travail fédérale (art. 5(2)).", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Art. 97 : les États lèvent l'impôt sur le revenu des salariés de l'État et des entreprises privées, les redevances d'usufruit foncier et d'autres impôts ; art. 52(2)(e) : ils établissent et gèrent leur budget.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  representation: {valeur: "reconnu", note: "Art. 61(2) : chaque nation, nationalité et peuple a au moins un siège à la Chambre de la Fédération, plus un par million d'habitants.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) : droit inconditionnel à l'autodétermination, y compris la sécession, par vote aux deux tiers du conseil législatif puis référendum organisé par l'État fédéral dans les trois ans. Jamais exercé.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "contestee", note: "En août 2023, l'État fédéral déclare l'état d'urgence et place la région sous un commandement militaire relevant du Premier ministre ; prolongation de quatre mois le 2 février 2024 ; Human Rights Watch documente l'exécution sommaire de dizaines de civils par l'armée fédérale à Merawi le 29 janvier 2024. Selon Crisis Group (25 septembre 2026), l'insurrection Fano se poursuit et des combats de grande ampleur ont repris le 23 septembre 2026.", source: "https://www.hrw.org/news/2024/04/04/ethiopia-military-executes-dozens-amhara-region"}
+chronologie:
+  - {annee: 1994, evenement: "Adoption de la Constitution fédérale ; l'État amhara figure parmi les neuf États membres (art. 47)."}
+  - {annee: 2007, evenement: "Recensement national : 17 214 056 habitants dans l'État amhara (résumé provisoire)."}
+  - {annee: 2011, evenement: "Observations du Comité des droits de l'homme sur l'autodétermination au niveau des États régionaux."}
+  - {annee: 2023, evenement: "Affrontements entre forces fédérales et milices Fano à partir d'avril ; en août, état d'urgence et commandement militaire sur la région."}
+  - {annee: 2024, evenement: "Prolongation de l'état d'urgence (février) ; exécutions de civils à Merawi documentées par Human Rights Watch."}
+  - {annee: 2026, evenement: "Alliance entre une coalition Fano et le Front populaire de libération du Tigray (20 septembre) ; offensive contre les forces fédérales le 23 septembre."}
+fiabilite:
+  verifie: ["Texte des art. 5, 34, 39, 40, 47, 50, 52, 61, 78 et 97 de la Constitution (Constitute Project).", "Par. 26 de CCPR/C/ETH/CO/1 (19 août 2011).", "Population de 2007 et effectif national des Amhara (rapport du recensement, Agence centrale de la statistique, copie archivée).", "Découpage en 7 zones administratives, 3 zones de nationalité et la zone spéciale de Bahir Dar en 2010 (mémoire de master, faculté de droit, université d'Addis-Abeba, janvier 2010).", "Faits de Merawi, commandement militaire et prolongation de l'état d'urgence (Human Rights Watch, 4 avril 2024).", "Reprise des combats le 23 septembre 2026 (Crisis Group, 25 septembre 2026)."]
+  non_confirme: ["Constitution régionale révisée de 2001 : non consultée ; son contenu (administrations de nationalités Agew Awi, Wag Himra, zone oromo, Argobba) reste à vérifier.", "Surface : valeur lue dans une encyclopédie (194 708,96 km²) divergente d'autres valeurs courantes ; aucune valeur retenue.", "Nombre de zones après 2010 : la zone du Gondar Nord a depuis été redécoupée ; aucun décompte officiel récent trouvé.", "Langue de travail de l'État régional (amharique) : non lue dans la constitution régionale.", "Population du recensement de 2007 : 17 214 056 au résumé provisoire, 17 221 976 selon d'autres sources.", "Éthiopie absente lors du vote de la DNUDPA (A/61/PV.107)."]
+sources:
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur l'Éthiopie, CCPR/C/ETH/CO/1 (2011)", url: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+  - {titre: "Agence centrale de la statistique — Résumé du recensement de 2007 (copie archivée)", url: "https://web.archive.org/web/20090325050115/http://www.csa.gov.et/pdf/Cen2007_firstdraft.pdf"}
+  - {titre: "Human Rights Watch — Ethiopia: Military Executes Dozens in Amhara Region (2024)", url: "https://www.hrw.org/news/2024/04/04/ethiopia-military-executes-dozens-amhara-region"}
+  - {titre: "Minority Rights Protection in the Amhara National Regional State: the Case of the Kemant People (université d'Addis-Abeba, 2010)", url: "https://chilot.wordpress.com/wp-content/uploads/2013/05/minority-rights-protection-in-the-amhara-national-regional-state-the-case-of-the-kemant-people-in-north-gondar.pdf"}
+  - {titre: "Crisis Group — Arresting a Dangerous Descent Back to War in Northern Ethiopia (25 septembre 2026)", url: "https://www.crisisgroup.org/stm/africa/ethiopia-eritrea/arresting-dangerous-descent-back-war-northern-ethiopia"}

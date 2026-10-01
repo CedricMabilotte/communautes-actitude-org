@@ -1,0 +1,55 @@
+uid: "hima-liban"
+nom: "Himas du Liban"
+endonyme: "حمى (hima)"
+territoire: "Aires déclarées « hima » par des conseils municipaux ou des qaimaqams du Liban"
+etats: ["Liban"]
+region: "asie"
+coord: [33.9, 35.9]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 27, unite: "himas inscrits à la base mondiale des aires protégées (WDPA) avec la désignation nationale « Hima », catégorie UICN VI, statut « désigné »", annee: 2025, source: "https://www.protectedplanet.net/en/country/LBN"}
+surface_km2: {valeur: 440.49, annee: 2025, perimetre: "somme des surfaces déclarées des 27 himas inscrits à la base mondiale des aires protégées (de 0,01 à 250,4 km² par site)", source: "https://www.protectedplanet.net/en/country/LBN"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés locales des villages libanais où un hima (حمى, aire mise en défens et gérée selon des usages locaux de ressources naturelles) a été déclaré. La loi n° 130 du 30 avril 2019 sur les aires protégées fait du hima l'une des quatre catégories d'aires protégées et le définit comme un site protégé par une gestion traditionnelle des ressources naturelles des communautés locales (art. 1 et 2). Le hima est créé par décision du conseil municipal ou, dans les villages sans municipalité, du qaimaqam (préfet de district) sur proposition du ou des mukhtars (représentants élus du village) ; le conseil municipal ou le qaimaqam établit son plan de gestion (art. 3). En juin 2025, le ministère de l'Environnement a approuvé l'inscription de 27 himas à la base mondiale des aires protégées.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Sixième rapport national du Liban à la Convention sur la diversité biologique (janvier 2019, ministère de l'Environnement et PNUD) : il range le hima, « pratique de conservation fondée sur la communauté locale », parmi les sites protégés au niveau national, reproduit la carte de 22 himas établie par la Société pour la protection de la nature au Liban (SPNL) en 2018 et décrit le programme hima mené avec des municipalités", annee: 2019, source: "https://www.cbd.int/doc/nr/nr-06/lb-nr-06-en.pdf"}
+  - {mecanisme: "cdb_8j", detail: "Stratégie et plan d'action nationaux pour la biodiversité 2016-2030, transmis à la CDB : le hima figure parmi les quatre catégories du projet de loi sur les aires protégées, défini comme un système de gestion communautaire des ressources naturelles placé sous la supervision de la municipalité, de l'union de municipalités ou du qaimaqam dans les villages sans municipalité ; les himas d'Anjar / Kfar Zabad et d'Ebel es-Saqi sont cités parmi les zones importantes pour la conservation des oiseaux", annee: 2016, source: "https://www.cbd.int/doc/world/lb/lb-nbsap-v2-en.pdf"}
+base_nationale:
+  - {instrument: "Loi n° 130 du 30 avril 2019 sur les aires protégées (Journal officiel n° 23, supplément, 30 avril 2019), art. 1 (définition du hima), art. 2 (quatre catégories d'aires protégées) et art. 3 (création et gestion)", nature: "loi", annee: 2019, source: "https://www.moe.gov.lb/getattachment/454fe562-c57f-4861-aea5-d6a1c941179d/قانون-رقم-130-قانون-المناطق-المحمية.aspx"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "La loi définit le hima comme un site protégé qui peut comprendre une partie modifiée de façon durable par l'usage des ressources naturelles, et dont la protection volontaire est assurée par un système traditionnel de gestion des ressources naturelles des communautés locales, fondé sur leurs savoir-faire (art. 1, définition du « hima »). Le hima est créé par décision du ou des conseils municipaux concernés ou, dans les villages sans municipalité, du qaimaqam sur proposition du ou des mukhtars ; le conseil municipal ou le qaimaqam établit et exécute le plan de gestion (art. 3 A 4). Ces organes sont les autorités locales de droit commun ; la loi ne crée pas d'institution propre aux communautés, et les modes de gestion des himas sont renvoyés à un décret en Conseil des ministres (art. 3 B 2).", source: "https://www.moe.gov.lb/getattachment/454fe562-c57f-4861-aea5-d6a1c941179d/قانون-رقم-130-قانون-المناطق-المحمية.aspx"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Les 27 himas inscrits à la base mondiale des aires protégées portent le statut « désigné » ; le type de gouvernance déclaré pour chacun est « gouvernance partagée » entre la municipalité et la SPNL, et un lien vers un plan de gestion n'est déclaré que pour 7 d'entre eux (Anfeh, Anjar, Ebel el Saqi, Hammana, Kfar Zabad, Mansoura, Ras el Matn). Les années de désignation (2004 à 2022) sont pour la plupart antérieures à la loi de 2019. Ces données sont fournies par la SPNL. Aucune évaluation indépendante de l'application de la loi aux himas n'a été trouvée.", source: "https://www.protectedplanet.net/555760980"}
+chronologie:
+  - {annee: 2004, evenement: "Désignation des himas d'Ebel es-Saqi et de Kfar Zabad (année de statut déclarée à la base mondiale des aires protégées)."}
+  - {annee: 2012, evenement: "Décret n° 8045 du 25 avril 2012 transmettant au Parlement le projet de loi sur les aires protégées, qui inclut la catégorie hima."}
+  - {annee: 2016, evenement: "La stratégie nationale pour la biodiversité 2016-2030 décrit le hima comme catégorie du projet de loi."}
+  - {annee: 2019, evenement: "Le sixième rapport national à la CDB (janvier) reprend la carte de 22 himas établie par la SPNL en 2018."}
+  - {annee: 2019, evenement: "Loi n° 130 du 30 avril 2019 sur les aires protégées : le hima devient l'une des quatre catégories d'aires protégées."}
+  - {annee: 2025, evenement: "Lettre du ministre de l'Environnement du 20 juin 2025 approuvant l'inscription de 27 himas à la base mondiale des aires protégées, en catégorie UICN VI (aire protégée avec utilisation durable des ressources)."}
+fiabilite:
+  verifie: ["Texte de la loi n° 130 du 30 avril 2019 (Journal officiel n° 23, supplément, p. 51 à 57), lu sur le fac-similé publié par le ministère de l'Environnement : définition du hima (art. 1), quatre catégories (art. 2), création par décision municipale ou du qaimaqam, plan de gestion, comité intercommunal et renvoi des modes de gestion à un décret (art. 3).", "Base mondiale des aires protégées (Protected Planet, PNUE-WCMC) : 27 sites de désignation « Hima » au Liban, catégorie UICN VI, statut « désigné », gouvernance partagée entre municipalité et SPNL, propriété communale pour 21 sites et publique pour 6, lien vers un plan de gestion pour 7 sites ; jeu de données « Hima dataset for Lebanon » fourni par la SPNL en 2025.", "Noms, surfaces déclarées et années de statut des 27 sites, lus sur la page de chaque site.", "Sixième rapport national à la CDB (2019) et stratégie nationale pour la biodiversité 2016-2030 : mentions du hima citées dans la fiche.", "Lettre ministérielle du 20 juin 2025 et accord de transmission de données du 27 mai 2025 : rapportés par la SPNL."]
+  non_confirme: ["Nombre total de himas déclarés par les municipalités : inconnu ; seuls les 27 sites inscrits à la base mondiale sont comptés.", "Aucun organe propre aux communautés n'est institué par la loi pour un hima situé dans une seule municipalité : le droit « institutions propres » est laissé sans source.", "Le décret d'application prévu par l'art. 3 B 2 de la loi (modes de gestion des himas) n'a pas été trouvé ; on ignore s'il a été pris.", "La source de la lettre ministérielle de 2025 est la SPNL, organisation qui promeut les himas ; le texte de la lettre n'a pas été consulté.", "La SPNL décrit des comités de gestion pour chaque hima ; la loi ne prévoit un comité que pour un hima couvrant plusieurs municipalités ou villages.", "Les subdivisions administratives des sites ne figurent pas dans la base mondiale ; la colonne reste vide dans le tableau.", "Aucune source universitaire indépendante sur l'application de la loi aux himas n'a pu être ouverte.", "Population et nombre de villages concernés : aucun chiffre trouvé."]
+sources:
+  - {titre: "Loi n° 130 du 30 avril 2019 sur les aires protégées — fac-similé du Journal officiel, ministère de l'Environnement du Liban", url: "https://www.moe.gov.lb/getattachment/454fe562-c57f-4861-aea5-d6a1c941179d/قانون-رقم-130-قانون-المناطق-المحمية.aspx"}
+  - {titre: "Lois — ministère de l'Environnement du Liban", url: "https://www.moe.gov.lb/الوزارة/القوانين-والانظمة/القوانين.aspx"}
+  - {titre: "Protected Planet — Liban (WDPA, PNUE-WCMC)", url: "https://www.protectedplanet.net/en/country/LBN"}
+  - {titre: "Protected Planet — Himas du Liban (filtre par désignation)", url: "https://www.protectedplanet.net/en/search-areas?filters%5Bdb_type%5D%5B%5D=wdpa&filters%5Bdesignation%5D%5B%5D=Hima&filters%5Blocation%5D%5Boptions%5D%5B%5D=Lebanon&filters%5Blocation%5D%5Btype%5D=country"}
+  - {titre: "Sixième rapport national du Liban à la Convention sur la diversité biologique (2019)", url: "https://www.cbd.int/doc/nr/nr-06/lb-nr-06-en.pdf"}
+  - {titre: "Stratégie et plan d'action nationaux pour la biodiversité du Liban 2016-2030 — CDB", url: "https://www.cbd.int/doc/world/lb/lb-nbsap-v2-en.pdf"}
+  - {titre: "Lebanon's Hima sites officially recognized in World Database on Protected Areas — SPNL", url: "https://www.spnl.org/lebanons-hima-sites-officially-recognized-in-world-database-on-protected-areas/"}
+  - {titre: "From Tradition to Global Conservation: How Hima Aligns with IUCN's Criteria and CBD's 30×30 Target — SPNL", url: "https://www.spnl.org/from-tradition-to-global-conservation-how-hima-model-law-aligns-with-iucns-30x30-goals/"}

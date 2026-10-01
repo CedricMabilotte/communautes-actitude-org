@@ -1,0 +1,65 @@
+uid: "terres-coutumieres-malawi"
+nom: "Terres coutumières du Malawi"
+endonyme: ""
+territoire: "Terres coutumières comprises dans les aires de gestion foncière traditionnelle (Traditional Land Management Areas) de l'ensemble du Malawi"
+etats: ["Malawi"]
+region: "afrique"
+coord: [-13.3, 34.3]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "aires de gestion foncière traditionnelle", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés résidant sur les terres coutumières (terres régies par la coutume) du Malawi. La loi sur les terres coutumières (Customary Land Act, loi n° 19 de 2016) organise ces terres en aires de gestion foncière traditionnelle (Traditional Land Management Areas, zones placées sous la juridiction d'une autorité traditionnelle, c'est-à-dire d'un chef reconnu par l'État). Pour chaque aire, un certificat de terre coutumière est délivré au nom de l'autorité traditionnelle et confie la gestion des terres à des comités fonciers coutumiers (customary land committees) constitués au niveau du chef de groupe de villages, qui gèrent la terre en fiduciaire au profit des résidents (s. 3 à 6). Les comités réservent des terres communales et attribuent des « customary estates » (droits privés enregistrés, de durée indéfinie et transmissibles) à des personnes, familles ou groupes ; un tribunal foncier coutumier présidé par l'autorité traditionnelle tranche les litiges de chaque aire (s. 44). Le règlement d'application date de 2018.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination à l'égard des femmes sur le huitième rapport du Malawi (CEDAW/C/MWI/CO/8, 14 novembre 2023), § 39 : le Comité salue l'adoption en 2016 de la loi sur les terres coutumières, qui permet aux femmes de posséder des terres coutumières et prévoit leur participation égale aux comités fonciers villageois qui attribuent les terres.", annee: 2023, source: "https://documents.un.org/api/symbol/access?s=CEDAW/C/MWI/CO/8&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Customary Land Act, 2016 (loi n° 19 de 2016), s. 3 à 17, 20 à 30, 43, 44 à 50", nature: "loi", annee: 2016, source: "https://faolex.fao.org/docs/pdf/mlw170882.original.pdf"}
+  - {instrument: "Customary Land Regulations, 2018 (avis gouvernemental n° 18), en particulier règl. 4 à 16, 30 à 35 et 36 à 59", nature: "loi", annee: 2018, source: "https://faolex.fao.org/docs/pdf/mlw187966.pdf"}
+  - {instrument: "Land Act, 2016 (loi n° 16 de 2016), définitions (s. 2), catégories de terres (s. 7) et dévolution des terres à la République (s. 8)", nature: "loi", annee: 2016, source: "https://faolex.fao.org/docs/pdf/mlw170885.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque aire de gestion foncière traditionnelle compte des comités fonciers coutumiers au niveau du chef de groupe de villages, composés de ce chef (président) et de six personnes élues par et dans la communauté, dont au moins trois femmes, pour trois ans (Customary Land Act 2016, s. 5) ; le comité gère la terre « en fiduciaire » au profit des résidents (s. 6(1)), mais ne peut attribuer de terre sans l'accord de l'autorité traditionnelle (s. 6(3)) et doit suivre les avis du commissaire aux terres (Commissioner for Lands) et de l'autorité locale (s. 6(4) et 9) ; une enquête peut conduire le ministre à dissoudre un comité (s. 10(3)).", source: "https://faolex.fao.org/docs/pdf/mlw170882.original.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le certificat de terre coutumière confirme l'occupation et l'usage des terres selon le droit coutumier applicable dans l'aire (Customary Land Act 2016, s. 3(3)(c)) ; les comités peuvent conclure des accords d'usage de terres coutumières qui fixent les usages, les droits reconnus par la coutume et la règle applicable en cas de conflit entre coutumes, sous réserve de l'approbation de l'autorité traditionnelle (s. 11) ; ils fixent des conditions aux customary estates (s. 20(2)(c)) et les surfaces maximales attribuables (Customary Land Regulations 2018, règl. 11(e)).", source: "https://faolex.fao.org/docs/pdf/mlw170882.original.pdf"}
+  justice_propre: {valeur: "partiel", note: "Un tribunal foncier coutumier (customary land tribunal) est établi dans chaque aire de gestion foncière traditionnelle ; il est présidé par l'autorité traditionnelle et compte six membres de la communauté proposés par elle et approuvés par le commissaire aux terres, dont au moins trois femmes (Customary Land Act 2016, s. 44) ; il statue « selon la loi et la coutume » (Customary Land Regulations 2018, règl. 48), avec appel devant le tribunal foncier de district, le Conseil foncier central et la Haute Cour (s. 45 à 49).", source: "https://faolex.fao.org/docs/pdf/mlw170882.original.pdf"}
+  terres: {valeur: "partiel", note: "Le certificat de terre coutumière de chaque aire est délivré au nom de l'autorité traditionnelle (Customary Land Act 2016, s. 3(2)-(3)) ; les comités réservent des terres communales tenues en registre (s. 13 et 14) et une cession de terre coutumière ne transfère pas « l'intérêt de propriété résiduel dévolu à la communauté » (s. 50) ; toutes les terres sont toutefois dévolues à la République (Land Act 2016, s. 8), la terre coutumière non attribuée est classée terre publique (s. 7(2)), le ministre peut transférer des terres coutumières au domaine de l'État pour un intérêt public incluant les investissements d'intérêt national, contre indemnisation (Customary Land Act 2016, s. 17), et peut déclarer « terre à risque » (hazardous land) une terre coutumière, ce qui exproprie sans indemnisation les droits qui y sont détenus (s. 19(8)).", source: "https://faolex.fao.org/docs/pdf/mlw170882.original.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Avant tout transfert de terre coutumière au domaine de l'État, le ministre notifie le projet au comité foncier, les occupants peuvent présenter des observations, le comité informe une assemblée des résidents de l'aire et le commissaire aux terres vient y exposer les motifs ; l'indemnisation est convenue entre le comité et le commissaire (Customary Land Act 2016, s. 17(3)-(8)) ; la loi prévoit une consultation, pas un consentement.", source: "https://faolex.fao.org/docs/pdf/mlw170882.original.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Un comité foncier peut exiger un droit lors de l'attribution d'un customary estate à une organisation et un loyer annuel pour les customary estates attribués à une organisation (Customary Land Act 2016, s. 24 et 26), en concertation avec le commissaire aux terres (Customary Land Regulations 2018, règl. 11(g)) ; la loi ne précise pas l'affectation de ces recettes.", source: "https://faolex.fao.org/docs/pdf/mlw170882.original.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune évaluation indépendante de l'application de la loi n'a été trouvée. Le Comité pour l'élimination de la discrimination à l'égard des femmes relevait en 2023 l'accès limité des femmes rurales à la propriété foncière (CEDAW/C/MWI/CO/8, § 39). La seule étude de terrain ouverte (Harawa et Chilonga, 2025) est signée par des auteurs du ministère des Terres : elle décrit un programme de formalisation lancé en 2018 et appliqué sur des sites pilotes, dont Rumphi, l'un des trois sites pilotes de la région du Nord.", source: "https://documents.un.org/api/symbol/access?s=CEDAW/C/MWI/CO/8&l=en&t=pdf"}
+chronologie:
+  - {annee: 2016, evenement: "Adoption de la loi sur les terres (loi n° 16 de 2016) et de la loi sur les terres coutumières (loi n° 19 de 2016), promulguée le 1er septembre 2016 ; elle abroge la loi de 1967 sur le développement des terres coutumières et la loi sur les conseils fonciers locaux."}
+  - {annee: 2018, evenement: "Entrée en vigueur de la loi sur les terres coutumières le 1er mars 2018 (notice MalawiLII)."}
+  - {annee: 2018, evenement: "Règlement sur les terres coutumières (Customary Land Regulations), signé le 7 mars 2018 et publié au Journal officiel le 20 avril 2018 : élection des comités, adjudication, attribution des customary estates, procédure des tribunaux fonciers."}
+  - {annee: 2018, evenement: "Début d'un programme gouvernemental de formalisation des terres coutumières en customary estates, sur des sites pilotes (selon des auteurs du ministère des Terres)."}
+  - {annee: 2023, evenement: "Le Comité pour l'élimination de la discrimination à l'égard des femmes salue la loi de 2016 et la participation égale des femmes aux comités fonciers."}
+fiabilite:
+  verifie:
+    - "Texte original de la loi n° 19 de 2016 (FAOLEX, version publiée le 2 septembre 2016) : s. 2, 3 à 17, 20 à 30, 43, 44, 49 à 54."
+    - "Texte du règlement de 2018 (Journal officiel du 20 avril 2018, FAOLEX) : règl. 4 à 16, 30 à 59 et formulaires."
+    - "Land Act 2016 (FAOLEX) : définitions de customary land, customary estate et public land, s. 7 et 8."
+    - "Date d'entrée en vigueur (1er mars 2018) et absence de modification listée : notice MalawiLII de la loi n° 19 de 2016."
+    - "Paragraphe 39 des observations finales CEDAW/C/MWI/CO/8 (2023)."
+    - "Mention d'un programme national de formalisation lancé en 2018 et de sites pilotes dans Harawa et Chilonga (2025), dont Rumphi, « l'un des trois sites pilotes de la région du Nord »."
+  non_confirme:
+    - "Modifications ultérieures de la loi (une loi modificative de 2022 est signalée sans avoir été lue ; MalawiLII n'en liste aucune) : la composition des comités (chef de groupe de villages et six élus dont au moins trois femmes) et du tribunal foncier suit le texte de 2016 et peut avoir changé."
+    - "Avis ministériel fixant l'entrée en vigueur : non lu ; la date vient de la notice MalawiLII."
+    - "Nombre d'aires de gestion foncière traditionnelle, de comités fonciers, de certificats délivrés, surface et population concernées : aucune source chiffrée ouverte ; aucune liste officielle des aires trouvée, d'où l'absence de tableau."
+    - "Les auteurs de l'étude de 2025 relèvent du ministère des Terres : ce n'est pas une source indépendante de l'administration ; aucune évaluation indépendante de l'application n'a pu être ouverte."
+    - "Le régime vise surtout l'enregistrement de droits individuels ou familiaux ; la part des terres restées communales n'est pas connue."
+sources:
+  - {titre: "Customary Land Act, 2016 (loi n° 19 de 2016), texte original — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mlw170882.original.pdf"}
+  - {titre: "Customary Land Act, 2016 (loi n° 19 de 2016) — MalawiLII", url: "https://malawilii.org/akn/mw/act/2016/19"}
+  - {titre: "Customary Land Act (No. 19 of 2016) — InforMEA", url: "https://www.informea.org/en/legislation/customary-land-act-no-19-2016"}
+  - {titre: "Customary Land Regulations, 2018 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mlw187966.pdf"}
+  - {titre: "Land Act, 2016 (loi n° 16 de 2016) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mlw170885.pdf"}
+  - {titre: "Comité pour l'élimination de la discrimination à l'égard des femmes, observations finales sur le huitième rapport du Malawi, CEDAW/C/MWI/CO/8 (2023)", url: "https://documents.un.org/api/symbol/access?s=CEDAW/C/MWI/CO/8&l=en&t=pdf"}
+  - {titre: "Harawa et Chilonga, « Will Formalisation of Customary Land into Customary Estates Foster Agricultural Commercialisation in Rural Areas of Malawi? », Land Management and Utilization, 2025", url: "https://doi.org/10.54963/lmu.v1i2.1526"}

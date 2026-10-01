@@ -1,0 +1,51 @@
+uid: "terres-communales-chefferies-zimbabwe"
+nom: "Terres communales du Zimbabwe"
+endonyme: ""
+territoire: "Terres communales (Communal Land, anciennes Tribal Trust Lands) des provinces non métropolitaines"
+etats: ["Zimbabwe"]
+region: "afrique"
+coord: [-19.0, 30.0]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "terres communales", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi Communal Land Act (loi sur les terres communales, chap. 20:04) de 1982 attribue la propriété des terres communales au président, qui en permet l'occupation et l'usage selon la loi. La loi Traditional Leaders Act (loi sur les dirigeants traditionnels, chap. 29:17) de 1998, en vigueur depuis le 1er janvier 2000, institue dans chaque village une assemblée (dare ou inkundla) formée de tous les habitants de plus de 18 ans, qui traite des questions de terre, d'eau et de ressources naturelles. Les chefs, nommés par le président, veillent à l'attribution des terres et règlent les litiges fonciers ; le conseil de district rural garde le contrôle final de l'attribution. La Constitution de 2013 reconnaît l'institution des dirigeants traditionnels et leur confie l'administration des terres communales.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution du Zimbabwe de 2013, chap. 15 (art. 280 à 287) et art. 120 (sièges des chefs au Sénat)", nature: "constitution", annee: 2013, source: "https://www.constituteproject.org/constitution/Zimbabwe_2013"}
+  - {instrument: "Communal Land Act (loi sur les terres communales), chap. 20:04, loi n° 20 de 1982, art. 4", nature: "loi", annee: 1982, source: "https://zimlii.org/akn/zw/act/1982/20"}
+  - {instrument: "Traditional Leaders Act (loi sur les dirigeants traditionnels), chap. 29:17, loi n° 25 de 1998, art. 3, 5, 12, 14, 15, 26, 28, 37 et 39", nature: "loi", annee: 1998, source: "https://zimlii.org/akn/zw/act/1998/25/eng@2016-12-31"}
+  - {instrument: "Customary Law and Local Courts Act (loi sur le droit coutumier et les tribunaux locaux), chap. 7:05, art. 10, 11, 15 et 16", nature: "loi", annee: 1990, source: "https://zimlii.org/akn/zw/act/1990/2"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque village a une assemblée (« village assembly or dare or inkundla ») formée de tous les habitants de plus de 18 ans et présidée par le chef de village (Traditional Leaders Act, art. 14) ; les chefs sont nommés par le président en tenant compte des règles coutumières de succession (art. 3). Le conseil de district rural est « the administrative authority with overall control over the use and allocation of all Communal Land » (art. 26) et le conseil des chefs supervise les assemblées de ward (circonscription) et de village et peut leur donner des instructions (art. 39). La Constitution de 2013 reconnaît l'institution des dirigeants traditionnels (art. 280).", source: "https://zimlii.org/akn/zw/act/1998/25/eng@2016-12-31"}
+  pouvoir_normatif: {valeur: "partiel", note: "La Constitution de 2013 reconnaît « the institution, status and role of traditional leaders under customary law » (art. 280) et leur confie le règlement des différends « in accordance with customary law » (art. 282). Le chef de village règle les différends de droit coutumier sur les limites des terres d'habitation, de pâture et de culture (Traditional Leaders Act, art. 12). Ces institutions n'édictent pas de normes écrites propres.", source: "https://www.constituteproject.org/constitution/Zimbabwe_2013"}
+  justice_propre: {valeur: "partiel", note: "La Constitution de 2013 range les tribunaux de droit coutumier parmi les juridictions (art. 162). Les tribunaux communautaires (community courts) sont présidés par un chef et les tribunaux primaires par un headman (chef de sous-chefferie), nommés par le ministre (Customary Law and Local Courts Act, art. 10 et 11) ; ils jugent les affaires civiles de droit coutumier (art. 15), mais pas les litiges portant sur « rights in respect of land or other immovable property » (art. 16). Les litiges fonciers relèvent du chef, chargé de les trancher dans son ressort (Traditional Leaders Act, art. 5).", source: "https://zimlii.org/akn/zw/act/1990/2"}
+  terres: {valeur: "partiel", note: "Les terres communales appartiennent au président, « who shall permit it to be occupied and used in accordance with this Act » (Communal Land Act, art. 4). Le chef veille à ce que les terres soient attribuées selon la partie III de cette loi et empêche toute installation non autorisée (Traditional Leaders Act, art. 5). Un habitant ne peut céder ou diviser la terre qu'il utilise sans l'accord du chef de village (art. 26) ; la cession des droits tirés d'un permis d'installation exige l'accord des autres adultes du ménage et du conseil de district rural, et la terre elle-même ne peut être ni vendue ni louée (art. 28).", source: "https://zimlii.org/akn/zw/act/1982/20"}
+  ressources: {valeur: "partiel", note: "L'assemblée villageoise examine les questions de terre, d'eau et d'autres ressources naturelles (Traditional Leaders Act, art. 15) ; le chef lutte contre le surpâturage, la surexploitation des cultures et la destruction de la flore et de la faune (art. 5). La Constitution de 2013 confie aux dirigeants traditionnels l'administration des terres communales et la protection de l'environnement « in accordance with an Act of Parliament » (art. 282).", source: "https://zimlii.org/akn/zw/act/1998/25/eng@2016-12-31"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Le Sénat compte seize chefs élus, deux par l'assemblée provinciale des chefs de chaque province non métropolitaine, ainsi que le président et le vice-président du Conseil national des chefs (Constitution de 2013, art. 120). Cette représentation passe par les chefs, non par les assemblées villageoises.", source: "https://www.constituteproject.org/constitution/Zimbabwe_2013"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le profil foncier de l'agence américaine USAID (2010) indique que les conseils de district rural attribuent les terres communales en consultation avec le chef, que la loi sur les dirigeants traditionnels a rendu aux chefs l'administration foncière locale sous le contrôle de ces conseils, et qu'un marché informel de la terre existe dans certaines zones rurales malgré l'interdiction des cessions.", source: "https://www.land-links.org/country-profile/zimbabwe/"}
+chronologie:
+  - {annee: 1982, evenement: "Communal Land Act : les anciennes Tribal Trust Lands deviennent des terres communales, dont la propriété revient au président."}
+  - {annee: 1998, evenement: "Traditional Leaders Act (loi n° 25) : chefs, headmen, chefs de village, assemblées de village et de ward, conseil des chefs."}
+  - {annee: 2000, evenement: "Entrée en vigueur de la Traditional Leaders Act le 1er janvier."}
+  - {annee: 2013, evenement: "Nouvelle Constitution : chapitre 15 sur les dirigeants traditionnels et sièges de chefs au Sénat."}
+fiabilite:
+  verifie: ["Art. 4 de la Communal Land Act (version consolidée au 31 décembre 2016, ZimLII).", "Art. 3, 5, 12, 14, 15, 26, 28, 37 et 39 de la Traditional Leaders Act et date d'entrée en vigueur (ZimLII).", "Art. 120, 162, 280 et 282 de la Constitution de 2013 (Constitute Project).", "Art. 10, 11, 15 et 16 de la Customary Law and Local Courts Act (ZimLII), dont l'exclusion des litiges fonciers de la compétence des tribunaux locaux (art. 16).", "Art. 283 de la Constitution : nomination des chefs par le président sur recommandation de l'assemblée provinciale des chefs."]
+  non_confirme: ["Texte des art. 6 à 10 de la Communal Land Act (consultation du chef, prise en compte du droit coutumier par le conseil de district rural) : la page consolidée ne donne que les intitulés ; l'obligation de consulter le chef n'est attestée que par le profil USAID.", "Nombre de terres communales, de chefferies et de villages, surface et population : aucun chiffre officiel récent trouvé ; le profil USAID cite pour 1980 une part de 42 % du territoire et 4,3 millions d'habitants, chiffres trop anciens pour la fiche.", "Aucun document de l'ONU ni d'un mécanisme régional visant ce régime n'a été trouvé."]
+sources:
+  - {titre: "Traditional Leaders Act [chap. 29:17] — ZimLII", url: "https://zimlii.org/akn/zw/act/1998/25/eng@2016-12-31"}
+  - {titre: "Communal Land Act [chap. 20:04] — ZimLII", url: "https://zimlii.org/akn/zw/act/1982/20"}
+  - {titre: "Customary Law and Local Courts Act [chap. 7:05] — ZimLII", url: "https://zimlii.org/akn/zw/act/1990/2"}
+  - {titre: "Constitution du Zimbabwe de 2013 — Constitute Project", url: "https://www.constituteproject.org/constitution/Zimbabwe_2013"}
+  - {titre: "Zimbabwe — profil foncier, LandLinks (USAID), 2010", url: "https://www.land-links.org/country-profile/zimbabwe/"}

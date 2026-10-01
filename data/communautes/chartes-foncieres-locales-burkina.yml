@@ -1,0 +1,64 @@
+uid: "chartes-foncieres-locales-burkina"
+nom: "Chartes foncières locales du Burkina Faso"
+endonyme: ""
+territoire: "Terres rurales des communes rurales et des villages rattachés aux communes urbaines"
+etats: ["Burkina Faso"]
+region: "afrique"
+coord: [12.3, -1.6]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 19, unite: "communes dotées d'une charte foncière locale validée en conseil municipal (données de fin mars 2014, sur 48 communes où les structures locales de la loi étaient en place)", annee: 2014, source: "https://www.foncier-developpement.fr/wp-content/uploads/Fiche-pays-5_Burkina-Faso2.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 1127, annee: 2013, perimetre: "villages dotés d'une commission foncière villageoise dans les 48 communes où les structures locales de la loi étaient en place ; 995 commissions de conciliation foncière villageoises y étaient installées", source: "https://www.foncier-developpement.fr/wp-content/uploads/Fiche-pays-5_Burkina-Faso2.pdf"}
+resume: >-
+  La loi n° 034-2009/AN du 16 juin 2009 portant régime foncier rural reconnaît la possession foncière rurale (pouvoir de fait exercé sur une terre selon les coutumes locales), à titre individuel ou collectif, et la constate par une attestation de possession foncière rurale (APFR) délivrée par la commune. Elle crée les chartes foncières locales, conventions inspirées des coutumes, adoptées en assemblée villageoise ou inter-villageoise puis validées par le conseil municipal, qui fixent les règles d'accès à la terre, de gestion des espaces de ressources naturelles d'utilisation commune et de conciliation des conflits. La loi prévoit dans chaque village une commission foncière villageoise, qui comprend de plein droit les autorités coutumières chargées du foncier, et un décret de 2012 y ajoute une commission de conciliation foncière villageoise ; la tentative de conciliation est obligatoire avant toute action en justice. Aucun décompte des chartes en vigueur et des APFR collectives postérieur à 2014 n'a été trouvé.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Quatrième rapport national du Burkina Faso à la Convention sur la diversité biologique (2010) : présente la loi de 2009 sur le régime foncier rural, adoptée après concertation des acteurs du monde rural, comme élément de la gestion durable des ressources naturelles.", annee: 2010, source: "https://www.cbd.int/doc/world/bf/bf-nr-04-fr.pdf"}
+base_nationale:
+  - {instrument: "Loi n° 034-2009/AN du 16 juin 2009 portant régime foncier rural", nature: "loi", annee: 2009, source: "https://faolex.fao.org/docs/pdf/bkf95496.pdf"}
+  - {instrument: "Décret n° 2010-404 du 29 juillet 2010 portant attributions, composition, organisation et fonctionnement des structures locales de gestion foncière", nature: "loi", annee: 2010, source: "https://www.foncier-developpement.fr/wp-content/uploads/Fiche-pays-5_Burkina-Faso2.pdf"}
+  - {instrument: "Décret n° 2012-263 du 3 avril 2012 portant composition, organisation et fonctionnement de la commission de conciliation foncière villageoise", nature: "loi", annee: 2012, source: "https://www.foncier-developpement.fr/wp-content/uploads/Fiche-pays-5_Burkina-Faso2.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Une commission foncière villageoise est créée dans chaque village sous l'égide du conseil villageois de développement ; elle comprend de plein droit les autorités coutumières et traditionnelles chargées du foncier (loi n° 034-2009, art. 81 et 82). Les chartes villageoises sont adoptées en assemblée villageoise ou inter-villageoise (art. 19), mais leur validité dépend d'une délibération du conseil municipal (art. 20).", source: "https://faolex.fao.org/docs/pdf/bkf95496.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les chartes foncières locales fixent les règles locales d'accès à la terre, de prêt de terres, de préservation d'espèces et de gestion des ressources communes (loi n° 034-2009, art. 13) ; elles ne peuvent déroger à la loi (art. 14) et, à défaut de charte, les us et coutumes fonciers locaux s'appliquent dans la limite des textes en vigueur (art. 107).", source: "https://faolex.fao.org/docs/pdf/bkf95496.pdf"}
+  justice_propre: {valeur: "partiel", note: "Tout conflit foncier rural fait l'objet d'une tentative de conciliation devant les instances locales habituellement chargées de ces conflits, dont la procédure est fixée par les chartes (loi n° 034-2009, art. 96) ; le procès-verbal de conciliation est soumis à homologation (validation par le juge) du président du tribunal de grande instance (art. 97), qui garde la compétence contentieuse (art. 98).", source: "https://faolex.fao.org/docs/pdf/bkf95496.pdf"}
+  terres: {valeur: "partiel", note: "La possession foncière rurale peut être collective, notamment familiale, et être constatée par une APFR qui a la valeur d'un titre de jouissance (droit d'usage reconnu par l'État) (loi n° 034-2009, art. 34, 39 et 44) ; les espaces locaux de ressources naturelles d'utilisation commune sont immatriculés (inscrits au livre foncier) au nom de la collectivité territoriale, déclarés inaliénables et peuvent être délégués en gestion aux utilisateurs locaux (art. 32).", source: "https://faolex.fao.org/docs/pdf/bkf95496.pdf"}
+  ressources: {valeur: "partiel", note: "Les chartes déterminent les modalités d'accès et de gestion participative des forêts villageoises, bois sacrés, mares, pâtures et pistes à bétail d'utilisation commune (loi n° 034-2009, art. 6, 13 et 32) ; les forêts classées, aires fauniques, espaces pastoraux, mines et eaux restent régis par leurs lois propres (art. 3).", source: "https://faolex.fao.org/docs/pdf/bkf95496.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le Comité technique « Foncier et développement » (2014), les structures locales prévues par la loi n'étaient en place que dans 48 communes sur 351, 19 communes avaient une charte validée et 140 APFR avaient été délivrées pour 8 879 demandes, les APFR individuelles étant plus demandées que les APFR collectives. Selon une communication de mars 2023, 189 services fonciers ruraux étaient opérationnels en 2022 (53,84 % des communes), près de la moitié des villages n'étaient pas encore concernés par les commissions foncières villageoises et les commissions de conciliation restaient peu sollicitées.", source: "https://www.foncier-developpement.fr/wp-content/uploads/Burkina_Pierre-Aime-Ouedraogo_PPT_SFR-VF.pdf"}
+chronologie:
+  - {annee: 2007, evenement: "Adoption de la politique nationale de sécurisation foncière en milieu rural (décret n° 2007-610 du 4 octobre 2007)."}
+  - {annee: 2009, evenement: "Loi n° 034-2009/AN du 16 juin 2009 portant régime foncier rural : possession foncière rurale, APFR, chartes foncières locales, commissions foncières villageoises, conciliation préalable obligatoire."}
+  - {annee: 2010, evenement: "Décret n° 2010-404 du 29 juillet 2010 sur les structures locales de gestion foncière."}
+  - {annee: 2012, evenement: "Décret n° 2012-263 du 3 avril 2012 sur la commission de conciliation foncière villageoise ; loi n° 034-2012/AN portant réorganisation agraire et foncière, qui range l'APFR parmi les titres de jouissance."}
+  - {annee: 2014, evenement: "État des lieux de l'application de la loi (données de fin 2013 à mars 2014) : 48 communes équipées, 1 127 commissions foncières villageoises, 995 commissions de conciliation, 19 communes dotées d'une charte validée."}
+  - {annee: 2017, evenement: "Décret n° 2017-0491 du 14 juin 2017 créant un Conseil national pour la sécurisation foncière en milieu rural."}
+  - {annee: 2022, evenement: "189 services fonciers ruraux opérationnels, soit 53,84 % des communes."}
+fiabilite:
+  verifie:
+    - "Texte de la loi n° 034-2009 (art. 6, 11 à 24, 32, 34 à 46, 81 et 82, 96 à 100, 107) sur le texte publié par FAOLEX."
+    - "Chiffres de 2014 (48 communes, 1 127 CFV, 995 CCFV, 19 chartes validées, 140 APFR pour 8 879 demandes) dans la fiche pays du Comité technique « Foncier et développement »."
+    - "Chiffres de 2022 sur les services fonciers ruraux et la couverture des villages par les commissions, dans la communication de Pierre Aimé Ouédraogo (Saint-Louis, mars 2023)."
+    - "Mention de la loi de 2009 dans le quatrième rapport national à la Convention sur la diversité biologique."
+    - "Nombre d'APFR délivrées en 2014 : 140 selon la fiche pays, 143 selon la note de synthèse n° 15 ; la fiche retient 140."
+  non_confirme:
+    - "Nombre actuel de chartes foncières locales et d'APFR collectives : aucune donnée publiée après 2014 trouvée ; une communication présentée en 2023 compte 21 291 APFR en 2020, procès-verbaux de constatation de possession foncière compris, sans distinguer APFR individuelles et collectives."
+    - "Textes des décrets n° 2010-404 et n° 2012-263 non consultés : leur intitulé et la présidence des commissions foncières villageoises par les chefs coutumiers sont repris de sources secondaires (fiche pays, note de synthèse n° 15)."
+    - "Modification éventuelle de la loi n° 034-2009 après 2023 non vérifiée ; aucune liste officielle des chartes par commune n'a été trouvée, d'où l'absence de tableau."
+sources:
+  - {titre: "Loi n° 034-2009/AN du 16 juin 2009 portant régime foncier rural — FAOLEX", url: "https://faolex.fao.org/docs/pdf/bkf95496.pdf"}
+  - {titre: "Burkina Faso : vers la reconnaissance des droits fonciers locaux, fiche pays n° 5 — Comité technique « Foncier et développement » (2014)", url: "https://www.foncier-developpement.fr/wp-content/uploads/Fiche-pays-5_Burkina-Faso2.pdf"}
+  - {titre: "Avancées, limites et défis de la réforme foncière rurale du Burkina Faso, note de synthèse n° 15 — Comité technique « Foncier et développement » (2014)", url: "https://www.foncier-developpement.fr/wp-content/uploads/Note-de-synthese-Numero15_Burkina1.pdf"}
+  - {titre: "Le fonctionnement des services fonciers ruraux en contexte de crise, P. A. Ouédraogo — Saint-Louis (2023)", url: "https://www.foncier-developpement.fr/wp-content/uploads/Burkina_Pierre-Aime-Ouedraogo_PPT_SFR-VF.pdf"}
+  - {titre: "Trajectoires des politiques foncières : cas du Burkina Faso, S. Sanou (2018)", url: "https://www.foncier-developpement.fr/wp-content/uploads/Atelier_politiques-foncières-St-Louis_-Burkina.pdf"}
+  - {titre: "Controverses autour de la loi portant régime foncier rural, GRAF (2023)", url: "https://www.foncier-developpement.fr/wp-content/uploads/Burkina_Saydou-Koudougou_PPT-GRAF-VF.pdf"}
+  - {titre: "Quatrième rapport national du Burkina Faso sur la diversité biologique (2010) — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/bf/bf-nr-04-fr.pdf"}

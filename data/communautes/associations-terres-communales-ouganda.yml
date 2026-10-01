@@ -1,0 +1,62 @@
+uid: "associations-terres-communales-ouganda"
+nom: "Associations de terres communales d'Ouganda"
+endonyme: ""
+territoire: "Ouganda (associations formées au Karamoja : districts de Kaabong, Kotido, Moroto et Napak)"
+etats: ["Ouganda"]
+region: "afrique"
+coord: [2.8, 34.2]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 52, unite: "associations de terres communales formées au Karamoja avec l'appui de l'Uganda Land Alliance (2012-2013), toutes en attente du certificat d'enregistrement en 2015 ; d'autres ont été formées depuis, aucun total national trouvé", annee: 2015, source: "https://learn.landcoalition.org/documents/654/C0043-ULA-Uganda-EN-v20150418.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi foncière ougandaise de 1998 (Land Act, Cap. 227) permet à tout groupe de personnes de former une association de terres communales (communal land association) pour posséder et gérer en commun des terres, en droit coutumier ou non. Le comité de gestion élu devient une personne morale qui détient la terre au nom des membres et adopte un plan de gestion des terres communes (pâturage, eau, bois, chasse, miel). La Constitution de 1995 reconnaît la tenure coutumière (régime foncier régi par la coutume) parmi les quatre régimes fonciers du pays. Selon l'Uganda Land Alliance, les premières associations ont été formées en 2012-2013 au Karamoja, dans le nord-est ; d'autres l'ont été entre 2019 et 2021. En 2022, le ministère des Terres indiquait que la plupart des demandes de certificats venues de cette région restaient en attente de traitement.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République de l'Ouganda (1995), art. 237 (régimes fonciers, dont la tenure coutumière) et troisième annexe (communautés autochtones de l'Ouganda)", nature: "constitution", annee: 1995, source: "https://www.constituteproject.org/constitution/Uganda_2017.pdf"}
+  - {instrument: "Land Act 1998 (Cap. 227), art. 3 et 15 à 27 (associations de terres communales, aires d'usage commun, plans de gestion des terres communes), modifié en 2001, 2004 et 2010", nature: "loi", annee: 1998, source: "https://faolex.fao.org/docs/pdf/uga96350.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Un groupe réuni par le registraire de district décide, à 60 % au moins, de se constituer en association et élit trois à neuf responsables dont un tiers au moins de femmes ; incorporés, ils forment un comité de gestion doté de la personnalité morale (Land Act, art. 16 et 18), sous la « supervision générale » du registraire de district, qui peut leur donner des instructions (art. 15(3)).", source: "https://faolex.fao.org/docs/pdf/uga96350.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La constitution de l'association, certifiée par le registraire puis adoptée à la majorité absolue des membres, lie tous les membres (Land Act, art. 17) ; le plan de gestion des terres communes fixe les règles d'accès, les redevances et les sanctions et n'entre en vigueur qu'avec l'accord de la communauté (art. 24 et 25).", source: "https://faolex.fao.org/docs/pdf/uga96350.pdf"}
+  justice_propre: {valeur: "partiel", note: "Les membres doivent se conformer aux décisions de tout organe de règlement des litiges créé par l'association pour la gestion du plan (Land Act, art. 26(1)(h)) ; recours devant le tribunal foncier (art. 22(4) et 26(2)) ; le registraire de district peut intervenir dans les litiges internes (art. 20).", source: "https://faolex.fao.org/docs/pdf/uga96350.pdf"}
+  terres: {valeur: "partiel", note: "Une fois incorporé, le comité de gestion détient la terre, sous certificat de propriété coutumière, en pleine propriété ou à bail, pour le compte de tous les membres ; toute transaction sur cette terre exige l'accord d'une majorité réunie à cet effet, sinon elle est nulle (Land Act, art. 19(2) et 19(3)). La tenure coutumière prévoit la propriété et l'usage communaux de la terre (art. 3(1)(f)) ; Constitution, art. 237(3)(a). Limite : cette détention passe par un certificat d'incorporation et un titre délivrés par l'administration foncière, en attente pour les associations du Karamoja documentées entre 2015 et 2022.", source: "https://faolex.fao.org/docs/pdf/uga96350.pdf"}
+  ressources: {valeur: "partiel", note: "L'association met en réserve des aires d'usage commun pour le pâturage et l'abreuvement, la chasse, le bois de feu, les matériaux, le miel et les produits forestiers, avec droit d'exclure les non-membres (Land Act, art. 23 et 26(1)(d)) ; la chasse reste soumise à la loi sur la faune (art. 25(1)(c)) et les minéraux et le pétrole appartiennent à l'État (Constitution, art. 244).", source: "https://faolex.fao.org/docs/pdf/uga96350.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le plan de gestion peut fixer des redevances d'usage des terres communes, différenciées entre membres et non-membres ; les redevances et pénalités alimentent un fonds affecté aux terres communes (Land Act, art. 25(1)(g) et 26(1)(f)).", source: "https://faolex.fao.org/docs/pdf/uga96350.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon l'Uganda Land Alliance (2015), aucune mise en œuvre de ces dispositions n'avait été tentée avant ses travaux ; les 52 associations formées au Karamoja disposent d'une carte de leurs terres mais attendaient toutes leur certificat d'enregistrement, le poste de registraire de district restant vacant dans la plupart des districts. Une société minière s'est engagée à verser 120 millions de shillings à la communauté de Rupa (district de Moroto) avant d'exploiter du marbre, et une association du district de Kaabong a bloqué une société de tourisme. En août 2022, le département de l'enregistrement foncier du ministère des Terres indiquait, lors d'une réunion organisée par le Land and Equity Movement in Uganda (LEMU) à Moroto, que la plupart des demandes de certificats d'associations de la région attendaient leur traitement, faute de financement.", source: "https://land-in-uganda.org/ministry-of-lands-to-process-cla-certificates-for-karamoja/"}
+chronologie:
+  - {annee: 1995, evenement: "La Constitution reconnaît la tenure coutumière parmi les quatre régimes fonciers (art. 237)."}
+  - {annee: 1998, evenement: "Le Land Act crée les associations de terres communales et les plans de gestion des terres communes."}
+  - {annee: 2001, evenement: "Règlement d'application fixant la procédure de formation, d'enregistrement et de dissolution des associations (selon l'Uganda Land Alliance)."}
+  - {annee: 2009, evenement: "Début de la cartographie communautaire des terres communales au Karamoja (2009-2010)."}
+  - {annee: 2012, evenement: "Formation des premières associations au Karamoja (novembre 2012 - 2013) : 52 associations dans les districts de Kaabong, Kotido, Moroto et Napak."}
+  - {annee: 2015, evenement: "Les 52 associations attendent toujours leur certificat d'enregistrement."}
+  - {annee: 2019, evenement: "Le LEMU appuie la formation de 27 associations dans les districts d'Amudat et de Napak (2019-2021)."}
+  - {annee: 2022, evenement: "Le ministère des Terres annonce le traitement des demandes de certificats en attente pour le Karamoja."}
+fiabilite:
+  verifie:
+    - "Texte consolidé du Land Act (Cap. 227) lu sur FAOLEX : art. 3(1)(f), 15 à 27."
+    - "Constitution de 1995, art. 237 et 244, lue sur Constitute Project ; les Karimojong figurent à la troisième annexe (communautés autochtones)."
+    - "Étude de cas Uganda Land Alliance / International Land Coalition (avril 2015) : 52 associations dans quatre districts, en attente d'enregistrement ; indemnité de 120 millions de shillings promise par une société minière à Rupa."
+    - "Article du LEMU (30 août 2022) : demandes de certificats du Karamoja en attente au ministère des Terres."
+    - "Publication du LEMU « Lessons from the field » : 27 associations formées entre 2019 et 2021 dans les districts d'Amudat et de Napak."
+  non_confirme:
+    - "Texte des Land Regulations 2001 non consulté : la procédure réglementaire est citée d'après l'Uganda Land Alliance."
+    - "Édition révisée des lois de 2023 : le Land Act y porterait le numéro Cap. 236 et confierait ces fonctions au Registrar of Titles ; texte officiel révisé non consulté."
+    - "Nombre d'associations effectivement enregistrées après 2015 et total national : aucune source officielle trouvée ; pas de liste officielle des sites."
+sources:
+  - {titre: "Land Act, Cap. 227 (texte consolidé, amendements 2001, 2004, 2010) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/uga96350.pdf"}
+  - {titre: "Constitution de l'Ouganda (1995, modifiée 2017) — Constitute Project", url: "https://www.constituteproject.org/constitution/Uganda_2017.pdf"}
+  - {titre: "Communal Land Associations claim compensations for investments in their territories — International Land Coalition", url: "https://learn.landcoalition.org/en/good-practices/communal-land-associations-claim-compensations-investments-their-territories/"}
+  - {titre: "Étude de cas, Uganda Land Alliance (2015) — PDF", url: "https://learn.landcoalition.org/documents/654/C0043-ULA-Uganda-EN-v20150418.pdf"}
+  - {titre: "Ministry of Lands to process CLA certificates for Karamoja — Land and Equity Movement in Uganda (2022)", url: "https://land-in-uganda.org/ministry-of-lands-to-process-cla-certificates-for-karamoja/"}
+  - {titre: "Communal Land Associations, Lessons from the Field — Land and Equity Movement in Uganda", url: "https://land-in-uganda.org/shared-files/1757/?Communal%20Land%20Associations,%20Lessons%20from%20the%20Field.pdf"}

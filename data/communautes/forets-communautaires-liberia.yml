@@ -1,0 +1,69 @@
+uid: "forets-communautaires-liberia"
+nom: "Forêts communautaires du Liberia"
+endonyme: ""
+territoire: "Forêts communautaires délimitées par l'Autorité de développement forestier (FDA) et confiées par accord de gestion forestière communautaire (CFMA) aux communautés forestières autorisées"
+etats: ["Liberia"]
+region: "afrique"
+coord: [6.4, -9.4]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 57, unite: "accords de gestion forestière communautaire (CFMA)", annee: 2024, source: "https://www.fda.gov.lr/sites/default/files/documents/Environmental%20and%20Social%20Management%20Framework%20%26%20Labor%20Management%20Procedures-Liberia%20Forest%20Economy%20Project%20%28LiFE-P%29_Updated.pdf"}
+surface_km2: {valeur: 12000, annee: 2024, perimetre: "surface cumulée des 57 CFMA (1,2 million d'hectares), chiffre arrondi cité par le cadre de gestion environnementale et sociale publié par la FDA", source: "https://www.fda.gov.lr/sites/default/files/documents/Environmental%20and%20Social%20Management%20Framework%20%26%20Labor%20Management%20Procedures-Liberia%20Forest%20Economy%20Project%20%28LiFE-P%29_Updated.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés qui ont obtenu de l'Autorité de développement forestier (Forestry Development Authority, FDA) le statut de « communauté forestière autorisée » (Authorized Forest Community) au titre de la loi de 2009 sur les droits communautaires relatifs aux terres forestières (Community Rights Law, CRL) et de son règlement amendé. Après une procédure en neuf étapes (demande, enquête socio-économique, délimitation, affichage public de trente jours, traitement des objections, mise en place des organes), la communauté signe avec la FDA un accord de gestion forestière communautaire (Community Forest Management Agreement, CFMA) de quinze ans, renouvelable. La gestion revient à une assemblée communautaire, à son comité exécutif et à un organe de gestion forestière communautaire (Community Forest Management Body, CFMB). En 2024, la FDA comptait 57 CFMA couvrant environ 1,2 million d'hectares, dont 42 liés par des contrats d'exploitation commerciale avec des sociétés forestières.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Sixième rapport national du Liberia à la Convention sur la diversité biologique (15 février 2019) : il cite la loi sur les droits communautaires parmi les instruments forestiers, indique que la FDA a délimité 7 forêts communautaires et prévoit dans son plan stratégique 10 forêts communautaires supplémentaires d'ici 2018.", annee: 2019, source: "https://www.cbd.int/doc/world/lr/lr-nr-06-en.pdf"}
+base_nationale:
+  - {instrument: "Loi établissant la loi sur les droits communautaires relatifs aux terres forestières (An Act to Establish the Community Rights Law of 2009 with Respect to Forest Lands)", nature: "loi", annee: 2009, source: "https://www.fda.gov.lr/sites/default/files/documents/Environmental%20and%20Social%20Management%20Framework%20%26%20Labor%20Management%20Procedures-Liberia%20Forest%20Economy%20Project%20%28LiFE-P%29_Updated.pdf"}
+  - {instrument: "Règlement amendé de la loi sur les droits communautaires (Amended Regulation to the Community Rights Law of 2009 with Respect to Forest Lands), sections 1.8, 1.9, 10.5 et 11.6 citées par les CFMA", nature: "loi", annee: 2017, source: "https://www.forest-trends.org/wp-content/uploads/2023/09/Akewa-CFMA.pdf"}
+  - {instrument: "Loi sur les droits fonciers (Land Rights Act) de 2018 : la terre coutumière inclut les terres forestières communales ; la communauté exploite bois et produits forestiers non ligneux de ses terres forestières conformément à la CRL (art. 43, al. 2)", nature: "loi", annee: 2018, source: "https://www.lla.gov.lr/index.php/downloadable-resources/policies-laws-regulations-repository?download=79:land-rights-act"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La CRL (section 6.4) impose une assemblée communautaire, qui nomme l'organe de gestion forestière communautaire (CFMB) ; le CFMB représente la communauté dans toutes les questions forestières, sous la conduite du comité exécutif de l'assemblée (CFMA de Beyan Poye, 2017, préambule, art. 3.2 et 6.2) ; la FDA contrôle et évalue le plan de gestion et peut sanctionner la communauté (art. 3.1 (f) et 4.2).", source: "https://www.forest-trends.org/wp-content/uploads/2023/09/Akewa-CFMA.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le CFMB prépare et applique les règles de foresterie communautaire avec l'approbation du comité exécutif (CFMA de Beyan Poye, art. 3.2 (b)) ; la communauté « détermine librement » la gestion de ses ressources dans un plan de gestion (CFMP) révisé tous les cinq ans, mais toute modification substantielle exige un vote aux deux tiers de l'assemblée puis l'approbation de la FDA (art. 3.1 (b), 5.1 à 5.4).", source: "https://www.forest-trends.org/wp-content/uploads/2023/09/Akewa-CFMA.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le CFMA délimite la forêt communautaire (33 338 ha pour Beyan Poye) pour quinze ans au plus, renouvelable autant de fois que la communauté le souhaite, avec renouvellement automatique si la FDA ne répond pas soixante jours avant l'échéance (art. 2, 8.1 à 8.3) ; l'État peut exercer son droit d'expropriation (eminent domain, droit de prendre un bien pour cause d'utilité publique) contre indemnité, avec retour des droits à la communauté si l'usage cesse (art. 8.4 (b)).", source: "https://www.forest-trends.org/wp-content/uploads/2023/09/Akewa-CFMA.pdf"}
+  ressources: {valeur: "partiel", note: "Le CFMA rappelle le droit de la communauté forestière autorisée de « posséder, utiliser et gérer durablement » ses ressources forestières et d'exploiter bois et produits forestiers non ligneux à des fins commerciales (CFMA de Beyan Poye, art. 1.1 (a) et 6.1) ; toute récolte commerciale exige un inventaire confirmé par la FDA, une évaluation environnementale et un avis écrit de la FDA, et tout contrat avec un tiers doit être approuvé par la FDA (art. 6.3, 6.4 et 7.2, règlement amendé, section 10.5).", source: "https://www.forest-trends.org/wp-content/uploads/2023/09/Akewa-CFMA.pdf"}
+  consentement: {valeur: "partiel", note: "Aucune décision, activité ou accord touchant le statut ou l'usage des ressources de la forêt communautaire ne peut être mis en œuvre sans le consentement libre, préalable et éclairé de la communauté forestière autorisée (CFMA de Beyan Poye, art. 1.2 (e)) ; la clause d'expropriation de l'art. 8.4 (b) reste réservée.", source: "https://www.forest-trends.org/wp-content/uploads/2023/09/Akewa-CFMA.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Selon l'analyse publiée par le Global Landscapes Forum (26 octobre 2020), la loi attribue à la communauté 55 % de la redevance foncière annuelle (land rental fee, loyer du sol) de 1,25 dollar par hectare payée par la société titulaire d'un contrat d'usage commercial, le reste allant à l'État ; s'y ajoute un montant par mètre cube négocié avec la société ; ces recettes vont au fonds communautaire géré par l'organe de gestion forestière communautaire (CFMB).", source: "https://thinklandscape.globallandscapesforum.org/viewpoint/do-forest-rights-empower-communities-in-liberia/"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2020, 40 communautés avaient signé un CFMA et au moins la moitié avaient conclu des contrats d'exploitation commerciale ; l'analyse publiée par le Global Landscapes Forum relève des négociations déséquilibrées avec les sociétés, un suivi insuffisant de la FDA et des conflits entre les organes élus et les autorités coutumières. En 2024, 42 des 57 CFMA étaient liés par des contrats d'exploitation commerciale couvrant 997 918 ha, 5 étaient consacrés à la conservation (25 367 ha) et aucun n'était certifié FSC ou PEFC (cadre de gestion environnementale et sociale publié par la FDA).", source: "https://thinklandscape.globallandscapesforum.org/viewpoint/do-forest-rights-empower-communities-in-liberia/"}
+chronologie:
+  - {annee: 2006, evenement: "Loi de réforme forestière nationale (National Forestry Reform Law)."}
+  - {annee: 2009, evenement: "Loi sur les droits communautaires relatifs aux terres forestières (Community Rights Law)."}
+  - {annee: 2011, evenement: "Premier règlement d'application de la CRL, amendé par la suite."}
+  - {annee: 2017, evenement: "CFMA de Beyan Poye signé le 21 février (33 338 ha, comtés de Margibi et de Grand Bassa)."}
+  - {annee: 2018, evenement: "Loi sur les droits fonciers (Land Rights Act) : ouverture d'un titre de propriété collectif pour les communautés."}
+  - {annee: 2020, evenement: "40 communautés titulaires d'un CFMA."}
+  - {annee: 2024, evenement: "57 CFMA couvrant environ 1,2 million d'hectares selon la FDA."}
+  - {annee: 2026, evenement: "Nouveaux CFMA remis aux communautés lors d'une cérémonie de la FDA le 21 août."}
+fiabilite:
+  verifie:
+    - "Préambule et articles 1 à 8 du CFMA de Beyan Poye (21 février 2017) : statut de communauté forestière autorisée, CFMB, comité exécutif, assemblée, consentement libre, préalable et éclairé, durée de quinze ans renouvelable, expropriation."
+    - "57 CFMA, 1,2 million d'hectares, 42 contrats d'exploitation commerciale (997 918 ha), 5 CFMA de conservation (25 367 ha) et procédure en neuf étapes dans le cadre de gestion environnementale et sociale du projet LiFE-P publié par la FDA (version mise à jour de juillet 2026)."
+    - "Partage de la redevance foncière (55 % pour la communauté) et chiffre de 40 CFMA dans l'analyse du Global Landscapes Forum du 26 octobre 2020."
+    - "Cérémonie de signature de nouveaux CFMA du 21 août 2026 et levée par le conseil d'administration de la FDA d'un moratoire sur les forêts communautaires (Liberian Observer, 25 août 2026)."
+    - "Art. 43 de la loi sur les droits fonciers de 2018 : usage des terres forestières de la terre coutumière conformément à la CRL (texte publié par la Liberia Land Authority)."
+  non_confirme:
+    - "Le texte de la CRL de 2009 et celui de son règlement amendé n'ont pas été ouverts ; leurs dispositions sont citées d'après le CFMA de Beyan Poye et le cadre de gestion publié par la FDA."
+    - "Le partage de 55 % de la redevance foncière est rapporté par le Global Landscapes Forum sans référence d'article ; la disposition n'a pas été lue dans le règlement."
+    - "L'année du règlement amendé (2017) est déduite de sa citation dans le CFMA de février 2017 ; le cadre de la FDA cite un règlement de 2011."
+    - "Le plafond de surface diffère selon les sources : de 5 000 à 50 000 ha (Global Landscapes Forum), moins de 50 000 ha (cadre de la FDA)."
+    - "Le nombre de CFMA signés le 21 août 2026 et leurs noms ne sont pas donnés par l'article consulté."
+    - "Aucune liste officielle complète des CFMA par site n'a été trouvée : le site de la FDA ne présente qu'une partie des forêts par comté ; pas de tableau par site."
+    - "Population des communautés titulaires : non établie."
+sources:
+  - {titre: "Accord de gestion forestière communautaire de Beyan Poye (2017) — Forest Trends", url: "https://www.forest-trends.org/wp-content/uploads/2023/09/Akewa-CFMA.pdf"}
+  - {titre: "Environmental and Social Management Framework, Liberia Forest Economy Project (juillet 2026) — FDA", url: "https://www.fda.gov.lr/sites/default/files/documents/Environmental%20and%20Social%20Management%20Framework%20%26%20Labor%20Management%20Procedures-Liberia%20Forest%20Economy%20Project%20%28LiFE-P%29_Updated.pdf"}
+  - {titre: "Loi sur les droits fonciers de 2018 (Land Rights Act) — Liberia Land Authority", url: "https://www.lla.gov.lr/index.php/downloadable-resources/policies-laws-regulations-repository?download=79:land-rights-act"}
+  - {titre: "Sixième rapport national du Liberia — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/lr/lr-nr-06-en.pdf"}
+  - {titre: "Do forest rights empower local communities in Liberia? — Global Landscapes Forum (2020)", url: "https://thinklandscape.globallandscapesforum.org/viewpoint/do-forest-rights-empower-communities-in-liberia/"}
+  - {titre: "FDA hands forest management responsibility to local communities — Liberian Observer (2026)", url: "https://www.liberianobserver.com/news/fda-hands-forest-management-responsibility-to-local-communities/article_b3479a14-a230-41f6-9257-f7d5fb53035a.html"}
+  - {titre: "Community Forestry Management Agreement — FDA", url: "https://www.fda.gov.lr/index.php/general/community-forestry-management-agreement"}

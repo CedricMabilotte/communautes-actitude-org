@@ -1,0 +1,58 @@
+uid: "droits-fonciers-coutumiers-collectifs-mali"
+nom: "Terres coutumières collectives du Mali"
+endonyme: ""
+territoire: "Terres agricoles non immatriculées des communautés rurales, dans les villages et les fractions (unités de base des populations nomades) du Mali"
+etats: ["Mali"]
+region: "afrique"
+coord: [14.0, -5.0]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "commissions foncières villageoises et de fraction installées", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi 2017-001 du 11 avril 2017 sur le foncier agricole range parmi les terres agricoles celles des communautés rurales, détenues en vertu d'une attestation de détention coutumière (titre qui constate un droit fondé sur la coutume) ou de possession foncière, individuelle ou collective. Elle crée dans chaque village et chaque fraction une commission foncière villageoise et de fraction, dont l'avis conditionne ces attestations et qui doit être saisie de tout différend avant les tribunaux. Le décret 2018-0333 du 4 avril 2018 en fixe la composition et le fonctionnement. L'ordonnance 2020-014 portant Code domanial et foncier confirme les droits coutumiers exercés collectivement ou individuellement sur les terres non immatriculées.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi 2017-001 du 11 avril 2017 portant sur le foncier agricole (art. 4, 11, 12, 17, 19, 34 à 39, 42 à 44, 48 à 50), Journal officiel n° 16 du 21 avril 2017", nature: "loi", annee: 2017, source: "https://sgg-mali.ml/JO/2017/mali-jo-2017-16.pdf"}
+  - {instrument: "Décret 2018-0333/P-RM du 4 avril 2018 fixant la composition et les modalités de fonctionnement de la commission foncière villageoise ou de fraction, Journal officiel n° 15 du 13 avril 2018", nature: "loi", annee: 2018, source: "https://sgg-mali.ml/JO/2018/mali-jo-2018-15.pdf"}
+  - {instrument: "Ordonnance 2020-014/PT-RM du 24 décembre 2020 portant loi domaniale et foncière, modifiée et ratifiée par la loi 2021-056 du 7 octobre 2021 (art. 71, 73, 74 et 76), citée par le Comité technique « Foncier & développement »", nature: "loi", annee: 2020, source: "https://www.foncier-developpement.fr/wp-content/uploads/Cadre-juridique-institutionnel-MALI-VF.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Une commission foncière villageoise et de fraction, instance de concertation et de suivi de la gestion des terres agricoles, est créée dans tous les villages et fractions ; sa composition et son fonctionnement sont fixés par décret en Conseil des ministres (loi 2017-001, art. 43 et 44) ; elle assure la prévention des conflits (art. 48) et son avis favorable conditionne le visa du chef de village sur l'attestation de détention coutumière (art. 35) ; sa compétence se limite aux terres agricoles.", source: "https://sgg-mali.ml/JO/2017/mali-jo-2017-16.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les droits fonciers agricoles des communautés rurales issus d'une possession se transmettent et se cèdent selon les us et coutumes ; l'accès à leurs terres se fait par succession selon les dispositions coutumières ; donation et prêt suivent les règles et pratiques coutumières (loi 2017-001, art. 12, 19, 20 et 21) ; les droits coutumiers non immatriculables ne se transfèrent que dans les conditions et limites prévues par la coutume (ordonnance 2020-014, art. 74).", source: "https://sgg-mali.ml/JO/2017/mali-jo-2017-16.pdf"}
+  justice_propre: {valeur: "partiel", note: "Tout différend sur les terres agricoles est obligatoirement soumis à la commission foncière villageoise et de fraction avant toute saisine des tribunaux ; le procès-verbal de conciliation est transmis au juge pour homologation (validation par le juge) (loi 2017-001, art. 48 à 50) ; la juridiction civile reste compétente pour les contestations relatives aux droits coutumiers (ordonnance 2020-014, art. 76).", source: "https://sgg-mali.ml/JO/2017/mali-jo-2017-16.pdf"}
+  terres: {valeur: "partiel", note: "Les terres agricoles des communautés rurales, détenues en vertu d'une attestation de détention coutumière ou de possession foncière, comprennent les terres liées au droit foncier coutumier, les espaces vitaux villageois et les terres agricoles familiales (loi 2017-001, art. 4, 11 et 12) ; l'attestation de détention coutumière, visée par le chef de village sur avis favorable de la commission foncière villageoise (art. 35), peut, comme l'attestation de possession foncière, être individuelle ou collective (art. 38) ; les droits coutumiers exercés collectivement sont confirmés et nul ne peut être contraint de les céder hors utilité publique avec indemnisation (ordonnance 2020-014, art. 71), mais ils peuvent être « purgés » (éteints au profit de l'État) selon les articles 75 et 76.", source: "https://www.foncier-developpement.fr/wp-content/uploads/Cadre-juridique-institutionnel-MALI-VF.pdf"}
+  ressources: {valeur: "partiel", note: "Les éleveurs et les pêcheurs peuvent se voir reconnaître un droit d'usage prioritaire sur les ressources naturelles de leur terroir d'attache, sans exclure les usages communs : accès des tiers aux points d'eau, droit de parcours, de pacage et de pêche (loi 2017-001, art. 3 et 42).", source: "https://sgg-mali.ml/JO/2017/mali-jo-2017-16.pdf"}
+  consentement: {valeur: "partiel", note: "Toute transaction sur une terre détenue ou possédée collectivement exige l'autorisation préalable du conseil de famille, composé de tous les ayants droit, consignée dans un procès-verbal (loi 2017-001, art. 17) ; aucun texte consulté n'impose la consultation des communautés avant une décision de l'État.", source: "https://sgg-mali.ml/JO/2017/mali-jo-2017-16.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune source consultée ne donne le nombre de commissions foncières villageoises installées ni d'attestations délivrées ; l'étude du Comité technique « Foncier & développement » (décembre 2022) décrit une application « très relative » de la législation foncière en général et n'a pas trouvé le décret prévu pour la structure de gestion précontentieuse des litiges créée en 2021.", source: "https://www.foncier-developpement.fr/wp-content/uploads/Cadre-juridique-institutionnel-MALI-VF.pdf"}
+chronologie:
+  - {annee: 2006, evenement: "Loi d'orientation agricole (loi 06-045 du 5 septembre) : inventaire des us et coutumes fonciers et conciliation préalable par des commissions foncières (art. 76, 79 et 80)."}
+  - {annee: 2009, evenement: "Assises nationales du foncier."}
+  - {annee: 2017, evenement: "Loi 2017-001 du 11 avril sur le foncier agricole : terres des communautés rurales, attestations de détention coutumière, commissions foncières villageoises et de fraction."}
+  - {annee: 2018, evenement: "Décret 2018-0333 du 4 avril : composition et fonctionnement des commissions foncières villageoises ou de fraction."}
+  - {annee: 2020, evenement: "Ordonnance 2020-014 du 24 décembre portant loi domaniale et foncière : confirmation des droits coutumiers exercés collectivement ou individuellement (art. 71)."}
+  - {annee: 2021, evenement: "Loi 2021-056 du 7 octobre : modification et ratification de l'ordonnance 2020-014."}
+fiabilite:
+  verifie:
+    - "Texte de la loi 2017-001 au Journal officiel n° 16 du 21 avril 2017 (p. 602 à 606) : articles 3, 4, 11, 12, 17, 19 à 21, 34 à 39, 42 à 44 et 47 à 51."
+    - "Le sommaire du Journal officiel n° 15 du 13 avril 2018 annonce le décret 2018-0333 à la page 620."
+    - "L'attestation de détention coutumière est visée par le chef de village sur avis de la commission à l'article 35 de la loi 2017-001 ; l'article 36 porte sur sa légalisation par le maire."
+  non_confirme:
+    - "Le texte du décret 2018-0333 (composition de la commission, durée du mandat, autorité de nomination, prise en charge des frais) n'a pas pu être relu : la copie du Journal officiel n° 15 de 2018 consultée s'arrête avant la page 620."
+    - "Le texte de l'ordonnance 2020-014 et de la loi 2021-056 n'a pas été consulté directement : les articles 71, 73, 74 et 76 sont cités d'après l'étude de décembre 2022 du Comité technique « Foncier & développement »."
+    - "Nombre de commissions foncières villageoises et de fraction installées, nombre d'attestations collectives délivrées et surface concernée : aucune source trouvée ; aucune liste officielle des commissions n'a été trouvée."
+    - "L'arrêté conjoint prévu par l'article 34 (procédure de constatation des droits coutumiers) et l'arrêté sur les frais de fonctionnement des commissions (décret 2018-0333, art. 9) n'ont pas été trouvés."
+sources:
+  - {titre: "Loi 2017-001 du 11 avril 2017 portant sur le foncier agricole — Journal officiel de la République du Mali n° 16, 21 avril 2017", url: "https://sgg-mali.ml/JO/2017/mali-jo-2017-16.pdf"}
+  - {titre: "Décret 2018-0333/P-RM du 4 avril 2018 fixant la composition et les modalités de fonctionnement de la commission foncière villageoise ou de fraction — Journal officiel de la République du Mali n° 15, 13 avril 2018", url: "https://sgg-mali.ml/JO/2018/mali-jo-2018-15.pdf"}
+  - {titre: "Rochegude A. et Plançon C., Cadre juridique et institutionnel — Mali, Comité technique « Foncier & développement », décembre 2022", url: "https://www.foncier-developpement.fr/wp-content/uploads/Cadre-juridique-institutionnel-MALI-VF.pdf"}
+  - {titre: "Coulibaly M., Une nouvelle loi pour sécuriser les terres au profit des paysans maliens, IISD, 27 juin 2017", url: "https://www.iisd.org/articles/insight/une-nouvelle-loi-pour-securiser-les-terres-au-profit-des-paysans-maliens"}

@@ -1,0 +1,61 @@
+uid: "ethiopie-du-sud"
+nom: "Peuples d'Éthiopie du Sud"
+endonyme: ""
+territoire: "État régional d'Éthiopie du Sud"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [5.9, 37.1]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 12, unite: "zones (Wolayta, Gamo, Gofa, Gedeo, Omo du Sud, Ari, Konso, Gardula, Burji, Koore, Basketo, Ale)", annee: 2023, source: "https://en.wikipedia.org/wiki/South_Ethiopia_Regional_State"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Plusieurs « nations, nationalités et peuples » au sens de la Constitution fédérale éthiopienne, dont les Wolayta, Gamo, Gofa, Gedeo, Konso et les peuples de l'Omo du Sud, forment depuis le 19 août 2023 l'État régional d'Éthiopie du Sud.
+  Six zones et cinq woredas spéciaux (districts à statut particulier) de l'ancien État régional des nations, nationalités et peuples du Sud ont voté le 6 février 2023, sur le fondement de l'article 47, pour former un État commun ; la zone Wolayta a revoté le 19 juin 2023 après annulation de son scrutin.
+  La Chambre de la Fédération (chambre haute) a approuvé la création le 5 juillet 2023. L'État compte douze zones ; son siège est à Wolayta Sodo, avec des bureaux répartis à Arba Minch, Dilla, Jinka, Sawla et Karat (Konso).
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme note la reconnaissance du droit des communautés ethniques et linguistiques à l'autodétermination au niveau de l'État régional, selon le fédéralisme ethnique de la Constitution (CCPR/C/ETH/CO/1, par. 26). Vise la catégorie, pas les peuples de la fiche nommément.", annee: 2011, source: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 5, 39, 40, 46, 47, 50, 52, 61, 78 et 97", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {instrument: "Décision de la Chambre de la Fédération du 5 juillet 2023 approuvant la création de l'État régional d'Éthiopie du Sud", nature: "loi", annee: 2023, source: "https://www.africanews.com/2023/07/06/ethiopia-upper-house-votes-to-form-12th-regional-state/"}
+  - {instrument: "Constitution de l'État régional d'Éthiopie du Sud, adoptée à Arba Minch le 18 août 2023 par la conférence de ratification de la constitution", nature: "constitution", annee: 2023, source: "https://www.fanamc.com/archives/207796"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Art. 39(3) : droit de chaque nation, nationalité et peuple à l'autogouvernement ; art. 47(2)-(3) : droit de former un État. Conseil régional réuni à Arba Minch le 19 août 2023, qui désigne l'administrateur en chef.", source: "https://www.ena.et/web/eng/w/eng_3222547"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Art. 52(2)(b) de la Constitution fédérale : chaque État adopte sa constitution et ses lois. Constitution régionale adoptée à la majorité (10 voix contre, 2 abstentions) le 18 août 2023.", source: "https://www.fanamc.com/archives/207796"}
+  justice_propre: {valeur: "reconnu", note: "Art. 50(2) : les États détiennent le pouvoir judiciaire ; art. 78(5) : les Conseils des États peuvent créer ou reconnaître des tribunaux religieux et coutumiers.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  terres: {valeur: "partiel", note: "Art. 40(3) : la terre est propriété commune des nations, nationalités et peuples, inaliénable ; art. 52(2)(d) : les États l'administrent selon la loi fédérale.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "partiel", note: "Art. 52(2)(d) : les États administrent la terre et les autres ressources naturelles conformément aux lois fédérales.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Art. 39(2) : droit de parler, écrire et développer sa langue ; art. 5(3) : chaque État fixe sa langue de travail. La constitution régionale de 2023 retient l'amharique comme langue de travail et prévoit la promotion des autres langues.", source: "https://www.fanamc.com/archives/207796"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Art. 97 : les États lèvent l'impôt sur le revenu des salariés de l'État et des entreprises privées, les redevances d'usufruit foncier et d'autres impôts.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  representation: {valeur: "reconnu", note: "Art. 61(2) : chaque nation, nationalité et peuple a au moins un siège à la Chambre de la Fédération, plus un par million d'habitants.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) : droit inconditionnel à l'autodétermination, y compris la sécession (séparation d'avec l'État), par vote aux deux tiers du conseil législatif puis référendum fédéral dans les trois ans. Jamais exercé à ce jour.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "partielle", note: "Les conseils des zones Wolayta, Gamo, Gofa, Omo du Sud, Gedeo et Konso avaient voté à plus des deux tiers pour un État propre à chacune ; les gouvernements régional et fédéral les ont conduits à demander un État commun. Le conseil de la zone Wolayta a maintenu sa demande, puis a cédé après l'arrestation de l'administrateur de la zone et la mort de manifestants en août 2020 (Rift Valley Institute, 2023). La Commission électorale nationale a annulé le vote de février 2023 dans cette zone (337 registres irréguliers sur 350 examinés). Aucune évaluation du fonctionnement de l'État depuis août 2023 n'a été consultée.", source: "https://riftvalley.net/wp-content/uploads/2023/03/RVI-2023.03.21-Referendum-in-Ethiopias-Southern-Region.pdf"}
+chronologie:
+  - {annee: 1994, evenement: "Adoption de la Constitution fédérale (art. 39 et 47), entrée en vigueur en 1995."}
+  - {annee: 2020, evenement: "En août, arrestation de l'administrateur de la zone Wolayta et mort de manifestants, après la demande d'un État propre par le conseil de la zone."}
+  - {annee: 2022, evenement: "Par lettre du 18 août, la Chambre de la Fédération demande à la Commission électorale nationale d'organiser un référendum dans six zones et cinq woredas spéciaux de l'État régional du Sud."}
+  - {annee: 2023, evenement: "Le 6 février, référendum : 3 028 770 électeurs inscrits ; résultats approuvés sauf pour la zone Wolayta, où le scrutin est annulé."}
+  - {annee: 2023, evenement: "Le 19 juin, nouveau vote dans la zone Wolayta ; le 5 juillet, la Chambre de la Fédération approuve la création de l'État."}
+  - {annee: 2023, evenement: "Le 18 août, adoption de la constitution régionale ; le 19 août, constitution de l'État régional d'Éthiopie du Sud."}
+fiabilite:
+  verifie: ["Texte des art. 39, 46, 47, 50, 61 et 78 de la Constitution (Constitute Project).", "Date du référendum, liste des six zones et cinq woredas spéciaux, nombre d'inscrits et annulation dans la zone Wolayta (Commission électorale nationale).", "Adoption de la constitution régionale le 18 août 2023, langue de travail et siège (Fana).", "Constitution de l'État le 19 août 2023 (ENA, Borkena).", "Regroupement des zones à la demande des gouvernements régional et fédéral, et répression dans la zone Wolayta en 2020 (Rift Valley Institute)."]
+  non_confirme: ["La reconnaissance onusienne vise la catégorie « nations, nationalités et peuples », non les peuples de la fiche nommément.", "Liste des douze zones : source secondaire (Wikipédia) ; Borkena indique que les woredas spéciaux deviennent des zones et que la zone Omo du Sud est scindée en deux.", "Existence d'un conseil propre à chaque zone et éventuelle seconde chambre régionale : texte de la constitution régionale non consulté.", "Résultat chiffré du vote de juin 2023 dans la zone Wolayta : non vérifié.", "Population et surface de l'État : aucun chiffre officiel retenu."]
+sources:
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur l'Éthiopie, CCPR/C/ETH/CO/1 (2011)", url: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+  - {titre: "Commission électorale nationale d'Éthiopie — Référendums", url: "https://nebe.org.et/en/referendum"}
+  - {titre: "Commission électorale nationale d'Éthiopie — Rapport sur les résultats du référendum (2023)", url: "https://nebe.org.et/sites/default/files/statment%20of%20report%20on%20referendum%20result.pdf"}
+  - {titre: "Rift Valley Institute — Referendum in Ethiopia's Southern Region (2023)", url: "https://riftvalley.net/wp-content/uploads/2023/03/RVI-2023.03.21-Referendum-in-Ethiopias-Southern-Region.pdf"}
+  - {titre: "Africanews — Ethiopia: Upper House votes to form 12th regional state (2023)", url: "https://www.africanews.com/2023/07/06/ethiopia-upper-house-votes-to-form-12th-regional-state/"}
+  - {titre: "Addis Standard — House of Federation officiates creation of new state in Southern Ethiopia (2023)", url: "https://addisstandard.com/news-ethiopia-house-of-federation-officiates-creation-of-new-state-in-southern-ethiopia/"}
+  - {titre: "Fana — Adoption de la constitution de l'État régional d'Éthiopie du Sud (2023, en amharique)", url: "https://www.fanamc.com/archives/207796"}
+  - {titre: "ENA — Central Ethiopia, Southern Ethiopia Regional States Established (2023)", url: "https://www.ena.et/web/eng/w/eng_3222547"}
+  - {titre: "Borkena — Ethiopia's two new regional states formed (2023)", url: "https://borkena.com/2023/08/19/ethiopias-two-new-regional-states-formed-central-ethiopia-south-ethiopia/"}
+  - {titre: "Wikipédia (anglais) — South Ethiopia Regional State", url: "https://en.wikipedia.org/wiki/South_Ethiopia_Regional_State"}

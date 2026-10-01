@@ -1,0 +1,53 @@
+uid: "juifs-maroc"
+nom: "Communauté juive marocaine"
+endonyme: ""
+territoire: "Maroc (Casablanca, Rabat, Marrakech, Tanger, Fès, Meknès, Tétouan) et Juifs marocains de l'étranger"
+etats: ["Maroc"]
+region: "afrique"
+coord: [33.6, -7.6]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 2, unite: "chambres hébraïques près les tribunaux de première instance (déclaration de l'État)", annee: 2020, source: "https://documents.un.org/api/symbol/access?s=CERD/C/MAR/19-21&l=fr&t=pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le dahir n° 1-22-64 du 24 octobre 2022 (décret royal) organise la communauté juive marocaine et remplace le dahir du 7 mai 1945 sur les comités de communautés israélites.
+  Il crée auprès du roi un Conseil national de la communauté juive marocaine, personne morale de droit public siégeant à Rabat, composé de 12 membres nommés par le roi et de 12 membres élus par les Marocains de confession juive dans des circonscriptions régionales.
+  Le Conseil administre le culte, les synagogues, les cimetières, les fondations pieuses (heqdesh) et le patrimoine de la communauté ; le dahir crée aussi des comités régionaux, une Commission des Juifs marocains de l'étranger (consultative) et une Fondation du judaïsme marocain dotée de la personnalité morale.
+  Le statut personnel des Marocains de confession juive relève de chambres hébraïques (sections spécialisées des tribunaux) où siègent des juges-rabbins appliquant le droit hébraïque.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution du Royaume du Maroc, préambule (« affluents africain, andalou, hébraïque et méditerranéen ») et art. 3 et 41 (libre exercice des cultes)", nature: "constitution", annee: 2011, source: "https://www.constituteproject.org/constitution/Morocco_2011?lang=en"}
+  - {instrument: "Dahir n° 1-22-64 du 24 octobre 2022 portant organisation de la communauté juive marocaine et création de la Fondation du judaïsme marocain (BO n° 7140 du 3 novembre 2022)", nature: "loi", annee: 2022, source: "https://www.sgg.gov.ma/BO/FR/2873/2022/BO_7140_Fr.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Dahir de 2022, art. 1, 4 et 14 : Conseil national, personne morale de droit public, de 12 membres élus au scrutin de liste régional et 12 membres nommés par le roi sur proposition du ministre de l'Intérieur, président nommé par dahir, comités régionaux ; un représentant du ministre de l'Intérieur siège de droit, la déchéance des membres est constatée par ce ministre (art. 7) et le règlement intérieur est soumis à l'approbation du roi (art. 19).", source: "https://www.sgg.gov.ma/BO/FR/2873/2022/BO_7140_Fr.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "Les chambres hébraïques sont des sections des tribunaux de première instance de l'État, où des juges-rabbins statuent selon le droit hébraïque (rapport de l'État au CERD, 2020, par. 101) ; le régime relève du statut personnel.", source: "https://www.medias24.com/SOCIETE/14075-Chambres-hebraiques-une-exception-marocaine.html"}
+  terres: {valeur: "partiel", note: "Dahir de 2022, art. 26-27 : le Conseil est seul habilité à recenser et conserver les biens de la communauté, à acquérir, échanger ou céder des immeubles en son nom ; les biens immobiliers des communautés juives existantes lui sont transférés de plein droit, en franchise de droits et taxes. Il s'agit de biens cultuels et patrimoniaux, sans territoire.", source: "https://www.sgg.gov.ma/BO/FR/2873/2022/BO_7140_Fr.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Dahir de 2022, art. 2-3 : le Conseil donne avis au roi sur les affaires de la communauté et peut être saisi par le gouvernement des questions relevant de ses attributions ; avis consultatif, sans obligation de consultation préalable.", source: "https://www.sgg.gov.ma/BO/FR/2873/2022/BO_7140_Fr.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "Dahir de 2022, art. 2 : le Conseil pourvoit à l'instruction religieuse hébraïque et autorise les établissements d'enseignement et de formation juifs ; art. 30 : le grand rabbin du Royaume supervise la formation des rabbins.", source: "https://www.sgg.gov.ma/BO/FR/2873/2022/BO_7140_Fr.pdf"}
+  fiscalite: {valeur: "partiel", note: "Dahir de 2022, art. 24 : budget du Conseil alimenté par les dons, legs et quêtes, le produit des taxes juives, les nédavoths (offrandes), les revenus des fondations pieuses (heqdesh), la location des biens de la communauté et les prestations casher, avec une subvention possible du ministère de l'Intérieur.", source: "https://www.sgg.gov.ma/BO/FR/2873/2022/BO_7140_Fr.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Les Marocains de confession juive relèvent, pour le mariage, le divorce, les successions, les actes testamentaires et les donations, du droit hébraïque appliqué par les chambres hébraïques (Medias24, 2014) ; selon le rapport de l'État au CERD (2020, par. 101), ces chambres sont officiellement reconnues comme organe juridique national ; le dahir de 2022 (art. 29) mentionne les « chambres rabbiniques près les tribunaux du Royaume ».", source: "https://www.medias24.com/SOCIETE/14075-Chambres-hebraiques-une-exception-marocaine.html"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Les chambres hébraïques fonctionnent : six juges-rabbins et environ 150 dossiers par an selon Medias24 (2014), sept juges-rabbins selon le rapport de l'État au CERD (2020). Le dahir de 2022 fixe à douze mois le délai d'installation des nouvelles institutions (art. 49) ; aucune source consultée n'établit l'élection des 12 membres ni l'approbation du règlement intérieur du Conseil.", source: "https://www.medias24.com/SOCIETE/14075-Chambres-hebraiques-une-exception-marocaine.html"}
+chronologie:
+  - {annee: 1945, evenement: "Dahir du 7 mai 1945 relatif à la réorganisation des comités de communautés israélites marocaines."}
+  - {annee: 2011, evenement: "La Constitution cite l'affluent hébraïque parmi les composantes de l'identité nationale (préambule)."}
+  - {annee: 2020, evenement: "Rapport de l'État au CERD : deux chambres hébraïques, à Casablanca et Marrakech, où siègent sept juges-rabbins (par. 101)."}
+  - {annee: 2022, evenement: "Dahir n° 1-22-64 du 24 octobre : Conseil national de la communauté juive marocaine, comités régionaux, Commission des Juifs marocains de l'étranger et Fondation du judaïsme marocain ; abrogation du dahir de 1945."}
+fiabilite:
+  verifie: ["Texte du dahir n° 1-22-64 (art. 1, 2, 4, 7, 9, 14, 19, 24, 26, 27, 29, 30, 32, 39, 49, 50) au Bulletin officiel n° 7140 du 3 novembre 2022.", "Préambule et art. 3 et 41 de la Constitution de 2011 (Constitute Project).", "Rapport du Maroc au CERD, CERD/C/MAR/19-21, par. 101 (chambres hébraïques, sept juges-rabbins).", "Article de Medias24 (2014) sur les compétences des chambres hébraïques."]
+  non_confirme: ["Article 2 du Code de la famille de 2004 (renvoi au statut personnel hébraïque pour les Marocains de confession juive) : texte primaire non consulté.", "Siège des chambres hébraïques : Casablanca et Tanger selon Medias24 (2014), Casablanca et Marrakech selon le rapport de l'État (2020).", "Installation effective du Conseil national et tenue des élections prévues par le dahir de 2022 : aucune source trouvée.", "Population : environ 2 100 personnes selon la Jewish Virtual Library, sans année ni méthode indiquées ; chiffre non retenu.", "Aucun document d'un organe de l'ONU nommant la communauté n'a été trouvé ; les observations finales du CERD de 2023 (CERD/C/MAR/CO/19-21) ne la mentionnent pas."]
+sources:
+  - {titre: "Bulletin officiel n° 7140 du 3 novembre 2022 — Dahir n° 1-22-64 portant organisation de la communauté juive marocaine", url: "https://www.sgg.gov.ma/BO/FR/2873/2022/BO_7140_Fr.pdf"}
+  - {titre: "Constitution du Maroc (2011) — Constitute Project", url: "https://www.constituteproject.org/constitution/Morocco_2011?lang=en"}
+  - {titre: "Rapport du Maroc au CERD, CERD/C/MAR/19-21 (2021)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/MAR/19-21&l=fr&t=pdf"}
+  - {titre: "CERD — Observations finales sur le Maroc, CERD/C/MAR/CO/19-21 (2023)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/MAR/CO/19-21&l=fr&t=pdf"}
+  - {titre: "Medias24 — Chambres hébraïques : une exception marocaine (2014)", url: "https://www.medias24.com/SOCIETE/14075-Chambres-hebraiques-une-exception-marocaine.html"}
+  - {titre: "Jewish Virtual Library — Morocco", url: "https://www.jewishvirtuallibrary.org/morocco-virtual-jewish-history-tour"}

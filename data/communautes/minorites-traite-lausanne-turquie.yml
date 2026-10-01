@@ -1,0 +1,62 @@
+uid: "minorites-traite-lausanne-turquie"
+nom: "Minorités du traité de Lausanne en Turquie"
+endonyme: ""
+territoire: "Turquie, surtout Istanbul"
+etats: ["Turquie"]
+region: "asie"
+coord: [41.0, 28.9]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "aucun chiffre officiel commun aux trois communautés ; Minority Rights Group donne un peu plus de 60 000 Arméniens, de 2 000 à plus de 16 000 Rum orthodoxes selon les estimations, moins de 20 000 Juifs", source: "https://minorityrights.org/country/turkey/"}
+lieux: {valeur: null, unite: "fondations communautaires (cemaat vakıfları)", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "autonomie non territoriale", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le traité de paix de Lausanne du 24 juillet 1923 (section III, art. 38 à 44) garantit aux ressortissants turcs appartenant aux minorités non musulmanes le droit de fonder et gérer à leurs frais des écoles et des institutions religieuses, charitables et sociales, avec usage de leur langue (art. 40). La Turquie applique ce statut aux seules communautés arménienne, grecque orthodoxe (Rum) et juive. Leurs biens collectifs sont détenus par des fondations communautaires (cemaat vakıfları), régies par la loi n° 5737 sur les fondations de 2008, dont les administrateurs sont élus par les membres ; ce régime des fondations couvre aussi d'autres communautés non musulmanes, dont les Syriaques (art. provisoire 13, 2017). En 1926, lors de l'adoption du Code civil, les trois communautés ont renoncé aux droits de statut personnel prévus à l'art. 42.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "accord_sous_egide", detail: "Traité de Lausanne, art. 44 : les dispositions de la section III sont des obligations d'intérêt international placées sous la garantie de la Société des Nations.", annee: 1923, source: "https://www.svi-bz.org/uploads/tx_bh/141/treaty_of_peace_with_turkey_signed_at_lausanne_july_24_1923.pdf"}
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale (CERD), observations finales CERD/C/TUR/CO/3, par. 12 : le traité est appliqué aux seules communautés arménienne, grecque et juive.", annee: 2009, source: "https://documents.un.org/doc/undoc/gen/g09/412/83/pdf/g0941283.pdf"}
+  - {mecanisme: "organe_traite", detail: "Comité des droits de l'homme, observations finales CCPR/C/TUR/CO/1, par. 21 : prend note des modifications de 2011 de la loi n° 5737 permettant l'enregistrement des biens des communautés non musulmanes.", annee: 2012, source: "https://documents.un.org/doc/undoc/gen/g12/475/98/pdf/g1247598.pdf"}
+  - {mecanisme: "organe_traite", detail: "CERD, observations finales CERD/C/TUR/CO/4-6, par. 13 et 14 : relève l'interprétation restrictive du traité de Lausanne par la Turquie.", annee: 2016, source: "https://documents.un.org/doc/undoc/gen/g16/003/50/pdf/g1600350.pdf"}
+base_nationale:
+  - {instrument: "Traité de paix de Lausanne (24 juillet 1923), section III, art. 37 à 45", nature: "traite", annee: 1923, source: "https://www.svi-bz.org/uploads/tx_bh/141/treaty_of_peace_with_turkey_signed_at_lausanne_july_24_1923.pdf"}
+  - {instrument: "Constitution de la République de Turquie (1982), art. 42 et 90", nature: "constitution", annee: 1982, source: "https://www.constituteproject.org/constitution/Turkey_2017"}
+  - {instrument: "Loi n° 5737 sur les fondations (Vakıflar Kanunu), Journal officiel du 27 février 2008, n° 26800", nature: "loi", annee: 2008, source: "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5737.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les administrateurs des fondations communautaires (cemaat vakıfları) sont élus par leurs membres parmi eux, loi n° 5737 de 2008, art. 6 ; les règles d'élection sont fixées par règlement et les fondations sont placées sous le contrôle de la Direction générale des fondations.", source: "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5737.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les fondations communautaires peuvent acquérir des biens et en disposer, loi n° 5737, art. 12 ; les art. provisoires 7 (2008) et 11 (décret-loi n° 651 de 2011) organisent la réinscription à leur nom des immeubles déclarés en 1936 et passés à l'État ; la Turquie indique 307 biens restitués et 21 indemnisations (rapport CERD/C/TUR/4-6, 2014).", source: "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5737.pdf"}
+  ressources: {valeur: "non_applicable", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Droit d'utiliser leur langue dans leurs écoles et institutions, traité de Lausanne, art. 40 ; la Constitution interdit d'enseigner une autre langue maternelle que le turc « sous réserve des traités internationaux », art. 42 ; aucune langue co-officielle.", source: "https://www.constituteproject.org/constitution/Turkey_2017"}
+  education: {valeur: "reconnu", note: "Droit de fonder, gérer et contrôler à leurs frais des écoles avec usage de leur langue, traité de Lausanne, art. 40 et 41 ; selon le rapport de la Turquie au CERD (2014, par. 127), les écoles des minorités relèvent de la loi sur les établissements d'enseignement privés et enseignent toutes les matières dans la langue de la communauté, sauf le turc et la culture turque.", source: "https://documents.un.org/doc/undoc/gen/g14/426/43/pdf/g1442643.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "conteste", note: "Le traité de Lausanne, art. 42, prévoit que le droit de la famille et le statut personnel suivent les usages des minorités ; en 1926, lors de l'adoption du Code civil, les trois communautés ont renoncé à ces droits sous pression (Minority Rights Group).", source: "https://minorityrights.org/country/turkey/"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les Arméniens gèrent des écoles primaires et secondaires dans leur langue (Minority Rights Group) ; l'État refuse la personnalité juridique aux institutions religieuses rum orthodoxes, le gouvernorat d'Istanbul n'a pas autorisé d'élection des conseils de leurs fondations après 1991 et le séminaire de Halki (Heybeliada) est fermé (Minority Rights Group) ; le CERD a relevé en 2016 l'interprétation restrictive du traité (CERD/C/TUR/CO/4-6, par. 13).", source: "https://minorityrights.org/communities/rum-orthodox-christians/"}
+chronologie:
+  - {annee: 1923, evenement: "Traité de Lausanne : section III sur la protection des minorités non musulmanes, sous garantie de la Société des Nations."}
+  - {annee: 1926, evenement: "Adoption du Code civil ; les communautés arménienne, grecque et juive renoncent aux droits de l'art. 42."}
+  - {annee: 1936, evenement: "Déclaration obligatoire des biens des fondations communautaires (loi n° 2762), base des restitutions ultérieures."}
+  - {annee: 2008, evenement: "Loi n° 5737 sur les fondations : élection des administrateurs des fondations communautaires et procédure de réinscription des biens."}
+  - {annee: 2011, evenement: "Décret-loi n° 651 : élargissement des restitutions de biens aux fondations communautaires."}
+  - {annee: 2013, evenement: "Autorisation de rouvrir une école grecque à Gökçeada (Imbros), en activité depuis l'année scolaire 2013-2014."}
+  - {annee: 2016, evenement: "Observations finales du CERD sur l'interprétation restrictive du traité de Lausanne."}
+fiabilite:
+  verifie: ["Texte des art. 14 et 38 à 45 du traité de Lausanne (version anglaise).", "Loi n° 5737 : date, définition de la fondation communautaire (art. 3), élection des administrateurs (art. 6), acquisition de biens (art. 12), articles provisoires 7 et 11 (texte consolidé du Journal officiel).", "Constitution, art. 42 et 90 (Constitute Project).", "Observations finales CERD/C/TUR/CO/3 (2009), CCPR/C/TUR/CO/1 (2012), CERD/C/TUR/CO/4-6 (2016).", "Rapport de la Turquie CERD/C/TUR/4-6 (2014) : 307 biens restitués, 21 indemnisations, école de Gökçeada rouverte en 2013-2014.", "Loi n° 5737, art. provisoire 13 (2017) : biens réinscrits au nom de fondations de la communauté syriaque.", "Minority Rights Group : estimations de population, renonciation de 1926 « sous pression », écoles arméniennes, refus d'élections des conseils des fondations rum après 1991."]
+  non_confirme: ["L'art. 14 du traité (organisation administrative spéciale d'Imbros et Ténédos pour la population non musulmane) n'a pas été mis en œuvre selon plusieurs auteurs ; aucune source primaire consultée ne l'établit.", "Application de l'art. 41 (part équitable des fonds publics pour l'éducation et le culte) : aucune source consultée.", "Nombre de fondations communautaires, d'écoles et d'élèves : non trouvé dans une source ouverte ; chiffres de population fondés sur des estimations de Minority Rights Group.", "Situation du séminaire de Halki après la consultation de la page de Minority Rights Group : non vérifiée.", "Restrictions dans les écoles des minorités (directeur adjoint nommé par l'État, inscription réservée aux enfants de la communauté) et gel des élections des fondations entre 2013 et 2022 : non vérifiés sur un texte."]
+sources:
+  - {titre: "Treaty of Peace with Turkey signed at Lausanne, July 24, 1923 — Gesellschaft für bedrohte Völker Südtirol", url: "https://www.svi-bz.org/uploads/tx_bh/141/treaty_of_peace_with_turkey_signed_at_lausanne_july_24_1923.pdf"}
+  - {titre: "Vakıflar Kanunu n° 5737, texte consolidé — Mevzuat Bilgi Sistemi", url: "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.5737.pdf"}
+  - {titre: "Constitution de la Turquie — Constitute Project", url: "https://www.constituteproject.org/constitution/Turkey_2017"}
+  - {titre: "CERD/C/TUR/CO/4-6, observations finales sur la Turquie (2016) — ONU", url: "https://documents.un.org/doc/undoc/gen/g16/003/50/pdf/g1600350.pdf"}
+  - {titre: "CERD/C/TUR/CO/3, observations finales sur la Turquie (2009) — ONU", url: "https://documents.un.org/doc/undoc/gen/g09/412/83/pdf/g0941283.pdf"}
+  - {titre: "CCPR/C/TUR/CO/1, observations finales sur la Turquie (2012) — ONU", url: "https://documents.un.org/doc/undoc/gen/g12/475/98/pdf/g1247598.pdf"}
+  - {titre: "CERD/C/TUR/4-6, rapport périodique de la Turquie (2014) — ONU", url: "https://documents.un.org/doc/undoc/gen/g14/426/43/pdf/g1442643.pdf"}
+  - {titre: "Türkiye — Minority Rights Group", url: "https://minorityrights.org/country/turkey/"}
+  - {titre: "Armenians in Türkiye — Minority Rights Group", url: "https://minorityrights.org/communities/armenians-3/"}
+  - {titre: "Rum Orthodox Christians in Türkiye — Minority Rights Group", url: "https://minorityrights.org/communities/rum-orthodox-christians/"}

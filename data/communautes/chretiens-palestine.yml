@@ -1,0 +1,68 @@
+uid: "chretiens-palestine"
+nom: "Chrétiens de Palestine"
+endonyme: ""
+territoire: "Cisjordanie et bande de Gaza ; sièges réservés dans 11 collectivités locales et au Conseil législatif palestinien"
+etats: ["Palestine"]
+region: "asie"
+coord: [31.7, 35.2]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 46850, annee: 2017, perimetre: "Chrétiens comptés dans le territoire palestinien par l'enquête de 2017 du Bureau central palestinien de statistique, sur 4 665 426 habitants, selon le rapport de l'État au Comité des droits de l'homme (par. 326)", source: "https://docs.un.org/en/CCPR/C/PSE/1"}
+lieux: {valeur: 11, unite: "collectivités locales (8 municipalités, 3 conseils de village) dotées de sièges réservés aux chrétiens par le décret-loi du 11 janvier 2026", annee: 2026, source: "https://www.elections.ps/Portals/0/christian%20seats%20LE2026%20EN.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les chrétiens de Palestine appartiennent à 13 Églises reconnues par un décret présidentiel de 2008, dont le patriarcat grec orthodoxe, le patriarcat latin et la Custodie de Terre sainte.
+  La Loi fondamentale modifiée de 2003 (texte à valeur constitutionnelle) confie le statut personnel aux tribunaux religieux (art. 101) ; chaque Église applique ses propres règles de statut personnel dans son tribunal ecclésiastique.
+  Le décret-loi n° 6 du 10 août 2026 (décret présidentiel ayant force de loi) réserve au moins 7 des 132 sièges du Conseil législatif à des chrétiens pour l'élection du 28 novembre 2026 ; un décret-loi du 11 janvier 2026 répartit les sièges de 11 conseils locaux entre chrétiens et musulmans et réserve la présidence de 9 d'entre eux à un chrétien.
+  Le décret-loi n° 9 de 2014 exonère les Églises reconnues de taxes et de redevances.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi fondamentale modifiée de 2003, révisée en 2005, art. 4 (respect des autres religions révélées) et art. 101 (compétence des tribunaux religieux en matière de statut personnel)", nature: "constitution", annee: 2003, source: "https://www.constituteproject.org/constitution/Palestine_2005"}
+  - {instrument: "Décret présidentiel de 2008 portant reconnaissance de 13 Églises", nature: "loi", annee: 2008, source: "https://docs.un.org/en/CCPR/C/PSE/1"}
+  - {instrument: "Décret-loi n° 9 de 2014, art. 2 (exonération fiscale des communautés chrétiennes reconnues)", nature: "loi", annee: 2014, source: "https://docs.un.org/en/CCPR/C/PSE/1"}
+  - {instrument: "Décret-loi n° 23 de 2025 sur l'élection des conseils des collectivités locales, modifié par le décret-loi n° 1 de 2026, art. 49 et 52 (répartition des sièges entre chrétiens et musulmans)", nature: "loi", annee: 2025, source: "https://www.elections.ps/Portals/0/Local%20Elections%20Law%202025%20as%20amended%202026%20EN%20.pdf"}
+  - {instrument: "Décret-loi du 11 janvier 2026 relatif au nombre de membres des conseils des collectivités locales comptant une population chrétienne (art. 1 : répartition des sièges ; art. 2 : président chrétien)", nature: "loi", annee: 2026, source: "https://www.elections.ps/Portals/0/christian%20seats%20LE2026%20EN.pdf"}
+  - {instrument: "Décret-loi n° 6 du 10 août 2026 sur l'attribution de sièges du Conseil législatif aux citoyens chrétiens (art. 1 : au moins 7 sièges)", nature: "loi", annee: 2026, source: "https://www.elections.ps/Portals/0/Decree%20-%20christian%20seats.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Décret présidentiel de 2008 : reconnaissance officielle de 13 Églises (patriarcats, exarchats, Custodie) ; selon le rapport de l'État au Comité des droits de l'homme (2021, par. 319 et 321), les communautés religieuses règlent elles-mêmes leurs affaires spirituelles et leur statut personnel ; un décret présidentiel de 2012 crée un comité supérieur des affaires des Églises (par. 323).", source: "https://docs.un.org/en/CCPR/C/PSE/1"}
+  pouvoir_normatif: {valeur: "partiel", note: "Loi fondamentale, art. 101 ; selon le rapport de l'État au Comité des droits de l'homme (2021, par. 383), chaque communauté chrétienne applique ses propres règles de statut personnel dans son tribunal ecclésiastique ; ce pouvoir se limite au statut personnel.", source: "https://docs.un.org/en/CCPR/C/PSE/1"}
+  justice_propre: {valeur: "reconnu", note: "Loi fondamentale modifiée, art. 101 : les matières de statut personnel relèvent des tribunaux de la charia et des tribunaux religieux, « conformément à la loi » ; des tribunaux ecclésiastiques jugent le statut personnel des chrétiens (rapport CCPR/C/PSE/1, par. 275).", source: "https://www.constituteproject.org/constitution/Palestine_2005"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Décret-loi n° 9 de 2014, art. 2 : les transactions, réclamations et biens des communautés chrétiennes reconnues sont exonérés de taxes et de redevances de toute nature (rapport CCPR/C/PSE/1, par. 322) ; pas de pouvoir fiscal propre.", source: "https://docs.un.org/en/CCPR/C/PSE/1"}
+  representation: {valeur: "reconnu", note: "Décret-loi du 11 janvier 2026, art. 1 : sièges réservés aux chrétiens dans 11 conseils locaux (Ramallah 8 sur 15, Bethléem 8 sur 15, Beit Sahour 10 sur 13, Beit Jala 10 sur 13, Birzeit 7 sur 13, Zababdeh 7 sur 11, Aboud 5 sur 9, Jifna 7 sur 9, Ein Arik 5 sur 9, Birqin 1 sur 11, Jéricho 1 sur 15) ; art. 2 : président chrétien sauf à Jéricho et Birqin ; décret-loi n° 23 de 2025, art. 52 : mode d'attribution de ces sièges. Décret-loi n° 6 de 2026, art. 1 : au moins 7 sièges du Conseil législatif.", source: "https://www.elections.ps/Portals/0/christian%20seats%20LE2026%20EN.pdf"}
+  statut_personnel: {valeur: "reconnu", note: "Loi fondamentale, art. 101 ; le statut personnel des chrétiens (mariage, divorce) relève des tribunaux ecclésiastiques de leur communauté, qui appliquent ses propres règles (rapport CCPR/C/PSE/1, par. 275 et 383).", source: "https://docs.un.org/en/CCPR/C/PSE/1"}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les élections législatives convoquées en 2021 ont été reportées par décret du 30 avril 2021 ; aucun Conseil législatif n'a été élu depuis 2006 et l'élection convoquée pour le 28 novembre 2026 n'a pas encore eu lieu. Les sièges réservés dans les conseils locaux ont été appliqués aux élections de 2021-2022 (Cisjordanie seulement) et du 25 avril 2026 (Cisjordanie et Deir al-Balah). Le Comité pour l'élimination de la discrimination raciale relève en 2019 le manque d'information sur la représentation des minorités dans les organes élus (CERD/C/PSE/CO/1-2, par. 23).", source: "https://docs.un.org/en/CERD/C/PSE/CO/1-2"}
+chronologie:
+  - {annee: 2003, evenement: "Loi fondamentale modifiée : les tribunaux religieux sont compétents en matière de statut personnel (art. 101)."}
+  - {annee: 2008, evenement: "Décret présidentiel de reconnaissance de 13 Églises."}
+  - {annee: 2012, evenement: "Décret présidentiel créant un comité supérieur des affaires des Églises."}
+  - {annee: 2014, evenement: "Décret-loi n° 9 : exonération fiscale des communautés chrétiennes reconnues."}
+  - {annee: 2015, evenement: "Accord global entre l'État de Palestine et le Saint-Siège sur les droits des membres de l'Église catholique."}
+  - {annee: 2021, evenement: "Décret du 20 février : au moins 7 sièges du Conseil législatif pour les chrétiens ; report des élections générales par décret du 30 avril ; décret du 27 septembre sur les sièges réservés dans 10 conseils locaux."}
+  - {annee: 2022, evenement: "Seconde phase des élections locales en Cisjordanie (26 mars)."}
+  - {annee: 2025, evenement: "Décret-loi n° 23 sur l'élection des conseils locaux : règles d'attribution des sièges réservés (art. 52)."}
+  - {annee: 2026, evenement: "Décret-loi du 11 janvier : sièges réservés dans 11 conseils locaux ; élections locales du 25 avril ; décret-loi n° 6 du 10 août : au moins 7 sièges du Conseil législatif ; élection législative convoquée pour le 28 novembre."}
+fiabilite:
+  verifie: ["Décret-loi du 11 janvier 2026 sur les 11 collectivités locales (art. 1 à 3), décret-loi n° 6 du 10 août 2026, décret du 20 février 2021, décret de report du 30 avril 2021, décret-loi n° 23 de 2025 modifié (art. 49 et 52, traduction non officielle) : site de la Commission électorale centrale, elections.ps.", "Convocation de l'élection législative du 28 novembre 2026 et 132 sièges : page de la Commission électorale centrale.", "Loi fondamentale, art. 4 et 101 (Constitute Project).", "Décret de 2008 reconnaissant 13 Églises, décret-loi n° 9 de 2014, décret de 2012, tribunaux ecclésiastiques, enquête de 2017 (46 850 chrétiens) : rapport de l'État de Palestine au Comité des droits de l'homme, CCPR/C/PSE/1 (2021), par. 275, 319-326, 383, 434.", "Observations finales du CERD, CERD/C/PSE/CO/1-2 (2019), par. 23."]
+  non_confirme: ["Numéro du décret-loi du 11 janvier 2026 et date de publication au Journal officiel non établis (numéro laissé en blanc sur la version publiée).", "Aucun document d'un organe de l'ONU ne nomme les chrétiens de Palestine en tant que tels : les observations du CERD visent les Syriaques et les Samaritains, celles du Comité des droits de l'homme (CCPR/C/PSE/CO/1, 2023) ne les nomment pas ; reconnaissance retenue au niveau national.", "Résultats des élections locales du 25 avril 2026 dans les 11 collectivités non consultés.", "Écoles des Églises : statut juridique non vérifié ; droit à l'éducation laissé « non établi ».", "Population : chiffre de 2017 lu dans le rapport de l'État au Comité des droits de l'homme, publication du Bureau central palestinien de statistique non consultée ; couverture de Jérusalem-Est non vérifiée."]
+sources:
+  - {titre: "Commission électorale centrale de Palestine — Décret-loi de 2026 sur le nombre de membres des conseils des collectivités locales comptant une population chrétienne", url: "https://www.elections.ps/Portals/0/christian%20seats%20LE2026%20EN.pdf"}
+  - {titre: "Commission électorale centrale de Palestine — Décret-loi n° 6 de 2026 sur l'attribution de sièges du Conseil législatif aux citoyens chrétiens", url: "https://www.elections.ps/Portals/0/Decree%20-%20christian%20seats.pdf"}
+  - {titre: "Commission électorale centrale de Palestine — Décret-loi n° 23 de 2025 sur l'élection des conseils des collectivités locales, modifié en 2026 (traduction non officielle)", url: "https://www.elections.ps/Portals/0/Local%20Elections%20Law%202025%20as%20amended%202026%20EN%20.pdf"}
+  - {titre: "Commission électorale centrale de Palestine — Élections législatives de 2026", url: "https://www.elections.ps/tabid/1313/language/en-US/Default.aspx"}
+  - {titre: "Commission électorale centrale de Palestine — Élections locales de 2026", url: "https://www.elections.ps/tabid/1301/language/en-US/Default.aspx"}
+  - {titre: "Commission électorale centrale de Palestine — Décret de 2021 sur l'attribution de sièges du Conseil législatif aux citoyens chrétiens", url: "https://www.elections.ps/Portals/0/Decree_Allocation_Legislative_Council_Seats_Christian.pdf"}
+  - {titre: "Commission électorale centrale de Palestine — Décret de 2021 portant report des élections générales", url: "https://www.elections.ps/tabid/1257/language/en-US/Default.aspx"}
+  - {titre: "Commission électorale centrale de Palestine — Décret de 2021 sur le nombre de membres des conseils des collectivités locales comptant des citoyens chrétiens", url: "https://www.elections.ps/tabid/1255/language/en-US/Default.aspx"}
+  - {titre: "Loi fondamentale palestinienne modifiée (2003, révisée en 2005) — Constitute Project", url: "https://www.constituteproject.org/constitution/Palestine_2005"}
+  - {titre: "Nations unies — Rapport initial de l'État de Palestine au Comité des droits de l'homme, CCPR/C/PSE/1 (2021)", url: "https://docs.un.org/en/CCPR/C/PSE/1"}
+  - {titre: "Nations unies — Observations finales du CERD sur l'État de Palestine, CERD/C/PSE/CO/1-2 (2019)", url: "https://docs.un.org/en/CERD/C/PSE/CO/1-2"}
+  - {titre: "Wikipedia — 2021–22 Palestinian local elections", url: "https://en.wikipedia.org/wiki/2021–22_Palestinian_local_elections"}

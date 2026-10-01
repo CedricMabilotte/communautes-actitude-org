@@ -1,0 +1,64 @@
+uid: "rodrigues-maurice"
+nom: "Rodrigues"
+endonyme: ""
+territoire: "Île Rodrigues, dans l'océan Indien, à environ 560 km à l'est de l'île Maurice ; chef-lieu Port-Mathurin"
+etats: ["Maurice"]
+region: "afrique"
+coord: [-19.7, 63.4]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 44797, annee: 2025, perimetre: "population résidente estimée de l'île au 31 décembre 2025 (Statistics Mauritius, Digest of Statistics on Rodrigues, tableau 1)", source: "https://statsmauritius.govmu.org/Documents/Statistics/Digests/Rodrigues/Digest_Rod_Yr25_040926.xlsx"}
+lieux: {valeur: 6, unite: "régions locales (circonscriptions de l'Assemblée régionale, deux élus chacune)", annee: 2017, source: "https://mauritiuslii.org/akn/mu/act/2001/39/eng@2017-06-30"}
+surface_km2: {valeur: 110, annee: 2025, perimetre: "superficie de l'île retenue par Statistics Mauritius pour le calcul de la densité", source: "https://statsmauritius.govmu.org/Documents/Statistics/Digests/Rodrigues/Digest_Rod_Yr25_040926.xlsx"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Rodrigues est une île de la République de Maurice, dotée d'une autonomie régionale depuis 2001-2002.
+  Le chapitre VIA de la Constitution, ajouté par la loi n° 32 de 2001, crée l'Assemblée régionale de Rodrigues, son Conseil exécutif et des fonds propres.
+  La loi n° 39 de 2001 (Rodrigues Regional Assembly Act) fixe une assemblée d'au moins 17 membres élus pour cinq ans, un Conseil exécutif dirigé par un Chief Commissioner (commissaire en chef), et 47 domaines de compétence.
+  L'Assemblée adopte des règlements applicables à l'île et adopte des projets de loi que le Parlement national peut voter, sur décision du Cabinet ; elle a tenu sa première séance le 12 octobre 2002.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité pour l'élimination de la discrimination raciale (CERD) se dit préoccupé par la discrimination de fait subie par les Créoles, « y compris ceux qui vivent sur les îles Agaléga et Rodrigues » (CERD/C/MUS/CO/20-23, § 26-27) ; le texte ne vise pas le statut d'autonomie.", annee: 2018, source: "https://documents.un.org/api/symbol/access?s=CERD%2FC%2FMUS%2FCO%2F20-23&l=en&t=pdf"}
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits économiques, sociaux et culturels relève les mesures prises « en particulier sur l'île Rodrigues » et les désavantages persistants de la population créole, « y compris les personnes vivant sur l'île Rodrigues » (E/C.12/MUS/CO/5, § 21) ; il note une ségrégation résidentielle de fait, « en particulier sur l'île Rodrigues » (§ 47) ; le texte ne vise pas le statut d'autonomie.", annee: 2019, source: "https://documents.un.org/api/symbol/access?s=E%2FC.12%2FMUS%2FCO%2F5&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution de Maurice (1968), chapitre VIA, art. 75A à 75E, ajouté par la loi n° 32 de 2001 (Constitution (Amendment) Act)", nature: "constitution", annee: 2001, source: "https://assembly-rra.govmu.org/Documents/Legislations/constitution_1968_revised_updated2025.pdf"}
+  - {instrument: "Rodrigues Regional Assembly Act 2001 (loi n° 39 de 2001), version consolidée au 30 juin 2017", nature: "statut_autonomie", annee: 2001, source: "https://mauritiuslii.org/akn/mu/act/2001/39/eng@2017-06-30"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Assemblée régionale d'au moins 17 membres élus pour cinq ans, dont 12 dans six régions locales au scrutin majoritaire et 5 à la proportionnelle sur l'ensemble de l'île (Constitution, art. 75A ; loi n° 39 de 2001, s. 3 et 4) ; Conseil exécutif formé du Chief Commissioner, de son adjoint et de 5 commissaires au plus, responsable devant l'Assemblée (art. 75C ; s. 34 et 35) ; le président de la République peut dissoudre l'Assemblée à tout moment (s. 3(6)).", source: "https://mauritiuslii.org/akn/mu/act/2001/39/eng@2017-06-30"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'Assemblée adopte des règlements (Rodrigues Regional Assembly Regulations) applicables à Rodrigues seulement, avec des peines plafonnées à deux ans d'emprisonnement et 10 000 roupies, soumis à une résolution d'annulation de l'Assemblée nationale (Constitution, art. 75B ; loi n° 39 de 2001, s. 31) ; ses projets de loi ne deviennent lois qu'après adoption par le Parlement, sur décision du Cabinet (s. 30).", source: "https://mauritiuslii.org/akn/mu/act/2001/39/eng@2017-06-30"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les terres et biens de l'État situés à Rodrigues ont été transférés à l'Assemblée régionale « au nom de la République de Maurice », sous réserve du State Lands Act (loi sur les terres domaniales) (loi n° 39 de 2001, s. 54) ; les terres domaniales et l'aménagement du territoire figurent dans la 4e annexe.", source: "https://mauritiuslii.org/akn/mu/act/2001/39/eng@2017-06-30"}
+  ressources: {valeur: "partiel", note: "La 4e annexe de la loi n° 39 de 2001 confie à l'Assemblée la politique de la pêche, des forêts, des parcs marins et des ressources en eau à Rodrigues (s. 26), sans transfert de propriété des ressources.", source: "https://mauritiuslii.org/akn/mu/act/2001/39/eng@2017-06-30"}
+  consentement: {valeur: "partiel", note: "Une loi d'application du chapitre VIA ne peut être modifiée sans l'accord de l'Assemblée régionale, sauf vote final des deux tiers de tous les membres de l'Assemblée nationale (Constitution, art. 75E).", source: "https://www.constituteproject.org/constitution/Mauritius_2016"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "L'administration de l'éducation et la formation professionnelle figurent parmi les domaines de l'Assemblée régionale (loi n° 39 de 2001, s. 26 et 4e annexe).", source: "https://mauritiuslii.org/akn/mu/act/2001/39/eng@2017-06-30"}
+  fiscalite: {valeur: "partiel", note: "Fonds consolidé de Rodrigues et fonds d'équipement (Rodrigues Capital Fund) (Constitution, art. 75D) ; l'Assemblée approuve ses prévisions budgétaires, mais le Cabinet fixe l'enveloppe allouée (loi n° 39 de 2001, s. 42, 44 et 46) ; elle peut lever une taxe foncière générale (general rate) et des redevances (s. 26(3), s. 31(4) et 5e annexe), mais ses projets de loi ne peuvent créer aucun impôt (s. 30(4)).", source: "https://mauritiuslii.org/akn/mu/act/2001/39/eng@2017-06-30"}
+  representation: {valeur: "reconnu", note: "Rodrigues forme une circonscription de l'Assemblée nationale qui élit 2 députés (Constitution, art. 39(1)(b) et 1re annexe, § 1(1)).", source: "https://www.constituteproject.org/constitution/Mauritius_2016"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Élections régionales tenues en 2002, 2006, 2012, 2017 et le 27 février 2022 (Bureau du commissaire électoral) ; l'Assemblée siège en 2026 (ordre du jour du 4 août 2026 : règlement sur les marchés de 2026, pris en vertu de la s. 31). Pour D. Michel (Université de Maurice, Revue juridique de l'océan Indien, 2025), la légitimité de l'Assemblée régionale « n'a jamais été mise en cause » ; pour R. P. Gunputh (même revue), Maurice « maintient le contrôle à la fois administratif et politique » et l'autonomie reste partielle.", source: "https://droit-oi.univ-reunion.fr/fileadmin/Fichiers/droit-oi/Revues/35/5._Michel.pdf"}
+chronologie:
+  - {annee: 1968, evenement: "Indépendance de Maurice ; Rodrigues fait partie du nouvel État."}
+  - {annee: 2001, evenement: "Loi n° 32 de 2001 : ajout du chapitre VIA à la Constitution ; loi n° 39 de 2001 sur l'Assemblée régionale de Rodrigues."}
+  - {annee: 2002, evenement: "Premières élections régionales le 29 septembre ; première séance de l'Assemblée le 12 octobre, date retenue comme « Rodrigues Day »."}
+  - {annee: 2016, evenement: "Loi n° 29 de 2016 : modification des dispositions électorales de la loi de 2001 (s. 3, 4, 7 à 9 et 11)."}
+  - {annee: 2022, evenement: "Élections régionales du 27 février."}
+fiabilite:
+  verifie: ["Chapitre VIA de la Constitution (art. 75A à 75E) et mention « Added by Act No. 32 of 2001 », sur la version consolidée publiée par l'Assemblée régionale et sur Constitute Project.", "Loi n° 39 de 2001, s. 3, 4, 26, 30, 31, 34, 35, 42, 44, 46, 54, 4e et 5e annexes, sur MauritiusLII (version du 30 juin 2017) ; 47 domaines dans la 4e annexe de la version consolidée de 2025.", "Population (44 797 au 31 décembre 2025) et superficie (110 km²), Statistics Mauritius.", "Dates des élections régionales, page du Bureau du commissaire électoral.", "Paragraphes des observations finales du CERD (2018) et du CDESC (2019) nommant Rodrigues.", "Ordre du jour de l'Assemblée régionale du 4 août 2026 (Market Regulations 2026).", "Deux sièges de Rodrigues à l'Assemblée nationale pourvus en novembre 2024 (Freedom House, 2025)."]
+  non_confirme: ["Superficie : 108 km² selon le site de l'Assemblée régionale, 110 km² selon Statistics Mauritius.", "Nombre de villages ou localités : non trouvé dans une source officielle.", "Résultats détaillés et répartition des sièges de 2022 : non lus (tableaux non extraits).", "Portée des amendements de la loi n° 19 de 2025 sur les dispositions financières : non analysée.", "Sources indépendantes limitées à deux articles universitaires de la Revue juridique de l'océan Indien (2025), aux conclusions divergentes ; l'article de D. Michel date à tort des élections régionales en février 2024."]
+sources:
+  - {titre: "Rodrigues Regional Assembly Act (Act 39 of 2001), version du 30 juin 2017 — MauritiusLII", url: "https://mauritiuslii.org/akn/mu/act/2001/39/eng@2017-06-30"}
+  - {titre: "Rodrigues Regional Assembly Act 2001, version consolidée 2025 — Assemblée régionale de Rodrigues", url: "https://assembly-rra.govmu.org/Documents/Legislations/rraAct2001_updated2025.pdf"}
+  - {titre: "Constitution de Maurice, version révisée 2025 — Assemblée régionale de Rodrigues", url: "https://assembly-rra.govmu.org/Documents/Legislations/constitution_1968_revised_updated2025.pdf"}
+  - {titre: "Constitution de Maurice — Constitute Project", url: "https://www.constituteproject.org/constitution/Mauritius_2016"}
+  - {titre: "Statistics Mauritius, Digest of Statistics on Rodrigues 2025", url: "https://statsmauritius.govmu.org/Documents/Statistics/Digests/Rodrigues/Digest_Rod_Yr25_040926.xlsx"}
+  - {titre: "Bureau du commissaire électoral de Maurice, résultats des élections de l'Assemblée régionale de Rodrigues", url: "https://electoral.govmu.org/oec/?page_id=1646"}
+  - {titre: "Assemblée régionale de Rodrigues, ordre du jour du 4 août 2026", url: "https://assembly-rra.govmu.org/Documents/OrderPaper/2026/OP04AUG2026.pdf"}
+  - {titre: "D. Michel, « La décentralisation mauricienne et la sortie de Rodrigues de l'isolement avec l'autonomie », RJOI n° 35, 2025", url: "https://droit-oi.univ-reunion.fr/fileadmin/Fichiers/droit-oi/Revues/35/5._Michel.pdf"}
+  - {titre: "R. P. Gunputh, « Une réflexion sur la survie des îles et des peuples sous autonomie partielle. Le modèle rodriguais », RJOI n° 35, 2025", url: "https://droit-oi.univ-reunion.fr/fileadmin/Fichiers/droit-oi/Revues/35/7._Gunputh__article_Rodrigues_.pdf"}
+  - {titre: "Freedom House, Freedom in the World 2025 — Mauritius", url: "https://freedomhouse.org/country/mauritius/freedom-world/2025"}
+  - {titre: "Assemblée régionale de Rodrigues, composition de l'Assemblée", url: "https://assembly-rra.govmu.org/Pages/About-Us/The-Composition-of-the-House.aspx"}
+  - {titre: "Assemblée régionale de Rodrigues, histoire de Rodrigues", url: "https://assembly-rra.govmu.org/Pages/About-Us/Rodriguan-History.aspx"}
+  - {titre: "CERD, observations finales sur Maurice, CERD/C/MUS/CO/20-23 (2018)", url: "https://documents.un.org/api/symbol/access?s=CERD%2FC%2FMUS%2FCO%2F20-23&l=en&t=pdf"}
+  - {titre: "CDESC, observations finales sur Maurice, E/C.12/MUS/CO/5 (2019)", url: "https://documents.un.org/api/symbol/access?s=E%2FC.12%2FMUS%2FCO%2F5&l=en&t=pdf"}

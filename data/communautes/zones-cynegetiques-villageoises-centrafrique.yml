@@ -1,0 +1,64 @@
+uid: "zones-cynegetiques-villageoises-centrafrique"
+nom: "Zones cynégétiques villageoises de Centrafrique"
+endonyme: ""
+territoire: "Terroirs villageois en périphérie des aires protégées et des secteurs de chasse, surtout dans le Nord et le Nord-Est (préfectures du Bamingui-Bangoran et de la Vakaga), aussi dans le Sud-Ouest"
+etats: ["République centrafricaine"]
+region: "afrique"
+coord: [8.8, 21.5]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 12, unite: "zones cynégétiques villageoises recensées, actives ou non (Aires protégées d'Afrique centrale. État 2020, OFAC, tableau 3, p. 27)", annee: 2021, source: "https://hal.science/hal-05177359/document"}
+surface_km2: {valeur: 34287, annee: 2021, perimetre: "superficie cumulée des 12 ZCV recensées (Aires protégées d'Afrique centrale. État 2020, OFAC, tableau 3, p. 27)", source: "https://hal.science/hal-05177359/document"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Une zone cynégétique villageoise (ZCV, zone de chasse villageoise) est une portion de zone d'intérêt cynégétique (zone réservée à la chasse) ou de zone banale, définie par arrêté du ministre chargé de la faune à la demande des populations riveraines, pour servir de support aux activités économiques liées à la faune. Les ZCV se situent surtout dans le Nord et le Nord-Est, en périphérie des parcs du Bamingui-Bangoran et du Manovo-Gounda Saint-Floris : la zone est louée à des sociétés de chasse sportive, avec un quota d'abattage et une part annuelle des taxes versée aux populations riveraines. La loi n° 20.026 du 30 novembre 2020 portant code de gestion de la faune et des aires protégées en fait une catégorie d'aire faunique communautaire, gérée par des associations des populations ayants droit ; le terrain reste dans le domaine forestier de l'État. Dix ZCV étaient en activité en 2011 selon la direction de la faune ; un état régional de 2021 en recense douze, pour 34 287 km², la plupart sans activité.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Troisième rapport national de la République centrafricaine à la Convention sur la diversité biologique (décembre 2006) : cite « l'instauration des zones cynégétiques villageoises avec la définition préalable d'un quota d'abattage et d'un pourcentage annuel de taxe à verser aux populations riveraines » et le partage des avantages de la chasse sportive avec les communautés locales des ZCV. Le cinquième rapport (2017) dénombre dix ZCV en activité et décrit le réseau des associations locales de gestion des ZCV.", annee: 2006, source: "https://www.cbd.int/doc/world/cf/cf-nr-03-fr.pdf"}
+base_nationale:
+  - {instrument: "Loi n° 20.026 du 30 novembre 2020 portant code de gestion de la faune et des aires protégées en République centrafricaine, art. 13, 16, 46 à 54, 140 et 294", nature: "loi", annee: 2020, source: "https://faolex.fao.org/docs/pdf/caf207260.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les aires fauniques communautaires, dont les ZCV, sont gérées par des associations émanant des populations riveraines ayants droit (loi n° 20.026 de 2020, art. 48 et 50), sur la base d'un protocole d'entente avec l'opérateur privé locataire ; la création et le plan d'aménagement relèvent d'arrêtés du ministre chargé de la faune (art. 49 et 52).", source: "https://faolex.fao.org/docs/pdf/caf207260.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Dans la ZCV sont admises la chasse et la pêche touristiques, la chasse coutumière, la chasse commerciale sous permis, la pêche artisanale et la cueillette (loi n° 20.026 de 2020, art. 51) ; les chasseurs résidant dans les villages dont relève la zone et titulaires d'un permis peuvent y chasser et disposer des produits (art. 53).", source: "https://faolex.fao.org/docs/pdf/caf207260.pdf"}
+  consentement: {valeur: "partiel", note: "La ZCV est définie par arrêté ministériel « à la demande des populations riveraines » (loi n° 20.026 de 2020, art. 49) ; l'extinction de droits coutumiers d'usage pour constituer ou agrandir une zone d'intérêt cynégétique suppose une consultation des habitants (art. 78).", source: "https://faolex.fao.org/docs/pdf/caf207260.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les modalités de répartition des recettes des ZCV sont fixées par arrêté du ministre chargé de la faune (loi n° 20.026 de 2020, art. 54) ; les taxes d'abattage peuvent être payées auprès des associations de gestion des aires fauniques communautaires (art. 140). Le troisième rapport national à la CDB (2006) cite un pourcentage annuel des taxes versé aux populations riveraines.", source: "https://faolex.fao.org/docs/pdf/caf207260.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "L'état 2020 des aires protégées d'Afrique centrale (OFAC, 2021, tableau 5, p. 84-85) décrit des ZCV du Nord en majorité sans activité, régies par un protocole d'accord tripartite (État, communauté, guide de chasse) de dix ans, avec des coûts de gestion supérieurs aux retombées avant la crise de 2013 et un niveau de dégradation élevé. Le cinquième rapport national à la CDB (2017) indique que les sociétés de tourisme cynégétique ont suspendu leurs activités après la crise ouverte en décembre 2012 et la hausse du braconnage, et que la première phase du programme ECOFAUNE du Nord-Est, qui appuyait le réseau des associations locales de gestion des ZCV, n'a pas donné les résultats attendus pour cette raison.", source: "https://hal.science/hal-05177359/document"}
+chronologie:
+  - {annee: 1984, evenement: "Ordonnance n° 84.045 portant protection de la faune sauvage et réglementant l'exercice de la chasse : reconnaît le droit de chasse coutumier des communautés villageoises, sans prévoir de ZCV."}
+  - {annee: 1995, evenement: "Les lois de finances commencent à reverser aux communes une part des taxes d'abattage, dispositif étendu aux ZCV louées à des sociétés de safari, selon le troisième rapport national à la CDB."}
+  - {annee: 2006, evenement: "Le troisième rapport national à la CDB cite les ZCV, leur quota d'abattage et la part des taxes versée aux populations riveraines, et mentionne un projet de loi sur les ZCV."}
+  - {annee: 2007, evenement: "Convention de financement d'un projet de conservation de la faune dans les ZCV, porté par l'Association pour la protection de la faune en Centrafrique avec un appui du Fonds français pour l'environnement mondial."}
+  - {annee: 2011, evenement: "Dix ZCV en activité selon la direction de la faune et des aires protégées."}
+  - {annee: 2012, evenement: "Crise politico-militaire : suspension des activités des sociétés de chasse sportive."}
+  - {annee: 2020, evenement: "Loi n° 20.026 du 30 novembre 2020 portant code de gestion de la faune et des aires protégées : les ZCV deviennent une catégorie légale d'aire faunique communautaire (art. 47 à 54)."}
+fiabilite:
+  verifie:
+    - "Texte des art. 13, 16, 46 à 54, 72, 78, 140 et 294 de la loi n° 20.026 de 2020 sur le fac-similé publié par FAOLEX : définition de la ZCV, création par arrêté à la demande des populations riveraines, gestion par des associations des ayants droit, activités admises, appartenance au domaine forestier de l'État, interdiction des titres fonciers dans les aires de protection de la faune."
+    - "Passages du troisième rapport national à la CDB (soumis le 29 décembre 2006) sur le quota d'abattage, la part des taxes versée aux populations riveraines et le projet de loi sur les ZCV."
+    - "Décompte de dix ZCV en activité (2011) et mention du réseau des associations locales de gestion des ZCV (ALGEST-ZCV) dans le cinquième rapport national à la CDB (mars 2017)."
+    - "Absence de toute mention des ZCV dans l'ordonnance n° 84.045 de 1984, texte publié par FAOLEX."
+    - "Nombre (12) et superficie cumulée (34 287 km²) des ZCV, et état de leur gouvernance (majorité sans activité, protocole tripartite de dix ans), dans Aires protégées d'Afrique centrale. État 2020 (OFAC, COMIFAC, 2021), tableaux 3 et 5."
+    - "Date du 30 novembre 2020 de la loi n° 20.026, donnée par le profil pays de l'OIT (avril 2023)."
+  non_confirme:
+    - "Le cinquième rapport donne dix ZCV en activité (2011) à un endroit et « onze zones de chasse villageoises » opérationnelles à un autre ; l'état OFAC de 2021 en recense douze, actives ou non. Les écarts ne sont pas expliqués."
+    - "Arrêtés ministériels de création des ZCV antérieurs à 2020 et arrêté fixant la répartition des recettes (art. 54) non trouvés en ligne ; la liste officielle des ZCV figure à l'annexe II de la loi de 2020, absente du fac-similé consulté. Aucun tableau des sites n'est donc publié."
+    - "Population et nombre de villages des ZCV non trouvés dans une source ouverte ; liste et localisation des ZCV du Sud-Ouest non trouvées."
+sources:
+  - {titre: "Loi n° 20.026 portant code de gestion de la faune et des aires protégées en République centrafricaine (2020) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/caf207260.pdf"}
+  - {titre: "Ordonnance n° 84.045 portant protection de la faune sauvage et réglementant l'exercice de la chasse en République centrafricaine — FAOLEX", url: "https://faolex.fao.org/docs/pdf/caf4158.pdf"}
+  - {titre: "Troisième rapport national de la République centrafricaine sur la diversité biologique (2006) — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/cf/cf-nr-03-fr.pdf"}
+  - {titre: "Quatrième rapport national de la République centrafricaine sur la diversité biologique (2010) — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/cf/cf-nr-04-fr.pdf"}
+  - {titre: "Cinquième rapport national de la République centrafricaine sur la diversité biologique (2017) — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/cf/cf-nr-05-fr.pdf"}
+  - {titre: "Aires protégées d'Afrique centrale. État 2020 — OFAC, COMIFAC (2021), HAL", url: "https://hal.science/hal-05177359/document"}
+  - {titre: "République centrafricaine : législations, politiques et institutions concernant les peuples autochtones — profil pays de l'OIT (2023)", url: "https://www.ilo.org/fr/media/364646/download"}
+  - {titre: "Conservation de la faune des zones cynégétiques villageoises — Programme de petites initiatives (FFEM)", url: "https://www.programmeppi.org/projects/conservation-de-la-grande-faune-emblematique-des-zones-cynegetiques-villageoises/"}

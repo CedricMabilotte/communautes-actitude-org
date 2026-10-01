@@ -1,0 +1,54 @@
+uid: "ethiopie-centrale"
+nom: "Peuples d'Éthiopie centrale"
+endonyme: ""
+territoire: "État régional d'Éthiopie centrale"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [7.8, 38.0]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 6, unite: "zones et woreda spécial (district à statut particulier) à l'établissement : Gurage, Silte, Kembata-Tembaro, Halaba, Hadiya ; Yem", annee: 2023, source: "https://www.ena.et/web/eng/w/eng_3222547"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les zones Gurage, Hadiya, Kembata-Tembaro, Silte et Halaba et le woreda spécial (district à statut particulier) Yem relevaient de l'État régional des nations, nationalités et peuples du Sud ; leurs peuples sont des « nations, nationalités et peuples » au sens de la Constitution fédérale éthiopienne.
+  Ces unités avaient demandé des référendums séparés, puis ont accepté un regroupement ; la Chambre de la Fédération (chambre haute) a décidé qu'elles resteraient ensemble dans un État renommé, sans référendum.
+  L'État régional d'Éthiopie centrale a été établi le 19 août 2023, et son conseil s'est réuni à Wolkite ; la demande d'un État séparé maintenue par le conseil de la zone Gurage n'a pas été satisfaite.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme note la reconnaissance du droit des communautés ethniques et linguistiques à l'autodétermination au niveau de l'État régional (CCPR/C/ETH/CO/1, par. 26). Vise la catégorie, pas les peuples d'Éthiopie centrale nommément.", annee: 2011, source: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 5, 39, 40, 47, 52 et 61", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Art. 39(3) : droit de chaque nation, nationalité et peuple à l'autogouvernement ; art. 47(2)-(3) : droit de former son propre État par référendum. État d'Éthiopie centrale établi le 19 août 2023, conseil réuni à Wolkite.", source: "https://www.ena.et/web/eng/w/eng_3222547"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Art. 52(1) : les pouvoirs non attribués à la Fédération sont réservés aux États ; art. 52(2)(b) : chaque État adopte et applique sa constitution et ses lois.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Art. 40(3) : la terre est propriété commune des nations, nationalités et peuples, inaliénable ; art. 52(2)(d) : les États l'administrent selon la loi fédérale.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Art. 39(2) : droit de chaque nation, nationalité et peuple de parler, écrire et développer sa langue ; art. 5(3) : chaque État fixe par la loi sa langue de travail. Langue de travail de l'État : l'amharique, selon la presse (2023).", source: "https://borkena.com/2023/08/19/ethiopias-two-new-regional-states-formed-central-ethiopia-south-ethiopia/"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Art. 61(2) : chaque nation, nationalité et peuple a au moins un siège à la Chambre de la Fédération, plus un par million d'habitants.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) : droit inconditionnel à l'autodétermination, y compris la sécession (séparation d'avec l'État), selon une procédure de vote du conseil législatif puis de référendum. Jamais exercé par ces peuples.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "partielle", note: "La Chambre de la Fédération a décidé du regroupement sans référendum, contrairement à la procédure de l'art. 47. Le conseil de la zone Gurage a transmis en août 2022 son rejet de l'État d'Éthiopie centrale ; des dizaines de jeunes ont été détenus à Wolkite en novembre 2022, puis des responsables de la zone, des responsables politiques locaux, des militants et des jeunes ont été arrêtés en mars 2023 (Rift Valley Institute, mars 2023).", source: "https://riftvalley.net/wp-content/uploads/2023/03/RVI-2023.03.21-Referendum-in-Ethiopias-Southern-Region.pdf"}
+chronologie:
+  - {annee: 1994, evenement: "Adoption de la Constitution fédérale (art. 39 et 47)."}
+  - {annee: 2022, evenement: "En août, le conseil de la zone Gurage rejette le projet d'État d'Éthiopie centrale et maintient sa demande d'un État séparé ; quatre woredas gurage et la ville de Butajira demandent au contraire à rejoindre l'Éthiopie centrale."}
+  - {annee: 2022, evenement: "En novembre, arrestations de jeunes à Wolkite après une journée de grève."}
+  - {annee: 2023, evenement: "En mars, arrestations de responsables de la zone Gurage, de responsables politiques locaux, de militants et de jeunes."}
+  - {annee: 2023, evenement: "Le 19 août, établissement de l'État régional d'Éthiopie centrale à partir de la partie restante de l'État des nations, nationalités et peuples du Sud."}
+fiabilite:
+  verifie: ["Date d'établissement du 19 août 2023 et réunion du conseil à Wolkite (Ethiopian News Agency).", "Absence de référendum pour ces unités et décision de la Chambre de la Fédération (Rift Valley Institute, 2023).", "Rejet par le conseil de la zone Gurage et arrestations de 2022-2023 (Rift Valley Institute, 2023).", "Texte des art. 5, 39, 40, 47, 52 et 61 de la Constitution (Constitute Project).", "Par. 26 de CCPR/C/ETH/CO/1 (PDF officiel de l'ONU)."]
+  non_confirme: ["Liste actuelle de dix unités (sept zones dont Gurage-Est et Yem ; woredas spéciaux Kebena, Mareko et Tembaro) lue sur Wikipedia, sans date de création ; le champ lieux retient les six unités citées par l'agence officielle à l'établissement.", "Langue de travail (amharique) lue dans la presse, pas dans la constitution régionale.", "Constitution régionale et compétences fiscales : non consultées.", "Population (environ 9,5 millions en 2025) et surface (environ 15 099 km²) : chiffres circulant sans source primaire ouverte.", "Répartition des sièges entre Wolkite (conseil) et Hosaena (exécutif) lue sur Wikipedia ; Borkena (2023) donne Wolkite pour capitale."]
+sources:
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "Ethiopian News Agency — établissement des États d'Éthiopie centrale et d'Éthiopie du Sud (2023)", url: "https://www.ena.et/web/eng/w/eng_3222547"}
+  - {titre: "Rift Valley Institute — Referendum in Ethiopia's Southern Region (2023)", url: "https://riftvalley.net/wp-content/uploads/2023/03/RVI-2023.03.21-Referendum-in-Ethiopias-Southern-Region.pdf"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur l'Éthiopie, CCPR/C/ETH/CO/1 (2011)", url: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+  - {titre: "Borkena — Ethiopia's two new regional states formed (2023)", url: "https://borkena.com/2023/08/19/ethiopias-two-new-regional-states-formed-central-ethiopia-south-ethiopia/"}
+  - {titre: "Wikipedia — Central Ethiopia Regional State", url: "https://en.wikipedia.org/wiki/Central_Ethiopia_Regional_State"}
+  - {titre: "World Statesmen — Ethiopia Regions", url: "http://www.worldstatesmen.org/Ethiopia_Regions.html"}

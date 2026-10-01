@@ -1,0 +1,52 @@
+uid: "iles-autonomes-comores"
+nom: "Îles autonomes des Comores"
+endonyme: "Ngazidja, Ndzuwani, Mwali"
+territoire: "Îles de Ngazidja (Grande Comore), Ndzuwani (Anjouan) et Mwali (Mohéli), dans le canal du Mozambique ; l'Union revendique aussi Maoré (Mayotte), sous administration française"
+etats: ["Comores"]
+region: "afrique"
+coord: [-11.7, 43.3]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 3, unite: "îles autonomes dotées d'institutions (Ngazidja, Ndzuwani, Mwali ; celles de Maoré sont renvoyées à la fin de « l'occupation » de l'île, art. 122)", annee: 2018, source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20(CONSOLID).pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'Union des Comores est formée de trois îles autonomes, Ngazidja, Ndzuwani et Mwali, auxquelles la Constitution ajoute Maoré (Mayotte), restée sous administration française. Ce régime est issu de la crise ouverte en 1997 par la sécession d'Anjouan et de Mohéli, et des accords de Fomboni de 2000-2001, qui ont conduit à la Constitution du 23 décembre 2001. Dans sa version révisée en 2009, 2013 et 2018, chaque île a la personnalité juridique (capacité d'agir en droit), s'administre librement et dispose d'un gouverneur élu au suffrage universel direct, qui prend des arrêtés dans des compétences exclusives (aménagement, tourisme, pêche artisanale, agriculture, voirie, foires et marchés). Son budget doit être approuvé par l'État, et le conseil consultatif de l'île réunit un représentant par conseil communal.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de l'Union des Comores du 23 décembre 2001, révisée en 2009, 2013 et 2018 (titre IV « Des institutions des îles », art. 99 à 108 ; art. 52, 53, 61 et 122)", nature: "constitution", annee: 2018, source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20(CONSOLID).pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque île a la personnalité juridique, la libre administration et l'autonomie de gestion ; elle est gérée par un gouverneur élu au suffrage universel direct pour cinq ans, renouvelable une fois, et par un conseil consultatif composé d'un représentant par conseil communal, que le gouverneur saisit pour avis (Constitution révisée en 2018, art. 99, 100 et 107) ; le texte ne prévoit pas d'assemblée insulaire élue.", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20(CONSOLID).pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Dans l'exercice de ses compétences, le gouverneur prend des arrêtés (actes réglementaires), sans pouvoir législatif propre (Constitution révisée en 2018, art. 101) ; les matières de compétence exclusive des îles sont fixées à l'art. 102.", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20(CONSOLID).pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "L'aménagement du territoire de l'île et l'acquisition de biens pour ses besoins relèvent de la compétence exclusive des îles (Constitution révisée en 2018, art. 102) ; le régime de la propriété et la gestion du domaine de l'État et du cadastre relèvent de la loi de l'Union (art. 90).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20(CONSOLID).pdf"}
+  ressources: {valeur: "partiel", note: "La pêche artisanale, l'agriculture et l'élevage (hors stratégies et recherche) ainsi que l'environnement de l'île relèvent de la compétence exclusive des îles (Constitution révisée en 2018, art. 102) ; les droits souverains sur les ressources de la zone économique exclusive appartiennent à l'Union (art. 7).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20(CONSOLID).pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "En concertation avec l'Union, l'île gère les établissements d'enseignement préscolaire, primaire et secondaire et leurs personnels, la formation professionnelle locale de base et les bourses d'études (Constitution révisée en 2018, art. 103) ; les principes de l'enseignement et les diplômes nationaux relèvent de la loi (art. 91).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20(CONSOLID).pdf"}
+  fiscalite: {valeur: "partiel", note: "Les ressources des îles comprennent une dotation de l'État et le produit de droits, impôts et taxes locaux dont les montants et taux sont fixés par la loi de finances de l'Union ; le budget de l'île doit être en équilibre et approuvé par l'État (Constitution révisée en 2018, art. 105 et 106).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20(CONSOLID).pdf"}
+  representation: {valeur: "partiel", note: "La présidence de l'Union est tournante entre les îles, une île pouvant exercer au plus deux mandats consécutifs ; le gouvernement est composé de manière à assurer une représentation « juste et équitable » des îles (Constitution révisée en 2018, art. 52, 53 et 61) ; les gouverneurs peuvent saisir la Cour suprême sur la conformité d'un engagement international (art. 12).", source: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20(CONSOLID).pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les gouverneurs des trois îles ont été élus en janvier 2024, en même temps que le président de l'Union, avec une participation supérieure à 50 % (Freedom House, 2025) ; l'ancien gouverneur d'Anjouan Abdou Salami Abdou a été condamné en 2022 à 12 ans de prison pour participation présumée à une insurrection, et des observateurs le qualifient de prisonnier politique (Freedom House, 2024).", source: "https://freedomhouse.org/country/comoros/freedom-world/2025"}
+chronologie:
+  - {annee: 1997, evenement: "Sécession d'Anjouan et de Mohéli, début de la crise institutionnelle comorienne."}
+  - {annee: 2001, evenement: "Accord-cadre de Fomboni ; Constitution du 23 décembre 2001 instituant l'Union des Comores et l'autonomie des îles."}
+  - {annee: 2009, evenement: "Première révision de la Constitution."}
+  - {annee: 2013, evenement: "Deuxième révision de la Constitution."}
+  - {annee: 2018, evenement: "Révision adoptée par référendum le 30 juillet, boycotté par l'opposition : suppression des trois vice-présidences (une par île) ; les institutions insulaires se limitent à un gouverneur, qui prend des arrêtés, et à un conseil consultatif. En octobre, trois morts lors de manifestations à Anjouan."}
+  - {annee: 2022, evenement: "Condamnation de l'ancien gouverneur d'Anjouan Abdou Salami Abdou à 12 ans de prison."}
+  - {annee: 2024, evenement: "Élection des gouverneurs des trois îles en janvier, en même temps que l'élection présidentielle."}
+fiabilite:
+  verifie: ["Texte consolidé de la Constitution de l'Union des Comores (2001, révisée en 2009, 2013 et 2018) sur NATLEX (OIT) : art. 6, 7, 12, 52, 53, 61, 90, 91, 94 à 96, 99 à 108, 115 et 122.", "Absence, dans le texte en vigueur, d'assemblée insulaire et de lois insulaires : le gouverneur agit par arrêtés (art. 101).", "Référendum de juillet 2018, suppression des trois vice-présidences et violences d'octobre 2018 à Anjouan (Freedom House, rapport 2019).", "Élection des gouverneurs en janvier 2024 (Freedom House, rapport 2025) et condamnation de l'ancien gouverneur d'Anjouan en 2022 (Freedom House, rapport 2024)."]
+  non_confirme: ["Freedom House écrit que la révision de 2018 a « aboli » la présidence tournante ; le texte consolidé maintient la rotation (art. 52) en permettant deux mandats consécutifs à une même île.", "Sécession d'Anjouan et de Mohéli en 1997 et accords de Fomboni de 2000-2001 : selon l'encyclopédie Wikipédia seulement ; date exacte de l'accord-cadre (17 février 2001) et texte non lus sur une source primaire ; aucun document de l'ONU sur ces accords n'a été ouvert.", "Contenu des versions de 2001 et 2009 (lois et assemblées insulaires, conseillers des îles) : non lu sur une source primaire.", "Population et superficie par île : l'encyclopédie Wikipédia donne 424 km² et 327 382 habitants (2017) pour Anjouan et 1 025 km² pour la Grande Comore, sans source officielle accessible.", "Découpage en 54 communes et 16 préfectures (loi n° 11-006/AU du 2 mai 2011) : cité par l'encyclopédie Wikipédia, texte de loi non lu.", "Résultats du référendum de 2018 (92,34 % de oui, 62,71 % de participation) : selon l'encyclopédie Wikipédia seulement."]
+sources:
+  - {titre: "Constitution de l'Union des Comores du 23 décembre 2001, révisée en 2009, 2013 et 2018 — texte consolidé, NATLEX (OIT)", url: "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/72696/COM-72696%20(CONSOLID).pdf"}
+  - {titre: "Freedom House, Freedom in the World 2019 — Comoros", url: "https://freedomhouse.org/country/comoros/freedom-world/2019"}
+  - {titre: "Freedom House, Freedom in the World 2024 — Comoros", url: "https://freedomhouse.org/country/comoros/freedom-world/2024"}
+  - {titre: "Freedom House, Freedom in the World 2025 — Comoros", url: "https://freedomhouse.org/country/comoros/freedom-world/2025"}
+  - {titre: "Accords de Fomboni — Wikipédia", url: "https://fr.wikipedia.org/wiki/Accords_de_Fomboni"}
+  - {titre: "Référendum constitutionnel comorien de 2018 — Wikipédia", url: "https://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rendum_constitutionnel_comorien_de_2018"}

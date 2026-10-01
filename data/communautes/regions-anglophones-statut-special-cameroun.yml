@@ -1,0 +1,61 @@
+uid: "regions-anglophones-statut-special-cameroun"
+nom: "Régions à statut spécial du Cameroun"
+endonyme: ""
+territoire: "Régions du Nord-Ouest (chef-lieu Bamenda) et du Sud-Ouest (chef-lieu Buea), ouest du Cameroun"
+etats: ["Cameroun"]
+region: "afrique"
+coord: [5.2, 9.8]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: ["collectivite_autonome"]
+population: {valeur: 3045032, annee: 2005, perimetre: "population des deux régions au recensement du 11 novembre 2005, somme des 13 départements : Nord-Ouest 1 728 953, Sud-Ouest 1 316 079 ; la population anglophone n'est pas comptée à part", source: "https://www.citypopulation.de/en/cameroon/admin/"}
+lieux: {valeur: 2, unite: "régions à statut spécial", annee: 2019, source: "https://www.minddevel.gov.cm/wp-content/uploads/2022/08/LOI_N%C2%B0_2019_024_DU_24_DECEMBRE_2019_PORTANT_CODE_GENERAL_DES_COLLECTIVITES.pdf"}
+surface_km2: {valeur: 42710, annee: null, perimetre: "surface des deux régions, somme des 13 départements : Nord-Ouest 17 300 km² (7 départements), Sud-Ouest 25 410 km² (6 départements)", source: "https://www.citypopulation.de/en/cameroon/admin/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les régions du Nord-Ouest et du Sud-Ouest correspondent à l'ancien Cameroun méridional sous tutelle britannique, rattaché au Cameroun après le plébiscite de 1961. La loi n° 2019/024 du 24 décembre 2019 portant Code général des collectivités territoriales décentralisées leur reconnaît un statut spécial « fondé sur leur spécificité linguistique et leur héritage historique » (art. 3), sur la base de l'article 62, alinéa 2, de la Constitution. Chaque région a une Assemblée régionale de 90 membres en deux chambres, une House of Divisional Representatives (chambre des représentants des départements, 70 élus) et une House of Chiefs (chambre des chefs, 20 membres issus du commandement traditionnel), un Conseil exécutif régional et un Public Independent Conciliator (médiateur indépendant). Le gouverneur, nommé par le président de la République, exerce la tutelle de l'État (contrôle administratif sur la région) et approuve au préalable le budget, les emprunts et les affaires domaniales.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution du 18 janvier 1996, art. 62, al. 2 (la loi peut tenir compte des spécificités de certaines régions)", nature: "constitution", annee: 1996, source: "https://www.constituteproject.org/constitution/Cameroon_2008"}
+  - {instrument: "Loi n° 2019/024 du 24 décembre 2019 portant Code général des collectivités territoriales décentralisées, art. 3 et livre IV, titre V (art. 327 à 371)", nature: "loi", annee: 2019, source: "https://www.minddevel.gov.cm/wp-content/uploads/2022/08/LOI_N%C2%B0_2019_024_DU_24_DECEMBRE_2019_PORTANT_CODE_GENERAL_DES_COLLECTIVITES.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les deux régions « s'administrent librement par des organes élus » : Assemblée régionale bicamérale de 90 membres et Conseil exécutif régional (loi n° 2019/024, art. 329 à 366) ; le gouverneur nommé exerce la tutelle (art. 73) et les actes sont soumis au contrôle de légalité et, pour certains, à son approbation préalable (art. 74 et 76).", source: "https://www.minddevel.gov.cm/wp-content/uploads/2022/08/LOI_N%C2%B0_2019_024_DU_24_DECEMBRE_2019_PORTANT_CODE_GENERAL_DES_COLLECTIVITES.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'Assemblée régionale adopte des délibérations exécutoires dans les compétences transférées aux régions (loi n° 2019/024, art. 331 et 345) ; il s'agit d'actes administratifs, sans pouvoir législatif, que le gouverneur peut renvoyer en seconde lecture ou déférer au juge (art. 74 et 77).", source: "https://www.minddevel.gov.cm/wp-content/uploads/2022/08/LOI_N%C2%B0_2019_024_DU_24_DECEMBRE_2019_PORTANT_CODE_GENERAL_DES_COLLECTIVITES.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Comme toutes les régions, elles gèrent les zones protégées et les eaux d'intérêt régional et peuvent créer des forêts régionales selon un plan approuvé par le gouverneur (loi n° 2019/024, art. 268) ; elles reçoivent une part du produit des ressources naturelles « dans les conditions fixées par la loi » (art. 11) ; un commissaire régional est chargé de ces compétences (art. 362) et les affaires domaniales restent soumises à l'approbation préalable du gouverneur (art. 76).", source: "https://www.minddevel.gov.cm/wp-content/uploads/2022/08/LOI_N%C2%B0_2019_024_DU_24_DECEMBRE_2019_PORTANT_CODE_GENERAL_DES_COLLECTIVITES.pdf"}
+  consentement: {valeur: "partiel", note: "Les régions participent à l'élaboration du statut de la chefferie traditionnelle et peuvent être consultées sur la politique de la justice de common law (loi n° 2019/024, art. 328) ; au sein de l'Assemblée régionale, la House of Chiefs émet un avis conforme (avis qui lie la décision) sur le statut de la chefferie traditionnelle, les sites et vestiges historiques, les manifestations culturelles et la tradition orale (art. 337). La consultation par l'État sur la justice reste facultative (« peuvent être consultées »).", source: "https://www.minddevel.gov.cm/wp-content/uploads/2022/08/LOI_N%C2%B0_2019_024_DU_24_DECEMBRE_2019_PORTANT_CODE_GENERAL_DES_COLLECTIVITES.pdf"}
+  langue: {valeur: "partiel", note: "L'anglais est langue officielle de l'État à égalité avec le français (Constitution, art. 1, al. 3) ; la loi n° 2019/024 fonde le statut spécial sur la « spécificité linguistique » des deux régions (art. 3) sans créer de régime linguistique régional distinct.", source: "https://www.constituteproject.org/constitution/Cameroon_2008"}
+  education: {valeur: "partiel", note: "Le statut spécial impose « le respect des particularités du système éducatif anglophone » (loi n° 2019/024, art. 3, al. 3) et les deux régions participent à l'élaboration des politiques nationales du sous-système éducatif anglophone (art. 328) ; la décision reste nationale.", source: "https://www.minddevel.gov.cm/wp-content/uploads/2022/08/LOI_N%C2%B0_2019_024_DU_24_DECEMBRE_2019_PORTANT_CODE_GENERAL_DES_COLLECTIVITES.pdf"}
+  fiscalite: {valeur: "partiel", note: "Le président du Conseil exécutif régional ordonnance les recettes et les dépenses (loi n° 2019/024, art. 359) ; le budget est soumis à l'approbation préalable du gouverneur (art. 76) et la part des recettes de l'État affectée à la Dotation générale de la décentralisation (transfert de l'État aux collectivités) ne peut être inférieure à 15 % (art. 25), règle commune à toutes les collectivités.", source: "https://www.minddevel.gov.cm/wp-content/uploads/2022/08/LOI_N%C2%B0_2019_024_DU_24_DECEMBRE_2019_PORTANT_CODE_GENERAL_DES_COLLECTIVITES.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon Crisis Group (briefing n° 188, 31 mars 2023), chaque assemblée doit obtenir l'approbation préalable du gouverneur pour le budget, les dépenses, les emprunts et les accords de coopération internationale ; les assemblées n'ont joué aucun rôle dans la politique d'éducation ; chaque assemblée reçoit environ 5 millions de dollars par an de budget de fonctionnement, autant que chaque conseil régional francophone ; la Dotation générale de la décentralisation représente 7,2 % du budget en 2022 et 8 % en 2023, pour un objectif légal de 15 % ; six ans de conflit dans les deux régions ont fait plus de 6 000 morts.", source: "https://www.crisisgroup.org/africa/central-africa/cameroon/b188-second-look-cameroons-anglophone-special-status"}
+chronologie:
+  - {annee: 1961, evenement: "Plébiscite sous supervision de l'ONU dans le Cameroun sous tutelle britannique : le Cameroun méridional rejoint le Cameroun dans une fédération."}
+  - {annee: 1972, evenement: "Fin de la fédération et passage à l'État unitaire."}
+  - {annee: 1996, evenement: "La Constitution permet à la loi de tenir compte des spécificités de certaines régions (art. 62, al. 2)."}
+  - {annee: 2016, evenement: "Grèves des avocats et des enseignants anglophones, début de la crise dans les deux régions."}
+  - {annee: 2019, evenement: "Le Grand dialogue national (octobre) recommande un statut spécial ; la loi n° 2019/024 du 24 décembre l'institue."}
+  - {annee: 2023, evenement: "Crisis Group publie une évaluation du statut spécial et propose son élargissement."}
+fiabilite:
+  verifie:
+    - "Texte de la loi n° 2019/024 (site du ministère de la Décentralisation et du Développement local) : art. 3, 25, 73 à 77, 327 à 368."
+    - "Composition de l'Assemblée régionale : 90 membres, House of Divisional Representatives (70) et House of Chiefs (20), art. 332 à 336."
+    - "Public Independent Conciliator nommé par décret pour six ans, art. 367 et 368."
+    - "Constitution, art. 1, al. 3 et art. 62 (Constitute Project)."
+    - "Population (recensement de 2005) et surface des 13 départements des deux régions (City Population) ; chiffres de l'effectivité relus sur le briefing n° 188 de Crisis Group."
+  non_confirme:
+    - "Date des premières élections régionales (décembre 2020) et installation des assemblées : non vérifiées sur une source primaire."
+    - "Population et surface : somme des départements relevée sur City Population (recensement de 2005), non vérifiée auprès du Bureau central des recensements et des études de population."
+    - "Aucun document d'un organe de l'ONU ou de la Commission africaine visant nommément le statut spécial n'a été consulté."
+sources:
+  - {titre: "Loi n° 2019/024 du 24 décembre 2019 portant Code général des collectivités territoriales décentralisées — MINDDEVEL", url: "https://www.minddevel.gov.cm/wp-content/uploads/2022/08/LOI_N%C2%B0_2019_024_DU_24_DECEMBRE_2019_PORTANT_CODE_GENERAL_DES_COLLECTIVITES.pdf"}
+  - {titre: "Constitution du Cameroun — Constitute Project", url: "https://www.constituteproject.org/constitution/Cameroon_2008"}
+  - {titre: "Crisis Group, « Cameroun : réexaminer le “statut spécial” des régions anglophones », briefing Afrique n° 188, 31 mars 2023", url: "https://www.crisisgroup.org/fr/brf/africa/central-africa/cameroon/b188-second-look-cameroons-anglophone-special-status"}
+  - {titre: "Crisis Group, Africa Briefing n° 188 (version anglaise)", url: "https://www.crisisgroup.org/africa/central-africa/cameroon/b188-second-look-cameroons-anglophone-special-status"}
+  - {titre: "« Le statut spécial en termes simples » — L'Action (journal du RDPC)", url: "https://journal.rdpcpdm.cm/2021/09/le-statut-special-en-termes-simples/"}
+  - {titre: "Cameroon: Administrative Division — City Population (recensements 1987 et 2005)", url: "https://www.citypopulation.de/en/cameroon/admin/"}
+  - {titre: "Anglophone Cameroonians — Wikipedia", url: "https://en.wikipedia.org/wiki/Anglophone_Cameroon"}

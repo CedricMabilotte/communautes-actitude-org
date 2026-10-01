@@ -1,0 +1,54 @@
+uid: "chretiens-jordanie"
+nom: "Chrétiens de Jordanie"
+endonyme: ""
+territoire: "Jordanie (communauté sans territoire propre)"
+etats: ["Jordanie"]
+region: "asie"
+coord: [31.9, 35.9]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: 2021, perimetre: "Aucun chiffre officiel par religion ; le gouvernement des États-Unis estime les chrétiens à 2,1 % de la population, les responsables d'Églises entre 1,8 et 3 %", source: "https://www.state.gov/wp-content/uploads/2022/04/JORDAN-2021-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf"}
+lieux: {valeur: 11, unite: "confessions chrétiennes reconnues dans l'annexe de la loi de 2014 sur les conseils des confessions chrétiennes", annee: 2014, source: "https://www.state.gov/wp-content/uploads/2022/04/JORDAN-2021-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les chrétiens de Jordanie appartiennent en majorité à l'Église grecque orthodoxe ; on compte aussi des catholiques latins et melkites, des Arméniens, des Coptes, des syriaques et des protestants.
+  La Constitution de 1952 crée, à côté des tribunaux de la charia, des tribunaux des communautés religieuses non musulmanes reconnues par le gouvernement, compétents en statut personnel (mariage, divorce, garde des enfants) et pour les biens de mainmorte (waqf) de la communauté.
+  La loi de 2014 sur les conseils des confessions chrétiennes reconnaît 11 confessions ; sept d'entre elles disposent de tribunaux ecclésiastiques.
+  La loi électorale n° 4 de 2022 réserve au moins 9 des 138 sièges de la Chambre des députés à des candidats chrétiens.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution du Royaume hachémite de Jordanie de 1952, révisée en 2016, art. 19, 99, 104, 108 et 109", nature: "constitution", annee: 1952, source: "https://www.constituteproject.org/constitution/Jordan_2016"}
+  - {instrument: "Loi de 2014 sur les conseils des confessions chrétiennes (annexe : 11 confessions reconnues)", nature: "loi", annee: 2014, source: "https://www.state.gov/wp-content/uploads/2022/04/JORDAN-2021-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf"}
+  - {instrument: "Loi n° 4 de 2022 sur l'élection de la Chambre des députés, art. 8 (texte consolidé publié par la Commission électorale indépendante)", nature: "loi", annee: 2022, source: "https://iec.jo/sites/default/files/2025-09/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D9%84%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%20%D9%88%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D9%87%20%282%29.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Loi de 2014 sur les conseils des confessions chrétiennes : 11 confessions reconnues en annexe ; les confessions reconnues peuvent posséder des terres, ouvrir des comptes bancaires et conclure des contrats ; le Conseil des chefs d'Églises, organe consultatif du gouvernement formé des chefs des 11 confessions, sert d'organe administratif pour les exonérations fiscales et douanières.", source: "https://www.state.gov/wp-content/uploads/2022/04/JORDAN-2021-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Constitution, art. 109 : les tribunaux des communautés religieuses appliquent les dispositions de statut personnel qui ne relèvent pas des tribunaux de la charia, et la législation propre à ces tribunaux fixe les conditions de nomination des juges et la procédure ; le domaine se limite au statut personnel et aux waqf.", source: "https://www.constituteproject.org/constitution/Jordan_2016"}
+  justice_propre: {valeur: "reconnu", note: "Constitution, art. 104 et 108 : tribunaux des communautés religieuses non musulmanes reconnues par le gouvernement ; art. 109(1) : compétence en statut personnel et pour les waqf (biens de mainmorte) de la communauté ; sept confessions ont un tribunal ecclésiastique (grecque orthodoxe, catholique romaine, melkite, arménienne orthodoxe, copte, syriaque orthodoxe, anglicane).", source: "https://www.constituteproject.org/constitution/Jordan_2016"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "Constitution, art. 19 : les communautés religieuses peuvent fonder et gérer leurs propres écoles pour leurs membres, sous le contrôle du gouvernement quant aux programmes et à l'orientation.", source: "https://www.constituteproject.org/constitution/Jordan_2016"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Loi n° 4 de 2022 sur l'élection de la Chambre des députés : art. 8(b), un siège réservé aux chrétiens dans sept gouvernorats (Amman, Irbid, Balqa, Karak, Zarqa, Madaba, Ajloun) ; art. 8(d), au moins deux sièges dans la circonscription nationale ; soit au moins 9 sièges sur 138.", source: "https://iec.jo/sites/default/files/2025-09/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D9%84%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%20%D9%88%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D9%87%20%282%29.pdf"}
+  statut_personnel: {valeur: "reconnu", note: "Constitution, art. 109 : le statut personnel des membres des confessions reconnues dotées d'un tribunal (mariage, divorce, garde des enfants) relève de leur tribunal ecclésiastique ; les membres des confessions reconnues sans tribunal saisissent les tribunaux civils, qui suivent en principe les règles de leur confession ; la charia s'applique aux successions.", source: "https://www.state.gov/wp-content/uploads/2022/04/JORDAN-2021-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf"}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Sept confessions disposent d'un tribunal ecclésiastique, quatre confessions reconnues n'en ont pas ; la conversion de l'islam au christianisme n'est pas reconnue, le prosélytisme auprès des musulmans peut être poursuivi au titre du code pénal, et cinq Églises évangéliques enregistrées en 2018 comme associations n'ont ni statut de confession ni tribunal.", source: "https://www.state.gov/wp-content/uploads/2022/04/JORDAN-2021-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf"}
+chronologie:
+  - {annee: 1952, evenement: "Constitution : tribunaux des communautés religieuses non musulmanes (art. 104, 108, 109) et droit des communautés à fonder des écoles (art. 19)."}
+  - {annee: 2009, evenement: "Le gouvernement nomme le Conseil des chefs d'Églises, formé des responsables des 11 confessions reconnues, organe consultatif pour les affaires chrétiennes."}
+  - {annee: 2014, evenement: "Loi sur les conseils des confessions chrétiennes ; 11 confessions reconnues en annexe."}
+  - {annee: 2018, evenement: "Cinq Églises évangéliques enregistrées comme associations, sans statut de confession."}
+  - {annee: 2022, evenement: "Loi électorale n° 4 : au moins 9 sièges sur 138 réservés à des chrétiens (9 sur 130 sous la loi précédente)."}
+fiabilite:
+  verifie: ["Texte des art. 19, 99, 104, 108 et 109 de la Constitution (Constitute Project, version de 2016).", "11 confessions reconnues par la loi de 2014, sept tribunaux ecclésiastiques, application de la charia aux successions (Département d'État, rapport 2021).", "Texte arabe de la loi n° 4 de 2022 (Commission électorale indépendante) : sept sièges locaux réservés aux chrétiens (art. 8(b)) et au moins deux sièges nationaux (art. 8(d)), concordant avec la base Parline de l'UIP.", "Art. 109 de la Constitution : un seul paragraphe dans la version de 2016 ; la règle de la charia pour les successions vient du rapport du Département d'État, pas du texte constitutionnel.", "Conseil des chefs d'Églises nommé en 2009 (Minority Rights Group) ; non-reconnaissance des conversions et poursuites possibles pour prosélytisme (Département d'État, rapport 2021)."]
+  non_confirme: ["Texte de la loi de 2014 sur les conseils des confessions chrétiennes non consulté au Journal officiel ; numéro de la loi non établi.", "Statut juridique du Conseil des chefs d'Églises (texte de création) non établi.", "Aucun document d'un organe de l'ONU nommant les chrétiens de Jordanie n'a pu être ouvert ; reconnaissance retenue au niveau national.", "Population : aucun chiffre officiel ; estimations de 1,8 % à 3 % (Département d'État, responsables d'Églises) et de 2,2 % à 6 % (Minority Rights Group)."]
+sources:
+  - {titre: "Constitution de la Jordanie (1952, révisée en 2016) — Constitute Project", url: "https://www.constituteproject.org/constitution/Jordan_2016"}
+  - {titre: "Département d'État des États-Unis — Jordan 2021 International Religious Freedom Report", url: "https://www.state.gov/wp-content/uploads/2022/04/JORDAN-2021-INTERNATIONAL-RELIGIOUS-FREEDOM-REPORT.pdf"}
+  - {titre: "Loi n° 4 de 2022 sur l'élection de la Chambre des députés (texte arabe) — Commission électorale indépendante", url: "https://iec.jo/sites/default/files/2025-09/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D9%84%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%20%D9%88%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D9%87%20%282%29.pdf"}
+  - {titre: "Union interparlementaire, Parline — Jordanie, Chambre des députés", url: "https://data.ipu.org/parliament/JO/JO-LC01/"}
+  - {titre: "Minority Rights Group — Christians (Jordanie)", url: "https://minorityrights.org/communities/christians-2/"}

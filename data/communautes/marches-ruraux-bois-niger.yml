@@ -1,0 +1,73 @@
+uid: "marches-ruraux-bois-niger"
+nom: "Marchés ruraux de bois du Niger"
+endonyme: ""
+territoire: "Terroirs villageois des bassins d'approvisionnement en bois-énergie des villes (Niamey, Maradi, Zinder, chefs-lieux de départements)"
+etats: ["Niger"]
+region: "afrique"
+coord: [13.5, 3.5]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 600, unite: "marchés ruraux de bois (« plus de 600 » créés, selon le troisième rapport national du Niger à la Convention sur la diversité biologique)", annee: 2005, source: "https://www.cbd.int/doc/world/ne/ne-nr-03-fr.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'ordonnance 92-037 du 21 août 1992 crée les « marchés ruraux » de bois : des lieux de vente situés hors des grandes villes, administrés par une structure locale de gestion (SLG), c'est-à-dire une organisation de villageois reconnue et enregistrée par le ministre chargé des forêts. L'adhésion à la SLG est réservée aux titulaires du droit d'usage coutumier sur la zone, d'autres personnes pouvant y être admises par la SLG en cas de nécessité ; seuls ses membres peuvent y exploiter le bois à titre commercial, dans la limite d'un quota annuel. La SLG encaisse la taxe sur le transport du bois et en conserve une part, partagée avec la collectivité territoriale et le Trésor public. La loi 2004-040 portant régime forestier et le décret 2018-191 reprennent ce régime.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Troisième rapport national du Niger à la Convention sur la diversité biologique (2005) : « Plus de 600 marchés ruraux de bois sont créés sur le territoire nigérien » ; la stratégie nationale pour la biodiversité révisée (2009), transmise au même secrétariat, prévoit un bilan des marchés ruraux de bois énergie.", annee: 2005, source: "https://www.cbd.int/doc/world/ne/ne-nr-03-fr.pdf"}
+base_nationale:
+  - {instrument: "Ordonnance n° 92-037 du 21 août 1992 portant organisation de la commercialisation et du transport de bois dans les grandes agglomérations, et la fiscalité qui lui est applicable (art. 4, 8 à 12, 22, 25)", nature: "loi", annee: 1992, source: "https://faolex.fao.org/docs/pdf/ner2259.pdf"}
+  - {instrument: "Décret n° 92-279/PM/MHE du 21 août 1992 portant application de l'ordonnance 92-037", nature: "loi", annee: 1992, source: "https://faolex.fao.org/docs/pdf/ner2266.pdf"}
+  - {instrument: "Décret n° 96-390/PRN/MH/E du 22 octobre 1996 portant application de l'ordonnance 92-037", nature: "loi", annee: 1996, source: "https://faolex.fao.org/docs/pdf/ner17323.pdf"}
+  - {instrument: "Loi n° 2004-040 du 8 juin 2004 portant régime forestier au Niger (art. 30, 48, 49, 51, 58, 59, 61)", nature: "loi", annee: 2004, source: "https://faolex.fao.org/docs/pdf/ner52450.pdf"}
+  - {instrument: "Décret n° 2018-191/PRN/ME/DD du 16 mars 2018 déterminant les modalités d'application de la loi 2004-040 (art. 46 à 49, 100 à 109)", nature: "loi", annee: 2018, source: "https://faolex.fao.org/docs/pdf/ner214719.pdf"}
+  - {instrument: "Arrêté n° 0039/MESU/DD/SG/DGEF/DPNE du 28 janvier 2021 portant tarification des redevances perçues à l'occasion de la délivrance du permis d'exploitation, de commercialisation et de transport du bois", nature: "loi", annee: 2021, source: "https://faolex.fao.org/docs/pdf/ner215324.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La structure locale de gestion est une organisation de producteurs ruraux de bois « reconnue et enregistrée par le Ministre chargé des forêts » qui assure pour ses membres l'approvisionnement du marché, l'exploitation, la surveillance, l'entretien et la régénération de la zone (ordonnance 92-037, art. 4) ; les marchés restent « contrôlés par l'administration en charge des forêts », à qui la SLG remet un rapport annuel (décret 2018-191, art. 100).", source: "https://faolex.fao.org/docs/pdf/ner214719.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Chaque zone d'approvisionnement d'un marché rural « devra être cédée sous forme de concession rurale et immatriculée au nom de la Structure Locale de Gestion » (ordonnance 92-037, art. 10) ; la loi 2004-040 (art. 48) prévoit la concession de zones d'exploitation aux SLG dans les forêts protégées de l'État ou des collectivités, et le décret 2018-191 (art. 47 à 49) des contrats de gestion de 25 à 99 ans ; il s'agit d'une gestion concédée, non d'une propriété.", source: "https://faolex.fao.org/docs/pdf/ner2259.pdf"}
+  ressources: {valeur: "partiel", note: "L'adhésion à la SLG est réservée aux titulaires du droit d'usage coutumier, sauf admission d'autres personnes par la SLG en cas de nécessité, et seuls ses membres peuvent exploiter le bois à titre commercial dans la zone du marché (ordonnance 92-037, art. 11 ; loi 2004-040, art. 49) ; l'exploitation est limitée par un quota annuel fixé par une commission où siègent la SLG, l'administration forestière et la collectivité (art. 12), puis par l'administration chargée des forêts (décret 2018-191, art. 101).", source: "https://faolex.fao.org/docs/pdf/ner2259.pdf"}
+  consentement: {valeur: "partiel", note: "Les plans d'aménagement forestier sont élaborés par l'administration ou sous son contrôle « en concertation avec les populations concernées » (loi 2004-040, art. 30) ; les contrats de gestion confiés aux SLG sont « librement consentis » et visés par les autorités coutumières intéressées (décret 2018-191, art. 47 et 48).", source: "https://faolex.fao.org/docs/pdf/ner52450.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "La SLG encaisse à la source la taxe sur le transport du bois (ordonnance 92-037, art. 21) et en conserve 30 % (exploitation orientée) ou 50 % (exploitation contrôlée), la collectivité territoriale 20 % ou 40 % (art. 22) ; le décret 2018-191 (art. 107 et 109) maintient 50 % pour la SLG en exploitation contrôlée, dont 40 % affectés au contrôle et aux actions forestières.", source: "https://faolex.fao.org/docs/pdf/ner214719.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon une étude du CIRAD, de l'IRD et de l'INRAN sur le marché rural de Ñinpelima (créé en 1993, commune de Torodi), les contrôles forestiers y étaient rares, le dépassement du quota était négocié entre SLG et services forestiers et la coupe de bois vert était tolérée ; le bois mort a disparu depuis 2004. La stratégie nationale pour la biodiversité de 2009 indique que le système contrôlé des zones aménagées ne fournit que 30 % du bois-énergie.", source: "https://hal.science/hal-00521897/document"}
+chronologie:
+  - {annee: 1989, evenement: "Début de la réforme de l'exploitation commerciale du bois-énergie dans le cadre de la Stratégie énergie domestique (projet Énergie II)."}
+  - {annee: 1992, evenement: "Ordonnance 92-037 et décret 92-279 du 21 août : création des marchés ruraux et des structures locales de gestion, partage de la taxe sur le transport du bois."}
+  - {annee: 1993, evenement: "Création des premiers marchés ruraux, dont Ñinpelima (commune de Torodi)."}
+  - {annee: 1996, evenement: "Décret 96-390 du 22 octobre : nouveaux taux de la taxe ; environ une centaine de marchés ruraux créés entre 1993 et 1996."}
+  - {annee: 1999, evenement: "Un rapport du programme de partenariat CE-FAO estime à 18 à 20 % la part des marchés ruraux dans l'approvisionnement de Niamey."}
+  - {annee: 2004, evenement: "Loi 2004-040 du 8 juin portant régime forestier : vente du bois des zones aménagées par les marchés ruraux administrés par les SLG."}
+  - {annee: 2005, evenement: "Le troisième rapport national à la Convention sur la diversité biologique fait état de plus de 600 marchés ruraux."}
+  - {annee: 2018, evenement: "Décret 2018-191 du 16 mars : contrats de gestion de 25 à 99 ans et répartition de la taxe."}
+  - {annee: 2021, evenement: "Arrêté du 28 janvier : tarifs de la taxe et obligation pour chaque région et département de tenir une liste des marchés ruraux actualisée chaque année."}
+fiabilite:
+  verifie:
+    - "Texte de l'ordonnance 92-037 (FAOLEX) : définition de la SLG (art. 4), création des marchés ruraux (art. 8), formes orientée et contrôlée et concession rurale (art. 10), exclusivité des membres (art. 11), quota annuel (art. 12), répartition de la taxe (art. 22)."
+    - "Texte de la loi 2004-040 (art. 48, 49, 58, 59) et du décret 2018-191 (art. 46 à 49, 100 à 109) sur FAOLEX ; la loi abroge la loi 74-07 sans abroger l'ordonnance 92-037, à laquelle elle renvoie (art. 61)."
+    - "Mention de « plus de 600 marchés ruraux de bois » dans le troisième rapport national du Niger à la Convention sur la diversité biologique."
+    - "Arrêté du 28 janvier 2021 (art. 17) : chaque région et département doit dresser une liste des marchés ruraux."
+  non_confirme:
+    - "Nombre actuel de marchés ruraux en activité : aucun chiffre postérieur à 2005 ni aucune liste nationale publiée n'a été trouvé ; le chiffre de 600 compte des marchés créés, pas des marchés en fonctionnement."
+    - "Immatriculation effective des zones d'approvisionnement en concession rurale au nom des SLG : non vérifiée."
+    - "Population, nombre de villages et surface sous gestion des SLG : aucune source trouvée."
+    - "Effets de la crise sécuritaire dans les régions de Tillabéri et de Diffa sur le fonctionnement des marchés : non documentés."
+sources:
+  - {titre: "Ordonnance n° 92-037 du 21 août 1992 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ner2259.pdf"}
+  - {titre: "Décret n° 92-279/PM/MHE du 21 août 1992 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ner2266.pdf"}
+  - {titre: "Décret n° 96-390/PRN/MH/E du 22 octobre 1996 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ner17323.pdf"}
+  - {titre: "Loi n° 2004-040 du 8 juin 2004 portant régime forestier au Niger — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ner52450.pdf"}
+  - {titre: "Décret n° 2018-191/PRN/ME/DD du 16 mars 2018 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ner214719.pdf"}
+  - {titre: "Arrêté n° 0039/MESU/DD du 28 janvier 2021 portant tarification des redevances sur le bois — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ner215324.pdf"}
+  - {titre: "Troisième rapport national du Niger à la Convention sur la diversité biologique (2005)", url: "https://www.cbd.int/doc/world/ne/ne-nr-03-fr.pdf"}
+  - {titre: "Stratégie nationale et plan d'action en matière de diversité biologique, révision de 2009 — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/ne/ne-nbsap-v2-fr.pdf"}
+  - {titre: "Le bois-énergie au Niger : connaissances actuelles et tendances, programme de partenariat CE-FAO (1999)", url: "https://www.fao.org/4/x6798F/X6798F08.htm"}
+  - {titre: "Rives et al., Conséquences de la création des marchés ruraux de bois énergie sur un socio-écosystème au Niger, ISDA 2010 (HAL)", url: "https://hal.science/hal-00521897/document"}
+  - {titre: "Approvisionnement en bois des centres urbains par les marchés ruraux de bois au Niger — Studio Kalangou (2020)", url: "https://www.studiokalangou.org/12702-approvisionnement-en-bois-des-centres-urbains-et-peri-urbains-par-les-marches-ruraux-de-bois-au-niger-entre-enjeux-economiques-et-survie-environnementale"}

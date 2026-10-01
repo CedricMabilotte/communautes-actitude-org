@@ -1,0 +1,71 @@
+uid: "richtersveld-nama"
+nom: "Communauté nama du Richtersveld"
+endonyme: ""
+territoire: "Richtersveld, nord-ouest de la province du Cap-du-Nord : bande côtière entre le fleuve Orange (Gariep) et Port Nolloth, terres communales de l'intérieur et parc national du Richtersveld"
+etats: ["Afrique du Sud"]
+region: "afrique"
+coord: [-28.5, 17.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: ["communaute_locale"]
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: 3093, annee: 2024, perimetre: "zone rurale du Richtersveld relevant de la loi n° 94 de 1998 (TRANCRAA), 309 328 ha selon le ministère", source: "https://pmg.org.za/files/241030_TRANCRAA_Presentation.pptx"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La communauté du Richtersveld, d'ascendance nama, vit dans le nord-ouest du Cap-du-Nord. Le 14 octobre 2003, la Cour constitutionnelle a jugé qu'elle détenait sur la bande côtière diamantifère un droit de propriété communale selon son droit coutumier, minéraux et pierres précieuses compris, et qu'elle avait droit à sa restitution au titre de la loi de 1994 sur la restitution des droits fonciers. Un accord de règlement conclu en 2007 avec l'État et la société publique Alexkor, rendu exécutoire par décision de justice, organise la restitution de terres, le transfert à la communauté des droits miniers terrestres d'Alexkor et leur exploitation par une coentreprise avec Alexkor. Les terres sont détenues par une association de propriété communale. La communauté est aussi partie au parc national du Richtersveld, géré par un conseil de gestion conjoint, et ses terres de l'intérieur ont été transférées en 2023 au titre de la loi TRANCRAA.
+  Les régimes généraux sont décrits dans les fiches « Zones rurales TRANCRAA d'Afrique du Sud » et « Terres restituées en parcs nationaux d'Afrique du Sud ».
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Rapport de Rodolfo Stavenhagen sur sa mission en Afrique du Sud (E/CN.4/2006/78/Add.2), § 37 et 43 : il cite la revendication foncière des Nama du Richtersveld et l'arrêt de la Cour suprême d'appel reconnaissant leur droit à restitution.", annee: 2005, source: "https://documents.un.org/api/symbol/access?s=E/CN.4/2006/78/Add.2&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Alexkor Ltd and Another v Richtersveld Community and Others, CCT 19/03, [2003] ZACC 18, Cour constitutionnelle, 14 octobre 2003, § 62, 64 et 103", nature: "jurisprudence", annee: 2003, source: "https://www.saflii.org/za/cases/ZACC/2003/18.html"}
+  - {instrument: "Restitution of Land Rights Act (loi sur la restitution des droits fonciers) n° 22 de 1994, art. 2 (1)", nature: "loi", annee: 1994, source: "https://www.gov.za/sites/default/files/gcis_document/201409/act22of1994.pdf"}
+  - {instrument: "Accord de règlement (Deed of Settlement) entre la communauté du Richtersveld, Alexkor Ltd et l'État, 2007, rendu exécutoire par décision de justice", nature: "accord_revendication", annee: 2007, source: "https://pmg.org.za/committee-meeting/27996/"}
+  - {instrument: "Communal Property Associations Act (loi sur les associations de propriété communale) n° 28 de 1996", nature: "loi", annee: 1996, source: "https://www.gov.za/documents/communal-property-associations-act"}
+  - {instrument: "Transformation of Certain Rural Areas Act (loi sur la transformation de certaines zones rurales) n° 94 de 1998", nature: "loi", annee: 1998, source: "https://www.gov.za/sites/default/files/gcis_document/201409/a94-98.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'association de propriété communale du Richtersveld (CPA, personne morale régie par la loi n° 28 de 1996, dotée d'une constitution et d'un comité exécutif élu) est l'entité qui détient les terres ; l'accord de règlement de 2007 lui a adjoint deux fiducies et six sociétés. Le ministère contrôle sa conformité à la loi : par ordonnance du 28 février 2020, un administrateur judiciaire a exercé pour trois ans les pouvoirs de son comité exécutif (art. 13 (2) de la loi de 1996).", source: "https://pmg.org.za/committee-meeting/35181/"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "La Cour constitutionnelle a jugé que la communauté détenait sur la bande côtière un droit de propriété communale selon son droit coutumier, comprenant l'occupation et l'usage exclusifs des terres (§ 62), et a déclaré qu'elle a droit, au titre de l'art. 2 (1) de la loi n° 22 de 1994, à la restitution de cette propriété, minéraux et pierres précieuses compris, et à son usage et occupation exclusifs (arrêt du 14 octobre 2003, § 103).", source: "https://www.saflii.org/za/cases/ZACC/2003/18.html"}
+  ressources: {valeur: "partiel", note: "L'accord de règlement de 2007, rendu exécutoire par décision de justice, prévoit le transfert à la communauté des droits miniers terrestres d'Alexkor et la création d'une coentreprise de mise en commun et de partage (Pooling and Sharing Joint Venture), capitalisée par Alexkor à hauteur de 200 millions de rands, ainsi que le transfert des actifs agricoles et maricoles d'Alexkor. Le ministère des Entreprises publiques déclarait en 2022 que la communauté avait reçu les droits miniers.", source: "https://pmg.org.za/committee-meeting/35181/"}
+  consentement: {valeur: "partiel", note: "La loi n° 94 de 1998 prévoit une consultation des résidents (assemblée spéciale ou enquête écrite) avant que la municipalité ou un comité élu recommande au ministre l'entité qui reçoit les terres, le ministre décidant (art. 3 (4) à (12)) ; elle soumet toute prospection ou exploitation minière à l'approbation de l'entité concernée, « qui ne peut être refusée de manière déraisonnable » (art. 6 (2) (b)).", source: "https://www.gov.za/sites/default/files/gcis_document/201409/a94-98.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Le 2 décembre 2025, devant la commission parlementaire, la présidente du conseil d'Alexkor déclarait la coentreprise minière capitalisée, les 190 millions de rands de réparation versés et les actifs agricoles et maricoles transférés, et reconnaissait que l'accord de règlement n'était pas entièrement exécuté (électricité, transfert du bourg d'Alexander Bay à la municipalité, services municipaux). La commission relevait des litiges entre les structures minières de la communauté et Alexkor ; un de ses membres rapportait que le ministère avait jugé la CPA « dysfonctionnelle » et que plus de 300 millions de rands lui avaient été versés sans bénéfice pour la communauté.", source: "https://pmg.org.za/committee-meeting/42189/"}
+chronologie:
+  - {annee: 1847, evenement: "Annexion du territoire à la colonie du Cap par proclamation britannique."}
+  - {annee: 1926, evenement: "Découverte de diamants sur la bande côtière ; la loi de 1927 sur les pierres précieuses ouvre la voie à une exploitation d'État."}
+  - {annee: 1963, evenement: "L'exploitation d'État couvre toute la bande côtière ; la communauté en est écartée, puis la terre est transférée à Alexkor."}
+  - {annee: 1991, evenement: "Proclamation du parc national du Richtersveld après des négociations entre l'office des parcs nationaux et la population nama, qui garde l'accès aux pâturages."}
+  - {annee: 2003, evenement: "Arrêt de la Cour suprême d'appel (24 mars) puis de la Cour constitutionnelle (14 octobre) reconnaissant le droit à restitution."}
+  - {annee: 2003, evenement: "Création du parc transfrontalier |Ai-|Ais/Richtersveld avec la Namibie (protocole d'accord du 17 août)."}
+  - {annee: 2007, evenement: "Accord de règlement entre la communauté, Alexkor et l'État, rendu exécutoire par décision de justice."}
+  - {annee: 2007, evenement: "Inscription du paysage culturel et botanique du Richtersveld (160 000 ha), propriété communale de la communauté, sur la liste du patrimoine mondial."}
+  - {annee: 2020, evenement: "Placement de l'association de propriété communale sous administration judiciaire (ordonnance du 28 février)."}
+  - {annee: 2023, evenement: "Transfert des terres de la zone TRANCRAA du Richtersveld (15 et 17 mai)."}
+  - {annee: 2025, evenement: "Séances de la commission parlementaire sur l'inexécution de l'accord de règlement (28 octobre, 2 décembre)."}
+fiabilite:
+  verifie: ["§ 62, 64 et 103 de l'arrêt de la Cour constitutionnelle du 14 octobre 2003 (SAFLII).", "Liste des obligations de l'accord de 2007 et état d'exécution déclaré en juin 2023 (PMG, réunion du 22 juin 2023).", "Surface de la zone TRANCRAA du Richtersveld (309 328 ha), surface transférée de la ferme Richtersveld n° 11 (309 259 ha) et dates de transfert, 15 et 17 mai 2023 (présentation du ministère, 30 octobre 2024).", "Restitution de portions de terres par l'État et Alexkor, transfert des droits miniers terrestres et des actifs agricoles déclarés exécutés (PMG, réunions du 8 juin 2022 et du 22 juin 2023).", "Administration judiciaire de la CPA par ordonnance du 28 février 2020 (PMG, réunion du 8 juin 2022).", "Conseil de gestion conjoint du parc national du Richtersveld et loyers versés à la communauté (SANParks).", "Mention de la revendication des Nama du Richtersveld dans le rapport du Rapporteur spécial (E/CN.4/2006/78/Add.2, § 37 et 43).", "Propriété communale et gestion par une CPA du site du patrimoine mondial (UNESCO)."]
+  non_confirme: ["Population de la communauté : aucun chiffre officiel trouvé ; un membre de la commission parlementaire évoquait environ 3 000 bénéficiaires en décembre 2025.", "Surface : la présentation du ministère ne dit pas si la zone TRANCRAA inclut le parc national ni la bande côtière restituée au titre de l'accord de 2007.", "Nombre et liste des villages de la communauté : aucune source officielle consultée.", "Entité attributaire des terres TRANCRAA transférées en 2023 (CPA Sida !Hub ou autre) : non précisée par la présentation du ministère.", "Répartition du capital dans la coentreprise avec Alexkor : les déclarations au Parlement de 2025 se contredisent (51 % à la communauté selon le service juridique du Parlement le 28 octobre, 51 % à Alexkor selon un membre de la commission le 2 décembre).", "Titre de propriété remis à la CPA le 21 août (année et terres concernées non précisées, PMG, 28 octobre 2025).", "Date exacte de signature et d'homologation de l'accord de 2007 : non vérifiée sur le texte de l'accord.", "Date de l'accord contractuel du parc national et montant des loyers : non trouvés sur une source primaire."]
+sources:
+  - {titre: "Alexkor Ltd and Another v Richtersveld Community and Others [2003] ZACC 18 — Cour constitutionnelle, SAFLII", url: "https://www.saflii.org/za/cases/ZACC/2003/18.html"}
+  - {titre: "Restitution of Land Rights Act n° 22 de 1994 — gov.za", url: "https://www.gov.za/sites/default/files/gcis_document/201409/act22of1994.pdf"}
+  - {titre: "Transformation of Certain Rural Areas Act n° 94 de 1998 — gov.za", url: "https://www.gov.za/sites/default/files/gcis_document/201409/a94-98.pdf"}
+  - {titre: "Communal Property Associations Act n° 28 de 1996 — gov.za", url: "https://www.gov.za/documents/communal-property-associations-act"}
+  - {titre: "SANParks — revendications foncières et conseils de gestion conjoints", url: "https://www.sanparks.org/socio-economic-transformation/land-claims"}
+  - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones, mission en Afrique du Sud, E/CN.4/2006/78/Add.2 (2005)", url: "https://documents.un.org/api/symbol/access?s=E/CN.4/2006/78/Add.2&l=en&t=pdf"}
+  - {titre: "Ministère de l'Agriculture, de la Réforme agraire et du Développement rural — présentation TRANCRAA, 30 octobre 2024 (PMG)", url: "https://pmg.org.za/files/241030_TRANCRAA_Presentation.pptx"}
+  - {titre: "Richtersveld Community & Alexkor Deed of Settlement: progress report — PMG, 27 février 2019", url: "https://pmg.org.za/committee-meeting/27996/"}
+  - {titre: "Alexkor & Richtersveld Community Deed of Settlement progress report — PMG, 8 juin 2022", url: "https://pmg.org.za/committee-meeting/35181/"}
+  - {titre: "Progress on Deed of Settlement between Alexkor and Richtersveld Community — PMG, 22 juin 2023", url: "https://pmg.org.za/committee-meeting/37277/"}
+  - {titre: "Richtersveld Community Constitutional Court Ruling vs Deed of Settlement — PMG, 28 octobre 2025", url: "https://pmg.org.za/committee-meeting/41893/"}
+  - {titre: "Implementation of Deed of Settlement and support to the Richtersveld Sida Hub CPA — PMG, 2 décembre 2025", url: "https://pmg.org.za/committee-meeting/42189/"}
+  - {titre: "Richtersveld Cultural and Botanical Landscape — Centre du patrimoine mondial de l'UNESCO", url: "https://whc.unesco.org/en/list/1265"}
+  - {titre: "Richtersveld — Wikipedia", url: "https://en.wikipedia.org/wiki/Richtersveld"}
+  - {titre: "|Ai-|Ais/Richtersveld Transfrontier Park — Wikipedia", url: "https://en.wikipedia.org/wiki/Richtersveld_National_Park"}

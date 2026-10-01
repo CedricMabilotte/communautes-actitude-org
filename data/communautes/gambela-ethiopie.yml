@@ -1,0 +1,56 @@
+uid: "gambela-ethiopie"
+nom: "Peuples de Gambela"
+endonyme: ""
+territoire: "État régional des peuples de Gambela"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [7.9, 34.6]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 307096, annee: 2007, perimetre: "population de l'État régional de Gambela, toutes appartenances (recensement de 2007) ; selon Human Rights Watch, les Nuer en représentaient 46 %, les Anywaa 21 %, les Majang 7 %, les Opo 3 % et les Komo 3 %, les habitants venus des hautes terres 20 %", source: "https://en.wikipedia.org/wiki/Gambela_Region"}
+lieux: {valeur: 3, unite: "zones de nationalité (Anywaa, Nuer, Majang), auxquelles s'ajoute un woreda (district) spécial", annee: 2007, source: "https://en.wikipedia.org/wiki/Gambela_Region"}
+surface_km2: {valeur: 29783, annee: 2007, perimetre: "superficie de l'État régional de Gambela estimée par l'Agence centrale de statistique (29 782,82 km²)", source: "https://en.wikipedia.org/wiki/Gambela_Region"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Anywaa (Anuak), Nuer, Majang, Opo et Komo vivent dans les basses terres de l'ouest de l'Éthiopie, à la frontière du Soudan du Sud.
+  L'article 47 de la Constitution fédérale de 1994 fait de « l'État des peuples de Gambela » l'un des États membres de la fédération.
+  Le préambule de la Constitution régionale révisée de 2003 désigne ces cinq nationalités comme titulaires du pouvoir régional, à l'exclusion des autres groupes, soit environ un quart de la population régionale selon Mohammed Dejen Assen (2023).
+  La région est divisée en zones de nationalité, dont trois portent le nom des Anywaa, des Nuer et des Majang.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 5, 39, 40, 43, 47, 52, 61, 78 et 97", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {instrument: "Constitution révisée de l'État régional des peuples de Gambela, préambule", nature: "constitution", annee: 2003, source: "https://hrp.law.harvard.edu/wp-content/uploads/2023/02/pp.-233-266.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Art. 39(3) de la Constitution fédérale : droit de chaque nation, nationalité et peuple d'établir ses institutions de gouvernement sur son territoire ; art. 47(1) : « l'État des peuples de Gambela » est un État membre ; préambule de la Constitution régionale de 2003 : les cinq nationalités sont titulaires du pouvoir régional.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Art. 52(2)(b) de la Constitution fédérale : chaque État adopte sa constitution et ses lois ; la région a révisé sa constitution en 2003.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  justice_propre: {valeur: "partiel", note: "Art. 78(5) de la Constitution fédérale : les Conseils des États peuvent créer ou reconnaître des tribunaux religieux et coutumiers ; aucune source consultée sur l'usage de cette faculté à Gambela.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  terres: {valeur: "partiel", note: "Art. 40(3) de la Constitution fédérale : la propriété de la terre et des ressources naturelles appartient exclusivement à l'État et aux peuples d'Éthiopie ; art. 52(2)(d) : les États les administrent selon la loi fédérale.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "partiel", note: "Art. 52(2)(d) de la Constitution fédérale : les États administrent la terre et les ressources naturelles conformément aux lois fédérales.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  consentement: {valeur: "partiel", note: "Art. 43(2) de la Constitution fédérale : droit d'être consulté sur les politiques et projets qui touchent sa communauté ; aucune obligation de consentement.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  langue: {valeur: "partiel", note: "Art. 39(2) de la Constitution fédérale : droit de parler, écrire et développer sa langue ; art. 5(3) : chaque État fixe par la loi sa langue de travail. La langue de travail de la région n'a pas été vérifiée sur un texte régional.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Art. 97 de la Constitution fédérale : les États lèvent l'impôt sur le revenu des salariés de l'État et des entreprises privées de leur territoire.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  representation: {valeur: "partiel", note: "Art. 61(2) de la Constitution fédérale : chaque nation, nationalité et peuple a au moins un membre à la Chambre de la Fédération (chambre haute) ; le nombre de sièges détenus par chacune des cinq nationalités n'a pas été vérifié.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) de la Constitution fédérale : droit inconditionnel à l'autodétermination, y compris la sécession (séparation d'avec l'État), par vote aux deux tiers du conseil législatif de la nationalité puis référendum organisé par le gouvernement fédéral. Jamais exercé.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "contestee", note: "Human Rights Watch documente en 2012 un programme de regroupement villageois (« villagisation ») lancé en 2010, visant 45 000 ménages sur trois ans, mené selon les habitants interrogés sans consultation réelle et sous la contrainte, alors que 42 % de la superficie régionale était proposée ou attribuée à des investisseurs.", source: "https://www.hrw.org/report/2012/01/16/waiting-here-death/forced-displacement-and-villagization-ethiopias-gambella-region"}
+chronologie:
+  - {annee: 1992, evenement: "Création de la région administrative de Gambela (alors « région 12 »)."}
+  - {annee: 1994, evenement: "Adoption de la Constitution fédérale : « l'État des peuples de Gambela » figure parmi les États membres (art. 47)."}
+  - {annee: 2003, evenement: "Constitution régionale révisée : son préambule désigne les Anywaa, Nuer, Majang, Opo et Komo comme nationalités titulaires de la région."}
+  - {annee: 2003, evenement: "En décembre, environ 400 civils anywaa sont tués par les forces de sécurité éthiopiennes, selon Minority Rights Group."}
+  - {annee: 2006, evenement: "La Commission africaine des droits de l'homme et des peuples déclare irrecevable la communication 299/05 (Anuak Justice Council c. Éthiopie), faute d'épuisement des voies de recours internes."}
+  - {annee: 2010, evenement: "Début du programme de regroupement villageois dans la région (Human Rights Watch, 2012)."}
+fiabilite:
+  verifie: ["Art. 5(3), 39, 40(3), 43(2), 47(1), 52(2), 61(2), 78(5) et 97 de la Constitution fédérale (Constitute Project).", "Préambule de la Constitution régionale de 2003 cité par Mohammed Dejen Assen (Harvard, 2023).", "Chiffres du programme de regroupement villageois et répartition de la population par appartenance (Human Rights Watch, 2012).", "Irrecevabilité de la communication 299/05 (site de la Commission africaine)."]
+  non_confirme: ["Texte de la Constitution régionale de 2003 non consulté directement ; la citation publiée écrit « Omo » là où l'inventaire indique « Komo ».", "Découpage administratif actuel (zones, woredas spéciaux) : chiffre de 2007 tiré d'une encyclopédie.", "Superficie : estimation de 2007 reprise par une encyclopédie, non vérifiée sur la publication de l'Agence centrale de statistique.", "Langues officielles de la région : non vérifiées sur un texte régional.", "Sièges détenus par chaque nationalité à la Chambre de la Fédération et au Conseil régional.", "Reconnaissance par l'État des tribunaux coutumiers anywaa ou nuer.", "Bilan de décembre 2003 : chiffre de Minority Rights Group, non vérifié sur une source officielle."]
+sources:
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "Mohammed Dejen Assen — Ethnic Federalism as a New State-Building Approach in Post-1991 Ethiopia, Harvard (2023)", url: "https://hrp.law.harvard.edu/wp-content/uploads/2023/02/pp.-233-266.pdf"}
+  - {titre: "Human Rights Watch — Waiting Here for Death: Forced Displacement and Villagization in Ethiopia's Gambella Region (2012)", url: "https://www.hrw.org/report/2012/01/16/waiting-here-death/forced-displacement-and-villagization-ethiopias-gambella-region"}
+  - {titre: "Minority Rights Group — Anuak", url: "https://minorityrights.org/communities/anuak/"}
+  - {titre: "Commission africaine — Communication 299/05, Anuak Justice Council c. Éthiopie (2006)", url: "https://achpr.au.int/en/decisions-communications/anuak-justice-council-ethiopia-29905"}
+  - {titre: "IWGIA — Ethiopia", url: "https://www.iwgia.org/en/ethiopia"}
+  - {titre: "Gambela Region — Wikipedia", url: "https://en.wikipedia.org/wiki/Gambela_Region"}

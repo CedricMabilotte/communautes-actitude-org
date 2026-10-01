@@ -1,0 +1,59 @@
+uid: "fiducies-communautaires-cbnrm-botswana"
+nom: "Fiducies communautaires du Botswana"
+endonyme: ""
+territoire: "Zones de chasse contrôlée (Controlled Hunting Areas) situées dans les zones de gestion de la faune (Wildlife Management Areas) des terres tribales et des terres de l'État, surtout dans les districts du Nord-Ouest (Ngamiland) et de Chobe"
+etats: ["Botswana"]
+region: "afrique"
+coord: [-20.0, 23.5]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 283123, annee: 2012, perimetre: "population des 123 villages rattachés aux 45 organisations communautaires étudiées par Mbaiwa (2013) ; ne couvre pas l'ensemble des 105 fiducies enregistrées", source: "https://lawexplores.com/community-based-natural-resource-management-in-botswana/"}
+lieux: {valeur: 105, unite: "organisations communautaires (fiducies) enregistrées", annee: 2012, source: "https://lawexplores.com/community-based-natural-resource-management-in-botswana/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 123, annee: 2012, perimetre: "villages rattachés aux 45 organisations communautaires étudiées par Mbaiwa (2013) ; en 2006, 150 villages de dix districts selon Schuster (2007), cité au même chapitre", source: "https://lawexplores.com/community-based-natural-resource-management-in-botswana/"}
+resume: >-
+  Fiche agrégée : elle couvre les communautés villageoises du Botswana qui ont constitué une fiducie (trust, entité qui gère des biens pour le compte de ses membres) ou une autre organisation communautaire pour gérer les ressources naturelles de leur zone. La politique de gestion communautaire des ressources naturelles (CBNRM), document gouvernemental n° 2 de 2007, permet à ces organisations d'obtenir de l'autorité foncière un bail de 15 ans sur une zone de chasse contrôlée et de sous-louer leurs droits d'usage commercial à des opérateurs privés. La première fiducie (Chobe Enclave Conservation Trust) date de 1993 ; 105 organisations étaient enregistrées en 2012. Les zones de gestion de la faune sur terres tribales et terres de l'État couvrent 22 % du territoire selon la politique de 2007. La base est une politique gouvernementale adoptée par le Parlement, mise en œuvre par des baux ; la fiche n'a pas trouvé de loi propre à ces organisations.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Cinquième rapport national du Botswana à la Convention sur la diversité biologique (2015) : il décrit les revenus des organisations communautaires de 1997 à 2012, relève leur baisse depuis la mise en œuvre de la politique CBNRM de 2007 et donne les revenus de cinq organisations du district de Ngamiland (Sankuyo, Khwai, Mababe, OCT, OKMCT) de 2000 à 2012", annee: 2015, source: "https://www.cbd.int/doc/world/bw/bw-nr-05-en.pdf"}
+base_nationale:
+  - {instrument: "Wildlife Conservation and National Parks Act (loi sur la conservation de la faune et les parcs nationaux), chap. 38:01, loi n° 28 de 1992, art. 15 (zones de gestion de la faune), 16 (zones de chasse contrôlée) et 32 (quotas par zone)", nature: "loi", annee: 1992, source: "https://faolex.fao.org/docs/pdf/bot4728.pdf"}
+  - {instrument: "Community Based Natural Resources Management Policy (politique de gestion communautaire des ressources naturelles), Government Paper No. 2 of 2007, ministère de l'Environnement, de la Faune et du Tourisme", nature: "loi", annee: 2007, source: "https://faolex.fao.org/docs/pdf/bot196849.pdf"}
+  - {instrument: "National Environmental Fund Order (arrêté sur le Fonds national pour l'environnement), S.I. 70 de 2010, modifié par S.I. 11 de 2018, par. 4 (2) (b) et 7 (b)", nature: "loi", annee: 2010, source: "https://faolex.fao.org/docs/pdf/BOT197178.pdf"}
+  - {instrument: "Tribal Land Act (loi sur les terres tribales) n° 1 de 2018, art. 4 (dévolution des terres aux conseils fonciers) et 27 (concession par bail)", nature: "loi", annee: 2018, source: "https://faolex.fao.org/docs/pdf/bot204211.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Politique de 2007, définitions et par. 5.1.3.1 et 5.2 : pour exercer les droits d'usage, la communauté constitue une entité juridique représentative et responsable (fiducie, coopérative ou association) qui gère les ressources et les bénéfices pour le bien commun et doit fonctionner de façon démocratique ; par. 10.1 : le gouvernement se réserve le droit d'intervenir en cas d'activités illégales ou irrégulières dans la gestion des bénéfices et des biens.", source: "https://faolex.fao.org/docs/pdf/bot196849.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Politique de 2007, par. 5.1.1 : la communauté peut obtenir de l'autorité foncière un bail de 15 ans (Community Natural Resource Management Lease) pour l'usage commercial des ressources, soumis à un plan d'utilisation des terres et à un loyer annuel. Les terres tribales restent dévolues aux conseils fonciers « en fiducie » au profit des citoyens du Botswana (art. 4 de la loi de 2018, entrée en vigueur sur avis), qui concèdent des baux (art. 27) ; la politique précise que les droits d'usage ne sont pas des droits de propriété.", source: "https://faolex.fao.org/docs/pdf/bot196849.pdf"}
+  ressources: {valeur: "partiel", note: "Politique de 2007, par. 5.1.2 : la communauté peut sous-louer ou céder ses droits d'usage commercial à des partenaires avec l'accord écrit de l'autorité foncière ; par. 6.4 : le gouvernement fixe les quotas de prélèvement ; par. 10.3 : la fiducie garde 35 % du produit de la vente des concessions et des quotas de chasse, 65 % vont au Fonds national pour l'environnement, que l'arrêté de 2010 (par. 7 (b)) alimente par les recettes de la vente des quotas de chasse et des concessions des communautés. La loi de 1992 (art. 32 (2)) confie au directeur de la faune la fixation des quotas par zone de chasse contrôlée.", source: "https://faolex.fao.org/docs/pdf/bot196849.pdf"}
+  consentement: {valeur: "partiel", note: "Politique de 2007, par. 9.3 : la communauté de la zone où une concession est mise en adjudication est consultée sur le choix du partenaire ; la décision revient au comité technique consultatif de district, sous réserve de l'approbation écrite de l'autorité foncière.", source: "https://faolex.fao.org/docs/pdf/bot196849.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon Mbaiwa (2015), les fiducies du nord sous-louent leurs zones à des sociétés de safari et leur ont ainsi transféré l'essentiel des droits d'usage et de gestion ; les partenariats n'ont pas fait des communautés les gestionnaires des entreprises touristiques, et la vente des quotas de chasse a cessé avec l'interdiction de la chasse de 2014. Selon IWGIA (2025), certaines fiducies peuvent chasser un nombre limité d'animaux avec leurs partenaires, surtout des sociétés de chasse. Le cinquième rapport national à la CDB (2015), source gouvernementale, indique une baisse des revenus des organisations communautaires après 2008 et une concentration de 68 % des revenus sur cinq organisations proches des parcs (moyenne 1997-2012).", source: "https://lawexplores.com/community-based-natural-resource-management-in-botswana/"}
+chronologie:
+  - {annee: 1986, evenement: "Politique de conservation de la faune : les zones réservées des plans d'utilisation des terres deviennent des zones de gestion de la faune."}
+  - {annee: 1992, evenement: "Loi n° 28 de 1992 sur la conservation de la faune et les parcs nationaux (entrée en vigueur le 11 décembre 1992)."}
+  - {annee: 1993, evenement: "Premier projet pilote : Chobe Enclave Conservation Trust."}
+  - {annee: 1995, evenement: "Deuxième projet : Sankoyo Tshwaragano Management Trust."}
+  - {annee: 2007, evenement: "Politique de gestion communautaire des ressources naturelles (document gouvernemental n° 2 de 2007), adoptée par le Parlement."}
+  - {annee: 2009, evenement: "105 organisations communautaires enregistrées (83 en 2003, 96 en 2006)."}
+  - {annee: 2010, evenement: "Arrêté du 6 avril 2010 créant le Fonds national pour l'environnement, alimenté par la vente des quotas de chasse et des concessions des communautés."}
+  - {annee: 2014, evenement: "Adoption d'une interdiction de la chasse."}
+  - {annee: 2018, evenement: "Loi n° 1 de 2018 sur les terres tribales (sanction le 19 février 2018, entrée en vigueur sur avis au Journal officiel)."}
+fiabilite:
+  verifie: ["Texte de la politique CBNRM de 2007 : bail de 15 ans, sous-location, partage 35 % / 65 %, consultation sur le partenaire (copie FAOLEX).", "Art. 15, 16 et 32 de la loi de 1992 et date d'entrée en vigueur (copie FAOLEX).", "Par. 4 et 7 de l'arrêté sur le Fonds national pour l'environnement de 2010 (copie FAOLEX).", "Art. 4 et 27 de la loi sur les terres tribales de 2018 (copie FAOLEX).", "105 organisations communautaires enregistrées en 2009 et 2012 ; 45 organisations, 123 villages et 283 123 personnes en 2012 (chapitre de Mbaiwa reproduit sur lawexplores.com).", "Revenus des organisations communautaires 1997-2012 (cinquième rapport national à la CDB, 2015).", "Sous-location des zones aux sociétés de safari, adoption de la politique par le Parlement en 2007 et interdiction de la chasse en 2014 (chapitre de Mbaiwa).", "Chasse limitée de certaines fiducies avec des partenaires et saison 2024-2025 avec 400 licences d'éléphant (IWGIA, 2025)."]
+  non_confirme: ["Levée de l'interdiction de la chasse en 2019 : non vérifiée sur une source ouverte ; IWGIA (2025) atteste une saison de chasse 2024-2025 avec 400 licences d'éléphant.", "Date d'entrée en vigueur de la loi de 2018 sur les terres tribales et sort des baux accordés sous la loi précédente : non vérifiés.", "Application actuelle du partage 35 % / 65 % : le ministre peut faire varier ces taux (par. 10.3) ; pratique non vérifiée.", "Surface louée aux fiducies : aucun total trouvé ; les zones de gestion de la faune désignées en 2004 couvrent 66 750 km² (11,35 % du territoire) et 22 % avec les zones proposées, selon Mbaiwa.", "Liste officielle des fiducies et de leurs zones : non trouvée, d'où l'absence de tableau.", "Nombre de fiducies en activité après 2012 : non trouvé."]
+sources:
+  - {titre: "Community Based Natural Resources Management Policy, Government Paper No. 2 of 2007 (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/bot196849.pdf"}
+  - {titre: "Wildlife Conservation and National Parks Act, chap. 38:01 (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/bot4728.pdf"}
+  - {titre: "National Environmental Fund Order, S.I. 70 de 2010 (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/BOT197178.pdf"}
+  - {titre: "Tribal Land Act n° 1 de 2018 (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/bot204211.pdf"}
+  - {titre: "Cinquième rapport national du Botswana à la Convention sur la diversité biologique (2015)", url: "https://www.cbd.int/doc/world/bw/bw-nr-05-en.pdf"}
+  - {titre: "Mbaiwa (2015) — Community-Based Natural Resource Management in Botswana (chapitre d'ouvrage reproduit sur Law Explorer)", url: "https://lawexplores.com/community-based-natural-resource-management-in-botswana/"}
+  - {titre: "IWGIA — The Indigenous World 2025 : Botswana", url: "https://iwgia.org/en/botswana/5619-iw-2025-botswana.html"}

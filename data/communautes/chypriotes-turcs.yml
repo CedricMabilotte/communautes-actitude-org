@@ -1,0 +1,61 @@
+uid: "chypriotes-turcs"
+nom: "Communauté chypriote turque"
+endonyme: "Kıbrıslı Türkler"
+territoire: "Chypre (ensemble de l'île ; la majorité de la communauté vit dans la partie nord, hors du contrôle du gouvernement de la République)"
+etats: ["Chypre"]
+region: "asie"
+coord: [35.1, 33.4]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 5, unite: "municipalités turques séparées prévues dans les cinq principales villes (Constitution de 1960, art. 173)", annee: 1960, source: "https://www.constituteproject.org/constitution/Cyprus_2013"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution de Chypre de 1960 fait de la communauté turque l'une des deux communautés constitutives de la République (art. 2), avec un vice-président turc (art. 1), 30 % des sièges de la Chambre des représentants (art. 62) et une Chambre communale turque compétente pour la religion, l'éducation, la culture, le statut personnel et des impôts communautaires (art. 86 à 89). Les membres chypriotes turcs se retirent des institutions communes en décembre 1963 ; les 24 sièges qui leur reviennent sur 80 sont vacants depuis 1964. La Chambre communale turque n'a jamais été dissoute mais n'exerce aucun pouvoir dans la République depuis 1974. Le turc reste langue officielle (art. 3).
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "mission_onu", detail: "Force des Nations unies chargée du maintien de la paix à Chypre (UNFICYP), créée par la résolution 186 du Conseil de sécurité du 4 mars 1964 pour prévenir la reprise des combats entre les communautés chypriote grecque et chypriote turque ; depuis 1974, elle surveille les lignes de cessez-le-feu, tient une zone tampon et appuie la mission de bons offices du Secrétaire général.", annee: 1964, source: "https://peacekeeping.un.org/en/mission/unficyp"}
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, examen du vingt-cinquième rapport périodique de Chypre (CERD/C/CYP/25), 17 avril 2026 : la délégation présente les Chypriotes turcs comme l'une des deux communautés de la Constitution de 1960 et non comme une minorité ethnique ; un expert du Comité relève que l'usage du turc, langue officielle, reste très limité dans certains domaines.", annee: 2026, source: "https://www.ohchr.org/en/meeting-summaries/2026/04/experts-committee-elimination-racial-discrimination-commend-cyprus"}
+base_nationale:
+  - {instrument: "Constitution de la République de Chypre, art. 1, 2, 3, 62, 86 à 111 et 173", nature: "constitution", annee: 1960, source: "https://www.constituteproject.org/constitution/Cyprus_2013"}
+  - {instrument: "Loi n° 124 de 1985 portant le nombre de représentants à 80, dont 24 élus par la communauté turque (art. 62, al. 2)", nature: "loi", annee: 1985, source: "https://en.wikipedia.org/wiki/House_of_Representatives_(Cyprus)"}
+droits:
+  autogouvernement: {valeur: "conteste", note: "Chambre communale turque élue par la communauté (art. 86) et vice-président turc (art. 1) ; la Chambre n'a jamais été dissoute mais n'exerce plus de pouvoir dans la République depuis 1974, et la vice-présidence est vacante depuis 1963-1964.", source: "https://en.wikipedia.org/wiki/Communal_Chambers"}
+  pouvoir_normatif: {valeur: "conteste", note: "La Chambre communale exerce le pouvoir législatif sur les matières religieuses, éducatives, culturelles, le statut personnel et les institutions propres à la communauté (art. 87) ; ce pouvoir n'est plus exercé dans la République depuis 1974.", source: "https://www.constituteproject.org/constitution/Cyprus_2013"}
+  justice_propre: {valeur: "conteste", note: "La Chambre communale fixe la composition et les degrés des tribunaux qui jugent les litiges civils de statut personnel et de matière religieuse (art. 87, al. 1, d) ; compétence non exercée dans la République depuis 1974.", source: "https://www.constituteproject.org/constitution/Cyprus_2013"}
+  terres: {valeur: "conteste", note: "Les biens vakf (fondations pieuses musulmanes, y compris les biens des mosquées) sont régis par le droit des vakfs et par les lois de la Chambre communale turque (art. 110) ; cette Chambre n'exerce plus de pouvoir dans la République.", source: "https://www.constituteproject.org/constitution/Cyprus_2013"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Le turc est langue officielle avec le grec et les actes législatifs, exécutifs et administratifs sont rédigés dans les deux langues (art. 3) ; devant le CERD en avril 2026, un expert du Comité relève que son usage reste très limité dans certains domaines.", source: "https://www.ohchr.org/en/meeting-summaries/2026/04/experts-committee-elimination-racial-discrimination-commend-cyprus"}
+  education: {valeur: "conteste", note: "Les matières éducatives, culturelles et d'enseignement relèvent de la Chambre communale (art. 87) et la communauté peut recevoir des subventions et du personnel enseignant de Turquie (art. 108) ; ces compétences ne sont plus exercées dans la République, où l'État emploie des enseignants chypriotes turcs pour le turc, l'histoire et la religion musulmane (délégation au CERD, 2026).", source: "https://www.ohchr.org/en/meeting-summaries/2026/04/experts-committee-elimination-racial-discrimination-commend-cyprus"}
+  fiscalite: {valeur: "conteste", note: "La Chambre communale peut imposer des impôts et taxes personnels aux membres de la communauté pour ses besoins et ceux de ses institutions (art. 87, al. 1, f, et art. 88) ; compétence non exercée dans la République depuis 1974.", source: "https://www.constituteproject.org/constitution/Cyprus_2013"}
+  representation: {valeur: "conteste", note: "30 % des représentants sont élus par la communauté turque (art. 62, al. 2), soit 24 sièges sur 80 depuis la loi n° 124 de 1985 ; ces sièges sont vacants depuis 1964.", source: "https://en.wikipedia.org/wiki/House_of_Representatives_(Cyprus)"}
+  statut_personnel: {valeur: "conteste", note: "La Constitution rattache à la communauté turque les citoyens d'origine turque dont la langue maternelle est le turc, ou qui partagent les traditions culturelles turques, ou qui sont musulmans (art. 2) et confie le statut personnel à la Chambre communale (art. 87, al. 1, c) ; compétence non exercée dans la République depuis 1974.", source: "https://www.constituteproject.org/constitution/Cyprus_2013"}
+  autodetermination_externe: {valeur: "non_applicable", note: "La Constitution exclut l'union de Chypre avec un autre État et l'indépendance séparatiste (art. 185).", source: "https://www.constituteproject.org/constitution/Cyprus_2013"}
+effectivite: {valeur: "contestee", note: "Les 24 sièges de la communauté turque à la Chambre des représentants sont vacants depuis 1964 (Minority Rights Group). Dans l'arrêt Aziz c. Chypre du 22 juin 2004, la Cour européenne des droits de l'homme constate la violation du droit de vote d'un Chypriote turc résidant dans la partie contrôlée par le gouvernement ; la loi 2(I) de 2006 permet depuis aux membres de la communauté turque qui y résident de voter et d'être élus, hors des sièges réservés, et 270 d'entre eux votent aux législatives de mai 2006 (résolution CM/ResDH(2007)77 du Comité des ministres du Conseil de l'Europe).", source: "https://hudoc.echr.coe.int/eng?i=001-81511"}
+chronologie:
+  - {annee: 1960, evenement: "Entrée en vigueur de la Constitution ; premières élections aux Chambres communales le 7 août."}
+  - {annee: 1963, evenement: "Les représentants chypriotes turcs se retirent des institutions communes (décembre)."}
+  - {annee: 1964, evenement: "Résolution 186 du Conseil de sécurité créant l'UNFICYP (4 mars) ; les sièges chypriotes turcs de la Chambre des représentants restent vacants."}
+  - {annee: 1965, evenement: "Une loi supprime la Chambre communale grecque ; ses compétences passent à la Chambre des représentants et à un ministère de l'Éducation."}
+  - {annee: 1974, evenement: "Division de l'île ; la Chambre communale turque n'exerce plus de pouvoir dans la République."}
+  - {annee: 1985, evenement: "Loi n° 124 : 80 sièges, dont 24 réservés à la communauté turque."}
+  - {annee: 2004, evenement: "Référendum sur le plan Annan : 64,91 % de oui chez les Chypriotes turcs, 75,83 % de non chez les Chypriotes grecs."}
+  - {annee: 2006, evenement: "Loi 2(I) de 2006 : les membres de la communauté turque résidant dans la partie contrôlée par le gouvernement peuvent voter et être élus, à la suite de l'arrêt Aziz c. Chypre (2004)."}
+  - {annee: 2026, evenement: "Examen du rapport de Chypre par le CERD (avril)."}
+fiabilite:
+  verifie: ["Constitution de 1960, art. 1, 2, 3, 62, 86 à 89, 108 à 111, 173 et 185 (Constitute Project).", "Création de l'UNFICYP en 1964 et appui aux bons offices (site des opérations de maintien de la paix).", "80 sièges, dont 24 pour la communauté turque, vacants depuis 1964 (loi n° 124 de 1985, citée par Wikipédia).", "Chambre communale turque jamais dissoute, sans pouvoir dans la République depuis 1974 (Wikipédia).", "Déclarations de la délégation et d'un expert au CERD, 17 avril 2026 (résumé du HCDH).", "Arrêt Aziz c. Chypre du 22 juin 2004 et loi 2(I) de 2006 (HUDOC, résolution CM/ResDH(2007)77).", "Résolution 186 du Conseil de sécurité du 4 mars 1964 (texte onusien).", "Résultats du référendum du 24 avril 2004 (Wikipédia)."]
+  non_confirme: ["Population : la délégation au CERD indique environ 18 % de la population, Minority Rights Group 142 000 sans année ; aucun chiffre officiel daté trouvé.", "Texte de la loi n° 124 de 1985 non consulté sur une source officielle (site du Parlement inaccessible).", "Observations finales du CERD sur le rapport CERD/C/CYP/25 non consultées.", "Type : l'État présente les Chypriotes turcs comme communauté constitutive et non comme minorité ; le classement en minorité nationale suit la grille du cadre.", "Situation actuelle des biens vakf dans la partie contrôlée par le gouvernement non vérifiée.", "Minority Rights Group date de 2005 l'arrêt de la Cour européenne sur le droit de vote ; la base HUDOC donne le 22 juin 2004."]
+sources:
+  - {titre: "Constitution de Chypre (1960, rév. 2013) — Constitute Project", url: "https://www.constituteproject.org/constitution/Cyprus_2013"}
+  - {titre: "UNFICYP — Opérations de maintien de la paix des Nations unies", url: "https://peacekeeping.un.org/en/mission/unficyp"}
+  - {titre: "Résolution 186 (1964) du Conseil de sécurité — Nations unies", url: "https://undocs.org/S/RES/186(1964)"}
+  - {titre: "Experts of the Committee on the Elimination of Racial Discrimination Commend Cyprus — HCDH, 17 avril 2026", url: "https://www.ohchr.org/en/meeting-summaries/2026/04/experts-committee-elimination-racial-discrimination-commend-cyprus"}
+  - {titre: "Cyprus — Minority Rights Group", url: "https://minorityrights.org/country/cyprus/"}
+  - {titre: "Aziz c. Chypre, arrêt du 22 juin 2004 — HUDOC", url: "https://hudoc.echr.coe.int/fre?i=001-66399"}
+  - {titre: "Résolution CM/ResDH(2007)77, exécution de l'arrêt Aziz c. Chypre — HUDOC", url: "https://hudoc.echr.coe.int/eng?i=001-81511"}
+  - {titre: "2004 Cypriot Annan Plan referendums — Wikipedia", url: "https://en.wikipedia.org/wiki/2004_Cypriot_Annan_Plan_referendums"}
+  - {titre: "Communal Chambers — Wikipedia", url: "https://en.wikipedia.org/wiki/Communal_Chambers"}
+  - {titre: "House of Representatives (Cyprus) — Wikipedia", url: "https://en.wikipedia.org/wiki/House_of_Representatives_(Cyprus)"}

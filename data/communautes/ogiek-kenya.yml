@@ -17,6 +17,7 @@ resume: >-
   Le 26 mai 2017, la Cour africaine des droits de l'homme et des peuples a jugé que leur expulsion de la forêt de Mau violait sept articles de la Charte africaine.
   Le 23 juin 2022, elle a ordonné au Kenya de délimiter leurs terres ancestrales et de leur délivrer un titre collectif, de les reconnaître comme peuple autochtone et de créer un fonds de développement communautaire.
   En droit kenyan, ils relèvent des dispositions générales de la Constitution de 2010 sur les terres communautaires et les communautés marginalisées.
+  Les régimes généraux sont décrits dans les fiches « Terres communautaires enregistrées du Kenya » et « Forêts communautaires du Kenya ».
 reconnaissance_regionale:
   - {mecanisme: "cour_africaine", detail: "Arrêt sur le fond du 26 mai 2017 (requête 006/2012, Commission africaine c. Kenya) : violation des art. 1, 2, 8, 14, 17(2)-(3), 21 et 22 de la Charte africaine.", annee: 2017, source: "https://www.african-court.org/cpmt/storage/app/uploads/public/62b/aba/fd8/62babafd8d467689318212.pdf"}
   - {mecanisme: "cour_africaine", detail: "Arrêt sur les réparations du 23 juin 2022 : identifier, délimiter, borner et titrer les terres ancestrales ogiek sous deux ans (par. 116) ; reconnaissance comme peuple autochtone sous douze mois (par. 126) ; consultation et consentement libre, préalable et éclairé (par. 144) ; fonds de développement communautaire (par. 155).", annee: 2022, source: "https://www.african-court.org/cpmt/storage/app/uploads/public/62b/aba/fd8/62babafd8d467689318212.pdf"}

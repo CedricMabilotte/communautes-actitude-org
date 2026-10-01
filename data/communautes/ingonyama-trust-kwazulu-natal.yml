@@ -1,0 +1,65 @@
+uid: "ingonyama-trust-kwazulu-natal"
+nom: "Terres de l'Ingonyama Trust (KwaZulu-Natal)"
+endonyme: ""
+territoire: "Terres de l'ancien KwaZulu détenues par l'Ingonyama Trust, province du KwaZulu-Natal"
+etats: ["Afrique du Sud"]
+region: "afrique"
+coord: [-28.3, 31.2]
+type: "peuple_tribal"
+base: "territoriale"
+types_secondaires: ["communaute_locale"]
+population: {valeur: 5200000, annee: 2021, perimetre: "résidents des terres de l'Ingonyama Trust, selon le Legal Resources Centre (le site de la fiducie indique plus de 4 millions de bénéficiaires)", source: "https://lrc.org.za/11-june-2021-lrc-and-casac-welcome-landmark-ruling-declaring-actions-of-the-ingonyama-trust-unlawful-and-in-violation-of-the-constitution/"}
+lieux: {valeur: 286, unite: "autorités traditionnelles (Traditional Authorities)", annee: 2026, source: "https://ingonyamatrust.org.za/who-we-are/"}
+surface_km2: {valeur: 28000, annee: 2021, perimetre: "terres détenues par la fiducie (environ 2,8 millions d'hectares, soit environ 30 % des terres de la province selon le jugement du 11 juin 2021)", source: "https://www.saflii.org/za/cases/ZAKZPHC/2021/42.html"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi KwaZulu-Natal Ingonyama Trust Act n° 3KZ de 1994, adoptée par l'assemblée législative du KwaZulu et sanctionnée le 25 avril 1994, deux jours avant les premières élections au suffrage universel, a transféré les terres de l'ancien bantoustan (homeland) du KwaZulu à une fiducie (trust, entité qui détient un bien pour le compte d'autrui) dont le roi zoulou (Ingonyama) est le fiduciaire. La fiducie doit être administrée au profit et pour le bien-être matériel et social (« for the benefit, material welfare and social well-being ») des communautés énumérées en annexe de la loi et des résidents de leurs districts (art. 2 (2)). Depuis la loi modificative n° 9 de 1997, un conseil d'administration, l'Ingonyama Trust Board, présidé par le roi ou son représentant, gère ces terres. Le 11 juin 2021, la Haute Cour de Pietermaritzburg a jugé que les résidents titulaires de droits coutumiers sont les véritables propriétaires bénéficiaires et a annulé les baux résidentiels conclus depuis 2007.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "KwaZulu-Natal Ingonyama Trust Act n° 3KZ de 1994, art. 2, 2A, 3 et annexe (version consolidée)", nature: "loi", annee: 1994, source: "https://ingonyamatrust.org.za/wp-content/uploads/2026/05/Ingonyama-Trust-Act-as-amended.pdf"}
+  - {instrument: "KwaZulu-Natal Ingonyama Trust Amendment Act n° 9 de 1997 (création du conseil d'administration, statut de loi nationale)", nature: "loi", annee: 1997, source: "https://ingonyamatrust.org.za/wp-content/uploads/2026/05/Ingonyama-Trust-Act-as-amended.pdf"}
+  - {instrument: "Interim Protection of Informal Land Rights Act (loi sur la protection provisoire des droits fonciers informels) n° 31 de 1996, art. 2", nature: "loi", annee: 1996, source: "https://www.gov.za/sites/default/files/gcis_document/201409/act31of1996.pdf"}
+  - {instrument: "Traditional and Khoi-San Leadership Act (loi sur les autorités traditionnelles et khoï-san) n° 3 de 2019, art. 16 et 20", nature: "loi", annee: 2019, source: "https://www.gov.za/sites/default/files/gcis_document/201911/4286528-11act3of2019tradkhoisanleadership.pdf"}
+  - {instrument: "Constitution de la République d'Afrique du Sud (1996), art. 211", nature: "constitution", annee: 1996, source: "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng-12.pdf"}
+  - {instrument: "Council for the Advancement of the South African Constitution and Others v Ingonyama Trust and Others, Haute Cour du KwaZulu-Natal, Pietermaritzburg, affaire 12745/2018P, [2021] ZAKZPHC 42", nature: "jurisprudence", annee: 2021, source: "https://www.saflii.org/za/cases/ZAKZPHC/2021/42.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque communauté traditionnelle reconnue dispose d'un conseil traditionnel (traditional council) qui administre ses affaires selon la coutume (loi n° 3 de 2019, art. 20 (1) (a)) ; 60 % de ses membres sont choisis selon la coutume par le chef qui le préside et 40 % sont élus (art. 16 (2) (c)). La loi n° 3 de 2019 a été déclarée invalide par la Cour constitutionnelle en 2023, avec effet suspendu jusqu'au 29 mai 2027. Le roi ou son représentant préside le conseil d'administration de la fiducie, dont les huit autres membres sont nommés par le ministre (loi n° 3KZ de 1994, art. 2A (3)).", source: "https://www.gov.za/sites/default/files/gcis_document/201911/4286528-11act3of2019tradkhoisanleadership.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil d'administration, que la loi désigne ici sous le nom d'Ingonyama (art. 1), gère les terres « in accordance with Zulu indigenous law or any other applicable law » (loi n° 3KZ de 1994, art. 2 (4)) ; la Constitution reconnaît les autorités traditionnelles qui observent un système de droit coutumier et impose aux tribunaux d'appliquer ce droit lorsqu'il est applicable (art. 211 (2) et (3)). Aucun pouvoir d'édicter des lois.", source: "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng-12.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les terres sont dévolues à l'Ingonyama, fiduciaire, « for and on behalf of the members of the tribes and communities and the residents » (loi n° 3KZ de 1994, art. 3 (1) (a)) ; le titre est au nom du fiduciaire, non des communautés. Le dispositif du jugement du 11 juin 2021 (point 1.1) qualifie les personnes qui vivent sur ces terres de « true and beneficial owners » (propriétaires véritables et bénéficiaires) au regard du droit coutumier zoulou et les protège au titre de la loi n° 31 de 1996.", source: "https://www.saflii.org/za/cases/ZAKZPHC/2021/42.html"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le conseil d'administration, désigné ici sous le nom d'Ingonyama (art. 1), ne peut grever, louer, aliéner ou céder une terre ou un droit réel sans le consentement écrit préalable de l'autorité traditionnelle ou communautaire concernée (loi n° 3KZ de 1994, art. 2 (5)). Nul ne peut être privé d'un droit foncier informel sans son consentement, sous réserve de l'expropriation ; les droits d'un bénéficiaire de fiducie publique sont des droits informels au sens de cette loi (art. 1 (iii) (b)) ; sur une terre communale, la décision revient à la majorité des titulaires de droits réunis à cet effet (loi n° 31 de 1996, art. 2 (1), (2) et (4)).", source: "https://ingonyamatrust.org.za/wp-content/uploads/2026/05/Ingonyama-Trust-Act-as-amended.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "La Haute Cour de Pietermaritzburg a déclaré illicites les baux résidentiels conclus depuis 2007 avec des titulaires de droits coutumiers et ordonné le remboursement des loyers (11 juin 2021) ; la fiducie a retiré son appel le 3 novembre 2023 et a commencé les remboursements en juillet 2025 pour 1 602 résidents, selon le Legal Resources Centre. Le 18 mars 2026, le ministre a mis fin au mandat des membres restants du conseil d'administration et annoncé la désignation d'un administrateur, selon la fiducie, qui conteste la légalité de cette décision.", source: "https://lrc.org.za/lrc-welcomes-start-of-ingonyama-trust-lease-repayments/"}
+chronologie:
+  - {annee: 1994, evenement: "Loi n° 3KZ de l'assemblée législative du KwaZulu : les terres du gouvernement du KwaZulu sont transférées à l'Ingonyama Trust (sanction le 25 avril 1994, effet au 24 avril)."}
+  - {annee: 1996, evenement: "Loi n° 31 sur la protection provisoire des droits fonciers informels."}
+  - {annee: 1997, evenement: "Loi modificative n° 9 : création de l'Ingonyama Trust Board ; la loi devient une loi nationale."}
+  - {annee: 2007, evenement: "Début du programme de conversion des permis d'occupation (Permission to Occupy) en baux résidentiels de 40 ans."}
+  - {annee: 2019, evenement: "Loi n° 3 sur les autorités traditionnelles et khoï-san."}
+  - {annee: 2021, evenement: "Jugement CASAC v Ingonyama Trust (11 juin) : baux annulés, remboursement ordonné."}
+  - {annee: 2022, evenement: "La Cour suprême d'appel rejette la demande d'autorisation d'appel fondée sur la récusation de deux juges (24 août)."}
+  - {annee: 2023, evenement: "La fiducie retire son appel devant la Cour suprême d'appel (3 novembre)."}
+  - {annee: 2025, evenement: "Début des remboursements des loyers (juillet)."}
+  - {annee: 2026, evenement: "Le ministre met fin au mandat des membres restants du conseil d'administration et annonce la désignation d'un administrateur (18 mars)."}
+fiabilite:
+  verifie: ["Art. 2, 2A, 3 et annexe de la loi n° 3KZ de 1994, version consolidée publiée par la fiducie.", "Art. 2 de la loi n° 31 de 1996 (gov.za).", "Art. 16 (2) et 20 (1) de la loi n° 3 de 2019 (Journal officiel n° 42865).", "Art. 211 de la Constitution (justice.gov.za).", "Dispositif (point 1.1 : « true and beneficial owners »), surface (2,8 millions d'hectares, environ 30 % de la province), décision d'avril 2007 de convertir les permis d'occupation en baux (par. 45) et date du jugement [2021] ZAKZPHC 42 (SAFLII).", "Nombre d'autorités traditionnelles (286), plus de 4 millions de bénéficiaires et communiqué du 19 mars 2026 sur la décision du 18 mars (site de la fiducie)."]
+  non_confirme: ["Population : 5,2 millions selon le Legal Resources Centre (2021), plus de 4 millions de bénéficiaires selon la fiducie ; aucune source statistique officielle consultée.", "Surface : la page « Land Administration » de la fiducie indique 2,9 millions d'hectares, contre 2,8 millions dans le jugement et sur les autres pages.", "Aucun document de l'ONU ni d'un mécanisme régional visant nommément la fiducie n'a été trouvé (observations finales du CERD de 2016, du Comité des droits de l'homme de 2016 et du CDESC de 2018 consultées sans mention).", "Loi de 2022 sur les tribunaux traditionnels (Traditional Courts Act) et loi provinciale du KwaZulu-Natal sur les autorités traditionnelles : textes non consultés, d'où « justice propre » non établi.", "Le choix du type « peuple tribal ou coutumier » repose sur l'énumération des communautés en annexe de la loi ; la fiducie bénéficie aussi aux simples résidents des districts.", "Issue de la mise sous administration de mars 2026 : non connue à la date de la fiche."]
+sources:
+  - {titre: "KwaZulu-Natal Ingonyama Trust Act n° 3KZ de 1994, version consolidée — Ingonyama Trust", url: "https://ingonyamatrust.org.za/wp-content/uploads/2026/05/Ingonyama-Trust-Act-as-amended.pdf"}
+  - {titre: "CASAC and Others v Ingonyama Trust and Others [2021] ZAKZPHC 42 — SAFLII", url: "https://www.saflii.org/za/cases/ZAKZPHC/2021/42.html"}
+  - {titre: "Interim Protection of Informal Land Rights Act n° 31 de 1996 — gov.za", url: "https://www.gov.za/sites/default/files/gcis_document/201409/act31of1996.pdf"}
+  - {titre: "Traditional and Khoi-San Leadership Act n° 3 de 2019 — gov.za", url: "https://www.gov.za/sites/default/files/gcis_document/201911/4286528-11act3of2019tradkhoisanleadership.pdf"}
+  - {titre: "Constitution de la République d'Afrique du Sud — ministère de la Justice", url: "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng-12.pdf"}
+  - {titre: "11 June 2021 – LRC and CASAC welcome landmark ruling — Legal Resources Centre", url: "https://lrc.org.za/11-june-2021-lrc-and-casac-welcome-landmark-ruling-declaring-actions-of-the-ingonyama-trust-unlawful-and-in-violation-of-the-constitution/"}
+  - {titre: "24 August 2022 – Supreme Court of Appeal dismisses Ingonyama Trust Board application for leave to appeal — Legal Resources Centre", url: "https://lrc.org.za/24-august-2022-supreme-court-of-appeal-dismisses-ingonyama-trust-board-application-for-leave-to-appeal/"}
+  - {titre: "LRC welcomes start of Ingonyama Trust lease repayments — Legal Resources Centre (2025)", url: "https://lrc.org.za/lrc-welcomes-start-of-ingonyama-trust-lease-repayments/"}
+  - {titre: "Communiqué du ministre de la Gouvernance coopérative et des Affaires traditionnelles sur la prolongation de la suspension de la loi n° 3 de 2019 (30 mai 2025)", url: "https://www.gov.za/news/media-statements/minister-velenkosini-hlabisa-welcomes-constitutional-court-ruling-granting"}
+  - {titre: "Who We Are — Ingonyama Trust", url: "https://ingonyamatrust.org.za/who-we-are/"}
+  - {titre: "Ingonyama Trust warns Minister's decision will disrupt community disbursements and tenure approvals — Ingonyama Trust (19 mars 2026)", url: "https://ingonyamatrust.org.za/news/ingonyama-trust-warns-ministers-decision-will-disrupt-community-disbursements-and-tenure-approvals/"}

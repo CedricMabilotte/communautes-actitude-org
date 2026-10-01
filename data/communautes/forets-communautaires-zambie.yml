@@ -1,0 +1,61 @@
+uid: "forets-communautaires-zambie"
+nom: "Forêts communautaires de Zambie"
+endonyme: ""
+territoire: "Zones forestières communautaires des aires ouvertes (zones situées hors des forêts nationales et locales, parcs nationaux et zones de gestion du gibier), des forêts locales et des zones de gestion du gibier, dans les dix provinces de Zambie, principalement l'Est, le Nord-Ouest, l'Ouest et Muchinga"
+etats: ["Zambie"]
+region: "afrique"
+coord: [-13.5, 27.8]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 395, unite: "groupes de gestion forestière communautaire inscrits au registre du ministère de l'Économie verte et de l'Environnement avec le statut « Approved » (297) ou « Recognized » (98)", annee: 2026, source: "https://cfmg.mgee.gov.zm/api/cfmg"}
+surface_km2: {valeur: 96977, annee: 2026, perimetre: "somme des surfaces déclarées (champ SizeHa) des 387 groupes, sur 395, dont la surface figure au registre ; chevauchements éventuels non vérifiés", source: "https://cfmg.mgee.gov.zm/api/cfmg"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés locales qui tiennent une forêt communautaire en Zambie. La loi forestière de 2015 (Forests Act, Act No. 4 of 2015, art. 29 à 35) et le règlement sur la gestion forestière communautaire (Statutory Instrument No. 11 of 2018) permettent à un groupe de gestion forestière communautaire, formé de citoyens résidant dans la zone depuis au moins deux ans et reconnu par le directeur des forêts avec l'accord du chef coutumier, d'obtenir l'usage exclusif d'une zone forestière (règl. 5, 6 et 9). Par l'accord de forêt communautaire conclu avec le département des forêts, le groupe reçoit des droits d'usage et de commerce des produits forestiers et le droit de délivrer des permis communautaires et d'en percevoir les recettes (règl. 11). Le registre en ligne du ministère compte 449 groupes, dont 297 au statut « Approved » et 98 au statut « Recognized ».
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Forests Act, 2015 (Act No. 4 of 2015), art. 3 et 29 à 35 (groupes de gestion forestière communautaire et accords de forêt communautaire)", nature: "loi", annee: 2015, source: "https://zambialii.org/akn/zm/act/2015/4/eng@2015-08-14"}
+  - {instrument: "Forests (Community Forest Management) Regulations, 2018 (Statutory Instrument No. 11 of 2018), règl. 3 à 18 et formulaires I à VII", nature: "loi", annee: 2018, source: "https://faolex.fao.org/docs/pdf/zam174187.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le groupe de gestion forestière communautaire est reconnu par le directeur des forêts sur présentation de sa constitution et de la liste de ses représentants élus, avec le consentement du chef coutumier ; à défaut de réponse dans les 21 jours, il est réputé reconnu (règl. 6 et 8 de 2018). Sur demande du directeur, après mise en demeure, le ministre peut mettre fin à l'accord et à l'autorité transférée si le groupe ne tient pas d'élections, ne rend pas compte des fonds ou ne protège pas la zone (formulaire IV, clause 5).", source: "https://faolex.fao.org/docs/pdf/zam174187.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La demande d'accord comprend un plan de gestion forestière communautaire qui contient les règles adoptées par la communauté (règl. 11(3)(b) de 2018) ; le groupe propose et fait appliquer, avec les autorités coutumières, les règles d'accès, d'usage et de protection de la zone, conformes au droit coutumier, ainsi que des sanctions locales (formulaire IV, clause 2(ii)(e)). La demande d'accord, plan compris, est approuvée ou rejetée par le directeur des forêts dans les 60 jours (règl. 12).", source: "https://faolex.fao.org/docs/pdf/zam174187.pdf"}
+  justice_propre: {valeur: "partiel", note: "Le groupe s'appuie sur l'autorité coutumière pour juger les affaires et appliquer les sanctions selon le droit coutumier admis, et pour la médiation des conflits d'usage des ressources (formulaire IV de 2018, clause 2(ii)(k) et (m)) ; le groupe signale les infractions à la loi forestière à l'agent forestier (règl. 9(3)(c)) ; il conserve le produit des amendes et des saisies liées aux infractions aux règles communautaires (clause 1(ii)(d)) et peut recevoir, à la discrétion du tribunal, les biens saisis à la suite de ses signalements ou leur produit (clause 3(c)).", source: "https://faolex.fao.org/docs/pdf/zam174187.pdf"}
+  terres: {valeur: "partiel", note: "La zone forestière communautaire est réservée à l'usage exclusif de la communauté représentée par le groupe dès le dépôt de la demande de reconnaissance (règl. 9(1) de 2018). La propriété des arbres et des produits forestiers des terres coutumières et des aires ouvertes reste attribuée au Président au nom de la République (Forests Act 2015, art. 3) ; la zone ne peut être cédée sans accord écrit préalable du ministre ni convertie à d'autres usages (formulaire IV, clause 2(ii)(f) et (g)).", source: "https://faolex.fao.org/docs/pdf/zam174187.pdf"}
+  ressources: {valeur: "partiel", note: "L'accord de forêt communautaire précise le droit de délivrer des permis communautaires et de percevoir les recettes des produits inscrits au plan de gestion (règl. 11(4) de 2018) ; il confère, selon les cases cochées, la récolte de plantes médicinales, de miel, de bois d'œuvre ou de chauffe, le pâturage, l'écotourisme et les industries communautaires (formulaire IV, clause 1, pris en application de l'art. 32(2) de la loi de 2015). Les permis de transport des produits forestiers majeurs exigent l'autorisation préalable du responsable forestier de district (clause 2(ii)(h)).", source: "https://faolex.fao.org/docs/pdf/zam174187.pdf"}
+  consentement: {valeur: "partiel", note: "La demande de reconnaissance exige une consultation préalable des usagers et des autres titulaires de droits et le consentement des autorités coutumières (règl. 6(2) de 2018) ; tant que le groupe n'est pas reconnu, le directeur ne délivre aucune licence ni aucun permis dans la zone proposée (règl. 9(2)), et l'accord exclut toute licence dans la zone (formulaire IV, clause 3(a)). Aucune règle de consentement de la communauté aux projets extérieurs n'a été trouvée.", source: "https://faolex.fao.org/docs/pdf/zam174187.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le groupe perçoit les recettes des permis communautaires (règl. 11(4) de 2018) et conserve le produit des amendes et des biens saisis ; ces recettes sont réparties selon les règles de partage fixées par sa constitution et présentées dans des rapports financiers à la communauté (formulaire IV, clauses 1(ii) et 2(ii)(b) et (i)). La loi ne crée pas d'impôt propre.", source: "https://faolex.fao.org/docs/pdf/zam174187.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le registre du ministère inscrit 297 groupes au statut « Approved », dont des accords approuvés depuis 2018. Dans la province du Nord-Ouest, une évaluation publiée par la FAO et le programme ONU-REDD (2025) relève qu'au début de 2024 aucun des 127 groupes n'avait achevé la procédure en sept étapes, que 64 attendaient l'approbation de leur accord au-delà du délai légal de 60 jours, et que la plupart des groupes ont été lancés en vue de la finance carbone, les développeurs de projets carbone étant leur principale source d'appui financier et technique.", source: "https://www.fao.org/3/cd7952en/cd7952en.pdf"}
+chronologie:
+  - {annee: 2014, evenement: "Politique forestière nationale : elle prévoit de donner aux communautés locales et aux autorités coutumières un rôle dans la protection et la gestion des forêts."}
+  - {annee: 2015, evenement: "Forests Act (Act No. 4 of 2015) : groupes de gestion forestière communautaire et accords de forêt communautaire (art. 29 à 35)."}
+  - {annee: 2018, evenement: "Statutory Instrument No. 11 du 23 février 2018 : règlement sur la gestion forestière communautaire. Projet de lignes directrices nationales de la foresterie communautaire en sept étapes (version de juillet 2018)."}
+  - {annee: 2018, evenement: "Premiers accords de forêt communautaire approuvés inscrits au registre du ministère (juin 2018)."}
+  - {annee: 2024, evenement: "Province du Nord-Ouest : 127 groupes engagés dans la procédure, 64 accords en attente d'approbation (évaluation FAO / ONU-REDD)."}
+fiabilite:
+  verifie:
+    - "Règlements 3 à 18 et formulaires I, IV et VII du Statutory Instrument No. 11 of 2018 (Supplément à la Gazette officielle du 23 février 2018, copie FAOLEX)."
+    - "Titres des articles 29 à 35 et texte de l'article 3 du Forests Act 2015 (ZambiaLII)."
+    - "Nombre de groupes, statuts, provinces, districts, surfaces déclarées et dates d'approbation des accords, lus dans le registre en ligne du ministère de l'Économie verte et de l'Environnement (cfmg.mgee.gov.zm) le 1er octobre 2026."
+    - "Données de la province du Nord-Ouest (127 groupes, 64 accords en attente, 24 groupes évalués, en moyenne neuf villages par groupe) dans le rapport FAO / ONU-REDD de 2025."
+  non_confirme:
+    - "Texte intégral des articles 29 à 35 du Forests Act 2015 : seuls les titres et les renvois du règlement et du formulaire IV ont pu être lus."
+    - "Sens exact des statuts du registre : « Approved » est lu comme accord de forêt communautaire approuvé, mais 163 des 297 groupes de ce statut n'ont pas de date d'approbation inscrite ; le rapport FAO indique qu'aucun groupe du Nord-Ouest n'avait d'accord approuvé au début de 2024, alors que le registre en compte 54 au statut « Approved » dans cette province en 2026."
+    - "Le registre contient au moins un doublon probable (Nzamane, district de Kasenengwa, inscrit une fois « Approved » et une fois « Recognized », compté deux fois dans les 395) ; la surface totale est une somme des surfaces déclarées, sans contrôle des chevauchements."
+    - "Durée des droits : le rapport FAO indique des droits sans limite de durée ; le formulaire IV ne fixe pas de terme mais prévoit la résiliation par le ministre."
+    - "Aucun document d'un mécanisme de l'ONU de la liste du cadre (Convention sur la diversité biologique, registre APAC) nommant le régime n'a été trouvé ; le rapport FAO / ONU-REDD est un document d'agence, non un mécanisme de reconnaissance."
+    - "Population et nombre de villages concernés à l'échelle nationale : aucune source trouvée."
+sources:
+  - {titre: "Forests (Community Forest Management) Regulations, 2018, Statutory Instrument No. 11 of 2018 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/zam174187.pdf"}
+  - {titre: "Forests (Community Forest Management) Regulations, 2018 — ZambiaLII", url: "https://zambialii.org/akn/zm/act/si/2018/11/eng@2018-02-23"}
+  - {titre: "Forests Act, 2015 (Act No. 4 of 2015) — ZambiaLII", url: "https://zambialii.org/akn/zm/act/2015/4/eng@2015-08-14"}
+  - {titre: "Registre des groupes de gestion forestière communautaire — ministère de l'Économie verte et de l'Environnement (CFMG Management System)", url: "https://cfmg.mgee.gov.zm/api/cfmg"}
+  - {titre: "Lundu, C., Bradley, A. et Ruiz-Villar, M., « Community forest management groups in North Western Province, Zambia. Assessment report », FAO / programme ONU-REDD, 2025", url: "https://www.fao.org/3/cd7952en/cd7952en.pdf"}
+  - {titre: "Ministry of Lands and Natural Resources, « National Guidelines for Community Forestry in Zambia », projet, version de juillet 2018", url: "https://ziflp.org.zm/download/community/Draft_National_Guidelines_Community_Forestry_Zambia_WOut_Annexes_Jul2018.pdf"}

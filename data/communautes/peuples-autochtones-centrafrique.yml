@@ -1,0 +1,61 @@
+uid: "peuples-autochtones-centrafrique"
+nom: "Peuples autochtones de Centrafrique (Aka et Mbororo)"
+endonyme: "Aka ; Mbororo"
+territoire: "Forêts du sud-ouest (préfecture de la Lobaye et voisines) pour les Aka ; zones d'élevage réparties dans le pays pour les Mbororo"
+etats: ["République centrafricaine"]
+region: "afrique"
+coord: [4.5, 18.0]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le gouvernement centrafricain considère les Aka, chasseurs-cueilleurs des forêts du sud-ouest, et les Mbororo, éleveurs pastoraux, comme les peuples autochtones du pays.
+  La République centrafricaine est le premier État d'Afrique à avoir ratifié la Convention n° 169 de l'OIT (entrée en vigueur en août 2011) ; la Constitution de 2016 lui donnait une autorité supérieure à celle des lois (art. 94) et assurait une « protection renforcée » des droits des peuples autochtones (art. 6) ; elle a été remplacée par la Constitution promulguée le 30 août 2023.
+  Le Code forestier de 2008 reconnaît des droits d'usage coutumiers gratuits sur le domaine forestier de l'État, une consultation préalable et l'accès aux forêts communautaires ; aucune loi n'établit de propriété foncière collective.
+  Le rapport de la Commission africaine sur sa visite de 2007 cite un recensement d'ONG de 15 880 Aka dans la seule Lobaye (2004) et une estimation d'environ 300 000 Mbororo.
+  Le régime des forêts communautaires relève de la fiche « Forêts communautaires de Centrafrique ».
+reconnaissance_regionale:
+  - {mecanisme: "commission_africaine", detail: "Visite de recherche et d'information du Groupe de travail sur les populations/communautés autochtones en Centrafrique (15-28 janvier 2007), rapport dont la Commission a pris note à sa 43e session (mai 2008) ; il identifie les Aka et les Mbororo comme peuples autochtones.", annee: 2008, source: "https://iwgia.org/images/publications/ACHPR_CAR_FRE.pdf"}
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "La République centrafricaine a voté pour l'adoption de la Déclaration des Nations unies sur les droits des peuples autochtones en 2007 et considère les Mbororo et les Aka comme les peuples autochtones du pays.", annee: 2007, source: "https://www.ilo.org/fr/media/364646/download"}
+  - {mecanisme: "oit_169", detail: "Convention n° 169 ratifiée par la République centrafricaine, premier pays d'Afrique à le faire, entrée en vigueur en août 2011 ; dans son premier rapport à l'OIT, le gouvernement désigne les Mbororo et les Aka comme peuples autochtones du pays.", annee: 2010, source: "https://www.ilo.org/fr/media/364646/download"}
+base_nationale:
+  - {instrument: "Constitution du 30 mars 2016, art. 6 (protection renforcée des droits des peuples autochtones) et art. 94 (primauté des traités ratifiés sur les lois) ; remplacée par la Constitution promulguée le 30 août 2023 (décret n° 23-199), dont le texte n'a pas été consulté", nature: "constitution", annee: 2016, source: "https://www.constituteproject.org/constitution/Central_African_Republic_2016"}
+  - {instrument: "Loi n° 08.022 du 17 octobre 2008 portant Code forestier, art. 14 à 18, 33, 67 et 133 à 139", nature: "loi", annee: 2008, source: "https://www.ilo.org/fr/media/364646/download"}
+  - {instrument: "Loi n° 63-441 du 9 janvier 1964 relative au domaine national, art. 3 et 38 (droit de jouissance des collectivités coutumières)", nature: "loi", annee: 1964, source: "https://www.ilo.org/fr/media/364646/download"}
+  - {instrument: "Décret n° 07.293 du 11 octobre 2007 régissant le Conseil économique et social", nature: "loi", annee: 2007, source: "https://www.ilo.org/fr/media/364646/download"}
+  - {instrument: "Décret n° 15.463 du 3 décembre 2015 fixant les modalités d'attribution et de gestion des forêts communautaires", nature: "loi", annee: 2015, source: "https://www.ilo.org/fr/media/364646/download"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Loi n° 63-441 du 9 janvier 1964 relative au domaine national, art. 3 et 38 : les collectivités titulaires de droits coutumiers conservent un droit de jouissance (droit d'utiliser la terre), l'État restant présumé propriétaire ; Code forestier de 2008, art. 15 : les droits coutumiers d'usage des peuples autochtones portent sur le sol forestier ; art. 18 : les peuples autochtones ne peuvent pas être expulsés des territoires qu'ils occupent avant la création d'une aire protégée. Selon l'OIT, ils ne peuvent pas être propriétaires de leurs terres.", source: "https://www.ilo.org/fr/media/364646/download"}
+  ressources: {valeur: "partiel", note: "Code forestier de 2008, art. 14 et 15 : droits d'usage coutumiers, exercés à titre gratuit pour la subsistance, sur les produits de la forêt autres que le bois d'œuvre, hors espèces protégées ; art. 133 à 139 : forêts communautaires gérées par convention avec l'État, dont les produits appartiennent entièrement aux populations concernées (art. 139) ; décret n° 15.463 de 2015 : 5 000 hectares au plus par forêt communautaire.", source: "https://www.ilo.org/fr/media/364646/download"}
+  consentement: {valeur: "partiel", note: "Code forestier de 2008, art. 33 et 67 : consultation préalable des populations riveraines, y compris les peuples autochtones, avant toute concession ; arrêté n° 09.021 de 2009, art. 30 et 32 : procès-verbal de consultation transmis au préfet et au ministre, sans règle de décision ; art. 18 du Code forestier : une réinstallation hors d'une aire protégée exige le consentement libre, préalable et éclairé des peuples autochtones. Hors de ce cas, aucune règle de consentement.", source: "https://www.ilo.org/fr/media/364646/download"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Décret n° 07.293 du 11 octobre 2007 : les communautés mbororo et aka disposent chacune d'un représentant au Conseil économique et social, assemblée consultative (art. 130 de la Constitution de 2016) consultée sur les projets de loi de programme à caractère économique, social, culturel et environnemental.", source: "https://www.ilo.org/fr/media/364646/download"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le profil pays de l'OIT (2023), aucune loi ne reconnaît les formes de justice coutumière autochtones, les autorités coutumières des communautés voisines prévalent souvent, et le conflit ouvert en 2013 a bloqué les révisions législatives ; la limite de 5 000 hectares par forêt communautaire est jugée inférieure à l'étendue des terres coutumières.", source: "https://www.ilo.org/fr/media/364646/download"}
+chronologie:
+  - {annee: 1964, evenement: "Loi domaniale : l'État propriétaire, droit de jouissance maintenu aux collectivités coutumières."}
+  - {annee: 2007, evenement: "Décret n° 07.293 : un siège pour les Aka et un pour les Mbororo au Conseil économique et social ; visite du Groupe de travail de la Commission africaine en janvier."}
+  - {annee: 2008, evenement: "Code forestier (loi n° 08.022) : droits d'usage coutumiers, consultation préalable, forêts communautaires."}
+  - {annee: 2010, evenement: "Ratification de la Convention n° 169 de l'OIT, entrée en vigueur en août 2011."}
+  - {annee: 2015, evenement: "Décret n° 15.463 sur l'attribution et la gestion des forêts communautaires."}
+  - {annee: 2016, evenement: "Constitution : article 6 sur la protection renforcée des droits des peuples autochtones."}
+  - {annee: 2023, evenement: "Nouvelle Constitution adoptée par référendum le 30 juillet et promulguée le 30 août."}
+fiabilite:
+  verifie: ["Profil pays de l'OIT (avril 2023) : désignation officielle des Aka et des Mbororo, entrée en vigueur de la Convention n° 169 en août 2011, articles du Code forestier, de la loi domaniale et du décret de 2007 cités.", "Constitution de 2016, art. 6 et 94 (traduction anglaise, Constitute Project).", "Rapport de la Commission africaine (visite de 2007, publié en 2009) : chiffres de population, représentation au Conseil national de transition (2003-2005)."]
+  non_confirme: ["Constitution de 2023 : texte non consulté ; reprise des articles 6, 94 et 130 de la Constitution de 2016 et maintien du Conseil économique et social non vérifiés.", "Maintien en vigueur du décret n° 07.293 de 2007 sur le Conseil économique et social : cité par l'OIT en 2023, texte non consulté.", "Date exacte d'enregistrement de la ratification (août 2010) : déduite de l'entrée en vigueur, NORMLEX inaccessible.", "Nombre de forêts communautaires attribuées et part des communautés autochtones parmi les titulaires : aucune liste sourcée.", "Sept communes d'élevage dirigées par des Mbororo, conseils nommés par décret (rapport de la Commission africaine) : instrument juridique non consulté.", "Population : 15 880 Aka dans la Lobaye (recensement d'ONG, 2004) et environ 300 000 Mbororo (estimation citée en 2007) ; aucun recensement national."]
+sources:
+  - {titre: "OIT — Profil pays : République centrafricaine, législations, politiques et institutions concernant les peuples autochtones (2023)", url: "https://www.ilo.org/fr/media/364646/download"}
+  - {titre: "Commission africaine des droits de l'homme et des peuples / IWGIA — Rapport du Groupe de travail, visite en République centrafricaine (2007, publié en 2009)", url: "https://iwgia.org/images/publications/ACHPR_CAR_FRE.pdf"}
+  - {titre: "Constitution de la République centrafricaine (2016) — Constitute Project", url: "https://www.constituteproject.org/constitution/Central_African_Republic_2016"}
+  - {titre: "Base de données Direct Democracy (sudd.ch) — Référendum constitutionnel du 30 juillet 2023 en République centrafricaine", url: "https://sudd.ch/event.php?lang=fr&id=cf012023"}

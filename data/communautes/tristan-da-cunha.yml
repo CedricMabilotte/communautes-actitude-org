@@ -1,0 +1,66 @@
+uid: "tristan-da-cunha"
+nom: "Habitants de Tristan da Cunha"
+endonyme: "Tristanians"
+territoire: "Tristan da Cunha (Sainte-Hélène, Ascension et Tristan da Cunha)"
+etats: ["Royaume-Uni"]
+region: "afrique"
+coord: [-37.1, -12.3]
+type: "collectivite_autonome"
+types_secondaires: ["peuple_territoire_non_autonome"]
+base: "territoriale"
+population: {valeur: 222, annee: 2026, perimetre: "habitants titulaires du statut de résident de Tristan da Cunha (dont 8 temporairement à l'étranger) ; 275 personnes présentes sur l'île en comptant les expatriés et les visiteurs ; le document de l'ONU de 2024 donne 246 résidents en novembre 2023", source: "https://www.tristandc.com/population.php"}
+lieux: {valeur: 1, unite: "île habitée (Tristan da Cunha ; les îles Inaccessible, Nightingale et Gough sont sans habitants permanents)", annee: 2024, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/13&l=en&t=pdf"}
+surface_km2: {valeur: 207, annee: 2026, perimetre: "terres émergées du groupe de Tristan da Cunha ; île principale : 98 km² ; zone de protection marine d'environ 690 000 km² depuis 2020 selon l'ONU", source: "https://en.wikipedia.org/wiki/Tristan_da_Cunha"}
+villages: {valeur: 1, annee: 2026, perimetre: "Edinburgh of the Seven Seas, seule localité, qui loge tous les habitants", source: "https://www.tristandc.com/settlement.php"}
+resume: >-
+  Île de l'Atlantique Sud, à environ 2 400 km de Sainte-Hélène, rattachée au territoire britannique de Sainte-Hélène, Ascension et Tristan da Cunha, inscrit sur la liste des territoires non autonomes de l'ONU. Les habitants descendent pour la plupart de membres de la garnison britannique restés sur l'île à son départ en 1817 et d'arrivants du XIXe siècle ; ils vivent tous dans la localité d'Edinburgh of the Seven Seas. La Constitution de 2009 donne à l'île un statut égal à celui des deux autres parties du territoire : le gouverneur légifère après consultation d'un Conseil de l'île de huit membres élus et trois nommés, présidé par l'administrateur ; le Chief Islander (chef élu des insulaires), choisi sur une liste de candidats distincte, conduit ce conseil. Le droit de résidence propre à l'île est protégé par la Constitution et l'installation des personnes extérieures est soumise à permis.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "liste_tna", detail: "Sainte-Hélène, Ascension et Tristan da Cunha, territoire non autonome administré par le Royaume-Uni ; document de travail du Comité spécial de la décolonisation, partie VI consacrée à Tristan da Cunha (A/AC.109/2024/13)", annee: 2024, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/13&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "St Helena, Ascension and Tristan da Cunha Constitution Order 2009 (SI 2009/1751), annexe, chapitre III (Tristan da Cunha), art. 186 à 234", nature: "constitution", annee: 2009, source: "https://www.legislation.gov.uk/uksi/2009/1751/contents/made"}
+  - {instrument: "Island Council (Tristan da Cunha) Ordinance, 1985 (édition révisée, modifiée en 2020)", nature: "loi", annee: 1985, source: "https://www.sainthelena.gov.sh/documents/island-council-tdac-ord-updated-211220/"}
+  - {instrument: "Entry Control (Tristan da Cunha) Ordinance, 1967", nature: "loi", annee: 1967, source: "https://www.sainthelena.gov.sh/documents/Entry-Control-TdaC-Ordinance"}
+  - {instrument: "Fishery Limits (Tristan da Cunha) Ordinance, 1983 (modifiée en 2021)", nature: "loi", annee: 1983, source: "https://www.sainthelena.gov.sh/documents/Fishery-Limits-TdC-Ord-Updated-100821"}
+  - {instrument: "Land Adjudication (Tristan da Cunha) Ordinance, 1997", nature: "loi", annee: 1997, source: "https://www.sainthelena.gov.sh/documents/Land-Adjudication-TdC-Ordinance"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Conseil de l'île, prévu par l'art. 214 de la Constitution de 2009, compte l'administrateur comme président, trois membres nommés et huit membres élus pour trois ans par les résidents de 18 ans et plus, nés sur l'île ou y ayant vécu trois ans ; le Chief Islander, nommé par l'administrateur d'après les voix obtenues sur une liste de candidats distincte du même bulletin, est de droit le leader (chef de file) du Conseil (Island Council Ordinance 1985, art. 3, 9, 10, 23 et annexe 1). L'administrateur, nommé par le gouverneur, exerce le pouvoir exécutif et peut passer outre l'avis du Conseil (art. 11).", source: "https://www.sainthelena.gov.sh/documents/island-council-tdac-ord-updated-211220/"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les ordonnances sont prises par le gouverneur après consultation du Conseil de l'île, qui n'est pas lié par son avis (Constitution de 2009, art. 216) ; les by-laws (règlements locaux) sur la santé, l'usage des terres, l'eau, l'école ou les jours fériés sont pris par l'administrateur après soumission du projet au Conseil, et le gouverneur peut les révoquer ou les modifier dans les douze mois (Island Council Ordinance 1985, art. 15 et annexe 3).", source: "https://www.sainthelena.gov.sh/documents/island-council-tdac-ord-updated-211220/"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Les licences de pêche dans les limites de pêche de Tristan sont régies par ordre de l'« Administrator in Council », c'est-à-dire l'administrateur agissant après consultation du Conseil de l'île (Fishery Limits Ordinance 1983, art. 4, définition ajoutée en 2021).", source: "https://www.sainthelena.gov.sh/documents/Fishery-Limits-TdC-Ord-Updated-100821"}
+  consentement: {valeur: "partiel", note: "L'administrateur doit consulter le Conseil de l'île pour l'exercice de tous ses pouvoirs, sauf défense, affaires extérieures, sécurité intérieure, police, fonction publique et relations du travail, et peut agir contre son avis (Island Council Ordinance 1985, art. 11) ; si le gouverneur légifère contre l'avis du Conseil, chaque membre peut saisir le secrétaire d'État britannique (Constitution de 2009, art. 216).", source: "https://www.legislation.gov.uk/uksi/2009/1751/contents/made"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "L'école publique, sa fréquentation et sa gestion relèvent des by-laws pris après avis du Conseil de l'île (annexe 3, point p) ; les Education By-Laws (modifiées en 2008) s'appuient sur un comité de l'éducation du Conseil (art. 18).", source: "https://www.sainthelena.gov.sh/documents/island-council-tdac-ord-updated-211220/"}
+  fiscalite: {valeur: "partiel", note: "L'administrateur peut lever des impôts généraux ou spécifiques pour financer les matières locales, avec l'approbation du gouverneur et après avis du Conseil de l'île (Island Council Ordinance 1985, art. 16 ; Income Tax and Medical Contributions Order, 2008).", source: "https://www.sainthelena.gov.sh/documents/island-council-tdac-ord-updated-211220/"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Nul titulaire du droit de résidence (right of abode) à Tristan da Cunha ne peut en être arbitrairement privé (Constitution de 2009, art. 202) ; les personnes nées d'un parent qui résidait habituellement sur l'île au moment de la naissance, ainsi que leurs épouses et leurs enfants de moins de 16 ans, sont dispensées du permis de séjour exigé de toute autre personne restant plus de trois jours (Entry Control Ordinance 1967, art. 2 et 3).", source: "https://www.sainthelena.gov.sh/documents/Entry-Control-TdaC-Ordinance"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le document de travail de l'ONU, l'administrateur nommé par le gouverneur exerce aussi les fonctions de magistrat (§ 52), l'île dépend de l'aide britannique pour ses infrastructures, ses médecins et plusieurs postes de l'administration (§ 56 et 57), et le Conseil de l'île a demandé que Tristan devienne un territoire britannique à part entière, sans représentation directe au Parlement (§ 53).", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/13&l=en&t=pdf"}
+chronologie:
+  - {annee: 1816, evenement: "Le Royaume-Uni annexe les îles et y installe une garnison, rattachée à la colonie du Cap."}
+  - {annee: 1817, evenement: "Départ de la garnison ; William Glass et quelques autres restent et fondent la communauté sur un principe d'égalité entre familles."}
+  - {annee: 1938, evenement: "Les îles deviennent une dépendance de Sainte-Hélène."}
+  - {annee: 1961, evenement: "Éruption volcanique et évacuation de tous les habitants."}
+  - {annee: 1963, evenement: "Retour de la plupart des familles."}
+  - {annee: 1967, evenement: "Entry Control Ordinance : permis de séjour obligatoire pour les personnes extérieures."}
+  - {annee: 1985, evenement: "Island Council Ordinance : composition du Conseil et élection du Chief Islander."}
+  - {annee: 2009, evenement: "Constitution de Sainte-Hélène, Ascension et Tristan da Cunha : statut égal des trois îles."}
+  - {annee: 2020, evenement: "Zone de protection marine de 690 000 km² dans la zone économique exclusive."}
+  - {annee: 2025, evenement: "Élection du Conseil de l'île et du Chief Islander pour 2025-2028 (5 mars ; 166 votants sur 200 inscrits selon le site du gouvernement de l'île)."}
+fiabilite:
+  verifie: ["Constitution de 2009, art. 202, 210, 213, 214 et 216 (texte sur legislation.gov.uk).", "Island Council Ordinance 1985, art. 3, 9, 10, 11, 15, 16, 18, 23 et annexes 1 et 3 (édition révisée à jour au 21 décembre 2020).", "Entry Control Ordinance 1967, art. 2 et 3.", "Statut de territoire non autonome et données de A/AC.109/2024/13.", "Population de 222 résidents au 30 septembre 2026 (site de l'association de Tristan da Cunha) ; 236 résidents en novembre 2024 selon A/AC.109/2025/13."]
+  non_confirme: ["Propriété communale de toutes les terres et interdiction d'achat par les personnes extérieures : affirmée par le site de l'île et par Wikipédia, mais aucun texte ne l'établit ; la Land Adjudication Ordinance 1997 prévoit au contraire un enregistrement des droits par parcelle et présume terres de la Couronne les terres inoccupées (art. 17).", "Rôle des habitants dans la justice locale : l'administrateur exerce les fonctions de magistrat ; la Magistrates' Court Ordinance 2019 n'a pas été lue.", "Surface du groupe d'îles (207 km²) tirée d'une source secondaire ; l'ONU donne 310 km² pour l'ensemble du territoire."]
+sources:
+  - {titre: "St Helena, Ascension and Tristan da Cunha Constitution Order 2009 (SI 2009/1751) — legislation.gov.uk", url: "https://www.legislation.gov.uk/uksi/2009/1751/contents/made"}
+  - {titre: "Comité spécial de la décolonisation — Sainte-Hélène, document de travail A/AC.109/2024/13", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2024/13&l=en&t=pdf"}
+  - {titre: "Comité spécial de la décolonisation — Sainte-Hélène, document de travail A/AC.109/2025/13", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/13&l=en&t=pdf"}
+  - {titre: "Laws of Tristan da Cunha — gouvernement de Sainte-Hélène", url: "https://www.sainthelena.gov.sh/st-helena/government/legislation/laws-of-tristan-da-cunha/"}
+  - {titre: "Island Council (Tristan da Cunha) Ordinance, 1985 — édition révisée", url: "https://www.sainthelena.gov.sh/documents/island-council-tdac-ord-updated-211220/"}
+  - {titre: "Entry Control (Tristan da Cunha) Ordinance, 1967", url: "https://www.sainthelena.gov.sh/documents/Entry-Control-TdaC-Ordinance"}
+  - {titre: "Fishery Limits (Tristan da Cunha) Ordinance, 1983", url: "https://www.sainthelena.gov.sh/documents/Fishery-Limits-TdC-Ord-Updated-100821"}
+  - {titre: "Land Adjudication (Tristan da Cunha) Ordinance, 1997", url: "https://www.sainthelena.gov.sh/documents/Land-Adjudication-TdC-Ordinance"}
+  - {titre: "Tristan da Cunha — Island Council", url: "https://www.tristandc.com/council.php"}
+  - {titre: "Tristan da Cunha — Population", url: "https://www.tristandc.com/population.php"}
+  - {titre: "Tristan da Cunha — Economy", url: "https://www.tristandc.com/economy.php"}
+  - {titre: "Tristan da Cunha — Wikipedia", url: "https://en.wikipedia.org/wiki/Tristan_da_Cunha"}

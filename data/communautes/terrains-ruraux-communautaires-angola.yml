@@ -1,0 +1,56 @@
+uid: "terrains-ruraux-communautaires-angola"
+nom: "Terrains ruraux communautaires d'Angola"
+endonyme: ""
+territoire: "Terrains ruraux utilisés selon la coutume par les communautés rurales, hors des zones urbaines délimitées par un foral (charte urbaine) ou un plan d'urbanisme, dans l'ensemble des provinces d'Angola"
+etats: ["Angola"]
+region: "afrique"
+coord: [-12.3, 17.5]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "titres de reconnaissance du domaine utile coutumier", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés rurales d'Angola titulaires de terrains ruraux communautaires. La loi sur les terres (Lei de Terras, loi n.º 9/04 du 9 novembre 2004) définit les communautés rurales comme des communautés de familles voisines qui détiennent des droits collectifs de possession, de gestion, d'usage et de jouissance de leurs terrains selon la coutume (art. 1 c)). Elle reconnaît à leurs familles le domaine utile coutumier (droit d'usage permanent sur une terre dont l'État garde la propriété), gratuit et imprescriptible, constaté par un titre ; ces terrains ne peuvent être concédés à des tiers sauf désaffectation (retrait du statut communautaire) après audition des autorités traditionnelles (art. 37). Les litiges internes sont tranchés au sein de la communauté selon la coutume (art. 82). Le nombre de titres délivrés n'a pas été trouvé.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Lei de Terras de Angola, loi n.º 9/04 du 9 novembre 2004, art. 1 c), 9, 19, 22, 23, 37, 51, 63 et 82", nature: "loi", annee: 2004, source: "https://pdac.ao/wp-content/uploads/2020/07/LEI_TERRAS_ANGOLA.pdf"}
+  - {instrument: "Constitution de la République d'Angola, art. 7 (coutume), 15 (accès des communautés locales à la terre), 98 (droits fonciers des communautés rurales) et 223 à 225 (autorités traditionnelles)", nature: "constitution", annee: 2010, source: "https://www.constituteproject.org/constitution/Angola_2010"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi de 2004 définit les communautés rurales comme gérant leurs terrains selon les « princípios de auto-administração e auto gestão » (principes d'auto-administration et de gestion propre) (art. 1 c)) ; la Constitution de 2010 reconnaît le statut et les fonctions des institutions des autorités traditionnelles fondées sur le droit coutumier (art. 223 et 224), leurs attributions étant fixées par la loi (art. 225).", source: "https://www.constituteproject.org/constitution/Angola_2010"}
+  pouvoir_normatif: {valeur: "partiel", note: "La Constitution de 2010 reconnaît la force juridique de la coutume conforme à la Constitution et à la dignité humaine (art. 7) ; la loi de 2004 fait régir le domaine utile coutumier par la coutume, le Code civil ne s'appliquant qu'à défaut (art. 37 n.º 9), et son extinction par les normes coutumières (art. 37 n.º 7).", source: "https://pdac.ao/wp-content/uploads/2020/07/LEI_TERRAS_ANGOLA.pdf"}
+  justice_propre: {valeur: "partiel", note: "Les litiges relatifs aux droits collectifs et au domaine utile coutumier des terrains ruraux communautaires sont tranchés au sein des communautés rurales selon la coutume ; une partie en désaccord peut saisir les tribunaux (loi n.º 9/04, art. 82, « Justiça comunitária »).", source: "https://pdac.ao/wp-content/uploads/2020/07/LEI_TERRAS_ANGOLA.pdf"}
+  terres: {valeur: "partiel", note: "L'État reconnaît aux familles des communautés rurales l'occupation, la possession et l'usage des terrains ruraux communautaires, par un titre ; ce domaine utile coutumier est gratuit, imprescriptible, intransmissible sauf droit coutumier, et insaisissable sauf hypothèque garantissant un prêt bancaire pour mettre le terrain en valeur ; ces terrains ne sont pas concessibles (loi n.º 9/04, art. 19 n.º 7, 37 et 63). La propriété reste à l'État (Constitution, art. 98) ; une désaffectation suivie d'une concession reste possible après audition des autorités traditionnelles, avec attribution d'autres terres ou compensation (art. 37 n.º 4), et l'expropriation pour utilité publique est admise contre juste indemnisation (art. 9 n.º 2).", source: "https://pdac.ao/wp-content/uploads/2020/07/LEI_TERRAS_ANGOLA.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "La délimitation des terrains ruraux communautaires est précédée de l'audition des familles et des institutions du pouvoir traditionnel (loi n.º 9/04, art. 23 n.º 2 et 51 n.º 2) ; la désaffectation est décidée après audition des autorités traditionnelles (art. 37 n.º 4). La loi prévoit une audition, non un consentement.", source: "https://pdac.ao/wp-content/uploads/2020/07/LEI_TERRAS_ANGOLA.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune source donnant le nombre de titres de domaine utile coutumier délivrés n'a été trouvée. Le Comité des droits économiques, sociaux et culturels de l'ONU relève en 2016 que des activités de développement empêchent des peuples autochtones, que l'État ne reconnaît pas, d'accéder à leurs terres, l'absence de cadre légal de consultation préalable des communautés touchées et la persistance d'expulsions forcées sans garanties de procédure (E/C.12/AGO/CO/4-5, § 19 et 45).", source: "https://documents.un.org/api/symbol/access?s=E/C.12/AGO/CO/4-5&l=en&t=pdf"}
+chronologie:
+  - {annee: 2004, evenement: "Loi sur les terres n.º 9/04 du 9 novembre 2004 : terrains ruraux communautaires, domaine utile coutumier et justice communautaire (art. 23, 37 et 82)."}
+  - {annee: 2010, evenement: "Constitution de la République : reconnaissance de la coutume (art. 7), de l'accès des communautés locales à la terre (art. 15) et des autorités traditionnelles (art. 223 à 225)."}
+  - {annee: 2016, evenement: "Observations finales du Comité des droits économiques, sociaux et culturels sur l'Angola : il recommande de garantir les droits fonciers des peuples autochtones et de recueillir leur consentement préalable avant toute licence d'exploitation."}
+fiabilite:
+  verifie:
+    - "Articles 1, 9, 10, 19, 22, 23, 37, 51, 63 et 82 de la loi n.º 9/04, lus dans la copie publiée par le projet PDAC (pdac.ao)."
+    - "Articles 7, 15, 98 et 223 à 225 de la Constitution de 2010, lus dans la traduction anglaise du Constitute Project."
+    - "Paragraphes 19, 20 et 45 des observations finales E/C.12/AGO/CO/4-5 du 15 juillet 2016."
+  non_confirme:
+    - "Nombre de titres de reconnaissance du domaine utile coutumier délivrés et de communautés délimitées : aucune source trouvée ; aucune liste officielle des sites n'a été trouvée, d'où l'absence de tableau."
+    - "Contenu du règlement d'application (Regulamento Geral de Concessão de Terrenos annoncé à l'art. 85 de la loi) sur la procédure de titre et de délimitation : texte non consulté."
+    - "La copie de la loi consultée est une transcription ; elle n'a pas été comparée au Diário da República, et l'absence de modification de la loi depuis 2004 n'a pas été vérifiée."
+    - "Le texte constitutionnel lu est la version de 2010 publiée par le Constitute Project ; la révision constitutionnelle de 2021 n'a pas été comparée pour les articles cités."
+    - "L'IWGIA indique que le gouvernement ne reconnaît pas la notion de peuple autochtone au sens du droit international ; les communautés San ne sont pas visées comme telles par le régime, qui s'applique aux communautés rurales en général."
+    - "Aucun document d'un mécanisme de l'ONU de la liste du cadre nommant le régime des terrains ruraux communautaires n'a été trouvé."
+sources:
+  - {titre: "Lei de Terras de Angola, loi n.º 9/04 du 9 novembre 2004 — copie PDAC", url: "https://pdac.ao/wp-content/uploads/2020/07/LEI_TERRAS_ANGOLA.pdf"}
+  - {titre: "Constitution de la République d'Angola, 2010 — Constitute Project", url: "https://www.constituteproject.org/constitution/Angola_2010"}
+  - {titre: "Comité des droits économiques, sociaux et culturels, observations finales sur l'Angola, E/C.12/AGO/CO/4-5, 2016", url: "https://documents.un.org/api/symbol/access?s=E/C.12/AGO/CO/4-5&l=en&t=pdf"}
+  - {titre: "IWGIA, « Indigenous peoples in Angola »", url: "https://iwgia.org/en/angola/742-indigenous-peoples-in-angola"}

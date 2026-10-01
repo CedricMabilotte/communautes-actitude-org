@@ -1,0 +1,61 @@
+uid: "minorites-religieuses-reconnues-iran"
+nom: "Minorités religieuses reconnues d'Iran"
+endonyme: ""
+territoire: "Téhéran, Ispahan, Azerbaïdjan iranien, Ourmia, Yazd, Kerman, Chiraz"
+etats: ["Iran"]
+region: "asie"
+coord: [35.7, 51.4]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 163093, annee: 2016, perimetre: "somme des chrétiens (130 158, Arméniens et Assyro-Chaldéens), zoroastriens (23 109) et juifs (9 826) comptés au recensement de 2016", source: "https://minorityrights.org/country/iran/"}
+lieux: {valeur: 93, unite: "écoles des minorités religieuses (déclaration de l'État)", annee: 2021, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/IRN/4&l=en&t=pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution iranienne de 1979, révisée en 1989, fait des zoroastriens, des juifs et des chrétiens les seules minorités religieuses reconnues (art. 13).
+  Elles agissent, dans les limites de la loi, selon leurs propres règles en matière de statut personnel et d'éducation religieuse.
+  Cinq des sièges du Parlement (Majlis) leur sont réservés : deux aux Arméniens (nord et sud), un aux Assyriens et Chaldéens, un aux juifs, un aux zoroastriens (art. 64).
+  Le régime est personnel : il suit l'appartenance religieuse, sans territoire propre.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité pour l'élimination de la discrimination raciale s'inquiète d'informations selon lesquelles le critère « gozinesh » (procédure de sélection qui exige des candidats aux emplois publics une allégeance à la République islamique et à la religion d'État) pourrait limiter l'emploi et la participation politique, entre autres, des communautés juive et arménienne (par. 16).", annee: 2010, source: "https://documents.un.org/api/symbol/access?s=CERD/C/IRN/CO/18-19&l=en&t=pdf"}
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme s'inquiète de discriminations visant la minorité chrétienne, dont des arrestations pour prosélytisme et l'interdiction des offices chrétiens en persan (par. 23).", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/IRN/CO/3&l=en&t=pdf"}
+  - {mecanisme: "organe_traite", detail: "Le CERD vise les minorités religieuses reconnues au titre de l'art. 13 de la Constitution et recommande de supprimer la limitation de la liberté religieuse à ces seules minorités (par. 26-27).", annee: 2024, source: "https://documents.un.org/api/symbol/access?s=CERD/C/IRN/CO/20-27&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République islamique d'Iran, art. 13, 64 et 67", nature: "constitution", annee: 1989, source: "https://www.constituteproject.org/constitution/Iran_1989"}
+  - {instrument: "Loi sur la présence des minorités religieuses dans les conseils (conseils municipaux et villageois)", nature: "loi", annee: 2018, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/IRN/4&l=en&t=pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Le persan est seule langue officielle ; l'art. 15 de la Constitution autorise en plus l'usage des langues régionales dans la presse et l'enseignement de leur littérature à l'école ; l'État déclare en 2022 l'enseignement de l'écriture et de la langue assyriennes et zoroastriennes dans des écoles propres à ces religions (CERD/C/IRN/20-27, par. 118).", source: "https://documents.un.org/api/symbol/access?s=CERD/C/IRN/20-27&l=en&t=pdf"}
+  education: {valeur: "partiel", note: "Art. 13 de la Constitution : liberté d'agir selon leurs propres règles en matière d'éducation religieuse ; manuels religieux propres enseignés dans leurs écoles sous la supervision du ministère de l'Éducation, selon le programme national de 2012 ; l'État déclare 93 écoles des minorités religieuses (CCPR/C/IRN/4, par. 96 et 188).", source: "https://documents.un.org/api/symbol/access?s=CCPR/C/IRN/4&l=en&t=pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Art. 64 de la Constitution : les zoroastriens et les juifs élisent chacun un député, les chrétiens assyriens et chaldéens un député commun, les chrétiens arméniens du nord et du sud un député chacun ; art. 67 : serment sur leurs propres livres saints.", source: "https://www.constituteproject.org/constitution/Iran_1989"}
+  statut_personnel: {valeur: "partiel", note: "Art. 13 de la Constitution : zoroastriens, juifs et chrétiens agissent, « dans les limites de la loi », selon leurs propres règles en matière de statut personnel ; l'État déclare que cela couvre mariage, divorce, successions et testaments (CCPR/C/IRN/4, par. 99). Le CERD relève en 2024 des discriminations envers les minorités ethno-religieuses dans le droit d'hériter (CERD/C/IRN/CO/20-27, par. 20 b).", source: "https://www.constituteproject.org/constitution/Iran_1989"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "L'État déclare cinq sièges au Majlis, 93 écoles, des associations et des publications propres (CCPR/C/IRN/4, par. 95-96). Minority Rights Group relève que les membres des minorités religieuses subissent confiscations de terres, discriminations à l'emploi, restrictions de culte et détentions arbitraires. Le CERD s'inquiète en 2010 de l'effet du critère « gozinesh » sur les communautés juive et arménienne ; le Comité des droits de l'homme relève en 2011 des arrestations de chrétiens et l'interdiction des offices en persan. En 2017, la Cour de justice administrative suspend Sepanta Niknam, élu zoroastrien du conseil municipal de Yazd ; la loi de juillet 2018 sur les conseils met fin à la suspension.", source: "https://minorityrights.org/country/iran/"}
+chronologie:
+  - {annee: 1979, evenement: "Constitution de la République islamique : minorités religieuses reconnues (art. 13) et sièges réservés au Majlis (art. 64)."}
+  - {annee: 1989, evenement: "Révision constitutionnelle ; les art. 13 et 64 sont maintenus."}
+  - {annee: 2010, evenement: "Observations finales du CERD nommant les communautés juive et arménienne (par. 16)."}
+  - {annee: 2017, evenement: "La Cour de justice administrative suspend Sepanta Niknam, élu zoroastrien du conseil municipal de Yazd, au motif que les minorités religieuses ne peuvent siéger dans les conseils."}
+  - {annee: 2018, evenement: "Loi de juillet sur la présence des minorités religieuses dans les conseils municipaux et villageois ; fin de la suspension de Sepanta Niknam."}
+  - {annee: 2024, evenement: "Observations finales du CERD sur la limitation de la liberté religieuse aux minorités reconnues (par. 26-27)."}
+fiabilite:
+  verifie: ["Art. 13, 64 et 67 de la Constitution (Constitute Project, traduction anglaise).", "Par. 16 de CERD/C/IRN/CO/18-19 (2010), par. 23 de CCPR/C/IRN/CO/3 (2011), par. 26-27 de CERD/C/IRN/CO/20-27 (2024).", "Chiffres du recensement de 2016 (chrétiens 130 158, zoroastriens 23 109, juifs 9 826) repris par Minority Rights Group.", "Rapports de l'État : 93 écoles des minorités religieuses (CCPR/C/IRN/4, par. 96), enseignement de l'assyrien (CERD/C/IRN/20-27, par. 118), loi de 2018 sur les conseils (CCPR/C/IRN/4, par. 94), affaire Niknam (CERD/C/IRN/20-27, par. 53).", "Suspension de Sepanta Niknam le 9 octobre 2017 (Radio Free Europe/Radio Liberty)."]
+  non_confirme: ["Nombre d'écoles et enseignement des langues : seules sources trouvées, les rapports de l'État ; pas de source indépendante récente sur la langue d'enseignement ni sur la direction des écoles.", "Assemblées élues des diocèses arméniens (Encyclopaedia Iranica, 1986) : leur reconnaissance par l'État et leur rôle actuel ne sont pas établis ; autogouvernement laissé à « non_etabli ».", "Rôle du Conseil de discernement dans l'affaire Niknam : l'État le situe en 2019 (CERD/C/IRN/20-27, par. 53), la fin de la suspension est datée du 21 juillet 2018 par d'autres sources.", "Juridictions appliquant le statut personnel (tribunaux d'État appliquant les règles de chaque communauté ou instances religieuses) : texte de la loi de 1933 et de ses suites non consulté.", "Selon Minority Rights Group, le recensement ne compte que les Arméniens et les Assyro-Chaldéens parmi les chrétiens ; d'autres estimations approchent ou dépassent 300 000 chrétiens, convertis compris.", "La fiche couvre le régime commun ; des fiches par communauté (Arméniens d'Iran en tête) restent possibles."]
+sources:
+  - {titre: "Constitution de l'Iran (1979, révisée en 1989) — Constitute Project", url: "https://www.constituteproject.org/constitution/Iran_1989"}
+  - {titre: "CERD — Observations finales sur l'Iran, CERD/C/IRN/CO/18-19 (2010)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/IRN/CO/18-19&l=en&t=pdf"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur l'Iran, CCPR/C/IRN/CO/3 (2011)", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/IRN/CO/3&l=en&t=pdf"}
+  - {titre: "CERD — Observations finales sur l'Iran, CERD/C/IRN/CO/20-27 (2024)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/IRN/CO/20-27&l=en&t=pdf"}
+  - {titre: "Rapport de l'Iran au CERD, CERD/C/IRN/20-27 (2022)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/IRN/20-27&l=en&t=pdf"}
+  - {titre: "Rapport de l'Iran au Comité des droits de l'homme, CCPR/C/IRN/4 (2021)", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/IRN/4&l=en&t=pdf"}
+  - {titre: "Minority Rights Group — Iran", url: "https://minorityrights.org/country/iran/"}
+  - {titre: "Radio Free Europe/Radio Liberty — Iranian Court Suspends Zoroastrian City Councilor (2017)", url: "https://www.rferl.org/a/iran-zoroastrian-suspended-city-council/28783013.html"}
+  - {titre: "Encyclopaedia Iranica — Armenians of modern Iran", url: "https://www.iranicaonline.org/articles/armenians-of-modern-iran"}

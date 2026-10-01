@@ -1,0 +1,62 @@
+uid: "communautes-chretiennes-reconnues-israel"
+nom: "Communautés chrétiennes reconnues d'Israël"
+endonyme: ""
+territoire: "Israël (Galilée, Haïfa, Jérusalem)"
+etats: ["Israël"]
+region: "asie"
+coord: [32.7, 35.3]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 184200, annee: 2025, perimetre: "ensemble des chrétiens vivant en Israël à la veille de Noël 2025, Arabes chrétiens (78,7 %) et chrétiens non arabes, sans répartition par Église", source: "https://www.cbs.gov.il/en/mediarelease/Pages/2025/Christmas-2025-Christians-in-Israel.aspx"}
+lieux: {valeur: 10, unite: "Églises reconnues comme communautés religieuses", annee: 2009, source: "https://docs.un.org/en/A/HRC/10/8/Add.2"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Dix Églises chrétiennes ont en Israël le statut de « communauté religieuse reconnue » : neuf figurent sur la liste de la période du mandat britannique, annexée en 1939 au Palestine Order in Council de 1922 (décret royal servant de constitution au mandat), et l'Église évangélique épiscopale est reconnue en 1970.
+  L'État d'Israël a conservé ce régime en 1948.
+  Les tribunaux ecclésiastiques de ces Églises ont une compétence exclusive sur le mariage et le divorce de leurs membres, selon le droit religieux de chaque Église.
+  Les chrétiens membres d'Églises non reconnues (coptes, luthériens, baptistes, orthodoxes russes) n'ont pas de juridiction propre.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Palestine Order in Council, 1922, art. 54 (compétence des tribunaux des communautés chrétiennes en matière de statut personnel)", nature: "constitution", annee: 1922, source: "https://docs.un.org/en/CCPR/C/ISR/3"}
+  - {instrument: "Palestine Order in Council, deuxième annexe ajoutée en 1939 (liste des communautés religieuses reconnues)", nature: "constitution", annee: 1939, source: "https://he.wikipedia.org/wiki/%D7%A2%D7%93%D7%95%D7%AA_%D7%93%D7%AA%D7%99%D7%95%D7%AA_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C"}
+  - {instrument: "Religious Communities (Organization) Ordinance, 1926 (ordonnance sur l'organisation des communautés religieuses)", nature: "loi", annee: 1926, source: "https://he.wikipedia.org/wiki/%D7%A2%D7%93%D7%95%D7%AA_%D7%93%D7%AA%D7%99%D7%95%D7%AA_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C"}
+  - {instrument: "Loi sur les tribunaux aux affaires familiales, 5755-1995, amendée en novembre 2001", nature: "loi", annee: 2001, source: "https://docs.un.org/en/CCPR/C/ISR/3"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les communautés reconnues gèrent leurs affaires internes ; l'ordonnance de 1926 sur l'organisation des communautés religieuses fixe le cadre de cette gestion et le contrôle exercé par l'État ; aucune assemblée commune aux dix Églises.", source: "https://he.wikipedia.org/wiki/%D7%A2%D7%93%D7%95%D7%AA_%D7%93%D7%AA%D7%99%D7%95%D7%AA_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le droit religieux de chaque Église s'applique au mariage et au divorce de ses membres ; Israël maintient depuis 1948 le droit religieux en matière de statut personnel (rapport A/HRC/10/8/Add.2, par. 46). Portée limitée au statut personnel.", source: "https://docs.un.org/en/A/HRC/10/8/Add.2"}
+  justice_propre: {valeur: "reconnu", note: "Article 54 du Palestine Order in Council de 1922 : compétence des tribunaux de plusieurs communautés chrétiennes en matière de statut personnel ; depuis l'amendement de 2001 à la loi de 1995 sur les tribunaux aux affaires familiales, le mariage et le divorce restent de leur compétence exclusive, les autres questions de statut personnel relevant aussi des tribunaux aux affaires familiales (rapport CCPR/C/ISR/3, par. 431).", source: "https://docs.un.org/en/CCPR/C/ISR/3"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "L'appartenance à une communauté reconnue détermine la juridiction en matière de statut personnel ; Israël indique au système des traités (HRI/CORE/ISR/2021, par. 10) maintenir « le droit religieux en matière de statut personnel » et « la juridiction communautaire » ; les membres d'Églises non reconnues n'ont pas de tribunal religieux local.", source: "https://docs.un.org/en/HRI/CORE/ISR/2021"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Rapporteur spécial sur la liberté de religion constate en 2009 que le divorce de deux membres d'une même communauté chrétienne reconnue reste entre les mains des tribunaux religieux de cette communauté (A/HRC/10/8/Add.2, par. 48) ; le Comité des droits économiques, sociaux et culturels relève en 2019 la compétence exclusive des tribunaux religieux sur le mariage et le divorce (E/C.12/ISR/CO/4, par. 38).", source: "https://docs.un.org/en/A/HRC/10/8/Add.2"}
+chronologie:
+  - {annee: 1922, evenement: "Le Palestine Order in Council (10 août) organise la compétence des tribunaux religieux, dont ceux des communautés chrétiennes (art. 54)."}
+  - {annee: 1926, evenement: "Ordonnance du mandat britannique sur l'organisation des communautés religieuses."}
+  - {annee: 1939, evenement: "La liste des communautés reconnues, dont neuf Églises chrétiennes, devient la deuxième annexe du Palestine Order in Council."}
+  - {annee: 1948, evenement: "L'État d'Israël maintient en vigueur la législation du mandat, dont le régime des communautés religieuses."}
+  - {annee: 1970, evenement: "Le gouvernement reconnaît l'Église évangélique épiscopale comme dixième communauté chrétienne."}
+  - {annee: 2001, evenement: "Amendement de la loi sur les tribunaux aux affaires familiales : les tribunaux ecclésiastiques gardent la compétence exclusive sur le mariage et le divorce."}
+  - {annee: 2009, evenement: "Rapport du Rapporteur spécial des Nations unies sur la liberté de religion : liste des communautés reconnues et demandes de reconnaissance en attente (orthodoxes éthiopiens, coptes orthodoxes, United Churches Council)."}
+  - {annee: 2022, evenement: "En réponse à une demande des Témoins de Jéhovah, le gouvernement déclare avoir pour politique de ne plus reconnaître de nouvelle communauté religieuse."}
+fiabilite:
+  verifie: ["Liste des dix Églises reconnues : rapport du Rapporteur spécial sur la liberté de religion, A/HRC/10/8/Add.2 (2009), par. 22 (docs.un.org).", "Article 54 du Palestine Order in Council et amendement de 2001 : rapport d'Israël au Comité des droits de l'homme, CCPR/C/ISR/3 (2008), par. 431 (docs.un.org).", "Reconnaissance de l'Église évangélique épiscopale en 1970 et absence de tribunal pour les communautés non reconnues : document de base d'Israël, HRI/CORE/ISR/2021, par. 10.", "Population : 184 200 chrétiens, dont 78,7 % d'Arabes chrétiens, communiqué du Bureau central de statistique d'Israël du 23 décembre 2025.", "Compétence exclusive des tribunaux religieux sur le mariage et le divorce, compétence parallèle des tribunaux civils sur la garde et la pension : CDESC, E/C.12/ISR/CO/4 (2019), par. 38.", "Régime hérité du mandat : rapport 2003 du Département d'État reproduit par l'UNISPAL (neuf Églises et la communauté juive sur la liste d'origine, puis Druzes, Église évangélique épiscopale et bahaïs)."]
+  non_confirme: ["Texte original de l'article 54 et de la deuxième annexe du Palestine Order in Council non consulté sur un site officiel ; contenu lu dans des rapports d'Israël aux Nations unies et dans une encyclopédie (la deuxième annexe de 1939 seulement dans l'encyclopédie).", "Contenu exact de l'ordonnance de 1926 sur l'organisation des communautés religieuses non consulté ; droit à l'autogouvernement noté « partiel » sur la base d'une encyclopédie.", "Écoles des Églises : statut d'établissements « reconnus non officiels » non vérifié sur une source ouverte ; droit à l'éducation laissé « non établi ».", "Aucune observation d'un organe de traité ne nomme les communautés chrétiennes reconnues ; les observations du CDESC (E/C.12/ISR/CO/4, 2019, par. 38) et du CEDAW (CEDAW/C/ISR/CO/6, 2017) visent le système des tribunaux religieux en général.", "Population : le chiffre compte tous les chrétiens, y compris les membres d'Églises non reconnues ; aucune répartition par Église reconnue trouvée.", "Financement public des tribunaux ecclésiastiques et mode de nomination des juges non vérifiés."]
+sources:
+  - {titre: "Nations unies — Rapport du Rapporteur spécial sur la liberté de religion ou de conviction, mission en Israël et dans le Territoire palestinien occupé, A/HRC/10/8/Add.2 (2009)", url: "https://docs.un.org/en/A/HRC/10/8/Add.2"}
+  - {titre: "Israël — Troisième rapport périodique au Comité des droits de l'homme, CCPR/C/ISR/3 (2008)", url: "https://docs.un.org/en/CCPR/C/ISR/3"}
+  - {titre: "Israël — Document de base commun, HRI/CORE/ISR/2021", url: "https://docs.un.org/en/HRI/CORE/ISR/2021"}
+  - {titre: "Israël — Cinquième rapport périodique au Comité des droits de l'homme, CCPR/C/ISR/5 (2019)", url: "https://docs.un.org/en/CCPR/C/ISR/5"}
+  - {titre: "CDESC — Observations finales sur Israël, E/C.12/ISR/CO/4 (2019)", url: "https://docs.un.org/en/E/C.12/ISR/CO/4"}
+  - {titre: "UNISPAL — Israel and the OPT: International Religious Freedom Report 2003 (Département d'État)", url: "https://www.un.org/unispal/document/auto-insert-203868/"}
+  - {titre: "Bureau central de statistique d'Israël — Christmas 2025, Christians in Israel", url: "https://www.cbs.gov.il/en/mediarelease/Pages/2025/Christmas-2025-Christians-in-Israel.aspx"}
+  - {titre: "Communautés religieuses en Israël — Wikipédia (hébreu)", url: "https://he.wikipedia.org/wiki/%D7%A2%D7%93%D7%95%D7%AA_%D7%93%D7%AA%D7%99%D7%95%D7%AA_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C"}
+  - {titre: "Tribunaux religieux en Israël — Wikipédia (hébreu)", url: "https://he.wikipedia.org/wiki/%D7%91%D7%AA%D7%99_%D7%93%D7%99%D7%9F_%D7%93%D7%AA%D7%99%D7%99%D7%9D_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C"}

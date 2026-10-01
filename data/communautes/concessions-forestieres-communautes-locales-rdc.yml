@@ -1,0 +1,70 @@
+uid: "concessions-forestieres-communautes-locales-rdc"
+nom: "Concessions forestières des communautés locales de RDC"
+endonyme: ""
+territoire: "Forêts possédées en vertu de la coutume par des communautés locales, dans plusieurs provinces (dont l'Équateur, le Nord-Kivu, le Sud-Kivu, le Haut-Katanga, le Mai-Ndombe, la Tshopo, la Tshuapa, le Maniema et le Kwilu)"
+etats: ["République démocratique du Congo"]
+region: "afrique"
+coord: [-2.9, 23.7]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 70, unite: "forêts communautaires attribuées (101 forêts communautaires recensées, attribuées ou non)", annee: 2021, source: "https://www.cifor.org/publications/pdf_files/Books/Etat-des-forets-2021.pdf"}
+surface_km2: {valeur: 13444.2, annee: 2021, perimetre: "superficie des 70 forêts communautaires attribuées (1 344 420 ha) ; 20 396 km² pour les 101 forêts recensées", source: "https://www.cifor.org/publications/pdf_files/Books/Etat-des-forets-2021.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés locales titulaires d'une concession forestière de communauté locale (CFCL) en République démocratique du Congo.
+  La loi n° 011/2002 du 29 août 2002 portant Code forestier (art. 22) permet à une communauté locale d'obtenir à titre gratuit, en concession, tout ou partie des forêts protégées qu'elle possède régulièrement en vertu de la coutume.
+  Le décret n° 14/018 du 2 août 2014 définit la CFCL comme une forêt attribuée gratuitement et perpétuellement par l'État, par arrêté du gouverneur de province, dans la limite de 50 000 ha par communauté ; l'arrêté ministériel n° 025 du 9 février 2016 fixe les organes de gestion et le plan simple de gestion (document qui programme les usages de la forêt).
+  En 2021, 70 forêts communautaires étaient attribuées (1 344 420 ha) sur 101 recensées ; la couche « Forêt communautaire » de l'Atlas forestier de la RDC, publiée par le ministère de l'Environnement et du Développement durable, compte 192 sites distincts.
+  Les droits propres aux peuples autochtones pygmées (loi n° 22/030 de 2022) relèvent de la fiche « Peuples autochtones pygmées de la République démocratique du Congo ».
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Le sixième rapport national de la RDC à la Convention sur la diversité biologique cite le décret n° 14/018 et l'arrêté n° 025 de 2016 ; il rattache l'article 19 du décret (gestion des concessions selon les coutumes locales) à l'article 8 j de la Convention.", annee: 2019, source: "https://www.cbd.int/doc/nr/nr-06/cd-nr-06-fr.pdf"}
+base_nationale:
+  - {instrument: "Loi n° 011/2002 du 29 août 2002 portant Code forestier, art. 22 et 111 à 113", nature: "loi", annee: 2002, source: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/rdc-loiforets.pdf"}
+  - {instrument: "Décret n° 14/018 du 2 août 2014 fixant les modalités d'attribution des concessions forestières aux communautés locales", nature: "loi", annee: 2014, source: "https://faolex.fao.org/docs/pdf/cng140362.pdf"}
+  - {instrument: "Arrêté ministériel n° 025/CAB/MIN/ECN-DD/CJ/00/RBM/2016 du 9 février 2016 portant dispositions spécifiques relatives à la gestion et à l'exploitation de la concession forestière des communautés locales", nature: "loi", annee: 2016, source: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/AM.025.9.02.2016.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'arrêté n° 025 de 2016 (art. 4 à 18) laisse à la communauté le choix entre une entité distincte (association, coopérative) et une organisation interne composée d'une assemblée communautaire, organe de décision, d'un comité local de gestion, d'un comité local de contrôle et de suivi-évaluation et d'un conseil des sages ; l'assemblée en désigne les membres par élection, cooptation ou toute autre voie prévue par la coutume locale (art. 6) ; l'exploitation se fait sous la supervision technique de l'administration forestière locale (Code forestier, art. 111).", source: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/AM.025.9.02.2016.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'assemblée communautaire adopte les règles pratiques de gestion et de contrôle de la concession « conformément à la réglementation en vigueur et aux us et coutumes » (arrêté n° 025 de 2016, art. 6) ; les coutumes s'appliquent tant qu'elles ne sont pas contraires aux lois et à l'ordre public (décret n° 14/018, art. 19 ; arrêté n° 025, art. 3) ; le plan simple de gestion est approuvé par le chef de secteur, le chef de chefferie ou le bourgmestre urbano-rural (art. 27).", source: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/AM.025.9.02.2016.pdf"}
+  justice_propre: {valeur: "partiel", note: "Le conseil des sages prévient et règle les conflits liés à la gestion de la concession et au partage des bénéfices ; tout différend portant sur la concession entre membres ou entre communautés est résolu suivant les us et coutumes, sans préjudice de la loi (arrêté n° 025 de 2016, art. 15 et 18).", source: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/AM.025.9.02.2016.pdf"}
+  terres: {valeur: "partiel", note: "La concession est attribuée gratuitement et à perpétuité, comme un bien indivis de toute la communauté, qui ne peut être divisé en titres individuels (décret n° 14/018, art. 2, 15 et 20 ; arrêté n° 025, art. 37) ; plafond de 50 000 ha par communauté, les droits coutumiers étant conservés sur la partie non concédée (décret, art. 18) ; les forêts restent propriété de l'État (Code forestier, art. 7).", source: "https://faolex.fao.org/docs/pdf/cng140362.pdf"}
+  ressources: {valeur: "partiel", note: "La communauté a le droit d'exploiter sa forêt elle-même ou par des exploitants artisanaux sous contrat, et les produits lui reviennent après déduction des frais de l'administration (Code forestier, art. 112 et 113) ; la coupe de bois d'œuvre exige un permis de coupe communautaire soumis à taxe (arrêté n° 025 de 2016, art. 41) ; les contrats d'exploitation, de récolte de produits forestiers non ligneux et de cogestion n'entrent en vigueur qu'après approbation de l'administration forestière locale (art. 36, 38, 51 et 66).", source: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/AM.025.9.02.2016.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Chaque communauté attributaire constitue un fonds de développement communautaire alimenté par les revenus de la concession, géré par le comité local de gestion selon un règlement adopté par l'assemblée communautaire, qui fixe aussi l'affectation et le partage des revenus (arrêté n° 025 de 2016, art. 62 à 64).", source: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/AM.025.9.02.2016.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon l'État des forêts du bassin du Congo 2021 (OFAC, CIFOR, 2022), 70 des 101 forêts communautaires recensées en RDC étaient attribuées (tableau 2.2) ; le chapitre 13 indique que les CFCL attribuées dépendent presque toutes d'un appui technique et financier extérieur et qu'il est trop tôt pour en tirer un bilan. Une enquête de presse (Gabonreview, 27 février 2024) compte 166 forêts communautaires sur environ 3 millions d'hectares en RDC ; elle juge la procédure d'attribution fonctionnelle dans les cas étudiés, mais relève l'enclavement, qui limite l'accès aux forêts et le suivi par l'État et les ONG.", source: "https://www.cifor.org/publications/pdf_files/Books/Etat-des-forets-2021.pdf"}
+chronologie:
+  - {annee: 2002, evenement: "Loi n° 011/2002 du 29 août portant Code forestier : une communauté locale peut obtenir en concession les forêts qu'elle possède en vertu de la coutume (art. 22)."}
+  - {annee: 2014, evenement: "Décret n° 14/018 du 2 août fixant les modalités d'attribution des concessions forestières aux communautés locales."}
+  - {annee: 2016, evenement: "Arrêté ministériel n° 025 du 9 février sur la gestion et l'exploitation des CFCL."}
+  - {annee: 2018, evenement: "Adoption de la stratégie nationale relative à la foresterie communautaire."}
+  - {annee: 2021, evenement: "70 forêts communautaires attribuées sur 101 recensées (État des forêts du bassin du Congo 2021)."}
+fiabilite:
+  verifie:
+    - "Texte du décret n° 14/018 (art. 1 à 24), dont les art. 2, 15, 18, 19 et 20 (FAOLEX)."
+    - "Art. 7, 22 et 111 à 113 du Code forestier, lus sur la copie numérisée publiée par Leganet."
+    - "Art. 3 à 18, 27, 34 à 41, 62 à 67 et 81 à 82 de l'arrêté n° 025 du 9 février 2016, lus sur la copie numérisée publiée par Leganet."
+    - "Chiffres de 2021 (101 forêts communautaires recensées, 2 039 625 ha ; 70 attribuées, 1 344 420 ha) : État des forêts du bassin du Congo 2021, tableau 2.2, sources AGEDUFOR 2018 et FRMi 2021."
+    - "Citation du décret n° 14/018 et de l'arrêté n° 025 dans le sixième rapport national de la RDC à la CDB (octobre 2019)."
+    - "Constat du chapitre 13 de l'État des forêts 2021 : CFCL dépendantes d'un appui extérieur ; stratégie nationale relative à la foresterie communautaire adoptée en 2018 (chapitre 2)."
+    - "Tableau des sites : 192 lignes tirées de la couche « Forêt communautaire » de l'Atlas forestier de la RDC (ministère de l'Environnement et du Développement durable, licence CC-BY), après retrait de trois doublons (même nom, même subdivision et même superficie administrative ; 195 entités dans la couche) ; surfaces = superficie administrative ; année lue dans le numéro d'arrêté quand il figure (42 sites) ; noms de province harmonisés (« Kasai », « Maniena » dans la couche) et province du site Asu'u, vide dans la couche, renseignée d'après son territoire (Mwenga, Sud-Kivu)."
+  non_confirme:
+    - "Chiffre de 166 CFCL sur environ 3 millions d'hectares : enquête de presse (Gabonreview, 2024), sans source officielle citée."
+    - "Statut d'attribution de chaque site de la couche cartographique : non précisé ligne par ligne ; 150 sites n'ont pas de numéro d'arrêté dans la couche, qui ne porte pas de date de mise à jour."
+    - "Deux sites (Imoma, Basimbi) figurent deux fois dans la couche avec des surfaces différentes ; les deux lignes sont conservées."
+    - "Population et nombre de villages des communautés attributaires : aucune source trouvée."
+    - "Inscription de CFCL au registre ICCA ou à la base WDPA : non vérifiée."
+sources:
+  - {titre: "Décret n° 14/018 du 2 août 2014 fixant les modalités d'attribution des concessions forestières aux communautés locales — FAOLEX", url: "https://faolex.fao.org/docs/pdf/cng140362.pdf"}
+  - {titre: "Loi n° 011/2002 du 29 août 2002 portant Code forestier — Leganet", url: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/rdc-loiforets.pdf"}
+  - {titre: "Arrêté ministériel n° 025 du 9 février 2016 relatif à la gestion et à l'exploitation des CFCL — Leganet", url: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/AM.025.9.02.2016.pdf"}
+  - {titre: "Sixième rapport national de la RDC à la Convention sur la diversité biologique", url: "https://www.cbd.int/doc/nr/nr-06/cd-nr-06-fr.pdf"}
+  - {titre: "Les forêts du bassin du Congo : état des forêts 2021 — OFAC, CIFOR", url: "https://www.cifor.org/publications/pdf_files/Books/Etat-des-forets-2021.pdf"}
+  - {titre: "Atlas forestier de la RDC — couche « Forêt communautaire » (ministère de l'Environnement et du Développement durable, avec l'appui du WRI)", url: "https://gis.forest-atlas.org/server/rest/services/cod/Foret_communautaire_fr/MapServer/118"}
+  - {titre: "Enquête : la foresterie communautaire, une réalité à double facette au Gabon et en RDC — Gabonreview, 27 février 2024", url: "https://www.gabonreview.com/enquete-la-foresterie-communautaire-une-realite-a-double-facette-au-gabon-et-en-rdc/"}

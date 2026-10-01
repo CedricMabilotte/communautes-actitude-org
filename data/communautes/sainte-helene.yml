@@ -1,0 +1,57 @@
+uid: "sainte-helene"
+nom: "Saint-Héléniens"
+endonyme: "St Helenians"
+territoire: "Île de Sainte-Hélène (territoire de Sainte-Hélène, Ascension et Tristan da Cunha)"
+etats: ["Royaume-Uni"]
+region: "afrique"
+coord: [-15.9, -5.7]
+type: "peuple_territoire_non_autonome"
+types_secondaires: ["collectivite_autonome"]
+base: "territoriale"
+population: {valeur: 4058, annee: 2024, perimetre: "population résidente de l'île de Sainte-Hélène, estimation de fin octobre 2024 ; environ 800 personnes à Ascension et 236 à Tristan da Cunha ne sont pas comptées", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/13&l=en&t=pdf"}
+lieux: {valeur: 8, unite: "districts électoraux de l'île de Sainte-Hélène", annee: 2021, source: "https://www.sainthelena.gov.sh/documents/census-2021-main-report/"}
+surface_km2: {valeur: 123, annee: 2021, perimetre: "île de Sainte-Hélène seule, somme des huit districts électoraux (47,6 milles carrés au recensement de 2021, converti en km²) ; le territoire entier, avec Ascension et le groupe de Tristan da Cunha, couvre 310 km² de terres et 1 641 294 km² de zone économique exclusive selon l'ONU", source: "https://www.sainthelena.gov.sh/documents/census-2021-main-report/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Population de l'île de Sainte-Hélène, dans l'Atlantique Sud, colonisée par la Compagnie anglaise des Indes orientales en 1659. Le territoire de Sainte-Hélène, Ascension et Tristan da Cunha figure sur la liste des territoires non autonomes de l'ONU, avec le Royaume-Uni comme puissance administrante. La Constitution de 2009 dote Sainte-Hélène d'un Conseil législatif de douze membres élus ; depuis octobre 2021, un ministre en chef élu par ce conseil et quatre ministres forment avec le procureur général le Conseil exécutif, présidé par le gouverneur nommé par la Couronne. Le statut de St Helenian, défini par la loi sur l'immigration, ouvre le droit d'entrée et la propriété foncière.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "liste_tna", detail: "Territoire non autonome administré par le Royaume-Uni ; projet de résolution sur la question de Sainte-Hélène présenté le 12 juin 2025 par la présidence du Comité spécial de la décolonisation (A/AC.109/2025/L.19), qui réaffirme le droit inaliénable du peuple de Sainte-Hélène à l'autodétermination, et document de travail du Secrétariat (A/AC.109/2025/13)", annee: 2025, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/L.19&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "St Helena, Ascension and Tristan da Cunha Constitution Order 2009 (SI 2009/1751), annexe : Constitution, chapitre 1 (Sainte-Hélène)", nature: "constitution", annee: 2009, source: "https://www.legislation.gov.uk/uksi/2009/1751/contents/made"}
+  - {instrument: "St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (SI 2021/895), système ministériel", nature: "constitution", annee: 2021, source: "https://www.legislation.gov.uk/uksi/2021/895/contents/made"}
+  - {instrument: "Immigration Ordinance 2011 (Sainte-Hélène), partie 6 sur la détention de terres par les personnes sans statut de St Helenian", nature: "loi", annee: 2011, source: "https://www.sainthelena.gov.sh/documents/Immigration-Form-LH1-Landholding-1.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le Conseil législatif compte, outre le président et le vice-président, douze membres élus, seuls votants, et le procureur général comme membre de droit (Constitution de 2009, s. 48 modifiée en 2021, et s. 67) ; le ministre en chef et quatre ministres issus de ce conseil composent le Conseil exécutif et en sont collectivement responsables devant lui (s. 35 et 36, rédaction de 2021) ; le gouverneur préside le Conseil exécutif et garde la défense, les affaires étrangères, la sécurité intérieure, la fonction publique, l'administration de la justice et les finances, dont il peut déléguer les trois dernières à un ministre avec l'accord de Londres (s. 44, al. 1A).", source: "https://www.legislation.gov.uk/uksi/2021/895/contents/made"}
+  pouvoir_normatif: {valeur: "partiel", note: "La Législature, formée de la Couronne et du Conseil législatif, fait les lois de Sainte-Hélène (s. 60) ; le gouverneur peut réserver un projet de loi à la décision de Londres (s. 74), la Couronne peut annuler une loi (s. 75, désaveu) et garde le plein pouvoir de légiférer pour le territoire (ordonnance de 2009, art. 14).", source: "https://www.legislation.gov.uk/uksi/2009/1751/contents/made"}
+  justice_propre: {valeur: "partiel", note: "La Constitution de 2009 établit les juridictions du territoire : Cour d'appel, Cour suprême et juridictions subordonnées (tribunal de magistrats et autorité de règlement des litiges du travail), avec recours final devant le Comité judiciaire du Conseil privé, à Londres ; l'administration de la justice reste une responsabilité du gouverneur (Constitution de 2009, s. 44).", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/13&l=en&t=pdf"}
+  terres: {valeur: "partiel", note: "Une personne sans statut de St Helenian ne peut, sauf exceptions, posséder de terre à Sainte-Hélène sans licence (Immigration Ordinance 2011, partie 6, citée par le formulaire officiel de demande de licence foncière).", source: "https://www.sainthelena.gov.sh/documents/Immigration-Form-LH1-Landholding-1.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "Depuis avril 2021, l'éducation forme avec les compétences et l'emploi l'un des portefeuilles de l'administration de Sainte-Hélène ; l'école est gratuite et obligatoire de 5 à 16 ans dans quatre écoles publiques ; le système ministériel entré en vigueur en octobre 2021 place chaque département sous la direction politique d'un ministre (Constitution, s. 45A, ajoutée en 2021).", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/13&l=en&t=pdf"}
+  fiscalite: {valeur: "partiel", note: "Un impôt ne peut être levé qu'en vertu d'une ordonnance, loi locale (Constitution de 2009, s. 97), mais le Conseil législatif ne peut examiner un projet créant ou augmentant un impôt que sur recommandation du gouverneur (s. 73) ; les finances restent une responsabilité du gouverneur, déléguable à un ministre (s. 44, al. 1A, ajouté en 2021).", source: "https://www.legislation.gov.uk/uksi/2009/1751/contents/made"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Le statut de St Helenian, défini par la loi sur l'immigration, est protégé contre toute privation arbitraire (Constitution de 2009, s. 20) ; la loi peut restreindre la liberté de circulation des personnes qui ne l'ont pas (s. 12, al. 3 c).", source: "https://www.legislation.gov.uk/uksi/2009/1751/contents/made"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le budget 2024-2025 de 48,5 millions de livres repose pour 34,1 millions sur l'aide du Royaume-Uni ; la police rend compte directement au gouverneur ; le Conseil législatif a commandé une revue indépendante du système ministériel trois ans après son adoption.", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/13&l=en&t=pdf"}
+chronologie:
+  - {annee: 1659, evenement: "La Compagnie anglaise des Indes orientales prend possession de l'île et l'occupe."}
+  - {annee: 1834, evenement: "Le 22 avril, le gouvernement britannique reprend l'administration de l'île à la Compagnie (Government of India Act 1833, aujourd'hui Saint Helena Act 1833)."}
+  - {annee: 2002, evenement: "Les Saint-Héléniens recouvrent la citoyenneté britannique (British Overseas Territories Act 2002)."}
+  - {annee: 2009, evenement: "Entrée en vigueur de la Constitution de Sainte-Hélène, Ascension et Tristan da Cunha (septembre), qui donne aux trois îles un statut égal."}
+  - {annee: 2011, evenement: "Immigration Ordinance : la propriété foncière des personnes sans statut de St Helenian est soumise à licence."}
+  - {annee: 2017, evenement: "Ouverture de l'aéroport aux vols commerciaux (octobre)."}
+  - {annee: 2021, evenement: "Scrutin consultatif du 17 mars ; le système ministériel remplace le système de commissions le 25 octobre."}
+  - {annee: 2025, evenement: "Le 12 juin, la présidence du Comité spécial de la décolonisation présente un projet de résolution sur la question de Sainte-Hélène."}
+fiabilite:
+  verifie: ["Composition du Conseil législatif et du Conseil exécutif, pouvoirs réservés du gouverneur, sanction et désaveu des lois, règles fiscales, protection du statut de St Helenian (textes de 2009 et 2021 sur legislation.gov.uk).", "Inscription sur la liste des territoires non autonomes, population, budget et aide britannique (documents A/AC.109/2025/13 et A/AC.109/2025/L.19).", "Règle de propriété foncière réservée aux titulaires du statut, sauf licence (formulaire officiel citant l'Immigration Ordinance 2011) ; droit d'entrée automatique des titulaires du statut (page Immigration du gouvernement de Sainte-Hélène).", "Huit districts électoraux et surface de 47,6 milles carrés (rapport du recensement de 2021)."]
+  non_confirme: ["Texte de l'Immigration Ordinance 2011 non consulté directement : conditions d'octroi du statut de St Helenian et exceptions à la règle foncière.", "Le préambule de la Constitution reconnaît que tous les peuples ont le droit à l'autodétermination, sans procédure de référendum : la portée de cette mention n'est pas établie.", "Ascension (sans droit de résidence permanent) et Tristan da Cunha ont des conseils de l'île distincts et ne sont pas décrits ici."]
+sources:
+  - {titre: "The St Helena, Ascension and Tristan da Cunha Constitution Order 2009 (SI 2009/1751) — legislation.gov.uk", url: "https://www.legislation.gov.uk/uksi/2009/1751/contents/made"}
+  - {titre: "The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (SI 2021/895) — legislation.gov.uk", url: "https://www.legislation.gov.uk/uksi/2021/895/contents/made"}
+  - {titre: "Comité spécial de la décolonisation — Sainte-Hélène, document de travail A/AC.109/2025/13", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/13&l=en&t=pdf"}
+  - {titre: "Comité spécial de la décolonisation — Question de Sainte-Hélène, projet de résolution A/AC.109/2025/L.19", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/L.19&l=en&t=pdf"}
+  - {titre: "Gouvernement de Sainte-Hélène — Immigration", url: "https://www.sainthelena.gov.sh/st-helena/government/portfolios/safety-security-and-home-affairs/immigration/"}
+  - {titre: "Gouvernement de Sainte-Hélène — Formulaire LH1, licence foncière (Immigration Ordinance 2011)", url: "https://www.sainthelena.gov.sh/documents/Immigration-Form-LH1-Landholding-1.pdf"}
+  - {titre: "Gouvernement de Sainte-Hélène — Recensement de la population et des logements 2021, rapport principal", url: "https://www.sainthelena.gov.sh/documents/census-2021-main-report/"}

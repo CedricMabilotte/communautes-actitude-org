@@ -1,0 +1,76 @@
+uid: "ngok-dinka-abyei"
+nom: "Ngok Dinka (zone d'Abyei)"
+endonyme: ""
+territoire: "Zone d'Abyei, territoire des neuf chefferies ngok dinka rattachées au Kordofan en 1905, délimité par la sentence arbitrale du 22 juillet 2009 ; revendiquée par le Soudan et le Soudan du Sud"
+etats: ["Soudan du Sud", "Soudan"]
+region: "afrique"
+coord: [9.6, 28.4]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: ["collectivite_insulaire_ou_regionale"]
+population: {valeur: 145358, annee: 2025, perimetre: "ensemble des habitants de la zone d'Abyei (Ngok Dinka et autres résidents), estimation OCHA 2025 reprise par le Conflict Sensitivity Resource Facility ; le recensement soudanais de 2008 comptait 52 883 habitants", source: "https://csrf-southsudan.org/county_profile/abyei-region/"}
+lieux: {valeur: 9, unite: "chefferies ngok dinka (territoire défini par le Protocole d'Abyei, section 1.1.2)", annee: 2004, source: "https://www.peaceagreements.org/media/documents/ag583_55dc1c528ce29.pdf"}
+surface_km2: {valeur: 10546, annee: 2009, perimetre: "zone d'Abyei dans les limites fixées par la sentence arbitrale de 2009 ; chiffre de l'encyclopédie Wikipédia, non repris dans la sentence", source: "https://en.wikipedia.org/wiki/Abyei"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Ngok Dinka habitent la zone d'Abyei, territoire des neuf chefferies ngok dinka rattachées en 1905 à la province du Kordofan, à la limite du Soudan et du Soudan du Sud. Le Protocole d'Abyei de 2004, intégré à l'Accord de paix global de 2005, accorde à la zone un statut administratif spécial, deux pour cent des revenus pétroliers nets « localement avec les Ngok Dinka » et un référendum sur le rattachement au Nord ou au Sud, qui n'a jamais eu lieu. Une sentence arbitrale de 2009 fixe les limites de la zone ; depuis 2011, une force des Nations unies (FISNUA) y est déployée. La Constitution de transition du Soudan du Sud reconnaît aux membres des neuf chefferies un droit « inaliénable » à la citoyenneté sud-soudanaise ; deux administrations, nommées l'une par Djouba, l'autre par Khartoum, coexistent dans la zone.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "accord_sous_egide", detail: "Accord du 20 juin 2011 entre le gouvernement du Soudan et le SPLM sur les arrangements temporaires pour l'administration et la sécurité de la zone d'Abyei, transmis au Conseil de sécurité par le Secrétaire général ; les parties y demandent l'appui de l'Union africaine et de l'ONU (par. 3) et maintiennent le Protocole d'Abyei jusqu'au règlement du statut final (par. 41)", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=S/2011/384&l=en&t=pdf"}
+  - {mecanisme: "mission_onu", detail: "Force intérimaire de sécurité des Nations Unies pour Abyei (FISNUA), créée par la résolution 1990 (2011) compte tenu de l'accord du 20 juin 2011 ; mandat prorogé jusqu'au 15 novembre 2026 par la résolution 2802 (2025), qui nomme les Ngok Dinka, les Misseriya et les Twic Dinka", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=S/RES/1990(2011)&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Protocole entre le gouvernement du Soudan et le SPLM/A sur la résolution du conflit d'Abyei (Naivasha, 26 mai 2004), partie de l'Accord de paix global du 9 janvier 2005", nature: "accord_paix", annee: 2004, source: "https://www.peaceagreements.org/media/documents/ag583_55dc1c528ce29.pdf"}
+  - {instrument: "Sentence arbitrale du 22 juillet 2009 relative à la délimitation de la région d'Abyei (Cour permanente d'arbitrage), Recueil des sentences arbitrales des Nations Unies, vol. XXX", nature: "jurisprudence", annee: 2009, source: "https://legal.un.org/riaa/cases/vol_XXX/145-416.pdf"}
+  - {instrument: "Accord sur les arrangements temporaires pour l'administration et la sécurité de la zone d'Abyei (Addis-Abeba, 20 juin 2011)", nature: "accord_paix", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=S/2011/384&l=en&t=pdf"}
+  - {instrument: "Constitution de transition de la République du Soudan du Sud (2011, modifiée), art. 1 et 97", nature: "constitution", annee: 2011, source: "https://www.constituteproject.org/constitution/South_Sudan_2013"}
+  - {instrument: "Constitution nationale intérimaire du Soudan (2005), art. 85 et 183 (abrogée depuis)", nature: "constitution", annee: 2005, source: "https://www.constituteproject.org/constitution/Sudan_2005"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Protocole d'Abyei, sections 2.1-2.4 : statut administratif spécial sous l'autorité de la présidence et Conseil exécutif local « élu par les résidents », dont les membres sont nommés par la présidence en attendant l'élection ; accord du 20 juin 2011, par. 4-5 : administrateur en chef proposé par le SPLM, adjoint proposé par le gouvernement du Soudan, sous le contrôle d'un comité mixte (par. 13).", source: "https://www.peaceagreements.org/media/documents/ag583_55dc1c528ce29.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Protocole d'Abyei, section 4.3.1 : le Conseil de la zone d'Abyei, vingt membres au plus nommés par la présidence avant les élections, adopte des textes locaux « dans les limites des pouvoirs des collectivités locales et sur les questions coutumières » ; section 2.6 : la présidence fixe les compétences de la zone.", source: "https://www.peaceagreements.org/media/documents/ag583_55dc1c528ce29.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Protocole d'Abyei, sections 1.1.2 et 5.1 : le territoire est défini comme la zone des neuf chefferies ngok dinka transférées au Kordofan en 1905 ; sentence arbitrale de 2009, par. 770 : limites fixées (10°10' N, 27°50' E, 29°00' E), « revendication dominante légitime » des Ngok sur le territoire au sud de 10°10' N confirmée, droits secondaires d'usage des terres des Ngok et des Misseriya et droit de pâturage des Misseriya maintenus ; aucun titre foncier collectif n'est prévu.", source: "https://legal.un.org/riaa/cases/vol_XXX/145-416.pdf"}
+  ressources: {valeur: "partiel", note: "Protocole d'Abyei, section 3.1.5 : deux pour cent des revenus pétroliers nets de la zone sont partagés « localement avec les Ngok Dinka » pendant la période intérimaire (2005-2011), et deux pour cent avec les Misseriya (section 3.1.6) ; l'accord du 20 juin 2011 (par. 41) maintient le Protocole jusqu'au règlement du statut final sans fixer de nouveau partage.", source: "https://www.peaceagreements.org/media/documents/ag583_55dc1c528ce29.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Protocole d'Abyei, sections 3.2.2 et 4.3.2 : la zone perçoit l'impôt sur le revenu et les autres taxes levées sur son territoire et son conseil approuve le budget ; accord du 20 juin 2011, par. 19 : budget financé conjointement par les deux gouvernements.", source: "https://www.peaceagreements.org/media/documents/ag583_55dc1c528ce29.pdf"}
+  representation: {valeur: "partiel", note: "Protocole d'Abyei, sections 1.2.1 et 6.2 : représentation des résidents dans les assemblées du Kordofan-Occidental et du Bahr el-Ghazal ; ces dispositions sont maintenues par l'accord du 20 juin 2011 (par. 41) ; les deux observateurs au Conseil des États prévus par la Constitution nationale intérimaire du Soudan de 2005 (art. 85) ne s'appliquent plus, ce texte étant abrogé.", source: "https://www.peaceagreements.org/media/documents/ag583_55dc1c528ce29.pdf"}
+  statut_personnel: {valeur: "reconnu", note: "Constitution de transition du Soudan du Sud, art. 97 : les membres des neuf chefferies ngok dinka ont un droit « inaliénable » à la citoyenneté et à la nationalité sud-soudanaises ; Protocole d'Abyei, section 1.2.1 : double citoyenneté du Kordofan-Occidental et du Bahr el-Ghazal pendant la période intérimaire.", source: "https://www.constituteproject.org/constitution/South_Sudan_2013"}
+  autodetermination_externe: {valeur: "conteste", note: "Protocole d'Abyei, sections 1.3 et 8 : référendum distinct, simultané à celui du Sud-Soudan, sur le maintien du statut spécial au Nord ou le rattachement au Bahr el-Ghazal ; repris par la Constitution de transition du Soudan du Sud, art. 97 ; jamais organisé : la résolution 2802 (2025) du Conseil de sécurité insiste pour que le statut futur d'Abyei soit déterminé par voie de négociations entre les parties.", source: "https://www.peaceagreements.org/media/documents/ag583_55dc1c528ce29.pdf"}
+effectivite: {valeur: "contestee", note: "La résolution 2802 (2025) du Conseil de sécurité note qu'aucun progrès n'a été réalisé dernièrement en vue de convoquer le Comité mixte de contrôle d'Abyei prévu par l'accord de 2011, encourage la Force à travailler avec trois administrations : celle mise en place par le Soudan du Sud, celle mise en place par le Soudan et l'administration misseriya à Moughlad, et se dit préoccupé par la présence renforcée des Forces d'appui rapide au nord et des Forces sud-soudanaises de défense du peuple au sud, en violation de l'accord de 2011.", source: "https://documents.un.org/api/symbol/access?s=S/RES/2802(2025)&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1905, evenement: "Les neuf chefferies ngok dinka sont transférées de la province du Bahr el-Ghazal à celle du Kordofan."}
+  - {annee: 2004, evenement: "26 mai : Protocole d'Abyei signé à Naivasha par le gouvernement du Soudan et le SPLM/A."}
+  - {annee: 2005, evenement: "9 janvier : Accord de paix global ; la Constitution nationale intérimaire du Soudan (art. 183) reprend le statut spécial et le référendum d'Abyei."}
+  - {annee: 2008, evenement: "Combats à Abyei en mai ; feuille de route du 8 juin pour le retour des déplacés et le recours à l'arbitrage."}
+  - {annee: 2009, evenement: "22 juillet : sentence arbitrale fixant les limites de la zone d'Abyei, rendue sous l'égide de la Cour permanente d'arbitrage."}
+  - {annee: 2011, evenement: "Janvier : le référendum d'Abyei prévu en même temps que celui du Sud-Soudan n'a pas lieu ; 21 mai : l'armée soudanaise prend le contrôle d'Abyei."}
+  - {annee: 2011, evenement: "20 juin : accord d'Addis-Abeba sur les arrangements temporaires ; 27 juin : résolution 1990 créant la FISNUA ; 9 juillet : indépendance du Soudan du Sud."}
+  - {annee: 2023, evenement: "31 décembre : l'administrateur en chef adjoint d'Abyei est tué avec cinq civils (résolution 2760 du Conseil de sécurité)."}
+  - {annee: 2025, evenement: "Avril : accord de paix entre jeunes ngok dinka et twic dinka ; 14 novembre : mandat de la FISNUA prorogé jusqu'au 15 novembre 2026 (résolution 2802)."}
+fiabilite:
+  verifie:
+    - "Texte du Protocole d'Abyei (PA-X) : sections 1.1.2, 1.2.1, 1.3, 2.1-2.7, 3.1.5, 3.2, 4.1-4.3, 6.1-6.2, 8.1-8.2."
+    - "Accord du 20 juin 2011 (S/2011/384) : par. 4-8, 13, 19, 39, 41."
+    - "Sentence arbitrale du 22 juillet 2009, par. 134 (feuille de route du 8 juin 2008) et par. 770 (dispositif), Recueil des sentences arbitrales des Nations Unies, vol. XXX."
+    - "Constitution de transition du Soudan du Sud, art. 1 et 97 ; Constitution nationale intérimaire du Soudan de 2005, art. 85 et 183 (Constitute Project)."
+    - "Résolutions 1990 (2011), 2760 (2024) et 2802 (2025) du Conseil de sécurité."
+  non_confirme:
+    - "Surface de 10 546 km² : chiffre de Wikipédia, qui renvoie à un article du New York Times de mai 2011 (accès refusé) ; absent de la sentence arbitrale."
+    - "Population : estimation OCHA reprise par une source secondaire ; elle couvre tous les habitants de la zone, pas seulement les Ngok Dinka."
+    - "Référendum non officiel organisé par des Ngok Dinka en octobre 2013 : aucune source primaire consultée."
+    - "Versement des deux pour cent des revenus pétroliers aux Ngok Dinka depuis 2011 : aucune source trouvée."
+    - "Combats de mai 2008 et prise d'Abyei par l'armée soudanaise le 21 mai 2011 : absents des sources citées."
+    - "Statut de la « zone administrative spéciale d'Abyei » proclamée par le Soudan du Sud en 2015 et texte qui la fonde : non consultés."
+    - "Mise en place et composition actuelle du Conseil de la zone d'Abyei : aucune source trouvée."
+sources:
+  - {titre: "Protocole entre le gouvernement du Soudan et le SPLM/A sur la résolution du conflit d'Abyei, 26 mai 2004 — PA-X, Université d'Édimbourg", url: "https://www.peaceagreements.org/media/documents/ag583_55dc1c528ce29.pdf"}
+  - {titre: "Accord sur les arrangements temporaires pour l'administration et la sécurité de la zone d'Abyei, 20 juin 2011 (S/2011/384)", url: "https://documents.un.org/api/symbol/access?s=S/2011/384&l=en&t=pdf"}
+  - {titre: "Sentence arbitrale relative à la délimitation de la région de l'Abyei, 22 juillet 2009 — Recueil des sentences arbitrales, vol. XXX", url: "https://legal.un.org/riaa/cases/vol_XXX/145-416.pdf"}
+  - {titre: "Conseil de sécurité, résolution 1990 (2011)", url: "https://documents.un.org/api/symbol/access?s=S/RES/1990(2011)&l=fr&t=pdf"}
+  - {titre: "Conseil de sécurité, résolution 2760 (2024)", url: "https://documents.un.org/api/symbol/access?s=S/RES/2760(2024)&l=en&t=pdf"}
+  - {titre: "Conseil de sécurité, résolution 2802 (2025)", url: "https://documents.un.org/api/symbol/access?s=S/RES/2802(2025)&l=fr&t=pdf"}
+  - {titre: "Constitution de transition du Soudan du Sud — Constitute Project", url: "https://www.constituteproject.org/constitution/South_Sudan_2013"}
+  - {titre: "Constitution nationale intérimaire du Soudan (2005) — Constitute Project", url: "https://www.constituteproject.org/constitution/Sudan_2005"}
+  - {titre: "Abyei Region — Conflict Sensitivity Resource Facility", url: "https://csrf-southsudan.org/county_profile/abyei-region/"}
+  - {titre: "Abyei — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Abyei"}

@@ -1,0 +1,55 @@
+uid: "terres-collectives-tunisie"
+nom: "Terres collectives de Tunisie"
+endonyme: ""
+territoire: "Terres collectives (al-arādī al-ishtirākiyya) de Tunisie centrale et du Sud : gouvernorats délimités en vertu du décret du 14 janvier 1901, Tataouine, Médenine (hors Djerba), délégation de Matmata (Gabès), délégations de Kébili et Douz"
+etats: ["Tunisie"]
+region: "afrique"
+coord: [33.5, 9.8]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "collectivités dotées d'un conseil de gestion", annee: null, source: ""}
+surface_km2: {valeur: 30000, annee: 1973, perimetre: "étendue des terres collectives avant les attributions privatives : environ 3 millions d'hectares, dont 1,5 million à vocation agricole et 1,5 million de parcours (Ben Salah, 1973, cité dans l'étude de 2010) ; en 2010, environ 1 350 000 ha avaient été attribués en propriété privée", source: "https://www.foncier-developpement.fr/wp-content/uploads/tunisie-foncier-FR.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  En Tunisie, les terres collectives sont détenues en indivision par des collectivités, surtout dans le Centre et le Sud, où domine l'élevage pastoral.
+  La loi n° 64-28 du 4 juin 1964 reconnaît à chaque collectivité la personnalité civile (capacité d'agir en droit) pour administrer et exploiter ses terres.
+  Un conseil de gestion élu par les membres gère les terres, représente la collectivité en justice, arbitre les litiges fonciers entre membres et donne son accord préalable à toute vente ou location, sous la tutelle du gouverneur.
+  Depuis 1971, le régime organise l'attribution des terres agricoles en propriété privée aux membres ; les parcours restent exploités en commun. La réforme adoptée en juillet 2016 fixe un délai de cinq ans pour achever les attributions.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi n° 64-28 du 4 juin 1964 fixant le régime des terres collectives", nature: "loi", annee: 1964, source: "https://arablandinitiative.gltn.net/countries/tunisia"}
+  - {instrument: "Décret n° 65-327 du 2 juillet 1965 (application de la loi n° 64-28), modifié en 1981 et 1988", nature: "loi", annee: 1965, source: "https://www.foncier-developpement.fr/wp-content/uploads/tunisie-foncier-FR.pdf"}
+  - {instrument: "Loi n° 71-7 du 14 janvier 1971, loi n° 79-27 du 11 mai 1979 et loi n° 88-5 du 8 février 1988 modifiant la loi n° 64-28", nature: "loi", annee: 1988, source: "https://www.foncier-developpement.fr/wp-content/uploads/tunisie-foncier-FR.pdf"}
+  - {instrument: "Projet de loi n° 07/2016 amendant et complétant la loi n° 64-28, adopté par l'Assemblée des représentants du peuple le 27 juillet 2016", nature: "loi", annee: 2016, source: "https://majles.marsad.tn/fr/legislation/2016/07"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Art. 6 nouveau de la loi n° 64-28 (réforme de 2016) : les terres collectives sont gérées par des conseils de gestion élus parmi les membres de la collectivité qui exploitent la terre ; art. 7 et 8 nouveaux : tutelle du gouverneur et d'un conseil de tutelle régional qui approuve les décisions d'attribution et contrôle la gestion administrative et financière.", source: "https://majles.marsad.tn/fr/legislation/2016/07"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "Art. 10 nouveau de la loi n° 64-28 (2016) : les litiges fonciers entre membres d'une même collectivité sont soumis obligatoirement à l'arbitrage du conseil de gestion, qui doit statuer dans un délai de trois mois, faute de quoi chaque partie peut saisir le tribunal immobilier ; art. 10 bis : la décision tranche le litige de façon définitive sauf opposition devant le tribunal immobilier.", source: "https://majles.marsad.tn/fr/legislation/2016/07"}
+  terres: {valeur: "partiel", note: "Art. 4 de la loi n° 64-28 : chaque collectivité est une personne morale dotée de la personnalité civile pour l'administration et l'exploitation de ses terres ; art. 5 nouveau (2016) : vente, location ou apport en capital soumis à l'accord du conseil de gestion et à l'approbation du gouverneur, saisie interdite hors prêts autorisés ; art. 5 bis : expropriation pour utilité publique possible ; art. 16 nouveau : attribution en propriété privée aux membres des terres mises en valeur, et des terres nues aux membres résidant dans la région et exploitant la terre depuis au moins cinq ans ; les parcours restent exploités en commun.", source: "https://majles.marsad.tn/fr/legislation/2016/07"}
+  ressources: {valeur: "partiel", note: "Art. 6 nouveau de la loi n° 64-28 (2016) : le conseil de gestion organise le pâturage et entretient les zones qui lui sont réservées ; art. 16 c : les terres de parcours sont exploitées en commun par les membres ; art. 8 : le conseil de tutelle régional délimite les parcours à exploiter collectivement.", source: "https://majles.marsad.tn/fr/legislation/2016/07"}
+  consentement: {valeur: "partiel", note: "Art. 5 nouveau de la loi n° 64-28 (2016) : toute cession, location, bail à complant (mughârasa, contrat où l'exploitant plante et reçoit une part de la terre) ou apport en capital de terres collectives exige l'accord préalable du conseil de gestion et l'approbation du gouverneur, à peine de nullité ; l'art. 5 bis permet l'expropriation pour utilité publique sans cet accord.", source: "https://majles.marsad.tn/fr/legislation/2016/07"}
+  langue: {valeur: "non_applicable", note: "Les collectivités titulaires sont des groupements fonciers, pas des communautés linguistiques.", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "Sans objet pour des groupements fonciers.", source: ""}
+effectivite: {valeur: "partielle", note: "Étude de 2010, antérieure à la réforme de 2016 : environ 1 350 000 ha attribués à 100 000 exploitants (chiffre de 2002) et 600 000 ha de parcours soumis au régime forestier (gestion confiée à l'administration des forêts) ; à Tataouine, 35 conseils de gestion sans aucune femme, dont 17 sur 35 hors situation régulière, aucun issu d'un congrès légal, des membres qui ne connaissent que le partage des terres et la gestion des conflits, et des décisions prises par le président après consultation des autorités.", source: "https://www.foncier-developpement.fr/wp-content/uploads/tunisie-foncier-FR.pdf"}
+chronologie:
+  - {annee: 1901, evenement: "Décret beylical du 14 janvier 1901 sur la délimitation des terres collectives."}
+  - {annee: 1935, evenement: "Décret du 30 décembre 1935 : personnalité civile et conseil de gestion élu en remplacement du conseil des notables (myaad)."}
+  - {annee: 1964, evenement: "Loi n° 64-28 du 4 juin 1964 fixant le régime des terres collectives."}
+  - {annee: 1965, evenement: "Décret n° 65-327 du 2 juillet 1965 : électorat et éligibilité ouverts à tout membre âgé de 20 ans."}
+  - {annee: 1971, evenement: "Loi n° 71-7 du 14 janvier 1971 : attribution des terres collectives en propriété privée aux membres."}
+  - {annee: 1988, evenement: "Loi n° 88-5 du 8 février 1988 modifiant la loi n° 64-28."}
+  - {annee: 2016, evenement: "Adoption le 27 juillet du projet de loi n° 07/2016 (83 voix pour, 1 contre, 11 abstentions) : arbitrage par les conseils de gestion, conseils de tutelle régionaux, délai de cinq ans pour achever les attributions."}
+fiabilite:
+  verifie: ["Texte des articles 1 à 6 du projet de loi n° 07/2016 et résultat du vote du 27 juillet 2016 (Marsad Majles).", "Art. 4 de la loi n° 64-28 sur la personnalité civile, cité par l'Arab Land Initiative (GLTN).", "Liste des textes modificatifs, 35 conseils de gestion à Tataouine, 3 millions d'hectares et 1 350 000 ha attribués (étude Foncier et développement, 2010)."]
+  non_confirme: ["Numéro et date de promulgation de la loi de 2016 au Journal officiel : texte non consulté sur une source officielle (portail legislation.tn inaccessible).", "Nombre national de collectivités et de conseils de gestion, et population des membres : aucune source trouvée.", "Surface actuelle : le chiffre de 3 millions d'hectares date de 1973 ; l'Arab Land Initiative indique que les terres collectives ont diminué de près de moitié depuis les années 1960.", "Aucune liste officielle des collectivités trouvée : pas de tableau des sites.", "Aucune reconnaissance onusienne ou régionale visant ce régime trouvée.", "Tataouine : l'étude de 2010 donne dans son texte près de 110 000 ha attribuables non apurés, et dans son tableau 15 56 560 ha non attribués.", "Effectivité de la réforme de 2016 (élections des conseils, achèvement des attributions dans le délai de cinq ans) : aucune source indépendante postérieure à 2016 consultée."]
+sources:
+  - {titre: "Projet de loi n° 07/2016 amendant et complétant la loi n° 64-28 — Marsad Majles", url: "https://majles.marsad.tn/fr/legislation/2016/07"}
+  - {titre: "Tunisia — Arab Land Initiative (GLTN, ONU-Habitat)", url: "https://arablandinitiative.gltn.net/countries/tunisia"}
+  - {titre: "Ben Saad et al., La privatisation des terres collectives dans les régions arides tunisiennes, cas de Tataouine — Comité Foncier et développement, 2010", url: "https://www.foncier-developpement.fr/wp-content/uploads/tunisie-foncier-FR.pdf"}

@@ -1,0 +1,58 @@
+uid: "amazighs-touaregs-toubous-libye"
+nom: "Amazighs, Touaregs et Toubous de Libye"
+endonyme: "Imazighen"
+territoire: "Djebel Nefoussa, Zouara, oasis de Ghadamès et de Ghat, Sud libyen"
+etats: ["Libye"]
+region: "afrique"
+coord: [31.9, 12.0]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "Aucun chiffre officiel. Minority Rights Group, sans année de comptage, estime les Amazighs entre 236 000 et 590 000 personnes (4 à 10 % de la population) et les Touaregs à environ 17 000 ; pas d'estimation pour les Toubous.", source: "https://minorityrights.org/country/libya/"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Amazighs vivent surtout dans le Djebel Nefoussa, à Zouara et dans les oasis de l'Ouest libyen ; les Touaregs dans le Sud-Ouest saharien, autour de Ghat ; les Toubous dans le Sud, en bordure du Tibesti.
+  La Déclaration constitutionnelle de 2011 (texte constitutionnel provisoire) garantit leurs droits linguistiques et culturels, l'arabe restant seule langue officielle.
+  La loi n° 18 de 2013 reconnaît leurs langues comme « composantes linguistiques et culturelles » de la société libyenne et ouvre leur enseignement comme matière optionnelle.
+  La loi n° 17 de 2013 leur attribue des sièges dans l'Assemblée constituante.
+  Aucune institution propre ni territoire n'est prévu par la loi.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité pour l'élimination de la discrimination raciale relève la présence de populations amazighes et touarègues (par. 6) et demande à la Libye de respecter le droit des Amazighs de parler leur langue et de favoriser son enseignement (par. 15).", annee: 2004, source: "https://docs.un.org/fr/CERD/C/64/CO/4"}
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme prend note d'informations sur la violation des droits d'un groupe d'Amazighs au titre de l'article 27 du Pacte (par. 26).", annee: 2007, source: "https://docs.un.org/fr/CCPR/C/LBY/CO/4"}
+base_nationale:
+  - {instrument: "Déclaration constitutionnelle du 3 août 2011, art. 1", nature: "constitution", annee: 2011, source: "https://www.constituteproject.org/constitution/Libya_2012"}
+  - {instrument: "Loi n° 18 de 2013 sur les droits des composantes culturelles et linguistiques (30 juillet 2013, Journal officiel n° 13 du 25 septembre 2013)", nature: "loi", annee: 2013, source: "https://security-legislation.ly/latest-laws/law-no-18-of-2013-on-the-rights-of-cultural-and-linguistic-components/"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Art. 1 de la Déclaration constitutionnelle de 2011 : l'arabe est la langue officielle, les droits linguistiques et culturels des Amazighs, des Toubous, des Touaregs et des autres composantes sont garantis. Le tamazight, le tamasheq et le tedaga n'ont pas de statut officiel.", source: "https://www.constituteproject.org/constitution/Libya_2012"}
+  education: {valeur: "partiel", note: "Loi n° 18 de 2013, art. 2 et 3 : droit d'apprendre leur langue comme matière optionnelle dans les programmes scolaires ; le ministère de l'Éducation fournit manuels et enseignants. Art. 5 : centres de recherche dans l'enseignement supérieur.", source: "https://security-legislation.ly/latest-laws/law-no-18-of-2013-on-the-rights-of-cultural-and-linguistic-components/"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Loi n° 17 de 2013 sur l'élection de l'Assemblée constituante, art. 1 (définition de la « composante » : Amazighs, Toubous, Touaregs) et art. 5 avec tableau annexé : sièges attribués aux composantes dans les circonscriptions du Djebel, de Koufra, d'Oubari, de Mourzouq et de Ghadamès. Minority Rights Group compte deux sièges par composante sur 60. La garantie ne vaut que pour l'Assemblée constituante.", source: "https://security-legislation.ly/latest-laws/law-no-17-of-2013-on-the-election-of-the-constituent-assembly-in-charge-of-drafting-the-constitution/"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon Minority Rights Group (mise à jour 2018), des écoles ont commencé à enseigner le tamazight avec des manuels conçus par des responsables amazighs, mais les enseignants qualifiés manquent ; les Amazighs ont annoncé en 2013 le boycott de l'élection de l'Assemblée constituante, jugeant insuffisants les deux sièges réservés ; les projets de constitution de 2015 et 2016 maintiennent l'arabe comme seule langue officielle.", source: "https://minorityrights.org/communities/imazighen/"}
+chronologie:
+  - {annee: 2004, evenement: "Le CERD relève des informations selon lesquelles la langue et la culture amazighes ne sont pas reconnues en Libye."}
+  - {annee: 2011, evenement: "Déclaration constitutionnelle du 3 août : garantie des droits linguistiques et culturels des Amazighs, Toubous et Touaregs (art. 1)."}
+  - {annee: 2013, evenement: "Loi n° 17 du 20 juillet sur l'élection de l'Assemblée constituante : la répartition des sièges doit assurer la représentation des composantes à caractère culturel et linguistique (art. 5 et tableau annexé)."}
+  - {annee: 2013, evenement: "Loi n° 18 du 30 juillet sur les droits des composantes culturelles et linguistiques, publiée au Journal officiel le 25 septembre."}
+  - {annee: 2015, evenement: "Élection du Haut Conseil amazigh en août, selon Minority Rights Group."}
+fiabilite:
+  verifie: ["Art. 1 de la Déclaration constitutionnelle (Constitute Project).", "Art. 1 à 7 de la loi n° 18 de 2013, dates de promulgation et de publication (security-legislation.ly).", "Art. 1 et 5 de la loi n° 17 de 2013 et tableau annexé (security-legislation.ly) : sièges de composante au Djebel, à Koufra, Oubari, Mourzouq et Ghadamès.", "Par. 6 et 15 de CERD/C/64/CO/4 (2004) et par. 26 de CCPR/C/LBY/CO/4 (2007)."]
+  non_confirme: ["Population : fourchette de Minority Rights Group sans année de comptage ; aucune estimation trouvée pour les Toubous.", "Nombre exact de sièges par composante : le tableau annexé à la loi n° 17 désigne explicitement un siège amazigh (Djebel), deux toubous et deux touaregs ; Minority Rights Group compte deux sièges par composante.", "Endonymes : « Imazighen » pour les Amazighs ; les noms propres des Touaregs (Kel Tamasheq) et des Toubous (Teda, Daza) ne sont pas vérifiés sur une source ouverte.", "Ampleur réelle de l'enseignement des trois langues dans les écoles publiques depuis 2013 : non chiffrée.", "Application à l'enseignement du tamasheq et du tedaga : non documentée."]
+sources:
+  - {titre: "Déclaration constitutionnelle de la Libye (2011, rév. 2012) — Constitute Project", url: "https://www.constituteproject.org/constitution/Libya_2012"}
+  - {titre: "Loi n° 18 de 2013 sur les droits des composantes culturelles et linguistiques — security-legislation.ly", url: "https://security-legislation.ly/latest-laws/law-no-18-of-2013-on-the-rights-of-cultural-and-linguistic-components/"}
+  - {titre: "Loi n° 17 de 2013 sur l'élection de l'Assemblée constituante — security-legislation.ly", url: "https://security-legislation.ly/latest-laws/law-no-17-of-2013-on-the-election-of-the-constituent-assembly-in-charge-of-drafting-the-constitution/"}
+  - {titre: "CERD — Observations finales sur la Jamahiriya arabe libyenne, CERD/C/64/CO/4 (2004)", url: "https://docs.un.org/fr/CERD/C/64/CO/4"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur la Jamahiriya arabe libyenne, CCPR/C/LBY/CO/4 (2007)", url: "https://docs.un.org/fr/CCPR/C/LBY/CO/4"}
+  - {titre: "Minority Rights Group — Imazighen (Libye)", url: "https://minorityrights.org/communities/imazighen/"}
+  - {titre: "Minority Rights Group — Libya", url: "https://minorityrights.org/country/libya/"}

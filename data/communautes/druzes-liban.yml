@@ -15,7 +15,8 @@ villages: {valeur: 136, annee: 2018, perimetre: "villages druzes du Liban", sour
 resume: >-
   Les Druzes, qui se nomment « unitaires » (muwaḥḥidūn), forment l'une des 18 communautés confessionnelles reconnues du Liban et vivent surtout dans les montagnes à l'est et au sud de Beyrouth.
   Une loi du 9 juin 2006 organise la communauté : un Conseil confessionnel gère ses affaires temporelles, sociales et financières et ses biens de mainmorte (waqfs), et élit le cheikh al-Aql, chef spirituel.
-  Leur statut personnel relève d'une loi du 24 février 1948, appliquée par des tribunaux druzes ; huit sièges de la Chambre des députés leur sont réservés.
+  Leur statut personnel relève d'une loi du 24 février 1948, appliquée par des tribunaux druzes de l'État ; huit sièges de la Chambre des députés leur sont réservés.
+  Les autres communautés confessionnelles du Liban relèvent de la fiche « Communautés confessionnelles historiques du Liban ».
 reconnaissance_regionale: []
 reconnaissance_onu: []
 base_nationale:
@@ -25,7 +26,7 @@ base_nationale:
 droits:
   autogouvernement: {valeur: "reconnu", note: "Loi du 9 juin 2006, art. 7 : le Conseil confessionnel administre les affaires temporelles, sociales et financières et les intérêts religieux de la communauté ; il élit le cheikh al-Aql (art. 8) pour quinze ans renouvelables (art. 30).", source: "https://mouwahidoundruze.gov.lb/haykaliya/33/1"}
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
-  justice_propre: {valeur: "reconnu", note: "Des tribunaux druzes, dont une Haute Cour d'appel druze, appliquent la loi de 1948 sur le statut personnel ; art. 9 de la Constitution : l'État respecte le régime du statut personnel des communautés.", source: "https://english.legal-agenda.com/lebanons-druze-personal-status-law-developing-deference-to-the-constitution/"}
+  justice_propre: {valeur: "non_etabli", note: "Les tribunaux druzes, qui appliquent la loi de 1948, sont des juridictions de l'État : leurs juges sont nommés par décret du Conseil des ministres et rémunérés par l'État (EuroMed Droits, 2018) ; le régime relève du statut personnel.", source: "https://euromedrights.org/wp-content/uploads/2018/03/LEBANON-The-Independence-and-Impartiality-of-the-Judiciary-EN.pdf"}
   terres: {valeur: "non_etabli", note: "", source: ""}
   ressources: {valeur: "partiel", note: "Loi du 9 juin 2006, art. 8 : le Conseil confessionnel supervise les waqfs (biens de mainmorte) et les institutions de la communauté.", source: "https://mouwahidoundruze.gov.lb/haykaliya/33/1"}
   consentement: {valeur: "non_etabli", note: "", source: ""}

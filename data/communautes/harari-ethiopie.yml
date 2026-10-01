@@ -1,0 +1,51 @@
+uid: "harari-ethiopie"
+nom: "Harari"
+endonyme: "Gēy Usuach"
+territoire: "État régional du peuple harari (Harar)"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [9.3, 42.1]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 183415, annee: 2007, perimetre: "population de l'État régional harari, toutes appartenances (recensement de 2007) ; les Harari en représentaient 8,65 %", source: "https://en.wikipedia.org/wiki/Harari_Region"}
+lieux: {valeur: 9, unite: "woredas (districts) de l'État régional", annee: 2025, source: "https://en.wikipedia.org/wiki/Harari_Region"}
+surface_km2: {valeur: 334, annee: 2025, perimetre: "superficie de l'État régional harari", source: "https://en.wikipedia.org/wiki/Harari_Region"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Harari sont une « nation, nationalité et peuple » au sens de la Constitution fédérale éthiopienne, originaire de la ville de Harar, dans l'est du pays.
+  L'article 47 de la Constitution fédérale fait de « l'État du peuple harari » l'un des États membres de la fédération, alors que les Harari sont minoritaires dans cette région.
+  Selon la Constitution régionale révisée en 2004, l'assemblée régionale compte 36 sièges, dont 14 reviennent au Conseil national harari, élu par les Harari de toute l'Éthiopie et compétent pour la langue, la culture et le patrimoine harari.
+  Le régime combine une autonomie territoriale (la région) et une autonomie personnelle (un électorat défini par l'appartenance, quel que soit le lieu de résidence).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 39, 47, 50, 52, 54, 61, 78 et 97", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {instrument: "Constitution révisée de l'État régional du peuple harari, art. 48, 49, 59 et 63", nature: "constitution", annee: 2004, source: "https://addisstandard.com/view-point-harari-people-self-administration-electoral-system-clearing-wrong-perceptions/"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Art. 47(1) de la Constitution fédérale : « l'État du peuple harari » figure parmi les neuf États membres énumérés ; Constitution régionale de 2004 : assemblée régionale de 36 sièges, dont 22 au Conseil du peuple harari et 14 au Conseil national harari.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Art. 52(2)(b) de la Constitution fédérale : chaque État adopte sa constitution et ses lois ; art. 59 de la Constitution régionale : le Conseil national harari adopte politiques et lois sur la culture, la langue et le patrimoine historique et culturel harari.", source: "https://addisstandard.com/view-point-harari-people-self-administration-electoral-system-clearing-wrong-perceptions/"}
+  justice_propre: {valeur: "reconnu", note: "Art. 50(2) de la Constitution fédérale : les États détiennent le pouvoir judiciaire ; art. 78(5) : les Conseils des États peuvent créer ou reconnaître des tribunaux religieux et coutumiers.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  terres: {valeur: "partiel", note: "Art. 40(3) de la Constitution fédérale : la terre est propriété commune des nations, nationalités et peuples, inaliénable ; art. 52(2)(d) : les États l'administrent selon la loi fédérale.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "partiel", note: "Art. 52(2)(d) de la Constitution fédérale : les États administrent la terre et les autres ressources naturelles conformément aux lois fédérales.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Art. 39(2) de la Constitution fédérale : droit de parler, écrire et développer sa langue ; art. 59 de la Constitution régionale : le Conseil national harari légifère sur la langue harari.", source: "https://addisstandard.com/view-point-harari-people-self-administration-electoral-system-clearing-wrong-perceptions/"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Art. 97 de la Constitution fédérale : les États lèvent l'impôt sur le revenu des salariés de l'État et des entreprises privées, les redevances d'usufruit foncier et d'autres impôts.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  representation: {valeur: "reconnu", note: "Constitution régionale de 2004 : 14 des 36 sièges de l'assemblée régionale et un siège réservé à la Chambre des représentants des peuples (chambre basse fédérale) sont élus par les Harari de tout le pays ; art. 61(2) de la Constitution fédérale : au moins un siège à la Chambre de la Fédération (chambre haute).", source: "https://addisstandard.com/view-point-harari-people-self-administration-electoral-system-clearing-wrong-perceptions/"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) de la Constitution fédérale : droit inconditionnel à l'autodétermination, y compris la sécession (séparation d'avec l'État), par vote aux deux tiers du conseil législatif puis référendum organisé par l'État fédéral dans les trois ans. Jamais exercé.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "effective", note: "Selon un ancien conseiller juridique de la présidence régionale (2021), le mode d'élection a été appliqué lors de cinq élections nationales et régionales consécutives, et la Commission électorale nationale a perdu devant la chambre de cassation de la Cour suprême fédérale. En mai 2026, un tribunal de l'État régional harari (dossier 0916) interdit à un membre du parti EZEMA et à d'autres personnes de se présenter, au motif que l'appartenance harari conditionne le droit d'élire et d'être élu au conseil régional ; EZEMA, qui dit que son membre briguait un siège au Parlement fédéral, conteste la décision.", source: "https://borkena.com/ezema-disputes-court-ruling-over-candidate-in-harari-which-showcases-the-brute-of-ethnic-federalism/"}
+chronologie:
+  - {annee: 1994, evenement: "Adoption de la Constitution fédérale : « l'État du peuple harari » figure parmi les neuf États membres (art. 47)."}
+  - {annee: 2004, evenement: "Révision de la Constitution régionale : Conseil national harari (14 sièges sur 36) élu par les Harari de tout le pays (art. 48, 49 et 59) ; il propose le président de la région (art. 59(4) et 63(1))."}
+  - {annee: 2026, evenement: "Un tribunal de l'État régional harari interdit à un membre du parti EZEMA et à d'autres personnes de se présenter, au motif que l'appartenance harari conditionne le droit d'élire et d'être élu au conseil régional ; EZEMA conteste la décision."}
+fiabilite:
+  verifie: ["Art. 39, 47(1), 54(3) et 61(2) de la Constitution fédérale (Constitute Project).", "Répartition des 36 sièges (22 et 14), électorat national du Conseil national harari et siège réservé à la Chambre des représentants des peuples (Addis Standard, 3 juin 2021).", "Décision du tribunal régional (dossier 0916) et contestation du parti EZEMA, mai 2026 (Borkena, 29 mai 2026).", "Art. 40(3), 50(2), 52(2), 78(5) et 97 de la Constitution fédérale (Constitute Project)."]
+  non_confirme: ["Texte de la Constitution régionale de 2004 non consulté directement : art. 48, 49, 59 et 63 connus par un article d'opinion de son ancien conseiller juridique.", "Date exacte et numéro de l'arrêt de cassation contre la Commission électorale : antérieur à juin 2021, qualifié de « récent » par l'auteur.", "Population, surface et nombre de woredas tirés d'une encyclopédie, non du rapport de l'Agence centrale de la statistique.", "Nombre de Harari dans l'ensemble du pays : aucun chiffre sourcé retenu.", "Forme de l'endonyme : « Gēy Usuach » selon l'encyclopédie (article « Harari people »), « Gey Usu' » dans d'autres graphies.", "Langues officielles de la région (harari et oromo selon l'encyclopédie) : non vérifiées sur un texte."]
+sources:
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "Yusuf Ali Mohammed — Harari People self-administration electoral system: clearing wrong perceptions, Addis Standard (2021)", url: "https://addisstandard.com/view-point-harari-people-self-administration-electoral-system-clearing-wrong-perceptions/"}
+  - {titre: "Borkena — Court ruling on EZEMA candidate in Harari (2026)", url: "https://borkena.com/ezema-disputes-court-ruling-over-candidate-in-harari-which-showcases-the-brute-of-ethnic-federalism/"}
+  - {titre: "Harari Region — Wikipedia", url: "https://en.wikipedia.org/wiki/Harari_Region"}
+  - {titre: "Harari people — Wikipedia", url: "https://en.wikipedia.org/wiki/Harari_people"}

@@ -1,0 +1,396 @@
+nom,subdivision,surface_km2,annee,source_url
+Mapepala,"Chibombo, province du Centre",64,2021,https://cfmg.mgee.gov.zm/api/cfmg/109
+Mpelembe,"Chibombo, province du Centre",66.35,2020,https://cfmg.mgee.gov.zm/api/cfmg/106
+Chibanga,"Chisamba, province du Centre",0.22,,https://cfmg.mgee.gov.zm/api/cfmg/392
+Mulembo,"Chitambo, province du Centre",190,2022,https://cfmg.mgee.gov.zm/api/cfmg/84
+Musangashi,"Chitambo, province du Centre",19.77,2021,https://cfmg.mgee.gov.zm/api/cfmg/110
+Nabowa,"Chitambo, province du Centre",73,2021,https://cfmg.mgee.gov.zm/api/cfmg/108
+Njelele,"Chitambo, province du Centre",100.13,2020,https://cfmg.mgee.gov.zm/api/cfmg/107
+Reuben,"Chitambo, province du Centre",45.25,2020,https://cfmg.mgee.gov.zm/api/cfmg/105
+Chembe,"Luano, province du Centre",1072.54,2024,https://cfmg.mgee.gov.zm/api/cfmg/394
+Kanyenshya,"Luano, province du Centre",277.43,,https://cfmg.mgee.gov.zm/api/cfmg/499
+Kaundula,"Luano, province du Centre",100.93,,https://cfmg.mgee.gov.zm/api/cfmg/500
+Mboroma,"Luano, province du Centre",1001.8,2024,https://cfmg.mgee.gov.zm/api/cfmg/393
+Mboshya,"Luano, province du Centre",456.59,2024,https://cfmg.mgee.gov.zm/api/cfmg/31
+Mulungwe,"Mkushi, province du Centre",56.74,,https://cfmg.mgee.gov.zm/api/cfmg/534
+Chipa,"Mumbwa, province du Centre",82.35,2023,https://cfmg.mgee.gov.zm/api/cfmg/28
+Kabulwebulwe,"Mumbwa, province du Centre",2,2023,https://cfmg.mgee.gov.zm/api/cfmg/25
+Kaindu,"Mumbwa, province du Centre",484.36,2023,https://cfmg.mgee.gov.zm/api/cfmg/27
+Moono,"Mumbwa, province du Centre",157.35,2023,https://cfmg.mgee.gov.zm/api/cfmg/26
+Mulendema,"Mumbwa, province du Centre",164.69,2023,https://cfmg.mgee.gov.zm/api/cfmg/29
+Namwanja,"Mumbwa, province du Centre",63.75,,https://cfmg.mgee.gov.zm/api/cfmg/23
+Shakumbila,"Mumbwa, province du Centre",129.83,2023,https://cfmg.mgee.gov.zm/api/cfmg/30
+Chibale,"Serenje, province du Centre",148.75,,https://cfmg.mgee.gov.zm/api/cfmg/580
+Chisomo,"Serenje, province du Centre",1587.13,2023,https://cfmg.mgee.gov.zm/api/cfmg/219
+Kabamba,"Serenje, province du Centre",89.96,2022,https://cfmg.mgee.gov.zm/api/cfmg/87
+Kampabwa,"Serenje, province du Centre",32,2022,https://cfmg.mgee.gov.zm/api/cfmg/82
+Mukopa,"Serenje, province du Centre",330.6,2022,https://cfmg.mgee.gov.zm/api/cfmg/85
+Nambo,"Serenje, province du Centre",288.62,2022,https://cfmg.mgee.gov.zm/api/cfmg/86
+Teta,"Serenje, province du Centre",4.44,2022,https://cfmg.mgee.gov.zm/api/cfmg/83
+Fungulwe,"Lufwanyama, province de Copperbelt",3231.59,,https://cfmg.mgee.gov.zm/api/cfmg/235
+Lumpuma,"Lufwanyama, province de Copperbelt",40,,https://cfmg.mgee.gov.zm/api/cfmg/389
+Mukumbo,"Lufwanyama, province de Copperbelt",13.42,,https://cfmg.mgee.gov.zm/api/cfmg/391
+Imanda,"Mpongwe, province de Copperbelt",22.38,,https://cfmg.mgee.gov.zm/api/cfmg/390
+Machiya,"Mpongwe, province de Copperbelt",503.65,,https://cfmg.mgee.gov.zm/api/cfmg/388
+Chandolo,"Chadiza, province de l’Est",2.18,2024,https://cfmg.mgee.gov.zm/api/cfmg/269
+Chikanga,"Chadiza, province de l’Est",49.37,,https://cfmg.mgee.gov.zm/api/cfmg/462
+Kapachi,"Chadiza, province de l’Est",0.24,2021,https://cfmg.mgee.gov.zm/api/cfmg/55
+Kaziputa-Limba,"Chadiza, province de l’Est",6.04,2022,https://cfmg.mgee.gov.zm/api/cfmg/7
+Khumba,"Chadiza, province de l’Est",0.77,2022,https://cfmg.mgee.gov.zm/api/cfmg/6
+Makwangwala,"Chadiza, province de l’Est",0.1,2021,https://cfmg.mgee.gov.zm/api/cfmg/53
+Chabulika,"Chama, province de l’Est",656.1,2022,https://cfmg.mgee.gov.zm/api/cfmg/80
+Chifunda,"Chama, province de l’Est",400,2023,https://cfmg.mgee.gov.zm/api/cfmg/36
+Chikwa,"Chama, province de l’Est",803.57,2023,https://cfmg.mgee.gov.zm/api/cfmg/37
+Chilumba,"Chama, province de l’Est",125,2022,https://cfmg.mgee.gov.zm/api/cfmg/113
+Chisope,"Chama, province de l’Est",701,2022,https://cfmg.mgee.gov.zm/api/cfmg/79
+Kambombo Nature Park,"Chama, province de l’Est",771.82,2023,https://cfmg.mgee.gov.zm/api/cfmg/32
+Kamimbili,"Chama, province de l’Est",295,,https://cfmg.mgee.gov.zm/api/cfmg/124
+Katenya,"Chama, province de l’Est",232.79,2023,https://cfmg.mgee.gov.zm/api/cfmg/33
+Limwezi,"Chama, province de l’Est",1032.38,2022,https://cfmg.mgee.gov.zm/api/cfmg/195
+Lundu,"Chama, province de l’Est",389.07,,https://cfmg.mgee.gov.zm/api/cfmg/73
+Luvila,"Chama, province de l’Est",803.57,2023,https://cfmg.mgee.gov.zm/api/cfmg/237
+Magologodo Luswang'ombe,"Chama, province de l’Est",85.33,,https://cfmg.mgee.gov.zm/api/cfmg/125
+Mulilo,"Chama, province de l’Est",288.38,2022,https://cfmg.mgee.gov.zm/api/cfmg/71
+Nthabalumba,"Chama, province de l’Est",54.53,,https://cfmg.mgee.gov.zm/api/cfmg/123
+Tembwe,"Chama, province de l’Est",367.45,2021,https://cfmg.mgee.gov.zm/api/cfmg/75
+Tiyeseko,"Chama, province de l’Est",123.03,,https://cfmg.mgee.gov.zm/api/cfmg/81
+Chigomezyo,"Chasefu, province de l’Est",0.87,2021,https://cfmg.mgee.gov.zm/api/cfmg/64
+Kamzoole,"Chasefu, province de l’Est",54.8,,https://cfmg.mgee.gov.zm/api/cfmg/505
+Chanje,"Chipangali, province de l’Est",119.35,,https://cfmg.mgee.gov.zm/api/cfmg/471
+Kapatamoyo,"Chipangali, province de l’Est",88.22,,https://cfmg.mgee.gov.zm/api/cfmg/473
+Mshawa,"Chipangali, province de l’Est",66.09,,https://cfmg.mgee.gov.zm/api/cfmg/474
+Diwa,"Chipata, province de l’Est",4.29,,https://cfmg.mgee.gov.zm/api/cfmg/491
+Masupe,"Chipata, province de l’Est",3.12,,https://cfmg.mgee.gov.zm/api/cfmg/270
+Mpezeni,"Chipata, province de l’Est",25.31,,https://cfmg.mgee.gov.zm/api/cfmg/17
+Msipazi,"Chipata, province de l’Est",1,,https://cfmg.mgee.gov.zm/api/cfmg/271
+Ambizi,"Kasenengwa, province de l’Est",14.62,,https://cfmg.mgee.gov.zm/api/cfmg/490
+Banki,"Kasenengwa, province de l’Est",1.95,2021,https://cfmg.mgee.gov.zm/api/cfmg/100
+Chikuwe,"Kasenengwa, province de l’Est",14.02,,https://cfmg.mgee.gov.zm/api/cfmg/190
+Chisambala,"Kasenengwa, province de l’Est",5.26,,https://cfmg.mgee.gov.zm/api/cfmg/472
+Kaungo,"Kasenengwa, province de l’Est",4.56,,https://cfmg.mgee.gov.zm/api/cfmg/492
+Lutembwe,"Kasenengwa, province de l’Est",4.68,2024,https://cfmg.mgee.gov.zm/api/cfmg/236
+Malambalala,"Kasenengwa, province de l’Est",4.66,2021,https://cfmg.mgee.gov.zm/api/cfmg/101
+Mukwaba,"Kasenengwa, province de l’Est",6.53,2022,https://cfmg.mgee.gov.zm/api/cfmg/2
+Nzamane,"Kasenengwa, province de l’Est",,,https://cfmg.mgee.gov.zm/api/cfmg/188
+Nzamane,"Kasenengwa, province de l’Est",,,https://cfmg.mgee.gov.zm/api/cfmg/263
+Chiswa,"Katete, province de l’Est",6.13,2024,https://cfmg.mgee.gov.zm/api/cfmg/292
+Kangwelema,"Katete, province de l’Est",10.14,2024,https://cfmg.mgee.gov.zm/api/cfmg/265
+Lunga,"Katete, province de l’Est",6.42,2023,https://cfmg.mgee.gov.zm/api/cfmg/15
+Mindola,"Katete, province de l’Est",4.7,2024,https://cfmg.mgee.gov.zm/api/cfmg/293
+Kaulasisi,"Lumezi, province de l’Est",313.34,2021,https://cfmg.mgee.gov.zm/api/cfmg/63
+Kazembe,"Lumezi, province de l’Est",315.16,2021,https://cfmg.mgee.gov.zm/api/cfmg/59
+Lumimba,"Lumezi, province de l’Est",101.17,,https://cfmg.mgee.gov.zm/api/cfmg/357
+Chikomeni,"Lundazi, province de l’Est",161.38,2021,https://cfmg.mgee.gov.zm/api/cfmg/147
+Chitungulu,"Lundazi, province de l’Est",399.2,2020,https://cfmg.mgee.gov.zm/api/cfmg/155
+Kaluwe,"Lundazi, province de l’Est",5,,https://cfmg.mgee.gov.zm/api/cfmg/277
+Lundazi dam,"Lundazi, province de l’Est",3.24,2024,https://cfmg.mgee.gov.zm/api/cfmg/294
+Magodi,"Lundazi, province de l’Est",433.08,2020,https://cfmg.mgee.gov.zm/api/cfmg/148
+Mapili,"Lundazi, province de l’Est",2.83,2023,https://cfmg.mgee.gov.zm/api/cfmg/14
+Mphamba,"Lundazi, province de l’Est",82.24,,https://cfmg.mgee.gov.zm/api/cfmg/199
+Mwanya,"Lundazi, province de l’Est",874.17,2019,https://cfmg.mgee.gov.zm/api/cfmg/140
+Mwasephangwe,"Lundazi, province de l’Est",401.62,,https://cfmg.mgee.gov.zm/api/cfmg/150
+Zumwanda,"Lundazi, province de l’Est",430.77,,https://cfmg.mgee.gov.zm/api/cfmg/149
+Chikowa,"Lusangazi, province de l’Est",10.4,,https://cfmg.mgee.gov.zm/api/cfmg/567
+Kachenje Mutondo,"Lusangazi, province de l’Est",27.71,2022,https://cfmg.mgee.gov.zm/api/cfmg/11
+Tunganyama,"Lusangazi, province de l’Est",4.56,,https://cfmg.mgee.gov.zm/api/cfmg/285
+njazi,"Lusangazi, province de l’Est",4.67,,https://cfmg.mgee.gov.zm/api/cfmg/284
+Jumbe,"Mambwe, province de l’Est",162,2019,https://cfmg.mgee.gov.zm/api/cfmg/142
+Kalonga,"Mambwe, province de l’Est",63.43,,https://cfmg.mgee.gov.zm/api/cfmg/359
+Kamuwawa,"Mambwe, province de l’Est",4.7,2023,https://cfmg.mgee.gov.zm/api/cfmg/1
+Malama,"Mambwe, province de l’Est",322.83,2019,https://cfmg.mgee.gov.zm/api/cfmg/146
+Mnkhanya,"Mambwe, province de l’Est",344.84,2019,https://cfmg.mgee.gov.zm/api/cfmg/143
+Mpomwa,"Mambwe, province de l’Est",66.98,2023,https://cfmg.mgee.gov.zm/api/cfmg/16
+Msandile,"Mambwe, province de l’Est",237.5,,https://cfmg.mgee.gov.zm/api/cfmg/200
+Msoro,"Mambwe, province de l’Est",240.76,2019,https://cfmg.mgee.gov.zm/api/cfmg/139
+Chilinga,"Nyimba, province de l’Est",93.28,2022,https://cfmg.mgee.gov.zm/api/cfmg/228
+Kacholola,"Nyimba, province de l’Est",152,,https://cfmg.mgee.gov.zm/api/cfmg/566
+Kalongo Mwape,"Nyimba, province de l’Est",308,2021,https://cfmg.mgee.gov.zm/api/cfmg/56
+Kaselekete,"Nyimba, province de l’Est",3.57,2024,https://cfmg.mgee.gov.zm/api/cfmg/287
+Luembe,"Nyimba, province de l’Est",151.81,2019,https://cfmg.mgee.gov.zm/api/cfmg/145
+Msima,"Nyimba, province de l’Est",5.38,,https://cfmg.mgee.gov.zm/api/cfmg/273
+"Ng,ambwa","Nyimba, province de l’Est",69.53,,https://cfmg.mgee.gov.zm/api/cfmg/302
+Ngambwe,"Nyimba, province de l’Est",69.53,,https://cfmg.mgee.gov.zm/api/cfmg/276
+Nkasako,"Nyimba, province de l’Est",1.32,2024,https://cfmg.mgee.gov.zm/api/cfmg/275
+Kaloko,"Petauke, province de l’Est",0.12,,https://cfmg.mgee.gov.zm/api/cfmg/186
+Kalumphira,"Petauke, province de l’Est",0.1,,https://cfmg.mgee.gov.zm/api/cfmg/5
+Mandebvu,"Petauke, province de l’Est",0.08,,https://cfmg.mgee.gov.zm/api/cfmg/4
+Matonga,"Petauke, province de l’Est",5.57,2021,https://cfmg.mgee.gov.zm/api/cfmg/103
+Mwanjabantu,"Petauke, province de l’Est",82.12,,https://cfmg.mgee.gov.zm/api/cfmg/262
+Mwanza,"Petauke, province de l’Est",1.15,2021,https://cfmg.mgee.gov.zm/api/cfmg/104
+Sandwe,"Petauke, province de l’Est",859.78,2020,https://cfmg.mgee.gov.zm/api/cfmg/154
+Titukuke,"Petauke, province de l’Est",0.56,,https://cfmg.mgee.gov.zm/api/cfmg/286
+Kandongwe,"Sinda, province de l’Est",13.96,,https://cfmg.mgee.gov.zm/api/cfmg/358
+Lwandazi,"Sinda, province de l’Est",1.2,2022,https://cfmg.mgee.gov.zm/api/cfmg/61
+Mpenya,"Sinda, province de l’Est",0.4,2022,https://cfmg.mgee.gov.zm/api/cfmg/62
+Kankhoma,"Vubwi, province de l’Est",10.09,2022,https://cfmg.mgee.gov.zm/api/cfmg/9
+Matemba,"Vubwi, province de l’Est",0.82,2021,https://cfmg.mgee.gov.zm/api/cfmg/60
+Maumba,"Vubwi, province de l’Est",2.54,2022,https://cfmg.mgee.gov.zm/api/cfmg/10
+Chibuye,"Chifunabuli, province de Luapula",13.97,,https://cfmg.mgee.gov.zm/api/cfmg/463
+Kafwimbi,"Chifunabuli, province de Luapula",2.5,,https://cfmg.mgee.gov.zm/api/cfmg/464
+Kasansa,"Chifunabuli, province de Luapula",33.24,,https://cfmg.mgee.gov.zm/api/cfmg/465
+Mweshilungu,"Chifunabuli, province de Luapula",24.46,,https://cfmg.mgee.gov.zm/api/cfmg/466
+Mwewa,"Chifunabuli, province de Luapula",22.66,,https://cfmg.mgee.gov.zm/api/cfmg/467
+Mutipula,"Chipili, province de Luapula",45.49,,https://cfmg.mgee.gov.zm/api/cfmg/551
+Chilengwe,"Kawambwa, province de Luapula",3.25,,https://cfmg.mgee.gov.zm/api/cfmg/544
+Kabembe,"Kawambwa, province de Luapula",33.5,2021,https://cfmg.mgee.gov.zm/api/cfmg/93
+Lubulafita,"Kawambwa, province de Luapula",79.32,,https://cfmg.mgee.gov.zm/api/cfmg/548
+Nabuyambi,"Kawambwa, province de Luapula",0.61,,https://cfmg.mgee.gov.zm/api/cfmg/493
+Kashiba,"Mwense, province de Luapula",0.8,,https://cfmg.mgee.gov.zm/api/cfmg/546
+Luapula,"Mwense, province de Luapula",0.15,,https://cfmg.mgee.gov.zm/api/cfmg/547
+Mulundu,"Mwense, province de Luapula",3.09,,https://cfmg.mgee.gov.zm/api/cfmg/549
+Nkolama,"Mwense, province de Luapula",0.16,,https://cfmg.mgee.gov.zm/api/cfmg/554
+Kanyembo,"Nchelenge, province de Luapula",10.4,2021,https://cfmg.mgee.gov.zm/api/cfmg/94
+Munkombwe,"Nchelenge, province de Luapula",100,,https://cfmg.mgee.gov.zm/api/cfmg/550
+Chiawa,"Kafue, province de Lusaka",682.05,2021,https://cfmg.mgee.gov.zm/api/cfmg/89
+Sango Mari,"Kafue, province de Lusaka",600,,https://cfmg.mgee.gov.zm/api/cfmg/481
+Chikunda,"Luangwa, province de Lusaka",4.93,,https://cfmg.mgee.gov.zm/api/cfmg/498
+Mburuma,"Luangwa, province de Lusaka",665.2,2021,https://cfmg.mgee.gov.zm/api/cfmg/91
+Mphuka,"Luangwa, province de Lusaka",258.81,2021,https://cfmg.mgee.gov.zm/api/cfmg/90
+Chalimbana,"Lusaka, province de Lusaka",7.16,,https://cfmg.mgee.gov.zm/api/cfmg/92
+Fulamponje,"Rufunsa, province de Lusaka",105.52,,https://cfmg.mgee.gov.zm/api/cfmg/579
+Kasumba,"Rufunsa, province de Lusaka",7.39,,https://cfmg.mgee.gov.zm/api/cfmg/20
+Mphanshya,"Rufunsa, province de Lusaka",846.63,2019,https://cfmg.mgee.gov.zm/api/cfmg/156
+Ndubulula,"Rufunsa, province de Lusaka",0.94,2021,https://cfmg.mgee.gov.zm/api/cfmg/88
+Shikabeta,"Rufunsa, province de Lusaka",1183.48,2019,https://cfmg.mgee.gov.zm/api/cfmg/157
+Chambeshi,"Chinsali, province de Muchinga",,2021,https://cfmg.mgee.gov.zm/api/cfmg/122
+Chapalakata,"Chinsali, province de Muchinga",,2018,https://cfmg.mgee.gov.zm/api/cfmg/158
+Katalalika,"Chinsali, province de Muchinga",62.54,,https://cfmg.mgee.gov.zm/api/cfmg/469
+Mubanga,"Chinsali, province de Muchinga",320,2021,https://cfmg.mgee.gov.zm/api/cfmg/121
+Nkula,"Chinsali, province de Muchinga",137.75,,https://cfmg.mgee.gov.zm/api/cfmg/470
+Kampumbu,"Isoka, province de Muchinga",39.88,,https://cfmg.mgee.gov.zm/api/cfmg/479
+Katyetye,"Isoka, province de Muchinga",547.03,,https://cfmg.mgee.gov.zm/api/cfmg/480
+Muyobwe,"Isoka, province de Muchinga",93.62,,https://cfmg.mgee.gov.zm/api/cfmg/120
+Nampando,"Isoka, province de Muchinga",246.19,,https://cfmg.mgee.gov.zm/api/cfmg/119
+Kapumfi,"Kanchibiya, province de Muchinga",45.53,,https://cfmg.mgee.gov.zm/api/cfmg/414
+Lokomwila,"Kanchibiya, province de Muchinga",19.9,,https://cfmg.mgee.gov.zm/api/cfmg/251
+Mulonga,"Kanchibiya, province de Muchinga",27.81,,https://cfmg.mgee.gov.zm/api/cfmg/252
+Shimumakote,"Kanchibiya, province de Muchinga",150.47,2023,https://cfmg.mgee.gov.zm/api/cfmg/230
+Chimyanga Muchele,"Lavushimanda, province de Muchinga",,2021,https://cfmg.mgee.gov.zm/api/cfmg/69
+Chintasama,"Lavushimanda, province de Muchinga",3.96,,https://cfmg.mgee.gov.zm/api/cfmg/250
+Mabonga Kosapo,"Lavushimanda, province de Muchinga",146.44,2020,https://cfmg.mgee.gov.zm/api/cfmg/111
+Mabyulu,"Lavushimanda, province de Muchinga",1.27,,https://cfmg.mgee.gov.zm/api/cfmg/411
+Mibobo,"Lavushimanda, province de Muchinga",24.72,2021,https://cfmg.mgee.gov.zm/api/cfmg/70
+Muchilwe,"Lavushimanda, province de Muchinga",40.45,,https://cfmg.mgee.gov.zm/api/cfmg/412
+Muponyangala,"Lavushimanda, province de Muchinga",16.71,,https://cfmg.mgee.gov.zm/api/cfmg/409
+Mwenda Chipalabwe,"Lavushimanda, province de Muchinga",81.69,,https://cfmg.mgee.gov.zm/api/cfmg/112
+Salamo,"Lavushimanda, province de Muchinga",8.76,,https://cfmg.mgee.gov.zm/api/cfmg/35
+Chipungu,"Mafinga, province de Muchinga",10.04,,https://cfmg.mgee.gov.zm/api/cfmg/517
+Lighton,"Mafinga, province de Muchinga",3,,https://cfmg.mgee.gov.zm/api/cfmg/518
+Luamafinga,"Mafinga, province de Muchinga",1.67,,https://cfmg.mgee.gov.zm/api/cfmg/519
+Makombe,"Mafinga, province de Muchinga",20.67,,https://cfmg.mgee.gov.zm/api/cfmg/520
+Muyombe,"Mafinga, province de Muchinga",382,2022,https://cfmg.mgee.gov.zm/api/cfmg/76
+Mwenechifungwe,"Mafinga, province de Muchinga",104.6,,https://cfmg.mgee.gov.zm/api/cfmg/521
+Mweniwisi,"Mafinga, province de Muchinga",105.72,,https://cfmg.mgee.gov.zm/api/cfmg/522
+Mwita,"Mafinga, province de Muchinga",15,2022,https://cfmg.mgee.gov.zm/api/cfmg/77
+Samu,"Mafinga, province de Muchinga",8.05,2022,https://cfmg.mgee.gov.zm/api/cfmg/78
+Ilumbwe,"Mpika, province de Muchinga",192.51,2021,https://cfmg.mgee.gov.zm/api/cfmg/116
+Kakoko,"Mpika, province de Muchinga",210.96,2021,https://cfmg.mgee.gov.zm/api/cfmg/66
+Kaloswe,"Mpika, province de Muchinga",10.53,2021,https://cfmg.mgee.gov.zm/api/cfmg/68
+Katongo Kapala,"Mpika, province de Muchinga",23.94,2021,https://cfmg.mgee.gov.zm/api/cfmg/114
+Lubanga,"Mpika, province de Muchinga",36.01,,https://cfmg.mgee.gov.zm/api/cfmg/118
+Lukalu,"Mpika, province de Muchinga",9.6,,https://cfmg.mgee.gov.zm/api/cfmg/413
+Lumika,"Mpika, province de Muchinga",8.67,2021,https://cfmg.mgee.gov.zm/api/cfmg/65
+Mufushi,"Mpika, province de Muchinga",106.98,2021,https://cfmg.mgee.gov.zm/api/cfmg/117
+Mukungule,"Mpika, province de Muchinga",314.69,2023,https://cfmg.mgee.gov.zm/api/cfmg/226
+Mukungule Menshi,"Mpika, province de Muchinga",7.55,2019,https://cfmg.mgee.gov.zm/api/cfmg/170
+Nabwalya,"Mpika, province de Muchinga",635.13,,https://cfmg.mgee.gov.zm/api/cfmg/38
+Nkomba-Mutekwa,"Mpika, province de Muchinga",6.86,2019,https://cfmg.mgee.gov.zm/api/cfmg/169
+Sambaulye,"Mpika, province de Muchinga",21,2021,https://cfmg.mgee.gov.zm/api/cfmg/67
+Tubombeshe,"Mpika, province de Muchinga",77.16,2021,https://cfmg.mgee.gov.zm/api/cfmg/115
+Isalala,"Nakonde, province de Muchinga",1.08,2018,https://cfmg.mgee.gov.zm/api/cfmg/167
+Nyambala,"Nakonde, province de Muchinga",3.43,2018,https://cfmg.mgee.gov.zm/api/cfmg/168
+Chisoso,"Shiwangandu, province de Muchinga",0.98,2018,https://cfmg.mgee.gov.zm/api/cfmg/161
+Filamba,"Shiwangandu, province de Muchinga",5.58,2018,https://cfmg.mgee.gov.zm/api/cfmg/160
+Kafwaya,"Shiwangandu, province de Muchinga",4.39,2018,https://cfmg.mgee.gov.zm/api/cfmg/162
+Kateshi,"Shiwangandu, province de Muchinga",1.28,2018,https://cfmg.mgee.gov.zm/api/cfmg/164
+Mukwikile,"Shiwangandu, province de Muchinga",41.19,,https://cfmg.mgee.gov.zm/api/cfmg/582
+Mwilwa Mutemeni,"Shiwangandu, province de Muchinga",1.26,2018,https://cfmg.mgee.gov.zm/api/cfmg/163
+Ngosa Milambo,"Shiwangandu, province de Muchinga",0.98,2018,https://cfmg.mgee.gov.zm/api/cfmg/165
+Pawa,"Shiwangandu, province de Muchinga",1.37,2018,https://cfmg.mgee.gov.zm/api/cfmg/159
+Ulubano,"Shiwangandu, province de Muchinga",0.39,2018,https://cfmg.mgee.gov.zm/api/cfmg/166
+Chintukubwe,"Chilubi, province du Nord",29,,https://cfmg.mgee.gov.zm/api/cfmg/96
+Mutimba,"Chilubi, province du Nord",31.8,,https://cfmg.mgee.gov.zm/api/cfmg/95
+Mwamba,"Kasama, province du Nord",50.4,,https://cfmg.mgee.gov.zm/api/cfmg/22
+Kambwa,"Lupososhi, province du Nord",,,https://cfmg.mgee.gov.zm/api/cfmg/510
+KATEMBO,"Luwingu, province du Nord",200,,https://cfmg.mgee.gov.zm/api/cfmg/238
+Kulolwa,"Mbala, province du Nord",18,2022,https://cfmg.mgee.gov.zm/api/cfmg/19
+Londe,"Mbala, province du Nord",20,,https://cfmg.mgee.gov.zm/api/cfmg/347
+Uningi,"Mbala, province du Nord",,,https://cfmg.mgee.gov.zm/api/cfmg/532
+Chinakila,"Mpulungu, province du Nord",72,2020,https://cfmg.mgee.gov.zm/api/cfmg/134
+Chitimbwa,"Mpulungu, province du Nord",50,2019,https://cfmg.mgee.gov.zm/api/cfmg/135
+Kabyolwe,"Mpulungu, province du Nord",3.08,2019,https://cfmg.mgee.gov.zm/api/cfmg/138
+Kalongola,"Mpulungu, province du Nord",28,2019,https://cfmg.mgee.gov.zm/api/cfmg/136
+Kopeka (Mukungusa),"Mpulungu, province du Nord",27.6,,https://cfmg.mgee.gov.zm/api/cfmg/130
+Mbete,"Mpulungu, province du Nord",3.45,2019,https://cfmg.mgee.gov.zm/api/cfmg/137
+Chikutwe,"Mungwi, province du Nord",10.52,,https://cfmg.mgee.gov.zm/api/cfmg/288
+Kalwala,"Mungwi, province du Nord",7.09,,https://cfmg.mgee.gov.zm/api/cfmg/128
+Kaseke,"Mungwi, province du Nord",4.46,,https://cfmg.mgee.gov.zm/api/cfmg/540
+Nankungu,"Mungwi, province du Nord",8.32,,https://cfmg.mgee.gov.zm/api/cfmg/541
+Nkango,"Mungwi, province du Nord",8.32,,https://cfmg.mgee.gov.zm/api/cfmg/408
+Swiswi,"Mungwi, province du Nord",12.19,,https://cfmg.mgee.gov.zm/api/cfmg/129
+Chandwe,"Nsama, province du Nord",20,2020,https://cfmg.mgee.gov.zm/api/cfmg/132
+Kampinda Turn-Off,"Nsama, province du Nord",26,2019,https://cfmg.mgee.gov.zm/api/cfmg/133
+Katele,"Nsama, province du Nord",55,2019,https://cfmg.mgee.gov.zm/api/cfmg/131
+Mukotwe,"Nsama, province du Nord",45.96,2022,https://cfmg.mgee.gov.zm/api/cfmg/97
+Mukubwe,"Nsama, province du Nord",13.29,2022,https://cfmg.mgee.gov.zm/api/cfmg/98
+NSAMA,"Nsama, province du Nord",3399.09,,https://cfmg.mgee.gov.zm/api/cfmg/340
+Jimbe Kamenekela,"Ikelenge, province du Nord-Ouest",82.45,,https://cfmg.mgee.gov.zm/api/cfmg/559
+Kamafumbu,"Ikelenge, province du Nord-Ouest",8.68,,https://cfmg.mgee.gov.zm/api/cfmg/626
+Kanyikambi Lwakela,"Ikelenge, province du Nord-Ouest",13.24,,https://cfmg.mgee.gov.zm/api/cfmg/560
+Kelondu,"Ikelenge, province du Nord-Ouest",3.97,2018,https://cfmg.mgee.gov.zm/api/cfmg/171
+Nyakaseya,"Ikelenge, province du Nord-Ouest",70,,https://cfmg.mgee.gov.zm/api/cfmg/478
+Kabulamema,"Kabompo, province du Nord-Ouest",320.58,,https://cfmg.mgee.gov.zm/api/cfmg/400
+chifuwe,"Kabompo, province du Nord-Ouest",7.69,,https://cfmg.mgee.gov.zm/api/cfmg/401
+Bukomo,"Kalumbila, province du Nord-Ouest",95.92,,https://cfmg.mgee.gov.zm/api/cfmg/330
+Butemwe,"Kalumbila, province du Nord-Ouest",496.35,,https://cfmg.mgee.gov.zm/api/cfmg/483
+Jimakamu,"Kalumbila, province du Nord-Ouest",151.65,,https://cfmg.mgee.gov.zm/api/cfmg/561
+Kalondu,"Kalumbila, province du Nord-Ouest",833.03,,https://cfmg.mgee.gov.zm/api/cfmg/624
+Kamabokwe,"Kalumbila, province du Nord-Ouest",685.11,,https://cfmg.mgee.gov.zm/api/cfmg/484
+Kamikolo,"Kalumbila, province du Nord-Ouest",400,,https://cfmg.mgee.gov.zm/api/cfmg/402
+Kasombo,"Kalumbila, province du Nord-Ouest",453.37,,https://cfmg.mgee.gov.zm/api/cfmg/562
+Katumba,"Kalumbila, province du Nord-Ouest",177.98,,https://cfmg.mgee.gov.zm/api/cfmg/563
+Kinonwa,"Kalumbila, province du Nord-Ouest",198.78,,https://cfmg.mgee.gov.zm/api/cfmg/485
+Kyanseng'a,"Kalumbila, province du Nord-Ouest",148.34,,https://cfmg.mgee.gov.zm/api/cfmg/564
+Luji,"Kalumbila, province du Nord-Ouest",454.9,,https://cfmg.mgee.gov.zm/api/cfmg/486
+Luuma,"Kalumbila, province du Nord-Ouest",1384.92,,https://cfmg.mgee.gov.zm/api/cfmg/565
+Mukuyu,"Kalumbila, province du Nord-Ouest",24.75,,https://cfmg.mgee.gov.zm/api/cfmg/487
+Butanda,"Kasempa, province du Nord-Ouest",1157.75,2021,https://cfmg.mgee.gov.zm/api/cfmg/127
+Kalasa Ngubo (Kanongo),"Kasempa, province du Nord-Ouest",63.53,2018,https://cfmg.mgee.gov.zm/api/cfmg/175
+Kamakechi,"Kasempa, province du Nord-Ouest",70.1,2018,https://cfmg.mgee.gov.zm/api/cfmg/177
+Kamakuku,"Kasempa, province du Nord-Ouest",1192.79,,https://cfmg.mgee.gov.zm/api/cfmg/52
+Kasempa,"Kasempa, province du Nord-Ouest",1950.76,,https://cfmg.mgee.gov.zm/api/cfmg/396
+Katobola Kamalumbwe (Lubofu),"Kasempa, province du Nord-Ouest",62.19,2018,https://cfmg.mgee.gov.zm/api/cfmg/179
+Lujika (Jifumpa),"Kasempa, province du Nord-Ouest",44.06,2023,https://cfmg.mgee.gov.zm/api/cfmg/222
+Mpungu (Kalobachi),"Kasempa, province du Nord-Ouest",5.9,2018,https://cfmg.mgee.gov.zm/api/cfmg/180
+kayola- mukunashi,"Kasempa, province du Nord-Ouest",45.87,2018,https://cfmg.mgee.gov.zm/api/cfmg/176
+Chiteve,"Manyinga, province du Nord-Ouest",349.21,,https://cfmg.mgee.gov.zm/api/cfmg/49
+Kanyisombo,"Manyinga, province du Nord-Ouest",257.56,,https://cfmg.mgee.gov.zm/api/cfmg/530
+Kapidi,"Manyinga, province du Nord-Ouest",31.51,2023,https://cfmg.mgee.gov.zm/api/cfmg/259
+Kashinakazhi (GMA),"Manyinga, province du Nord-Ouest",532.24,,https://cfmg.mgee.gov.zm/api/cfmg/617
+Kashinakazhi (Open Area),"Manyinga, province du Nord-Ouest",1064.85,,https://cfmg.mgee.gov.zm/api/cfmg/51
+Kaweji,"Manyinga, province du Nord-Ouest",429.74,,https://cfmg.mgee.gov.zm/api/cfmg/397
+Lunsongwa,"Manyinga, province du Nord-Ouest",663.01,,https://cfmg.mgee.gov.zm/api/cfmg/50
+Mayau (Mayawu),"Manyinga, province du Nord-Ouest",26.28,,https://cfmg.mgee.gov.zm/api/cfmg/531
+Kabipupu,"Mufumbwe, province du Nord-Ouest",1872.93,,https://cfmg.mgee.gov.zm/api/cfmg/48
+Kalengwa,"Mufumbwe, province du Nord-Ouest",705.53,,https://cfmg.mgee.gov.zm/api/cfmg/45
+Kamalondo,"Mufumbwe, province du Nord-Ouest",833.03,,https://cfmg.mgee.gov.zm/api/cfmg/634
+Kikonge,"Mufumbwe, province du Nord-Ouest",712.05,,https://cfmg.mgee.gov.zm/api/cfmg/46
+Mubambe,"Mufumbwe, province du Nord-Ouest",3257.65,,https://cfmg.mgee.gov.zm/api/cfmg/395
+Munyambala,"Mufumbwe, province du Nord-Ouest",455.55,,https://cfmg.mgee.gov.zm/api/cfmg/47
+Shungulu,"Mufumbwe, province du Nord-Ouest",45.52,,https://cfmg.mgee.gov.zm/api/cfmg/398
+Kipupushi-Mushingashi,"Mushindamo, province du Nord-Ouest",455.87,,https://cfmg.mgee.gov.zm/api/cfmg/39
+Chibwika Central,"Mwinilunga, province du Nord-Ouest",183.04,2023,https://cfmg.mgee.gov.zm/api/cfmg/242
+Chilembalemba,"Mwinilunga, province du Nord-Ouest",2.56,2018,https://cfmg.mgee.gov.zm/api/cfmg/174
+Chisasa,"Mwinilunga, province du Nord-Ouest",208.29,,https://cfmg.mgee.gov.zm/api/cfmg/44
+Chuulu,"Mwinilunga, province du Nord-Ouest",397.99,,https://cfmg.mgee.gov.zm/api/cfmg/278
+Kahundula,"Mwinilunga, province du Nord-Ouest",19.89,,https://cfmg.mgee.gov.zm/api/cfmg/279
+Kakoma North,"Mwinilunga, province du Nord-Ouest",298.38,,https://cfmg.mgee.gov.zm/api/cfmg/407
+Kalemalema,"Mwinilunga, province du Nord-Ouest",481.43,,https://cfmg.mgee.gov.zm/api/cfmg/243
+Kamanengu,"Mwinilunga, province du Nord-Ouest",5.77,2018,https://cfmg.mgee.gov.zm/api/cfmg/172
+Kamapanda,"Mwinilunga, province du Nord-Ouest",122.73,,https://cfmg.mgee.gov.zm/api/cfmg/241
+Kampemba,"Mwinilunga, province du Nord-Ouest",5.47,,https://cfmg.mgee.gov.zm/api/cfmg/555
+Kanyamisovu,"Mwinilunga, province du Nord-Ouest",31.92,,https://cfmg.mgee.gov.zm/api/cfmg/192
+Kanyikomboshi,"Mwinilunga, province du Nord-Ouest",1648.55,,https://cfmg.mgee.gov.zm/api/cfmg/41
+Kasampula North,"Mwinilunga, province du Nord-Ouest",369.87,,https://cfmg.mgee.gov.zm/api/cfmg/404
+Kasampula South,"Mwinilunga, province du Nord-Ouest",118.71,,https://cfmg.mgee.gov.zm/api/cfmg/403
+Kasenga,"Mwinilunga, province du Nord-Ouest",292.66,,https://cfmg.mgee.gov.zm/api/cfmg/240
+Kawiko,"Mwinilunga, province du Nord-Ouest",237.42,,https://cfmg.mgee.gov.zm/api/cfmg/556
+Kayisumpa,"Mwinilunga, province du Nord-Ouest",31.39,,https://cfmg.mgee.gov.zm/api/cfmg/193
+Kayonge,"Mwinilunga, province du Nord-Ouest",472.02,,https://cfmg.mgee.gov.zm/api/cfmg/282
+Kema,"Mwinilunga, province du Nord-Ouest",52.65,,https://cfmg.mgee.gov.zm/api/cfmg/283
+Kewundu,"Mwinilunga, province du Nord-Ouest",17.07,2022,https://cfmg.mgee.gov.zm/api/cfmg/187
+Kimba,"Mwinilunga, province du Nord-Ouest",356.67,,https://cfmg.mgee.gov.zm/api/cfmg/194
+Lumwana,"Mwinilunga, province du Nord-Ouest",519.22,,https://cfmg.mgee.gov.zm/api/cfmg/42
+Makasa(Kapundu),"Mwinilunga, province du Nord-Ouest",1.37,2023,https://cfmg.mgee.gov.zm/api/cfmg/225
+Makuya,"Mwinilunga, province du Nord-Ouest",22.55,,https://cfmg.mgee.gov.zm/api/cfmg/196
+Mazazhi,"Mwinilunga, province du Nord-Ouest",506.24,2022,https://cfmg.mgee.gov.zm/api/cfmg/43
+Mulozi,"Mwinilunga, province du Nord-Ouest",215.9,,https://cfmg.mgee.gov.zm/api/cfmg/324
+Muwozi,"Mwinilunga, province du Nord-Ouest",215.9,,https://cfmg.mgee.gov.zm/api/cfmg/244
+Muyange,"Mwinilunga, province du Nord-Ouest",24.84,,https://cfmg.mgee.gov.zm/api/cfmg/206
+Ntambu,"Mwinilunga, province du Nord-Ouest",14.72,,https://cfmg.mgee.gov.zm/api/cfmg/205
+Sailungu,"Mwinilunga, province du Nord-Ouest",,,https://cfmg.mgee.gov.zm/api/cfmg/557
+Samuteba,"Mwinilunga, province du Nord-Ouest",63.22,2022,https://cfmg.mgee.gov.zm/api/cfmg/40
+kakoma South,"Mwinilunga, province du Nord-Ouest",421.76,,https://cfmg.mgee.gov.zm/api/cfmg/406
+Gonde,"Chirundu, province du Sud",4.31,,https://cfmg.mgee.gov.zm/api/cfmg/475
+Mutolonganga,"Chirundu, province du Sud",3.64,,https://cfmg.mgee.gov.zm/api/cfmg/476
+Chikaza Munyama,"Itezhi-Tezhi, province du Sud",472.27,,https://cfmg.mgee.gov.zm/api/cfmg/227
+Chilyabufu,"Itezhi-Tezhi, province du Sud",601.9,,https://cfmg.mgee.gov.zm/api/cfmg/191
+Maunga,"Itezhi-Tezhi, province du Sud",119.95,,https://cfmg.mgee.gov.zm/api/cfmg/197
+Mbuma,"Itezhi-Tezhi, province du Sud",254.64,,https://cfmg.mgee.gov.zm/api/cfmg/198
+Mulilabanyama,"Itezhi-Tezhi, province du Sud",221.93,,https://cfmg.mgee.gov.zm/api/cfmg/201
+Musungwa,"Itezhi-Tezhi, province du Sud",19.14,,https://cfmg.mgee.gov.zm/api/cfmg/203
+Muwezwa,"Itezhi-Tezhi, province du Sud",341.23,,https://cfmg.mgee.gov.zm/api/cfmg/207
+Shezongo,"Itezhi-Tezhi, province du Sud",123.18,,https://cfmg.mgee.gov.zm/api/cfmg/204
+Kapanzi,"Kalomo, province du Sud",60,,https://cfmg.mgee.gov.zm/api/cfmg/482
+Katombora,"Kazungula, province du Sud",103.83,,https://cfmg.mgee.gov.zm/api/cfmg/494
+Lukuni,"Kazungula, province du Sud",1731.8,,https://cfmg.mgee.gov.zm/api/cfmg/602
+Moomba,"Kazungula, province du Sud",1965.71,,https://cfmg.mgee.gov.zm/api/cfmg/339
+Nyawa,"Kazungula, province du Sud",731.63,,https://cfmg.mgee.gov.zm/api/cfmg/603
+Shababwa,"Namwala, province du Sud",71.16,,https://cfmg.mgee.gov.zm/api/cfmg/558
+Hamaundu,"Pemba, province du Sud",350.13,,https://cfmg.mgee.gov.zm/api/cfmg/605
+Moyo,"Pemba, province du Sud",261.75,,https://cfmg.mgee.gov.zm/api/cfmg/604
+Dokota,"Siavonga, province du Sud",30.86,,https://cfmg.mgee.gov.zm/api/cfmg/584
+Kalundu,"Siavonga, province du Sud",5.59,,https://cfmg.mgee.gov.zm/api/cfmg/585
+Manchamvwa Lakeshore,"Siavonga, province du Sud",1.74,,https://cfmg.mgee.gov.zm/api/cfmg/586
+Nabutezi,"Siavonga, province du Sud",15.26,,https://cfmg.mgee.gov.zm/api/cfmg/587
+Namuzunga,"Siavonga, province du Sud",8.99,,https://cfmg.mgee.gov.zm/api/cfmg/588
+Singumbu sangandu,"Kalabo, province de l’Ouest",54.11,2025,https://cfmg.mgee.gov.zm/api/cfmg/415
+Chikwakwa,"Kaoma, province de l’Ouest",19.92,2025,https://cfmg.mgee.gov.zm/api/cfmg/416
+Kasabi,"Kaoma, province de l’Ouest",90.55,,https://cfmg.mgee.gov.zm/api/cfmg/488
+Shomba West,"Kaoma, province de l’Ouest",247,2022,https://cfmg.mgee.gov.zm/api/cfmg/21
+Imana,"Limulunga, province de l’Ouest",205.1,2025,https://cfmg.mgee.gov.zm/api/cfmg/422
+Lubinda Tanga,"Limulunga, province de l’Ouest",100.26,,https://cfmg.mgee.gov.zm/api/cfmg/495
+Sikwa,"Limulunga, province de l’Ouest",83.07,2025,https://cfmg.mgee.gov.zm/api/cfmg/425
+Kanguya,"Luampa, province de l’Ouest",547.21,,https://cfmg.mgee.gov.zm/api/cfmg/496
+Namanyambi,"Luampa, province de l’Ouest",272.77,,https://cfmg.mgee.gov.zm/api/cfmg/497
+Dongwe,"Lukulu, province de l’Ouest",2890,,https://cfmg.mgee.gov.zm/api/cfmg/501
+Kang'ombe,"Lukulu, province de l’Ouest",562.41,,https://cfmg.mgee.gov.zm/api/cfmg/502
+Lusika,"Lukulu, province de l’Ouest",690,,https://cfmg.mgee.gov.zm/api/cfmg/503
+Munyangulo,"Lukulu, province de l’Ouest",122.28,,https://cfmg.mgee.gov.zm/api/cfmg/367
+Namasimba (Silembe),"Lukulu, province de l’Ouest",44.15,,https://cfmg.mgee.gov.zm/api/cfmg/504
+Akabati,"Mitete, province de l’Ouest",43.95,2025,https://cfmg.mgee.gov.zm/api/cfmg/437
+Situmbeko,"Mitete, province de l’Ouest",341.47,,https://cfmg.mgee.gov.zm/api/cfmg/533
+Imamuna,"Mongu, province de l’Ouest",448.84,,https://cfmg.mgee.gov.zm/api/cfmg/535
+Litungi,"Mongu, province de l’Ouest",80.51,,https://cfmg.mgee.gov.zm/api/cfmg/536
+Malumbwe,"Mongu, province de l’Ouest",20,,https://cfmg.mgee.gov.zm/api/cfmg/593
+Mwanangumune,"Mongu, province de l’Ouest",509,,https://cfmg.mgee.gov.zm/api/cfmg/440
+Kamanga,"Mulobezi, province de l’Ouest",791.34,,https://cfmg.mgee.gov.zm/api/cfmg/445
+Matako,"Mulobezi, province de l’Ouest",405.41,,https://cfmg.mgee.gov.zm/api/cfmg/539
+Mutungo,"Mulobezi, province de l’Ouest",3004.4,2025,https://cfmg.mgee.gov.zm/api/cfmg/449
+Bbobbo,"Mwandi, province de l’Ouest",61.6,,https://cfmg.mgee.gov.zm/api/cfmg/377
+Chuundu,"Mwandi, province de l’Ouest",11.8,,https://cfmg.mgee.gov.zm/api/cfmg/376
+Kayombo,"Mwandi, province de l’Ouest",63.42,,https://cfmg.mgee.gov.zm/api/cfmg/542
+Lipilelo,"Mwandi, province de l’Ouest",342.02,,https://cfmg.mgee.gov.zm/api/cfmg/374
+Lwamwila,"Mwandi, province de l’Ouest",48.44,,https://cfmg.mgee.gov.zm/api/cfmg/381
+Mabombo,"Mwandi, province de l’Ouest",240.64,,https://cfmg.mgee.gov.zm/api/cfmg/379
+Musengele,"Mwandi, province de l’Ouest",35.16,,https://cfmg.mgee.gov.zm/api/cfmg/375
+Nangoma,"Mwandi, province de l’Ouest",51.06,,https://cfmg.mgee.gov.zm/api/cfmg/380
+Sanembo,"Mwandi, province de l’Ouest",167.29,,https://cfmg.mgee.gov.zm/api/cfmg/378
+Sankalonga,"Mwandi, province de l’Ouest",37.21,,https://cfmg.mgee.gov.zm/api/cfmg/447
+Shekela,"Nalolo, province de l’Ouest",553.19,2025,https://cfmg.mgee.gov.zm/api/cfmg/450
+Nakatenge,"Senanga, province de l’Ouest",1077.43,2025,https://cfmg.mgee.gov.zm/api/cfmg/451
+Likopanelo,"Sesheke, province de l’Ouest",720.72,,https://cfmg.mgee.gov.zm/api/cfmg/383
+Muyatwa,"Sesheke, province de l’Ouest",240.64,,https://cfmg.mgee.gov.zm/api/cfmg/595
+Nambu,"Sesheke, province de l’Ouest",23.89,,https://cfmg.mgee.gov.zm/api/cfmg/596
+Ng'asinamwi (Kanjuni),"Sesheke, province de l’Ouest",75.47,2019,https://cfmg.mgee.gov.zm/api/cfmg/184
+Nkuma,"Sesheke, province de l’Ouest",80.22,2019,https://cfmg.mgee.gov.zm/api/cfmg/185
+Nzevu,"Sesheke, province de l’Ouest",522.04,,https://cfmg.mgee.gov.zm/api/cfmg/597
+Shakubale,"Sesheke, province de l’Ouest",81.15,,https://cfmg.mgee.gov.zm/api/cfmg/598
+Silumbu,"Sesheke, province de l’Ouest",255.76,2025,https://cfmg.mgee.gov.zm/api/cfmg/452
+Mulangu,"Shangombo, province de l’Ouest",1349.34,,https://cfmg.mgee.gov.zm/api/cfmg/581
+Chumbula,"Sikongo, province de l’Ouest",391.91,,https://cfmg.mgee.gov.zm/api/cfmg/599
+Imilangu,"Sikongo, province de l’Ouest",340.45,,https://cfmg.mgee.gov.zm/api/cfmg/589
+Malamo,"Sikongo, province de l’Ouest",1183.5,2025,https://cfmg.mgee.gov.zm/api/cfmg/417
+Chelungu,"Sioma, province de l’Ouest",30.76,,https://cfmg.mgee.gov.zm/api/cfmg/369
+Chisi,"Sioma, province de l’Ouest",6.98,,https://cfmg.mgee.gov.zm/api/cfmg/368
+Imukondo,"Sioma, province de l’Ouest",781.88,,https://cfmg.mgee.gov.zm/api/cfmg/591
+Kabuyu,"Sioma, province de l’Ouest",97.01,2019,https://cfmg.mgee.gov.zm/api/cfmg/182
+Katuli,"Sioma, province de l’Ouest",130.42,2019,https://cfmg.mgee.gov.zm/api/cfmg/183
+Katuwo,"Sioma, province de l’Ouest",4.49,,https://cfmg.mgee.gov.zm/api/cfmg/373
+Lukama,"Sioma, province de l’Ouest",54.89,2019,https://cfmg.mgee.gov.zm/api/cfmg/181
+Makwe Shamba Njovu,"Sioma, province de l’Ouest",406.68,,https://cfmg.mgee.gov.zm/api/cfmg/363
+Mukuku,"Sioma, province de l’Ouest",7.87,,https://cfmg.mgee.gov.zm/api/cfmg/371
+Nalumonyimonyi,"Sioma, province de l’Ouest",35.48,,https://cfmg.mgee.gov.zm/api/cfmg/364
+Namagombe,"Sioma, province de l’Ouest",31.46,,https://cfmg.mgee.gov.zm/api/cfmg/362
+Nankondo,"Sioma, province de l’Ouest",5.66,2024,https://cfmg.mgee.gov.zm/api/cfmg/372
+Nyamana,"Sioma, province de l’Ouest",46.34,,https://cfmg.mgee.gov.zm/api/cfmg/365

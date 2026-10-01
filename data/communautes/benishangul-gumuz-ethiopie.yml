@@ -1,0 +1,55 @@
+uid: "benishangul-gumuz-ethiopie"
+nom: "Peuples du Benishangul-Gumuz"
+endonyme: ""
+territoire: "État régional de Benishangul-Gumuz"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [10.8, 35.5]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 784345, annee: 2007, perimetre: "population totale de l'État régional au recensement de 2007 ; les cinq peuples désignés « propriétaires » en représentent 57,46 % selon Dessalegn (2019)", source: "https://en.wikipedia.org/wiki/Benishangul-Gumuz_Region"}
+lieux: {valeur: 5, unite: "conseils de nationalités (un par peuple), Proclamation régionale 73/2008", annee: 2019, source: "https://www.ecmi.de/fileadmin/redakteure/publications/JEMIE_Datens%C3%A4tze/Jemie_datens%C3%A4tze_2019/Dessalegn.pdf"}
+surface_km2: {valeur: 49289, annee: 2007, perimetre: "superficie de l'État régional estimée par l'Agence centrale de statistique (recensement de 2007)", source: "https://en.wikipedia.org/wiki/Benishangul-Gumuz_Region"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Benishangul-Gumuz est l'un des États membres de la fédération éthiopienne, créé en 1995 dans le nord-ouest du pays, à la frontière du Soudan et du Soudan du Sud.
+  L'article 2 de sa constitution révisée attribue le « droit de propriété » sur la région aux Berta, Gumuz, Shinasha, Mao et Komo, malgré la présence d'autres groupes qui forment près de la moitié de la population.
+  La Proclamation (loi) régionale 73/2008 crée cinq conseils de nationalités, un par peuple, compétents sans limite territoriale pour la langue et le patrimoine ; ils fonctionnent depuis mai 2014.
+  Les Mao et les Komo ont un woreda (district) spécial, Mao-Komo, où ils ne forment pas la majorité de la population (recensement de 2007).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 5, 39, 40, 47, 52, 61, 78 et 97", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {instrument: "Constitution révisée de l'État régional de Benishangul-Gumuz, art. 2, 34, 74, 75 et 77", nature: "constitution", annee: 2002, source: "https://hrp.law.harvard.edu/wp-content/uploads/2023/02/pp.-233-266.pdf"}
+  - {instrument: "Proclamation régionale n° 73/2008 sur l'organisation, les pouvoirs et les fonctions des conseils de nationalités (Assosa, 1er novembre 2008)", nature: "loi", annee: 2008, source: "https://www.ecmi.de/fileadmin/redakteure/publications/JEMIE_Datens%C3%A4tze/Jemie_datens%C3%A4tze_2019/Dessalegn.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Art. 47(1) de la Constitution fédérale : Benishangul-Gumuz est un État membre ; art. 2 de la constitution régionale : la région appartient aux cinq peuples ; art. 74 et 75 : administrations et conseils de nationalités, dont cinq conseils de nationalités d'au plus 75 membres créés par la Proclamation 73/2008 (art. 8(2)).", source: "https://www.ecmi.de/fileadmin/redakteure/publications/JEMIE_Datens%C3%A4tze/Jemie_datens%C3%A4tze_2019/Dessalegn.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Art. 52(2)(b) de la Constitution fédérale : l'État régional adopte sa constitution et ses lois. Les conseils de nationalités n'édictent que des directives conformes aux lois régionales (art. 75(3)(c) de la constitution régionale).", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  justice_propre: {valeur: "conteste", note: "Art. 74(2) de la constitution régionale : chaque administration de nationalité comprend un organe judiciaire ; selon Dessalegn (2019), ces administrations ne sont pas établies et, faute de loi d'application, les tribunaux coutumiers prévus par la Constitution fédérale (art. 34(5) et 78(5)) ne fonctionnent pas.", source: "https://www.ecmi.de/fileadmin/redakteure/publications/JEMIE_Datens%C3%A4tze/Jemie_datens%C3%A4tze_2019/Dessalegn.pdf"}
+  terres: {valeur: "partiel", note: "Art. 40(3) de la Constitution fédérale : la terre appartient à l'État et aux peuples d'Éthiopie et ne peut être vendue ; art. 52(2)(d) : les États l'administrent selon la loi fédérale.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "partiel", note: "Art. 52(2)(d) de la Constitution fédérale : les États administrent la terre et les autres ressources naturelles conformément aux lois fédérales.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Art. 75(3)(a) et (b) de la constitution régionale : chaque conseil de nationalité fixe la langue de travail de son administration et protège le droit de parler, écrire et développer sa langue ; art. 5(3) de la Constitution fédérale : l'État fixe sa langue de travail ; selon Dessalegn (2019), la langue de travail de la région n'est aucune des cinq langues.", source: "https://www.ecmi.de/fileadmin/redakteure/publications/JEMIE_Datens%C3%A4tze/Jemie_datens%C3%A4tze_2019/Dessalegn.pdf"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Art. 97 de la Constitution fédérale : les États lèvent des impôts propres. Le budget des conseils de nationalités dépend de celui voté par le parlement régional (art. 75(3)(d) de la constitution régionale).", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  representation: {valeur: "reconnu", note: "Art. 61(2) de la Constitution fédérale : chaque nation, nationalité et peuple a au moins un siège à la Chambre de la Fédération (chambre haute).", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  statut_personnel: {valeur: "partiel", note: "Art. 2 de la constitution régionale : statut de « peuples propriétaires » de la région ; selon Dessalegn (2019), l'art. 34 réserve à ces cinq peuples le droit d'être élu à une fonction publique régionale.", source: "https://www.ecmi.de/fileadmin/redakteure/publications/JEMIE_Datens%C3%A4tze/Jemie_datens%C3%A4tze_2019/Dessalegn.pdf"}
+  autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) de la Constitution fédérale : droit inconditionnel à l'autodétermination, y compris la sécession (séparation d'avec l'État), par vote aux deux tiers du conseil législatif puis référendum. Jamais exercé.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "partielle", note: "Selon Dessalegn (2019), les administrations de nationalités prévues par la constitution régionale ne sont pas établies ; la région est découpée en trois zones (Assosa, Kamashi, Metekel) et un woreda spécial Mao-Komo ; les membres des conseils de nationalités sont choisis par le parti au pouvoir dans la région, affilié à l'EPRDF, sans élection distincte, et ces conseils restent « largement symboliques » ; ils ont toutefois fait préparer des manuels scolaires du primaire dans les cinq langues. Données de terrain de mai 2016.", source: "https://www.ecmi.de/fileadmin/redakteure/publications/JEMIE_Datens%C3%A4tze/Jemie_datens%C3%A4tze_2019/Dessalegn.pdf"}
+chronologie:
+  - {annee: 1979, evenement: "Début des réinstallations de paysans des hautes terres dans la région sous le régime du Derg, surtout au milieu des années 1980."}
+  - {annee: 1995, evenement: "Entrée en vigueur de la Constitution fédérale ; création de l'État régional de Benishangul-Gumuz."}
+  - {annee: 2002, evenement: "Constitution régionale révisée : art. 2 sur les cinq peuples « propriétaires », art. 74 et 75 sur les administrations et conseils de nationalités."}
+  - {annee: 2008, evenement: "Le 1er novembre, Proclamation régionale 73/2008 créant les cinq conseils de nationalités."}
+  - {annee: 2014, evenement: "En mai, les cinq conseils de nationalités commencent à fonctionner."}
+  - {annee: 2019, evenement: "Début du conflit du Metekel."}
+fiabilite:
+  verifie: ["Citation de l'art. 2 de la constitution régionale révisée (Mohammed Dejen Assen, Harvard Law School, p. 261).", "Art. 74, 75 et 77 de la constitution régionale et Proclamation 73/2008, cités par Dessalegn (JEMIE, 2019).", "Art. 39, 40, 47, 52, 61, 78 et 97 de la Constitution fédérale (Constitute Project).", "Population et superficie de 2007 (Agence centrale de statistique, citée par Wikipédia)."]
+  non_confirme: ["Texte original de la constitution régionale et de la Proclamation 73/2008 non consulté : articles connus par des sources secondaires.", "Année de la constitution révisée : 2002 selon Dessalegn, 2003 selon Mohammed Dejen Assen.", "Date de création du woreda spécial Mao-Komo et langue de travail de l'État régional : non vérifiées.", "Aucun document onusien ou régional visant nommément ces cinq peuples n'a été consulté.", "Sièges de chacun des cinq peuples à la Chambre de la Fédération : non vérifiés.", "Effet du conflit du Metekel (depuis 2019) et du remplacement de l'EPRDF par le Parti de la prospérité (fin 2019) sur les conseils de nationalités : non documenté.", "Éducation : des manuels scolaires dans les cinq langues ont été préparés à l'initiative des conseils (Dessalegn, 2019), sans texte attribuant une compétence éducative ; droit laissé à non_etabli."]
+sources:
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "Mohammed Dejen Assen — Ethnic Federalism as a New State-Building Approach in Post-1991 Ethiopia, Harvard Law School, Human Rights Program", url: "https://hrp.law.harvard.edu/wp-content/uploads/2023/02/pp.-233-266.pdf"}
+  - {titre: "Beza Dessalegn — Experimenting with Non-Territorial Autonomy: Indigenous Councils in Ethiopia, JEMIE vol. 18 n° 2 (2019)", url: "https://www.ecmi.de/fileadmin/redakteure/publications/JEMIE_Datens%C3%A4tze/Jemie_datens%C3%A4tze_2019/Dessalegn.pdf"}
+  - {titre: "Benishangul-Gumuz Region — Wikipedia", url: "https://en.wikipedia.org/wiki/Benishangul-Gumuz_Region"}
+  - {titre: "Mao-Komo special woreda — Wikipedia", url: "https://en.wikipedia.org/wiki/Mao-Komo_special_woreda"}

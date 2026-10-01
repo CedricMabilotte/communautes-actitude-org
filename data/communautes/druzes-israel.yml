@@ -1,0 +1,65 @@
+uid: "druzes-israel"
+nom: "Druzes d'Israël"
+endonyme: "Al-Muwaḥḥidūn"
+territoire: "Galilée et mont Carmel"
+etats: ["Israël"]
+region: "asie"
+coord: [32.9, 35.3]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 154369, annee: 2025, perimetre: "Druzes résidents permanents en Israël en avril 2025 (chiffre du Bureau central de statistique cité par l'encyclopédie), dont environ 125 400 citoyens ; Druzes du plateau du Golan compris", source: "https://he.wikipedia.org/wiki/%D7%93%D7%A8%D7%95%D7%96%D7%99%D7%9D_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C"}
+lieux: {valeur: null, unite: "localités", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Druzes, qui se nomment « unitaires » (muwaḥḥidūn), vivent en Israël dans des localités de Galilée et du mont Carmel.
+  L'État les reconnaît comme communauté religieuse distincte depuis 1957.
+  La loi de 1962 sur les tribunaux religieux druzes leur donne des juridictions propres en matière de mariage et de divorce, qui appliquent depuis 1961 la loi libanaise sur le statut personnel druze, adoptée par la communauté.
+  Les quatre localités druzes du plateau du Golan, sous administration israélienne depuis 1967, relèvent d'un statut international distinct et ne sont pas traitées dans cette fiche.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale (CERD/C/ISR/CO/17-19, 27 janvier 2020), par. 4 e), 32-33 et 36 : programme de développement des localités druzes et tcherkesses, situation des femmes druzes, représentation dans le secteur public.", annee: 2020, source: "https://docs.un.org/en/CERD/C/ISR/CO/17-19"}
+base_nationale:
+  - {instrument: "Loi sur les tribunaux religieux druzes, 5723-1962", nature: "loi", annee: 1962, source: "https://fs.knesset.gov.il/5/law/5_lsr_208100.pdf"}
+  - {instrument: "Loi 5772-2012 sur l'extension de la représentation adéquate des membres de la communauté druze dans la fonction publique (amendements législatifs)", nature: "loi", annee: 2012, source: "https://docs.un.org/en/CERD/C/ISR/17-19"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Loi de 1962 sur les tribunaux religieux druzes, art. 1 : le Conseil religieux druze est constitué par règlement pris en vertu de l'ordonnance sur les communautés religieuses (organisation) ; art. 11 : son président siège à la commission de nomination des juges druzes, présidée par le ministre de la Justice. Compétences limitées aux affaires religieuses.", source: "https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%91%D7%AA%D7%99_%D7%94%D7%93%D7%99%D7%9F_%D7%94%D7%93%D7%AA%D7%99%D7%99%D7%9D_%D7%94%D7%93%D7%A8%D7%95%D7%96%D7%99%D7%99%D7%9D"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le 2 novembre 1961, la communauté adopte la loi libanaise sur le statut personnel druze comme loi personnelle des Druzes d'Israël ; les tribunaux druzes l'appliquent. Portée limitée au statut personnel.", source: "https://he.wikipedia.org/wiki/%D7%91%D7%AA%D7%99_%D7%94%D7%93%D7%99%D7%9F_%D7%94%D7%93%D7%AA%D7%99%D7%99%D7%9D_%D7%94%D7%93%D7%A8%D7%95%D7%96%D7%99%D7%99%D7%9D"}
+  justice_propre: {valeur: "non_etabli", note: "Les tribunaux religieux druzes créés par la loi de 1962 sont des juridictions de l'État : leurs juges (qadi madhhab) sont nommés après avis d'une commission présidée par le ministre de la Justice (art. 11) et rattachés à ce ministère depuis 2001 ; ils jugent en exclusivité le mariage et le divorce des Druzes, ce qui relève du statut personnel.", source: "https://he.wikipedia.org/wiki/%D7%91%D7%AA%D7%99_%D7%94%D7%93%D7%99%D7%9F_%D7%94%D7%93%D7%AA%D7%99%D7%99%D7%9D_%D7%94%D7%93%D7%A8%D7%95%D7%96%D7%99%D7%99%D7%9D"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Loi 5772-2012 : les sociétés d'État de plus de 50 salariés et les municipalités comptant de 10 % à 50 % de Druzes appliquent une action positive (mesures de rattrapage dans les recrutements) en faveur des membres de la communauté druze. Représentation administrative seulement : aucun siège réservé à la Knesset.", source: "https://docs.un.org/en/CERD/C/ISR/17-19"}
+  statut_personnel: {valeur: "reconnu", note: "Le mariage et le divorce des Druzes citoyens ou résidents relèvent de la compétence exclusive des tribunaux druzes (loi de 1962, art. 4). En 2019, Israël invoque devant le Comité des droits de l'homme « l'autonomie des communautés religieuses en matière de statut personnel » (CCPR/C/ISR/5, par. 21).", source: "https://docs.un.org/en/CCPR/C/ISR/5"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Les tribunaux druzes siègent depuis le 30 décembre 1963 ; en février 2026, quatre juges y siègent, deux en appel et deux en première instance, le poste de président du tribunal d'appel restant vacant depuis 1993.", source: "https://he.wikipedia.org/wiki/%D7%91%D7%AA%D7%99_%D7%94%D7%93%D7%99%D7%9F_%D7%94%D7%93%D7%AA%D7%99%D7%99%D7%9D_%D7%94%D7%93%D7%A8%D7%95%D7%96%D7%99%D7%99%D7%9D"}
+chronologie:
+  - {annee: 1956, evenement: "Service militaire obligatoire étendu aux hommes druzes."}
+  - {annee: 1957, evenement: "Le gouvernement reconnaît les Druzes comme communauté religieuse distincte, à la demande de leurs chefs."}
+  - {annee: 1961, evenement: "Création du Conseil religieux druze ; adoption, le 2 novembre, de la loi libanaise sur le statut personnel druze."}
+  - {annee: 1962, evenement: "Loi sur les tribunaux religieux druzes."}
+  - {annee: 1963, evenement: "Ouverture des tribunaux druzes à Haïfa (30 décembre)."}
+  - {annee: 1972, evenement: "Ouverture du tribunal druze de Mas'ade, sur le plateau du Golan."}
+  - {annee: 1988, evenement: "Transfert des tribunaux druzes de Haïfa à Acre."}
+  - {annee: 2001, evenement: "Les tribunaux druzes passent du ministère des Affaires religieuses au ministère de la Justice."}
+  - {annee: 2012, evenement: "Loi sur l'extension de la représentation des Druzes dans la fonction publique."}
+  - {annee: 2018, evenement: "Un forum d'anciens militaires druzes se constitue contre la loi fondamentale sur l'État-nation ; trois députés druzes et des organisations druzes saisissent la Haute Cour de justice."}
+  - {annee: 2020, evenement: "Le Comité pour l'élimination de la discrimination raciale nomme la communauté druze dans ses observations finales sur Israël."}
+fiabilite:
+  verifie: ["Observations finales CERD/C/ISR/CO/17-19 (2020), par. 4 e), 32-33 et 36 (docs.un.org).", "Rapport d'Israël CERD/C/ISR/17-19 (2017), par. 39 : loi 5772-2012 (docs.un.org).", "Rapport d'Israël CCPR/C/ISR/5 (2019), par. 21 et 200 (docs.un.org).", "Rapport 2003 du Département d'État reproduit par l'UNISPAL : Druzes reconnus comme communauté religieuse après la liste du mandat.", "Loi de 1962, art. 1, 4 et 11 : texte original sur le site de la Knesset et version consolidée sur Wikisource (hébreu)."]
+  non_confirme: ["Lieux des tribunaux, rattachement au ministère de la Justice (2001) et effectif des juges (février 2026) lus dans une encyclopédie qui cite le ministère de la Justice ; pas de source indépendante de l'État sur le fonctionnement des tribunaux.", "Composition du Conseil religieux druze en 2015 (60 membres, dont 15 nommés par le ministre des Affaires religieuses et 15 par les chefs des conseils locaux druzes) : encyclopédie seule.", "Financement du Conseil religieux druze par l'État : affirmation d'une association arabe rapportée par le Département d'État (2003), non vérifiée.", "Instrument exact de la reconnaissance de 1957 (règlement ministériel ou décision gouvernementale) non identifié.", "Département druze de l'éducation (1976) : aucune source ouverte ; droit à l'éducation laissé « non établi ».", "Population : page du Bureau central de statistique (2026) inaccessible sans JavaScript ; chiffre lu dans une encyclopédie qui la cite.", "Nombre de localités : le rapport CCPR/C/ISR/5 (par. 200) compte environ 141 000 Druzes et Tcherkesses dans 22 localités, sans distinguer les localités druzes.", "Golan : statut international du territoire ; tribunal de Mas'ade et quatre localités à traiter dans une fiche distincte."]
+sources:
+  - {titre: "CERD — Observations finales sur Israël, CERD/C/ISR/CO/17-19 (2020)", url: "https://docs.un.org/en/CERD/C/ISR/CO/17-19"}
+  - {titre: "Loi sur les tribunaux religieux druzes, 5723-1962 — texte original, Knesset", url: "https://fs.knesset.gov.il/5/law/5_lsr_208100.pdf"}
+  - {titre: "Loi sur les tribunaux religieux druzes — version consolidée, Wikisource (hébreu)", url: "https://he.wikisource.org/wiki/%D7%97%D7%95%D7%A7_%D7%91%D7%AA%D7%99_%D7%94%D7%93%D7%99%D7%9F_%D7%94%D7%93%D7%AA%D7%99%D7%99%D7%9D_%D7%94%D7%93%D7%A8%D7%95%D7%96%D7%99%D7%99%D7%9D"}
+  - {titre: "Israël — Rapport au CERD, CERD/C/ISR/17-19 (2017)", url: "https://docs.un.org/en/CERD/C/ISR/17-19"}
+  - {titre: "Israël — Rapport au Comité des droits de l'homme, CCPR/C/ISR/5 (2019)", url: "https://docs.un.org/en/CCPR/C/ISR/5"}
+  - {titre: "UNISPAL — Israel and the OPT: International Religious Freedom Report 2003 (Département d'État)", url: "https://www.un.org/unispal/document/auto-insert-203868/"}
+  - {titre: "Tribunaux religieux druzes — Wikipédia (hébreu)", url: "https://he.wikipedia.org/wiki/%D7%91%D7%AA%D7%99_%D7%94%D7%93%D7%99%D7%9F_%D7%94%D7%93%D7%AA%D7%99%D7%99%D7%9D_%D7%94%D7%93%D7%A8%D7%95%D7%96%D7%99%D7%99%D7%9D"}
+  - {titre: "Druzes en Israël — Wikipédia (hébreu)", url: "https://he.wikipedia.org/wiki/%D7%93%D7%A8%D7%95%D7%96%D7%99%D7%9D_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C"}
+  - {titre: "Druze in Israel — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Druze_in_Israel"}
+  - {titre: "Loi fondamentale : Israël, État-nation du peuple juif — Wikipédia (hébreu)", url: "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A7_%D7%99%D7%A1%D7%95%D7%93:_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%E2%80%93_%D7%9E%D7%93%D7%99%D7%A0%D7%AA_%D7%94%D7%9C%D7%90%D7%95%D7%9D_%D7%A9%D7%9C_%D7%94%D7%A2%D7%9D_%D7%94%D7%99%D7%94%D7%95%D7%93%D7%99"}

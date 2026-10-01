@@ -1,0 +1,57 @@
+uid: "grand-pibor"
+nom: "Peuples du Grand Pibor"
+endonyme: ""
+territoire: "Zone administrative du Grand Pibor (Greater Pibor Administrative Area), chef-lieu : Pibor"
+etats: ["Soudan du Sud"]
+region: "afrique"
+coord: [6.6, 33.5]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: ["collectivite_autonome"]
+population: {valeur: 214676, annee: 2008, perimetre: "comtés de Pibor (148 475) et de Pochalla (66 201) au recensement national de 2008 (somme des deux profils de comté)", source: "https://csrf-southsudan.org/county_profile/pibor/"}
+lieux: {valeur: 2, unite: "comtés reconnus dans la politique et les statistiques nationales (Pibor, Pochalla) ; plusieurs payams (circonscriptions) ont été érigés en comtés par l'administrateur en chef sans reconnaissance nationale", annee: 2025, source: "https://csrf-southsudan.org/county_profile/pibor/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La zone administrative du Grand Pibor regroupe les anciens comtés de Pibor et de Pochalla, détachés de l'État du Jonglei, dans l'est du Soudan du Sud, près de la frontière éthiopienne.
+  Elle est habitée surtout par les Murle, les Jie, les Kachipo et les Anyuak.
+  Créée par l'accord de paix du 9 mai 2014 entre le gouvernement et la faction Cobra du SSDM/A (Mouvement démocratique du Soudan du Sud), puis par un décret présidentiel du 24 juillet 2014, elle a été absorbée par l'État de Boma en 2015 et rétablie comme zone administrative en février 2020.
+  Elle est dirigée par un administrateur en chef nommé par le président, avec un conseil des ministres et un conseil législatif de zone ; le droit coutumier murle y est appliqué.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Accord sur la résolution du conflit dans l'État du Jonglei entre le gouvernement du Soudan du Sud et le SSDM/A, faction Cobra (Addis-Abeba, 9 mai 2014)", nature: "accord_paix", annee: 2014, source: "https://www.files.ethz.ch/isn/192325/HSBA-WP35-Greater-Pibor.pdf"}
+  - {instrument: "Décret présidentiel portant création de la zone administrative du Grand Pibor (24 juillet 2014)", nature: "loi", annee: 2014, source: "https://documents.un.org/api/symbol/access?s=S/2014/708&l=en&t=pdf"}
+  - {instrument: "Décision présidentielle du 15 février 2020 : retour à dix États et trois zones administratives (Abyei, Pibor, Ruweng)", nature: "loi", annee: 2020, source: "https://documents.un.org/api/symbol/access?s=S/2020/145&l=en&t=pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Décret présidentiel du 24 juillet 2014 : zone autonome au sein de l'État du Jonglei, dirigée par un administrateur en chef (S/2014/708, par. 11) ; l'accord du 9 mai 2014 lui donne le rang de gouverneur d'État. L'administrateur en chef est nommé et révoqué par décret présidentiel (2024) ; la zone a un conseil des ministres et un conseil législatif de zone (2026).", source: "https://documents.un.org/api/symbol/access?s=S/2014/708&l=en&t=pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil législatif de zone délibère les textes, dont l'amendement au droit coutumier murle approuvé par le conseil des ministres en septembre 2026 ; l'administrateur en chef les promulgue.", source: "https://www.eyeradio.org/article/pibor-council-approves-establishment-of-murle-customary-court-of-appeal"}
+  justice_propre: {valeur: "partiel", note: "Des affaires sont jugées selon le droit coutumier murle (Murle Customary Law) ; en septembre 2026 le conseil des ministres de la zone a approuvé la création d'une cour d'appel coutumière des chefs murle, encore soumise au conseil législatif.", source: "https://www.eyeradio.org/article/pibor-council-approves-establishment-of-murle-customary-court-of-appeal"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "conteste", note: "Accord du 9 mai 2014, art. 8 (matrice de mise en œuvre) : fonds spécial de développement financé par le budget national pour la zone ; selon le rapport du Secrétaire général S/2014/708 (par. 11), l'administrateur en chef n'avait reçu aucun budget de développement en septembre 2014 ; application après le rétablissement de 2020 non établie.", source: "https://www.files.ethz.ch/isn/192325/HSBA-WP35-Greater-Pibor.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La zone est dirigée par un administrateur au statut comparable à celui d'un gouverneur d'État, nommé par le président ; les payams érigés en comtés par l'administrateur en chef ne sont pas reconnus dans la politique et les statistiques nationales ; des violences intercommunautaires répétées y sont documentées (au moins 738 morts en 2020, plus de 300 morts fin 2022 et début 2023, d'après la Division des droits de l'homme de la mission des Nations unies, UNMISS) ; des parties des communautés kachipo et anyuak demandent à quitter la zone (Conflict Sensitivity Resource Facility, profil du comté de Pibor, 2025).", source: "https://csrf-southsudan.org/county_profile/pibor/"}
+chronologie:
+  - {annee: 2014, evenement: "Accord de paix du 9 mai (Addis-Abeba) entre le gouvernement et la faction Cobra du SSDM/A ; décret présidentiel du 24 juillet créant la zone ; David Yau Yau nommé administrateur en chef le 30 juillet."}
+  - {annee: 2015, evenement: "Création de l'État de Boma ; la zone administrative est dissoute."}
+  - {annee: 2020, evenement: "Décision présidentielle du 15 février : retour à dix États et trois zones administratives, dont Pibor."}
+  - {annee: 2024, evenement: "Décret présidentiel nommant Gola Boyoi administrateur en chef."}
+  - {annee: 2026, evenement: "Le conseil des ministres de la zone approuve la création d'une cour d'appel coutumière des chefs murle."}
+fiabilite:
+  verifie: ["Décret de création du 24 juillet 2014 et nomination de l'administrateur en chef (rapport du Secrétaire général S/2014/708, par. 11).", "Décision du 15 février 2020 créant trois zones administratives, dont Pibor (S/2020/145).", "Contenu de l'accord du 9 mai 2014 (rang de gouverneur, six comtés, fonds spécial de développement) d'après Small Arms Survey, HSBA Working Paper 35.", "Approbation de la cour d'appel coutumière murle par le conseil des ministres (Eye Radio, 19 septembre 2026)."]
+  non_confirme: ["Texte officiel du décret de 2020 et de l'instrument qui fixe les pouvoirs de la zone, non consultés.", "Statut juridique des comtés créés par l'administrateur en chef (la page Wikipédia en anglais en liste six).", "Existence d'une garantie de représentation au parlement national ; surface de la zone.", "Maintien en vigueur de l'accord de 2014 (dont le fonds spécial de développement) après la dissolution de 2015 et le rétablissement de 2020.", "Date du décret de 2014 : 24 juillet selon S/2014/708, 25 juillet selon Small Arms Survey."]
+sources:
+  - {titre: "Small Arms Survey, Claudio Todisco, « Real but Fragile: The Greater Pibor Administrative Area », HSBA Working Paper 35, mars 2015", url: "https://www.files.ethz.ch/isn/192325/HSBA-WP35-Greater-Pibor.pdf"}
+  - {titre: "Rapport du Secrétaire général sur le Soudan du Sud, S/2014/708, 30 septembre 2014", url: "https://documents.un.org/api/symbol/access?s=S/2014/708&l=en&t=pdf"}
+  - {titre: "Rapport du Secrétaire général sur le Soudan du Sud, S/2020/145", url: "https://documents.un.org/api/symbol/access?s=S/2020/145&l=en&t=pdf"}
+  - {titre: "Eye Radio, « Pibor Council approves establishment of Murle customary court of appeal », 19 septembre 2026", url: "https://www.eyeradio.org/article/pibor-council-approves-establishment-of-murle-customary-court-of-appeal"}
+  - {titre: "Sudans Post, « Kiir appoints Gola Boyoi as Chief Administrator of Greater Pibor », 16 avril 2024", url: "https://www.sudanspost.com/kiir-appoints-gola-boyoi-as-chief-administrator-of-greater-pibor/"}
+  - {titre: "Conflict Sensitivity Resource Facility, profil du comté de Pibor", url: "https://csrf-southsudan.org/county_profile/pibor/"}
+  - {titre: "Conflict Sensitivity Resource Facility, profil du comté de Pochalla", url: "https://csrf-southsudan.org/county_profile/pochalla/"}
+  - {titre: "Greater Pibor Administrative Area — Wikipédia (en)", url: "https://en.wikipedia.org/wiki/Greater_Pibor_Administrative_Area"}

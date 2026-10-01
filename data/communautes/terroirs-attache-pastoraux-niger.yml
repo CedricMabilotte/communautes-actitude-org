@@ -1,0 +1,62 @@
+uid: "terroirs-attache-pastoraux-niger"
+nom: "Terroirs d'attache des communautés pastorales du Niger"
+endonyme: ""
+territoire: "Terroirs d'attache des pasteurs, en zone pastorale (au nord de la limite des cultures) et en zone agricole"
+etats: ["Niger"]
+region: "afrique"
+coord: [15.5, 7.5]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "terroirs d'attache dotés d'un droit d'usage pastoral prioritaire reconnu par arrêté", annee: null, source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'ordonnance 2010-29 du 20 mai 2010 relative au pastoralisme définit le terroir d'attache comme l'unité territoriale reconnue par la coutume ou les textes où des pasteurs vivent la majeure partie de l'année et à laquelle ils restent rattachés pendant la transhumance. Sur ce terroir, les pasteurs peuvent se voir reconnaître, individuellement ou collectivement, un « droit d'usage pastoral prioritaire » : un droit d'occupation, de jouissance et de gestion des ressources naturelles, qui n'est pas un droit de propriété et ne peut exclure le passage ni l'abreuvement des autres troupeaux. Ce droit est reconnu par arrêté du président de la commission foncière départementale (instance locale du Code rural chargée du foncier). La notion existait déjà dans l'ordonnance 93-015 de 1993 fixant les principes d'orientation du Code rural.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Cinquième rapport national du Niger à la Convention sur la diversité biologique (février 2014) : cite l'ordonnance 2010-29 relative au pastoralisme parmi les mesures juridiques prises depuis 2009 et cite « l'adoption des textes d'application » de cette ordonnance parmi les réponses apportées à la dégradation des ressources (objectif 7) ; le rapport ne nomme pas les terroirs d'attache.", annee: 2014, source: "https://www.cbd.int/doc/world/ne/ne-nr-05-fr.pdf"}
+base_nationale:
+  - {instrument: "Ordonnance n° 2010-29 du 20 mai 2010 relative au pastoralisme (art. 2, 3, 11, 12, 18, 22 à 24, 26, 28, 52, 54, 56, 58, 66)", nature: "loi", annee: 2010, source: "https://faolex.fao.org/docs/pdf/NER131292.pdf"}
+  - {instrument: "Ordonnance n° 93-015 du 2 mars 1993 fixant les principes d'orientation du Code rural, que l'ordonnance 2010-29 complète (art. 1er)", nature: "loi", annee: 1993, source: "https://hal.science/cirad-00471281v1"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "partiel", note: "Sous réserve de l'ordonnance, les règles d'accès à la terre et d'exploitation des ressources foncières pastorales « sont celles définies par les traditions pastorales » (ordonnance 2010-29, art. 56) ; le droit d'usage prioritaire est reconnu « conformément aux règles et pratiques coutumières » (art. 11) et l'accès des tiers aux terroirs d'attache suit les textes et « les us et coutumes locales » (art. 12) ; aucune institution propre n'est chargée d'édicter ces règles.", source: "https://faolex.fao.org/docs/pdf/NER131292.pdf"}
+  justice_propre: {valeur: "partiel", note: "Les litiges entre éleveurs et agriculteurs passent d'abord, à peine de nullité, devant des commissions paritaires de conciliation présidées par le chef traditionnel du ressort et composées à parts égales de représentants des agriculteurs et des pasteurs ; en cas d'échec, la conciliation se poursuit jusqu'à l'échelon de chefferie le plus élevé, puis les tribunaux sont saisis (ordonnance 2010-29, art. 66 à 68).", source: "https://faolex.fao.org/docs/pdf/NER131292.pdf"}
+  terres: {valeur: "partiel", note: "Les pasteurs peuvent se voir reconnaître un droit d'usage pastoral prioritaire, droit d'occupation, de jouissance et de gestion sur leur terroir d'attache, par arrêté du président de la commission foncière départementale (ordonnance 2010-29, art. 2, 11 et 12) ; ils n'en sont privés, « soit à titre individuel, soit collectivement », que pour cause d'utilité publique après une juste et préalable indemnisation (art. 12) ; le droit ne peut aboutir à un contrôle exclusif des ressources pastorales (art. 12) et la zone pastorale, les enclaves pastorales et les aires de pâturage relèvent du domaine public de l'État ou des collectivités (art. 54) ; il ne s'agit pas d'une propriété.", source: "https://faolex.fao.org/docs/pdf/NER131292.pdf"}
+  ressources: {valeur: "partiel", note: "Le droit d'usage prioritaire porte sur les ressources naturelles du terroir d'attache sans exclure l'accès des tiers aux points d'eau, le droit de parcours et de pacage (ordonnance 2010-29, art. 11) ; l'accès aux stations de pompage peut être réservé en priorité aux titulaires (art. 23 et 24) ; la communauté détentrice de droits coutumiers sur une bourgoutière publique (pâturage inondable) y a un accès prioritaire (art. 58) ; la gérance ou la concession des eaux publiques doit prendre en compte ce droit (art. 26).", source: "https://faolex.fao.org/docs/pdf/NER131292.pdf"}
+  consentement: {valeur: "partiel", note: "Les communautés titulaires d'un droit d'usage prioritaire doivent donner leur accord avant le creusement d'un puits sur l'espace concerné ; leur refus doit être motivé et le préfet en contrôle l'abus (ordonnance 2010-29, art. 18) ; elles sont associées au choix des sites de stations de pompage (art. 22) ; l'indemnisation en cas de titre minier ou pétrolier est fixée par consensus, à défaut par expropriation (art. 52) ; les cahiers des charges des concessions de chasse doivent respecter les droits d'usage pastoraux inventoriés avec les pasteurs (art. 28).", source: "https://faolex.fao.org/docs/pdf/NER131292.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Les pasteurs « doivent être légitimement représentés par des délégués librement mandatés par eux » dans toutes les instances compétentes en matière de gestion des ressources naturelles (ordonnance 2010-29, art. 3) ; leurs organisations sont impliquées dans les cahiers des charges des eaux publiques (art. 26) et consultées sur les dates de libération des champs (art. 34).", source: "https://faolex.fao.org/docs/pdf/NER131292.pdf"}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Deux textes d'application de l'ordonnance sont adoptés en 2016 (pistes de transhumance, ramassage de la paille). Selon un article du conseiller juridique de l'Association pour la redynamisation de l'élevage au Niger (Aren) et d'un agronome de l'ONG Care, qui reprend des statistiques du Réseau des chambres d'agriculture et de l'Aren, 33 828 ha de terres pastorales ont fait l'objet d'immatriculations foncières (inscription comme propriété au livre foncier) illégales entre 2008 et 2014, 53 875 ha de ranchs clôturés ont été établis en zone pastorale « sous couvert du droit à la propriété accordé sur les terroirs d'attache », et des concessions extractives ont été accordées sans indemnisation des droits d'usage prioritaires ; fin octobre 2017, 516 ha avaient été récupérés en justice sur 2 806 contestés.", source: "https://www.inter-reseaux.org/wp-content/uploads/gds73-74_terrespastoralesniger_p10-11.pdf"}
+chronologie:
+  - {annee: 1961, evenement: "Loi 61-05 fixant une limite nord des cultures, au-delà de laquelle s'étend la zone pastorale."}
+  - {annee: 1993, evenement: "Ordonnance 93-015 fixant les principes d'orientation du Code rural : reconnaissance aux pasteurs de droits prioritaires sur leur terroir d'attache et création des commissions foncières."}
+  - {annee: 1997, evenement: "Décret 97-007 complétant l'ordonnance 93-015 : droit d'usage en commun et droit d'usage prioritaire."}
+  - {annee: 2003, evenement: "Rencontres de Niamey entre représentants des pasteurs, chefs traditionnels et administration : validation des termes de référence d'une loi pastorale."}
+  - {annee: 2010, evenement: "Ordonnance 2010-29 du 20 mai relative au pastoralisme : définition du terroir d'attache et du droit d'usage pastoral prioritaire."}
+  - {annee: 2014, evenement: "Cinquième rapport national du Niger à la Convention sur la diversité biologique : l'ordonnance 2010-29 figure parmi les mesures juridiques prises depuis 2009."}
+  - {annee: 2016, evenement: "Adoption de deux textes d'application : normes des pistes de transhumance et couloirs de passage, ramassage et commercialisation de la paille."}
+  - {annee: 2017, evenement: "Selon l'Aren et Care, 516 ha de terres pastorales récupérés en justice sur 2 806 contestés à fin octobre ; immatriculation annulée pour 2 500 ha sur 2 921 réclamés."}
+fiabilite:
+  verifie:
+    - "Texte de l'ordonnance 2010-29 (recueil du Code rural, édition 2013, FAOLEX) : définitions du terroir d'attache et des droits d'usage pastoraux prioritaires (art. 2), reconnaissance par arrêté du président de la commission foncière départementale (art. 11), privation pour utilité publique avec indemnisation préalable (art. 12), accord des communautés titulaires pour les puits (art. 18), cahiers des charges (art. 26 et 28), indemnisation minière et pétrolière (art. 52), conciliation paritaire (art. 66)."
+    - "Mention de l'ordonnance 2010-29 et de l'adoption de ses textes d'application dans le cinquième rapport national du Niger à la Convention sur la diversité biologique (2014)."
+    - "Rencontres de Niamey de 2003 et adoption de deux textes d'application en 2016, selon Avella et Reounodji (2009) et Aubague et Sani Baaré (2017)."
+    - "Antériorité du terroir d'attache dans l'ordonnance 93-015 et le décret 97-007, selon Avella et Reounodji (2009)."
+  non_confirme:
+    - "Nombre de terroirs d'attache ayant fait l'objet d'un arrêté de reconnaissance d'un droit d'usage prioritaire : aucune liste ni statistique officielle trouvée ; pas de tableau des sites."
+    - "Texte du décret 97-007 et contenu exact de l'ordonnance 93-015 sur le terroir d'attache : non consultés directement."
+    - "Population, nombre de villages et surface concernés : aucune source trouvée."
+    - "Chiffres d'accaparement de 2008 à 2014 : repris d'un article d'une organisation d'éleveurs et d'une ONG, non recoupés avec une source officielle."
+    - "Effets de la crise sécuritaire dans les régions de Tillabéri, Tahoua et Diffa sur l'exercice de ces droits : non documentés."
+sources:
+  - {titre: "Ordonnance n° 2010-29 du 20 mai 2010 relative au pastoralisme — Code rural, recueil des textes, édition 2013 (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/NER131292.pdf"}
+  - {titre: "Cinquième rapport national du Niger sur la diversité biologique (2014) — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/ne/ne-nr-05-fr.pdf"}
+  - {titre: "Avella et Reounodji, La législation foncière pastorale au Niger et au Tchad. Une analyse comparative, colloque de Garoua, 2009 (HAL)", url: "https://hal.science/cirad-00471281v1"}
+  - {titre: "Aubague et Sani Baaré, Terres pastorales au Niger : les éleveurs face à la défense de leurs droits, Grain de sel n° 73-74, Inter-réseaux, 2017", url: "https://www.inter-reseaux.org/wp-content/uploads/gds73-74_terrespastoralesniger_p10-11.pdf"}

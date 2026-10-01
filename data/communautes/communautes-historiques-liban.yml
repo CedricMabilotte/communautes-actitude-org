@@ -1,0 +1,61 @@
+uid: "communautes-historiques-liban"
+nom: "Communautés confessionnelles historiques du Liban"
+endonyme: ""
+territoire: "Liban (communautés sans territoire propre)"
+etats: ["Liban"]
+region: "asie"
+coord: [33.9, 35.8]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 17, unite: "communautés confessionnelles reconnues (hors Druzes)", annee: 1996, source: "https://www.lagbd.org/La_curieuse_cat%C3%A9gorie_des_communaut%C3%A9s_de_droit_commun_au_Liban_(lb)"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'arrêté n° 60 L.R. du 13 mars 1936, pris par le haut-commissaire de la puissance mandataire, reconnaît comme « communautés à statut personnel » les communautés historiques dont l'organisation, les juridictions et la législation sont fixées par un acte législatif.
+  L'arrêté n° 53 L.R. du 30 mars 1939 déclare ce régime sans application à l'égard des musulmans : l'organisation des communautés musulmanes relève depuis de lois de l'État.
+  Cette fiche couvre douze communautés chrétiennes, quatre communautés musulmanes (sunnite, chiite, alaouite, ismaélienne) et la communauté juive ; la communauté druze a sa propre fiche.
+  Le statut personnel (mariage, divorce, garde des enfants) de leurs membres relève de tribunaux confessionnels organisés par la loi du 2 avril 1951 pour les chrétiens et les juifs et par la loi du 16 juillet 1962 pour les sunnites et les chiites.
+  La Constitution répartit les sièges de la Chambre des députés entre les confessions (art. 24).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution libanaise de 1926, art. 9, 10, 19 et 24", nature: "constitution", annee: 1926, source: "https://www.constituteproject.org/constitution/Lebanon_2004?lang=en"}
+  - {instrument: "Arrêté n° 60 L.R. du 13 mars 1936 fixant le statut des communautés, modifié par l'arrêté n° 146 L.R. du 18 novembre 1938", nature: "loi", annee: 1936, source: "https://www.lagbd.org/La_curieuse_cat%C3%A9gorie_des_communaut%C3%A9s_de_droit_commun_au_Liban_(lb)"}
+  - {instrument: "Loi du 2 avril 1951 relative aux attributions des autorités religieuses des confessions chrétiennes et de la confession israélite", nature: "loi", annee: 1951, source: "https://iedja.org/lorganisation-juridictionnelle-du-liban/"}
+  - {instrument: "Loi du 16 juillet 1962 sur les juridictions sunnites et chiites", nature: "loi", annee: 1962, source: "https://iedja.org/lorganisation-juridictionnelle-du-liban/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Arrêté n° 60 L.R. de 1936, art. 1 : chaque communauté historique a une organisation fixée par un acte législatif (régime inapplicable aux communautés musulmanes depuis l'arrêté n° 53 L.R. de 1939) ; ses chefs peuvent saisir le Conseil constitutionnel en matière de statut personnel, de liberté de croyance et d'enseignement religieux (Constitution, art. 19).", source: "https://www.lagbd.org/La_curieuse_cat%C3%A9gorie_des_communaut%C3%A9s_de_droit_commun_au_Liban_(lb)"}
+  pouvoir_normatif: {valeur: "partiel", note: "Arrêté n° 60 L.R. de 1936 : autonomie législative des communautés chrétiennes et juive en matière de statut personnel ; pour les communautés musulmanes, exclues de ce régime par l'arrêté n° 53 L.R. de 1939, la législation relève de l'État ; 15 régimes de statut personnel s'appliquent aux 18 communautés reconnues.", source: "https://www.lagbd.org/La_curieuse_cat%C3%A9gorie_des_communaut%C3%A9s_de_droit_commun_au_Liban_(lb)"}
+  justice_propre: {valeur: "reconnu", note: "Tribunaux ecclésiastiques (loi du 2 avril 1951) compétents en matière de mariage, de divorce, de garde et de pension alimentaire, sans compétence successorale ; tribunaux de la charia (loi islamique) sunnites et jaafarites (chiites) (loi du 16 juillet 1962), compétents aussi en matière successorale ; pourvoi devant l'assemblée plénière de la Cour de cassation. Les juges des tribunaux ecclésiastiques sont nommés et rémunérés par leurs communautés ; ceux des tribunaux de la charia sont des fonctionnaires de l'État (EuroMed Droits, 2018).", source: "https://iedja.org/lorganisation-juridictionnelle-du-liban/"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "Constitution, art. 10 : le droit des communautés à avoir leurs propres écoles privées ne peut être atteint, sous réserve des règles générales de l'État sur l'instruction publique.", source: "https://www.constituteproject.org/constitution/Lebanon_2004?lang=en"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Constitution, art. 24 : sièges répartis à parts égales entre chrétiens et musulmans et proportionnellement entre les confessions ; depuis l'accord de Taëf (1989), 64 sièges chrétiens, 27 sunnites, 27 chiites et 2 alaouites sur 128 ; les communautés ismaélienne et juive n'ont pas de siège propre.", source: "https://en.wikipedia.org/wiki/Parliament_of_Lebanon"}
+  statut_personnel: {valeur: "reconnu", note: "Constitution, art. 9 : l'État garantit le respect du statut personnel et des intérêts religieux des populations, quelle que soit leur confession ; arrêté n° 60 L.R. de 1936 (communautés chrétiennes et juive) et loi du 16 juillet 1962 (sunnites et chiites) : statut personnel régi par le droit de chaque communauté.", source: "https://www.constituteproject.org/constitution/Lebanon_2004?lang=en"}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Selon l'Agence de l'Union européenne pour l'asile, les affaires de statut personnel sont jugées par les tribunaux de la charia sunnites et chiites et par les tribunaux ecclésiastiques ; les membres de groupes non reconnus n'ont pas accès à un tribunal de leur confession.", source: "https://www.euaa.europa.eu/lebanon-country-focus/311-personal-status-law-and-courts"}
+chronologie:
+  - {annee: 1926, evenement: "Constitution : respect du statut personnel des communautés (art. 9) et répartition confessionnelle des sièges (art. 24)."}
+  - {annee: 1936, evenement: "Arrêté n° 60 L.R. du 13 mars : reconnaissance des communautés historiques, liste annexée de 16 communautés."}
+  - {annee: 1938, evenement: "Arrêté n° 146 L.R. du 18 novembre : ajout de la communauté protestante."}
+  - {annee: 1939, evenement: "Arrêté n° 53 L.R. du 30 mars : les arrêtés de 1936 et 1938 sont déclarés sans application à l'égard des musulmans."}
+  - {annee: 1951, evenement: "Loi du 2 avril sur les juridictions des communautés chrétiennes et juive."}
+  - {annee: 1962, evenement: "Loi du 16 juillet sur les tribunaux de la charia sunnites et jaafarites."}
+  - {annee: 1989, evenement: "Accord de Taëf : parité des sièges entre chrétiens et musulmans."}
+  - {annee: 1996, evenement: "Reconnaissance de la communauté copte orthodoxe, dix-huitième communauté."}
+fiabilite:
+  verifie: ["Arrêté n° 60 L.R. de 1936, art. 1 et 8, arrêté n° 146 L.R. de 1938 et arrêté n° 53 L.R. de 1939 (article de doctrine, LAGBD).", "Liste annexée de 1936 : 16 communautés, dont les communautés sunnite, chiite, alaouite, ismaélienne et druze ; 18 communautés après 1996 (LAGBD).", "Lois de 1951 et de 1962 sur les juridictions confessionnelles (IEDJA).", "Art. 9, 10, 19 et 24 de la Constitution (Constitute Project).", "18 communautés reconnues : 12 chrétiennes, 4 musulmanes, druze et juive (EUAA)."]
+  non_confirme: ["Juridictions de statut personnel des communautés alaouite et ismaélienne non établies.", "Textes officiels des arrêtés de 1936 et 1938 et des lois de 1951 et 1962 non consultés au Journal officiel.", "Organes propres des communautés musulmanes (Dar al-Fatwa, Conseil supérieur islamique chiite créé en 1967, Conseil islamique alaouite) : textes fondateurs non consultés ; la fiche pourrait être scindée par communauté.", "Population : aucun recensement depuis 1932 ; répartition estimée en 2023 (Statistics Lebanon, citée par le Département d'État) non vérifiée à la source.", "Répartition des sièges lue dans une encyclopédie ; loi électorale de 2017 non consultée.", "Capacité d'acquérir des biens (arrêté 60, art. 8) et gestion des waqfs (biens de mainmorte) : portée non établie.", "Aucun document onusien nommant ces communautés n'a pu être ouvert."]
+sources:
+  - {titre: "La curieuse catégorie des communautés de droit commun au Liban — LAGBD", url: "https://www.lagbd.org/La_curieuse_cat%C3%A9gorie_des_communaut%C3%A9s_de_droit_commun_au_Liban_(lb)"}
+  - {titre: "L'organisation juridictionnelle du Liban — IEDJA", url: "https://iedja.org/lorganisation-juridictionnelle-du-liban/"}
+  - {titre: "Constitution du Liban — Constitute Project", url: "https://www.constituteproject.org/constitution/Lebanon_2004?lang=en"}
+  - {titre: "EUAA — Lebanon country focus : personal status law and courts", url: "https://www.euaa.europa.eu/lebanon-country-focus/311-personal-status-law-and-courts"}
+  - {titre: "Parliament of Lebanon — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Parliament_of_Lebanon"}
+  - {titre: "Religion in Lebanon — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Religion_in_Lebanon"}
+  - {titre: "Lebanon : the Independence and Impartiality of the Judiciary — EuroMed Droits (2018)", url: "https://euromedrights.org/wp-content/uploads/2018/03/LEBANON-The-Independence-and-Impartiality-of-the-Judiciary-EN.pdf"}

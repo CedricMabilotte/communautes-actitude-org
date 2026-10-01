@@ -1,0 +1,58 @@
+uid: "aires-marines-gerees-localement-madagascar"
+nom: "Aires marines gérées localement de Madagascar"
+endonyme: ""
+territoire: "Zones marines, côtières et continentales délimitées dont la gestion halieutique est déléguée à des groupements de pêcheurs, surtout sur le littoral de Madagascar"
+etats: ["Madagascar"]
+region: "afrique"
+coord: [-20.3, 44.3]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 150, unite: "communautés côtières membres du réseau MIHARI, regroupées en 64 associations", annee: 2017, source: "https://madagascar-tribune.com/Les-communautes-de-pecheurs,23207.html"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés de pêcheurs qui gèrent une aire marine gérée localement (AMGL, en anglais LMMA), dénommée dans le droit des pêches « aire de pêche gérée localement » (APGL). Le Code de la pêche et de l'aquaculture de 2015 (loi n° 2015-053) valorise la gouvernance communautaire des ressources halieutiques et confie au ministère chargé de la pêche les transferts de gestion (délégation par l'État de la gestion d'une ressource) aux communautés locales de base ; le décret n° 2016-1352 et l'arrêté n° 29211/2017 du 28 novembre 2017 en fixent les modalités. Un groupement de pêcheurs légalement constitué peut obtenir, pour une zone délimitée couverte par un plan d'aménagement des pêcheries, une autorisation de gestion de deux ans renouvelable, assortie d'un cahier des charges, et gère la zone selon des réglementations communautaires, dont un dina (convention collective locale homologuée par le tribunal). Le régime relève du ministère chargé de la pêche et se distingue des transferts de gestion des ressources naturelles renouvelables de la loi n° 96-025 ; aucune liste officielle des autorisations délivrées n'a été trouvée.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Sixième rapport national de Madagascar à la Convention sur la diversité biologique (février 2019) : la liste des sigles définit les LMMA (Locally Managed Marine Areas) et le rapport cite la création de la LMMA d'Ambatolava parmi les mesures pour les écosystèmes aquatiques.", annee: 2019, source: "https://www.cbd.int/doc/nr/nr-06/mg-nr-06-fr.pdf"}
+base_nationale:
+  - {instrument: "Loi n° 2015-053 portant Code de la pêche et de l'aquaculture, titre II, chapitre 3 « Gouvernance locale de la petite pêche » (articles 14 et 15)", nature: "loi", annee: 2015, source: "https://www.dcn-pac.mg/uploads/loi/5d836f7ded9833bafec7e9f6e7ad5b40.pdf"}
+  - {instrument: "Décret n° 2016-1352 du 8 novembre 2016 portant organisation des activités de préservation des ressources halieutiques et écosystèmes aquatiques, chapitre III (articles 11 à 15, transfert de gestion) et chapitre V (articles 28 à 30, réserves de pêche)", nature: "loi", annee: 2016, source: "https://faolex.fao.org/docs/pdf/mad203280.pdf"}
+  - {instrument: "Arrêté ministériel n° 29211/2017 du 28 novembre 2017 fixant les modalités de transfert de gestion des ressources halieutiques et écosystèmes aquatiques (aires de pêche gérées localement)", nature: "loi", annee: 2017, source: "https://faolex.fao.org/docs/pdf/mad179721.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les bénéficiaires du transfert sont des communautés de pêcheurs rassemblées en groupement légalement constitué et reconnu par le ministère chargé de la pêche (arrêté n° 29211/2017, art. 3 ; décret n° 2016-1352, art. 12) ; le plan simple de gestion est élaboré par les groupements et validé par l'assemblée communautaire (arrêté, art. 1 et 7) ; l'autorisation est valable deux ans renouvelables et le ministère assure le suivi et la supervision des activités du groupement (arrêté, art. 7 et 10 ; décret, art. 14 et 15).", source: "https://faolex.fao.org/docs/pdf/mad179721.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les modes de gestion des ressources par les groupements sont fixés par des réglementations communautaires, dont un dina homologué par le tribunal du lieu, et par un cahier des charges (document fixant droits et obligations) conclu avec l'administration (arrêté n° 29211/2017, art. 4 ; l'arrêté vise dans son préambule la loi n° 2001-004 sur les dina) ; la gestion locale et la surveillance communautaire sont approuvées par voie réglementaire sur proposition des organes de gestion locale (Code de la pêche 2015, art. 14).", source: "https://faolex.fao.org/docs/pdf/mad179721.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La zone établie par transfert de gestion est une zone clairement délimitée dont l'État délègue la gestion des ressources aux membres des communautés de pêcheurs ; elle doit être couverte par un plan d'aménagement des pêcheries (arrêté n° 29211/2017, art. 1 et 2) et porte sur des ressources du domaine de l'État ou des collectivités territoriales (décret n° 2016-1352, art. 13) ; aucun texte ne confère de propriété.", source: "https://faolex.fao.org/docs/pdf/mad179721.pdf"}
+  ressources: {valeur: "partiel", note: "Le Code de 2015 place les transferts de gestion des ressources halieutiques et des écosystèmes aquatiques aux communautés locales de base sous la compétence de l'autorité chargée de la pêche (art. 15) ; le groupement peut demander une APGL, sous forme de réserve de pêche ou de zone établie par transfert de gestion, et peut en consacrer une partie au paiement des services écosystémiques ou à l'écotourisme (arrêté n° 29211/2017, art. 5 et 8) ; aucun texte trouvé ne réserve l'accès à la zone aux seuls membres de la communauté.", source: "https://www.dcn-pac.mg/uploads/loi/5d836f7ded9833bafec7e9f6e7ad5b40.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Lors du quatrième forum national du réseau MIHARI (Fort-Dauphin, juillet 2017), qui regroupait alors 150 communautés en 64 associations, les représentants des communautés ont adopté à l'unanimité, en présence du directeur général du ministère chargé de la pêche, trois motions qui demandent notamment une homologation plus rapide des dina et un droit de pêche exclusif sur la bande littorale. La motion sur les dina décrit la longueur des procédures d'homologation et le risque de rejet des dossiers.", source: "https://madagascar-tribune.com/Les-communautes-de-pecheurs,23207.html"}
+chronologie:
+  - {annee: 1996, evenement: "Loi n° 96-025 relative à la gestion locale des ressources naturelles renouvelables : transferts de gestion aux communautés de base, y compris pour la faune et la flore aquatiques."}
+  - {annee: 2006, evenement: "Selon l'organisation Blue Ventures, le modèle d'aire marine gérée localement est mis au point à Madagascar."}
+  - {annee: 2015, evenement: "Loi n° 2015-053 portant Code de la pêche et de l'aquaculture : gouvernance locale de la petite pêche et transferts de gestion aux communautés locales de base (art. 14 et 15)."}
+  - {annee: 2016, evenement: "Décret n° 2016-1352 du 8 novembre : transfert de gestion dans le cadre d'un plan d'aménagement des pêcheries, autorisation de deux ans renouvelable."}
+  - {annee: 2017, evenement: "Forum national du réseau MIHARI à Fort-Dauphin (27-31 juillet) : motions sur les dina, les engins de pêche et un droit de pêche communautaire exclusif sur la bande littorale."}
+  - {annee: 2017, evenement: "Arrêté n° 29211/2017 du 28 novembre : définition de l'aire de pêche gérée localement et procédure de demande."}
+fiabilite:
+  verifie: ["Arrêté n° 29211/2017 : articles 1 à 12 lus intégralement (définitions de l'APGL, bénéficiaires, dina homologué, autorisation de deux ans, supervision).", "Décret n° 2016-1352 : articles 1 à 15 et 28 à 30 lus.", "Code de la pêche et de l'aquaculture (loi n° 2015-053) : articles 14 et 15 lus ; l'article 49 sur les droits d'usage coutumiers libres et gratuits dans les zones réservées figure dans le chapitre sur la pêche continentale.", "Loi n° 96-025 : articles 1 à 3 lus (ressources aquatiques incluses dans le champ des transferts de gestion).", "150 communautés en 64 associations membres du réseau MIHARI en 2017 (Madagascar Tribune)."]
+  non_confirme: ["Nombre de groupements titulaires d'une autorisation de transfert de gestion au titre de l'arrêté de 2017 : aucune liste officielle trouvée, d'où l'absence de tableau des sites ; le tableau de bord du réseau MIHARI indique plus de 300 aires marines gérées localement en 2026, sans distinguer leur statut juridique (dina, transfert de gestion, aire protégée).", "Date de la loi n° 2015-053 : 16 décembre 2015 selon FAOLEX, 2 décembre 2015 selon le décret n° 2016-1352, 3 février 2016 selon l'arrêté n° 29211/2017 (date de promulgation probable).", "Articulation avec les transferts de gestion de la loi n° 96-025 (ministère chargé de l'environnement) : certaines aires sont gérées sous ce régime ou sous le statut d'aire protégée ; le site de Velondriake figure dans la base WDPA du PNUE-WCMC (639,95 km²), sans que le type de gouvernance ait pu être confirmé.", "Surface totale des aires : Blue Ventures indique « près d'un cinquième » des fonds marins côtiers, sans chiffre."]
+sources:
+  - {titre: "Loi n° 2015-053 portant Code de la pêche et de l'aquaculture — DCN-PAC", url: "https://www.dcn-pac.mg/uploads/loi/5d836f7ded9833bafec7e9f6e7ad5b40.pdf"}
+  - {titre: "Décret n° 2016-1352 portant organisation des activités de préservation des ressources halieutiques et écosystèmes aquatiques — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mad203280.pdf"}
+  - {titre: "Arrêté ministériel n° 29211/2017 fixant les modalités de transfert de gestion des ressources halieutiques et écosystèmes aquatiques — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mad179721.pdf"}
+  - {titre: "Loi n° 96-025 relative à la gestion locale des ressources naturelles renouvelables — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mad16686.pdf"}
+  - {titre: "Sixième rapport national de Madagascar à la Convention sur la diversité biologique (2019)", url: "https://www.cbd.int/doc/nr/nr-06/mg-nr-06-fr.pdf"}
+  - {titre: "Les communautés de pêcheurs (forum national MIHARI, 2017) — Madagascar Tribune", url: "https://madagascar-tribune.com/Les-communautes-de-pecheurs,23207.html"}
+  - {titre: "Motion – Officialisation et mise en œuvre des dina en matière de gestion des ressources naturelles (2017) — réseau MIHARI", url: "https://mihari-network.org/wp-content/uploads/2019/07/Motion-1-MIHARI-Officialisation-et-mise-en-%C5%93uvre-des-dina-en-mati%C3%A8re-de-gestion-des-ressources.pdf"}
+  - {titre: "Tableau de bord des LMMA — réseau MIHARI", url: "https://mihari-network.org/base-de-donnees/tableau-de-bord-partenaires/"}
+  - {titre: "Locally managed marine areas — Blue Ventures", url: "https://blueventures.org/conservation/locally-managed-marine-areas/"}
+  - {titre: "Velondriake — Protected Planet (WDPA, PNUE-WCMC)", url: "https://www.protectedplanet.net/555512161"}

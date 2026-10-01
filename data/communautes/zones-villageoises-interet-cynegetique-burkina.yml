@@ -1,0 +1,61 @@
+uid: "zones-villageoises-interet-cynegetique-burkina"
+nom: "Zones villageoises d'intérêt cynégétique du Burkina Faso"
+endonyme: ""
+territoire: "Terroirs villageois, surtout dans la région de l'Est (périphérie du complexe W-Arly-Pendjari) et dans le Centre-Sud et le Centre-Ouest (secteur de Nazinga et de la Sissili) ; d'autres ZOVIC existent dans les provinces du Sanmatenga, du Ganzourgou et du Zoundwéogo"
+etats: ["Burkina Faso"]
+region: "afrique"
+coord: [11.8, 1.0]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 68, unite: "zones villageoises d'intérêt cynégétique (58 dans la région de l'Est, 10 dans les régions du Centre-Sud et du Centre-Ouest), selon l'association Nature et Développement", annee: 2020, source: "https://associationnatudev.org/2020/07/03/savoir-tout-sur-les-zones-villageoises-dinteret-cynegetique-zovic-au-burkina-faso/"}
+surface_km2: {valeur: 599.26, annee: 2020, perimetre: "somme des deux superficies régionales données par la source pour les 68 ZOVIC recensées : 38 346 ha dans l'Est et 21 580 ha dans le Centre-Sud et le Centre-Ouest ; la page indique un total de 58 926 ha, qui ne correspond pas à cette somme (59 926 ha) ; de 14 ha pour la plus petite à 8 789 ha pour la plus grande", source: "https://associationnatudev.org/2020/07/03/savoir-tout-sur-les-zones-villageoises-dinteret-cynegetique-zovic-au-burkina-faso/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Une zone villageoise d'intérêt cynégétique (ZOVIC, zone de chasse villageoise) est une partie du terroir d'une communauté de base que celle-ci affecte à l'exploitation de la faune. Le régime figure dans le code forestier de 1997, puis dans la loi n° 003-2011/AN du 5 avril 2011 portant code forestier (art. 103 à 106). La création est proposée par l'organe villageois et confirmée par arrêté de l'autorité locale ; la gestion revient à des associations ou groupements villageois, qui peuvent louer la zone à des professionnels de la chasse. Une association en recense 68 en 2020, pour environ 600 km², dont 58 dans la région de l'Est ; le rapport national de 2010 et une note de la Banque mondiale de 2022 en mentionnent une centaine.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Quatrième rapport national du Burkina Faso à la Convention sur la diversité biologique (juillet 2010) : décrit les ZOVIC comme des espaces délimités par les populations locales sur leurs terroirs villageois, dont les profits sont gérés par les comités villageois de gestion de la faune (CVGF), et dénombre 75 ZOVIC dans la région de l'Est.", annee: 2010, source: "https://www.cbd.int/doc/world/bf/bf-nr-04-fr.pdf"}
+base_nationale:
+  - {instrument: "Loi n° 006/97/ADP du 31 janvier 1997 portant code forestier, art. 99 à 102 (abrogée)", nature: "loi", annee: 1997, source: "https://faolex.fao.org/docs/pdf/bkf11545.pdf"}
+  - {instrument: "Loi n° 003-2011/AN du 5 avril 2011 portant code forestier au Burkina Faso, art. 103 à 106", nature: "loi", annee: 2011, source: "https://faolex.fao.org/docs/pdf/bkf106703.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La création d'une ZOVIC est proposée par procès-verbal de réunion de l'organe villageois compétent et confirmée par arrêté de l'autorité locale (code forestier de 2011, art. 103) ; la gestion peut être assurée par des associations ou groupements villageois dotés de la personnalité morale (art. 104).", source: "https://faolex.fao.org/docs/pdf/bkf106703.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les activités autorisées à l'intérieur de la ZOVIC sont déterminées par la communauté de base, avec l'assistance des services techniques locaux chargés de la faune (code forestier de 2011, art. 105).", source: "https://faolex.fao.org/docs/pdf/bkf106703.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La ZOVIC est une partie du terroir de la communauté de base, « affectée par elle » à l'exploitation des ressources cynégétiques (code forestier de 2011, art. 103) ; le texte porte sur l'affectation et la gestion, non sur la propriété du sol.", source: "https://faolex.fao.org/docs/pdf/bkf106703.pdf"}
+  ressources: {valeur: "partiel", note: "La communauté exploite la faune de la zone et peut en confier l'exploitation par amodiation (location d'un droit de chasse) à des professionnels de la faune (code forestier de 2011, art. 104) ; les espèces restent soumises aux listes de protection fixées par décret (art. 107 à 109).", source: "https://faolex.fao.org/docs/pdf/bkf106703.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les redevances et taxes perçues pour la gestion des ZOVIC sont réparties entre les budgets locaux et les organisations villageoises de gestion de la faune ; leurs montants sont fixés par les textes d'application (code forestier de 2011, art. 106).", source: "https://faolex.fao.org/docs/pdf/bkf106703.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon la note sectorielle de la Banque mondiale sur les forêts du Burkina Faso (2022), plus d'une centaine de ZOVIC ont été créées, gérées par des comités villageois de gestion de la faune (CVGF) ; la location des ZOVIC aux guides de chasse a rapporté 10 717 500 francs CFA en 2013-2014 ; seules sept ZOVIC sont gérées par des guides de chasse ; les dispositions sur le régime foncier et la fiscalité des ZOVIC restent à clarifier. Le rapport national à la Convention sur la diversité biologique (2010) indiquait que 32 des 75 ZOVIC de la région de l'Est étaient délimitées.", source: "https://openknowledge.worldbank.org/handle/10986/38288"}
+chronologie:
+  - {annee: 1996, evenement: "Réforme de la gestion de la faune : institution des ZOVIC autour des aires fauniques concédées, selon le rapport national de 2010."}
+  - {annee: 1997, evenement: "Loi n° 006/97/ADP portant code forestier : définition légale des ZOVIC (art. 99 à 102)."}
+  - {annee: 2010, evenement: "Le quatrième rapport national à la Convention sur la diversité biologique dénombre 75 ZOVIC dans la région de l'Est."}
+  - {annee: 2011, evenement: "Loi n° 003-2011/AN du 5 avril 2011 portant code forestier : le régime est repris aux art. 103 à 106."}
+  - {annee: 2020, evenement: "L'association Nature et Développement publie un décompte de 68 ZOVIC, dont 58 dans la région de l'Est."}
+  - {annee: 2022, evenement: "La note sectorielle de la Banque mondiale sur les forêts compte plus d'une centaine de ZOVIC et recommande de clarifier leur régime foncier et fiscal."}
+fiabilite:
+  verifie:
+    - "Texte des art. 103 à 106 du code forestier de 2011 (définition, création par l'organe villageois et arrêté local, gestion par associations ou groupements villageois, amodiation, activités fixées par la communauté de base, répartition des redevances), sur le texte publié par FAOLEX."
+    - "Présence des mêmes dispositions aux art. 99 à 102 du code forestier de 1997."
+    - "Description des ZOVIC, rôle des CVGF, décompte de 75 ZOVIC dans l'Est dont 32 délimitées, et série des recettes de location des ZOVIC de 1996-1997 à 2006-2007 (tableau 13), dans le quatrième rapport national à la Convention sur la diversité biologique (2010)."
+    - "Plus d'une centaine de ZOVIC, rôle et composition des CVGF, recettes de location de 2013-2014, sept ZOVIC gérées par des guides de chasse, dans la note sectorielle de la Banque mondiale (2022)."
+    - "Abrogation du code forestier de 1997 par l'art. 279 du code forestier de 2011."
+  non_confirme:
+    - "Nombre et superficie (68 ZOVIC, environ 600 km²) tirés d'une association, sans auteur, sans année de données et sans liste des sites ; la page donne un total (58 926 ha) différent de la somme de ses chiffres régionaux (59 926 ha) ; le rapport national de 2010 donnait 75 ZOVIC dans la seule région de l'Est et « une centaine » dans le pays, chiffre repris par la Banque mondiale en 2022 : l'écart n'est pas expliqué."
+    - "Maintien en vigueur du code forestier de 2011 en 2026 non contrôlé sur une source officielle à jour."
+    - "Textes d'application (décret sur l'exploitation de la faune, arrêtés fixant les redevances et la clé de répartition entre budgets locaux et organisations villageoises) non consultés."
+    - "Situation des ZOVIC de l'Est depuis la dégradation de la sécurité dans la région non documentée par une source ouverte."
+sources:
+  - {titre: "Loi n° 003-2011/AN du 5 avril 2011 portant code forestier au Burkina Faso — FAOLEX", url: "https://faolex.fao.org/docs/pdf/bkf106703.pdf"}
+  - {titre: "Loi n° 006/97/ADP du 31 janvier 1997 portant code forestier au Burkina Faso — FAOLEX", url: "https://faolex.fao.org/docs/pdf/bkf11545.pdf"}
+  - {titre: "Quatrième rapport national du Burkina Faso sur la diversité biologique (2010) — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/bf/bf-nr-04-fr.pdf"}
+  - {titre: "Note sectorielle sur les forêts : pour une gestion durable des forêts du Burkina Faso (2022) — Banque mondiale", url: "https://openknowledge.worldbank.org/handle/10986/38288"}
+  - {titre: "Savoir tout sur les zones villageoises d'intérêt cynégétique (ZOVIC) au Burkina Faso — association Nature et Développement (2020)", url: "https://associationnatudev.org/2020/07/03/savoir-tout-sur-les-zones-villageoises-dinteret-cynegetique-zovic-au-burkina-faso/"}

@@ -1,0 +1,54 @@
+uid: "sud-ouest-ethiopie"
+nom: "Peuples du Sud-Ouest éthiopien"
+endonyme: ""
+territoire: "Région des peuples d'Éthiopie du Sud-Ouest"
+etats: ["Éthiopie"]
+region: "afrique"
+coord: [7.0, 36.0]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 6, unite: "zones et woreda spécial (Kafa, Sheka, Bench Sheko, Dawro, Ouest-Omo, Konta)", annee: 2021, source: "https://nebe.org.et/en/node/657"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les peuples des zones Kafa, Sheka, Bench Sheko, Dawro et Ouest-Omo et du woreda spécial (district à statut particulier) Konta sont des « nations, nationalités et peuples » au sens de la Constitution fédérale éthiopienne.
+  Ils relevaient de l'État régional des nations, nationalités et peuples du Sud.
+  Le 30 septembre 2021, sur le fondement de l'article 47, ils ont voté par référendum, organisé par la Commission électorale nationale, pour former un État régional commun.
+  La Région des peuples d'Éthiopie du Sud-Ouest, onzième État de la fédération, a été établie le 23 novembre 2021 à Bonga ; son conseil a adopté ce jour-là une constitution régionale et retenu l'amharique comme langue de travail.
+  Le gouvernement régional a choisi quatre capitales de même rang : Bonga, Mizan Aman, Tercha et Tepi.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme note la reconnaissance du droit des communautés ethniques et linguistiques à l'autodétermination au niveau de l'État régional (CCPR/C/ETH/CO/1, par. 26). Vise la catégorie, pas les peuples du Sud-Ouest nommément.", annee: 2011, source: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+base_nationale:
+  - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 5, 39, 40, 47, 50, 52, 61, 78 et 97", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {instrument: "Constitution de la Région des peuples d'Éthiopie du Sud-Ouest, approuvée par le conseil régional le 23 novembre 2021", nature: "statut_autonomie", annee: 2021, source: "https://www.fanamc.com/english/negash-wagesho-elected-deputy-administrator-of-new-south-west-ethiopia-region/"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Art. 39(3) : droit de chaque nation, nationalité et peuple à l'autogouvernement ; art. 47(2)-(3) : droit de former son propre État. Conseil de la Région réuni à Bonga le 23 novembre 2021, après le référendum du 30 septembre 2021, qui élit l'exécutif régional.", source: "https://www.fanamc.com/english/negash-wagesho-elected-deputy-administrator-of-new-south-west-ethiopia-region/"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Art. 52(1) : les pouvoirs non attribués à la Fédération sont réservés aux États ; art. 52(2)(b) : chaque État adopte sa constitution et ses lois. Constitution régionale approuvée par le conseil le 23 novembre 2021.", source: "https://www.fanamc.com/english/negash-wagesho-elected-deputy-administrator-of-new-south-west-ethiopia-region/"}
+  justice_propre: {valeur: "partiel", note: "Art. 50(2) : les États détiennent le pouvoir judiciaire ; art. 78(5) : les Conseils des États peuvent créer ou reconnaître des tribunaux religieux et coutumiers. Usage de cette faculté par la Région non vérifié.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  terres: {valeur: "partiel", note: "Art. 40(3) : la terre appartient à l'État et aux peuples d'Éthiopie, propriété commune des nations, nationalités et peuples, inaliénable ; art. 52(2)(d) : les États l'administrent selon la loi fédérale.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  ressources: {valeur: "partiel", note: "Art. 52(2)(d) : les États administrent la terre et les autres ressources naturelles conformément aux lois fédérales.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Art. 39(2) de la Constitution fédérale : droit de parler, écrire et développer sa langue ; art. 5(3) : chaque État fixe sa langue de travail. Le conseil régional a retenu l'amharique le 23 novembre 2021, pas une langue des peuples de la Région.", source: "https://www.fanamc.com/english/negash-wagesho-elected-deputy-administrator-of-new-south-west-ethiopia-region/"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Art. 97 : les États lèvent l'impôt sur le revenu des salariés de l'État et des entreprises privées, les redevances d'usufruit foncier et d'autres impôts ; art. 62(7) : la Chambre de la Fédération fixe le partage des recettes communes et les subventions fédérales.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  representation: {valeur: "reconnu", note: "Art. 61(2) : chaque nation, nationalité et peuple a au moins un siège à la Chambre de la Fédération (chambre haute), plus un par million d'habitants.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) : droit inconditionnel à l'autodétermination, y compris la sécession (séparation d'avec l'État), selon une procédure de vote du conseil législatif puis de référendum. Jamais exercé par ces peuples.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+effectivite: {valeur: "non_etablie", note: "La Région est en place depuis novembre 2021 ; son gouvernement a choisi quatre capitales de même rang (Rift Valley Institute, 2023). Aucune évaluation onusienne ou indépendante de son fonctionnement n'a été consultée.", source: "https://riftvalley.net/wp-content/uploads/2023/03/RVI-2023.03.21-Referendum-in-Ethiopias-Southern-Region.pdf"}
+chronologie:
+  - {annee: 1994, evenement: "Adoption de la Constitution fédérale (art. 39 et 47)."}
+  - {annee: 2021, evenement: "Le 30 septembre, référendum dans les zones Kafa, Sheka, Bench Sheko, Dawro, Ouest-Omo et le woreda spécial Konta : 1 262 679 votants sur 1 344 622 inscrits (93,9 %), majorité pour un État régional commun."}
+  - {annee: 2021, evenement: "Le 23 novembre, établissement à Bonga de la Région des peuples d'Éthiopie du Sud-Ouest, onzième État de la fédération ; le conseil approuve la constitution régionale et retient l'amharique comme langue de travail."}
+fiabilite:
+  verifie: ["Date du référendum, unités concernées et participation (Commission électorale nationale, communiqué du 9 octobre 2021).", "Texte des art. 5, 39, 40, 47, 50, 52, 61, 62, 78 et 97 de la Constitution (Constitute Project).", "Établissement le 23 novembre 2021, approbation de la constitution régionale et choix de l'amharique (Fana Broadcasting Corporate, 23 novembre 2021).", "Composition de la Région et choix de quatre capitales (Rift Valley Institute, 2023)."]
+  non_confirme: ["Pourcentage de « oui » : plus de 96 % selon la presse, non lu sur le communiqué de la Commission électorale.", "Texte de la constitution régionale non consulté ; compétences fiscales et judiciaires exercées par la Région non vérifiées.", "Le Rift Valley Institute date la formation de la Région de 2022 ; la presse officielle de novembre 2021 donne le 23 novembre 2021.", "Population et surface : chiffres circulant (projection de 2025, environ 39 400 km²) sans source primaire ouverte.", "Liste exhaustive des peuples de la Région (Kafficho, Shekacho, Bench, Sheko, Dawro, Konta, Me'en, Suri, Dizi, Majang…) non établie sur une source officielle."]
+sources:
+  - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+  - {titre: "National Election Board of Ethiopia — South West Ethiopia People's Referendum", url: "https://nebe.org.et/en/node/657"}
+  - {titre: "Rift Valley Institute — Referendum in Ethiopia's Southern Region (2023)", url: "https://riftvalley.net/wp-content/uploads/2023/03/RVI-2023.03.21-Referendum-in-Ethiopias-Southern-Region.pdf"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur l'Éthiopie, CCPR/C/ETH/CO/1 (2011)", url: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
+  - {titre: "World Statesmen — Ethiopia Regions", url: "http://www.worldstatesmen.org/Ethiopia_Regions.html"}
+  - {titre: "Fana Broadcasting Corporate — Negash Wagesho elected Deputy Administrator of new South West Ethiopia Region (23 novembre 2021)", url: "https://www.fanamc.com/english/negash-wagesho-elected-deputy-administrator-of-new-south-west-ethiopia-region/"}

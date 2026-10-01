@@ -1,0 +1,55 @@
+uid: "coptes-egypte"
+nom: "Coptes d'Égypte"
+endonyme: ""
+territoire: "Égypte (communauté sans territoire propre)"
+etats: ["Égypte"]
+region: "afrique"
+coord: [26.8, 30.8]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 15000000, annee: 2023, perimetre: "Coptes vivant en Égypte, estimation du patriarche copte orthodoxe Tawadros II ; aucun chiffre officiel publié (environ 10 % de chrétiens selon les estimations d'experts citées par le Département d'État des États-Unis)", source: "https://www.state.gov/reports/2023-report-on-international-religious-freedom/egypt/"}
+lieux: {valeur: 3804, unite: "églises et bâtiments de service régularisés au titre de la loi de 2016 sur la construction des églises (sur 5 415 demandes)", annee: 2026, source: "https://minorityrights.org/communities/copts/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Coptes sont les chrétiens d'Égypte ; plus de 90 % des chrétiens du pays appartiennent à l'Église copte orthodoxe.
+  La Constitution de 2014, révisée en 2019, fait des principes des lois des chrétiens et des juifs d'Égypte la source principale des lois qui régissent leur statut personnel (mariage, divorce, filiation), leurs affaires religieuses et le choix de leurs chefs spirituels (art. 3).
+  Les tribunaux de l'État appliquent le droit canonique de la confession lorsque les deux époux en relèvent.
+  Une loi de 2016 encadre la construction et la régularisation des églises, et la loi électorale réserve des sièges à des candidats chrétiens à la Chambre des représentants.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité des droits de l'homme, observations finales sur le cinquième rapport de l'Égypte (CCPR/C/EGY/CO/5), § 43-44 : préoccupation pour les discriminations visant les minorités religieuses, « y compris les chrétiens coptes », notamment les restrictions à la construction et au fonctionnement des lieux de culte.", annee: 2023, source: "https://docs.un.org/en/CCPR/C/EGY/CO/5"}
+base_nationale:
+  - {instrument: "Constitution de la République arabe d'Égypte de 2014, révisée en 2019, art. 3, 64, 180, 235 et 244", nature: "constitution", annee: 2014, source: "https://www.constituteproject.org/constitution/Egypt_2019"}
+  - {instrument: "Loi d'août 2016 sur la construction et la rénovation des églises", nature: "loi", annee: 2016, source: "https://minorityrights.org/communities/copts/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Constitution de 2014, art. 3 : les principes des lois des chrétiens d'Égypte sont la source principale des lois qui régissent leurs affaires religieuses et le choix de leurs chefs spirituels ; la compétence se limite au domaine religieux.", source: "https://www.constituteproject.org/constitution/Egypt_2019"}
+  pouvoir_normatif: {valeur: "partiel", note: "Constitution de 2014, art. 3 : les principes des lois des chrétiens sont la source principale de leur statut personnel ; lorsque les deux époux appartiennent à la même confession, les tribunaux appliquent le droit canonique de cette confession.", source: "https://www.state.gov/reports/2023-report-on-international-religious-freedom/egypt/"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Constitution, art. 244 : l'État veille à une représentation appropriée des chrétiens à la Chambre des représentants, selon la loi ; art. 180 : une représentation appropriée des chrétiens dans les conseils locaux ; la loi électorale réserve 24 sièges à des candidats chrétiens (Département d'État des États-Unis, rapport 2023).", source: "https://www.constituteproject.org/constitution/Egypt_2019"}
+  statut_personnel: {valeur: "reconnu", note: "Constitution de 2014, art. 3 : statut personnel régi par les principes des lois des chrétiens ; la charia (droit islamique) s'applique lorsqu'un des conjoints est musulman et aux couples chrétiens de confessions différentes.", source: "https://www.state.gov/reports/2023-report-on-international-religious-freedom/egypt/"}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité des droits de l'homme relève en 2023 des restrictions à la construction et au fonctionnement des lieux de culte et des violences confessionnelles commises dans l'impunité. Selon Minority Rights Group, 3 804 églises et bâtiments avaient été régularisés sur 5 415 demandes en avril 2026, et des églises non autorisées restent fermées. Selon le Département d'État des États-Unis, le projet de loi sur le statut personnel des chrétiens, achevé fin 2021, n'avait pas été transmis au Parlement à fin 2023.", source: "https://docs.un.org/en/CCPR/C/EGY/CO/5"}
+chronologie:
+  - {annee: 1874, evenement: "Création du Conseil communautaire copte (Majlis al-Milli), conseil de laïcs chargé de représenter la communauté."}
+  - {annee: 2014, evenement: "Constitution : art. 3 (statut personnel et affaires religieuses des chrétiens), art. 235 (loi sur la construction des églises), art. 244 (représentation des chrétiens)."}
+  - {annee: 2015, evenement: "Élections législatives : 36 députés coptes élus, soit 6 % des sièges."}
+  - {annee: 2016, evenement: "Loi d'août 2016 sur la construction et la rénovation des églises ; les permis relèvent des gouverneurs."}
+  - {annee: 2019, evenement: "Révision de la Constitution."}
+  - {annee: 2023, evenement: "Observations finales du Comité des droits de l'homme nommant les chrétiens coptes parmi les minorités religieuses discriminées."}
+  - {annee: 2026, evenement: "En avril, 3 804 églises et bâtiments de service régularisés sur 5 415 demandes."}
+fiabilite:
+  verifie: ["Texte des art. 3, 64, 180, 235 et 244 de la Constitution (Constitute Project, version de 2019).", "§ 43-44 des observations finales CCPR/C/EGY/CO/5 du 14 avril 2023.", "Application du droit canonique par les tribunaux de l'État, charia pour les couples mixtes ou de confessions différentes, 24 sièges réservés, permis délivrés par les gouverneurs, estimation de 15 millions de Coptes (Département d'État, rapport 2023).", "3 804 régularisations sur 5 415 demandes en avril 2026 et création du Majlis al-Milli en 1874 (Minority Rights Group)."]
+  non_confirme: ["Texte de la loi d'août 2016 non consulté au Journal officiel ; numéro de la loi non confirmé.", "Statut juridique actuel du Majlis al-Milli et règlement d'élection du patriarche : textes non consultés.", "Absence de juridiction confessionnelle propre (suppression des tribunaux communautaires en 1955) : texte non consulté.", "La Constitution vise les « chrétiens » et non les Coptes nommément ; la fiche couvre la confession majoritaire, les autres Églises relèvent du même article.", "Population : aucun chiffre officiel par religion publié ; estimations de 5,7 % (CAPMAS, recensement de 1986) à 12 % selon les sources."]
+sources:
+  - {titre: "Constitution de l'Égypte (2014, révisée en 2019) — Constitute Project", url: "https://www.constituteproject.org/constitution/Egypt_2019"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur le cinquième rapport périodique de l'Égypte (CCPR/C/EGY/CO/5)", url: "https://docs.un.org/en/CCPR/C/EGY/CO/5"}
+  - {titre: "Minority Rights Group — Copts", url: "https://minorityrights.org/communities/copts/"}
+  - {titre: "Département d'État des États-Unis — 2023 Report on International Religious Freedom : Egypt", url: "https://www.state.gov/reports/2023-report-on-international-religious-freedom/egypt/"}

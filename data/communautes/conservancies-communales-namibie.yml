@@ -1,0 +1,60 @@
+uid: "conservancies-communales-namibie"
+nom: "Conservancies communales de Namibie"
+endonyme: ""
+territoire: "Conservancies communales (zones de gestion communautaire de la faune) déclarées sur les terres communales de treize régions, de //Karas au sud à Zambezi au nord-est"
+etats: ["Namibie"]
+region: "afrique"
+coord: [-19.5, 17.5]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 244587, annee: null, perimetre: "nombre approximatif de personnes vivant dans les 86 conservancies communales, selon la liste de l'Association namibienne des organisations d'appui à la gestion communautaire des ressources naturelles (NACSO) consultée en 2026 ; le sixième rapport national à la CDB indique environ 170 000 bénéficiaires en 2014 ; Nyae Nyae comprise", source: "https://nacso.org.na/communal-conservancies/"}
+lieux: {valeur: 86, unite: "conservancies communales déclarées au Journal officiel (Nyae Nyae comprise)", annee: 2018, source: "https://www.cbd.int/doc/nr/nr-06/na-nr-06-en.pdf"}
+surface_km2: {valeur: 166179, annee: null, perimetre: "superficie totale des 86 conservancies communales affichée par la NACSO (la somme des lignes de sa liste donne 166 184 km²) ; le sixième rapport national à la CDB l'évalue à 19,8 % du territoire national ; Nyae Nyae comprise", source: "https://nacso.org.na/communal-conservancies/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés qui résident sur une terre communale et qui ont obtenu la déclaration d'une conservancy (zone de gestion communautaire de la faune). La loi n° 5 de 1996 modifiant l'ordonnance de 1975 sur la conservation de la nature (art. 24A) permet à ces communautés de demander au ministre la reconnaissance d'un comité de conservancy et la déclaration au Journal officiel d'une zone dont elles proposent les limites. Le comité exerce, au nom de la communauté, des droits et des devoirs sur l'usage et la gestion du gibier. Les quatre premières conservancies ont été déclarées en 1998 ; la NACSO en recense 86, sur 166 179 km². La conservancy de Nyae Nyae a une fiche propre (« Ju|'hoansi de Nyae Nyae ») et reste comprise dans les chiffres de cette fiche.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Rapport du Rapporteur spécial sur les droits des peuples autochtones sur la Namibie (A/HRC/24/41/Add.1, 25 juin 2013), § 26 à 30 et 85 : il décrit le régime de l'art. 24A, compte 59 conservancies, relève les empiètements et les clôtures illégales à Nyae Nyae et N≠a-Jaqna, et recommande d'harmoniser les lois sur les conservancies et sur les terres communales", annee: 2013, source: "https://documents.un.org/api/symbol/access?s=A/HRC/24/41/Add.1&l=en&t=pdf"}
+  - {mecanisme: "cdb_8j", detail: "Sixième rapport national de la Namibie à la Convention sur la diversité biologique (décembre 2018) : il indique que les conservancies ont été formalisées par la loi de 1996, que les conservancies communales sont passées de 66 en 2012 à 86 en 2018 et couvrent plus de 54 % des terres communales, et que 45 d'entre elles couvraient leurs coûts en 2017", annee: 2018, source: "https://www.cbd.int/doc/nr/nr-06/na-nr-06-en.pdf"}
+base_nationale:
+  - {instrument: "Nature Conservation Amendment Act (loi modifiant la loi sur la conservation de la nature) n° 5 de 1996, art. 3 insérant les art. 24A (conservancies) et 24B (conseils de la faune) dans l'ordonnance n° 4 de 1975 ; Journal officiel n° 1333 du 17 juin 1996", nature: "loi", annee: 1996, source: "https://faolex.fao.org/docs/pdf/nam18004.pdf"}
+  - {instrument: "Communal Land Reform Act (loi sur la réforme des terres communales) n° 5 de 2002, art. 4 (1) (f), 17 et 31 (4) ; Journal officiel n° 2787 du 12 août 2002", nature: "loi", annee: 2002, source: "https://faolex.fao.org/docs/pdf/nam64022.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Art. 24A (1) et (2) de l'ordonnance de 1975, insérés en 1996 : la communauté dépose la liste des membres de son comité, la constitution (statuts) du comité et les limites de la zone ; le ministre reconnaît le comité s'il est représentatif de la communauté, peut fixer des conditions et peut retirer cette reconnaissance après avoir invité le comité à présenter ses observations (art. 24A (3)).", source: "https://faolex.fao.org/docs/pdf/nam18004.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La terre communale appartient à l'État, qui la détient en fiducie (trust, gestion pour le compte d'autrui) au profit des communautés traditionnelles ; aucun droit de pleine propriété (freehold) ne peut y être accordé ni acquis (art. 17 de la loi de 2002). La conservancy ne reçoit aucun titre foncier ; un bail ne peut y être accordé si l'usage prévu va à l'encontre du plan de gestion et d'utilisation du comité (art. 31 (4)).", source: "https://faolex.fao.org/docs/pdf/nam64022.pdf"}
+  ressources: {valeur: "partiel", note: "Art. 24A (4) et (5) : le comité exerce, au nom de la communauté, des droits et des devoirs sur l'usage consommatif (chasse, prélèvement) et non consommatif (usages récréatifs, éducatifs, scientifiques, culturels) et la gestion durable du gibier ; les droits et devoirs d'un propriétaire ou d'un locataire de terres sur le gibier s'appliquent au comité (art. 24A (5)) ; le comité doit prévoir une répartition équitable des bénéfices (art. 24A (2) (c)). Les droits portent sur la faune, pas sur le sol ni le sous-sol.", source: "https://faolex.fao.org/docs/pdf/nam18004.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Art. 4 (1) (f) de la loi de 2002 : lorsqu'une ou plusieurs conservancies existent dans le ressort d'un conseil foncier communal (Communal Land Board), elles proposent une personne que le ministre nomme au conseil ; à défaut de proposition, le ministre nomme la personne de son choix (art. 4 (5)). Ces conseils sont régionaux ; aucun siège n'est réservé au niveau national.", source: "https://faolex.fao.org/docs/pdf/nam64022.pdf"}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Rapporteur spécial de l'ONU sur les droits des peuples autochtones (2013) constate que les conservancies donnent aux communautés une part de contrôle sur les ressources naturelles des terres communales et sur leurs bénéfices ; il relève que la loi sur les terres communales et la loi sur les conservancies ne sont pas harmonisées, que les ministères chargés des terres et de l'environnement favorisent des usages concurrents des mêmes terres, et que Nyae Nyae et N≠a-Jaqna subissent des empiètements de groupes extérieurs et des clôtures illégales. Selon la fiche Conservation Namibia, 69 des 86 conservancies ont eu des revenus en 2017 et 39 ont couvert leurs coûts de fonctionnement.", source: "https://documents.un.org/api/symbol/access?s=A/HRC/24/41/Add.1&l=en&t=pdf"}
+chronologie:
+  - {annee: 1975, evenement: "Ordonnance n° 4 sur la conservation de la nature."}
+  - {annee: 1996, evenement: "Loi n° 5 de 1996 (promulguée le 17 juin) : insertion des art. 24A et 24B sur les conservancies et les conseils de la faune."}
+  - {annee: 1997, evenement: "Entrée en vigueur de la loi n° 5 de 1996 le 29 avril 1997 (avis au Journal officiel n° 1546)."}
+  - {annee: 1998, evenement: "Déclaration des quatre premières conservancies communales : Nyae Nyae (février), Salambala et Torra (juin), ≠Khoadi-//Hôas (juillet)."}
+  - {annee: 2002, evenement: "Loi sur la réforme des terres communales : siège des conservancies aux conseils fonciers communaux et protection de leur plan de gestion face aux baux."}
+  - {annee: 2012, evenement: "66 conservancies communales selon le sixième rapport national à la CDB."}
+  - {annee: 2013, evenement: "Rapport du Rapporteur spécial de l'ONU sur les droits des peuples autochtones sur la Namibie : il recommande d'harmoniser les lois sur les conservancies et sur les terres communales."}
+  - {annee: 2018, evenement: "86 conservancies communales ; dernières déclarations (Kapinga Kamwalye, Otjikongo, Otjindjerese) en juillet."}
+fiabilite:
+  verifie: ["Texte des art. 24A et 24B insérés par la loi n° 5 de 1996 et date de promulgation (Journal officiel n° 1333 du 17 juin 1996, copie FAOLEX).", "Art. 4 (1) (f), 17 et 31 (4) de la loi n° 5 de 2002 (Journal officiel n° 2787, copie FAOLEX).", "Liste des 86 conservancies communales avec région, date de déclaration, superficie et population approximative (NACSO).", "Sixième rapport national à la CDB (2018) : 86 conservancies en 2018, 19,8 % du territoire, 45 conservancies autonomes financièrement en 2017.", "Revenus 2017 et conditions d'enregistrement (fiche Conservation Namibia).", "Date d'entrée en vigueur de la loi de 1996 (29 avril 1997, Journal officiel n° 1546) : notice NamibLII.", "Art. 4 (1) (f), 17 et 31 (4) toujours présents dans la version consolidée de la loi de 2002 au 1er décembre 2016 (NamibLII), après les lois modificatives n° 11 de 2005 et n° 13 de 2013.", "Rapport du Rapporteur spécial A/HRC/24/41/Add.1 (2013), § 26 à 30 et 85."]
+  non_confirme: ["Effet de la loi n° 3 de 2017 modifiant l'ordonnance de 1975 sur l'art. 24A : non vérifié.", "La liste NACSO ne porte pas de date de mise à jour ; son total (166 179 km²) diffère de la somme de ses lignes (166 184 km²).", "Dans le tableau, le signe # de la liste NACSO a été rendu par ≠ (clic palatal) dans deux noms (≠Gaingu, N≠a-Jaqna).", "Le sixième rapport national à la CDB donne deux chiffres différents : 86 conservancies en 2018 dans une section, 82 conservancies enregistrées dans une autre.", "Nombre de villages concernés : aucun chiffre trouvé.", "Aucune observation d'un organe de traité de l'ONU visant le régime des conservancies n'a été trouvée.", "Jugements de la Haute Cour concernant des conservancies (N≠a Jaqna, 2016 ; Puros, 2018) : repérés sur NamibLII, non lus."]
+sources:
+  - {titre: "Nature Conservation Amendment Act n° 5 de 1996 — Journal officiel n° 1333 (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/nam18004.pdf"}
+  - {titre: "Communal Land Reform Act n° 5 de 2002 — Journal officiel n° 2787 (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/nam64022.pdf"}
+  - {titre: "Nature Conservation Amendment Act 1996 — NamibLII", url: "https://namiblii.org/akn/na/act/1996/5"}
+  - {titre: "Communal Land Reform Act 2002, version consolidée au 1er décembre 2016 — NamibLII", url: "https://namiblii.org/akn/na/act/2002/5/eng@2016-12-01"}
+  - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones — La situation des peuples autochtones en Namibie, A/HRC/24/41/Add.1 (2013)", url: "https://documents.un.org/api/symbol/access?s=A/HRC/24/41/Add.1&l=en&t=pdf"}
+  - {titre: "Sixième rapport national de la Namibie à la Convention sur la diversité biologique (2018)", url: "https://www.cbd.int/doc/nr/nr-06/na-nr-06-en.pdf"}
+  - {titre: "NACSO — Communal conservancies (liste des conservancies)", url: "https://nacso.org.na/communal-conservancies/"}
+  - {titre: "NACSO — Conservancies (chiffres d'ensemble)", url: "https://nacso.org.na/conservancies/"}
+  - {titre: "Conservation Namibia — Communal conservancies (fiche)", url: "https://conservationnamibia.com/factsheets/communal-conservancies.php"}
+  - {titre: "Hitchcock — The Ju|'hoansi and the Nyae Nyae Conservancy, Namibian Journal of Environment", url: "https://nje.org.na/index.php/nje/article/view/volume12-hitchcock"}

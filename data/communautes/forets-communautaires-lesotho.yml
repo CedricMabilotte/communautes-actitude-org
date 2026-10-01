@@ -1,0 +1,59 @@
+uid: "forets-communautaires-lesotho"
+nom: "Forêts communautaires et coopératives du Lesotho"
+endonyme: ""
+territoire: "Forêts communautaires et coopératives déclarées sur des terres attribuées ou louées, ensemble du Lesotho"
+etats: ["Lesotho"]
+region: "afrique"
+coord: [-29.6, 28.2]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "forêts communautaires et coopératives déclarées", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés et les coopératives titulaires d'une forêt communautaire ou coopérative au Lesotho. La loi sur les forêts (Forestry Act n° 17 de 1998, art. 17) permet au ministre, à la demande écrite des détenteurs de terres attribuées ou louées, de déclarer ces terres forêt communautaire ou coopérative et de conclure avec eux un accord de gestion et d'exploitation pour une durée fixée. L'article 17(3) classe en forêts communautaires les forêts « liremo » (plantes, arbres et arbustes non cultivés, d'usage domestique, récoltés selon la coutume) et les forêts créées par « matsema » (travail collectif). La loi prévoit aussi le transfert de réserves forestières et d'entreprises forestières publiques à des communautés (art. 11 et 21). Le nombre de forêts déclarées n'a pas été trouvé.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Quatrième rapport national du Lesotho à la Convention sur la diversité biologique (décembre 2009) : au titre de l'accès et du partage des avantages, la foresterie communautaire est « contrôlée à 100 % par la communauté » ; dans les boisements créés par l'État, le partage des bénéfices est passé de 20 % pour la communauté et 80 % pour l'État à 80 % pour la communauté et 20 % pour l'État ; les conseils communautaires identifient les terrains destinés aux boisements communautaires.", annee: 2009, source: "https://www.cbd.int/doc/world/ls/ls-nr-04-en.pdf"}
+base_nationale:
+  - {instrument: "Forestry Act n° 17 de 1998 (loi sur les forêts), art. 3, 7, 11, 17, 18 et 21 ; supplément n° 1 au Journal officiel n° 91 du 18 décembre 1998", nature: "loi", annee: 1998, source: "https://lesotholii.org/akn/ls/act/1998/17/eng@1998-12-31"}
+  - {instrument: "Liremo Control Order n° 23 de 1970 (ordonnance sur le contrôle des liremo), art. 2", nature: "loi", annee: 1970, source: "https://faolex.fao.org/docs/pdf/les128648.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'accord de forêt privée, communautaire ou coopérative est conclu par le ministre avec les détenteurs de la terre (Forestry Act de 1998, art. 17, al. 1) ; pour les seules forêts privées et coopératives, il est signé par eux ou par leur mandataire et fixe les responsabilités de l'État et des détenteurs (art. 17, al. 4 b et g) ; la loi ne crée pas d'organe de gestion propre ; les liremo sont administrés par le chef ou sous sa direction (Liremo Control Order de 1970, art. 2, al. 3).", source: "https://lesotholii.org/akn/ls/act/1998/17/eng@1998-12-31"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La déclaration porte sur des terres attribuées ou louées aux demandeurs ; les détenteurs d'une forêt coopérative sont qualifiés de « propriétaires de la forêt » (Forestry Act de 1998, art. 17, al. 1 et 2) ; sur avis du chef des services forestiers, après consultation de l'autorité locale, la propriété, le contrôle et la gestion d'une réserve forestière peuvent être transférés à des communautés par avis au Journal officiel, avec droit de reprise par le ministre en cas de manquement grave à l'accord (art. 11, al. 3 et 4) ; les communautés qui plantent un arbre sur une terre qu'elles détiennent légalement en sont propriétaires (art. 3, al. 1).", source: "https://lesotholii.org/akn/ls/act/1998/17/eng@1998-12-31"}
+  ressources: {valeur: "partiel", note: "L'accord peut porter sur la gestion, l'entretien et l'exploitation de la forêt pour la production et la vente d'arbres, de bois de feu et d'autres produits forestiers ; pour les forêts privées et coopératives, il contient, s'il y a lieu, un plan de plantation, d'éclaircie, de récolte et de replantation (Forestry Act de 1998, art. 17, al. 1 a et 4 c) ; les liremo sont attribués à la nation basotho et récoltés selon la coutume (Liremo Control Order de 1970, art. 2).", source: "https://lesotholii.org/akn/ls/act/1998/17/eng@1998-12-31"}
+  consentement: {valeur: "partiel", note: "Une forêt communautaire ou coopérative n'est déclarée que sur demande écrite des détenteurs de la terre (Forestry Act de 1998, art. 17, al. 1) ; le transfert d'une réserve forestière suppose la consultation de l'autorité locale (art. 11, al. 3) ; les forêts liremo et matsema sont classées forêts communautaires par la loi elle-même, sans demande (art. 17, al. 3).", source: "https://lesotholii.org/akn/ls/act/1998/17/eng@1998-12-31"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le produit de la vente des arbres et des autres produits d'une forêt coopérative appartient à ses propriétaires (Forestry Act de 1998, art. 18) ; la loi ne dit rien du produit des forêts communautaires ; le Fonds forestier finance l'aide aux propriétaires de forêts communautaires et coopératives et les paiements convenus par contrat avec les représentants d'une communauté (art. 7, al. 6 a et b).", source: "https://lesotholii.org/akn/ls/act/1998/17/eng@1998-12-31"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune source indépendante n'a été trouvée. Le seul document consulté est un rapport de l'État : le quatrième rapport national à la Convention sur la diversité biologique (2009) indique qu'au stade initial le régime de gestion de la foresterie communautaire était surtout tenu par l'État, qu'il a été transformé depuis et que les communautés ont été « mises en apprentissage » ; aucun décompte des forêts déclarées n'a été trouvé.", source: "https://www.cbd.int/doc/world/ls/ls-nr-04-en.pdf"}
+chronologie:
+  - {annee: 1970, evenement: "Liremo Control Order : les liremo sont attribués à la nation basotho et administrés par les chefs."}
+  - {annee: 1998, evenement: "Forestry Act n° 17 de 1998 : création des forêts privées, communautaires et coopératives (art. 17) ; abrogation du Forest Act de 1978."}
+  - {annee: 2003, evenement: "La division des forêts devient le ministère des Forêts et de la Restauration des terres, selon le quatrième rapport national à la Convention sur la diversité biologique."}
+  - {annee: 2009, evenement: "Quatrième rapport national à la Convention sur la diversité biologique : foresterie communautaire contrôlée par la communauté, partage des bénéfices des boisements publics porté à 80 % pour la communauté."}
+fiabilite:
+  verifie:
+    - "Texte des articles 3, 7, 11, 17, 18, 19, 21 et 31 du Forestry Act n° 17 de 1998, sur LesothoLII et dans la copie du Journal officiel publiée par FAOLEX."
+    - "Article 2 du Liremo Control Order n° 23 de 1970 (définition des liremo, attribution à la nation basotho, administration par le chef), copie FAOLEX."
+    - "Passages sur la foresterie communautaire et les boisements communautaires du quatrième rapport national du Lesotho à la Convention sur la diversité biologique (décembre 2009)."
+  non_confirme:
+    - "Nombre de forêts communautaires et coopératives déclarées, surface, population et villages concernés : aucune source trouvée ; aucune liste officielle des sites n'a été trouvée."
+    - "Date de la loi : FAOLEX donne le supplément au Journal officiel n° 91 du 18 décembre 1998 et une entrée en vigueur à la publication ; LesothoLII indique le 31 décembre 1998."
+    - "On ne sait pas si les forêts liremo et matsema ont été déclarées une à une par le ministre comme le prévoit l'article 17(3), ni si des réserves forestières ont été transférées à des communautés en application des articles 11(3) et 21."
+    - "La loi ne précise pas qui détient les droits sur une forêt communautaire déclarée au titre de l'article 17(3) ; les articles 17(2), 18 et 19 ne visent que les forêts privées et coopératives."
+    - "Une modification ultérieure de la loi ou des règlements d'application sur les forêts communautaires n'a pas été trouvée."
+    - "Aucune source indépendante récente sur le fonctionnement du régime n'a été trouvée."
+sources:
+  - {titre: "Forestry Act n° 17 de 1998 — LesothoLII", url: "https://lesotholii.org/akn/ls/act/1998/17/eng@1998-12-31"}
+  - {titre: "Forestry Act n° 17 de 1998 (copie du Journal officiel) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/les20800.pdf"}
+  - {titre: "Liremo Control Order n° 23 de 1970 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/les128648.pdf"}
+  - {titre: "Lesotho Fourth National Report on Implementation of the Convention on Biological Diversity (2009) — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/ls/ls-nr-04-en.pdf"}
+  - {titre: "Third National Report, Lesotho — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/ls/ls-nr-03-en.pdf"}

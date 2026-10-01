@@ -5,9 +5,9 @@ territoire: "Terres collectives réparties dans l'ensemble du Maroc (parcours, t
 etats: ["Maroc"]
 region: "afrique"
 coord: [32.0, -6.5]
-type: "peuple_tribal"
+type: "communaute_locale"
 base: "territoriale"
-types_secondaires: []
+types_secondaires: ["peuple_tribal"]
 population: {valeur: 4725000, annee: 2024, perimetre: "membres recensés (2,625 millions d'hommes et 2,1 millions de femmes) dans 76 % des collectivités, recensement en cours", source: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}
 lieux: {valeur: 4908, unite: "collectivités soulaliyates", annee: 2024, source: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}
 surface_km2: {valeur: 156000, annee: 2024, perimetre: "environ 15,6 millions d'hectares de terres collectives (agriculture, forêt, parcours)", source: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}

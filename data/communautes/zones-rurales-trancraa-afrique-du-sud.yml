@@ -1,0 +1,57 @@
+uid: "zones-rurales-trancraa-afrique-du-sud"
+nom: "Zones rurales TRANCRAA d'Afrique du Sud"
+endonyme: ""
+territoire: "23 zones rurales dans quatre provinces : Cap-du-Nord (8, dont Leliefontein, Steinkopf, Komaggas, Concordia, Pella, Richtersveld et Mier), Cap-Occidental (12), État-Libre (2), Cap-Oriental (1)"
+etats: ["Afrique du Sud"]
+region: "afrique"
+coord: [-29.5, 18.5]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 23, unite: "zones rurales (anciennes « board areas »)", annee: 2024, source: "https://pmg.org.za/files/241030_TRANCRAA_Presentation.pptx"}
+surface_km2: {valeur: 14000, annee: 2024, perimetre: "ensemble des 23 zones (1,4 million d'hectares selon le ministère) ; 6 031 km² transférés en octobre 2024 ; Richtersveld compris", source: "https://pmg.org.za/committee-meeting/39779/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les résidents des 23 zones rurales régies par la loi sur les zones rurales n° 9 de 1987 (Rural Areas Act), abrogée par la loi de 1998 selon un calendrier fixé zone par zone. Ce sont d'anciennes réserves dites « coloured » (catégorie raciale « métis » de l'apartheid), issues pour la plupart de stations missionnaires et de réserves communales de 1909. La loi sur la transformation de certaines zones rurales (Transformation of Certain Rural Areas Act n° 94 de 1998, TRANCRAA) prévoit le transfert en pleine propriété des terres détenues en fiducie par le ministre à une entité recommandée après consultation des résidents : municipalité, association de propriété communale (CPA) ou autre organisme agréé. Les zones couvrent 1,4 million d'hectares dans quatre provinces, dont plus de 1,3 million au Cap-du-Nord (Namaqualand, Richtersveld, Mier). En octobre 2024, le ministère déclarait 603 000 ha transférés.
+  La zone du Richtersveld fait aussi l'objet de la fiche « Communauté nama du Richtersveld ».
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Transformation of Certain Rural Areas Act (loi sur la transformation de certaines zones rurales) n° 94 de 1998, art. 1 à 6 et 9 ; promulguée le 20 octobre 1998, Journal officiel n° 19417 du 2 novembre 1998", nature: "loi", annee: 1998, source: "https://www.gov.za/sites/default/files/gcis_document/201409/a94-98.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La municipalité ou, à défaut d'avis de sa part, un comité élu par les résidents majeurs et représentant leur majorité fixe la manière de consulter les résidents (assemblée spéciale, enquête écrite) et recommande au ministre l'entité qui recevra les terres : municipalité, association de propriété communale (CPA, association de copropriétaires enregistrée selon la loi n° 28 de 1996) ou autre organisme agréé par le ministre (loi n° 94 de 1998, art. 1 (ii) et (iii), art. 3 (4) et (5)). Le ministre approuve le choix et peut décider seul si les résidents n'ont pas fait de recommandation dans le délai (art. 3 (6) et (12)).", source: "https://www.gov.za/sites/default/files/gcis_document/201409/a94-98.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les terres en fiducie (trust land, détenues par le ministre pour la communauté) hors zones urbanisées sont transférées en pleine propriété à l'entité choisie, sans droits de mutation (loi n° 94 de 1998, art. 3 (1) et (15)) ; le ministre doit vérifier que les règles de l'entité protègent la sécurité d'occupation des résidents (art. 3 (2)). Une municipalité attributaire ne peut vendre ou grever ces terres sans l'accord de la majorité des résidents réunis en assemblée publique (art. 4 (1) (d)). Les terres non transférées à la fin de la période de transition restent détenues en fiducie par le ministre (art. 3 (13)).", source: "https://www.gov.za/sites/default/files/gcis_document/201409/a94-98.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Une municipalité attributaire doit permettre aux résidents de participer aux décisions sur l'administration des terres, leur donner une préférence d'accès et obtenir l'accord de la majorité d'entre eux en assemblée publique avant toute vente ou charge (loi n° 94 de 1998, art. 4 (1) (a), (c) et (d)). L'art. 6, qui soumettait la prospection et l'exploitation minières à l'approbation de l'entité propriétaire, a été abrogé par la loi n° 28 de 2002 sur le développement des ressources minérales et pétrolières (annexe, art. 110).", source: "https://www.gov.za/sites/default/files/gcis_document/201409/a94-98.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le 30 octobre 2024, le ministère a déclaré devant la commission parlementaire 603 099 ha transférés sur 1,4 million, avec neuf zones transférées en tout ou partie au titre de la loi (Oppermansgronde l'ayant été par la voie de la restitution) et les autres aux stades de résolution municipale, de création de l'entité ou de référendum (Komaggas) ; il cite le manque de personnel, le manque de coopération de certaines municipalités et des litiges internes. Des membres de la commission ont demandé un suivi des obligations des entités attributaires envers les communautés. Une étude de 2005 sur les six zones du Namaqualand, où la loi a été appliquée en 2001-2002, relève une consultation portée par la société civile, sans formation, financement ni appui au développement (Wisborg et Rohde, Development Southern Africa).", source: "https://pmg.org.za/committee-meeting/39779/"}
+chronologie:
+  - {annee: 1909, evenement: "Loi n° 29 sur les stations missionnaires et les réserves communales : constitution de la plupart des futures zones."}
+  - {annee: 1987, evenement: "Loi n° 9 sur les zones rurales (Rural Areas Act, Chambre des représentants) : terres détenues en fiducie par le ministre et gérées par des conseils de zone."}
+  - {annee: 1994, evenement: "Proclamation R. 154 : administration de la loi de 1987 confiée aux Premiers des provinces concernées."}
+  - {annee: 1998, evenement: "Promulgation de la loi n° 94 sur la transformation de certaines zones rurales (20 octobre) ; abrogation programmée de la loi de 1987 et de la loi de 1990 sur la zone rurale de Mier."}
+  - {annee: 2001, evenement: "Début de l'application de la loi dans les six zones du Namaqualand (2001-2002)."}
+  - {annee: 2002, evenement: "La loi n° 28 sur le développement des ressources minérales et pétrolières (Journal officiel du 10 octobre 2002) abroge l'art. 6 (minerais) de la loi de 1998."}
+  - {annee: 2013, evenement: "Transfert des terres de Mamre (Cap-Occidental)."}
+  - {annee: 2019, evenement: "Transfert d'Ebenhaeser et d'une partie de Haarlem (Cap-Occidental)."}
+  - {annee: 2022, evenement: "Transfert de 14 676 ha de la zone de Mier (Cap-du-Nord), le reste en cours."}
+  - {annee: 2023, evenement: "Transfert de Concordia, du Richtersveld, de Leliefontein (Cap-du-Nord) et d'Enon-Bersheba (Cap-Oriental)."}
+  - {annee: 2024, evenement: "Transfert de Zoar ; rapport du ministère à la commission parlementaire : 603 099 ha transférés sur 1,4 million."}
+fiabilite:
+  verifie: ["Art. 1, 3, 4, 5, 6, 9 et 10 et annexe de la loi n° 94 de 1998 (Journal officiel n° 19417, 2 novembre 1998).", "Nombre de zones (23), répartition par province (12, 8, 2, 1), surface de chaque zone, état d'avancement et dates de transfert : présentation du ministère à la commission parlementaire du 30 octobre 2024.", "Total annoncé de 1,4 million d'hectares et 603 000 ha transférés : compte rendu de la réunion du 30 octobre 2024 (PMG).", "Application dans six zones du Namaqualand en 2001-2002 : résumé de Wisborg et Rohde (2005).", "Abrogation de l'art. 6 de la loi n° 94 de 1998 : annexe de la loi n° 28 de 2002 (Journal officiel n° 23922, p. 94)."]
+  non_confirme: ["Population des 23 zones et nombre de localités : aucune source officielle consultée.", "Nature de l'entité attributaire (CPA ou municipalité) zone par zone : la présentation de 2024 ne la précise pas.", "Abrogation effective de la loi n° 9 de 1987 dans chaque zone (art. 10 : date fixée par proclamation, zone par zone) : non vérifiée ; la présentation de 2024 la dit abrogée.", "La présentation écrit « 1 400 million hectares » ; la somme des surfaces de son tableau donne environ 1,41 million d'hectares, retenu sous la forme arrondie du compte rendu."]
+sources:
+  - {titre: "Transformation of Certain Rural Areas Act n° 94 de 1998 — Journal officiel n° 19417, gov.za", url: "https://www.gov.za/sites/default/files/gcis_document/201409/a94-98.pdf"}
+  - {titre: "Transformation of Certain Rural Areas Act 94 of 1998 — notice, gov.za", url: "https://www.gov.za/documents/transformation-certain-rural-areas-act"}
+  - {titre: "Ministère de l'Agriculture, de la Réforme agraire et du Développement rural — présentation TRANCRAA à la commission parlementaire, 30 octobre 2024 (PMG)", url: "https://pmg.org.za/files/241030_TRANCRAA_Presentation.pptx"}
+  - {titre: "Commission parlementaire de la réforme agraire — compte rendu de la réunion du 30 octobre 2024 (PMG)", url: "https://pmg.org.za/committee-meeting/39779/"}
+  - {titre: "Wisborg et Rohde, Contested land tenure reform in South Africa: experiences from Namaqualand — Development Southern Africa 22 (3), 2005, p. 409-428", url: "https://doi.org/10.1080/03768350500253260"}
+  - {titre: "Mineral and Petroleum Resources Development Act n° 28 de 2002 — Journal officiel n° 23922, gov.za", url: "https://www.gov.za/sites/default/files/gcis_document/201409/a28-020.pdf"}

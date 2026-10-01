@@ -1,0 +1,58 @@
+uid: "turkmenes-irak"
+nom: "Turkmènes d'Irak"
+endonyme: "Türkmenler"
+territoire: "Kirkouk, Tal Afar, Touz Khourmatou, Erbil et localités du nord de l'Irak"
+etats: ["Irak"]
+region: "asie"
+coord: [35.5, 44.4]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Turkmènes d'Irak sont une population de langue turcique établie surtout à Kirkouk, Tal Afar, Touz Khourmatou et Erbil.
+  La Constitution de 2005 fait du turkmène une langue officielle dans les unités administratives où ses locuteurs sont concentrés (art. 4) et leur garantit des droits administratifs, politiques, culturels et éducatifs, selon une loi (art. 125).
+  Dans la région du Kurdistan, la loi n° 5 de 2015 sur la protection des composantes (groupes nationaux et religieux) les nomme et leur garantit l'enseignement en langue maternelle et la participation aux institutions locales.
+  Des sièges leur sont réservés au Parlement du Kurdistan depuis 2005 : cinq jusqu'en 2024, deux depuis les élections d'octobre 2024.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Le Comité pour l'élimination de la discrimination raciale nomme les Turkmènes parmi les groupes frappés par la violence armée et le déplacement (par. 17 d)) et recommande des moyens pour l'enseignement en turkmène et dans les autres langues minoritaires (par. 22).", annee: 2019, source: "https://documents.un.org/api/symbol/access?s=CERD/C/IRQ/CO/22-25&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République d'Irak, art. 4 et 125", nature: "constitution", annee: 2005, source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
+  - {instrument: "Loi n° 5 de 2015 de la région du Kurdistan sur la protection des droits des composantes", nature: "loi", annee: 2015, source: "http://www.iraqicivilsociety.org/wp-content/uploads/2015/08/A-Reading-for-the-Law-of-Protecting-Components-in-Kurdistan-english.pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Loi n° 5 de 2015 du Kurdistan, art. 3, premier : le gouvernement régional associe les composantes aux décisions qui les concernent ; art. 3, sixième : le tracé des unités administratives et des circonscriptions tient compte de la gouvernance locale et des coutumes des composantes.", source: "http://www.iraqicivilsociety.org/wp-content/uploads/2015/08/A-Reading-for-the-Law-of-Protecting-Components-in-Kurdistan-english.pdf"}
+  langue: {valeur: "partiel", note: "Art. 4, quatrième, de la Constitution de 2005 : le turkmène et le syriaque sont langues officielles dans les unités administratives où leurs locuteurs forment une densité de population.", source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
+  education: {valeur: "partiel", note: "Art. 4, premier, de la Constitution de 2005 : le droit d'instruire les enfants dans leur langue maternelle, dont le turkmène, est garanti dans les établissements publics selon les règles éducatives. Loi n° 5 de 2015 du Kurdistan, art. 3, huitième : le gouvernement régional garantit l'enseignement en langue maternelle et ouvre des départements universitaires pour les langues des composantes ; la loi n° 7 de 2014 du Kurdistan sur les langues officielles reconnaît le turkmène.", source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Art. 36 de la loi électorale du Kurdistan (loi n° 1 de 1992, modifiée en 2013) : cinq sièges réservés aux Turkmènes sur 111. En février 2024, l'arrêt n° 83 de la Cour suprême fédérale déclare ces sièges contraires à la Constitution ; le 21 mai 2024, la chambre électorale du Conseil supérieur de la magistrature attribue cinq sièges aux minorités sur 100, dont deux aux Turkmènes (Erbil et Souleimaniye). Aucun siège réservé aux Turkmènes au Conseil des représentants fédéral n'a été trouvé.", source: "https://www.rudaw.net/english/kurdistan/21052024"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Le 1er mars 2023, le gouvernement retire le turkmène des langues officielles de la province de Kirkouk ; le 2 mars, le Premier ministre ordonne son maintien dans la correspondance officielle (Anadolu). En 2019, le CERD regrette l'absence d'information sur l'enseignement dans les langues minoritaires (par. 21). Le Minority Rights Group relève que l'état du système éducatif prive dans de nombreux cas les enfants turkmènes d'un enseignement en langue maternelle. En 2024, la Cour suprême fédérale supprime les sièges réservés au Parlement du Kurdistan, rétablis en partie en mai.", source: "https://www.aa.com.tr/en/middle-east/iraq-retracts-decision-to-curb-use-of-turkmen-language/2835393"}
+chronologie:
+  - {annee: 2005, evenement: "Constitution : turkmène langue officielle locale (art. 4), droits des Turkmènes (art. 125) ; cinq sièges réservés au Parlement du Kurdistan."}
+  - {annee: 2014, evenement: "Décision n° 92 du Conseil des ministres qualifiant de génocide les crimes de Daech contre les Yézidis, Turkmènes, chrétiens, Shabaks et autres minorités ; loi n° 7 du Kurdistan sur les langues officielles."}
+  - {annee: 2015, evenement: "Loi n° 5 du Kurdistan sur la protection des droits des composantes."}
+  - {annee: 2019, evenement: "Observations finales du CERD sur l'Irak."}
+  - {annee: 2023, evenement: "Retrait du turkmène des langues officielles de Kirkouk le 1er mars, annulé le 2 mars."}
+  - {annee: 2024, evenement: "La Cour suprême fédérale supprime en février les sièges de minorités au Parlement du Kurdistan ; cinq sièges sont rétablis en mai, dont deux pour les Turkmènes."}
+fiabilite:
+  verifie: ["Art. 4 et 125 de la Constitution (Constitute Project).", "Art. 1, 3 et 6 de la loi n° 5 de 2015 du Kurdistan (traduction anglaise publiée par l'Iraqi Civil Society Solidarity Initiative).", "Par. 17 d), 21 et 22 de CERD/C/IRQ/CO/22-25 (2019).", "Retrait et rétablissement du turkmène à Kirkouk, 1er et 2 mars 2023 (Anadolu).", "Art. 36 de la loi électorale du Kurdistan (cinq sièges turkmènes) et décision du 21 mai 2024 (deux sièges turkmènes) d'après Rudaw.", "Accès à l'enseignement en turkmène limité en pratique (Minority Rights Group)."]
+  non_confirme: ["Endonyme « Türkmenler » non vérifié sur une source de la communauté.", "Population : environ 3 millions selon le ministère irakien du Plan (2013) d'après une source secondaire ; 567 000 au recensement de 1957 ; chiffre non retenu faute de source primaire.", "Texte de la loi électorale régionale et de l'arrêt n° 83 de 2024 de la Cour suprême fédérale non consultés (site de la Cour inaccessible) ; nombre de sièges lu dans Rudaw et dans la lecture de la loi n° 5 publiée par l'ICSSI.", "Art. 125 de la Constitution : droits administratifs garantis « selon une loi » ; aucune loi d'application ni institution turkmène propre trouvée.", "Date d'ouverture des premières écoles en turkmène dans la région du Kurdistan : non sourcée.", "Existence de sièges turkmènes réservés dans les conseils provinciaux (Kirkouk) : non vérifiée.", "Portée de la loi fédérale de 2014 sur les langues officielles pour le turkmène : texte non consulté."]
+sources:
+  - {titre: "Constitution de l'Irak (2005) — Constitute Project", url: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
+  - {titre: "ICSSI — A Reading for the Law of Protecting Components in Kurdistan (texte de la loi n° 5 de 2015)", url: "http://www.iraqicivilsociety.org/wp-content/uploads/2015/08/A-Reading-for-the-Law-of-Protecting-Components-in-Kurdistan-english.pdf"}
+  - {titre: "CERD — Observations finales sur l'Irak, CERD/C/IRQ/CO/22-25 (2019)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/IRQ/CO/22-25&l=en&t=pdf"}
+  - {titre: "Anadolu — Iraq retracts decision to curb use of Turkmen language (2023)", url: "https://www.aa.com.tr/en/middle-east/iraq-retracts-decision-to-curb-use-of-turkmen-language/2835393"}
+  - {titre: "Rudaw — Kurdistan minorities allocated five seats in parliament (21 mai 2024)", url: "https://www.rudaw.net/english/kurdistan/21052024"}
+  - {titre: "Minority Rights Group — Turkmen (Irak)", url: "https://minorityrights.org/communities/turkmen/"}
+  - {titre: "Wikipédia — Iraqi Turkmens", url: "https://en.wikipedia.org/wiki/Iraqi_Turkmens"}
+  - {titre: "Wikipédia — 2024 Kurdistan Region parliamentary election", url: "https://en.wikipedia.org/wiki/2024_Kurdistan_Region_parliamentary_election"}

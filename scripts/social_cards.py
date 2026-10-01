@@ -130,7 +130,8 @@ def card_generic(title, sub, fiches, landuri):
 
 def main():
     fiches = g.charger()
-    only = set(sys.argv[1:])
+    gen = "--generiques" in sys.argv
+    only = set(a for a in sys.argv[1:] if not a.startswith("--"))
     CARDS.mkdir(parents=True, exist_ok=True)
     landfile = ROOT / "assets" / "cards-src" / "land.svg"
     landfile.parent.mkdir(exist_ok=True)
@@ -146,14 +147,14 @@ def main():
             pg.goto(tmp.as_uri()); pg.wait_for_load_state("networkidle")
             pg.evaluate("document.fonts.ready")
             pg.screenshot(path=str(out), type="jpeg", quality=86)
-        if not only:
+        if not only or gen:
             shot(card_generic("Qui décide ici ?", "Les droits d'autonomie inscrits dans le droit des États, communauté par communauté.", fiches, landuri), 1200, 630, CARDS / "_accueil.jpg")
             for dos in g.charger_dossiers({f["uid"] for f in fiches}):
                 sub = [x for x in fiches if x["uid"] in {c.get("atlas_uid") for c in dos.get("cas") or []}] or fiches
                 shot(card_generic(dos["titre"] if len(dos["titre"]) < 60 else dos["titre"].split(":")[0], f'Dossier thématique · {len(dos.get("cas") or [])} cas', sub, landuri), 1200, 630, CARDS / f"_dossier-{dos['slug']}.jpg")
             shot(card_generic("Douze droits, côte à côte", "Tableau comparatif des droits d'autonomie de chaque communauté de l’atlas.", fiches, landuri), 1200, 630, CARDS / "_comparer.jpg")
         for d in fiches:
-            if only and d["uid"] not in only:
+            if (only or gen) and d["uid"] not in only:
                 continue
             shot(card_land(d, landuri), 1200, 630, CARDS / f"{d['uid']}.jpg")
             shot(card_land(d, landuri, portrait=True), 1080, 1350, CARDS / f"{d['uid']}-portrait.jpg")

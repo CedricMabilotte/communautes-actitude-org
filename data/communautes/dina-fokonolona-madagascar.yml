@@ -1,0 +1,67 @@
+uid: "dina-fokonolona-madagascar"
+nom: "Fokonolona et dina de Madagascar"
+endonyme: "Fokonolona"
+territoire: "Hameaux, villages, fokontany (subdivisions des communes) et communes de Madagascar dotés d'un dina homologué ; exemple : le Dinan'i Androy, dont les comités sont présents dans 58 communes de la région Androy"
+etats: ["Madagascar"]
+region: "afrique"
+coord: [-19.0, 46.7]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 16, unite: "dina homologués recensés et classés par la Direction générale de l'administration du territoire du ministère de l'Intérieur (14 autres dina recensés non homologués)", annee: 2016, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/MDG/Q/4/Add.1&l=fr&t=pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés villageoises (fokonolona, en malgache) qui adoptent un dina, convention collective fondée sur les règles coutumières, dans le cadre de la loi n° 2001-004 du 25 octobre 2001 portant réglementation générale des dina en matière de sécurité publique. Le dina est adopté par l'assemblée générale du fokonolona (hameau, village ou fokontany, subdivision de la commune) ; il n'a d'effet légal qu'après homologation (validation par le juge) par le président du tribunal de première instance du lieu, et ses décisions peuvent être portées en appel devant ce tribunal. La Constitution de 2010 (art. 152) fait du fokonolona, organisé en fokontany au sein des communes, la base du développement et de la cohésion socioculturelle et environnementale. En 2016, le ministère de l'Intérieur recensait 16 dina homologués ; le Dinan'i Androy, dont les comités sont présents dans 58 communes, a été homologué le 17 juin 2025 par le tribunal de première instance d'Ambovombe.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité contre la torture, observations finales sur Madagascar (CAT/C/MDG/CO/1, 21 décembre 2011), § 11 « Justice traditionnelle (Dina) » : préoccupation devant le recours systématique au dina, qui aurait donné lieu à des décisions en matière pénale ; l'État devrait suivre les décisions du dina en vertu de la loi n° 2001-004, qui exige leur homologation par les tribunaux de droit commun, et garantir un recours devant ces tribunaux.", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=CAT/C/MDG/CO/1&l=fr&t=pdf"}
+  - {mecanisme: "organe_traite", detail: "Comité des droits de l'homme, observations finales sur le quatrième rapport de Madagascar (CCPR/C/MDG/CO/4, 22 août 2017), § 45 et 46 « Administration de la justice et justice traditionnelle (dina) » : l'État devrait veiller à ce que les dina ne traitent que d'affaires civiles et à ce qu'aucune décision de dina contraire au Pacte ne soit mise en œuvre.", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/MDG/CO/4&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution de la IVe République (2010), préambule et art. 152 (fokonolona organisé en fokontany au sein des communes)", nature: "constitution", annee: 2010, source: "https://www.constituteproject.org/constitution/Madagascar_2010.pdf"}
+  - {instrument: "Loi n° 2001-004 du 25 octobre 2001 portant réglementation générale des dina en matière de sécurité publique (texte décrit par l'État dans ses rapports au Comité des droits de l'homme)", nature: "loi", annee: 2001, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/MDG/4&l=fr&t=pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le dina est adopté à la majorité des membres du fokonolona âgés de 18 ans révolus présents à l'assemblée générale du hameau, du village ou du fokontany (loi n° 2001-004, selon le système d'information du ministère de l'Environnement) ; la Constitution de 2010 (art. 152) reconnaît le fokonolona organisé en fokontany comme base du développement, et les responsables des fokontany participent à l'élaboration du programme de développement de leur commune ; le dina n'a d'effet qu'après homologation par le juge, ce qui limite l'autonomie de ces assemblées ; pour le Dinan'i Androy, des comités locaux (Komity Mpiandraikitra ny Dina) sont présents dans 58 communes (PNUD, 2025).", source: "https://www.e-voary.mg/tgrn/assets/images/article_version%20finale_tgrn.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le dina est une convention collective qui présente un ensemble de règles coutumières d'organisation de la société ; selon l'État, la loi n° 2001-004 en fait une partie du droit interne, mais il n'est légal qu'après homologation par le tribunal de première instance compétent, refusée s'il contient des dispositions pénales contraires à la loi (CCPR/C/MDG/4, § 240-241, 2015 ; CCPR/C/MDG/Q/4/Add.1, § 97, 2017).", source: "https://documents.un.org/api/symbol/access?s=CCPR/C/MDG/Q/4/Add.1&l=fr&t=pdf"}
+  justice_propre: {valeur: "partiel", note: "Les instances du dina rendent des décisions sur la base du dina homologué ; toute décision est susceptible d'appel devant le tribunal de première instance (CCPR/C/MDG/Q/4/Add.1, § 97, 2017) ; le Comité des droits de l'homme s'inquiète d'informations selon lesquelles les dina traiteraient de cas excédant leur compétence, limitée au champ civil (CCPR/C/MDG/CO/4, § 45, 2017).", source: "https://documents.un.org/api/symbol/access?s=CCPR/C/MDG/CO/4&l=fr&t=pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2016, le ministère de l'Intérieur recensait 16 dina homologués et 14 dina non homologués pour non-respect de la procédure ; en 2011, 250 personnes ont été arrêtées à Manakara pour l'exécution d'un dina non homologué (CCPR/C/MDG/Q/4/Add.1, § 98-99). Le Comité contre la torture (2011) relève des informations selon lesquelles le recours au dina aurait donné lieu à des décisions en matière pénale, dont des tortures et des exécutions sommaires et extrajudiciaires ; le Comité des droits de l'homme (2017) relève des informations selon lesquelles des dina traiteraient de cas excédant le champ civil. Le Dinan'i Androy, créé en 2008 et homologué jusque-là par des tribunaux situés hors de la région, a été homologué à Ambovombe le 17 juin 2025 (PNUD).", source: "https://www.undp.org/fr/madagascar/actualites/androy-le-dina-une-institution-coutumiere-reinventee-pour-une-paix-durable"}
+chronologie:
+  - {annee: 2001, evenement: "Loi n° 2001-004 du 25 octobre 2001 portant réglementation générale des dina en matière de sécurité publique."}
+  - {annee: 2008, evenement: "Création du Dinan'i Androy, dina régional de l'Androy."}
+  - {annee: 2010, evenement: "Constitution de la IVe République : le fokonolona, organisé en fokontany au sein des communes, est la base du développement (art. 152)."}
+  - {annee: 2011, evenement: "Observations finales du Comité contre la torture : section « Justice traditionnelle (Dina) »."}
+  - {annee: 2016, evenement: "Le ministère de l'Intérieur recense 16 dina homologués et 14 non homologués."}
+  - {annee: 2017, evenement: "Observations finales du Comité des droits de l'homme : l'État devrait veiller à ce que les dina ne traitent que d'affaires civiles."}
+  - {annee: 2025, evenement: "Homologation du Dinan'i Androy par ordonnance du tribunal de première instance d'Ambovombe, le 17 juin ; comités locaux présents dans 58 communes."}
+fiabilite:
+  verifie:
+    - "Description de la loi n° 2001-004 (élaboration, homologation par le président du tribunal de première instance, refus en cas de dispositions pénales contraires à la loi) dans le quatrième rapport périodique de Madagascar au Comité des droits de l'homme (CCPR/C/MDG/4, § 240-242)."
+    - "Réponses de l'État (CCPR/C/MDG/Q/4/Add.1, § 97-99) : homologation, appel devant le tribunal, 16 dina homologués et 14 non homologués recensés en 2016."
+    - "CAT/C/MDG/CO/1, § 11, et CCPR/C/MDG/CO/4, § 45-46, lus dans le texte français."
+    - "Adoption du dina par l'assemblée générale du fokonolona, d'après l'article du système d'information TGRNR du ministère de l'Environnement."
+    - "Homologation du Dinan'i Androy le 17 juin 2025 et comités dans 58 communes, d'après la page du PNUD Madagascar."
+    - "Article 152 de la Constitution de 2010, lu dans la traduction anglaise du Constitute Project."
+  non_confirme:
+    - "Le texte de la loi n° 2001-004 n'a pas été lu directement : son contenu est repris des rapports de l'État aux organes de traités et de l'article du système d'information TGRNR."
+    - "Le nombre de dina homologués après 2016 et la liste des dina homologués : aucune source publique trouvée ; pas de tableau des sites."
+    - "Population, surface et nombre de villages concernés : aucune source trouvée."
+    - "Effet sur la Constitution de 2010 du changement de pouvoir d'octobre 2025 : non vérifié."
+    - "Le rapport entre ce régime et les dina des communautés de base prévus par la loi n° 96-025 (GELOSE), traités dans la fiche « Transferts de gestion des ressources naturelles à Madagascar »."
+sources:
+  - {titre: "« Androy : le Dina, une institution coutumière réinventée pour une paix durable » — PNUD Madagascar", url: "https://www.undp.org/fr/madagascar/actualites/androy-le-dina-une-institution-coutumiere-reinventee-pour-une-paix-durable"}
+  - {titre: "Comité contre la torture, observations finales sur Madagascar, CAT/C/MDG/CO/1 (2011)", url: "https://documents.un.org/api/symbol/access?s=CAT/C/MDG/CO/1&l=fr&t=pdf"}
+  - {titre: "Comité des droits de l'homme, observations finales sur Madagascar, CCPR/C/MDG/CO/4 (2017)", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/MDG/CO/4&l=fr&t=pdf"}
+  - {titre: "Quatrième rapport périodique de Madagascar au Comité des droits de l'homme, CCPR/C/MDG/4 (2015)", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/MDG/4&l=fr&t=pdf"}
+  - {titre: "Réponses de Madagascar à la liste de points, CCPR/C/MDG/Q/4/Add.1 (2017)", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/MDG/Q/4/Add.1&l=fr&t=pdf"}
+  - {titre: "« Le transfert de gestion des ressources naturelles renouvelables aux communautés locales de base » — SIG-TGRNR, ministère de l'Environnement", url: "https://www.e-voary.mg/tgrn/assets/images/article_version%20finale_tgrn.pdf"}
+  - {titre: "Constitution de Madagascar (2010), traduction anglaise — Constitute Project", url: "https://www.constituteproject.org/constitution/Madagascar_2010.pdf"}

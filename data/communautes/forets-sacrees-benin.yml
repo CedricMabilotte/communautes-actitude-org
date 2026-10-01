@@ -1,0 +1,66 @@
+uid: "forets-sacrees-benin"
+nom: "Forêts sacrées du Bénin"
+endonyme: ""
+territoire: "Forêts sacrées reconnues par arrêté communal et intégrées ou à intégrer au domaine forestier des communes, dans l'ensemble du Bénin"
+etats: ["Bénin"]
+region: "afrique"
+coord: [9.3, 2.3]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 2940, unite: "forêts sacrées recensées (estimation de 1998, reconnues ou non par arrêté communal)", annee: 1998, source: "https://www.cbd.int/doc/world/bj/bj-nbsap-v2-fr.pdf"}
+surface_km2: {valeur: 183.6, annee: 1998, perimetre: "superficie totale estimée des 2 940 forêts sacrées recensées (18 360 ha), reconnues ou non", source: "https://www.cbd.int/doc/world/bj/bj-nbsap-v2-fr.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés villageoises, dignitaires et collectivités qui gèrent une forêt sacrée au Bénin. L'arrêté interministériel du 16 novembre 2012 (ministères de l'Environnement et de la Décentralisation) fixe les conditions de gestion des forêts sacrées : sur demande des communautés villageoises ou des dignitaires, le maire prend un arrêté communal de reconnaissance légale (reconnaissance officielle de la forêt et de ses limites), puis la forêt peut être intégrée au domaine forestier de la commune par arrêté interministériel. La gestion est confiée à un comité local de gestion de la forêt sacrée (CLFS), formé de représentants des collectivités gestionnaires, des propriétaires de terrains et des chefs de village, sous le contrôle d'un comité communal (CCSI) présidé par le maire. Le Bénin compte environ 2 940 forêts sacrées (18 360 ha) selon un inventaire de 1998 ; plusieurs sont inscrites au registre des aires et territoires du patrimoine autochtone et communautaire (APAC).
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Cinquième rapport national du Bénin à la Convention sur la diversité biologique (janvier 2014) : environ 3 000 forêts sacrées et projet d'intégration des forêts sacrées dans le système des aires protégées (PIFSAP), lancé le 19 janvier 2010 ; la stratégie et plan d'action pour la biodiversité 2011-2020, publiée par la Convention (document non daté, postérieur à 2013), compte environ 2 940 forêts sacrées (18 360 ha) et décrit le même projet.", annee: 2014, source: "https://www.cbd.int/doc/world/bj/bj-nr-05-fr.pdf"}
+  - {mecanisme: "registre_apac", detail: "Forêts sacrées de Sinatabé et de Wianso (commune de Bembèrèkè, Borgou) inscrites au registre APAC tenu par le PNUE-WCMC (fiches publiées le 21 février 2023), qui citent l'arrêté interministériel de 2012 (la fiche de Wianso le date du 16 novembre 2012) ; le registre liste aussi les forêts sacrées Wêwêré, Affougoussi, Kouvizoun Adakplamè-Ewè, Houinyèhouévé, Honhouévé de Dogbo Ahomey et Tanhounzoun. Les inscriptions sont auto-déclarées et soumises à un processus d'examen.", annee: 2023, source: "https://www.iccaregistry.org/fr/explore/Benin/foret-sacree-de-sinatabe"}
+base_nationale:
+  - {instrument: "Arrêté interministériel n° 0121/MEHU/MDGLAAT/DC/SGM/DGFRN/SA du 16 novembre 2012 fixant les conditions de gestion durable de la forêt sacrée en République du Bénin", nature: "loi", annee: 2012, source: "https://faolex.fao.org/docs/pdf/Ben225234.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La forêt sacrée est gérée par un comité local de gestion (CLFS), mis en place par arrêté du maire et composé d'un représentant de chaque collectivité gestionnaire désigné par ses pairs, de deux représentants des propriétaires de terrains et des chefs de village, avec un bureau élu à la majorité simple (arrêté interministériel de 2012, art. 41 à 43) ; le CLFS rend compte chaque semestre au comité communal (CCSI), présidé par le maire, qui approuve son plan de travail annuel et contrôle sa gestion (art. 44, 47 et 48).", source: "https://faolex.fao.org/docs/pdf/Ben225234.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le CLFS élabore un texte constitutif qui fixe les conditions d'entrée, de circulation et de séjour dans la forêt sacrée, et approuve le plan d'aménagement après avis de l'administration forestière (arrêté interministériel de 2012, art. 32 et 33) ; les interdictions applicables dans la forêt sont fixées par l'arrêté lui-même (art. 21 à 23).", source: "https://faolex.fao.org/docs/pdf/Ben225234.pdf"}
+  justice_propre: {valeur: "partiel", note: "Le CLFS gère à l'amiable les conflits et participe à la constatation des infractions avec l'agent forestier, sans pouvoir de sanction ; le CCSI, présidé par le maire, règle les conflits que lui soumet le CLFS et la commune assure le règlement des conflits dans le cadre du contrat de gestion (arrêté interministériel de 2012, art. 40, 44, 47 et 48) ; la répression des infractions relève des lois en vigueur et des tribunaux compétents (art. 50 et 51).", source: "https://faolex.fao.org/docs/pdf/Ben225234.pdf"}
+  terres: {valeur: "partiel", note: "Sur demande des communautés villageoises ou des dignitaires, le maire reconnaît la forêt sacrée et ses limites par arrêté communal, après une consultation publique qui arbitre les droits de propriété et d'usage (arrêté interministériel de 2012, art. 7 à 12) ; la forêt reconnue peut ensuite être intégrée au domaine forestier de la commune par arrêté interministériel (art. 13 à 18), l'arrêté ne prévoit aucun titre de propriété au profit de la communauté.", source: "https://faolex.fao.org/docs/pdf/Ben225234.pdf"}
+  ressources: {valeur: "partiel", note: "Le président du CLFS délivre les autorisations d'exercer les droits d'usage portant sur le sol et de défrichement, après avis favorable de l'administration forestière (arrêté interministériel de 2012, art. 26 à 30) ; le CLFS peut autoriser la coupe de bois, la collecte de produits et l'allumage de feu dans le cadre des cérémonies cultuelles, sous la supervision du chef de culte et de l'agent forestier (art. 21) ; la coupe des arbres morts ou tombés est autorisée par l'administration forestière sur demande du président du CLFS (art. 27) ; le plan d'aménagement prévoit une série de protection et des séries de production ou agroforestières où les activités agricoles sont admises (art. 36 et 37).", source: "https://faolex.fao.org/docs/pdf/Ben225234.pdf"}
+  consentement: {valeur: "partiel", note: "La procédure de reconnaissance est ouverte sur demande des communautés villageoises ou des dignitaires et comporte une consultation publique de la population (arrêté interministériel de 2012, art. 7, 8, 10 et 11) ; les plans d'aménagement sont élaborés avec la participation des populations locales et des autorités traditionnelles (art. 35) ; le ministre chargé des forêts peut aussi demander l'engagement de la procédure (art. 7) et aucun consentement préalable n'est exigé.", source: "https://faolex.fao.org/docs/pdf/Ben225234.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En juillet 2014, la Gaia Foundation et l'ONG béninoise GRABE-Bénin indiquent que l'arrêté (n° 0121) a été mis en œuvre aux niveaux communal et local à Avrankou, Adjarra et Adjohoun, où les communautés prévoient de demander la reconnaissance légale de plusieurs forêts sacrées ; le cinquième rapport national à la Convention sur la diversité biologique (janvier 2014) indique que les forêts sacrées ne bénéficient pas encore de statut juridique de protection et que le projet PIFSAP a produit 45 plans d'aménagement et de gestion simplifiés et 24 cartes de délimitation ; en 2023, la fiche du registre APAC de Sinatabé indique que la forêt n'a pas d'acte propre et que des démarches sont en cours, et les fiches de Sinatabé et de Wianso indiquent que leurs comités locaux ont été remis en activité avec l'appui d'une ONG.", source: "https://gaiafoundation.org/benins-historic-sacred-forest-law-translated-into-english/"}
+chronologie:
+  - {annee: 1998, evenement: "Inventaire (Agbo et Sokpon) : environ 2 940 forêts sacrées sur 18 360 ha."}
+  - {annee: 2010, evenement: "Lancement, le 19 janvier, du projet d'intégration des forêts sacrées dans le système des aires protégées (PIFSAP)."}
+  - {annee: 2011, evenement: "Étude du PIFSAP proposant un cadre institutionnel de gestion communautaire des forêts sacrées à deux niveaux (comité local et comité communal)."}
+  - {annee: 2012, evenement: "Arrêté interministériel du 16 novembre 2012 fixant les conditions de gestion durable de la forêt sacrée."}
+  - {annee: 2014, evenement: "Cinquième rapport national à la Convention sur la diversité biologique : les forêts sacrées n'ont pas encore de statut juridique de protection."}
+  - {annee: 2023, evenement: "Publication au registre APAC des fiches des forêts sacrées de Sinatabé et de Wianso."}
+fiabilite:
+  verifie:
+    - "Texte des articles 1 à 53 de l'arrêté interministériel (reconnaissance légale par arrêté communal, intégration au domaine forestier communal, CLFS, CCSI, autorisations, règlement des conflits) dans la copie publiée par FAOLEX ; date du 16 novembre 2012 lue sur la copie et confirmée par le registre APAC."
+    - "2 940 forêts sacrées et 18 360 ha (Agbo et Sokpon, 1998) dans la stratégie nationale 2011-2020 publiée par la Convention sur la diversité biologique et dans l'étude du PIFSAP de novembre 2011 publiée par le PNUD."
+    - "Lancement du PIFSAP le 19 janvier 2010, 45 plans d'aménagement simplifiés et 24 cartes dans le cinquième rapport national (2014)."
+    - "Fiches des forêts sacrées de Sinatabé et de Wianso et liste des sites du Bénin sur le registre APAC."
+    - "Mise en œuvre de l'arrêté à Avrankou, Adjarra et Adjohoun selon la Gaia Foundation et GRABE-Bénin (juillet 2014)."
+  non_confirme:
+    - "Numéro de l'arrêté : le registre APAC écrit « 021 » ; la copie publiée par FAOLEX (numéro manuscrit) et la Gaia Foundation (2014) donnent « 0121 »."
+    - "Le maintien en vigueur de l'arrêté après 2023 n'a pas été vérifié ; les fiches du registre APAC le citent comme applicable en 2023."
+    - "Le nombre de forêts sacrées reconnues par arrêté communal et de forêts intégrées au domaine forestier communal n'a pas été trouvé ; aucune liste officielle des sites n'a été trouvée, d'où l'absence de tableau."
+    - "Le chiffre de 2 940 forêts date de 1998 et couvre toutes les forêts sacrées, reconnues ou non ; la stratégie nationale indique aussi que les forêts sacrées seraient passées de plus de 18 000 ha en 1972 à moins de 3 000 ha en 2005, sans concilier les deux chiffres."
+    - "La publication de l'arrêté au Journal officiel n'a pas été vérifiée."
+    - "Population et nombre de villages concernés : aucune source trouvée."
+sources:
+  - {titre: "Arrêté interministériel n° 0121/MEHU/MDGLAAT/DC/SGM/DGFRN/SA du 16 novembre 2012 fixant les conditions de gestion durable de la forêt sacrée — FAOLEX", url: "https://faolex.fao.org/docs/pdf/Ben225234.pdf"}
+  - {titre: "Stratégie et plan d'action pour la biodiversité 2011-2020 du Bénin — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/bj/bj-nbsap-v2-fr.pdf"}
+  - {titre: "Cinquième rapport national du Bénin sur la diversité biologique (2014) — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/bj/bj-nr-05-fr.pdf"}
+  - {titre: "F. C. Ahononga, Cadre institutionnel de gestion communautaire des forêts sacrées au Bénin, PIFSAP, novembre 2011 — PNUD", url: "https://info.undp.org/docs/pdc/Documents/BEN/CADRE_INSTITUTIONNEL_DE_GESTION_COMMUNAUTAIRE_DES_FORETS_SACREES_AU__BENIN.pdf"}
+  - {titre: "Benin's Historic Sacred Forest Law Translated into English (2014) — Gaia Foundation", url: "https://gaiafoundation.org/benins-historic-sacred-forest-law-translated-into-english/"}
+  - {titre: "Forêt sacrée de Sinatabé — Registre APAC (PNUE-WCMC)", url: "https://www.iccaregistry.org/fr/explore/Benin/foret-sacree-de-sinatabe"}
+  - {titre: "Forêt sacrée de Wianso — Registre APAC (PNUE-WCMC)", url: "https://www.iccaregistry.org/fr/explore/Benin/foret-sacree-de-wianso"}
+  - {titre: "Sites APAC du Bénin — Registre APAC (PNUE-WCMC)", url: "https://www.iccaregistry.org/fr/explore/Benin"}

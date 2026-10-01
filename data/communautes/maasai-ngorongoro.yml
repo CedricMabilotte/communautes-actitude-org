@@ -1,0 +1,53 @@
+uid: "maasai-ngorongoro"
+nom: "Maasai de l'aire de conservation du Ngorongoro"
+endonyme: ""
+territoire: "Aire de conservation du Ngorongoro (Ngorongoro Conservation Area), district de Ngorongoro, région d'Arusha"
+etats: ["Tanzanie"]
+region: "afrique"
+coord: [-3.2, 35.5]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 100793, annee: 2022, perimetre: "population résidente de l'aire de conservation, recensement de 2022 cité par Human Rights Watch", source: "https://www.hrw.org/report/2024/07/31/its-killing-culture/human-rights-impacts-relocating-tanzanias-maasai"}
+lieux: {valeur: 11, unite: "wards (circonscriptions administratives) situés dans l'aire de conservation", annee: 2024, source: "https://www.hrw.org/report/2024/07/31/its-killing-culture/human-rights-impacts-relocating-tanzanias-maasai"}
+surface_km2: {valeur: 8094, annee: 2024, perimetre: "superficie de l'aire de conservation (809 440 ha)", source: "https://www.hrw.org/report/2024/07/31/its-killing-culture/human-rights-impacts-relocating-tanzanias-maasai"}
+villages: {valeur: 25, annee: 2024, perimetre: "villages de l'aire de conservation, dont 16 dotés d'un numéro d'enregistrement officiel", source: "https://www.hrw.org/report/2024/07/31/its-killing-culture/human-rights-impacts-relocating-tanzanias-maasai"}
+resume: >-
+  Les Maasai résident dans l'aire de conservation du Ngorongoro, au nord de la Tanzanie, créée en 1959 comme zone d'usage multiple des terres (conservation, tourisme, élevage pastoral). La loi sur l'aire de conservation (Ngorongoro Conservation Area Act, chap. 284) charge l'autorité de l'aire de « sauvegarder et promouvoir les intérêts » des citoyens maasai qui y pratiquent l'élevage (art. 6). Un Conseil pastoral du Ngorongoro, créé en 1994 et effectif en 2000, réunit des représentants des villages et des wards ; il ne reçoit plus de budget depuis 2020. Depuis 2022, un programme de relocalisation présenté comme volontaire vers Msomera et la radiation puis le rétablissement de 25 villages en 2024 remettent en cause la résidence des Maasai dans l'aire.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Communication AL TZA 3/2021 du 9 février 2022 de huit rapporteurs spéciaux, dont le Rapporteur spécial sur les droits des peuples autochtones, au sujet des projets de réinstallation visant quelque 82 000 personnes, en majorité des éleveurs maasai de l'aire de conservation du Ngorongoro, et de l'absence de consentement libre, préalable et éclairé.", annee: 2022, source: "https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=26938"}
+base_nationale:
+  - {instrument: "Ngorongoro Conservation Area Act (loi sur l'aire de conservation du Ngorongoro), ordonnance n° 14 de 1959, chap. 284, version au 31 juillet 2002 : art. 6 (missions de l'autorité), 21 à 25 (entrée, résidence, établissement, protection des ressources, interdiction de cultiver)", nature: "loi", annee: 1959, source: "https://tanzlii.org/akn/tz/act/1959/14/eng@2002-07-31/source.pdf"}
+droits:
+  autogouvernement: {valeur: "conteste", note: "Le Conseil pastoral du Ngorongoro (Ngorongoro Pastoral Council), créé par l'État en 1994 et reconnu légalement en 2000, réunit des représentants des conseils de village et des comités de développement des wards, dont des élus, des femmes, des jeunes et des chefs traditionnels ; il conseille le conseil d'administration de l'autorité de l'aire et propose des projets de développement. Son budget annuel, d'environ trois milliards de shillings avant l'exercice 2019-2020, provenait de l'autorité ; il ne reçoit plus de financement depuis 2020 mais n'a pas été radié, selon ses membres.", source: "https://www.hrw.org/report/2024/07/31/its-killing-culture/human-rights-impacts-relocating-tanzanias-maasai"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "conteste", note: "La loi de 1959 charge l'autorité de sauvegarder et promouvoir les intérêts des citoyens maasai qui pratiquent l'élevage dans l'aire (art. 6) mais lui permet de restreindre l'entrée, la résidence et l'établissement (art. 21 à 23). Depuis juin 2022, un programme de relocalisation présenté comme volontaire déplace des ménages vers Msomera ; en 2024, l'avis public (Government Notice) n° 673 a radié 11 wards, 25 villages et 96 hameaux, décision annulée le 16 septembre 2024.", source: "https://iwgia.org/en/tanzania/5638-iw-2025-tanzania.html"}
+  ressources: {valeur: "partiel", note: "La loi de 1959 maintient l'élevage dans l'aire : l'autorité doit promouvoir les intérêts des éleveurs maasai (art. 6) et peut restreindre le pâturage, l'usage de l'eau et la cueillette du miel par arrêté (art. 24) ; toute culture est interdite (art. 25).", source: "https://tanzlii.org/akn/tz/act/1959/14/eng@2002-07-31/source.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Human Rights Watch (2024) indique que 551 ménages, soit 3 010 personnes, avaient quitté l'aire pour Msomera en janvier 2023, que le gouvernement prévoit de déplacer environ 82 000 personnes d'ici 2027 et que les services publics de l'aire ont été réduits ; IWGIA (The Indigenous World 2025) rapporte qu'en août 2024 plus de 25 000 Maasai se sont rassemblés pendant six jours pour protester contre la réduction des services sociaux et leur radiation des listes électorales.", source: "https://www.hrw.org/report/2024/07/31/its-killing-culture/human-rights-impacts-relocating-tanzanias-maasai"}
+chronologie:
+  - {annee: 1959, evenement: "Ordonnance n° 14 créant l'aire de conservation du Ngorongoro comme zone d'usage multiple des terres."}
+  - {annee: 1994, evenement: "Création du Conseil pastoral du Ngorongoro."}
+  - {annee: 2000, evenement: "Entrée en fonction du Conseil pastoral."}
+  - {annee: 2016, evenement: "Interdiction de l'accès du bétail au cratère, attribuée à un ordre du Premier ministre par les résidents."}
+  - {annee: 2020, evenement: "Le Conseil pastoral ne reçoit plus de budget de l'autorité de l'aire."}
+  - {annee: 2022, evenement: "Communication de huit rapporteurs spéciaux de l'ONU au gouvernement, le 9 février, sur les projets de réinstallation."}
+  - {annee: 2022, evenement: "Début de la relocalisation de ménages maasai vers Msomera, le 16 juin."}
+  - {annee: 2024, evenement: "Avis public n° 673 radiant 11 wards, 25 villages et 96 hameaux ; rassemblement de plus de 25 000 personnes en août ; annulation de la radiation le 16 septembre ; participation aux élections locales de novembre."}
+fiabilite:
+  verifie: ["Texte de l'art. 6 de la loi de 1959 (« safeguard and promote the interests of Masai citizens of the United Republic engaged in cattle ranching and dairy industry within the Conservation Area ») et des art. 21 à 25, version au 31 juillet 2002 (TanzLII).", "Conseil pastoral : création en 1994, reconnaissance légale en 2000, composition, fonctions et absence de financement depuis 2020 (Human Rights Watch, 2024).", "Communication AL TZA 3/2021 du 9 février 2022 des rapporteurs spéciaux de l'ONU nommant les Maasai de l'aire de conservation du Ngorongoro (OHCHR).", "Population de 100 793 habitants (recensement de 2022), 11 wards, 25 villages dont 16 enregistrés, 809 440 ha (Human Rights Watch, 2024).", "Avis public n° 673 de 2024 et annulation du 16 septembre 2024 (IWGIA, The Indigenous World 2025).", "Réimposition de l'interdiction de culture vivrière en 2008 et interdiction de l'accès du bétail aux cratères en 2016 par un ordre du Premier ministre : affirmations de la contribution des résidents maasai au Rapporteur spécial (OHCHR, 2022) ; Human Rights Watch (2024) date la décision sur le cratère « vers 2016 » sans en nommer l'auteur."]
+  non_confirme: ["Instrument juridique qui a créé le Conseil pastoral : non consulté ; la version consolidée de 2002 de la loi ne le mentionne pas.", "Texte et date de publication de l'avis public n° 673 de 2024 : non consultés.", "Réponse du gouvernement à la communication des rapporteurs spéciaux (avril 2022) : non consultée.", "Statut foncier des villages : selon Human Rights Watch (2024), ils sont délimités et enregistrés au titre de la loi de 1982 sur les autorités de district, et 18 villages ont été désignés pour être levés et reconnus comme terres villageoises au titre de la loi de 1999 ; l'état de cette procédure n'est pas vérifié.", "La loi ne reconnaît pas les Maasai comme peuple autochtone ; le type retenu suit l'auto-identification et les travaux des organes de protection des droits des peuples autochtones.", "Modifications de la loi postérieures à 2002 : non vérifiées.", "Superficie : 8 094 km² selon Human Rights Watch, 8 100 km² selon la contribution des résidents (2022)."]
+sources:
+  - {titre: "Ngorongoro Conservation Area Act, chap. 284, version au 31 juillet 2002 — TanzLII", url: "https://tanzlii.org/akn/tz/act/1959/14/eng@2002-07-31/source.pdf"}
+  - {titre: "Human Rights Watch, « It's Like Killing Culture »: Human Rights Impacts of Relocating Tanzania's Maasai (31 juillet 2024)", url: "https://www.hrw.org/report/2024/07/31/its-killing-culture/human-rights-impacts-relocating-tanzanias-maasai"}
+  - {titre: "IWGIA, The Indigenous World 2025 : Tanzanie", url: "https://iwgia.org/en/tanzania/5638-iw-2025-tanzania.html"}
+  - {titre: "Contribution des résidents maasai de l'aire de conservation du Ngorongoro au Rapporteur spécial sur les droits des peuples autochtones (OHCHR, 2022)", url: "https://www.ohchr.org/sites/default/files/documents/issues/indigenouspeoples/sr/callforinputcovidrecoverysubmissions/2022-07-28/MaasaiIndigenousResidentsofNgorongoroConservationArea.pdf"}
+  - {titre: "Rapporteurs spéciaux de l'ONU, communication AL TZA 3/2021 au gouvernement de la Tanzanie (9 février 2022)", url: "https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=26938"}

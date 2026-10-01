@@ -1,0 +1,53 @@
+uid: "batwa-burundi"
+nom: "Batwa du Burundi"
+endonyme: "Batwa"
+territoire: "Burundi (ensemble du territoire)"
+etats: ["Burundi"]
+region: "afrique"
+coord: [-3.4, 29.9]
+type: "peuple_autochtone"
+types_secondaires: ["minorite_nationale"]
+population: {valeur: 78071, annee: 2008, perimetre: "Batwa recensés par l'enquête de l'organisation UNIPROBA, citée par Minority Rights Group", source: "https://minorityrights.org/communities/twa/"}
+lieux: {valeur: null, unite: "", annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Batwa constituent, à côté des Hutu et des Tutsi, l'une des trois composantes de la population du Burundi ; selon la délégation de l'État devant le CERD en 2025, ils en représentent environ 1 %.
+  La Constitution du 7 juin 2018 leur garantit trois sièges à l'Assemblée nationale (art. 169) et trois au Sénat (art. 185) ; ce dispositif existait déjà dans la Constitution de 2005.
+  La Commission nationale indépendante des droits de l'homme (CNIDH) les qualifie de peuples autochtones.
+  Aucun texte ne leur attribue de terres collectives ni d'institution propre.
+base: "personnelle"
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Examen du rapport du Burundi (CERD/C/BDI/11-19) par le Comité pour l'élimination de la discrimination raciale, 25 novembre 2025 : situation des Batwa, quotas ethniques, promesse d'un hectare par ménage twa.", annee: 2025, source: "https://www.ohchr.org/fr/meeting-summaries/2025/11/experts-committee-elimination-racial-discrimination-commend-burundi"}
+base_nationale:
+  - {instrument: "Constitution de la République du Burundi du 7 juin 2018, art. 169 et 185", nature: "constitution", annee: 2018, source: "https://www.constituteproject.org/constitution/Burundi_2018"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Constitution de 2018 : trois députés « issus de l'ethnie twa » cooptés selon le Code électoral (art. 169) et trois sénateurs de l'ethnie twa (art. 185).", source: "https://www.constituteproject.org/constitution/Burundi_2018"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon des organisations twa citées par Minority Rights Group (2020), la sélection pour les sièges réservés a souvent été manipulée pour nommer des non-Twa ; devant le CERD en 2025, la délégation du Burundi a reconnu que les quotas ethniques 60/40 excluent de fait les Batwa, et un expert a relevé leur faible présence dans les fonctions de responsabilité.", source: "https://minorityrights.org/communities/twa/"}
+chronologie:
+  - {annee: 2005, evenement: "La Constitution réserve trois sièges aux Batwa à l'Assemblée nationale et trois au Sénat."}
+  - {annee: 2008, evenement: "L'organisation UNIPROBA recense 78 071 Batwa."}
+  - {annee: 2016, evenement: "Une famille twa obtient en justice la restitution de sa terre au terme d'une procédure de 41 ans."}
+  - {annee: 2018, evenement: "La Constitution du 7 juin maintient les trois députés (art. 169) et les trois sénateurs (art. 185) twa."}
+  - {annee: 2024, evenement: "Annonce d'un terrain d'un hectare pour chaque ménage twa, lors de la Journée internationale des peuples autochtones."}
+  - {annee: 2025, evenement: "Le Comité pour l'élimination de la discrimination raciale examine le rapport du Burundi et interroge l'État sur la situation des Batwa."}
+fiabilite:
+  verifie: ["Articles 169 et 185 de la Constitution de 2018 (Constitute Project).", "Qualification de peuples autochtones par la CNIDH (déclaration publiée par GANHRI).", "Examen par le CERD le 25 novembre 2025 (résumé de séance du HCDH), dont la part d'environ 1 % avancée par la délégation et la question sur la promesse d'un hectare faite en 2024.", "Sièges réservés dès la Constitution de 2005 et chiffre UNIPROBA de 2008 (Minority Rights Group)."]
+  non_confirme: ["Chiffre de population postérieur à 2008 : le recensement général de 2024 n'a pas été consulté.", "Mise en œuvre de l'annonce d'un hectare par ménage twa.", "Pourvoi effectif des six sièges réservés après les élections de 2025 : aucune source consultée.", "Modalités exactes de cooptation dans le Code électoral en vigueur et éventuelle cooptation dans les conseils communaux."]
+sources:
+  - {titre: "Constitution du Burundi (2018) — Constitute Project", url: "https://www.constituteproject.org/constitution/Burundi_2018"}
+  - {titre: "Déclaration de la CNIDH du Burundi sur les droits des peuples autochtones — GANHRI", url: "https://ganhri.org/wp-content/uploads/2023/11/DECLARATION-DE-LA-CNIDH-DU-BURUNDI-SUR-LES-DROITS-DES-PEUPLES-AUTOCHTONES.pdf"}
+  - {titre: "Examen du Burundi par le Comité pour l'élimination de la discrimination raciale (25 novembre 2025) — HCDH", url: "https://www.ohchr.org/fr/meeting-summaries/2025/11/experts-committee-elimination-racial-discrimination-commend-burundi"}
+  - {titre: "Twa — Burundi — Minority Rights Group", url: "https://minorityrights.org/communities/twa/"}

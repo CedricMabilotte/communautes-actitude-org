@@ -16,6 +16,7 @@ resume: >-
   La loi n° 22/030 du 15 juillet 2022 est le premier texte de la République démocratique du Congo consacré aux peuples autochtones pygmées, qu'elle définit comme des peuples de chasseurs-cueilleurs vivant généralement en forêt.
   Elle leur reconnaît le recours à leurs coutumes pour régler leurs conflits internes, des droits sur les terres et ressources qu'ils possèdent, occupent ou utilisent, et le consentement libre, informé et préalable à tout projet touchant leurs terres.
   Les estimations de population vont de 600 000 à 2 millions de personnes selon les sources.
+  Les concessions forestières attribuées aux communautés locales relèvent de la fiche « Concessions forestières des communautés locales de RDC ».
 reconnaissance_regionale: []
 reconnaissance_onu:
   - {mecanisme: "dnudpa", detail: "La République démocratique du Congo a voté pour la Déclaration des Nations unies sur les droits des peuples autochtones le 13 septembre 2007 (A/61/PV.107) et reconnaît les « peuples autochtones pygmées » dans la loi n° 22/030.", annee: 2007, source: "https://docs.un.org/fr/A/61/PV.107"}

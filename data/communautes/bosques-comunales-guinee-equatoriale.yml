@@ -1,0 +1,61 @@
+uid: "bosques-comunales-guinee-equatoriale"
+nom: "Forêts communales de Guinée équatoriale"
+endonyme: ""
+territoire: "Forêts communales délimitées autour des villages de la région continentale (Río Muni) de la Guinée équatoriale, districts de Niefang, Micomiseng, Mbini, Bata, Añisoc, Mongomo, Cogo et Evinayong"
+etats: ["Guinée équatoriale"]
+region: "afrique"
+coord: [1.7, 10.4]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 49, unite: "polygones de la couche « Equatorial Guinea community forests » de l'Atlas forestier (WRI et administration forestière), dont 40 portent un nom de village", annee: 2019, source: "https://gis-gfw.wri.org/arcgis/rest/services/country_data/africa/MapServer/7"}
+surface_km2: {valeur: 586.65, annee: 2019, perimetre: "somme des superficies calculées par SIG (champ sup_sig_ha, 58 665 ha) des 49 polygones de la couche cartographique, pas une superficie officielle cédée", source: "https://gis-gfw.wri.org/arcgis/rest/services/country_data/africa/MapServer/7"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés rurales titulaires d'une forêt communale en Guinée équatoriale. La loi n° 1/1997 du 18 février 1997 sur l'usage et la gestion des forêts définit les bosques comunales (forêts communales) comme les forêts naturelles ou replantées que l'État reconnaît, délimite et cède en usage permanent aux communautés rurales en raison de leurs usages traditionnels, contiguës à la communauté (art. 12 b). Les habitants y exercent des activités de subsistance et les produits de l'exploitation sont destinés exclusivement au développement de la communauté (art. 24) ; la forêt reste dans la Réserve forestière nationale, du domaine public de l'État (art. 5, 10 et 12). La couche des forêts communales de l'Atlas forestier interactif, publié par le ministère de l'Agriculture et des Forêts avec le WRI, compte 49 polygones, tous dans la région continentale.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Cinquième rapport national de la Guinée équatoriale à la Convention sur la diversité biologique (mars 2014) : il mentionne la « légalisation de deux bosques comunales dans le cadre de REDD+ et de la CCNUCC », le projet CIFOR/COBAM-INDEFOR de gestion des bosques comunales et la cartographie des « reservas comunales » dans l'Atlas forestier.", annee: 2014, source: "https://www.cbd.int/doc/world/gq/gq-nr-05-es.pdf"}
+base_nationale:
+  - {instrument: "Ley n° 1/1997, de 18 de febrero, sobre el uso y manejo de los bosques, art. 5, 12 b, 18, 22, 24 et 101 b", nature: "loi", annee: 1997, source: "https://www.observatoire-comifac.net/file/eyJtb2RlbCI6IkFwcFxcTW9kZWxzXFxOYXRpb25hbEluZGljYXRvcnNcXE1vZHVsZXNcXE4yXFxJbnN0cnVtZW50R2VzdGlvbiIsImZpZWxkIjoiZG9jdW1lbnQiLCJpZCI6NzN9"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "L'État reconnaît, délimite et cède en usage permanent (cesión de uso permanente : droit d'utiliser la forêt sans en devenir propriétaire) les forêts communales aux communautés rurales (loi n° 1/1997, art. 12 b) ; la Réserve forestière nationale est permanente, inaliénable et du domaine public, sans propriété privée (art. 5) ; l'occupation indue de terrains dans les forêts communales est un délit puni d'un mois à deux ans de prison (art. 101 b).", source: "https://www.observatoire-comifac.net/file/eyJtb2RlbCI6IkFwcFxcTW9kZWxzXFxOYXRpb25hbEluZGljYXRvcnNcXE1vZHVsZXNcXE4yXFxJbnN0cnVtZW50R2VzdGlvbiIsImZpZWxkIjoiZG9jdW1lbnQiLCJpZCI6NzN9"}
+  ressources: {valeur: "partiel", note: "Dans les forêts communales, les habitants peuvent exercer des activités de subsistance (loi n° 1/1997, art. 24) ; toute extraction à des fins commerciales exige une autorisation préalable et le paiement d'un droit d'usage (art. 18) ; lors de l'extraction industrielle, le bois situé à moins de 2 000 m du Consejo de Poblado (conseil de village) ne peut pas être exploité, pour protéger les biens communautaires (art. 22).", source: "https://www.observatoire-comifac.net/file/eyJtb2RlbCI6IkFwcFxcTW9kZWxzXFxOYXRpb25hbEluZGljYXRvcnNcXE1vZHVsZXNcXE4yXFxJbnN0cnVtZW50R2VzdGlvbiIsImZpZWxkIjoiZG9jdW1lbnQiLCJpZCI6NzN9"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les produits de l'exploitation forestière des forêts communales sont destinés uniquement et exclusivement au développement de la communauté concernée (loi n° 1/1997, art. 24) ; la loi ne précise ni l'organe qui gère ces revenus ni la procédure.", source: "https://www.observatoire-comifac.net/file/eyJtb2RlbCI6IkFwcFxcTW9kZWxzXFxOYXRpb25hbEluZGljYXRvcnNcXE1vZHVsZXNcXE4yXFxJbnN0cnVtZW50R2VzdGlvbiIsImZpZWxkIjoiZG9jdW1lbnQiLCJpZCI6NzN9"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Le cinquième rapport national à la Convention sur la diversité biologique (2014) mentionne la légalisation de deux forêts communales en deux ans et relève le manque d'organisation de la population rurale en comités ; les Comunidades de Vecinos ou Consejos de Poblado, structures du ministère de l'Intérieur, jouent le rôle de comités locaux. Dans la couche cartographique, 11 des 49 forêts portent une date (2007 à 2012) et une référence de document. Aucune source indépendante sur la gestion effective n'a été trouvée.", source: "https://www.cbd.int/doc/world/gq/gq-nr-05-es.pdf"}
+chronologie:
+  - {annee: 1991, evenement: "Loi n° 3/1991 réglementant la matière forestière, abrogée en 1997."}
+  - {annee: 1997, evenement: "Loi n° 1/1997 du 18 février 1997 sur l'usage et la gestion des forêts : création de la catégorie des forêts communales (art. 12 b et 24)."}
+  - {annee: 2007, evenement: "Premières dates portées dans la couche cartographique, avec une référence de document (Elonglong, Andom Esangui, Alep Moñung)."}
+  - {annee: 2013, evenement: "Lancement de l'Atlas forestier interactif de Guinée équatoriale, version 1.0, qui cartographie les forêts communales."}
+  - {annee: 2014, evenement: "Cinquième rapport national à la Convention sur la diversité biologique : légalisation de deux forêts communales dans le cadre de REDD+."}
+  - {annee: 2019, evenement: "Dernière modification de l'élément « Equatorial Guinea community forests » sur ArcGIS Online, le 2 avril 2019 (49 polygones, 58 665 ha calculés par SIG)."}
+fiabilite:
+  verifie:
+    - "Articles 5, 12 b, 18, 22, 24 et 101 b de la loi n° 1/1997 dans la copie publiée par l'Observatoire des forêts d'Afrique centrale (COMIFAC) ; date de promulgation : 18 février 1997, Malabo."
+    - "Passages du cinquième rapport national à la Convention sur la diversité biologique (mars 2014) sur les bosques comunales, les reservas comunales et les Consejos de Poblado."
+    - "Couche « Equatorial Guinea community forests » (attribution : WRI Congo Basin Forest Atlas, licence CC BY 4.0 indiquée sur l'élément ArcGIS Online modifié le 2 avril 2019), interrogée le 1er octobre 2026 : 49 polygones, 40 avec un nom de village, 11 avec une date (2007 à 2012), 58 665 ha au total dans le champ sup_sig_ha ; le tableau reprend ces 49 entrées."
+    - "Mention de la catégorie « bosques comunales » dans l'Atlas forestier interactif (article du WRI du 13 novembre 2013)."
+  non_confirme:
+    - "Aucun texte d'application (règlement) de la loi n° 1/1997 précisant la procédure de délimitation et de cession n'a été trouvé."
+    - "La couche cartographique ne dit pas si chaque polygone correspond à une cession formalisée ; les documents référencés dans le champ « documento » ne sont pas publiés et leur nature n'est pas précisée. Les superficies du tableau sont calculées par SIG et diffèrent parfois de la superficie administrative du champ « superficie »."
+    - "Une copie de 2023 de la couche, publiée par Global Forest Watch, compte 70 entrées, dont plusieurs sans nom ni superficie, et associe certains noms à d'autres superficies ; elle n'a pas été retenue pour le tableau. La couche officielle de l'administration forestière (Atlas_Forestal_Datos 2017) n'est pas accessible sans authentification."
+    - "Population et nombre de villages concernés : aucune source trouvée."
+    - "Aucune loi forestière postérieure abrogeant la loi n° 1/1997 n'a été trouvée ; le profil FAOLEX de la Guinée équatoriale liste des textes forestiers de 2017 et 2018 non examinés."
+sources:
+  - {titre: "Ley n° 1/1997, de 18 de febrero, sobre el uso y manejo de los bosques — Observatoire des forêts d'Afrique centrale (COMIFAC)", url: "https://www.observatoire-comifac.net/file/eyJtb2RlbCI6IkFwcFxcTW9kZWxzXFxOYXRpb25hbEluZGljYXRvcnNcXE1vZHVsZXNcXE4yXFxJbnN0cnVtZW50R2VzdGlvbiIsImZpZWxkIjoiZG9jdW1lbnQiLCJpZCI6NzN9"}
+  - {titre: "Puesta en marcha del Convenio sobre la Diversidad Biológica — Quinto informe nacional de Guinea Ecuatorial, marzo de 2014 — CDB", url: "https://www.cbd.int/doc/world/gq/gq-nr-05-es.pdf"}
+  - {titre: "Equatorial Guinea community forests — couche de l'Atlas forestier (WRI Congo Basin Forest Atlas)", url: "https://gis-gfw.wri.org/arcgis/rest/services/country_data/africa/MapServer/7"}
+  - {titre: "Equatorial Guinea community forests — élément ArcGIS Online (Global Forest Watch), licence et date de modification", url: "https://www.arcgis.com/home/item.html?id=5a83ec0396d24e82bcfa2ce2df478f2c"}
+  - {titre: "Bosques Comunales — copie de 2023 publiée par Global Forest Watch", url: "https://services2.arcgis.com/g8WusZB13b9OegfU/arcgis/rest/services/Bosques_Comunales/FeatureServer/0"}
+  - {titre: "Tessa, « Las áreas protegidas en Guinea Ecuatorial se incrementaron en un 60 por ciento, según nuevo atlas forestal », WRI, 13 novembre 2013", url: "https://www.wri.org/insights/las-areas-protegidas-en-guinea-ecuatorial-se-incrementaron-en-un-60-por-ciento-segun-nuevo"}

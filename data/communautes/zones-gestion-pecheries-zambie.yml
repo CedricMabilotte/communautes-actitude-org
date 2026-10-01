@@ -1,0 +1,47 @@
+uid: "zones-gestion-pecheries-zambie"
+nom: "Zones de gestion des pêcheries de Zambie"
+endonyme: ""
+territoire: "Fisheries management areas (zones de gestion des pêcheries) déclarées par arrêté ministériel sur les eaux de pêche de la Zambie"
+etats: ["Zambie"]
+region: "afrique"
+coord: [-13.1, 27.8]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "zones de gestion des pêcheries déclarées", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés de pêche riveraines des eaux déclarées zones de gestion des pêcheries (fisheries management areas) en Zambie. La loi n° 22 de 2011 sur les pêches (Fisheries Act), en vigueur le 18 avril 2011, permet au ministre de déclarer une telle zone par arrêté (statutory order, texte réglementaire), après consultation de la communauté riveraine (art. 26). Pour chaque zone, le ministre nomme un comité de gestion des pêcheries qui compte six représentants élus par la communauté de pêche riveraine, un représentant de l'autorité locale, un représentant de chaque chef coutumier concerné et des représentants des ONG, des pêcheurs commerciaux et de l'aquaculture (art. 29). Le comité gère les ressources halieutiques dans les quotas du plan de gestion, élabore ce plan avec le directeur des pêches, négocie avec lui les accords de cogestion avec les entreprises de pêche industrielle et tient un fonds alimenté par une part des recettes des licences (art. 28 et 30, annexe). Le nombre de zones déclarées n'a pas été trouvé.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Fisheries Act, 2011 (loi n° 22 de 2011), art. 26 à 32 et annexe ; sanctionnée le 15 avril 2011, en vigueur le 18 avril 2011", nature: "loi", annee: 2011, source: "https://zambialii.org/akn/zm/act/2011/22"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le ministre nomme par texte réglementaire un comité de gestion des pêcheries pour chaque zone ; six membres sont élus par la communauté de pêche riveraine, aux côtés d'un représentant de l'autorité locale, d'un représentant de chaque chef, d'un représentant d'une ONG, d'un représentant des pêcheurs commerciaux, d'un représentant de l'aquaculture et de deux autres personnes, pour un mandat de trois ans renouvelable une fois (loi n° 22 de 2011, art. 29 (1), (2) et (4)) ; le ministre choisit le président et le vice-président, nomme un agent du département des pêches comme secrétaire et peut dissoudre le comité pour mauvaise gestion, ses biens revenant alors à l'État (art. 29 (3), (6), (7) et (8)) ; le comité fixe sa procédure, avec un quorum de sept membres (annexe).", source: "https://zambialii.org/akn/zm/act/2011/22"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Le comité gère les ressources halieutiques de sa zone dans les quotas fixés par le plan de gestion des pêcheries, élabore et met en œuvre, en consultation avec le directeur, des plans qui concilient les usages de l'eau et recommande au directeur des mesures de développement (loi n° 22 de 2011, art. 30 (2) (b), (c) et (f)) ; le directeur prépare, en consultation avec le comité, le plan de gestion qui fixe quotas et nombre de licences et que le ministre approuve (art. 28) ; le comité prépare et met en œuvre ce plan selon le règlement pris par le ministre (art. 30 (3)) ; la pêche sans licence dans la zone est une infraction (art. 27).", source: "https://zambialii.org/akn/zm/act/2011/22"}
+  consentement: {valeur: "partiel", note: "Le ministre déclare la zone après consultation, entre autres, du directeur des pêches et de la communauté riveraine (loi n° 22 de 2011, art. 26 (1)) ; le comité négocie, avec le directeur, les accords de cogestion avec les entreprises de pêche industrielle de sa zone (art. 30 (2) (a)) ; la loi prévoit une consultation, non un consentement.", source: "https://zambialii.org/akn/zm/act/2011/22"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Chaque comité tient un fonds destiné au bien-être économique et social de la communauté riveraine, alimenté par la part des recettes des licences de pêche et d'aquaculture et des services tirés des ressources de la zone que le ministre fixe par règlement, après consultation du ministre des Finances, et par des dons acceptés avec l'accord du ministre ; les comptes sont ouverts au directeur et à tout membre de la communauté riveraine, et le comité remet au ministre un bilan et un compte de résultat audités dans les quatre-vingt-dix jours suivant la clôture de l'exercice au 31 décembre (loi n° 22 de 2011, annexe, par. 2) ; l'usage abusif des fonds du comité est une infraction (art. 31).", source: "https://zambialii.org/akn/zm/act/2011/22"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Aucun arrêté de déclaration d'une zone de gestion des pêcheries n'a été trouvé parmi les textes d'application de la loi publiés sur ZambiaLII. Un rapport de la FAO (2026) sur le lac Tanganyika indique que la cogestion passe, dans le district de Mpulungu, par des comités villageois de conservation et de développement créés dans les années 1990, et dans le district de Nsama par des comités de gestion des pêcheries créés par la Société zoologique de Francfort dans quatre villages, et prévoit d'aligner ces structures sur la loi. Une étude de 2023 sur le lac Kariba (Imbwae, Aswani et Sauer) relève que la gestion y est assurée par les autorités publiques et que le rôle des communautés de pêche y est mal défini.", source: "https://doi.org/10.4060/cd8281en"}
+chronologie:
+  - {annee: 1974, evenement: "Loi sur les pêches de 1974, abrogée et remplacée par la loi de 2011."}
+  - {annee: 2011, evenement: "Loi n° 22 de 2011 sur les pêches, sanctionnée le 15 avril et en vigueur le 18 avril : zones de gestion des pêcheries, comités de gestion et fonds des comités (art. 26 à 32 et annexe)."}
+  - {annee: 2012, evenement: "Règlement de 2012 sur les pêches (texte réglementaire n° 24 de 2012), en vigueur le 20 avril 2012, modifié en 2014, 2017, 2019 et 2026."}
+  - {annee: 2023, evenement: "Le plan d'action de la FAO pour la chaîne de valeur du kapenta prévoit pour 2023 une réunion du département des pêches, des bailleurs et de la Société zoologique de Francfort pour revoir les structures de cogestion du lac Tanganyika et les aligner sur la loi."}
+fiabilite:
+  verifie: ["Texte des articles 2, 26 à 32 et de l'annexe de la loi n° 22 de 2011 et dates de sanction et d'entrée en vigueur, sur ZambiaLII.", "Règlement de 2012 sur les pêches (texte réglementaire n° 24 de 2012) sur ZambiaLII : entrée en vigueur le 20 avril 2012 et modifications datées du 21 novembre 2014, du 1er décembre 2017, du 27 décembre 2019 et du 23 janvier 2026.", "Passages du rapport de la FAO sur la chaîne de valeur du kapenta du lac Tanganyika en Zambie (2026) sur les comités villageois de Mpulungu et les comités de gestion des pêcheries de Nsama.", "Constat de l'étude d'Imbwae, Aswani et Sauer (2023) sur le lac Kariba."]
+  non_confirme: ["Le nombre de zones de gestion des pêcheries déclarées et de comités nommés n'a pas été trouvé ; trois textes d'application listés sur ZambiaLII (n° 84 de 2019, 109 de 2020 et 17 de 2024) n'ont pas pu être ouverts, d'où l'absence de tableau des sites ; le contenu de la modification du règlement datée du 23 janvier 2026 n'a pas été consulté.", "Le rapport de la FAO ne précise pas si les comités de Nsama ont été nommés par le ministre au titre de l'article 29 de la loi.", "Le règlement qui fixe la part des recettes de licences versée aux fonds des comités n'a pas été consulté.", "Population, nombre de villages et surface non trouvés."]
+sources:
+  - {titre: "Fisheries Act, 2011 (loi n° 22 de 2011) — ZambiaLII", url: "https://zambialii.org/akn/zm/act/2011/22"}
+  - {titre: "Fisheries Regulations, 2012 (texte réglementaire n° 24 de 2012) — ZambiaLII", url: "https://zambialii.org/akn/zm/act/si/2012/24"}
+  - {titre: "FAO (2026), The Lake Tanganyika sprat and sardine value chain in Zambia — Analysis and design report", url: "https://doi.org/10.4060/cd8281en"}
+  - {titre: "Imbwae I., Aswani S., Sauer W. (2023), Socio-Economic and Environmental Challenges of Small-Scale Fisheries: Prognosis for Sustainable Fisheries Management in Lake Kariba, Zambia — Sustainability", url: "https://www.mdpi.com/2071-1050/15/4/3179"}

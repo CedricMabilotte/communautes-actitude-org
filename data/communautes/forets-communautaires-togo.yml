@@ -1,0 +1,68 @@
+uid: "forets-communautaires-togo"
+nom: "Forêts communautaires du Togo"
+endonyme: ""
+territoire: "Forêts communautaires créées sur les terres des communautés ou des particuliers, ou attribuées dans le domaine forestier de l'État, dans les cinq régions du Togo"
+etats: ["Togo"]
+region: "afrique"
+coord: [8.6, 1.0]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 171, unite: "forêts communautaires recensées, dont 43 enregistrées par le ministère chargé des forêts", annee: 2023, source: "https://www.agrimaroc.org/index.php/Actes_IAVH2/article/view/1426"}
+surface_km2: {valeur: 657.19, annee: 2023, perimetre: "superficie totale des 171 forêts communautaires recensées (65 719,04 ha), enregistrées ou non", source: "https://www.agrimaroc.org/index.php/Actes_IAVH2/article/view/1426"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés qui gèrent une forêt communautaire au Togo. Le Code forestier de 2008 range les communautés rurales ou de base parmi les particuliers, qui gèrent et exploitent leurs forêts (art. 25, 29 et 45). Quatre arrêtés du 13 juin 2016 (n° 057 à 060) organisent le régime : la communauté, représentée par une entité juridique (comité villageois ou cantonal de développement, association villageoise de gestion des aires protégées), obtient soit la « création » d'une forêt sur ses terres, encadrée par une charte de gestion, soit l'« attribution » d'une forêt du domaine de l'État par une convention avec l'administration forestière. La charte ou la convention, provisoire pour deux ans puis définitive pour quinze ans renouvelables, fixe les droits et devoirs des membres, l'exploitation et la clé de répartition des bénéfices. Une étude de 2023 recense 171 forêts communautaires (65 719 ha), dont 43 enregistrées par le ministère.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Cinquième rapport national du Togo à la Convention sur la diversité biologique (avril 2014) : entre 2010 et 2013, des communautés appuyées par des ONG et l'État ont constitué des forêts communautaires ; une dizaine sont citées (Ando-Kpomey, Alibi-1, Natchabouanga, Kemeni, Péssaré, Namab). La stratégie nationale pour la biodiversité 2011-2020, publiée par la Convention, rattache ces forêts au domaine des particuliers (art. 25 du Code forestier).", annee: 2014, source: "https://www.cbd.int/doc/world/tg/tg-nr-05-fr.pdf"}
+base_nationale:
+  - {instrument: "Loi n° 2008-09 du 19 juin 2008 portant Code forestier, art. 24, 25, 29, 34, 45 et 148 à 150", nature: "loi", annee: 2008, source: "https://faolex.fao.org/docs/pdf/tog85011.pdf"}
+  - {instrument: "Arrêté n° 060/MERF/SG/DRF du 13 juin 2016 définissant la procédure de création ou d'attribution et la gestion des forêts communautaires au Togo", nature: "loi", annee: 2016, source: "https://faolex.fao.org/docs/pdf/Tog185042.pdf"}
+  - {instrument: "Arrêté n° 059/MERF/SG/DRF du 13 juin 2016 fixant le canevas de charte de gestion des forêts communautaires", nature: "loi", annee: 2016, source: "https://faolex.fao.org/docs/pdf/Tog184989.pdf"}
+  - {instrument: "Arrêté n° 058/MERF/SG/DRF du 13 juin 2016 fixant le canevas de convention de gestion des forêts communautaires", nature: "loi", annee: 2016, source: "https://faolex.fao.org/docs/pdf/Tog184988.pdf"}
+  - {instrument: "Arrêté n° 057/MERF/SG/DRF du 13 juin 2016 définissant le canevas de plan simple de gestion des forêts communautaires", nature: "loi", annee: 2016, source: "https://faolex.fao.org/docs/pdf/Tog185043.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Toute forêt communautaire est portée par une entité juridique (comité villageois de développement, comité cantonal de développement, association villageoise de gestion des aires protégées ou leurs unions) qui la gère au nom et pour le compte de la communauté et lui rend compte au moins une fois par an (arrêté n° 060 de 2016, art. 6 et 26) ; l'administration forestière contrôle la gestion, organise un suivi annuel et peut refuser le renouvellement en cas de non-respect de la charte ou de la convention (art. 15 et 25).", source: "https://faolex.fao.org/docs/pdf/Tog185042.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La charte est l'ensemble des règles qui organisent les droits et devoirs des membres de la communauté ; elle fixe les modalités de gestion, de suivi, de contrôle et les sanctions (arrêté n° 059 de 2016, art. 2, 4 et 11) ; la communauté rédige la charte, mais celle-ci est approuvée par le ministre et certifiée par le préfet (arrêté n° 060, art. 10, 12 et 19).", source: "https://faolex.fao.org/docs/pdf/Tog184989.pdf"}
+  justice_propre: {valeur: "partiel", note: "La charte ou la convention précise les modes de règlement des litiges et les sanctions applicables (arrêté n° 059 de 2016, art. 11 et 13 ; arrêté n° 060, art. 30) ; les infractions constatées dans la forêt sont dénoncées à l'administration forestière locale, qui les poursuit et les réprime (arrêté n° 060, art. 29).", source: "https://faolex.fao.org/docs/pdf/Tog185042.pdf"}
+  terres: {valeur: "partiel", note: "La « création » est le processus par lequel l'administration forestière reconnaît à une communauté la propriété d'une forêt communautaire sur les terres lui appartenant ou appartenant à des particuliers ; l'« attribution » confie à la communauté une forêt du domaine de l'État pour sa gestion, par une convention de deux ans puis de quinze ans renouvelables (arrêté n° 060 de 2016, art. 2 et 12) ; le Code forestier assimile les communautés rurales ou de base aux particuliers, titulaires d'un domaine forestier (loi n° 2008-09, art. 24 et 25).", source: "https://faolex.fao.org/docs/pdf/Tog185042.pdf"}
+  ressources: {valeur: "partiel", note: "L'exploitation se fait directement par la communauté ou par contrat d'exploitation, selon des documents de planification approuvés par l'administration forestière qui organisent les droits d'usage traditionnels, l'exploitation et la destination des revenus (arrêté n° 060 de 2016, art. 20 et 22) ; la charte ou la convention fixe la clé de répartition des bénéfices (arrêté n° 059, art. 10 ; arrêté n° 058, art. 10) ; les particuliers exploitent librement leurs forêts (loi n° 2008-09, art. 45).", source: "https://faolex.fao.org/docs/pdf/Tog185042.pdf"}
+  consentement: {valeur: "partiel", note: "La création ou l'attribution suppose la recherche du consensus au sein de la communauté et une réunion de concertation annoncée trente jours à l'avance (arrêté n° 060 de 2016, art. 4 et 5) ; le classement d'un terrain dans le domaine forestier de l'État comporte une reconnaissance des droits d'usage avec les représentants des villages, une consultation publique et un examen des réclamations des populations riveraines (loi n° 2008-09, art. 11, 12 et 16) ; aucun consentement préalable n'est exigé.", source: "https://faolex.fao.org/docs/pdf/tog85011.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Une étude de 2023 (université de Lomé, Institut national de formation agricole de Tové et ministère de l'Environnement) recense 171 forêts communautaires ; 43 ont franchi toutes les étapes de création et sont enregistrées par le ministère, dont 69 % en 2022 ; 48 % des forêts sont décrites comme moyennement dégradées, environ 70 % comme constamment brûlées, et sept préfectures sur 39 n'ont aucune initiative de foresterie communautaire.", source: "https://www.agrimaroc.org/index.php/Actes_IAVH2/article/view/1426"}
+chronologie:
+  - {annee: 2008, evenement: "Code forestier (loi n° 2008-09 du 19 juin 2008) : les communautés rurales ou de base sont assimilées aux particuliers."}
+  - {annee: 2014, evenement: "Cinquième rapport national à la Convention sur la diversité biologique : une dizaine de forêts communautaires constituées entre 2010 et 2013."}
+  - {annee: 2016, evenement: "Arrêtés n° 057 à 060 du 13 juin 2016 : procédure de création ou d'attribution, canevas de charte, de convention et de plan simple de gestion."}
+  - {annee: 2022, evenement: "Année d'enregistrement de 69 % des forêts communautaires enregistrées par le ministère."}
+  - {annee: 2023, evenement: "Recensement de 171 forêts communautaires (65 719 ha), dont 43 enregistrées."}
+fiabilite:
+  verifie:
+    - "Articles 8, 11 à 16, 20 à 25, 29, 34, 38, 45 et 148 à 150 du Code forestier de 2008 dans le texte publié par FAOLEX."
+    - "Texte des arrêtés n° 058, 059 et 060 du 13 juin 2016 (définitions, procédure, charte, convention, durées, entité juridique, règlement des litiges, gestion des revenus) dans les copies publiées par FAOLEX."
+    - "171 forêts, 43 enregistrées, 65 719,04 ha, répartition par région et liste du tableau 1 dans Atakpama et al., Revue marocaine des sciences agronomiques et vétérinaires, 2023 : le tableau 1 compte 171 lignes dont la somme des superficies donne 65 719,04 ha."
+    - "Numéros n° 057 et 058 des arrêtés fixant le canevas de plan simple de gestion et le canevas de convention : notices ECOLEX."
+    - "Passages sur les forêts communautaires dans le cinquième rapport national (2014) et la stratégie nationale pour la biodiversité 2011-2020, publiés sur le site de la Convention sur la diversité biologique."
+  non_confirme:
+    - "L'étude de 2023 donne une fois le total de 64 719 ha dans le texte et 170 forêts dans le résumé anglais ; le tableau 1 donne 171 forêts et 65 719,04 ha."
+    - "La liste des 43 forêts enregistrées par le ministère n'a pas été trouvée ; le tableau des sites mêle forêts enregistrées et initiatives en cours de création."
+    - "L'année de création de chaque forêt n'est pas publiée dans l'étude ; la colonne année du tableau reste vide."
+    - "Population et nombre de villages concernés : aucune source trouvée."
+sources:
+  - {titre: "Loi n° 2008-09 du 19 juin 2008 portant Code forestier — FAOLEX", url: "https://faolex.fao.org/docs/pdf/tog85011.pdf"}
+  - {titre: "Arrêté n° 060/MERF/SG/DRF du 13 juin 2016 (procédure de création ou d'attribution des forêts communautaires) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/Tog185042.pdf"}
+  - {titre: "Arrêté n° 059/MERF/SG/DRF du 13 juin 2016 (canevas de charte de gestion) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/Tog184989.pdf"}
+  - {titre: "Arrêté n° 058/MERF/SG/DRF du 13 juin 2016 (canevas de convention de gestion) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/Tog184988.pdf"}
+  - {titre: "Arrêté n° 057/MERF/SG/DRF du 13 juin 2016 (canevas de plan simple de gestion) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/Tog185043.pdf"}
+  - {titre: "Arrêté n° 058/MERF/SG/DRF du 13 juin 2016 — notice ECOLEX", url: "https://www.ecolex.org/details/legislation/arrete-n-058merfsgdrf-du-13-juin-2016-fixant-le-canevas-de-convention-des-forets-communautaires-au-togo-fct-lex-faoc184988/"}
+  - {titre: "Arrêté n° 057/MERF/SG/DRF du 13 juin 2016 — notice ECOLEX", url: "https://www.ecolex.org/details/legislation/arrete-n-57merfsgdrf-du-13-juin-2016-definissant-le-canevas-de-plan-simple-de-gestion-des-forets-communautaires-au-togo-psgfct-lex-faoc185043/"}
+  - {titre: "Cinquième rapport national sur la diversité biologique du Togo (2014) — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/tg/tg-nr-05-fr.pdf"}
+  - {titre: "Stratégie et plan d'action national pour la biodiversité du Togo 2011-2020 — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/tg/tg-nbsap-v2-fr.pdf"}
+  - {titre: "Atakpama et al., « La foresterie communautaire au Togo : où en sommes-nous ? », Revue marocaine des sciences agronomiques et vétérinaires, 2023", url: "https://www.agrimaroc.org/index.php/Actes_IAVH2/article/view/1426"}

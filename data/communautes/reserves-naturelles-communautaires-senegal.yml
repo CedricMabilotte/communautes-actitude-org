@@ -1,0 +1,64 @@
+uid: "reserves-naturelles-communautaires-senegal"
+nom: "Réserves naturelles communautaires du Sénégal"
+endonyme: ""
+territoire: "Terroirs des communes (anciennes communautés rurales) qui ont créé une réserve, surtout dans les régions de Matam, Tambacounda, Kédougou, Kolda, Fatick, Thiès, Louga, Saint-Louis et Ziguinchor"
+etats: ["Sénégal"]
+region: "afrique"
+coord: [14.0, -14.0]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 33, unite: "réserves naturelles communautaires créées par délibération d'une ou plusieurs communautés rurales, selon l'étude de cas publiée par le secrétariat de la Convention sur la diversité biologique (la stratégie nationale de 2015 en compte 22)", annee: 2012, source: "https://www.cbd.int/pa/doc/ts64-case-studies/senegal-en.pdf"}
+surface_km2: {valeur: 7589, annee: 2012, perimetre: "total indiqué pour les 33 réserves (758 880,42 hectares) ; la somme des surfaces site par site du même tableau donne 799 649 hectares", source: "https://www.cbd.int/pa/doc/ts64-case-studies/senegal-en.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Depuis la loi 96-07 du 22 mars 1996 sur le transfert de compétences aux collectivités locales, une communauté rurale (aujourd'hui commune) peut créer par délibération du conseil élu une réserve naturelle sur son terroir. La délibération confie certains pouvoirs à une organisation des habitants : comité villageois ou intervillageois, association de pêcheurs, d'éleveurs ou d'écogardes. En 2012, une étude de cas publiée par le secrétariat de la Convention sur la diversité biologique recensait 33 réserves, dont les dates connues de création vont de 1999 à 2010, pour 758 880 hectares. Le Code forestier de 2018 range les réserves naturelles communautaires dans le domaine forestier protégé, dont la gestion est transférée aux collectivités territoriales.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Stratégie nationale et plan national d'actions pour la biodiversité (août 2015), transmis au secrétariat de la Convention sur la diversité biologique : le réseau d'aires protégées compte 22 réserves naturelles communautaires ; le cinquième rapport national attribue la création de 22 de ces réserves au projet de gestion intégrée des écosystèmes (PGIES).", annee: 2015, source: "https://www.cbd.int/doc/world/sn/sn-nbsap-v2-fr.pdf"}
+  - {mecanisme: "registre_apac", detail: "La réserve de Kawawana (commune de Mangagoulack, Ziguinchor), l'une des réserves du régime, est inscrite au registre des aires et territoires conservés par les peuples autochtones et les communautés locales (registre ICCA) ; l'association des pêcheurs y obtient en 2010 des droits de gestion de la zone côtière par des actes signés par le conseil régional et le gouverneur.", annee: 2010, source: "https://www.iccaregistry.org/en/explore/Senegal/kawawana"}
+base_nationale:
+  - {instrument: "Loi 96-07 du 22 mars 1996 portant transfert de compétences aux régions, aux communes et aux communautés rurales (art. 30, création de réserves par la communauté rurale), citée par l'étude de cas de la Convention sur la diversité biologique", nature: "loi", annee: 1996, source: "https://www.cbd.int/pa/doc/ts64-case-studies/senegal-en.pdf"}
+  - {instrument: "Décret 96-1134 du 27 décembre 1996 portant application de la loi de transfert de compétences en matière d'environnement et de gestion des ressources naturelles (art. 2, 48 et 50), cité par l'étude de cas de la Convention sur la diversité biologique", nature: "loi", annee: 1996, source: "https://www.cbd.int/pa/doc/ts64-case-studies/senegal-en.pdf"}
+  - {instrument: "Loi 2018-25 du 12 novembre 2018 portant Code forestier (art. 2, définitions 16 et 39 ; art. 9, 13, 16, 17 et 29)", nature: "loi", annee: 2018, source: "https://faolex.fao.org/docs/pdf/Sen191599.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La réserve est créée par délibération du conseil de la communauté rurale (aujourd'hui commune), approuvée par le représentant de l'État ou exécutoire 15 jours après sans refus motivé (loi 96-07, art. 30 ; décret 96-1134, art. 2, 48 et 50) ; la délibération confie certains pouvoirs à une organisation des habitants (comité villageois ou intervillageois, association de pêcheurs, d'éleveurs ou d'écogardes) ; le titulaire juridique reste la commune. Le Code forestier de 2018 maintient les réserves naturelles communautaires dans le domaine forestier protégé, géré par les collectivités territoriales (art. 2, définition 16, et art. 9).", source: "https://www.cbd.int/pa/doc/ts64-case-studies/senegal-en.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les collectivités territoriales peuvent conclure des conventions locales (accords sur les règles d'usage des ressources de leur terroir), approuvées par le représentant de l'État après avis du service des Eaux et Forêts (Code forestier 2018, art. 17) ; les compétences transférées s'exercent selon un plan simple de gestion ou un plan d'aménagement approuvé par le représentant de l'État (art. 16).", source: "https://faolex.fao.org/docs/pdf/Sen191599.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les réserves naturelles communautaires font partie du domaine forestier protégé, dont la gestion est confiée aux collectivités territoriales (Code forestier 2018, art. 2, définition 16, et art. 9) ; les droits d'exploitation des forêts du domaine national appartiennent à l'État (art. 9) et les droits d'usage n'entraînent aucun droit de disposer des lieux (art. 29).", source: "https://faolex.fao.org/docs/pdf/Sen191599.pdf"}
+  ressources: {valeur: "partiel", note: "Les populations riveraines disposent de droits d'usage (bois mort, fruits, gommes, miel, parcours du bétail, bois de construction, bois sacré pour le culte) (Code forestier 2018, art. 29) ; l'exploitation des forêts relevant des collectivités territoriales exige l'autorisation du conseil départemental après avis du conseil municipal (art. 13).", source: "https://faolex.fao.org/docs/pdf/Sen191599.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "L'étude de cas de 2012 rapporte que beaucoup d'agents des services techniques ne comptent pas ces réserves parmi les aires protégées, que le sous-préfet de Bandafassi a refusé en 2010 d'approuver la délibération créant la réserve de Dindéfélo, devenue exécutoire après 15 jours, et que la rémunération des écogardes n'est pas assurée de façon durable (32 écogardes bénévoles à Boundou ; ailleurs, écogardes payés par l'État, des projets ou la commune). Le registre ICCA rapporte qu'à Kawawana l'association des pêcheurs applique un zonage et des règles de pêche depuis 2010.", source: "https://www.cbd.int/pa/doc/ts64-case-studies/senegal-en.pdf"}
+chronologie:
+  - {annee: 1996, evenement: "Loi 96-07 du 22 mars et décret 96-1134 du 27 décembre : transfert aux collectivités locales de compétences en matière d'environnement et de gestion des ressources naturelles."}
+  - {annee: 1998, evenement: "Déclaration de l'aire du patrimoine communautaire de Teunguène, île de Yoff (5 juin) ; l'étude de 2012 la range parmi les aires non encore déclarées officiellement."}
+  - {annee: 1999, evenement: "Création de la réserve de Malidino Dialimakan (communauté rurale de Dialakoto)."}
+  - {annee: 2003, evenement: "Premières délibérations de la série soutenue par le projet de gestion intégrée des écosystèmes (PGIES, PNUD-FEM) dans les régions de Matam, Tambacounda, Kolda, Kédougou, Fatick, Thiès et Louga."}
+  - {annee: 2009, evenement: "Réserve intercommunautaire du Boundou (120 000 hectares), créée par quatre communautés rurales de la région de Tambacounda."}
+  - {annee: 2010, evenement: "Création des réserves de Dindéfélo (janvier) et de Kawawana (délibération du 20 mars, approbation du gouverneur le 1er juin)."}
+  - {annee: 2012, evenement: "Étude de cas publiée par le secrétariat de la Convention sur la diversité biologique : 33 réserves, 758 880 hectares."}
+  - {annee: 2015, evenement: "La stratégie nationale pour la biodiversité compte 22 réserves naturelles communautaires dans le réseau d'aires protégées."}
+  - {annee: 2018, evenement: "Code forestier (loi 2018-25 du 12 novembre) : réserves naturelles communautaires et réserves naturelles communales dans le domaine forestier protégé géré par les collectivités territoriales."}
+fiabilite:
+  verifie:
+    - "Code forestier de 2018 (texte promulgué, FAOLEX) : définition 16 de l'article 2 (domaine forestier protégé incluant les réserves naturelles communautaires et les réserves naturelles communales), définition 39 (réserve naturelle communale créée par la commune), articles 9, 13, 16, 17 et 29."
+    - "Liste de 33 réserves avec communauté rurale, date de délibération et surface, et total de 758 880,42 hectares, dans l'annexe 1 de l'étude de cas publiée par le secrétariat de la Convention sur la diversité biologique (2012)."
+    - "Mention de 22 réserves naturelles communautaires dans la stratégie nationale pour la biodiversité d'août 2015 et dans le cinquième rapport national à la Convention."
+  non_confirme:
+    - "Les textes de la loi 96-07 et du décret 96-1134 n'ont pas été consultés directement : la portée des articles 30, 2, 48 et 50 est rapportée par l'étude de cas de 2012. Le maintien en vigueur de ces textes après le Code général des collectivités locales de 2013, auquel renvoie le Code forestier de 2018 (art. 2, définition 10), n'a pas été vérifié ; le Code forestier de 2018 est le texte en vigueur consulté."
+    - "L'étude de cas de 2012 est cosignée par le directeur des Parcs nationaux du Sénégal (Soulèye Ndiaye) : elle n'est pas une source indépendante de l'administration ; seul le registre ICCA (pour Kawawana) l'est."
+    - "Le nombre de réserves diffère selon les sources (33 en 2012, 22 en 2015) ; la somme des surfaces site par site (799 649 hectares) ne correspond pas au total publié (758 880 hectares) ; aucune liste officielle à jour n'a été trouvée."
+    - "La structure de gestion (comité villageois, association) et ses pouvoirs varient d'une réserve à l'autre et n'ont pas été vérifiés site par site ; l'effet de la réforme de 2013 (communautés rurales devenues communes) sur les délibérations antérieures n'a pas été établi."
+sources:
+  - {titre: "Dieng N. et Ndiaye S., Recognition and Support of ICCAs in Senegal, Série technique n° 64, secrétariat de la Convention sur la diversité biologique, 2012", url: "https://www.cbd.int/pa/doc/ts64-case-studies/senegal-en.pdf"}
+  - {titre: "Loi 2018-25 du 12 novembre 2018 portant Code forestier — FAOLEX", url: "https://faolex.fao.org/docs/pdf/Sen191599.pdf"}
+  - {titre: "Stratégie nationale et plan national d'actions pour la biodiversité, ministère de l'Environnement et du Développement durable, août 2015 — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/sn/sn-nbsap-v2-fr.pdf"}
+  - {titre: "Cinquième rapport national sur la mise en œuvre de la Convention sur la diversité biologique — Sénégal", url: "https://www.cbd.int/doc/world/sn/sn-nr-05-fr.pdf"}
+  - {titre: "Kawawana — registre ICCA", url: "https://www.iccaregistry.org/en/explore/Senegal/kawawana"}

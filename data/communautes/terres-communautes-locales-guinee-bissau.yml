@@ -1,0 +1,54 @@
+uid: "terres-communautes-locales-guinee-bissau"
+nom: "Terres des communautés locales de Guinée-Bissau"
+endonyme: ""
+territoire: "Aires des communautés locales (tabancas, c'est-à-dire villages, ou ensembles de tabancas) dans leurs limites historiques et territoriales, sur l'ensemble du territoire national"
+etats: ["Guinée-Bissau"]
+region: "afrique"
+coord: [12.0, -15.0]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "communautés locales délimitées", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi n° 5/98 du 28 avril 1998, dite loi de la terre (Lei da Terra), laisse la propriété du sol à l'État mais reconnaît aux communautés locales, définies comme des entités coutumières de base territoriale formées des familles résidant dans une tabanca (village) ou un ensemble de tabancas, un droit d'usage coutumier perpétuel et gratuit, garanti sans contrat écrit ni enregistrement. Les communautés locales exercent des pouvoirs de gestion selon leurs us et coutumes dans leurs limites historiques et territoriales, répartissent les terres entre résidents selon la coutume et donnent un avis sur les concessions demandées sur leurs terres. Elles reçoivent 20 % du produit de l'impôt foncier. La loi prévoit la délimitation officielle des aires communautaires par une législation propre ; le nombre de communautés délimitées n'a pas été établi.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Stratégie et plan d'action nationaux pour la biodiversité 2015-2020 (juillet 2015) transmis au secrétariat de la Convention sur la diversité biologique : la section 3.1.6.3 décrit la loi de la terre n° 5/98 et l'usage privatif du sol dans la zone des « us et coutumes », surtout rurale ; le document ne rattache pas expressément ce régime à l'article 8 j.", annee: 2015, source: "https://www.cbd.int/doc/world/gw/gw-nbsap-v2-en.pdf"}
+base_nationale:
+  - {instrument: "Loi n° 5/98, loi de la terre (Lei da Terra), approuvée le 6 mars 1998, promulguée le 23 avril 1998, Bulletin officiel n° 17, supplément, 28 avril 1998", nature: "loi", annee: 1998, source: "https://faolex.fao.org/docs/pdf/gbs16728.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les communautés locales exercent des pouvoirs de gestion selon leurs us et coutumes dans toute l'aire située dans leurs limites historiques et territoriales (loi n° 5/98, art. 6, al. 4) et agissent par leurs « représentants » (art. 17, al. 1 ; art. 18, al. 4) ; la loi ne fixe pas la forme de ces institutions, et la gestion et le contrôle de l'usage de la terre relèvent des commissions foncières nationale, régionales, sectorielles et de section (art. 6, al. 1 à 3).", source: "https://faolex.fao.org/docs/pdf/gbs16728.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La gestion et la répartition des terres d'usage coutumier entre résidents obéissent aux coutumes et pratiques de chaque communauté, la loi ne s'appliquant qu'à titre supplétif (art. 17, al. 2) ; les normes et pratiques traditionnelles de protection des ressources s'appliquent aux résidents comme aux non-résidents, sauf disposition légale contraire (art. 20, al. 3) ; les droits nés de la coutume ont la même protection que ceux nés de la loi (art. 2, al. 3).", source: "https://faolex.fao.org/docs/pdf/gbs16728.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La terre est propriété de l'État (art. 2, al. 1) ; le droit d'usage privatif par usage coutumier est attribué à titre perpétuel et gratuit (art. 11, al. 2 ; art. 16, al. 2) et garanti par l'État sans contrat écrit ni enregistrement (art. 17, al. 4) ; les aires des communautés locales sont exclues des concessions (art. 22, al. 1) ; leur transmission à des tiers non résidents ni voisins exige l'accord exprès de l'État et des communautés (art. 19, al. 1) ; la délimitation officielle des aires est renvoyée à une législation propre (art. 15, al. 2) ; l'application de la loi à la partie insulaire du pays peut faire l'objet d'une réglementation propre (art. 50).", source: "https://faolex.fao.org/docs/pdf/gbs16728.pdf"}
+  ressources: {valeur: "partiel", note: "L'État reconnaît aux populations résidentes le droit de gestion et d'exploitation communautaire des terres, des forêts et des autres ressources naturelles selon les coutumes locales (art. 17, al. 3) ; l'aire de gestion inclut pâturages, ressources hydriques et maritimes et bois sacrés (art. 6, al. 4) ; les ressources géologiques sont exclues de la terre et renvoyées à une législation propre (art. 3 a et art. 51).", source: "https://faolex.fao.org/docs/pdf/gbs16728.pdf"}
+  consentement: {valeur: "partiel", note: "Les communautés locales donnent un avis (parecer) sur toute concession demandée dans leur aire délimitée, réputé favorable faute de réponse dans les 90 jours (art. 32, al. 3 c et al. 4 ; art. 44 c) ; le titre de concession mentionne cet avis (art. 34, al. 2 h) ; la demande est diffusée dans les deux langues maternes dominantes de la communauté et les communautés organisent la consultation publique lorsqu'elle est obligatoire (art. 33, al. 2 ; art. 44 d) ; les activités annoncées par un tiers ne peuvent être modifiées sans le consentement des populations concernées (art. 19, al. 3).", source: "https://faolex.fao.org/docs/pdf/gbs16728.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le produit de l'impôt foncier dû sur les concessions revient pour 20 % aux communautés locales (art. 40, al. 1 b), qui gèrent et administrent cette part (art. 44 e) ; les concessions de 5 hectares ou moins en sont exonérées (art. 41, al. 2).", source: "https://faolex.fao.org/docs/pdf/gbs16728.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "La loi renvoie la délimitation des aires communautaires à une législation propre (art. 15, al. 2) et à la Direction du service national de géographie et du cadastre (art. 46, al. 1 c) ; aucun texte de délimitation, aucun registre des communautés délimitées et aucune évaluation indépendante de l'application n'ont été trouvés.", source: "https://faolex.fao.org/docs/pdf/gbs16728.pdf"}
+chronologie:
+  - {annee: 1961, evenement: "Le décret colonial de 1961 limite les terres réservées aux populations locales aux cultures et aux zones d'habitation, sans les jachères ni les zones de cueillette (préambule de la loi n° 5/98)."}
+  - {annee: 1975, evenement: "La loi n° 4/75 nationalise la terre et l'intègre au domaine public de l'État."}
+  - {annee: 1998, evenement: "Loi n° 5/98, loi de la terre : approuvée le 6 mars, promulguée le 23 avril, publiée au Bulletin officiel n° 17 du 28 avril ; elle abroge le décret de 1961 et reconnaît l'usage coutumier des communautés locales."}
+  - {annee: 2015, evenement: "La stratégie nationale pour la biodiversité 2015-2020 transmise au secrétariat de la Convention sur la diversité biologique décrit la loi de la terre."}
+fiabilite:
+  verifie:
+    - "Texte de la loi n° 5/98 au Bulletin officiel n° 17, supplément, du 28 avril 1998 (FAOLEX) et transcription intégrale (didinho.org) : art. 2, 3 a et c, 6, 11, 15 à 20, 22, 32 à 34, 40, 41, 44, 46, 51 et 52."
+    - "Définition de la communauté locale (art. 3 c) : entité coutumière de base territoriale formée des familles et individus résidant dans une tabanca ou un ensemble de tabancas."
+    - "Répartition de l'impôt foncier : 60 % au Trésor public, 20 % aux communautés locales, 10 % aux autorités administratives, 10 % aux commissions foncières (art. 40, al. 1)."
+    - "Mention de la loi n° 5/98 dans la stratégie nationale pour la biodiversité 2015-2020 (section 3.1.6.3)."
+  non_confirme:
+    - "Le règlement général de la loi, signalé comme promulgué en 2018, n'a pas été consulté ; sa référence, son contenu et son effet sur la délimitation des aires communautaires restent à vérifier. La transcription de didinho.org reproduit des barèmes qui renvoient à un « art. 86 du règlement », sans date."
+    - "Le nombre de communautés locales délimitées ou enregistrées, la surface concernée et la population ne sont établis par aucune source trouvée ; aucune liste officielle des sites n'a été trouvée."
+    - "La forme des institutions représentatives des communautés locales (régulos, chefs de tabanca, comités) et la mise en place des commissions foncières n'ont pas été vérifiées."
+sources:
+  - {titre: "Loi n° 5/98, loi de la terre, Bulletin officiel de la République de Guinée-Bissau n° 17, supplément, 28 avril 1998 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gbs16728.pdf"}
+  - {titre: "Lei da Terra n.º 5/98 — transcription intégrale, didinho.org", url: "https://didinho.org/Arquivo/Lei%20da%20Terra.htm"}
+  - {titre: "Stratégie et plan d'action nationaux pour la biodiversité 2015-2020 de la Guinée-Bissau — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/gw/gw-nbsap-v2-en.pdf"}

@@ -1,0 +1,63 @@
+uid: "kordofan-sud-nil-bleu-soudan"
+nom: "Kordofan du Sud (monts Nouba) et Nil Bleu"
+endonyme: ""
+territoire: "États du Kordofan du Sud (monts Nouba) et du Nil Bleu, dits « Deux Zones »"
+etats: ["Soudan"]
+region: "afrique"
+coord: [11.0, 29.7]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2087746, annee: 2025, perimetre: "projection au 1er juillet 2025 de la population des États du Nil Bleu (923 428) et du Kordofan du Sud (1 164 318), mise à jour COD-PS 2025 (jeu de données de population commun aux opérations humanitaires) du FNUAP, établie à partir du recensement de 2008 et intégrant les déplacements internes (OIM) et les réfugiés (HCR) ; hors Kordofan de l'Ouest", source: "https://data.humdata.org/dataset/cod-ps-sdn"}
+lieux: {valeur: 24, unite: "localités (mahaliyat, circonscriptions administratives) : 7 au Nil Bleu, 17 au Kordofan du Sud", annee: 2024, source: "https://data.humdata.org/dataset/cod-ps-sdn"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le Kordofan du Sud, qui comprend les monts Nouba, et le Nil Bleu sont deux États du sud du Soudan, frontaliers du Soudan du Sud et, pour le Nil Bleu, de l'Éthiopie. L'accord de Djouba pour la paix au Soudan du 3 octobre 2020, signé par le gouvernement de transition et le Mouvement populaire de libération du Soudan-Nord (SPLM-N) dirigé par Malik Agar, accorde aux « Deux Zones » une autonomie exercée par 61 compétences exclusives, dont le droit de légiférer et d'adopter une constitution d'État, et 40 % des recettes tirées des ressources naturelles et des impôts pendant dix ans. Le décret constitutionnel n° 9 de 2021 du président du Conseil de souveraineté accorde l'autonomie prévue par l'accord. La faction du SPLM-N dirigée par Abdelaziz al-Hilu, implantée au Kordofan du Sud, n'a pas signé l'accord, et la guerre ouverte en avril 2023 rend l'application du régime incertaine.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "accord_sous_egide", detail: "Résolution 2579 (2021) du Conseil de sécurité : salue la signature de l'Accord de paix de Djouba le 3 octobre 2020 et les mesures prises pour l'appliquer, et charge la MINUATS de soutenir son exécution et la consolidation de la paix « au Darfour et dans les Deux Zones » ; l'ONU figure parmi les témoins signataires de l'accord", annee: 2021, source: "https://documents.un.org/api/symbol/access?s=S/RES/2579(2021)&l=fr&t=pdf"}
+  - {mecanisme: "mission_onu", detail: "Mission intégrée des Nations Unies pour l'assistance à la transition au Soudan (MINUATS, 2020-2024), mandatée pour soutenir l'application de l'accord de Djouba ; ses rapports suivent la situation des Deux Zones du Kordofan méridional et du Nil-Bleu", annee: 2021, source: "https://documents.un.org/api/symbol/access?s=S/2023/861&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Accord de Djouba pour la paix au Soudan, titre 3 (volet des Deux Zones), chapitre 3 : accord sur les questions politiques, art. 7-113", nature: "accord_paix", annee: 2020, source: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
+  - {instrument: "Décret constitutionnel n° 9 de 2021 du président du Conseil de souveraineté de transition accordant l'autonomie au Nil Bleu et au Kordofan du Sud (et, selon le ministère du Gouvernement fédéral, au Kordofan de l'Ouest)", nature: "statut_autonomie", annee: 2021, source: "https://www.altaghyeer.info/en/2021/06/22/sudan-blue-nile-and-south-kordofan-autonomy-doubles-risk-of-fragile-transition/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Accord de Djouba, titre 3, chap. 3, art. 8 et 26-28 : autonomie des Deux Zones, avec gouverneur, conseil des ministres et conseil législatif d'État ; le gouverneur et les membres du conseil législatif sont nommés par consensus des parties signataires (art. 32, 52-53), et non élus.", source: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
+  pouvoir_normatif: {valeur: "partiel", note: "Accord de Djouba, titre 3, chap. 3, art. 9.1-9.2 et 36-39 : droit de rédiger et d'adopter une constitution d'État et de légiférer sur les 61 compétences exclusives, sur la base de la Constitution de 1973 (amendée en 1974), sans contredire la constitution nationale.", source: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
+  justice_propre: {valeur: "partiel", note: "Accord de Djouba, titre 3, chap. 3, art. 44-47 : autorité judiciaire d'État appliquant le droit national et le droit de l'État, organisée « selon les normes nationales » ; art. 9.37 : compétence exclusive pour « protéger les traditions et le droit coutumier ».", source: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
+  terres: {valeur: "partiel", note: "Accord de Djouba, titre 3, chap. 3, art. 9.4 et 9.24 : gestion des terres et des ressources de l'État ; art. 84.2 : commission foncière d'État chargée de réviser les attributions de terres et de restituer les terres expropriées, en coordination avec la commission foncière nationale.", source: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
+  ressources: {valeur: "partiel", note: "Accord de Djouba, titre 3, chap. 3, art. 16.1 : 40 % des revenus des ressources naturelles et des impôts perçus dans l'État reviennent à l'État pendant dix ans ; art. 9.59 et 9.61 : pêche et forêts en compétence exclusive ; ressources naturelles en compétence partagée (art. 10.24).", source: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
+  consentement: {valeur: "partiel", note: "Accord de Djouba, titre 3, chap. 2, art. 37.1 : les questions foncières sont traitées « avec la participation effective des communautés locales » ; art. 37.2 : les parties s'engagent à inscrire dans la constitution que les projets nationaux touchant les terres des Deux Zones seront conçus « en consultation et en accord » avec leurs autorités ; chap. 3, art. 84.2.4 : carte d'usage des terres établie avec la participation des communautés locales.", source: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
+  langue: {valeur: "partiel", note: "Accord de Djouba, titre 3, chap. 3, art. 9.7-9.8 : instituts d'enseignement des langues autochtones et organe chargé de promouvoir les langues des Deux Zones ; aucun statut de langue officielle n'est prévu.", source: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
+  education: {valeur: "partiel", note: "Accord de Djouba, titre 3, chap. 3, art. 9.13 et 9.46 : planification des services d'éducation et formation professionnelle en compétence exclusive de l'État.", source: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
+  fiscalite: {valeur: "partiel", note: "Accord de Djouba, titre 3, chap. 3, art. 9.16-9.17, 13 et 14 : impôts d'État (revenu, bénéfices, ventes, licences), budget propre et décentralisation budgétaire ; les droits de douane, la TVA et les impôts nationaux restent au gouvernement central (art. 11.19, 11.32, 11.41).", source: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
+  representation: {valeur: "partiel", note: "Accord de Djouba, titre 3, chap. 3, art. 50.2-50.5 : juges et membres issus des Deux Zones à la Cour constitutionnelle et dans les conseils judiciaires nationaux ; art. 72 : quotas dans la fonction publique nationale (5 % pour le Kordofan du Sud, 3,2 % pour le Nil Bleu) pendant dix ans.", source: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Le 14 juin 2021, un gouverneur a été nommé au Nil Bleu (rapport S/2021/766). En août-octobre 2023, la faction al-Hilu du SPLM-N, non signataire, et l'armée soudanaise s'affrontent autour de Kadougli, Dilling et Abou Kerchola ; faute de personnel judiciaire, un seul juge supervise le système judiciaire à Kadougli (rapport S/2023/861).", source: "https://documents.un.org/api/symbol/access?s=S/2023/861&l=fr&t=pdf"}
+chronologie:
+  - {annee: 2011, evenement: "Reprise du conflit armé entre l'armée soudanaise et le SPLM-N au Kordofan du Sud (juin), puis au Nil Bleu (septembre), l'année de l'indépendance du Soudan du Sud."}
+  - {annee: 2020, evenement: "3 octobre : signature à Djouba de l'accord de paix, dont le volet des Deux Zones, avec le SPLM-N dirigé par Malik Agar."}
+  - {annee: 2021, evenement: "28 mars : déclaration de principes entre le gouvernement et la faction al-Hilu du SPLM-N."}
+  - {annee: 2021, evenement: "Décret constitutionnel n° 9 de 2021 accordant l'autonomie au Nil Bleu et au Kordofan du Sud ; 14 juin : nomination d'un gouverneur au Nil Bleu."}
+  - {annee: 2023, evenement: "Avril : début de la guerre entre l'armée et les Forces d'appui rapide ; affrontements entre l'armée et la faction al-Hilu au Kordofan du Sud."}
+fiabilite:
+  verifie:
+    - "Texte officiel anglais de l'accord de Djouba (titre 3, chap. 3) : art. 7 (définition des Deux Zones), art. 8 (autonomie), art. 9.1-9.61 (61 compétences exclusives), art. 16.1 (40 % pendant dix ans), art. 26-50 (institutions), art. 72 (quotas), art. 84 (commission foncière)."
+    - "L'accord inclut le Kordofan de l'Ouest dans les arrangements politiques et le partage du pouvoir et des richesses, tant que la frontière avec le Kordofan du Sud n'est pas fixée (art. 7.3)."
+    - "Population : mise à jour COD-PS 2025 du FNUAP (date de référence 1er juillet 2025), fichiers sdn_admpop_adm1_2025 et adm2_2025 ; 7 localités au Nil Bleu et 17 au Kordofan du Sud."
+    - "Résolution 2579 (2021) du Conseil de sécurité saluant l'accord et mentionnant les Deux Zones ; rapports S/2021/766 et S/2023/861 du Secrétaire général."
+    - "Décret constitutionnel n° 9 de 2021 rapporté par Altaghyeer (22 juin 2021), fondé sur l'art. 8 du chap. 3 de l'accord."
+  non_confirme:
+    - "Texte du décret n° 9 de 2021 non consulté ; sa date exacte reste à vérifier."
+    - "Mise en place effective des conseils législatifs d'État et adoption de constitutions d'État : aucune source trouvée."
+    - "Surface des deux États : aucune source officielle ouverte."
+    - "Statut de l'accord après le coup d'État d'octobre 2021 et pendant la guerre ouverte en avril 2023."
+sources:
+  - {titre: "Juba Agreement for Peace in Sudan — version officielle anglaise (PA-X, Université d'Édimbourg)", url: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
+  - {titre: "Zaid Al-Ali, The Juba Agreement for Peace in Sudan: Summary and Analysis, International IDEA, 2021", url: "https://www.idea.int/sites/default/files/publications/the-juba-agreement-for-peace-in-sudan-en.pdf"}
+  - {titre: "Sudan: Blue Nile and South Kordofan autonomy doubles risk of fragile transition — Altaghyeer, 22 juin 2021", url: "https://www.altaghyeer.info/en/2021/06/22/sudan-blue-nile-and-south-kordofan-autonomy-doubles-risk-of-fragile-transition/"}
+  - {titre: "Conseil de sécurité, résolution 2579 (2021)", url: "https://documents.un.org/api/symbol/access?s=S/RES/2579(2021)&l=fr&t=pdf"}
+  - {titre: "Rapport du Secrétaire général sur la situation au Soudan et la MINUATS, S/2021/766", url: "https://documents.un.org/api/symbol/access?s=S/2021/766&l=fr&t=pdf"}
+  - {titre: "Rapport du Secrétaire général sur la situation au Soudan et la MINUATS, S/2023/861", url: "https://documents.un.org/api/symbol/access?s=S/2023/861&l=fr&t=pdf"}
+  - {titre: "Sudan — Subnational Population Statistics (COD-PS), OCHA / Bureau central de statistique", url: "https://data.humdata.org/dataset/cod-ps-sdn"}

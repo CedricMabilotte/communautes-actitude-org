@@ -1,0 +1,48 @@
+uid: "terres-communautaires-soudan-du-sud"
+nom: "Terres communautaires du Soudan du Sud"
+endonyme: ""
+territoire: "Terres communautaires et terres sous tenure coutumière de l'ensemble du Soudan du Sud"
+etats: ["Soudan du Sud"]
+region: "afrique"
+coord: [7.0, 30.0]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "terres communautaires enregistrées", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés du Soudan du Sud titulaires de terres communautaires au sens de la loi foncière de 2009 (Land Act, 2009) et de l'article 171 de la Constitution transitoire de 2011 (révisée en 2013). La loi classe toutes les terres en publiques, communautaires ou privées (s. 9) ; la terre communautaire est détenue par des communautés identifiées par l'ethnicité, la résidence ou l'intérêt (s. 11). Les droits fonciers coutumiers, y compris ceux détenus en commun, ont la même force juridique qu'une propriété ou un bail (s. 8 (6)). L'autorité traditionnelle (Traditional Authority, l'instance des chefs coutumiers reconnue par la Constitution, art. 167) attribue et retire les droits coutumiers au nom de la communauté (s. 15 et 16). Le nombre de terres communautaires enregistrées n'est pas établi.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution transitoire de la République du Soudan du Sud de 2011, révisée en 2013 : art. 5 (coutumes et traditions comme source de la législation), art. 167 et 168 (autorité traditionnelle), art. 171 (régime foncier, terres communautaires)", nature: "constitution", annee: 2011, source: "https://www.constituteproject.org/constitution/South_Sudan_2013?lang=en"}
+  - {instrument: "Loi foncière de 2009 (Land Act, 2009), adoptée par l'Assemblée législative du Sud-Soudan ; s. 5, 6, 8, 9, 11, 15, 16, 27, 45, 49, 58, 60, 63, 66, 67, 91, 92 et 94", nature: "loi", annee: 2009, source: "https://faolex.fao.org/docs/pdf/ssd181072.pdf"}
+  - {instrument: "Droit coutumier foncier des communautés, reconnu comme partie du système normatif de la régulation foncière (Land Act, 2009, s. 5 (c) et 91 (2))", nature: "coutume_reconnue", annee: 2009, source: "https://faolex.fao.org/docs/pdf/ssd181072.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La Constitution de 2011 reconnaît l'institution, le statut et le rôle de l'autorité traditionnelle selon le droit coutumier (art. 167) ; la loi foncière de 2009 la définit comme l'instance par laquelle les chefs exercent des pouvoirs coutumiers au nom de la communauté (s. 4) et lui confie l'attribution et le retrait des droits fonciers coutumiers (s. 15 et 16). Toute attribution est notifiée à l'administration foncière du comté ou du payam (circonscription infra-communale) et toute attribution de plus de 250 feddans (environ 105 hectares) est approuvée par le ministère de l'État fédéré (s. 15 (3) et (5)).", source: "https://faolex.fao.org/docs/pdf/ssd181072.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La loi foncière de 2009 reconnaît le droit coutumier foncier des communautés comme partie du système normatif de la régulation foncière, dans la mesure où il est conforme à la Constitution et aux lois (s. 5 (c)) ; la Constitution de 2011 range les coutumes et traditions parmi les sources de la législation (art. 5). Les autorités traditionnelles appliquent ce droit sans pouvoir d'édicter des lois.", source: "https://faolex.fao.org/docs/pdf/ssd181072.pdf"}
+  justice_propre: {valeur: "partiel", note: "Pour les différends fonciers, la loi de 2009 donne la priorité aux modes de règlement hors du système judiciaire et aux mécanismes traditionnels, et le droit coutumier du lieu s'applique (s. 91) ; le médiateur peut être choisi parmi les membres de l'autorité traditionnelle (s. 92), et les parties peuvent demander l'arbitrage de l'autorité traditionnelle (s. 94). La Constitution de 2011 dispose que les tribunaux appliquent le droit coutumier dans le respect de la Constitution et de la loi (art. 167 (3)).", source: "https://faolex.fao.org/docs/pdf/ssd181072.pdf"}
+  terres: {valeur: "partiel", note: "La terre communautaire comprend toutes les terres détenues ou utilisées traditionnellement et historiquement par des communautés locales (art. 171 de la Constitution) ; elle est détenue par des communautés identifiées par l'ethnicité, la résidence ou l'intérêt (s. 11 de la loi de 2009), et peut être enregistrée au nom de la communauté, d'un clan, d'une famille, d'une association ou d'un chef en fiducie avec le consentement des membres (s. 58). La tenure coutumière assure la sécurité d'occupation, individuelle ou collective (s. 8 (3)). Limites : le sous-sol appartient au gouvernement national, et un bail de plus de 250 feddans sur la terre communautaire, pour une durée de 99 ans au plus, est approuvé par le ministère de l'État fédéré (s. 27).", source: "https://faolex.fao.org/docs/pdf/ssd181072.pdf"}
+  ressources: {valeur: "partiel", note: "La terre communautaire inclut les forêts communautaires, les terres de culture, de pâturage et les sanctuaires (s. 11 (2) (b) de la loi de 2009) ; les mares, cours d'eau et marais gérés traditionnellement par une communauté sont exclus des terres publiques (s. 10 (2) (f) (iii)) ; les droits de pâturage sur les terres de pâturage communales sont protégés (s. 67). Les ressources du sous-sol appartiennent au gouvernement national (art. 171 de la Constitution ; s. 6 (6) de la loi) ; les communautés sont consultées sur leur exploitation et partagent les bénéfices (s. 6 (7)).", source: "https://faolex.fao.org/docs/pdf/ssd181072.pdf"}
+  consentement: {valeur: "partiel", note: "Les communautés et personnes titulaires de droits fonciers sont consultées sur les décisions qui touchent leurs droits sur les terres et les ressources (art. 171 de la Constitution de 2011). Pour un investissement, les ministères et l'Autorité de l'investissement consultent la communauté et prennent en compte son avis (s. 63 (3) de la loi de 2009) ; un bail de plus de 250 feddans exige que les membres de la communauté aient été consultés (s. 27 (4) (c)). L'autorité traditionnelle ne peut recommander un bail sur la terre communautaire qu'avec le consensus des membres de la communauté (s. 27 (1)). Face à l'État et aux investisseurs, la loi prévoit une consultation, pas un consentement.", source: "https://faolex.fao.org/docs/pdf/ssd181072.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le profil foncier du Soudan du Sud publié par l'agence américaine de développement (USAID, 2013), le droit coutumier propre à chaque groupe régit l'usage des terres et des ressources, mais la loi ne fixe pas de procédure claire pour créer les autorités foncières de comté et les conseils fonciers de payam, et très peu ont été créés ; malgré les lacunes du cadre institutionnel et légal, des investisseurs étrangers ont acquis de grandes surfaces.", source: "https://www.land-links.org/country-profile/south-sudan/"}
+chronologie:
+  - {annee: 2005, evenement: "La Constitution intérimaire du Sud-Soudan, issue de l'accord de paix global, sert de base à la loi foncière."}
+  - {annee: 2009, evenement: "Adoption de la loi foncière (Land Act, 2009) par l'Assemblée législative du Sud-Soudan, en février."}
+  - {annee: 2011, evenement: "Indépendance du Soudan du Sud ; la Constitution transitoire reconnaît l'autorité traditionnelle et la terre communautaire."}
+  - {annee: 2013, evenement: "Révision de la Constitution transitoire."}
+fiabilite:
+  verifie: ["Texte de la loi foncière de 2009, s. 4, 5, 6, 8, 9, 10, 11, 15, 16, 27, 45, 49, 58, 60, 63, 66, 67, 91, 92 et 94 (FAOLEX).", "Art. 5, 167, 168 et 171 de la Constitution transitoire de 2011 révisée en 2013 (Constitute Project)."]
+  non_confirme: ["Date exacte de signature de la loi foncière : « février 2009 » d'après le profil USAID ; le texte FAOLEX ne porte pas de date.", "Loi de 2009 sur les collectivités locales (Local Government Act, 2009) et ses tribunaux coutumiers : texte non consulté, non retenu dans la fiche.", "Politique foncière nationale : état d'adoption non vérifié.", "Nombre de terres communautaires enregistrées, surface et population concernées : aucune source publique trouvée, d'où l'absence de tableau des sites.", "Aucun document de l'ONU visant ce régime n'a été vérifié.", "La source d'effectivité date de 2013 et précède la guerre civile de 2013-2018 ; aucune source plus récente n'a été vérifiée."]
+sources:
+  - {titre: "Land Act, 2009 — Laws of Southern Sudan (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/ssd181072.pdf"}
+  - {titre: "Constitution transitoire du Soudan du Sud, 2011 (rév. 2013) — Constitute Project", url: "https://www.constituteproject.org/constitution/South_Sudan_2013?lang=en"}
+  - {titre: "South Sudan — Land Tenure and Property Rights Profile, USAID (2013) — LandLinks", url: "https://www.land-links.org/country-profile/south-sudan/"}
