@@ -1,0 +1,65 @@
+uid: "communautes-juives-grece"
+nom: "Communautés juives de Grèce"
+endonyme: "Ισραηλιτικές Κοινότητες Ελλάδος"
+territoire: "Grèce : communautés d'Athènes, Thessalonique, Larissa, Volos, Chalcis, Ioannina, Trikala et Corfou ; communautés en sommeil de Rhodes et Karditsa"
+etats: ["Grèce"]
+region: "europe"
+coord: [38.0, 23.7]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 5500, annee: null, perimetre: "Juifs vivant en Grèce, estimation du Conseil central israélite de Grèce (KIS) arrondie et non datée sur la page consultée en 2026 ; le Congrès juif européen donne environ 5 000 personnes", source: "https://en.kis.gr/index.php/home/istoriko"}
+lieux: {valeur: 8, unite: "communautés israélites en activité (personnes morales de droit public), hors communautés en sommeil de Rhodes et Karditsa", annee: null, source: "https://en.kis.gr/index.php/home/istoriko"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi 2456/1920 sur les communautés israélites fait de chaque communauté juive de Grèce une personne morale de droit public (organisme public doté de la personnalité juridique), habilitée à percevoir les cotisations de ses membres et à fonder des écoles.
+  Le règlement intérieur de chaque communauté est approuvé par décret présidentiel (art. 17 de la loi de 1920) ; à Ioannina, l'assemblée des membres élit un conseil d'administration. Les communautés relèvent de la tutelle du ministère de l'Éducation et des Cultes.
+  Le Conseil central israélite de Grèce (KIS), créé en 1945 pour reconstituer les communautés après la Shoah, coordonne huit communautés en activité.
+  La loi 4301/2014 sur la forme juridique des communautés religieuses maintient ce régime particulier (art. 16). La minorité musulmane fait l'objet de la fiche « Musulmans de Thrace occidentale ».
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi 2456/1920 sur les communautés israélites (FEK A 173/1920)", nature: "loi", annee: 1920, source: "https://www.ipaideia.gr/paideia/12-01-15-anakoinosi-genikou-gramatea-thriskeumaton-k-g-kalantzi/"}
+  - {instrument: "Loi de nécessité (acte législatif pris par le gouvernement) 367/1945 (FEK A 143/1945) sur la reconstitution des communautés israélites et la création du Conseil central israélite ; loi 1657/1951 (Conseil rendu permanent) ; décret-loi 301/1969 (Conseil reconnu personne morale de droit public depuis 1945)", nature: "loi", annee: 1945, source: "https://www.ipaideia.gr/paideia/12-01-15-anakoinosi-genikou-gramatea-thriskeumaton-k-g-kalantzi/"}
+  - {instrument: "Loi 4301/2014 sur l'organisation de la forme juridique des communautés religieuses et de leurs unions, art. 16 (maintien des régimes particuliers, dont celui des communautés israélites)", nature: "loi", annee: 2014, source: "https://www.e-nomothesia.gr/kat-thriskeia/n-4301-2014.html"}
+  - {instrument: "Décret présidentiel 67/2017 approuvant la modification du règlement intérieur de la communauté israélite d'Ioannina, pris en application de l'art. 17 de la loi 2456/1920", nature: "loi", annee: 2017, source: "https://www.lawspot.gr/nomothesia/proedriko-diatagma-67-2017/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Communautés constituées en personnes morales de droit public par la loi 2456/1920 ; à Ioannina, l'assemblée communautaire, formée de tous les membres ayant 18 ans révolus, élit pour trois ans un conseil d'administration de cinq membres, citoyens grecs âgés d'au moins 25 ans (règlement intérieur, art. 14, 17 et 30, modifiés par le décret présidentiel 67/2017) ; la modification, proposée par l'assemblée, est approuvée par décret après avis du Conseil d'État (n° 49/2017), et le décret présidentiel 353/1997 maintient la tutelle du ministère de l'Éducation sur les personnes morales de droit public de son ressort.", source: "https://www.lawspot.gr/nomothesia/proedriko-diatagma-67-2017/"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les communautés, personnes morales de droit public (loi 2456/1920), possèdent des immeubles, imposés comme ceux de l'Église de Grèce, les synagogues étant exonérées (communiqué du secrétaire général aux Cultes, 2015) ; la loi de nécessité 846/1946 a attribué les biens des Juifs morts sans héritiers à une personne morale distincte, l'Organisme d'assistance et de réhabilitation des Israélites de Grèce (OPAIE, décret du 29 mars 1949). Il s'agit de biens cultuels et patrimoniaux, sans territoire.", source: "https://www.ipaideia.gr/paideia/12-01-15-anakoinosi-genikou-gramatea-thriskeumaton-k-g-kalantzi/"}
+  ressources: {valeur: "non_applicable", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "La loi 2456/1920 reconnaît aux communautés le droit de fonder des écoles israélites ; selon le secrétaire général aux Cultes (2015), deux écoles primaires israélites fonctionnent à Athènes et à Thessalonique aux frais des communautés, avec des enseignants publics détachés (lois 3194/2003, 3577/2007 et 4071/2012), et l'école primaire juive de Larissa est une école publique.", source: "https://www.ipaideia.gr/paideia/12-01-15-anakoinosi-genikou-gramatea-thriskeumaton-k-g-kalantzi/"}
+  fiscalite: {valeur: "partiel", note: "Loi 2456/1920, art. 4 : les communautés peuvent percevoir des cotisations de leurs membres (« petsia ») qu'elles fixent elles-mêmes ; le décret présidentiel 182/1978 (règlement de la communauté d'Athènes) range ces cotisations parmi les ressources de la communauté ; la loi 1657/1951 autorise le KIS, par décision des deux tiers de ses membres, à prélever une contribution sur les revenus des communautés ; l'État ne finance pas les communautés et ces cotisations ne remplacent pas l'impôt.", source: "https://www.ipaideia.gr/paideia/12-01-15-anakoinosi-genikou-gramatea-thriskeumaton-k-g-kalantzi/"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Un mémoire de l'université de Macédoine (2011) décrit la communauté de Thessalonique comme personne morale de droit public régie par la loi 2456/1920, sous la tutelle du ministère de l'Éducation, dont le conseil d'administration nomme des commissions (cimetière, synagogues, école, assistance, gestion des immeubles) et qui soumet son budget et ses comptes à l'approbation de l'État ; l'assemblée communautaire d'Ioannina s'est réunie le 9 décembre 2015 pour proposer la modification de son règlement, approuvée par le décret présidentiel 67/2017.", source: "https://www.jct.gr/Ioannidou1.pdf"}
+chronologie:
+  - {annee: 1882, evenement: "Loi AIG'/1882 : écoles israélites financées par l'État dans les territoires rattachés à la Grèce."}
+  - {annee: 1914, evenement: "Loi 147/1914 : le mariage des personnes de religion juive ou musulmane relève de la loi religieuse dans les nouveaux territoires."}
+  - {annee: 1920, evenement: "Loi 2456/1920 : les communautés israélites deviennent des personnes morales de droit public."}
+  - {annee: 1940, evenement: "Loi de nécessité 2544/1940 : maintien du statut de droit public, avec modification de la désignation des organes de direction."}
+  - {annee: 1944, evenement: "Loi 2/1944 : restitution aux propriétaires des biens juifs confisqués sous l'Occupation."}
+  - {annee: 1945, evenement: "Loi de nécessité 367/1945 : reconstitution des communautés et création du Conseil central israélite (KIS)."}
+  - {annee: 1946, evenement: "Loi d'introduction du Code civil, art. 6 : abrogation, pour les Grecs de confession juive, de la compétence de la loi religieuse en matière de mariage ; loi de nécessité 846/1946 : l'État renonce aux successions juives sans héritiers."}
+  - {annee: 1951, evenement: "Loi 1657/1951 : le KIS devient permanent."}
+  - {annee: 1969, evenement: "Décret-loi 301/1969 : le KIS est reconnu personne morale de droit public depuis 1945."}
+  - {annee: 1978, evenement: "Décret présidentiel 182/1978 : règlement de la communauté israélite d'Athènes."}
+  - {annee: 2014, evenement: "Loi 4301/2014, art. 16 : maintien du régime des communautés israélites."}
+  - {annee: 2017, evenement: "Décret présidentiel 67/2017 : modification du règlement de la communauté d'Ioannina (assemblée de tous les membres de 18 ans, conseil de cinq membres élu pour trois ans)."}
+fiabilite:
+  verifie: ["Communiqué du secrétaire général aux Cultes du 12 janvier 2015 (reproduit par iPaideia) : lois AIG'/1882, 2456/1920 (art. 4), 2544/1940, 2/1944, 367/1945, 846/1946, 1657/1951, décret-loi 301/1969, décret présidentiel 182/1978, écoles d'Athènes, Thessalonique et Larissa.", "Factchecker.gr (2025) cite l'art. 5 du décret présidentiel 182/1978 : cotisation annuelle obligatoire pour les membres de la communauté d'Athènes ayant 21 ans révolus.", "Décret présidentiel 67/2017 (texte Lawspot) : visa de l'art. 17 de la loi 2456/1920 et du décret présidentiel 353/1997, art. 14, 17 et 30 du règlement d'Ioannina.", "Loi 4301/2014, art. 16 (texte e-nomothesia).", "CEDH, Molla Sali c. Grèce, 2018, § 40-41 et 147 : abrogation en 1946 de la loi religieuse en matière de mariage pour les Grecs de confession juive.", "Page historique du KIS : environ 5 500 personnes, huit communautés en activité, deux en sommeil.", "Mémoire Ioannidou (université de Macédoine, 2011) : statut et organisation de la communauté de Thessalonique, approbation de son budget et de ses comptes par l'État."]
+  non_confirme: ["Texte primaire de la loi 2456/1920 (FEK A 173/1920) et de la loi de nécessité 367/1945 : non consultés ; contenu connu par le communiqué ministériel de 2015 et par les visas du décret présidentiel 67/2017.", "Approbation des budgets et comptes par l'État : rapportée pour la seule communauté de Thessalonique par un mémoire universitaire ; texte réglementaire non consulté.", "Nombre de communautés : le KIS en indique huit en activité, le Congrès juif européen neuf.", "Désignation des conseils des autres communautés : la loi de nécessité 2544/1940 a modifié le mode de désignation des organes de direction ; règles en vigueur hors Ioannina non consultées.", "Composition et mode de désignation du conseil du KIS : non trouvés dans une source ouverte.", "Aucun document d'un organe de l'ONU ou du Conseil de l'Europe visant le régime des communautés israélites n'a été trouvé ; la Grèce n'a pas ratifié la Convention-cadre pour la protection des minorités nationales.", "Les règlements intérieurs des communautés, approuvés par décret, n'ont pas été classés comme pouvoir normatif : ils régissent l'organisation interne et restent soumis à l'approbation de l'État."]
+sources:
+  - {titre: "Communiqué du secrétaire général aux Cultes G. Kalantzis (12 janvier 2015) — iPaideia", url: "https://www.ipaideia.gr/paideia/12-01-15-anakoinosi-genikou-gramatea-thriskeumaton-k-g-kalantzi/"}
+  - {titre: "Décret présidentiel 67/2017, règlement intérieur de la communauté israélite d'Ioannina — Lawspot", url: "https://www.lawspot.gr/nomothesia/proedriko-diatagma-67-2017/"}
+  - {titre: "Loi 4301/2014 sur la forme juridique des communautés religieuses — e-nomothesia", url: "https://www.e-nomothesia.gr/kat-thriskeia/n-4301-2014.html"}
+  - {titre: "Conseil central israélite de Grèce (KIS) — History", url: "https://en.kis.gr/index.php/home/istoriko"}
+  - {titre: "Congrès juif européen — Greece", url: "https://eurojewcong.org/_communities/greece/"}
+  - {titre: "Molla Sali c. Grèce, Grande Chambre, 19 décembre 2018 — HUDOC", url: "https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=001-188985&filename=001-188985.pdf"}
+  - {titre: "Factchecker.gr — Il n'est pas vrai que les Juifs ne paient pas d'impôts (2025)", url: "https://www.factchecker.gr/2025/11/24/not-true-that-the-jewish-community-doesnt-pay-taxes-in-greece/"}
+  - {titre: "Ioannidou, mémoire sur l'école juive de Thessalonique — université de Macédoine", url: "https://www.jct.gr/Ioannidou1.pdf"}

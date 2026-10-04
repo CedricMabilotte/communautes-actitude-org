@@ -43,7 +43,7 @@ chronologie:
   - {annee: 2007, evenement: "Les Philippines votent pour la Déclaration des Nations unies sur les droits des peuples autochtones."}
 fiabilite:
   verifie: ["Sections 5, 7, 11, 13, 15, 16, 30, 40, 57, 59 et 65 de l'IPRA (texte sur Lawphil).", "Vote des Philippines sur la résolution 61/295 (A/61/PV.107).", "Confirmation de la loi par la Cour suprême en 2000 (E/CN.4/2003/90/Add.3, § 12).", "Observations du Comité des droits de l'homme de 2022."]
-  non_confirme: ["Nombre de titres de domaine ancestral délivrés et superficie couverte : pas de donnée officielle consultée.", "Population autochtone : estimation IWGIA de 10 à 20 % seulement, sans recensement ethnique officiel consulté.", "Articulation avec le code des peuples autochtones de la région bangsamoro pour les peuples non moro."]
+  non_confirme: ["Nombre de titres de domaine ancestral délivrés et superficie couverte : pas de donnée officielle consultée.", "Population autochtone : estimation IWGIA de 10 à 20 % seulement, sans recensement ethnique officiel consulté.", "Articulation avec le code des peuples autochtones de la région bangsamoro pour les peuples non moro.", "Tableau des titres de domaine ancestral (CADT) non établi : la liste officielle de la NCIP publiée sur le portail FOI (« List of Approved Certificate of Ancestral Domain Titles 23-25 ») n'a pas pu être ouverte (accès refusé, octobre 2026)."]
 sources:
   - {titre: "Republic Act No. 8371 (IPRA) — Lawphil", url: "https://lawphil.net/statutes/repacts/ra1997/ra_8371_1997.html"}
   - {titre: "Constitution des Philippines de 1987 — Lawphil", url: "https://lawphil.net/consti/cons1987.html"}

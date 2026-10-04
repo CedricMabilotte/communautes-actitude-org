@@ -1,0 +1,61 @@
+uid: "jlumaltik-candelaria"
+nom: "Jlumaltik Candelaria (Tsotsil)"
+endonyme: "Jlumaltik Candelaria"
+territoire: "Communauté et ejido (propriété agraire collective) de La Candelaria, municipalité de San Cristóbal de las Casas, État du Chiapas"
+etats: ["Mexique"]
+region: "ameriques"
+coord: [16.7, -92.5]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1541, annee: 2020, perimetre: "population de la localité de La Candelaria, municipalité de San Cristóbal de las Casas (recensement INEGI 2020)", source: "https://gaia.inegi.org.mx/wscatgeo/v2/localidades/07/078"}
+lieux: {valeur: 1, unite: "localité (INEGI)", annee: 2020, source: "https://gaia.inegi.org.mx/wscatgeo/v2/localidades/07/078"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Candelaria est une communauté tsotsil située à environ 12 km à l'est de San Cristóbal de las Casas, au Chiapas. Son assemblée décide en novembre 2021 de demander la reconnaissance de son gouvernement communautaire, le Jlumaltik Candelaria, puis élit en août 2023 un collège de 13 autorités (Tsomvanejetik taj jLumaltik Candelaria, « coordinateurs de la communauté ») qui remplace les agents municipaux. Le 1er avril 2024, le conseil municipal (cabildo) de San Cristóbal de las Casas reconnaît cette structure, lui transfère les fonctions du gouvernement municipal et autorise le ministère des Finances de l'État à lui verser la part proportionnelle du budget municipal ; le ministère refuse le versement le 30 septembre 2024. Le 26 février 2026, la Cour suprême de justice de la Nation accorde l'amparo (recours en protection des droits constitutionnels) à la communauté et ordonne de garantir son autogouvernement et la remise des ressources qui lui reviennent dans un délai de 90 jours. Voir aussi les fiches « Oxchuc (Tseltal) » et « Tribunaux de paix et de conciliation autochtones du Chiapas ».
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Le Mexique ratifie la Convention 169 de l'OIT le 5 septembre 1990 ; le projet d'arrêt 344/2025 de la Cour suprême cite notamment ses articles 6, 7 et 8.", annee: 1990, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "Le Mexique vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295) ; le projet d'arrêt 344/2025 en cite les articles 3, 4, 5, 18, 20 et 35.", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Constitution politique des États-Unis mexicains, art. 2 (réformé le 30 septembre 2024)", nature: "constitution", annee: 2024, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  - {instrument: "Accord du conseil municipal (cabildo) de San Cristóbal de las Casas du 1er avril 2024 reconnaissant la structure d'autogouvernement de la communauté tsotsil de La Candelaria (adopté par 9 voix contre 1, sur le fondement de l'art. 111 de la loi de développement constitutionnel en matière de gouvernement et d'administration municipale du Chiapas)", nature: "loi", annee: 2024, source: "https://dplf.org/nuevo-avance-de-la-libre-determinacion-en-mexico-pueblo-tsotsil-de-jlumaltik-candelaria-logra-reconocimiento-de-su-derecho-al-autogobierno-en-chiapas/"}
+  - {instrument: "Cour suprême de justice de la Nation, amparo en revisión 344/2025, arrêt du 26 février 2026", nature: "jurisprudence", annee: 2026, source: "https://www2.scjn.gob.mx/Juridica/Engroses/Cerrados/Publico/Proyecto/2025/12/AR344_2025.pdf"}
+  - {instrument: "Ley General de Derechos Lingüísticos de los Pueblos Indígenas (loi générale des droits linguistiques), art. 4", nature: "loi", annee: 2003, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'accord du cabildo du 1er avril 2024 reconnaît la structure d'autogouvernement et lui transfère les fonctions du gouvernement municipal dans la communauté ; la reconnaissance reste municipale, sans loi de l'État : la Cour suprême (amparo en revisión 344/2025, 26 février 2026) constate l'omission législative du Congrès du Chiapas et ordonne à l'exécutif de l'État, au Congrès et à la municipalité de garantir cet autogouvernement dans les 90 jours.", source: "https://www2.scjn.gob.mx/Juridica/Engroses/Cerrados/Publico/Proyecto/2025/12/AR344_2025.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La Constitution (art. 2 A I et II, réforme de 2024) reconnaît l'application de systèmes normatifs propres, dans le respect de la Constitution et des droits humains ; l'arrêt de 2026 vise la reconnaissance de l'assemblée, de l'autorité et des normes de la communauté.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  justice_propre: {valeur: "partiel", note: "La Constitution (art. 2 A II) reconnaît une juridiction autochtone exercée par les autorités communautaires, avec validation par les juges selon la loi.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "La Constitution (art. 2 A IX) accorde l'usage préférentiel des ressources naturelles des lieux habités, sauf les domaines stratégiques et les droits acquis par des tiers.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 2 A XIII, 2024) impose une consultation visant le consentement ou l'accord ; l'arrêt 344/2025 cite l'article 6 de la Convention 169 de l'OIT.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  langue: {valeur: "partiel", note: "La loi générale des droits linguistiques (art. 4, 2003) fait des langues autochtones, dont le tsotsil, des langues nationales ayant la même validité que l'espagnol.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"}
+  education: {valeur: "partiel", note: "La Constitution (art. 2 A VI) prévoit la participation des peuples à la construction des modèles éducatifs.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  fiscalite: {valeur: "conteste", note: "La Constitution (art. 2 B II, 2024) prévoit des dotations budgétaires administrées directement par les communautés et l'accord du cabildo du 1er avril 2024 autorise le versement de la part proportionnelle du budget municipal au plus tard le 1er juillet 2024 ; le ministère des Finances du Chiapas refuse ce versement le 30 septembre 2024 et la communauté forme un nouvel amparo ; l'arrêt de 2026 ordonne la remise des ressources dans les 90 jours ; la communauté n'a pas de pouvoir d'imposition.", source: "https://www.redalyc.org/journal/747/74783128006/74783128006.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "La communauté rédige en 2024 les statuts internes du Jlumaltik Candelaria, ramené à huit coordinateurs, mais le ministère des Finances du Chiapas refuse le 30 septembre 2024 le versement du budget et la communauté forme un amparo (Alteridades, 2025) ; l'arrêt du 26 février 2026 fixe un délai de 90 jours pour garantir l'autogouvernement et la remise des ressources, et un délai de 180 jours au Congrès du Chiapas après l'entrée en vigueur d'une future loi générale ; aucune source consultée ne documente l'exécution de l'arrêt.", source: "https://www.redalyc.org/journal/747/74783128006/74783128006.pdf"}
+chronologie:
+  - {annee: 2014, evenement: "La communauté rend public son refus de l'autoroute San Cristóbal de las Casas – Palenque, dont le tracé devait traverser ses terres (septembre)."}
+  - {annee: 2021, evenement: "L'assemblée générale décide de demander la reconnaissance du gouvernement communautaire Jlumaltik Candelaria (28 novembre)."}
+  - {annee: 2022, evenement: "Demandes de reconnaissance au Congrès du Chiapas et de transfert du budget proportionnel à la municipalité (4 janvier) ; jugement du quatrième tribunal de district du Chiapas (22 juillet)."}
+  - {annee: 2023, evenement: "Élection à main levée de 13 autorités communautaires (20 août)."}
+  - {annee: 2024, evenement: "Le cabildo de San Cristóbal de las Casas reconnaît la structure d'autogouvernement et autorise le versement d'un budget proportionnel (1er avril) ; le ministère des Finances du Chiapas refuse le versement (30 septembre)."}
+  - {annee: 2026, evenement: "La Cour suprême, réunie à Tenejapa, accorde l'amparo 344/2025 à l'unanimité (26 février)."}
+fiabilite:
+  verifie: ["Contenu de l'accord du cabildo du 1er avril 2024 (DPLF et projet d'arrêt 344/2025).", "Élection à main levée de 13 autorités le 20 août 2023 et refus de versement du ministère des Finances du Chiapas du 30 septembre 2024 (Alteridades, 2025).", "Effets ordonnés (90 jours, 180 jours) et instruments internationaux cités dans le projet d'arrêt 344/2025.", "Date, lieu, vote et délais de l'arrêt du 26 février 2026 (La Jornada).", "Population de la localité de La Candelaria au recensement de 2020 (INEGI)."]
+  non_confirme: ["Date d'entrée dans le Modevite : dès sa fondation en 2013 selon Alteridades, après le refus de l'autoroute en 2014 selon Chiapas Paralelo.", "Régime foncier : la communauté est désignée comme ejido, sans titre agraire ni surface consultés.", "Coïncidence entre la localité INEGI de La Candelaria et le périmètre du gouvernement communautaire.", "Versement effectif du budget prévu en 2024 et exécution de l'arrêt de 2026.", "Texte définitif de l'arrêt (engrose) : seul le projet a été consulté."]
+sources:
+  - {titre: "Nuevo avance de la libre determinación en México : pueblo tsotsil de Jlumaltik Candelaria logra reconocimiento de su derecho al autogobierno en Chiapas — DPLF, 2024", url: "https://dplf.org/nuevo-avance-de-la-libre-determinacion-en-mexico-pueblo-tsotsil-de-jlumaltik-candelaria-logra-reconocimiento-de-su-derecho-al-autogobierno-en-chiapas/"}
+  - {titre: "Amparo en revisión 344/2025, projet d'arrêt — Cour suprême de justice de la Nation", url: "https://www2.scjn.gob.mx/Juridica/Engroses/Cerrados/Publico/Proyecto/2025/12/AR344_2025.pdf"}
+  - {titre: "Corte ampara a comunidad La Candelaria y abre puerta para reconocer autogobiernos indígenas a nivel nacional — La Jornada, 26 février 2026", url: "https://www.jornada.com.mx/noticia/2026/02/26/politica/scjn-abre-paso-al-reconocimiento-de-autogobiernos-indigenas-pero-no-sera-un-cuarto-nivel"}
+  - {titre: "Una comunidad tsotsil logra que la Corte reconozca los autogobiernos comunitarios — Diario Red, 2 mars 2026", url: "https://www.diario-red.com/articulo/mexico/comunidad-tostsil-logra-que-corte-reconozca-autogobiernos-comunitarios-ordene-congeso-chiapas-legislar-tema/20260302100000064950.html"}
+  - {titre: "Presupuesto directo en el Ejido La Candelaria, S.C.L.C. Chiapas — Chiapas Paralelo, 2023", url: "https://www.chiapasparalelo.com/opinion/2023/09/presupuesto-directo-en-el-ejido-la-candelaria-s-c-l-c-chiapas/"}
+  - {titre: "Aportes y reflexiones para una educación jurídica descolonizante desde la lucha de La Candelaria, Chiapas — Alteridades, 2025", url: "https://www.redalyc.org/journal/747/74783128006/74783128006.pdf"}
+  - {titre: "Localités de la municipalité de San Cristóbal de las Casas — INEGI, recensement 2020", url: "https://gaia.inegi.org.mx/wscatgeo/v2/localidades/07/078"}
+  - {titre: "Constitution politique des États-Unis mexicains — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  - {titre: "Ley General de Derechos Lingüísticos de los Pueblos Indígenas — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

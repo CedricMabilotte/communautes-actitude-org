@@ -13,7 +13,7 @@ lieux: {valeur: 336, unite: "titres collectifs de conseils communautaires, tout 
 surface_km2: {valeur: 57678, annee: 2026, perimetre: "superficie des titres collectifs de communautés noires, tout le pays (54 551 km² dans les départements de Chocó, Cauca, Valle del Cauca et Nariño)", source: "https://data-agenciadetierras.opendata.arcgis.com/datasets/agenciadetierras::consejo-comunitario-titulado"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
-  La loi 70 de 1993 reconnaît aux communautés noires qui occupent les terres riveraines des fleuves du bassin du Pacifique un droit de propriété collective. Chaque communauté forme un conseil communautaire (consejo comunitario) pour recevoir et administrer le titre. La loi applique l'article transitoire 55 de la Constitution de 1991. La Cour constitutionnelle a jugé en 2001 que ces communautés relèvent de la Convention 169 de l'OIT en tant que peuple tribal. La protection du fleuve Atrato comme sujet de droits fait l'objet de la fiche « Communautés gardiennes du fleuve Atrato ».
+  La loi 70 de 1993 reconnaît aux communautés noires qui occupent les terres riveraines des fleuves du bassin du Pacifique un droit de propriété collective. Chaque communauté forme un conseil communautaire (consejo comunitario) pour recevoir et administrer le titre. La loi applique l'article transitoire 55 de la Constitution de 1991. La Cour constitutionnelle a jugé en 2001 que ces communautés relèvent de la Convention 169 de l'OIT en tant que peuple tribal. La protection du fleuve Atrato comme sujet de droits fait l'objet de la fiche « Communautés gardiennes du fleuve Atrato ». Le même régime s'applique hors du Pacifique : le conseil communautaire Ma Kankamaná de San Basilio de Palenque (Mahates, Bolívar) a reçu son titre collectif en 2012. Le tableau reprend les 336 titres collectifs de l'Agence nationale des terres, dont la date est celle du dernier acte administratif.
 reconnaissance_onu:
   - {mecanisme: "oit_169", detail: "La Colombie ratifie la Convention 169 de l'OIT le 7 août 1991 ; l'arrêt C-169 de 2001 de la Cour constitutionnelle l'applique aux communautés noires.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
 base_nationale:
@@ -39,8 +39,8 @@ chronologie:
   - {annee: 1993, evenement: "Adoption de la loi 70."}
   - {annee: 2001, evenement: "L'arrêt C-169 de la Cour constitutionnelle qualifie les communautés noires de peuple tribal au sens de la Convention 169."}
 fiabilite:
-  verifie: ["Articles 1, 5, 6, 7, 19, 24, 32, 35 et 44 de la loi 70 de 1993.", "Article 176 de la Constitution.", "Passage de l'arrêt C-169 de 2001 sur la Convention 169."]
-  non_confirme: ["Nombre de titres collectifs délivrés et superficie totale.", "Population des territoires collectifs.", "Existence d'une obligation légale de consentement distincte de la consultation."]
+  verifie: ["Articles 1, 5, 6, 7, 19, 24, 32, 35 et 44 de la loi 70 de 1993.", "Article 176 de la Constitution.", "Passage de l'arrêt C-169 de 2001 sur la Convention 169.", "Liste des 336 conseils communautaires titrés, département, superficie des actes (32 186 ha pour Ma Kankamaná, résolution 466 du 30 mars 2012) : couche de données ouvertes de l'Agence nationale des terres, mise à jour du 7 septembre 2026."]
+  non_confirme: ["Population des territoires collectifs.", "Existence d'une obligation légale de consentement distincte de la consultation.", "L'année du tableau est celle du dernier acte administratif de chaque titre (ampliation ou rectification possible), pas forcément celle du premier titre."]
 sources:
   - {titre: "Loi 70 de 1993 — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0070_1993.html"}
   - {titre: "Constitution de Colombie (1991, rév. 2015) — Constitute Project", url: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}

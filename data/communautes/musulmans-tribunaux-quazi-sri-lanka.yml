@@ -1,0 +1,72 @@
+uid: "musulmans-tribunaux-quazi-sri-lanka"
+nom: "Musulmans du Sri Lanka (tribunaux de quazis)"
+endonyme: ""
+territoire: "Sri Lanka (base personnelle, sans territoire propre)"
+etats: ["Sri Lanka"]
+region: "asie"
+coord: [7.9, 80.8]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 2283246, annee: 2024, perimetre: "personnes recensées dans le groupe ethnique « Sri Lanka Moors/Muslims » (10,47 % de 21 781 800 habitants), recensement de 2024 ; le même recensement compte 10,7 % de musulmans par religion, sans effectif publié dans le communiqué", source: "https://www.statistics.gov.lk/qlink/PressReleases/press_note_CPH_2024_En"}
+lieux: {valeur: 65, unite: "tribunaux de quazis", annee: 2011, source: "https://www.mdpi.com/2075-4698/9/1/13"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les musulmans représentent 10,7 % de la population du Sri Lanka au recensement de 2024. La loi sur le mariage et le divorce musulmans (Muslim Marriage and Divorce Act, MMDA, n° 13 de 1951) leur applique le droit musulman de leur école juridique (« sect ») et confie le contentieux familial à des quazis (juges de droit musulman, l'équivalent des cadis), avec appel devant un Conseil des quazis (Board of Quazis). L'ordonnance de 1931 sur les successions ab intestat (sans testament) et la loi de 1956 sur les mosquées et les wakfs (biens de mainmorte religieux) complètent ce régime. L'article 16 de la Constitution de 1978 maintient ces lois en vigueur même si elles contredisent les droits fondamentaux ; un comité de réforme est nommé en 2009 et aucune loi de réforme n'est adoptée en février 2026. Les Tamouls de la Province du Nord font l'objet de la fiche « Tamouls de la Province du Nord ».
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination à l'égard des femmes (CEDAW/C/LKA/CO/8), § 44 et 45 : compétence exclusive et obligatoire de la MMDA sur les mariages musulmans, absence d'âge minimal du mariage, fonctions de quazi, de membre du Conseil des quazis et d'officier d'état civil réservées aux hommes musulmans", annee: 2017, source: "https://docs.un.org/en/CEDAW/C/LKA/CO/8"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité des droits de l'homme (CCPR/C/LKA/CO/6), § 20 et 21 : dispositions discriminatoires des lois personnelles, dont la MMDA de 1951, à abroger ou modifier", annee: 2023, source: "https://docs.un.org/en/CCPR/C/LKA/CO/6"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du CEDAW (CEDAW/C/LKA/CO/9), § 61 et 62 : compétence exclusive et obligatoire des tribunaux de quazis, retard de la réforme, recommandation d'un âge minimal de 18 ans et de l'accès des femmes aux fonctions de quazi", annee: 2025, source: "https://docs.un.org/en/CEDAW/C/LKA/CO/9"}
+base_nationale:
+  - {instrument: "Constitution de la République socialiste démocratique de Sri Lanka (1978), art. 16 : maintien en vigueur des lois écrites et non écrites existantes malgré leur incompatibilité avec le chapitre des droits fondamentaux", nature: "constitution", annee: 1978, source: "https://www.constituteproject.org/constitution/Sri_Lanka_2015"}
+  - {instrument: "Muslim Marriage and Divorce Act n° 13 de 1951 (loi sur le mariage et le divorce musulmans), modifiée par les lois n° 31 de 1954 et n° 22 de 1955", nature: "loi", annee: 1951, source: "https://lankalaw.net/wp-content/uploads/2025/02/1956Y5V115C.html"}
+  - {instrument: "Muslim Intestate Succession Ordinance n° 10 de 1931 (ordonnance sur les successions ab intestat des musulmans)", nature: "loi", annee: 1931, source: "https://muslimfamilylawindex.com/wp-content/uploads/2023/01/Muslim-Intestate-Succession-Act-Cap.72-1931.pdf"}
+  - {instrument: "Muslim Mosques and Charitable Trusts or Wakfs Act n° 51 de 1956 (loi sur les mosquées, les fondations charitables et les wakfs), modifiée notamment par la loi n° 33 de 1982", nature: "loi", annee: 1956, source: "https://lankalaw.net/wp-content/uploads/2025/02/1981Y15V459C-1.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi de 1956 sur les wakfs institue un Conseil des mosquées et des wakfs composé du directeur, qui doit être musulman (art. 2), et de sept membres musulmans nommés et révocables par le ministre (art. 5 et 6) ; il contrôle les administrateurs (trustees) des mosquées enregistrées, que cinq membres de la communauté de fidèles (jamaath) peuvent mettre en cause (art. 29). Le Conseil confirme comme administrateurs des mosquées les personnes choisies selon les usages de chaque mosquée (art. 14), et le ministre peut révoquer ses membres sans recours en justice (art. 5). La MMDA crée un Conseil consultatif de quatre à neuf musulmans nommés par le ministre et présidé par le directeur général de l'état civil (art. 4 à 6).", source: "https://lankalaw.net/wp-content/uploads/2025/02/1981Y15V459C-1.html"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "La MMDA (art. 12, 15, 28, 47, 48 et 62) confie à des quazis, hommes musulmans nommés pour une circonscription, une compétence exclusive sur la dot (mahr), la pension alimentaire, la nullité, la médiation et les divorces entre musulmans, avec appel devant un Conseil des quazis de cinq hommes musulmans, puis devant la Cour d'appel ; les quazis sont nommés par la Commission du service judiciaire et l'administration relève du ministère de la Justice.", source: "https://www.hrcsl.lk/wp-content/uploads/2025/08/HRCSL-Statement-on-Reforming-the-Muslim-Marriage-and-Divorce-Act-and-on-Related-Matters.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "La MMDA s'applique aux mariages et divorces des habitants musulmans du pays (art. 2) et renvoie au droit musulman de l'école juridique des parties (art. 16) ; l'ordonnance de 1931 applique ce même droit aux successions ab intestat des musulmans domiciliés au Sri Lanka (art. 2). Les mariages entre musulmans relèvent de la seule MMDA, et la réforme examinée par le CEDAW en 2025 permettrait aux musulmans de se marier sous l'ordonnance de 1907 sur l'enregistrement des mariages ; le CEDAW et le Comité des droits de l'homme demandent la modification de dispositions jugées discriminatoires.", source: "https://lankalaw.net/wp-content/uploads/2025/02/1956Y5V115C.html"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les tribunaux de quazis fonctionnent (65 selon les données du ministère de la Justice de 2011). La Commission des droits de l'homme du Sri Lanka rapporte en août 2025 des contributions qui font état de l'absence de formation des quazis, de locaux et de calendrier fixes, de contrôle de leur travail, une rémunération inférieure à 20 000 roupies et un Conseil des quazis qui ne siège qu'à Colombo et Kalmunai, avec un retard d'affaires ; la décision du Conseil des ministres de supprimer le système (2021, ou 2022 selon un autre passage) n'a pas été mise en œuvre.", source: "https://www.hrcsl.lk/wp-content/uploads/2025/08/HRCSL-Statement-on-Reforming-the-Muslim-Marriage-and-Divorce-Act-and-on-Related-Matters.pdf"}
+chronologie:
+  - {annee: 1929, evenement: "Ordonnance sur l'enregistrement des mariages et divorces musulmans, abrogée par la loi de 1951."}
+  - {annee: 1931, evenement: "Ordonnance n° 10 sur les successions ab intestat des musulmans, en date du 17 juin."}
+  - {annee: 1951, evenement: "Adoption de la Muslim Marriage and Divorce Act n° 13."}
+  - {annee: 1954, evenement: "Entrée en vigueur de la MMDA le 1er août."}
+  - {annee: 1956, evenement: "Loi n° 51 sur les mosquées, les fondations charitables et les wakfs ; date d'application fixée au 1er mai 1957."}
+  - {annee: 1978, evenement: "La Constitution (art. 16) maintient en vigueur les lois existantes, dont la MMDA, malgré leur incompatibilité avec les droits fondamentaux."}
+  - {annee: 2009, evenement: "Le ministre de la Justice nomme un comité chargé de proposer des réformes du droit personnel musulman et des tribunaux de quazis."}
+  - {annee: 2017, evenement: "Observations finales du CEDAW (CEDAW/C/LKA/CO/8) sur la MMDA."}
+  - {annee: 2018, evenement: "Remise du rapport du comité présidé par Saleem Marsoof, ancien juge de la Cour suprême."}
+  - {annee: 2021, evenement: "Rapport du comité présidé par Shabry Haleemdeen ; le Conseil des ministres décide de supprimer le système des quazis, d'interdire la polygamie et de fixer un âge du mariage."}
+  - {annee: 2023, evenement: "Observations finales du Comité des droits de l'homme (CCPR/C/LKA/CO/6)."}
+  - {annee: 2025, evenement: "Observations finales du CEDAW (CEDAW/C/LKA/CO/9), le 28 février ; déclaration de la Commission des droits de l'homme du Sri Lanka sur la réforme de la MMDA, en août."}
+  - {annee: 2026, evenement: "Proposition de loi d'un député déposée le 5 janvier ; le ministère de la Justice ouvre une consultation sur l'âge du mariage, la signature de l'épouse et le rôle du tuteur (wali), la polygamie, la juridiction compétente et la nomination de femmes quazis."}
+fiabilite:
+  verifie: ["Articles 2, 4 à 6, 12, 14, 15, 16, 23, 47 et 48 de la MMDA : texte consolidé publié sur lankalaw.net.", "Articles 2, 5, 6, 14 et 29 de la loi de 1956 sur les wakfs, et nomination par la Commission du service judiciaire du tribunal des wakfs de trois musulmans : texte consolidé publié sur lankalaw.net.", "Article 2 de l'ordonnance de 1931 sur les successions : texte du chapitre 72.", "Article 16 de la Constitution : Constitute Project.", "Paragraphes 44 et 45 de CEDAW/C/LKA/CO/8, 20 et 21 de CCPR/C/LKA/CO/6, 61 et 62 de CEDAW/C/LKA/CO/9.", "Nomination des quazis par la Commission du service judiciaire, décisions de 2021, rapports de 2018 et 2021, sièges du Conseil des quazis : déclaration de la Commission des droits de l'homme du Sri Lanka (août 2025).", "Effectif des « Sri Lanka Moors/Muslims » et part des musulmans par religion : communiqués du recensement de 2024.", "Proposition de loi du 5 janvier 2026 et consultation du ministère de la Justice : The Morning, 15 février 2026."]
+  non_confirme: ["Nombre actuel de tribunaux de quazis : le chiffre de 65 provient du rapport de performance 2011 du ministère de la Justice, cité en 2019 par la revue Societies et repris sans date par le Muslim Personal Law Reform Action Group.", "Texte consolidé de la MMDA consulté dans sa version de 1956 : les modifications ultérieures (transfert de la nomination des quazis à la Commission du service judiciaire) ne sont attestées que par des sources secondaires.", "La Commission des droits de l'homme situe la décision de suppression des quazis tantôt en 2021, tantôt en 2022.", "Issue de la consultation de 2026 et de la proposition de loi : non connue à la date de rédaction.", "Effectif des musulmans par religion au recensement de 2024 : seul le pourcentage est publié dans les communiqués consultés."]
+sources:
+  - {titre: "Muslim Marriage and Divorce Act n° 13 de 1951 (texte consolidé) — lankalaw.net", url: "https://lankalaw.net/wp-content/uploads/2025/02/1956Y5V115C.html"}
+  - {titre: "Muslim Mosques and Charitable Trusts or Wakfs Act n° 51 de 1956 (texte consolidé) — lankalaw.net", url: "https://lankalaw.net/wp-content/uploads/2025/02/1981Y15V459C-1.html"}
+  - {titre: "Muslim Intestate Succession Ordinance n° 10 de 1931, chapitre 72", url: "https://muslimfamilylawindex.com/wp-content/uploads/2023/01/Muslim-Intestate-Succession-Act-Cap.72-1931.pdf"}
+  - {titre: "Constitution du Sri Lanka (version 2015) — Constitute Project", url: "https://www.constituteproject.org/constitution/Sri_Lanka_2015"}
+  - {titre: "CEDAW, observations finales sur le Sri Lanka, CEDAW/C/LKA/CO/8 (2017)", url: "https://docs.un.org/en/CEDAW/C/LKA/CO/8"}
+  - {titre: "Comité des droits de l'homme, observations finales sur le Sri Lanka, CCPR/C/LKA/CO/6 (2023)", url: "https://docs.un.org/en/CCPR/C/LKA/CO/6"}
+  - {titre: "CEDAW, observations finales sur le Sri Lanka, CEDAW/C/LKA/CO/9 (2025)", url: "https://docs.un.org/en/CEDAW/C/LKA/CO/9"}
+  - {titre: "Commission des droits de l'homme du Sri Lanka, « Statement on Reforming the Muslim Marriage and Divorce Act and on Related Matters », août 2025", url: "https://www.hrcsl.lk/wp-content/uploads/2025/08/HRCSL-Statement-on-Reforming-the-Muslim-Marriage-and-Divorce-Act-and-on-Related-Matters.pdf"}
+  - {titre: "Département du recensement et de la statistique, recensement de 2024 : note de presse", url: "https://www.statistics.gov.lk/qlink/PressReleases/press_note_CPH_2024_En"}
+  - {titre: "Département du recensement et de la statistique, recensement de 2024 : communiqué", url: "https://www.statistics.gov.lk/qlink/PressReleases/CPH2024_Press_Release_Eng"}
+  - {titre: "« Women Quazi in a Minority Context: An Overview of Sri Lankan Experience », Societies, 2019", url: "https://www.mdpi.com/2075-4698/9/1/13"}
+  - {titre: "Muslim Personal Law Reform Action Group, « FAQs about the MMDA »", url: "https://www.mmdasrilanka.org/faqs-about-the-mmda/"}
+  - {titre: "The Morning, « Fresh MMDA consultations as member's bill adds pressure », 15 février 2026", url: "https://www.themorning.lk/articles/HqdInbvqeKCevUvtyycz"}
+  - {titre: "The Morning, « Muslim Marriage and Divorce Act: Decades of discussion, reforms still in limbo », 16 mars 2025", url: "https://www.themorning.lk/articles/wGRyYS4sMLYMANrJJRIa"}

@@ -1,0 +1,77 @@
+uid: "cogestion-mapuche-lanin"
+nom: "Mapuche des parcs Lanín et Nahuel Huapi (cogestion)"
+endonyme: "Mapuche"
+territoire: "Parcs et réserves nationaux Lanín (province de Neuquén) et Nahuel Huapi (provinces de Neuquén et de Río Negro), Patagonie du Nord"
+etats: ["Argentine"]
+region: "ameriques"
+coord: [-40.4, -71.5]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2500, annee: 2007, perimetre: "habitants mapuches du parc et de la réserve nationaux Lanín, borne basse de la fourchette de 2 500 à 3 000 personnes donnée par l'étude de cas FAO-APN ; les communautés du parc Nahuel Huapi ne sont pas comptées", source: "https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/proyectos-de-cooperacion/5caso-argentina_tcm30-287859.pdf"}
+lieux: {valeur: 14, unite: "communautés mapuches associées à la cogestion : 7 dans le parc Lanín (Ñorquinco, Aigo, Lefiman, Lafkenche, Raquithue, Cayún, Curruhuinca) et 7 dans le parc Nahuel Huapi (Wiritray, Maliqueo, Quintupuray, Kinxikew, Paichil Antreao, Huenchupan, Wenu Ñirihuau)", annee: 2024, source: "https://www.rionegro.com.ar/politica/los-parques-nacionales-de-la-region-buscan-sostener-el-vinculo-con-comunidades-mapuches-3722723/"}
+surface_km2: {valeur: 11293, annee: 2025, perimetre: "superficie cumulée des deux parcs, ressort de la table de cogestion (art. 2 de la résolution conjointe 1-E/2017) : Lanín 412 000 ha (APN, 2025) et Nahuel Huapi 717 261 ha (brochure du parc) ; les terres occupées par les sept communautés du Lanín couvraient environ 24 000 ha en 2007", source: "https://www.argentina.gob.ar/sites/default/files/marterial_estudio_examen_guias_pn_lanin_2025.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Régime de cogestion (comanejo, gestion conjointe) entre l'Administration des parcs nationaux (APN) et les communautés mapuches établies dans les parcs nationaux Lanín et Nahuel Huapi, dans le nord de la Patagonie argentine. Il naît au parc Lanín en 2000, après l'occupation de l'intendance (direction) du parc par la Confédération mapuche de Neuquén en 1999 : la résolution 227/00 de l'APN crée un comité de gestion paritaire, complété à partir de fin 2001 par des comités locaux dans chaque communauté. La résolution conjointe 1-E/2017 de l'APN et de l'Institut national des affaires autochtones (INAI) crée une table politique de cogestion pour les deux parcs, chargée de garantir la participation préalable, libre et éclairée des communautés. Les conclusions du comité de gestion restent soumises à la ratification du directoire de l'APN. Le régime général des communautés autochtones fait l'objet de la fiche « Communautés autochtones d'Argentine ».
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La résolution conjointe 1-E/2017 qui crée la table de cogestion se fonde sur la Convention 169 de l'OIT, ratifiée par la loi 24.071, et sur son obligation de consulter les peuples intéressés.", annee: 2017, source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280420/norma.htm"}
+  - {mecanisme: "dnudpa", detail: "La même résolution cite la Déclaration des Nations unies sur les droits des peuples autochtones, approuvée par l'Argentine en 2007, et le consentement libre, préalable et éclairé qu'elle prévoit.", annee: 2017, source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280420/norma.htm"}
+base_nationale:
+  - {instrument: "Constitution de la Nation argentine, réforme de 1994, art. 75, alinéa 17 (préexistence des peuples autochtones, propriété communautaire, participation à la gestion des ressources naturelles)", nature: "constitution", annee: 1994, source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/804/norma.htm"}
+  - {instrument: "Loi 23.750 du 29 septembre 1989 : cession gratuite à l'Asociación de Fomento Rural Curruhuinca (association de promotion rurale), formée des membres de la communauté Curruhuinca, des lots 51 à 61 de la réserve nationale Lanín, environ 10 540 ha, sous le régime de la loi 22.351 sur les parcs nationaux", nature: "loi", annee: 1989, source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/151/norma.htm"}
+  - {instrument: "Résolution 227/00 du directoire de l'APN créant le comité de gestion APN – Confédération mapuche de Neuquén pour le parc Lanín", nature: "loi", annee: 2000, source: "https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/proyectos-de-cooperacion/5caso-argentina_tcm30-287859.pdf"}
+  - {instrument: "Loi 25.510 du 21 novembre 2001 : autorise le pouvoir exécutif à transférer gratuitement à l'Agrupación Mapuche Cayún, en propriété communautaire, des lots de la réserve nationale Lanín (zone du lac Lácar) ; l'usage des ressources reste soumis à la loi 22.351 et à l'APN", nature: "loi", annee: 2001, source: "http://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/70939/norma.htm"}
+  - {instrument: "Résolution conjointe 1-E/2017 de l'APN et de l'INAI du 29 septembre 2017 créant la table politique de cogestion des parcs nationaux Lanín et Nahuel Huapi, et son annexe IF-2017-22327588 (composition)", nature: "loi", annee: 2017, source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280420/norma.htm"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La loi 23.750 (1989) cède à l'association Curruhuinca environ 10 540 ha de la réserve nationale Lanín, et la loi 25.510 (2001) autorise le transfert de lots de la même réserve à l'Agrupación Mapuche Cayún en propriété communautaire ; la Nation garde la juridiction et toute activité reste soumise à la loi 22.351 sur les parcs nationaux et aux décisions de l'APN (art. 2 de la loi 23.750, art. 3 et 7 de la loi 25.510). Selon l'étude de cas FAO-APN de 2007, la communauté Cayún détenait un titre de propriété communautaire sur 1 300 ha, et des cessions étaient en cours pour Raquithue (950 ha) et Ñorquinco.", source: "http://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/70939/norma.htm"}
+  ressources: {valeur: "partiel", note: "Le comité de gestion créé par la résolution 227/00 de l'APN a pour fonctions, selon son règlement intérieur, la délimitation et le zonage des territoires communautaires, la révision des règlements de l'APN et la conception de programmes de gestion ; ses conclusions, prises par consensus, sont soumises à la ratification du directoire de l'APN.", source: "https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/proyectos-de-cooperacion/5caso-argentina_tcm30-287859.pdf"}
+  consentement: {valeur: "partiel", note: "La résolution conjointe 1-E/2017 (art. 1 et 3) crée une table politique de cogestion pour garantir la « participación previa, libre e informada » (participation préalable, libre et éclairée) ; elle réunit cinq représentants de l'APN, deux de l'INAI et cinq des communautés mapuches (quatre pour les zonales, un pour la Confederación Mapuche Neuquina). Son annexe I prévoit une réunion mensuelle et un quorum exigeant la présence des trois parties ; la résolution ne donne à la table aucun pouvoir de décision ni droit de veto.", source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280420/norma.htm"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le quotidien Río Negro (3 août 2024), la cogestion se poursuit avec sept communautés au Lanín et sept au Nahuel Huapi, autour de projets touristiques, productifs et d'élevage, mais la table politique de cogestion n'avait pas siégé depuis plus d'un an ; l'intendance du Lanín annonçait une réunion pour la semaine suivante, après des consignes de l'administration centrale contre l'usage de symboles mapuches dans les parcs. En août 2022, l'APN avait déclaré le volcan Lanín site sacré mapuche, puis laissé cette résolution sans effet deux jours plus tard face à l'opposition du gouvernement de Neuquén.", source: "https://www.rionegro.com.ar/politica/los-parques-nacionales-de-la-region-buscan-sostener-el-vinculo-con-comunidades-mapuches-3722723/"}
+chronologie:
+  - {annee: 1934, evenement: "Création du parc national Nahuel Huapi (loi 12.103)."}
+  - {annee: 1937, evenement: "Création du parc national Lanín ; des familles mapuches reçoivent un titre d'occupation précaire, d'autres sont expulsées."}
+  - {annee: 1989, evenement: "Loi 23.750 : cession de terres de la réserve Lanín à l'association Curruhuinca."}
+  - {annee: 1999, evenement: "La Confédération mapuche de Neuquén occupe l'intendance du parc Lanín."}
+  - {annee: 2000, evenement: "Atelier « Territoire autochtone protégé » en mai ; résolution 227/00 de l'APN créant le comité de gestion, réuni pour la première fois en novembre."}
+  - {annee: 2001, evenement: "Loi 25.510 : cession de terres à l'Agrupación Mapuche Cayún ; début des comités locaux de cogestion."}
+  - {annee: 2016, evenement: "En juillet, à Junín de los Andes, l'APN et des représentants mapuches conviennent de poursuivre la cogestion ; l'acte du 25 juillet consigne la demande d'institutionnalisation de la relation."}
+  - {annee: 2017, evenement: "Résolution conjointe 1-E/2017 de l'APN et de l'INAI créant la table politique de cogestion des parcs Lanín et Nahuel Huapi."}
+  - {annee: 2022, evenement: "Déclaration du volcan Lanín comme site sacré mapuche par l'APN, laissée sans effet deux jours plus tard."}
+  - {annee: 2024, evenement: "Table politique de cogestion sans réunion depuis plus d'un an ; reprise annoncée en août."}
+fiabilite:
+  verifie:
+    - "Texte et annexe de la résolution conjointe 1-E/2017 (date, art. 1 à 3, composition de la table) sur InfoLEG et argentina.gob.ar."
+    - "Lois 23.750 (1989) et 25.510 (2001) sur InfoLEG : cession et autorisation de cession de terres dans la réserve Lanín, soumises à la loi 22.351."
+    - "Annexe I de la résolution conjointe 1-E/2017 (IF-2017-22327786) : réunion mensuelle, quorum des trois parties, consensus."
+    - "Existence de la politique de cogestion depuis 2000, sept communautés et comités locaux depuis fin 2001 dans le document d'étude de l'APN (2025)."
+  non_confirme:
+    - "Résolution 227/00 de l'APN : connue par l'étude de cas FAO-APN de 2007, texte non consulté."
+    - "Population : fourchette de 2007 limitée au parc Lanín, sans recensement ; aucun chiffre trouvé pour le parc Nahuel Huapi."
+    - "Fonctionnement de la table politique de cogestion après août 2024 : aucune source trouvée."
+    - "Exécution du transfert prévu par la loi 25.510 : seule l'étude de cas de 2007 mentionne un titre de 1 300 ha pour la communauté Cayún ; acte de transfert non consulté."
+    - "Liste des sept communautés du Nahuel Huapi : établie par une source de presse, pas par un acte de l'APN."
+sources:
+  - {titre: "Résolution conjointe 1-E/2017 APN-INAI — InfoLEG", url: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/280000-284999/280420/norma.htm"}
+  - {titre: "Annexe IF-2017-22327786 : organisation et fonctionnement de la table politique de cogestion", url: "https://www.argentina.gob.ar/sites/default/files/infoleg/280420/resconj1-1.pdf"}
+  - {titre: "Annexe IF-2017-22327588 : membres de la table politique de cogestion", url: "https://www.argentina.gob.ar/sites/default/files/infoleg/280420/resconj1-2.pdf"}
+  - {titre: "Loi 23.750 — InfoLEG", url: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/151/norma.htm"}
+  - {titre: "Loi 25.510 — InfoLEG", url: "http://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/70939/norma.htm"}
+  - {titre: "Étude de cas « Una experiencia intercultural de co-manejo… Parque Nacional Lanín », FAO-OAPN-APN, 2007", url: "https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/proyectos-de-cooperacion/5caso-argentina_tcm30-287859.pdf"}
+  - {titre: "Matériel d'étude pour l'examen des guides, parc national Lanín, APN, 2025", url: "https://www.argentina.gob.ar/sites/default/files/marterial_estudio_examen_guias_pn_lanin_2025.pdf"}
+  - {titre: "Information générale, parc national Nahuel Huapi (brochure)", url: "https://nahuelhuapi.gov.ar/img/mapa_folletos/folleto%20general%20PNNH.pdf"}
+  - {titre: "APN : poursuite de la politique de cogestion avec les communautés mapuches (2016)", url: "https://www.argentina.gob.ar/noticias/la-administracion-de-parques-nacionales-y-las-comunidades-mapuches-acordaron-continuar-con"}
+  - {titre: "Formalisation de la table de cogestion des parcs Lanín et Nahuel Huapi (2017)", url: "https://www.argentina.gob.ar/noticias/formalizan-la-mesa-de-co-manejo-de-los-parques-nacionales-lanin-y-nahuel-huapi"}
+  - {titre: "Río Negro, « Los parques nacionales de la región buscan sostener el vínculo con comunidades mapuches », 3 août 2024", url: "https://www.rionegro.com.ar/politica/los-parques-nacionales-de-la-region-buscan-sostener-el-vinculo-con-comunidades-mapuches-3722723/"}
+  - {titre: "Río Negro, retrait de la déclaration du Lanín comme site sacré, 5 août 2022", url: "https://www.rionegro.com.ar/politica/lanin-sitio-sagrado-mapuche-parques-dice-que-se-debate-la-marcha-atras-y-neuquen-que-ya-es-algo-confirmado-2430749/"}
+  - {titre: "Redalyc : tourisme et territorialisation mapuche à Huechulafquen, parc Lanín", url: "https://www.redalyc.org/journal/6680/668080033005/"}

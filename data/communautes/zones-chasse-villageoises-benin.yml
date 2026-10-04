@@ -1,0 +1,65 @@
+uid: "zones-chasse-villageoises-benin"
+nom: "Zones villageoises de chasse du Bénin"
+endonyme: ""
+territoire: "Villages riverains des aires protégées du Nord du Bénin, surtout autour de la réserve de biosphère de la Pendjari (département de l'Atacora) et du parc national du W (département de l'Alibori) ; les zones villageoises de chasse peuvent être créées dans tout le domaine forestier protégé de l'État"
+etats: ["Bénin"]
+region: "afrique"
+coord: [11.2, 1.5]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 36000, annee: 2015, perimetre: "bénéficiaires déclarés par l'étude de cas du PNUD : personnes des 28 villages de la zone tampon de la Pendjari membres de l'Union des AVIGREF ; les AVIGREF du parc du W ne sont pas comptées", source: "https://www.equatorinitiative.org/wp-content/uploads/2017/05/case_1466460318.pdf"}
+lieux: {valeur: 22, unite: "AVIGREF de villages riverains de la Pendjari (tableau 9 du plan d'aménagement, effectifs au 31 mai 2003) ; AVIGREF du parc du W non comptées ; aucun décompte des zones villageoises de chasse créées par arrêté communal n'a été trouvé", annee: 2003, source: "https://faolex.fao.org/docs/pdf/ben219311.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 28, annee: 2015, perimetre: "villages membres de l'Union des AVIGREF de la Pendjari, selon l'étude de cas du PNUD", source: "https://www.equatorinitiative.org/wp-content/uploads/2017/05/case_1466460318.pdf"}
+resume: >-
+  Au Bénin, la loi n° 2002-16 du 18 octobre 2004 portant régime de la faune définit la zone villageoise de chasse comme une portion du domaine forestier protégé aménagée par les populations riveraines pour la chasse villageoise (art. 12). Le décret n° 2011-394 du 28 mai 2011 permet aux populations, aux collectivités locales et à d'autres promoteurs de créer ces zones, constatées par arrêté communal ; seules les structures de cogestion des communautés villageoises, dotées de la personnalité juridique, et les titulaires d'un permis de chasse sportive pour la zone peuvent y chasser, et les redevances variables (taxes d'abattage) reviennent à ces structures ou à la commune et aux communautés concernées. Autour de la Pendjari et du W, les structures de cogestion sont les associations villageoises de gestion des réserves de faune (AVIGREF), créées à partir de 1996 et regroupées en unions ; selon le rapport national de 2009 à la Convention sur la diversité biologique, elles reçoivent 30 % des recettes de la chasse sportive des zones cynégétiques de l'État. Aucun décompte officiel des zones villageoises de chasse effectivement créées n'a été trouvé. Les forêts sacrées font l'objet de la fiche « Forêts sacrées du Bénin ».
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Quatrième rapport national du Bénin à la Convention sur la diversité biologique (juillet 2009) : les revenus de l'exploitation de la faune autour des aires protégées sont répartis avec les populations riveraines par les AVIGREF ; « La viande et les 30% des recettes des activités cynégétiques sont rétrocédés aux populations » dans les réserves du W et de la Pendjari ; mise en place de réserves villageoises de chasse autogérées « non encore fonctionnel dans toutes les réserves ».", annee: 2009, source: "https://www.cbd.int/doc/world/bj/bj-nr-04-fr.pdf"}
+base_nationale:
+  - {instrument: "Loi n° 2002-16 du 18 octobre 2004 portant régime de la faune en République du Bénin, art. 3, 12, 48, 51, 52, 63 et 124", nature: "loi", annee: 2004, source: "https://faolex.fao.org/docs/pdf/ben166784.pdf"}
+  - {instrument: "Décret n° 2011-394 du 28 mai 2011 fixant les modalités de conservation, de développement et de gestion durable de la faune et de ses habitats, art. 32, 33, 37 à 40, 48 à 53 et 59", nature: "loi", annee: 2011, source: "https://sgg.gouv.bj/doc/decret-2011-394/download"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les communautés villageoises qui pratiquent la chasse villageoise « s'organisent et se dotent de la personnalité juridique » (décret n° 2011-394, art. 50) ; les structures de cogestion émanent des populations riveraines, et leurs statuts sont élaborés avec les communes et l'administration de la faune (art. 37 et 39).", source: "https://sgg.gouv.bj/doc/decret-2011-394/download"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les zones villageoises de chasse sont dotées de plans d'aménagement établis par les communautés villageoises avec l'appui de l'administration de la faune, qui contrôle la gestion lors de revues annuelles (décret n° 2011-394, art. 33 et 49).", source: "https://sgg.gouv.bj/doc/decret-2011-394/download"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les populations, les collectivités locales « et tous autres promoteurs » peuvent créer des zones villageoises de chasse dans le domaine protégé de l'État et en assurer la gestion ; la création est constatée par arrêté communal (décret n° 2011-394, art. 33) ; le texte parle de « structure villageoise propriétaire de la zone » (art. 51) sans transférer la propriété du sol.", source: "https://sgg.gouv.bj/doc/decret-2011-394/download"}
+  ressources: {valeur: "partiel", note: "Seules les structures de cogestion et les titulaires d'un permis de chasse sportive pour la zone peuvent y chasser ; la chasse villageoise peut se faire au profit de la structure propriétaire, avec un permis gratuit, ou au profit de tiers, avec un permis payant (décret n° 2011-394, art. 50 à 53) ; les espèces protégées restent soumises à la loi n° 2002-16.", source: "https://sgg.gouv.bj/doc/decret-2011-394/download"}
+  consentement: {valeur: "partiel", note: "Les permis de chasse sportive et de capture commerciale portant sur une zone villageoise de chasse sont délivrés « après avis favorable » de sa structure de cogestion ; la chasse au profit d'un tiers exige l'avis de la structure propriétaire (décret n° 2011-394, art. 52 et 59).", source: "https://sgg.gouv.bj/doc/decret-2011-394/download"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les redevances variables (taxes d'abattage) de la chasse sportive en zone villageoise de chasse « profitent exclusivement » à la commune et aux communautés villageoises concernées, et celles de la chasse au profit de tiers sont reversées à la structure de cogestion (décret n° 2011-394, art. 49 et 52) ; la loi n° 2002-16 affecte les redevances des permis de visite et de prise de vues dans les aires protégées au budget de l'administration de la faune et des communautés riveraines (art. 123 et 124).", source: "https://sgg.gouv.bj/doc/decret-2011-394/download"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon l'étude de cas du PNUD (2015), l'Union des AVIGREF, association reconnue en droit qui réunit 28 villages riverains de la Pendjari, reçoit 30 % des recettes de la chasse sportive de la réserve, soit 38 millions de francs CFA en 2013, répartis entre les villages. Le plan d'aménagement de la Pendjari (2004-2013) indique que cette part est appliquée depuis 2002 sans texte qui la garantisse et que la chasse villageoise et la création de zones villageoises de chasse ne sont « pas encore » réglées « à la satisfaction des populations riveraines » ; le rapport national de 2009 à la Convention sur la diversité biologique décrit ce processus comme « non encore fonctionnel dans toutes les réserves ». Aucune source indépendante sur les zones villageoises de chasse créées par arrêté communal n'a été trouvée.", source: "https://www.equatorinitiative.org/wp-content/uploads/2017/05/case_1466460318.pdf"}
+chronologie:
+  - {annee: 1996, evenement: "Création des premières AVIGREF par les villages riverains de la zone cynégétique de la Pendjari et création du Centre national de gestion des réserves de faune (CENAGREF)."}
+  - {annee: 2001, evenement: "Fondation de l'Union des AVIGREF de la Pendjari, selon l'étude de cas du PNUD."}
+  - {annee: 2002, evenement: "Début du reversement de 30 % des recettes de la chasse sportive aux AVIGREF de la Pendjari."}
+  - {annee: 2004, evenement: "Promulgation de la loi n° 2002-16 portant régime de la faune, qui définit la zone villageoise de chasse (art. 12)."}
+  - {annee: 2009, evenement: "Le quatrième rapport national à la Convention sur la diversité biologique décrit le rôle des AVIGREF autour du W et de la Pendjari."}
+  - {annee: 2011, evenement: "Décret n° 2011-394 : création des zones villageoises de chasse par les populations, constat par arrêté communal, structures de cogestion et partage des redevances."}
+  - {annee: 2014, evenement: "L'Union des AVIGREF de la Pendjari reçoit le prix Équateur du PNUD."}
+fiabilite:
+  verifie:
+    - "Texte des art. 3, 12, 48, 51, 52, 63, 123 et 124 de la loi n° 2002-16, sur la version publiée par FAOLEX ; l'art. 124 vise les permis de visite et de prise de vues, pas les permis de chasse."
+    - "Texte des art. 32, 33, 37 à 40, 48 à 53, 59 et 64 du décret n° 2011-394, sur la copie publiée par FAOLEX ; la copie du Secrétariat général du gouvernement porte le même intitulé."
+    - "Création des AVIGREF en 1996, liste de 22 AVIGREF au 31 mai 2003, part de 30 % appliquée depuis 2002 sans base réglementaire, statuts relevant de la loi de 1901 sur les associations, dans le plan d'aménagement de la Pendjari 2004-2013 (CENAGREF)."
+    - "Mention des AVIGREF et des 30 % rétrocédés dans le quatrième rapport national du Bénin à la Convention sur la diversité biologique (2009)."
+    - "28 villages, 36 000 bénéficiaires, part de 30 %, 38 millions de francs CFA en 2013, prix Équateur 2014, dans l'étude de cas du PNUD (2015), qui date la fondation de l'Union des AVIGREF de 2001."
+  non_confirme:
+    - "Nombre de zones villageoises de chasse effectivement créées par arrêté communal : aucune liste ni décompte trouvé."
+    - "Nombre et composition des AVIGREF du parc du W et nombre total d'AVIGREF au Bénin non trouvés dans une source ouverte."
+    - "Arrêté ministériel fixant la représentation des structures de cogestion au conseil d'administration des aires protégées (décret n° 2011-394, art. 38) non consulté."
+    - "Effets de la gestion déléguée de la Pendjari et du W à un opérateur privé sur le rôle et la part des recettes des AVIGREF non documentés par une source consultée ; un bulletin des parcs de 2021 montre que l'AVIGREF distribue encore la viande de chasse sportive."
+    - "Maintien en vigueur de la loi n° 2002-16 et du décret n° 2011-394 en 2026 non contrôlé sur une source officielle à jour."
+sources:
+  - {titre: "Loi n° 2002-16 du 18 octobre 2004 portant régime de la faune en République du Bénin — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ben166784.pdf"}
+  - {titre: "Décret n° 2011-394 du 28 mai 2011 fixant les modalités de conservation, de développement et de gestion durable de la faune et de ses habitats — Secrétariat général du gouvernement", url: "https://sgg.gouv.bj/doc/decret-2011-394/download"}
+  - {titre: "Décret n° 2011-394 du 28 mai 2011 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/Ben224997.pdf"}
+  - {titre: "Plan d'aménagement et de gestion de la réserve de biosphère de la Pendjari 2004-2013 — CENAGREF, FAOLEX", url: "https://faolex.fao.org/docs/pdf/ben219311.pdf"}
+  - {titre: "Quatrième rapport national du Bénin sur la diversité biologique (2009) — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/bj/bj-nr-04-fr.pdf"}
+  - {titre: "Union des AVIGREF, Bénin — étude de cas de l'Initiative Équateur, PNUD (2015)", url: "https://www.equatorinitiative.org/wp-content/uploads/2017/05/case_1466460318.pdf"}
+  - {titre: "Échos de nos parcs n° 3, décembre 2021 — parcs nationaux de la Pendjari et du W-Bénin", url: "https://www.africanparks.org/sites/default/files/uploads/newsroom_file_upload/2022-02/ECHOS%20DE%20NOS%20PARCS%20N%C2%B0003%20PARCS%20PENDJARI%20ET%20W-BENIN.pdf"}

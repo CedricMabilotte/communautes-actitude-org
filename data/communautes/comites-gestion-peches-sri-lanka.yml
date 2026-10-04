@@ -1,0 +1,55 @@
+uid: "comites-gestion-peches-sri-lanka"
+nom: "Comités de gestion des pêches du Sri Lanka"
+endonyme: ""
+territoire: "Zones de gestion des pêches (Fisheries Management Areas) délimitées dans les eaux du Sri Lanka et sur les terres adjacentes"
+etats: ["Sri Lanka"]
+region: "asie"
+coord: [7.9, 80.7]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 7, unite: "zones de gestion des pêches déclarées en vertu de la loi de 1996 (chiffre de 2004 ; des ordres de 2010 désignent la zone de la côte sud du district de Hambantota et celle de la lagune de Puttalam)", annee: 2004, source: "https://www.fao.org/fishery/docs/DOCUMENT/fcp/en/FI_CP_LK.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi sur les pêches et les ressources aquatiques (Fisheries and Aquatic Resources Act) no 2 de 1996 permet de délimiter des zones de gestion des pêches (Fisheries Management Areas) dans les eaux du Sri Lanka et sur les terres adjacentes. Les pêcheurs enregistrés qui résident ou pêchent dans une zone peuvent former un comité de pêche (fisheries committee) ; une fois enregistré par le directeur des pêches et notifié au Journal officiel, le comité devient une personne morale et tient le registre des pêcheurs de sa zone (art. 32 et 33). Depuis la loi modificative no 35 de 2013, chaque zone est dotée d'un comité de coordination nommé par le directeur général, où siègent des membres élus par les comités de pêche aux côtés de fonctionnaires, et qui prépare un plan de gestion soumis au ministre (art. 31 à 31B). Selon la FAO, sept zones avaient été déclarées en 2004.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Fisheries and Aquatic Resources Act no 2 de 1996, art. 31 à 34 (version d'origine : désignation des comités de pêche comme autorités de gestion des pêches)", nature: "loi", annee: 1996, source: "https://lk.chm-cbd.net/sites/lk/files/2022-06/Fisheries-and-Aquatic-Resources-Act-No.-2-of-1996.pdf"}
+  - {instrument: "Fisheries and Aquatic Resources (Amendment) Act no 35 de 2013, art. 9 à 11 : nouvel art. 31, art. 31A (comité de coordination) et 31B (plan de développement et de gestion), modification de l'art. 32", nature: "loi", annee: 2013, source: "https://faolex.fao.org/docs/pdf/srl132448.pdf"}
+  - {instrument: "Fishing Operations Regulations of catching Chank or Lobster in the South Coast (Hambantota District) Fisheries Management Area, 2012 (Journal officiel extraordinaire no 1774/36 du 7 septembre 2012)", nature: "loi", annee: 2012, source: "https://faolex.fao.org/docs/pdf/srl133798.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les pêcheurs enregistrés qui résident ou pêchent dans une zone de gestion, ou les pêcheurs migrants, peuvent former un comité de pêche ; enregistré par le directeur et notifié au Journal officiel, il devient une personne morale (body corporate) qui peut agir en justice (art. 32 (1), (3) et (4) de la loi de 1996). Il établit et révise le registre des pêcheurs de sa zone, le premier registre étant certifié par le directeur (art. 33 (1)). L'élection du bureau et la procédure relèvent de règlements, les comptes sont vérifiés par le directeur, qui peut annuler l'enregistrement d'un comité inactif ou qui n'agit pas dans l'intérêt de ses membres (art. 32 (5) et (6)).", source: "https://lankalaw.net/wp-content/uploads/2025/03/Fisheries-and-Aquatic-Resources-Act-Consolidated-2024.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Dans la zone de gestion de la côte sud du district de Hambantota, les licences de pêche du triton (chank) et de la langouste ne sont délivrées ou renouvelées que sur recommandation du comité de pêche dont le titulaire est membre ; le directeur général fixe le nombre de licences (règlement de 2012, art. 4, 5 et 7).", source: "https://faolex.fao.org/docs/pdf/srl133798.pdf"}
+  consentement: {valeur: "partiel", note: "Les pêcheurs d'une zone peuvent demander par écrit sa désignation comme zone de gestion (art. 31 (1), version de 2013). Le comité de coordination de chaque zone comprend jusqu'à quatre membres élus par un comité de pêche, ou jusqu'à douze en nombre égal s'il y en a plusieurs, aux côtés de fonctionnaires, d'élus locaux, de la police, des garde-côtes et de la marine ; il soumet un plan de gestion que le directeur général peut modifier et que le ministre approuve (art. 31A et 31B). Il s'agit d'une participation, non d'un consentement.", source: "https://lankalaw.net/wp-content/uploads/2025/03/Fisheries-and-Aquatic-Resources-Act-Consolidated-2024.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le profil des pêches du Sri Lanka publié par la FAO (2006), sept zones de gestion avaient été déclarées en 2004. En 2020, le président du Forum sri-lankais pour la pêche artisanale, O. Amarasinghe, écrit qu'il faut encore établir des zones de gestion et des comités de pêche au titre de la loi de 1996 pour que les intérêts de la pêche soient représentés dans la gestion des zones spéciales (Special Area Management) prévue par le plan de gestion côtière de 2018, et que « ni les agents de l'État ni les communautés ne comprennent pleinement ce que signifie la cogestion » (Samudra Report no 84).", source: "https://icsf.net/samudra/path-to-a-policy-upgrade/"}
+chronologie:
+  - {annee: 1996, evenement: "Loi no 2 sur les pêches et les ressources aquatiques : zones de gestion des pêches, comités de pêche et autorités de gestion des pêches pouvant faire des recommandations au ministre sur les engins, les saisons de fermeture et les horaires de pêche."}
+  - {annee: 1997, evenement: "Publication au Journal officiel (no 972/15 du 25 avril 1997) du comité de pêche du triton et de la langouste de la côte sud du district de Hambantota."}
+  - {annee: 2004, evenement: "Sept zones de gestion des pêches déclarées selon la FAO."}
+  - {annee: 2010, evenement: "Désignation de la zone de gestion de la côte sud du district de Hambantota (Journal officiel no 1665/18 du 4 août 2010) et de la zone de gestion de la lagune de Puttalam."}
+  - {annee: 2012, evenement: "Règlement sur la pêche du triton et de la langouste dans la zone de Hambantota : licences délivrées sur recommandation du comité de pêche."}
+  - {annee: 2013, evenement: "Loi modificative no 35 : les autorités de gestion des pêches sont remplacées par un comité de coordination par zone, nommé par le directeur général, chargé d'un plan de développement et de gestion ; le comité de pêche perd sa fonction de programme de pêche propre."}
+fiabilite:
+  verifie: ["Texte d'origine de la loi de 1996 (art. 31 à 33) : autorités de gestion des pêches et comités de pêche.", "Loi modificative no 35 de 2013 (art. 9 à 11) : nouveaux art. 31, 31A et 31B, abrogation de l'art. 32 (2) (a).", "Version consolidée de la loi (modifications jusqu'à la loi no 27 de 2023) : art. 31 à 33 dans la rédaction de 2013.", "Règlement de 2012 sur la zone de gestion de la côte sud du district de Hambantota (Journal officiel no 1774/36), avec renvoi à l'ordre no 1665/18 de 2010 et au comité publié sous le no 972/15 de 1997.", "Profil FAO des pêches du Sri Lanka (2006) : sept zones déclarées en 2004.", "UICN (avril 2025) : zone de gestion de la lagune de Puttalam désignée en 2010 ; 88 villages de pêcheurs et environ 165 000 personnes dépendent de la lagune.", "Rapport juridique FAO EAF-Nansen no 61 (2023) : description des art. 31 à 33 en vigueur."]
+  non_confirme: ["Aucune liste officielle à jour des zones de gestion désignées ni des comités de pêche enregistrés n'a été trouvée ; pas de tableau des sites. Le nombre de 2004 précède les ordres de 2010 sur les zones de Hambantota et de Puttalam ; on ne sait pas si ces ordres désignent des zones nouvelles ou en redéfinissent d'anciennes (le comité de Hambantota est publié dès 1997).", "Aucun plan de développement et de gestion publié au Journal officiel en vertu de l'art. 31B n'a été consulté.", "Les règlements sur l'élection des bureaux des comités (art. 32 (5)) et sur la procédure du registre des pêcheurs (art. 33 (2)) n'ont pas été trouvés.", "La surface des zones et la population des pêcheurs inscrits aux registres n'ont pas été trouvées.", "Le pouvoir de recommandation sur les licences n'a été vérifié que pour la zone de Hambantota ; il n'est pas établi qu'il existe dans les autres zones.", "Aucun document de la Convention sur la diversité biologique nommant ce régime n'a été trouvé."]
+sources:
+  - {titre: "Fisheries and Aquatic Resources Act no 2 de 1996 — texte d'origine, Centre d'échange du Sri Lanka pour la CDB", url: "https://lk.chm-cbd.net/sites/lk/files/2022-06/Fisheries-and-Aquatic-Resources-Act-No.-2-of-1996.pdf"}
+  - {titre: "Fisheries and Aquatic Resources (Amendment) Act no 35 de 2013 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/srl132448.pdf"}
+  - {titre: "Fisheries and Aquatic Resources Act — version consolidée (2024)", url: "https://lankalaw.net/wp-content/uploads/2025/03/Fisheries-and-Aquatic-Resources-Act-Consolidated-2024.pdf"}
+  - {titre: "Règlement de 2012 sur la pêche du triton et de la langouste dans la zone de gestion de la côte sud (district de Hambantota) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/srl133798.pdf"}
+  - {titre: "Profil des pêches par pays : Sri Lanka — FAO (2006)", url: "https://www.fao.org/fishery/docs/DOCUMENT/fcp/en/FI_CP_LK.pdf"}
+  - {titre: "J. N. Nakamura et T. Amador, Legal report on the ecosystem approach to fisheries in Sri Lanka — FAO EAF-Nansen Programme Report no 61 (2023)", url: "https://openknowledge.fao.org/server/api/core/bitstreams/432320bc-e00e-405c-8e35-6d2644b91790/content"}
+  - {titre: "O. Amarasinghe, Sri Lanka: Path to a Policy Upgrade — Samudra Report no 84, ICSF (2020)", url: "https://icsf.net/samudra/path-to-a-policy-upgrade/"}
+  - {titre: "Sri Lanka's second largest lagoon to explore new ecosystems approach for fisheries management — UICN (2025)", url: "https://iucn.org/story/202504/sri-lankas-second-largest-lagoon-explore-new-ecosystems-approach-fisheries-management"}

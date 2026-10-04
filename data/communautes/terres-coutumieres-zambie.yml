@@ -1,0 +1,69 @@
+uid: "terres-coutumieres-zambie"
+nom: "Terres coutumières de Zambie"
+endonyme: ""
+territoire: "Zones coutumières (customary areas) définies par les annexes des Zambia (State Lands and Reserves) Orders de 1928 à 1964 et des Zambia (Trust Land) Orders de 1947 à 1964, réparties entre les chefferies des dix provinces"
+etats: ["Zambie"]
+region: "afrique"
+coord: [-13.5, 27.8]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 288, unite: "chefs (chefferies) qui administrent la terre coutumière", annee: 2021, source: "https://www.iied.org/zambias-chiefs-champion-gender-equality-land-natural-resource-governance"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi foncière de 1995 (Lands Act, chap. 184) maintient et reconnaît les droits détenus selon la tenure coutumière (droits fonciers attribués et contrôlés selon la coutume locale) dans les zones coutumières (art. 7). La terre reste dévolue au Président au nom du peuple zambien (art. 3) ; le Président ne peut l'aliéner en zone coutumière sans tenir compte du droit coutumier local, sans consulter le chef et sans l'approbation préalable du chef et de l'autorité locale (art. 3 (4)), et la conversion d'une tenure coutumière en bail exige la même approbation (art. 8). La Constitution amendée en 2016 garantit l'institution de la chefferie, qui peut détenir des biens en fiducie pour ses sujets (art. 165 et 166), et classe la terre en terre d'État et terre coutumière (art. 254). Selon la politique foncière nationale de 2021, la terre coutumière représentait 94 % du territoire à l'indépendance, part réduite depuis par les conversions en terre d'État. La faune, les forêts et les pêcheries gérées par les communautés font l'objet des fiches « Conseils communautaires des ressources de Zambie », « Forêts communautaires de Zambie » et « Zones de gestion des pêcheries de Zambie ».
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la Zambie, telle qu'amendée par la loi n° 2 de 2016, art. 7, 23 (4), 165 à 169 et 254", nature: "constitution", annee: 2016, source: "https://www.constituteproject.org/constitution/Zambia_2016"}
+  - {instrument: "Lands Act, 1995 (Act No. 29 of 1995, chap. 184), art. 2, 3, 7 et 8 (version consolidée au 1er janvier 2016)", nature: "loi", annee: 1995, source: "https://zambialii.org/akn/zm/act/1995/29/eng@2016-01-01"}
+  - {instrument: "Local Courts Act, 1966 (chap. 29), art. 12 et 36 (droit coutumier appliqué par les tribunaux locaux), version en vigueur depuis le 26 septembre 2008", nature: "loi", annee: 1966, source: "https://zambialii.org/akn/zm/act/1966/20"}
+  - {instrument: "Minerals Regulation Commission Act, 2024 (Act No. 14 of 2024), art. 35 (1) (c) et 35 (3), en vigueur depuis le 13 juin 2025 (abroge le Mines and Minerals Development Act de 2015)", nature: "loi", annee: 2024, source: "https://zambialii.org/akn/zm/act/2024/14"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "L'institution de la chefferie et les institutions traditionnelles sont garanties et existent selon la culture, les coutumes et les traditions des personnes concernées ; le Parlement ne peut donner à une personne ou à une autorité le droit de reconnaître ou de retirer la reconnaissance d'un chef (Constitution, art. 165). La chefferie est une personne morale à succession perpétuelle (corporation sole) qui peut détenir des biens en fiducie pour ses sujets (art. 166).", source: "https://www.constituteproject.org/constitution/Zambia_2016"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le droit coutumier zambien compatible avec la Constitution fait partie du droit de la Zambie (Constitution, art. 7). Le Président ne peut aliéner une terre en zone coutumière sans tenir compte du droit coutumier local sur la tenure foncière qui n'est pas contraire à la présente loi (Lands Act, art. 3 (4) (a)). La Chambre des chefs discute et décide des questions de droit et de pratique coutumiers et propose les domaines du droit coutumier à codifier (Constitution, art. 169) ; elle n'a pas de pouvoir législatif.", source: "https://zambialii.org/akn/zm/act/1995/29/eng@2016-01-01"}
+  justice_propre: {valeur: "partiel", note: "Les tribunaux locaux (local courts), juridictions de l'État, appliquent le droit coutumier africain dans la mesure où il n'est pas contraire à la justice naturelle, à la morale ou à la loi écrite (Local Courts Act, art. 12). La politique foncière nationale de 2021 attribue aux chefs le règlement des différends fonciers dans leurs chefferies (point 5.1.3) ; ce rôle relève d'une politique, non d'une loi.", source: "https://zambialii.org/akn/zm/act/1966/20"}
+  terres: {valeur: "partiel", note: "Toute terre détenue selon la tenure coutumière en zone coutumière avant 1995 continue d'être détenue et reconnue, et aucune loi ne peut être interprétée comme portant atteinte à ces droits (Lands Act, art. 7). Toute la terre est dévolue au Président (art. 3 (1)) ; le détenteur coutumier peut convertir sa terre en bail de 99 ans au plus, après approbation du chef et de l'autorité locale (art. 8 (1) et (2)), et aucun titre autre que le droit d'usage et d'occupation coutumier n'est valide sans confirmation du chef et bail accordé par le Président (art. 8 (3)).", source: "https://zambialii.org/akn/zm/act/1995/29/eng@2016-01-01"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le Président ne peut aliéner une terre en zone coutumière sans consulter le chef, l'autorité locale et toute personne dont les intérêts sont touchés, ni sans l'approbation préalable du chef et de l'autorité locale pour un bail (Lands Act, art. 3 (4)). Le titulaire d'un droit minier ou d'une licence de traitement des minerais ne peut exercer ses droits sur une terre occupée par un village ou sur une autre terre en tenure coutumière sans le consentement écrit du chef et de l'autorité locale du district (Minerals Regulation Commission Act 2024, art. 35 (1) (c), qui reprend l'art. 52 de la loi minière de 2015) ; si un consentement est refusé de façon jugée déraisonnable, la Commission de régulation des minerais peut renvoyer l'affaire à l'arbitrage (art. 35 (3)). Le consentement est celui du chef, non de la communauté.", source: "https://zambialii.org/akn/zm/act/2024/14"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "La Chambre des chefs compte cinq chefs par province, élus par les chefs de la province ; elle examine les projets de loi touchant à la coutume que le Président lui soumet avant leur dépôt à l'Assemblée nationale et conseille le gouvernement (Constitution, art. 169). Elle a un rôle consultatif.", source: "https://www.constituteproject.org/constitution/Zambia_2016"}
+  statut_personnel: {valeur: "partiel", note: "L'interdiction des lois discriminatoires ne s'applique pas aux lois sur l'adoption, le mariage, le divorce, les funérailles, la dévolution des biens au décès et les autres matières de statut personnel, ni à l'application du droit coutumier à certains groupes (Constitution, art. 23 (4)) ; les tribunaux locaux nomment des administrateurs de successions régies par le droit coutumier (Local Courts Act, art. 36).", source: "https://www.constituteproject.org/constitution/Zambia_2016"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Une étude universitaire publiée en 2023 (revue Land), fondée sur la base Land Matrix, recense 13 transactions foncières de grande échelle avec accaparement de terres entre 1970 et 2020 ; 11 se situent dans les provinces Centrale, de la Copperbelt et Méridionale, et 6 sont liées au programme public de blocs agricoles (Farm Block Development Programme). Elle relève que le coût de la conversion d'une tenure coutumière en bail dépasse les moyens de la plupart des Zambiens. Côté gouvernement, la politique foncière nationale de 2021 indique que les cartes des limites des chefferies sont anciennes et source d'empiétements et de différends, et que les procédures d'aliénation reposent sur une circulaire administrative non contraignante de 1985.", source: "https://www.mdpi.com/2073-445X/12/1/200"}
+chronologie:
+  - {annee: 1928, evenement: "Date du premier des Orders (State Lands and Reserves) auxquels renvoie la définition de la zone coutumière du Lands Act (art. 2)."}
+  - {annee: 1947, evenement: "Date du premier des Orders (Trust Land) ; selon le Lands Act de 1995, les annexes des Orders de 1928 à 1964 et de 1947 à 1964 définissent les zones coutumières."}
+  - {annee: 1964, evenement: "Indépendance : la terre coutumière est estimée à 94 % d'un territoire de 752 614 km²."}
+  - {annee: 1995, evenement: "Lands Act : la terre est dévolue au Président, les tenures coutumières sont maintenues (art. 7) et leur conversion en bail est soumise à l'approbation du chef (art. 8)."}
+  - {annee: 2015, evenement: "Mines and Minerals Development Act : consentement écrit du chef requis pour exercer un droit minier sur une terre en tenure coutumière (art. 52)."}
+  - {annee: 2016, evenement: "Amendement constitutionnel : garantie de la chefferie (art. 165 à 168), Chambre des chefs (art. 169), classement de la terre en terre d'État et terre coutumière (art. 254)."}
+  - {annee: 2021, evenement: "Politique foncière nationale (mai 2021) : rôle des chefs dans l'attribution, l'enregistrement et le règlement des différends sur la terre coutumière."}
+  - {annee: 2025, evenement: "Le Minerals Regulation Commission Act de 2024 entre en vigueur le 13 juin et abroge la loi minière de 2015 ; le consentement écrit du chef est maintenu (art. 35)."}
+fiabilite:
+  verifie:
+    - "Texte des art. 2 (définition de la zone coutumière), 3 (1), 3 (4), 3 (5), 7 et 8 du Lands Act, version consolidée au 1er janvier 2016 (ZambiaLII)."
+    - "Texte des art. 7, 23 (4), 165 à 169 et 253 à 254 de la Constitution (Constitute Project)."
+    - "Art. 12 et 36 du Local Courts Act, version en vigueur depuis 2008 (ZambiaLII)."
+    - "Abrogation du Mines and Minerals Development Act 2015 le 13 juin 2025 par le Minerals Regulation Commission Act 2024 ; art. 35 (1) (c), 35 (2) et 35 (3) de ce dernier (ZambiaLII)."
+    - "Étude de 2023 (Land, 12 (1), 200) : 13 cas, dont 11 dans trois provinces et 6 liés au Farm Block Development Programme ; coût de la conversion en bail."
+    - "Part de 94 % à l'indépendance, superficie de 752 614 km² et rôle des chefs (point 5.1.3) dans la politique foncière nationale de 2021 (FAOLEX)."
+  non_confirme:
+    - "Nombre de 288 chefs : chiffre d'une source indépendante (IIED, 2021) ; liste officielle des chefferies reconnues non consultée."
+    - "Surface actuelle de la terre coutumière : la politique de 2021 ne la chiffre pas ; l'IIED donne une fourchette de 60 % à 94 % du territoire."
+    - "Population vivant sur terre coutumière et nombre de villages : aucune source trouvée."
+    - "Texte du Chiefs Act (chap. 287) et de la loi prévue par l'art. 168 (3) de la Constitution sur le rôle des chefs dans la gestion des ressources naturelles : non consultés ou non trouvés."
+    - "Aucun document d'un mécanisme de l'ONU ou de la Commission africaine visant nommément ce régime foncier n'a été trouvé. L'Accord du Barotseland de 1964, abrogé en 1969, n'ouvre pas de régime distinct."
+sources:
+  - {titre: "Lands Act, 1995 (chap. 184) — ZambiaLII", url: "https://zambialii.org/akn/zm/act/1995/29/eng@2016-01-01"}
+  - {titre: "Constitution de la Zambie (2016) — Constitute Project", url: "https://www.constituteproject.org/constitution/Zambia_2016"}
+  - {titre: "Local Courts Act, 1966 (chap. 29) — ZambiaLII", url: "https://zambialii.org/akn/zm/act/1966/20"}
+  - {titre: "Minerals Regulation Commission Act, 2024 (Act No. 14 of 2024) — ZambiaLII", url: "https://zambialii.org/akn/zm/act/2024/14"}
+  - {titre: "Mines and Minerals Development Act, 2015 (abrogé en 2025) — ZambiaLII", url: "https://zambialii.org/akn/zm/act/2015/11"}
+  - {titre: "Ministry of Lands and Natural Resources, « National Lands Policy », mai 2021 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/zam219882.pdf"}
+  - {titre: "Mesfin, Z., « Zambia's chiefs champion gender equality in land and natural resource governance », IIED, 6 septembre 2021", url: "https://www.iied.org/zambias-chiefs-champion-gender-equality-land-natural-resource-governance"}
+  - {titre: "Bae, Y. J., « Analyzing the Connection between Customary Land Rights and Land Grabbing: A Case Study of Zambia », Land, 12 (1), 200, 2023", url: "https://www.mdpi.com/2073-445X/12/1/200"}

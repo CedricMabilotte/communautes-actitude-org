@@ -1,0 +1,55 @@
+uid: "institutions-culturelles-ouganda"
+nom: "Institutions culturelles de l'Ouganda (royaumes)"
+endonyme: ""
+territoire: "Ouganda (zones d'allégeance de chaque institution)"
+etats: ["Ouganda"]
+region: "afrique"
+coord: [1.4, 32.3]
+type: "peuple_tribal"
+types_secondaires: []
+base: "personnelle"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 17, unite: "dirigeants traditionnels ou culturels publiés au Journal officiel (gazetted)", annee: 2024, source: "https://observer.ug/news/parliament-approves-shs-60m-monthly-salary-for-cultural-leaders/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution ougandaise de 1995 (art. 246) autorise l'existence d'institutions de dirigeant traditionnel ou culturel (rois et dirigeants équivalents) selon la coutume des communautés concernées. Les royaumes abolis en 1967 sont restaurés en 1993, le Buganda en premier ; une loi de la même année leur restitue des biens. Chaque institution est une personne morale qui détient des biens en fiducie pour la communauté, mais n'exerce aucun pouvoir administratif, législatif ou exécutif. La loi de 2011 fixe la procédure de reconnaissance par publication au Journal officiel ; 17 dirigeants y figuraient en 2024. Les terres détenues en commun font l'objet de la fiche « Associations de terres communales d'Ouganda ».
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République de l'Ouganda (1995), art. 246", nature: "constitution", annee: 1995, source: "https://www.constituteproject.org/constitution/Uganda_2017.pdf?lang=en"}
+  - {instrument: "Traditional Rulers (Restitution of Assets and Properties) Statute 1993", nature: "loi", annee: 1993, source: "https://www.cmi.no/publications/file/2176-kingship-in-uganda.pdf"}
+  - {instrument: "Institution of Traditional or Cultural Leaders Act 2011 (chap. 242)", nature: "loi", annee: 2011, source: "https://media.ulii.org/media/legislation/120725/source_file/52c88e9d97aca76b/2011-6.pdf"}
+  - {instrument: "Constitution (Amendment) Act 2005, art. 178 et cinquième annexe (gouvernements régionaux)", nature: "constitution", annee: 2005, source: "https://www.constituteproject.org/constitution/Uganda_2017.pdf?lang=en"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'institution existe selon la coutume de la communauté ou par résolution des deux tiers des conseils locaux (loi de 2011, art. 3) ; elle est une personne morale à succession perpétuelle (corporation sole), mais le dirigeant n'exerce aucun pouvoir administratif, législatif ou exécutif de l'État ou des collectivités locales (Constitution, art. 246(3)(f) ; loi de 2011, art. 11).", source: "https://media.ulii.org/media/legislation/120725/source_file/52c88e9d97aca76b/2011-6.pdf"}
+  pouvoir_normatif: {valeur: "conteste", note: "L'amendement de 2005 (art. 178 et cinquième annexe) prévoit des gouvernements régionaux, dont le Buganda, le Bunyoro et le Busoga, avec une assemblée qui légifère et un comité des affaires culturelles dont les décisions requièrent l'approbation du dirigeant culturel ; prévu pour le 1er juillet 2006 (art. 178(13)), ce niveau régional n'a jamais été mis en place.", source: "https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2022-167-making-unmaking-Uganda-ethnic-based-decentralization-programme.pdf"}
+  justice_propre: {valeur: "partiel", note: "Les différends sur l'existence de l'institution, le choix du dirigeant ou la procédure d'intronisation sont d'abord tranchés par un conseil d'anciens ou de chefs de clan selon la coutume, puis par les tribunaux en cas d'échec (loi de 2011, art. 15).", source: "https://media.ulii.org/media/legislation/120725/source_file/52c88e9d97aca76b/2011-6.pdf"}
+  terres: {valeur: "partiel", note: "L'institution détient des biens en fiducie (in trust, au nom et pour le compte) pour elle-même et la communauté (Constitution, art. 246(3)(a)) ; la loi de restitution de 1993 rend au royaume du Buganda le Bulange, le palais de Mengo et 350 milles carrés de terres officielles du Kabaka.", source: "https://www.cmi.no/publications/file/2176-kingship-in-uganda.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Aucune contribution ne peut être imposée aux membres (Constitution, art. 246(3)(d)) ; la communauté a la charge première de l'entretien du dirigeant, sans contribution obligatoire (loi de 2011, art. 10) ; l'État verse au dirigeant les avantages de l'annexe 2 (indemnité, véhicules, sécurité), exonérés d'impôt, et peut financer ses fonctions par une subvention du Fonds consolidé (art. 9).", source: "https://media.ulii.org/media/legislation/120725/source_file/52c88e9d97aca76b/2011-6.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les dirigeants reçoivent une allocation mensuelle de l'État de 5 millions de shillings ; en 2024, la commission parlementaire du genre, du travail et du développement social relève que 840 millions de shillings seulement sont prévus sur 32,17 milliards requis pour leurs émoluments (The Observer). Les 26 et 27 novembre 2016 à Kasese, siège du royaume de Rwenzururu, la police et l'armée tuent plus de 100 personnes et donnent l'assaut au palais du roi, selon Human Rights Watch.", source: "https://www.hrw.org/news/2018/10/10/uganda-no-justice-2016-kasese-massacre-security-forces"}
+chronologie:
+  - {annee: 1967, evenement: "La Constitution républicaine abolit les royaumes."}
+  - {annee: 1993, evenement: "Amendement constitutionnel et loi de restitution des biens ; intronisation de Ronald Muwenda Mutebi II, 36e Kabaka du Buganda, le 31 juillet."}
+  - {annee: 1995, evenement: "La Constitution consacre l'institution de dirigeant traditionnel ou culturel (art. 246)."}
+  - {annee: 2005, evenement: "Amendement créant des gouvernements régionaux (art. 178), prévus pour 2006 et jamais mis en place."}
+  - {annee: 2011, evenement: "Loi sur l'institution des dirigeants traditionnels ou culturels, en vigueur le 4 décembre."}
+  - {annee: 2016, evenement: "La police et l'armée donnent l'assaut au palais du roi du Rwenzururu à Kasese ; plus de 100 morts les 26 et 27 novembre."}
+  - {annee: 2024, evenement: "Le Parlement adopte la recommandation de sa commission demandant 31,33 milliards de shillings pour rémunérer les 17 dirigeants publiés au Journal officiel, qui recevaient 5 millions par mois."}
+fiabilite:
+  verifie: ["Texte de l'art. 246 de la Constitution (version révisée 2017).", "Texte de la loi de 2011 (art. 3, 6, 9, 10, 11, 15, annexe 2).", "Art. 178 et cinquième annexe sur les gouvernements régionaux.", "Restitution de 1993 et liste des biens rendus au Buganda (Johannessen, CMI, 2006).", "Non-mise en place du niveau régional (Banjwa, UNU-WIDER, 2022).", "Abolition de 1967 : art. 118(1) de la Constitution de 1967, cité par Johannessen (CMI, 2006).", "17 dirigeants publiés au Journal officiel, budget requis et prévu (rapport de commission cité par The Observer, 3 mai 2024)."]
+  non_confirme: ["Liste nominative des 17 dirigeants publiés au Journal officiel : aucune liste officielle consultée.", "Texte de la Constitution de 1967 : non consulté directement.", "Texte de la loi de restitution de 1993 : non consulté directement (page officielle inaccessible).", "Aucun document onusien nommant ce régime n'a été trouvé."]
+sources:
+  - {titre: "Constitution de l'Ouganda 1995 (rév. 2017) — Constitute Project", url: "https://www.constituteproject.org/constitution/Uganda_2017.pdf?lang=en"}
+  - {titre: "Institution of Traditional or Cultural Leaders Act 2011 — ULII", url: "https://media.ulii.org/media/legislation/120725/source_file/52c88e9d97aca76b/2011-6.pdf"}
+  - {titre: "Johannessen, Kingship in Uganda: The Role of the Buganda Kingdom, CMI, 2006", url: "https://www.cmi.no/publications/file/2176-kingship-in-uganda.pdf"}
+  - {titre: "Banjwa, The making (and unmaking) of Uganda's ethnic-based decentralization programme, UNU-WIDER, 2022", url: "https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2022-167-making-unmaking-Uganda-ethnic-based-decentralization-programme.pdf"}
+  - {titre: "Parliament approves Shs 60m monthly salary for cultural leaders — The Observer, 2024", url: "https://observer.ug/news/parliament-approves-shs-60m-monthly-salary-for-cultural-leaders/"}
+  - {titre: "Uganda: No Justice for 2016 Kasese Massacre by Security Forces — Human Rights Watch, 2018", url: "https://www.hrw.org/news/2018/10/10/uganda-no-justice-2016-kasese-massacre-security-forces"}
