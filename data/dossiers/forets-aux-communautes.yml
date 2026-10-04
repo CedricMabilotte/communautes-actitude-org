@@ -1,0 +1,666 @@
+slug: "forets-aux-communautes"
+titre: "Les forêts confiées aux communautés"
+chapeau: >-
+  Forêt communautaire, forêt villageoise, forêt coutumière, concession communautaire, van panchayat, hutan adat, ejido, monte vecinal, Allmend : les noms changent d'un État à l'autre. Ce dossier compare 30 régimes d'Asie, d'Afrique, des Amériques et d'Europe pour répondre à une question : quand une forêt est confiée à une communauté, qui décide de la coupe, de la vente du bois, de l'exclusion des tiers, de la durée du droit et de sa reprise ?
+
+introduction: >-
+  Deux situations juridiques se distinguent dans les fiches de l'atlas. Dans la plupart des cas d'Asie, d'Afrique et d'Amérique centrale, la forêt appartient à l'État, qui en confie la gestion à un groupe local par une décision, un accord ou une concession, presque toujours depuis les années 1990. En Europe et au Mexique, la communauté est propriétaire d'une forêt qu'elle tenait souvent avant l'administration forestière moderne, et l'État reconnaît ce titre tout en gardant la police forestière (règles de coupe, plans d'aménagement, autorisations). Entre les deux, quelques régimes reconnaissent un droit sans terme fondé sur la possession coutumière, comme les forêts coutumières d'Indonésie ou les concessions forestières des communautés locales en République démocratique du Congo.
+
+
+  Le dossier distingue six mécanismes, tirés des textes cités par les fiches. La propriété collective reconnue fait de la communauté la propriétaire inscrite d'une forêt en général inaliénable (qui ne peut être vendue). Le titre sans terme reconnaît ou transfère un droit sans date d'échéance, souvent fondé sur la coutume. La forêt déclarée sur la terre villageoise est créée, par une institution du village ou par le ministre à la demande d'un organe local, sur une terre que le village ou la communauté administre déjà. L'attribution administrative révocable remet une partie de la forêt publique à un groupe d'usagers, que l'administration peut lui retirer. L'accord de gestion d'une forêt publique donne un droit d'usage pour une durée fixée. La concession d'exploitation communautaire donne un droit exclusif d'exploiter le bois à des fins commerciales, seul ou avec une entreprise.
+
+
+  Pour chaque cas, le dossier relève cinq points : qui approuve la coupe, qui vend et à quelles conditions, qui peut exclure les personnes extérieures, combien de temps dure le droit, et comment l'État peut le reprendre. Les cas sont des fiches agrégées de l'atlas : ils décrivent le régime national ou régional, et seulement quelques forêts ou districts particuliers (Gadchiroli, Mendha-Lekha, Ampezzo, Uri, Kwandu, Beyan Poye, Djoko).
+
+mecanismes:
+  - {cle: "propriete_collective", libelle: "Propriété collective reconnue", definition: "La communauté, ou une personne morale qui la représente, est propriétaire inscrite de la forêt ; le bien est en général inaliénable ou indivisible, et l'État garde la police forestière et une tutelle sur les ventes de terrain et les changements d'usage."}
+  - {cle: "titre_sans_terme", libelle: "Titre sans terme", definition: "L'État reconnaît ou transfère à la communauté un droit sur la forêt sans date d'échéance (propriété, concession perpétuelle ou droit héréditaire), souvent fondé sur sa possession coutumière ; le droit est incessible, et l'État garde le retrait pour mauvaise gestion, le reclassement ou l'expropriation."}
+  - {cle: "foret_terre_villageoise", libelle: "Forêt déclarée sur la terre villageoise", definition: "Une forêt est déclarée sur la terre villageoise ou communale, par une institution du village (Tanzanie) ou par le ministre après une convention avec l'organe qui représente les titulaires de droits sur cette terre (Namibie) ; l'État publie la déclaration, encadre la récolte commerciale et peut reprendre la gestion ou révoquer la déclaration en cas de manquement."}
+  - {cle: "attribution_revocable", libelle: "Attribution administrative révocable", definition: "L'administration remet à un groupe d'usagers ou à une communauté une partie de la forêt publique par une décision qu'elle peut retirer ; le droit ne repose ni sur un contrat à terme ni sur une propriété de la communauté."}
+  - {cle: "accord_gestion", libelle: "Accord de gestion d'une forêt publique", definition: "Un contrat ou une approbation, conclu pour une durée fixée (au plus 15 ans au Cambodge, 25 ans aux Philippines, 35 ans en Indonésie, jusqu'à 60 ans en Mongolie, une rotation des essences au Honduras), donne à une organisation locale le droit de gérer et d'utiliser une forêt publique selon un plan approuvé ; la vente du bois est limitée ou soumise à un permis distinct."}
+  - {cle: "concession_communautaire", libelle: "Concession d'exploitation communautaire", definition: "La communauté reçoit, pour une durée fixée ou liée au cycle de coupe, le droit exclusif d'exploiter le bois à des fins commerciales ou la propriété des produits, seule ou par contrat avec une entreprise ; l'administration approuve le plan et les contrats, et peut résilier."}
+
+concepts:
+  - {terme: "upabhokta samuha", langue: "népali", communautes: ["forets-communautaires-nepal"], sens: "« Groupe d'usagers » : les ménages qui utilisent une forêt et à qui l'administration en remet la gestion ; la loi de 2019 en fait une institution autonome à succession perpétuelle.", source: "https://faolex.fao.org/docs/pdf/nep202856.pdf"}
+  - {terme: "van panchayat", langue: "hindi", communautes: ["van-panchayats-uttarakhand"], sens: "« Conseil de la forêt » : conseil élu par les habitants d'un village de montagne de l'Uttarakhand pour gérer la forêt du village.", source: "https://dialogue.earth/en/forests/van-panchayats-upholding-forest-rights-in-uttarakhands-hillside-communities/"}
+  - {terme: "gram sabha", langue: "hindi", communautes: ["droits-forestiers-communautaires-inde", "mendha-lekha"], sens: "Assemblée de tous les adultes d'un village, avec la pleine participation des femmes (loi de 2006, art. 2 (g)) ; elle engage la procédure de reconnaissance des droits forestiers et gère la ressource forestière communautaire.", source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+  - {terme: "hutan adat", langue: "indonésien", communautes: ["hutan-adat-indonesie"], sens: "« Forêt coutumière » : forêt située sur le territoire d'une communauté de droit coutumier (masyarakat hukum adat), retirée de la forêt d'État par décret du ministre.", source: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
+  - {terme: "cộng đồng dân cư", langue: "vietnamien", communautes: ["forets-communautes-residentielles-viet-nam"], sens: "« Communauté résidentielle » : ensemble des habitants d'un même village, hameau ou quartier qui partagent des coutumes ; la loi de 2017 en fait un propriétaire forestier.", source: "https://english.luatvietnam.vn/law-no-16-2017-qh14-dated-november-15-2017-of-the-national-assembly-on-forestry-118853-doc1.html"}
+  - {terme: "pa chumchon", langue: "thaï", communautes: ["forets-communautaires-thailande"], sens: "« Forêt de la communauté » : forêt publique hors aires protégées gérée par les membres d'une communauté villageoise selon un plan de cinq ans.", source: "https://data.opendevelopmentmekong.net/en/laws_record/community-forestry-act-b-e-2562-2019"}
+  - {terme: "ejido ; comisariado ejidal", langue: "espagnol (Mexique)", communautes: ["ejidos-comunidades-agrarias-mexique"], sens: "Ejido : terre dotée à un groupe de paysans par la réforme agraire, propriété du groupe ; comisariado : bureau exécutif élu par l'assemblée des ejidatarios.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+  - {terme: "monte veciñal en man común", langue: "galicien", communautes: ["montes-vecinales-mano-comun-espagne"], sens: "« Mont de voisinage en main commune » : bois, landes et pâturages appartenant sans parts aux voisins qui composent le groupe à chaque moment.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-3358"}
+  - {terme: "Allmend ; Korporationsbürgerrecht", langue: "allemand (Suisse)", communautes: ["corporations-allmend-suisse-centrale"], sens: "Allmend : terres d'usage collectif issues des anciens biens communaux ; Korporationsbürgerrecht : droit de bourgeoisie de la corporation, transmis en principe par filiation, qui donne part à ces biens.", source: "https://www.korporation.ch/rb/140.1.pdf"}
+  - {terme: "obște ; composesorat", langue: "roumain", communautes: ["obsti-composesorate-roumanie"], sens: "Communauté de copropriétaires de forêts et de pâturages d'un village (obște de moșneni en Valachie, de răzeși en Moldavie ; composesorat en Transylvanie), détenue en indivision par des ayants droit qui héritent de leurs parts.", source: "https://legeaz.net/legea-1-2000/art-26"}
+  - {terme: "laudo ; fuoco", langue: "italien (Regole de Vénétie)", communautes: ["regole-venetie"], sens: "Laudo : statut propre de chaque Regola, approuvé par son assemblée ; fuoco : « foyer », famille ayant droit qui forme l'unité de membre.", source: "https://www.consiglioveneto.it/web/crv/dettaglio-legge?numeroDocumento=26&id=1725316&backLink=https%3A%2F%2Fwww.consiglioveneto.it%2Fleggi-regionali%3Fp_p_id&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&pageTitle=&tab=vigente&annoSelezionato=1996"}
+  - {terme: "besparingsskog ; allmänning", langue: "suédois", communautes: ["forets-communales-norrland-suede"], sens: "Besparingsskog : « forêt d'épargne » mise en réserve lors du remembrement du XIXe siècle ; allmänning : communal issu du partage entre la Couronne et les paysans ; les deux appartiennent aux propriétaires des immeubles pour lesquels ils ont été constitués.", source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1952167-om-allmanningsskogar-i-norrland-och_sfs-1952-167/"}
+
+cas:
+  # ---------------- Propriété collective reconnue ----------------
+  - id: "allmend-uri"
+    atlas_uid: "corporations-allmend-suisse-centrale"
+    communaute: "Membres des corporations d'allmend d'Uri, de Schwyz, d'Obwald, de Zoug et de Lucerne"
+    etats: ["Suisse"]
+    entite: "Forêts, alpages et allmends des corporations ; au moins 85 % de la surface du canton d'Uri pour les corporations Uri et Ursern"
+    mecanisme: "propriete_collective"
+    annee: 1984
+    concept_local: "Allmend ; Korporationsbürgerrecht"
+    resume: >-
+      Le Code civil suisse (art. 59, al. 3) laisse au droit cantonal les « sociétés d'allmends et autres semblables ». La constitution d'Uri de 1984 fait des corporations Uri et Ursern des collectivités autonomes de droit public (personnes morales publiques), qui s'organisent elles-mêmes selon des principes démocratiques et dont le patrimoine est garanti (art. 72, 73 et 118). À Zoug, le bien corporatif doit rester indivisible ; à Lucerne, sa substance ne peut être répartie entre les membres ; à Obwald, la constitution encadre la vente de biens-fonds. La qualité de membre se transmet en principe par filiation. À Uri, les corporations accordent les concessions de carrières et les droits de cristallier sur leurs allmends (art. 57) et disposent du droit d'exproprier (art. 32).
+    gouvernance: "Assemblée des membres (Korporationsgemeinde), réunie tous les deux ans à Altdorf, conseil élu (Korporationsrat) et exécutif (Engerer Rat) ; contrôle de légalité du canton (constitution d'Uri, art. 118)."
+    effectivite: "Le Dictionnaire historique de la Suisse (2008) décrit un statut de collectivité de droit public avec garantie de propriété et une large autonomie dans la plupart des cantons ; selon leur fédération, le canton de Schwyz comptait 81 corporations en 2025, propriétaires d'environ la moitié de la surface cantonale. La fiche ne décrit pas l'application du droit forestier fédéral aux coupes."
+    textes:
+      - {titre: "Code civil suisse (RS 210), art. 59, al. 3", nature: "loi", annee: 1907, source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260701/fr/html/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260701-fr-html-2.html"}
+      - {titre: "Constitution du canton d'Uri (RS 131.214), art. 32, 57, 72 à 74 et 118", nature: "constitution", annee: 1984, source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_621_625_589_fga/20210921/de/html/fedlex-data-admin-ch-eli-cc-1985-2_621_625_589_fga-20210921-de-html-6.html"}
+      - {titre: "Loi sur le droit de bourgeoisie de la Korporation Uri (recueil n° 140.1)", nature: "norme communautaire", annee: 2007, source: "https://www.korporation.ch/rb/140.1.pdf"}
+    sources:
+      - {titre: "Verfassung des Kantons Uri — Fedlex", url: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_621_625_589_fga/20210921/de/html/fedlex-data-admin-ch-eli-cc-1985-2_621_625_589_fga-20210921-de-html-6.html"}
+      - {titre: "Verfassung des Kantons Zug — Fedlex", url: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1894/2_278_126_278_fga/20240927/de/html/fedlex-data-admin-ch-eli-cc-1894-2_278_126_278_fga-20240927-de-html-1.html"}
+      - {titre: "Dictionnaire historique de la Suisse — Corporations", url: "https://hls-dhs-dss.ch/fr/articles/010262/"}
+
+  - id: "montes-vecinales-galice"
+    atlas_uid: "montes-vecinales-mano-comun-espagne"
+    communaute: "Communautés de voisins (comuneros) de Galice"
+    etats: ["Espagne"]
+    entite: "3 312 montes vecinales classés, 664 230 ha (2018)"
+    mecanisme: "propriete_collective"
+    annee: 1980
+    concept_local: "monte veciñal en man común"
+    resume: >-
+      La loi d'État 55/1980 définit les montes vecinales en mano común comme des terres qui appartiennent à des groupes de voisins « en leur qualité de groupes sociaux et non d'entités administratives » ; ils sont indivisibles, inaliénables, imprescriptibles et insaisissables, c'est-à-dire qu'ils ne peuvent être partagés, vendus, acquis par possession prolongée ni saisis (art. 2). L'administration, la jouissance et la disposition du monte appartiennent « exclusivement » à la communauté (art. 5.1). La loi galicienne 13/1989 précise que cette propriété est « privée et collective » ; la communauté peut répartir des lots entre ses membres pour onze ans au plus et consentir des droits de superficie (droit de bâtir ou planter sur le sol d'autrui) jusqu'à trente ans (art. 7 et 22). Si la communauté n'existe plus ou ne respecte pas les règles d'organisation, le département régional chargé des montes assure une gestion conservatoire au bénéfice de la communauté (art. 20, rédaction de 2021).
+    gouvernance: "Assemblée générale de tous les comuneros, « organe suprême », qui élit pour quatre ans au plus une junta rectora (conseil de direction) dont le président représente la communauté (loi 13/1989, art. 14 et 15)."
+    effectivite: "Fin 2018, 3 312 montes vecinales étaient classés en Galice pour 664 230 ha (annuaire forestier de la Xunta cité par l'Association forestière de Galice) ; une étude de 2020 (revue Land) indique qu'environ un quart du territoire galicien est en terres communes."
+    textes:
+      - {titre: "Ley 55/1980 de montes vecinales en mano común, art. 1 à 15", nature: "loi", annee: 1980, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-25463"}
+      - {titre: "Ley 13/1989 de montes vecinales en mano común (Galice)", nature: "loi", annee: 1989, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-3358"}
+    sources:
+      - {titre: "Ley 55/1980 — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-25463"}
+      - {titre: "Ley 13/1989 (Galice) — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-3358"}
+      - {titre: "Association forestière de Galice — Os montes vecinais en man común : número e características", url: "https://asociacionforestal.gal/en/os-montes-vecinais-en-man-comun/numero-e-caracteristicas/"}
+      - {titre: "Land (MDPI), 2020 — étude sur les terres communes de Galice", url: "https://www.mdpi.com/2073-445X/9/1/9"}
+
+  - id: "baldios-portugal"
+    atlas_uid: "baldios-portugal"
+    communaute: "Ayants droit (compartes) des baldios"
+    etats: ["Portugal"]
+    entite: "Baldios du Portugal continental, environ 500 000 ha (estimation 2020)"
+    mecanisme: "propriete_collective"
+    annee: 2017
+    concept_local: "baldio ; compartes"
+    resume: >-
+      La Constitution portugaise range les « moyens de production communautaires, possédés et gérés par des communautés locales » dans le secteur coopératif et social (art. 82, al. 4, b). La loi 75/2017 fait des compartes les titulaires des baldios, terrains hors commerce juridique qui ne peuvent être appropriés par des tiers, saisis ni hypothéqués (art. 6 et 7). L'assemblée peut vendre des parcelles limitées pour un intérêt local à la majorité des deux tiers, et sortir du régime communautaire à l'unanimité d'une assemblée réunissant au moins deux tiers des compartes (art. 38 et 40). Les recettes ne sont pas distribuées : elles sont réinvesties, dont au moins 20 % en réserve (art. 14). L'assemblée peut déléguer l'administration à la paroisse civile, à la commune ou à l'État et révoquer cette délégation à tout moment (art. 35) ; les baldios administrés en association avec l'État le restent jusqu'au terme convenu ou, à défaut, 50 ans après 1976, sauf décision contraire de l'assemblée (art. 46).
+    gouvernance: "Assemblée des compartes, qui élit un conseil directeur de trois à cinq membres et une commission de contrôle (loi 75/2017, art. 17, 24, 28 et 30) ; l'État peut exproprier pour utilité publique (art. 41)."
+    effectivite: "Une étude publiée dans Silva Lusitana (2020) indique que 71,6 % des baldios sont cogérés avec l'État, qu'environ 60 % sont gérés par des conseils directeurs, que 664 des 776 plans d'utilisation recueillis par l'Institut de la conservation de la nature et des forêts étaient approuvés en 2018, et que la présence moyenne aux assemblées est de 25 participants."
+    textes:
+      - {titre: "Lei n.º 75/2017, de 17 de agosto (régime des baldios)", nature: "loi", annee: 2017, source: "https://files.diariodarepublica.pt/1s/2017/08/15800/0472204734.pdf"}
+      - {titre: "Constituição da República Portuguesa, art. 82, al. 4, b", nature: "constitution", annee: 1976, source: "https://www.parlamento.pt/Legislacao/Paginas/ConstituicaoRepublicaPortuguesa.aspx"}
+    sources:
+      - {titre: "Lei n.º 75/2017 — Diário da República", url: "https://files.diariodarepublica.pt/1s/2017/08/15800/0472204734.pdf"}
+      - {titre: "Lei n.º 75/2017 (version à jour) — PGD Lisboa", url: "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2746&tabela=leis"}
+      - {titre: "Silva Lusitana, 2020 — étude sur la gestion des baldios", url: "https://silva-lusitana.edpsciences.org/articles/silu/pdf/2020/02/silu2020282p91.pdf"}
+
+  - id: "obsti-roumanie"
+    atlas_uid: "obsti-composesorate-roumanie"
+    communaute: "Ayants droit des obști et des composesorate"
+    etats: ["Roumanie"]
+    entite: "Environ 1 500 communs ; 873 000 ha de forêts, 14 % de la surface forestière du pays (2014)"
+    mecanisme: "propriete_collective"
+    annee: 2000
+    concept_local: "obște ; composesorat"
+    resume: >-
+      Placées sous propriété d'État de 1948 à 1989, les forêts des obști et des composesorate ont été restituées par la loi n° 1/2000 sous un seul titre de propriété, et le tribunal rend sa personnalité juridique à chaque association (art. 26 à 28). Les membres ne peuvent céder leurs parts à des personnes extérieures et les terres ne peuvent être aliénées ; en cas de dissolution, elles passent dans la propriété publique du conseil local (art. 28). Le Code forestier de 2024 qualifie cette propriété de « garantie, indivisible et inaliénable » (art. 8). L'association récolte le bois selon un plan d'aménagement forestier (amenajament silvic), obligatoire au-delà de 10 ha, et doit conclure un contrat avec un district forestier (ocol silvic) pour la garde et, selon les cas, l'administration de la forêt (art. 23 à 26).
+    gouvernance: "Assemblée générale des membres, conseil de cinq membres, président et commission de contrôle (Sorea et al., 2022) ; tout changement des organes est notifié au district forestier (Code forestier de 2024, art. 8)."
+    effectivite: "Sur 40 communs du département de Hunedoara interrogés en 2016, 67 % avaient des procès liés à la restitution ; les communs de moins de 100 ha ne peuvent obtenir de plan d'aménagement propre (Vasile, International Journal of the Commons, 2018). Sorea et al. (2022) relèvent le coût des plans et des contrats obligatoires et la dispersion des parts par héritage."
+    textes:
+      - {titre: "Loi n° 1/2000, art. 26 à 28", nature: "loi", annee: 2000, source: "https://legeaz.net/legea-1-2000/art-28"}
+      - {titre: "Loi n° 331/2024 portant Code forestier, art. 8, 23 à 26", nature: "loi", annee: 2024, source: "https://legeaz.net/monitorul-oficial-7-2025/codul-silvic"}
+    sources:
+      - {titre: "Loi n° 1/2000, art. 26 — legeaz.net", url: "https://legeaz.net/legea-1-2000/art-26"}
+      - {titre: "Loi n° 1/2000, art. 28 — legeaz.net", url: "https://legeaz.net/legea-1-2000/art-28"}
+      - {titre: "Code forestier de 2024 — legeaz.net", url: "https://legeaz.net/monitorul-oficial-7-2025/codul-silvic"}
+      - {titre: "Vasile, International Journal of the Commons, 2018", url: "https://thecommonsjournal.org/articles/10.18352/ijc.805"}
+
+  - id: "regole-ampezzo"
+    atlas_uid: "regole-venetie"
+    communaute: "Familles ayant droit des Regole de Vénétie, dont les onze Regole d'Ampezzo"
+    etats: ["Italie"]
+    entite: "51 Regole constituées ; environ 16 000 ha de forêt pour les Regole d'Ampezzo"
+    mecanisme: "propriete_collective"
+    annee: 1996
+    concept_local: "laudo ; fuoco"
+    resume: >-
+      La loi nationale sur la montagne de 1994 demande aux régions de reconnaître la personnalité juridique de droit privé aux Regole ; la loi régionale de Vénétie 26/1996 fixe la procédure. Le « patrimoine ancien » (biens agro-sylvo-pastoraux, voués à l'agriculture, à la forêt et à l'élevage, détenus au 31 décembre 1952) est inaliénable, indivisible, insusceptible d'usucapion (acquisition par possession prolongée) et annoté comme tel aux registres immobiliers (art. 5 et 6). Les Regole gèrent ces biens selon la coutume et leur statut, dans le cadre des lois forestières de l'État et de la Région ; tout changement de destination, même temporaire, exige l'avis du service forestier et l'autorisation de la Région (art. 7 à 11). La loi nationale 168/2017 reconnaît aux domaines collectifs une capacité de se donner leurs propres règles. Depuis 1990, la Comunanza des Regole d'Ampezzo gère le parc naturel régional des Dolomites d'Ampezzo (11 200 ha).
+    gouvernance: "Assemblée de chaque Regola, qui approuve le laudo (statut) et élit les organes de gestion (loi régionale 26/1996, art. 2 et 3) ; le président de la Région organise une gestion de substitution si la Regola cesse de fonctionner (art. 12)."
+    effectivite: "La Région recense 51 Regole constituées ; les Regole d'Ampezzo indiquent gérer environ 16 000 ha de forêt selon un plan d'aménagement. Aucune source indépendante évaluant l'application du régime n'a été trouvée (« inconnue » au-delà de ces données)."
+    textes:
+      - {titre: "Legge regionale del Veneto 19 agosto 1996, n. 26, Riordino delle Regole", nature: "loi", annee: 1996, source: "https://www.consiglioveneto.it/web/crv/dettaglio-legge?numeroDocumento=26&id=1725316&backLink=https%3A%2F%2Fwww.consiglioveneto.it%2Fleggi-regionali%3Fp_p_id&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&pageTitle=&tab=vigente&annoSelezionato=1996"}
+      - {titre: "Legge 20 novembre 2017, n. 168, Norme in materia di domini collettivi", nature: "loi", annee: 2017, source: "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2017-11-28&atto.codiceRedazionale=17G00181"}
+    sources:
+      - {titre: "Regole — Regione del Veneto", url: "https://www.regione.veneto.it/web/enti-locali/regole"}
+      - {titre: "Regole d'Ampezzo — Le date della storia regoliera", url: "https://www.regole.it/IT/pagina109-le-date-della-storia-regoliera"}
+      - {titre: "Regole d'Ampezzo — Gestione del patrimonio", url: "https://www.regole.it/IT/pagina112-gestione-del-patrimonio"}
+      - {titre: "Regole d'Ampezzo — Parco Naturale delle Dolomiti d'Ampezzo", url: "https://www.regole.it/IT/pagina113-parco-naturale-delle-dolomiti-d-ampezzo"}
+
+  - id: "allmanningsskogar-norrland"
+    atlas_uid: "forets-communales-norrland-suede"
+    communaute: "Propriétaires des immeubles copropriétaires des forêts communales du Norrland et de Dalécarlie"
+    etats: ["Suède"]
+    entite: "33 forêts communales (allmänningsskogar et besparingsskogar)"
+    mecanisme: "propriete_collective"
+    annee: 1952
+    concept_local: "besparingsskog ; allmänning"
+    resume: >-
+      Ces forêts ont été mises en réserve au XIXe siècle lors du remembrement ou du partage des terres entre la Couronne et les paysans. La loi de 1952 les attribue aux propriétaires des immeubles pour lesquels elles ont été constituées ; la part ne peut être cédée qu'avec l'immeuble (§ 2 et 4). La forêt doit être maintenue sans diminution et ne peut être hypothéquée ni saisie ; une vente de terrain exige une décision des copropriétaires et un avantage notable pour eux (§ 5 et 8). Le revenu net peut payer les impôts fonciers des immeubles copropriétaires, soutenir l'agriculture des paroisses ou servir d'autres fins utiles à leur population ; les revenus en capital vont à l'amélioration ou à l'agrandissement de la forêt (§ 18 et 21).
+    gouvernance: "Assemblée annuelle des copropriétaires (allmänningsstämma), où chacun vote selon sa part sans dépasser un dixième des parts représentées, et conseil élu (allmänningsstyrelse) ; le conseil d'administration du comté (représentation de l'État) fixe le règlement et peut nommer des membres du conseil (§ 7, 31, 32 et 35)."
+    effectivite: "La thèse de Holmgren (Université suédoise des sciences agricoles, 2009) sur les 33 forêts relève une exploitation limitée dans le Västerbotten et le Norrbotten, des disparités entre forêts et une influence directe de l'État sur leur gestion."
+    textes:
+      - {titre: "Lag (1952:167) om allmänningsskogar i Norrland och Dalarna", nature: "loi", annee: 1952, source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1952167-om-allmanningsskogar-i-norrland-och_sfs-1952-167/"}
+    sources:
+      - {titre: "Lag (1952:167) — Riksdagen", url: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1952167-om-allmanningsskogar-i-norrland-och_sfs-1952-167/"}
+      - {titre: "Holmgren, thèse, Université suédoise des sciences agricoles, 2009", url: "https://pub.epsilon.slu.se/2173/"}
+      - {titre: "Svärdsjö Svartnäs Besparingsskog", url: "https://www.svardsjobesparingsskog.se/"}
+
+  - id: "agrargemeinschaften-tyrol"
+    atlas_uid: "agrargemeinschaften-autriche"
+    communaute: "Membres des communautés agraires du Tyrol"
+    etats: ["Autriche"]
+    entite: "Forêts, alpages et pâturages de 1 800 à 2 000 communautés agraires (estimation du Land du Tyrol)"
+    mecanisme: "propriete_collective"
+    annee: 1996
+    concept_local: "Agrargemeinschaft ; Gemeindegut"
+    resume: >-
+      En droit tyrolien, la communauté agraire (Agrargemeinschaft) est une corporation de droit public qui possède ou utilise en commun des forêts, alpages et pâturages « en vertu d'un usage ancien » (TFLG 1996, § 33 et 34). La qualité de membre est attachée à une ferme et n'en est séparée qu'avec l'autorisation de l'autorité agraire, qui autorise aussi toute vente de terrain au-delà de 2 000 m² (§ 38 et 40). Sur le Gemeindegut (biens communaux transférés à une communauté agraire), la Cour constitutionnelle a jugé en 2008 (arrêt « Mieders ») que la valeur de substance, c'est-à-dire les revenus au-delà de l'usage agricole et forestier, revient à la commune. Depuis 2014, un administrateur de substance nommé par le conseil municipal gère ventes, baux et charges sur ces terrains (§ 36a à 36k).
+    gouvernance: "Assemblée générale, comité élu pour cinq ans et président (Obmann) élu par le comité (TFLG 1996, § 35) ; l'autorité agraire contrôle la légalité et l'opportunité de la gestion et peut nommer un administrateur à la place des organes (§ 37)."
+    effectivite: "La Cour constitutionnelle a tranché en 2008 et en 2010 des recours de communes et de communautés agraires contre l'autorité agraire tyrolienne ; en 2010, elle a validé l'attribution de la valeur de substance du Gemeindegut à la commune."
+    textes:
+      - {titre: "Tiroler Flurverfassungslandesgesetz 1996 (TFLG 1996), §§ 33 à 40", nature: "loi", annee: 1996, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000117"}
+      - {titre: "Cour constitutionnelle, B464/07 (VfSlg 18.446/2008, « Mieders »)", nature: "jurisprudence", annee: 2008, source: "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_09919389_07B00464_01"}
+    sources:
+      - {titre: "TFLG 1996 — RIS", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000117"}
+      - {titre: "Cour constitutionnelle, B639/10 — RIS", url: "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_09898790_10B00639_01"}
+      - {titre: "Agrargemeinschaften — Land Tirol", url: "https://www.tirol.gv.at/landwirtschaft-forstwirtschaft/agrar/agrarrecht/agrargemeinschaftliche-grundstuecke-und-agrargemeinschaften/agrargemeinschaftliche-grundstuecke-und-agrargemeinschaften/"}
+
+  - id: "sections-de-commune"
+    atlas_uid: "sections-de-commune-france"
+    communaute: "Membres des sections de commune (habitants domiciliés sur le territoire de la section)"
+    etats: ["France"]
+    entite: "Bois, pâturages et terres de 26 792 sections recensées en 1999, surtout dans le Massif central"
+    mecanisme: "propriete_collective"
+    annee: 2013
+    concept_local: "section de commune ; commission syndicale"
+    resume: >-
+      La section de commune est une partie d'une commune qui possède « à titre permanent et exclusif des biens ou des droits distincts de ceux de la commune », souvent issus de titres antérieurs à 1789 (Code général des collectivités territoriales, art. L. 2411-1). Le propriétaire est la section, personne morale de droit public (entité publique dotée de la personnalité juridique) ; ses membres n'ont qu'un droit de jouissance (Conseil constitutionnel, 2011). Ils perçoivent les fruits en nature, « à l'exclusion de tout revenu en espèces », et les terres agricoles ou pastorales vont en priorité aux exploitants de la section (art. L. 2411-10). Le préfet peut transférer les biens à la commune, et la loi du 27 mai 2013 interdit la création de nouvelles sections.
+    gouvernance: "Commission syndicale composée du maire et de membres élus par les électeurs de la section, constituée à la demande de la moitié des électeurs ou du conseil municipal, et jamais en dessous de vingt électeurs ou de 2 000 euros de revenu cadastral ; sans commission, le conseil municipal décide (CGCT, art. L. 2411-3 et L. 2411-5)."
+    effectivite: "En 2003, seules 200 commissions syndicales étaient connues des services de l'État pour 26 792 sections : dans la plupart des sections, la commune administre les biens (rapport du Sénat, 2012)."
+    textes:
+      - {titre: "Code général des collectivités territoriales, art. L. 2411-1 à L. 2412-2", nature: "loi", annee: 2013, source: "https://www.collectivites-locales.gouv.fr/connaitre-les-acteurs-et-les-institutions/structures-territoriales/les-communes/le-territoire-communal/ladministration-des-sections-de-communes"}
+      - {titre: "Loi n° 2013-428 du 27 mai 2013 modernisant le régime des sections de commune", nature: "loi", annee: 2013, source: "https://www.senat.fr/leg/tas12-143.html"}
+      - {titre: "Conseil constitutionnel, décision n° 2011-118 QPC du 8 avril 2011", nature: "jurisprudence", annee: 2011, source: "https://www.conseil-constitutionnel.fr/decision/2011/2011118QPC.htm"}
+    sources:
+      - {titre: "L'administration des sections de communes — DGCL", url: "https://www.collectivites-locales.gouv.fr/connaitre-les-acteurs-et-les-institutions/structures-territoriales/les-communes/le-territoire-communal/ladministration-des-sections-de-communes"}
+      - {titre: "Rapport de Pierre-Yves Collombat, Sénat, 2012", url: "https://www.senat.fr/rap/l12-013/l12-013.html"}
+
+  - id: "ejidos-mexique"
+    atlas_uid: "ejidos-comunidades-agrarias-mexique"
+    communaute: "Ejidos et communautés agraires"
+    etats: ["Mexique"]
+    entite: "32 102 noyaux agraires couvrant 50,8 % du territoire (2016)"
+    mecanisme: "propriete_collective"
+    annee: 1992
+    concept_local: "ejido ; comisariado ejidal"
+    resume: >-
+      L'article 27 de la Constitution et la loi agraire de 1992 reconnaissent aux ejidos et aux communautés agraires la personnalité juridique et la propriété de leurs terres ; les terres d'usage commun sont inaliénables, imprescriptibles et insaisissables, sauf apport à une société (art. 9, 64, 74, 75 et 99). La loi générale de développement forestier durable de 2018 attribue la propriété des ressources forestières aux propriétaires des terrains, dont les ejidos et les communautés (art. 5). L'exploitation du bois exige une autorisation du ministère de l'Environnement, accordée sur la base d'un programme de gestion forestière et valable pour un cycle de coupe (art. 72 et 73). Un tiers qui demande une autorisation forestière sur ces terres doit produire l'accord de l'assemblée du noyau agraire (art. 54).
+    gouvernance: "Assemblée de tous les membres, organe suprême, qui élit au scrutin secret un comisariado (bureau exécutif) et un conseil de surveillance, avec parité depuis 2023 (loi agraire, art. 21, 22, 37 et 107) ; l'expropriation pour utilité publique reste possible (art. 93)."
+    effectivite: "La Rapporteuse spéciale des Nations unies sur les droits des peuples autochtones (A/HRC/39/17/Add.2, 2018) relève que les autorités ejidales ne coïncident pas toujours avec les autorités des communautés autochtones et que des consultations passent par les seules autorités ejidales."
+    textes:
+      - {titre: "Constitución Política de los Estados Unidos Mexicanos, art. 27, fr. VII", nature: "constitution", annee: 1992, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+      - {titre: "Ley Agraria", nature: "loi", annee: 1992, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+      - {titre: "Ley General de Desarrollo Forestal Sustentable, art. 5, 54, 72 et 73", nature: "loi", annee: 2018, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf"}
+    sources:
+      - {titre: "Ley General de Desarrollo Forestal Sustentable — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf"}
+      - {titre: "Ley Agraria — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+      - {titre: "A/HRC/39/17/Add.2 — Rapport de la Rapporteuse spéciale sur sa visite au Mexique", url: "https://documents.un.org/api/symbol/access?s=A/HRC/39/17/Add.2&l=fr&t=pdf"}
+
+  # ---------------- Titre sans terme ----------------
+  - id: "hutan-adat"
+    atlas_uid: "hutan-adat-indonesie"
+    communaute: "Communautés de droit coutumier (masyarakat hukum adat) d'Indonésie"
+    etats: ["Indonésie"]
+    entite: "174 forêts coutumières, 368 877 ha (30 avril 2026)"
+    mecanisme: "titre_sans_terme"
+    annee: 2013
+    concept_local: "hutan adat"
+    resume: >-
+      Par l'arrêt 35/PUU-X/2012 du 16 mai 2013, la Cour constitutionnelle a jugé que la forêt coutumière n'est pas une forêt d'État. Le règlement ministériel n° 9 de 2021 retire de la forêt d'État le territoire coutumier visé par un décret du ministre, mais la forêt reste dans la zone forestière (kawasan hutan, espace soumis au droit forestier), dont l'État fixe la fonction (art. 62 et 75). La communauté doit d'abord être reconnue par un règlement régional si elle se trouve dans la zone forestière, ou, hors de cette zone, par un règlement régional ou un arrêté du gouverneur ou du chef de district ; elle gère ensuite la forêt « selon le droit coutumier en vigueur », sans pouvoir la louer, en changer le statut ni y planter du palmier à huile (art. 63, 92 et 94). Le bois n'est exploité que pour les besoins quotidiens et l'abattage est interdit dans la partie classée forêt de protection. Dans une zone indicative de forêt coutumière, aucun nouveau permis ne peut être délivré à un tiers (art. 72).
+    gouvernance: "Le chef coutumier (pemangku adat) dépose la demande ; la reconnaissance suppose des institutions dirigées par les autorités coutumières et des règles et sanctions encore respectées (règlement ministériel n° 9 de 2021, art. 64 et 66)."
+    effectivite: "En novembre 2025, les forêts coutumières reconnues couvraient moins de 2 % des 23 millions d'ha cartographiés par l'Agence d'enregistrement des territoires coutumiers ; la reconnaissance préalable par des actes locaux est décrite comme longue et coûteuse (Mongabay, 2025)."
+    textes:
+      - {titre: "Arrêt de la Cour constitutionnelle 35/PUU-X/2012", nature: "jurisprudence", annee: 2013, source: "https://pasal.id/peraturan/putusan-mk/puu-mk-35-2012"}
+      - {titre: "Permen LHK No. 9 Tahun 2021 (gestion de la foresterie sociale), art. 62 à 75 et 92 à 94", nature: "reglement", annee: 2021, source: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
+    sources:
+      - {titre: "Permen LHK No. 9 Tahun 2021 — pasal.id", url: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
+      - {titre: "Ministère des Forêts — Percepatan penetapan hutan adat capai 174 unit (30 avril 2026)", url: "https://www.kehutanan.go.id/pers/percepatan-penetapan-hutan-adat-capai-174-unit-pemerintah-perkuat-langkah-strategis-hingga-2029"}
+      - {titre: "Mongabay — New pledge, old problems (7 novembre 2025)", url: "https://news.mongabay.com/2025/11/new-pledge-old-problems-as-indonesias-latest-indigenous-forest-promise-draws-skepticism/"}
+
+  - id: "cfcl-rdc"
+    atlas_uid: "concessions-forestieres-communautes-locales-rdc"
+    communaute: "Communautés locales titulaires d'une concession forestière de communauté locale (CFCL)"
+    etats: ["République démocratique du Congo"]
+    entite: "70 forêts communautaires attribuées sur 1 344 420 ha (2021)"
+    mecanisme: "titre_sans_terme"
+    annee: 2014
+    concept_local: ""
+    resume: >-
+      Le Code forestier de 2002 permet à une communauté locale d'obtenir à titre gratuit, en concession, les forêts qu'elle possède régulièrement en vertu de la coutume (art. 22). Le décret n° 14/018 de 2014 précise que la concession est attribuée gratuitement et à perpétuité par arrêté du gouverneur de province, dans la limite de 50 000 ha, comme un bien indivis de toute la communauté qui ne peut être divisé en titres individuels ; les forêts restent propriété de l'État. La communauté exploite elle-même ou par des exploitants artisanaux sous contrat, et les produits lui reviennent après déduction des frais de l'administration (art. 112 et 113). La coupe de bois d'œuvre exige un permis de coupe communautaire soumis à taxe, et les contrats d'exploitation ou de cogestion n'entrent en vigueur qu'après approbation de l'administration forestière locale (arrêté n° 025 de 2016).
+    gouvernance: "Assemblée communautaire, organe de décision, qui désigne par élection, cooptation ou voie coutumière un comité local de gestion, un comité de contrôle et un conseil des sages, ou choix d'une association ou coopérative (arrêté n° 025 de 2016, art. 4 à 18)."
+    effectivite: "Selon l'État des forêts du bassin du Congo 2021, 70 des 101 forêts communautaires recensées étaient attribuées et presque toutes dépendaient d'un appui extérieur ; Gabonreview (2024) juge la procédure fonctionnelle dans les cas étudiés et relève l'enclavement qui limite le suivi."
+    textes:
+      - {titre: "Loi n° 011/2002 du 29 août 2002 portant Code forestier, art. 22 et 111 à 113", nature: "loi", annee: 2002, source: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/rdc-loiforets.pdf"}
+      - {titre: "Décret n° 14/018 du 2 août 2014 (concessions forestières des communautés locales)", nature: "decret", annee: 2014, source: "https://faolex.fao.org/docs/pdf/cng140362.pdf"}
+      - {titre: "Arrêté ministériel n° 025 du 9 février 2016 (gestion et exploitation des CFCL)", nature: "reglement", annee: 2016, source: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/AM.025.9.02.2016.pdf"}
+    sources:
+      - {titre: "Décret n° 14/018 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/cng140362.pdf"}
+      - {titre: "OFAC, CIFOR — Les forêts du bassin du Congo : état des forêts 2021", url: "https://www.cifor.org/publications/pdf_files/Books/Etat-des-forets-2021.pdf"}
+      - {titre: "Gabonreview — La foresterie communautaire, une réalité à double facette au Gabon et en RDC", url: "https://www.gabonreview.com/enquete-la-foresterie-communautaire-une-realite-a-double-facette-au-gabon-et-en-rdc/"}
+
+  - id: "cfr-gadchiroli"
+    atlas_uid: "droits-forestiers-communautaires-inde"
+    communaute: "Assemblées de village titulaires de droits forestiers communautaires, dont celles du district de Gadchiroli et de Mendha-Lekha"
+    etats: ["Inde"]
+    entite: "121 705 titres communautaires, environ 73 600 km² (31 mai 2025)"
+    mecanisme: "titre_sans_terme"
+    annee: 2006
+    concept_local: "gram sabha"
+    resume: >-
+      La loi de 2006 sur la reconnaissance des droits forestiers (Forest Rights Act) reconnaît aux communautés le droit de protéger, régénérer, conserver et gérer toute ressource forestière communautaire qu'elles protègent traditionnellement (art. 3 (1) (i)). Les droits sont héréditaires mais inaliénables et incessibles (art. 4 (4)) ; le titre porte sur l'usage et la gestion, non sur la propriété du sol forestier. À Mendha-Lekha, le service forestier a remis à l'assemblée de village, en avril 2011, le carnet de permis de transport du bambou, après 18 mois de refus : le village vend lui-même sa récolte. Dans le district de Gadchiroli, 1 171 des 1 292 villages ont choisi en 2018 de vendre eux-mêmes leurs feuilles de tendu. En 2013, la Cour suprême a soumis le projet de mine de Niyamgiri au vote de douze assemblées de village, qui l'ont rejeté.
+    gouvernance: "L'assemblée de village (gram sabha), formée de tous les adultes du village (art. 2 (g)), engage la procédure de reconnaissance (art. 6 (1)) et veille au respect des décisions de régulation de l'accès aux ressources communautaires (art. 5)."
+    effectivite: "Environ 1,87 million de demandes ont été rejetées au niveau national, presque autant que de titres accordés, et les titres communautaires restent peu nombreux par rapport aux titres individuels (Down To Earth, 2025)."
+    textes:
+      - {titre: "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act 2006, art. 3 (1) (i), 4 (4), 5 et 6", nature: "loi", annee: 2006, source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
+    sources:
+      - {titre: "Press Information Bureau — Implementation of Forest Rights Act, 2006 (2025)", url: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2147815"}
+      - {titre: "CSE — Finally, bamboo liberated", url: "https://www.cseindia.org/finally-bamboo-liberated-report-from-the-field-2509"}
+      - {titre: "The Wire Science — India has recognised forest rights but intervention is still necessary (2018)", url: "https://science.thewire.in/politics/rights/india-has-recognised-forest-rights-but-intervention-is-still-necessary/"}
+      - {titre: "Down To Earth — Forest Rights Act: a tale of bureaucratic intent and ground-level betrayal (2025)", url: "https://www.downtoearth.org.in/governance/forest-rights-act-a-tale-of-bureaucratic-intent-and-ground-level-betrayal"}
+      - {titre: "Down To Earth — Niyamgiri, dix ans après", url: "https://www.downtoearth.org.in/governance/niyamgiri-10-years-since-india-s-first-environmental-referendum-88850"}
+
+  - id: "gambie-cfma"
+    atlas_uid: "forets-communautaires-gambie"
+    communaute: "Villages et groupes de villages titulaires d'une forêt communautaire"
+    etats: ["Gambie"]
+    entite: "33 342,93 ha sous contrôle communautaire (fin de la période 2010-2019)"
+    mecanisme: "titre_sans_terme"
+    annee: 1998
+    concept_local: ""
+    resume: >-
+      La loi forestière de 1998 définit la forêt communautaire comme une forêt « possédée et gérée » par une ou plusieurs communautés, la communauté étant un village ou une ville (art. 2). Un comité forestier villageois obtient d'abord un accord préliminaire de trois ans ; s'il n'est pas rempli, la forêt retourne à l'État sans indemnité (art. 63). L'accord définitif confère à la communauté la propriété de la forêt pour une durée indéterminée (art. 67, al. 5), mais le ministre peut retirer le statut si une évaluation conclut à une gestion non durable (art. 72). Le comité est exempté des droits de licence et de permis sur les produits de sa forêt, mais l'exploitation commerciale suit le plan de gestion et exige un permis du service forestier (règlement de 1998, art. 39).
+    gouvernance: "Comité forestier formé de membres de tous les groupes d'intérêt de la communauté, enregistré auprès du service forestier (loi de 1998, art. 59) ; gestion « avec l'appui et sous la supervision » du service forestier (art. 11)."
+    effectivite: "La politique forestière nationale 2023-2032 indique que 33 342,93 ha étaient sous contrôle communautaire à la fin de 2010-2019 (16,67 % de l'objectif), et que l'extension a été freinée par le manque de volonté politique de traiter les accords et par des conflits sur la propriété des terres forestières."
+    textes:
+      - {titre: "Forest Act 1998, art. 2, 11, 58 à 72 et 90", nature: "loi", annee: 1998, source: "https://faolex.fao.org/docs/pdf/gam19052.pdf"}
+      - {titre: "Forest Regulations 1998, art. 39 et 40", nature: "reglement", annee: 1998, source: "https://faolex.fao.org/docs/pdf/gam50110.pdf"}
+    sources:
+      - {titre: "Forest Act 1998 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gam19052.pdf"}
+      - {titre: "Politique forestière nationale 2023-2032 — ministère de l'Environnement", url: "https://dspd.forte-data.com/d/7d5d8537-ed2e-11ef-b086-029254d29bb1"}
+      - {titre: "FAO, Unasylva — F. Romano, foresterie communautaire en Gambie", url: "https://www.fao.org/4/a1346e/a1346e03.htm"}
+
+  # ---------------- Forêt déclarée sur la terre villageoise ----------------
+  - id: "tanzanie-vlfr"
+    atlas_uid: "reserves-forestieres-villageoises-tanzanie"
+    communaute: "Villages de Tanzanie continentale"
+    etats: ["Tanzanie"]
+    entite: "Réserves forestières villageoises ; 4 122 500 ha sous gestion communautaire et conjointe, 2 328 villages (2014)"
+    mecanisme: "foret_terre_villageoise"
+    annee: 2002
+    concept_local: ""
+    resume: >-
+      La loi forestière de 2002 permet au conseil de village de déclarer, par résolution, une partie de la terre villageoise réserve forestière villageoise, puis d'en demander la publication au Journal officiel (art. 33 à 35). Sauf accord contraire, les villageois entrent, utilisent et récoltent en commun, et peuvent exclure les non-membres dépourvus de permis (art. 40) ; les résidents ne paient pas de redevance (art. 78 (3)). Le conseil fixe, par résolution confirmée par l'assemblée villageoise, les règles des usages non domestiques (art. 49 (6)). Depuis 2019, toute exploitation de bois d'œuvre, de perches ou de charbon dans une réserve de production suppose un plan de récolte approuvé par le directeur des forêts, et les demandes sont tranchées par un comité de district présidé par le commissaire de district (G.N. n° 417). La loi sur les terres villageoises de 1999 confie toute terre au président comme fiduciaire, c'est-à-dire qu'il la détient au nom des citoyens.
+    gouvernance: "Comité de gestion formé parmi les membres de l'assemblée villageoise, qui élit son président chaque année et rend compte à l'assemblée (art. 33) ; l'autorité locale peut reprendre la gestion si le conseil manque à ses obligations, avec appel au ministre (art. 41)."
+    effectivite: "Selon le Tanzania Forest Conservation Group, 80 % des forêts de la terre villageoise ne sont pas classées en réserve, et le règlement de 2019 recentralise les décisions sur les plans de récolte et l'agrément des acheteurs."
+    textes:
+      - {titre: "Forest Act n° 14 de 2002, art. 4, 32 à 41, 49 et 78", nature: "loi", annee: 2002, source: "https://www.tfs.go.tz/uploads/documents/Forest_Act_2002.pdf"}
+      - {titre: "Forest (Sustainable Utilization of Logs, Timber, Withies, Poles or Charcoal) Regulations 2019, G.N. n° 417", nature: "reglement", annee: 2019, source: "https://www.tfs.go.tz/uploads/GN_NO._417_24_MAY_2019.pdf"}
+    sources:
+      - {titre: "Forest Act 2002 — Tanzania Forest Services", url: "https://www.tfs.go.tz/uploads/documents/Forest_Act_2002.pdf"}
+      - {titre: "Tanzania Forest Conservation Group — Forest justice in Tanzania", url: "https://www.tfcg.org/what-we-do/advocate/forest-justice-in-tanzania/"}
+      - {titre: "Cinquième rapport national de la Tanzanie à la CDB (2014)", url: "https://www.cbd.int/doc/world/tz/tz-nr-05-en.pdf"}
+
+  - id: "namibie-terres-communales"
+    atlas_uid: "forets-communautaires-namibie"
+    communaute: "Résidents des terres communales du nord de la Namibie"
+    etats: ["Namibie"]
+    entite: "43 forêts communautaires enregistrées ou en cours, environ 72 537 km² (2020)"
+    mecanisme: "foret_terre_villageoise"
+    annee: 2001
+    concept_local: ""
+    resume: >-
+      Les terres communales appartiennent à l'État, qui les détient en fiducie (pour le compte et au profit) des communautés traditionnelles qui y résident (loi de 2002 sur la réforme des terres communales, art. 17). La loi sur les forêts de 2001 permet au ministre de conclure, avec l'accord du chef ou de l'autorité traditionnelle, une convention avec un organe représentant les titulaires de droits sur ces terres, puis de déclarer la forêt communautaire au Journal officiel (art. 15). L'organe gère et utilise les produits forestiers, contrôle le pâturage, perçoit des redevances et peut céder les produits forestiers selon le plan de gestion (art. 15 et 31). Tous les résidents de la zone en sont membres, et la convention leur garantit un usage égal de la forêt.
+    gouvernance: "Organe de gestion représentant les titulaires de droits sur la terre communale, à Kwandu, le comité élu de la conservancy (zone de gestion communautaire de la faune) qui recouvre la forêt, à Sobbe un comité distinct (Lubilo, 2018) ; le ministre peut révoquer la déclaration si l'organe ne gère pas selon la convention ou ne représente plus la communauté (art. 19)."
+    effectivite: "À Kwandu (région du Zambèze), la concession d'exploitation du bois apporte 20 % de revenus supplémentaires au comité qui gère aussi la conservancy ; les autorités traditionnelles pèsent sur les décisions (Lubilo, Wageningen, 2018)."
+    textes:
+      - {titre: "Forest Act n° 12 de 2001, art. 15, 19 et 31", nature: "loi", annee: 2001, source: "https://www.lac.org.na/laws/annoSTAT/Forest%20Act%2012%20of%202001.pdf"}
+      - {titre: "Communal Land Reform Act n° 5 de 2002, art. 17", nature: "loi", annee: 2002, source: "https://faolex.fao.org/docs/pdf/nam64022.pdf"}
+    sources:
+      - {titre: "Forest Act 12 of 2001 (version annotée) — Legal Assistance Centre", url: "https://www.lac.org.na/laws/annoSTAT/Forest%20Act%2012%20of%202001.pdf"}
+      - {titre: "Conservation Namibia — Community forests", url: "https://conservationnamibia.com/factsheets/community-forests.php"}
+      - {titre: "Lubilo, thèse, Wageningen, 2018", url: "https://edepot.wur.nl/446408"}
+
+  # ---------------- Attribution administrative révocable ----------------
+  - id: "nepal-groupes-usagers"
+    atlas_uid: "forets-communautaires-nepal"
+    communaute: "Groupes d'usagers de la forêt communautaire"
+    etats: ["Népal"]
+    entite: "22 557 forêts communautaires enregistrées (1er octobre 2026)"
+    mecanisme: "attribution_revocable"
+    annee: 1993
+    concept_local: "upabhokta samuha"
+    resume: >-
+      L'agent forestier de division remet au groupe d'usagers une partie de la forêt nationale avec un certificat de transfert. La loi forestière de 2019, qui reprend celle de 1993, autorise le groupe à protéger, gérer et utiliser la forêt selon un plan d'opération, à fixer librement le prix de ses produits et à les vendre, et à mener des entreprises forestières (art. 18). Au moins 25 % du revenu annuel vont à la forêt, puis au moins la moitié du reste à la réduction de la pauvreté, aux femmes et aux entreprises. La terre reste forêt nationale : l'agent forestier peut reprendre la forêt si le plan n'est pas appliqué, avec recours devant le directeur forestier provincial, dont la décision est définitive, et nouvelle remise si la décision est annulée (art. 19 et 20).
+    gouvernance: "Groupe d'usagers, institution autonome à succession perpétuelle (art. 32), avec un comité exécutif de 21 membres au plus dont au moins 50 % de femmes (lignes directrices de 2025) ; l'agent forestier approuve le premier plan et peut interdire une modification dans les 30 jours (art. 18)."
+    effectivite: "En 2022, la fédération des usagers (FECOFUN) a manifesté plus de trois mois contre un projet de règlement qui imposait de livrer 50 % du bois commercialisable aux comités d'approvisionnement de district et créait des aires protégées sur des forêts communautaires (Mongabay, 2022)."
+    textes:
+      - {titre: "Ban Ain 2076 (loi forestière de 2019), art. 18 à 22 et 31 à 34", nature: "loi", annee: 2019, source: "https://faolex.fao.org/docs/pdf/nep202856.pdf"}
+      - {titre: "Samudayik banko margadarshan 2081 (lignes directrices de la forêt communautaire)", nature: "circulaire", annee: 2025, source: "https://giwmscdnone.gov.np/media/pages/files/Community%20Forestry%20Guidelines%2C%202081_oshtgjh.pdf"}
+    sources:
+      - {titre: "Loi forestière de 2019 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/nep202856.pdf"}
+      - {titre: "Base de gestion des forêts gérées par les communautés — Centre d'étude de la forêt communautaire", url: "https://mis.cfsc.gov.np"}
+      - {titre: "Mongabay — Community forest groups in Nepal say new rules threaten their autonomy (mars 2022)", url: "https://news.mongabay.com/2022/03/globally-acclaimed-community-forest-groups-in-nepal-say-new-rules-threaten-their-autonomy/"}
+
+  - id: "van-panchayats"
+    atlas_uid: "van-panchayats-uttarakhand"
+    communaute: "Communautés villageoises du Kumaon et du Garhwal"
+    etats: ["Inde (Uttarakhand)"]
+    entite: "11 217 conseils forestiers de village gérant environ 4 526 km² de forêt (2026)"
+    mecanisme: "attribution_revocable"
+    annee: 1931
+    concept_local: "van panchayat ; sarpanch"
+    resume: >-
+      Le régime date des règles de 1931, prises après les incendies de forêt de protestation de 1921. La loi forestière de 1927 permet à l'État d'attribuer à une communauté villageoise ses droits sur une forêt et de retirer cette attribution ; le sol reste à l'État (section 28). Le conseil élu fixe les règles d'accès au pâturage, aux branches et au bois de feu, ainsi que les amendes, et perçoit des redevances. Depuis les règles de 2001, le chef de division forestière approuve le plan de gestion quinquennal, les agents forestiers marquent les arbres à abattre, et toute vente locale de produits suppose l'accord de l'agent forestier.
+    gouvernance: "Conseil de neuf membres au plus, dont quatre sièges réservés aux femmes, élu par les ayants droit du village, qui élit son président (sarpanch) ; la révocation d'un membre passe par le sous-préfet (règles de 2001 et 2005)."
+    effectivite: "Entre 2020 et 2022, l'État a relancé les élections des conseils et corrigé leurs registres fonciers ; l'amendement de mars 2024 ne modifie que 15 règles, alors que le projet de 2023 en comptait 58 (Down To Earth, 2026)."
+    textes:
+      - {titre: "Indian Forest Act 1927, section 28", nature: "loi", annee: 1927, source: "https://indiankanoon.org/doc/644357/"}
+      - {titre: "Uttarakhand Panchayati Van Niyamavali 2005, modifiées en 2012 et 2024", nature: "reglement", annee: 2005, source: "https://lead-journal.org/content/12141.pdf"}
+    sources:
+      - {titre: "LEAD Journal — Uttarakhand Van Panchayats", url: "https://lead-journal.org/content/12141.pdf"}
+      - {titre: "Down To Earth — A step back by Uttarakhand (3 mars 2026)", url: "https://www.downtoearth.org.in/governance/a-step-back-by-uttarakhand"}
+      - {titre: "Ground Report — How Van Panchayat works in Uttarakhand", url: "https://www.groundreport.in/biodiversity/how-van-panchayat-works-in-uttarakhand/"}
+
+  - id: "viet-nam-communautes-residentielles"
+    atlas_uid: "forets-communautes-residentielles-viet-nam"
+    communaute: "Communautés résidentielles (villages, hameaux, quartiers)"
+    etats: ["Viêt Nam"]
+    entite: "1,05 million d'ha de forêts dont une communauté est propriétaire, environ 7 % de la surface forestière (2024)"
+    mecanisme: "attribution_revocable"
+    annee: 2017
+    concept_local: "cộng đồng dân cư"
+    resume: >-
+      La loi sur la foresterie de 2017, en vigueur depuis 2019, range la communauté résidentielle parmi les propriétaires forestiers et lui attribue sans redevance des forêts de croyance gérées selon la tradition, des forêts de protection et des forêts de production (art. 8 et 16). La communauté adopte une convention villageoise de protection de la forêt ; elle ne peut ni diviser la forêt entre ses membres ni céder, louer, donner ou hypothéquer le droit d'usage (art. 86). Dans une forêt de croyance, le bois ne peut être coupé que pour des usages communs, après approbation d'une autorité de l'État (art. 52). L'État peut reprendre la forêt (art. 22) ; depuis le 1er juillet 2025, l'attribution et la reprise relèvent du président du comité populaire de commune (décret n° 131/2025/ND-CP).
+    gouvernance: "Convention villageoise adoptée par la communauté ; attribution et reprise par le président du comité populaire de commune (décret n° 131/2025/ND-CP, art. 13)."
+    effectivite: "Les forêts littorales gérées par des villages de Phong Điền selon leurs conventions ne leur ont pas été attribuées (université de Hué, Forests, 2022) ; la surface des forêts communautaires passe de 1,22 million d'ha en 2019 à 1,05 million en 2024 (Système d'information sur les sauvegardes)."
+    textes:
+      - {titre: "Loi sur la foresterie n° 16/2017/QH14, art. 8, 16, 22, 52 et 86", nature: "loi", annee: 2017, source: "https://english.luatvietnam.vn/law-no-16-2017-qh14-dated-november-15-2017-of-the-national-assembly-on-forestry-118853-doc1.html"}
+      - {titre: "Décret n° 131/2025/ND-CP, art. 13", nature: "decret", annee: 2025, source: "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/131nd.signed.pdf"}
+    sources:
+      - {titre: "Law No. 16/2017/QH14 on Forestry — LuatVietnam", url: "https://english.luatvietnam.vn/law-no-16-2017-qh14-dated-november-15-2017-of-the-national-assembly-on-forestry-118853-doc1.html"}
+      - {titre: "B2.2.3 Trends in forest owners — Système d'information sur les sauvegardes", url: "https://sis.kiemlam.gov.vn/web/guest/b2.2.3.-trends-in-forest-owners"}
+      - {titre: "Forests (MDPI), 2022 — forêts littorales de Phong Điền", url: "https://www.mdpi.com/1999-4907/13/4/561"}
+
+  - id: "thailande-pa-chumchon"
+    atlas_uid: "forets-communautaires-thailande"
+    communaute: "Communautés villageoises titulaires d'une forêt communautaire"
+    etats: ["Thaïlande"]
+    entite: "11 242 forêts communautaires, 12 857 villages, environ 9 990 km² (31 juillet 2026)"
+    mecanisme: "attribution_revocable"
+    annee: 2019
+    concept_local: "pa chumchon"
+    resume: >-
+      La loi sur la forêt communautaire de 2019 permet à au moins cinquante personnes d'une communauté du même district, domiciliées depuis cinq ans, de demander l'établissement d'une forêt communautaire sur une forêt ou une terre publique hors aires protégées. L'établissement ne change pas le statut de la terre, et nul ne peut y résider (art. 7 et 63). Les membres récoltent les produits forestiers et le bois de la zone d'utilisation, sauf les bois précieux, pour l'usage domestique ou les activités collectives, sans redevance (art. 50 et 54) ; la loi ne prévoit pas de vente de bois. Le directeur général du Département royal des forêts peut annuler la forêt, notamment pour un motif de sécurité nationale (art. 78).
+    gouvernance: "Comité de gestion élu parmi les demandeurs, qui édicte les règles de gestion et d'admission des membres ; ces règles et le plan de cinq ans sont approuvés par le comité provincial, qui peut révoquer le comité à la majorité des trois quarts et lui donner des ordres (art. 42, 44, 46 et 74)."
+    effectivite: "Le RECOFTC (Centre pour les populations et les forêts) indique en 2025 que la plupart des communautés n'ont pas les moyens de rédiger un plan de gestion applicable, et que des aires gérées par des communautés rangées dans de nouvelles aires protégées ne sont plus considérées comme forêts communautaires."
+    textes:
+      - {titre: "Community Forest Act B.E. 2562 (2019)", nature: "loi", annee: 2019, source: "https://data.opendevelopmentmekong.net/en/laws_record/community-forestry-act-b-e-2562-2019"}
+      - {titre: "Constitution du Royaume de Thaïlande (2017), art. 43", nature: "constitution", annee: 2017, source: "https://www.constituteproject.org/constitution/Thailand_2017?lang=en"}
+    sources:
+      - {titre: "Community Forest Act B.E. 2562 — Open Development Mekong", url: "https://data.opendevelopmentmekong.net/en/laws_record/community-forestry-act-b-e-2562-2019"}
+      - {titre: "RECOFTC — Community forest governance in Thailand (février 2025)", url: "https://www.recoftc.org/stories/thailand-community-forest-act-governance"}
+      - {titre: "Département royal des forêts — forêts communautaires au 31 juillet 2026", url: "https://docs.google.com/spreadsheets/d/1rt5eiqD31PjumkB4adkmcVCGVP9tXcAN/edit"}
+
+  - id: "suriname-gemeenschapsbossen"
+    atlas_uid: "forets-communautaires-suriname"
+    communaute: "Villages autochtones et marrons de l'intérieur"
+    etats: ["Suriname"]
+    entite: "Forêts communautaires (gemeenschapsbossen), 826 000 ha (2022)"
+    mecanisme: "attribution_revocable"
+    annee: 1992
+    concept_local: "gemeenschapsbos"
+    resume: >-
+      La loi sur la gestion forestière de 1992 permet au ministre chargé des forêts de désigner, autour des terres communautaires, des forêts au profit des habitants de l'intérieur que la loi désigne comme in stamverband levende boslandbewoners, c'est-à-dire les villages autochtones et marrons (art. 1 et 41). Ces forêts servent à leurs besoins en nourriture et en produits forestiers, à une exploitation commerciale éventuelle du bois et au défrichement agricole, sans redevance de concession, mais le bois commercialisé reste taxé. Les droits coutumiers sur les villages et les terres de culture sont respectés « autant que possible », avec recours écrit au Président. La loi ne donne aucun titre de propriété ; en 2007, la Cour interaméricaine des droits de l'homme a jugé ces permis révocables (arrêt Saramaka).
+    gouvernance: "L'autorité traditionnelle du village dépose les recours au Président (art. 41) ; la désignation et l'usage relèvent du ministre."
+    effectivite: "En 2022, 111 permis d'exploitation étaient actifs au nom de communautés autochtones ou marronnes, pour 23 % de la production de bois ; l'État accorde aux communautés des droits d'exploitation de dix ans ; des entrepreneurs achètent souvent le bois sur pied et organisent la récolte, et les revenus vont surtout à ces entrepreneurs et aux scieries (Probos, 2025)."
+    textes:
+      - {titre: "Wet Bosbeheer, S.B. 1992 no 80, art. 1 et 41", nature: "loi", annee: 1992, source: "https://faolex.fao.org/docs/pdf/sur32831.pdf"}
+      - {titre: "Cour interaméricaine des droits de l'homme, Peuple saramaka c. Suriname, 28 novembre 2007", nature: "jurisprudence", annee: 2007, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_172_ing.pdf"}
+    sources:
+      - {titre: "Wet Bosbeheer — FAOLEX", url: "https://faolex.fao.org/docs/pdf/sur32831.pdf"}
+      - {titre: "Probos — Forest management revenue in Suriname (2025)", url: "https://www.probos.nl/images/pdf/rapporten/251006_Final_Report_Forest_Management_Revenue_Suriname_V2.pdf"}
+
+  # ---------------- Accord de gestion d'une forêt publique ----------------
+  - id: "cambodge-forets-communautaires"
+    atlas_uid: "forets-communautaires-cambodge"
+    communaute: "Communautés rurales titulaires d'une forêt communautaire"
+    etats: ["Cambodge"]
+    entite: "610 communautés sur 506 600 ha, 1 082 villages (fin 2017)"
+    mecanisme: "accord_gestion"
+    annee: 2003
+    concept_local: ""
+    resume: >-
+      Des habitants d'un ou plusieurs villages forment une communauté et signent avec le chef de cantonnement (service territorial) de l'Administration forestière un accord de forêt communautaire de quinze ans au plus, renouvelable (loi forestière de 2002, art. 42). La forêt reste propriété publique de l'État ; la communauté ne peut ni l'exploiter en concession ni céder ses droits (art. 44). Les droits d'usage coutumiers s'exercent sans permis ; la vente de produits forestiers est interdite pendant les cinq premières années du plan et soumise aux redevances légales (sous-décret de 2003, art. 11 et 12). L'État peut résilier l'accord pour un usage d'intérêt public supérieur, avec six mois de préavis et une indemnisation négociée avec le comité (art. 28).
+    gouvernance: "Comité de gestion de cinq à onze membres élus à bulletin secret pour cinq ans, qui adopte le règlement (accès, redevances, partage, amendes) ; l'Administration forestière reconnaît ou dissout les communautés et peut exiger la modification du règlement (sous-décret de 2003, art. 16 à 30)."
+    effectivite: "Fin 2017, sur 610 communautés, 414 avaient signé un accord et 81 disposaient d'un plan de gestion approuvé, condition de la récolte (Administration forestière) ; à Prey Long, neuf forêts communautaires montrent moins de traces de coupe que des forêts de production témoins (Lambrick et al., 2014)."
+    textes:
+      - {titre: "Loi forestière (Kram NS/RKM/0802/016), art. 40 à 47", nature: "loi", annee: 2002, source: "https://data.opendevelopmentcambodia.net/dataset/5ad7c28f-b585-41b7-880e-26fe6a79064e/resource/bdf49aaf-e0aa-4013-950c-1ecfe925940a/download/d46d4a9f-f8b3-494f-9717-fabbcbd80234.pdf"}
+      - {titre: "Sous-décret n° 79 du 2 décembre 2003 sur la gestion des forêts communautaires", nature: "decret", annee: 2003, source: "https://faolex.fao.org/docs/pdf/cam81979.pdf"}
+    sources:
+      - {titre: "Sub-Decree No. 79 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/cam81979.pdf"}
+      - {titre: "Statistiques des forêts communautaires 2017 — Administration forestière", url: "https://data.opendevelopmentcambodia.net/km/dataset/e6a80f55-c78f-4ae0-b302-0598f8e0f635/resource/1418c877-9214-45e8-9c21-35be9f0a6c7b/download/community_forestry_statistics__00.042017.pdf"}
+      - {titre: "Lambrick et al., Conservation Biology, 2014", url: "https://data.opendevelopmentmekong.net/dataset/c5827fb3-bbb5-48ee-a368-13fb5d118ac3/resource/8354e8a4-4b07-440c-88d2-72bfaf4f09ec/download/1acfb253-1bbf-47f0-9e06-8bb062feeb16.pdf"}
+
+  - id: "philippines-cbfma"
+    atlas_uid: "gestion-forestiere-communautaire-philippines"
+    communaute: "Organisations populaires (people's organizations) titulaires d'un accord de gestion forestière communautaire"
+    etats: ["Philippines"]
+    entite: "1 139 accords en vigueur sur 669 970 ha (fin 2025)"
+    mecanisme: "accord_gestion"
+    annee: 1995
+    concept_local: ""
+    resume: >-
+      Le décret présidentiel n° 263 de 1995 fait de la gestion forestière communautaire la stratégie nationale. L'arrêté administratif n° 2004-29 du ministère de l'Environnement donne à l'organisation un accord de 25 ans renouvelable une fois, le droit d'occuper, de gérer et d'utiliser la forêt selon son plan et la propriété des améliorations (sect. 6 et 14). La récolte, la transformation et le transport suivent la réglementation générale, et la récolte de bois exige des permis d'usage distincts. Un tiers ne peut recevoir un permis d'extraction dans la zone sans le consentement de l'organisation. La terre reste forêt publique, l'accord est incessible et devient inopposable si la zone est reclassée en terre aliénable (sect. 16 et 17).
+    gouvernance: "Organisation populaire enregistrée, qui fixe les droits et devoirs de ses membres ; suivi annuel par une équipe mixte (ministère, collectivités locales, ONG) et annulation possible par l'autorité supérieure du ministère (sect. 30, 38 et 39)."
+    effectivite: "Par mémorandums des 30 novembre 2005 et 5 janvier 2006, le ministère a ordonné l'annulation de tous les accords ; le 13 mars 2006, il a interdit de nouveaux ordres d'annulation (mémorandum du secrétaire) ; l'étude de la Forest Foundation Philippines et de Tropenbos (2020) situe la suspension de 2006 dans huit régions. Les accords en vigueur passent de 1 971 en 2022 à 1 139 en 2025 (statistiques forestières)."
+    textes:
+      - {titre: "Executive Order n° 263 (1995)", nature: "decret", annee: 1995, source: "https://faolex.fao.org/docs/pdf/phi68061.pdf"}
+      - {titre: "DENR Administrative Order n° 2004-29", nature: "reglement", annee: 2004, source: "https://forestry.denr.gov.ph/fmb_web/wp-content/uploads/2023/06/dao2004-29.pdf"}
+    sources:
+      - {titre: "DENR Administrative Order n° 2004-29 — Bureau de gestion forestière", url: "https://forestry.denr.gov.ph/fmb_web/wp-content/uploads/2023/06/dao2004-29.pdf"}
+      - {titre: "Mémorandum du secrétaire du DENR du 13 mars 2006", url: "https://forestry.denr.gov.ph/fmb_web/wp-content/uploads/2023/06/memosec-031306.pdf"}
+      - {titre: "Forest Foundation Philippines — Review of community forest rights (2020)", url: "https://www.forestfoundation.ph/wp-content/uploads/2020/12/Forest-Foundation-Review-of-Community-Forest-Rights-Philippines.pdf"}
+
+  - id: "hutan-desa"
+    atlas_uid: "foresterie-sociale-indonesie"
+    communaute: "Villages titulaires d'une forêt de village (hutan desa) et groupes titulaires d'une forêt communautaire (hutan kemasyarakatan)"
+    etats: ["Indonésie"]
+    entite: "11 065 décisions de foresterie sociale, 8,4 millions d'ha, tous schémas confondus (septembre 2025)"
+    mecanisme: "accord_gestion"
+    annee: 2021
+    concept_local: "hutan desa"
+    resume: >-
+      Le règlement ministériel n° 9 de 2021 donne à une institution villageoise (lembaga desa), créée par le chef de village après l'assemblée délibérative du village, ou à un groupe d'exploitants, une approbation de gestion de 35 ans renouvelable (art. 7 et 8). L'approbation « n'est pas un droit de propriété sur la zone forestière » ; le titulaire ne peut ni la céder, ni la louer, ni donner la zone en garantie. Il gère et utilise la zone selon les savoirs locaux et développe une économie forestière, mais tient le registre des produits et paie les recettes non fiscales dues à l'État (art. 90 et 93). La coupe est interdite dans la partie classée forêt de protection, et si la zone est déclarée projet stratégique national, le ministre modifie l'approbation (art. 97).
+    gouvernance: "Institution villageoise ou groupe d'exploitants, qui rend compte de l'exécution de ses plans à l'autorité qui a délivré l'approbation (art. 93)."
+    effectivite: "Une étude sur Sumatra et Kalimantan mesure une déforestation évitée dans les forêts de village entre 2012 et 2016, avec des résultats variables selon les années et les lieux (Santika et al., Global Environmental Change, 2017)."
+    textes:
+      - {titre: "Permen LHK No. 9 Tahun 2021, art. 7, 8, 90, 93 et 97", nature: "reglement", annee: 2021, source: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
+      - {titre: "Peraturan Pemerintah No. 23 Tahun 2021, chapitre VI", nature: "reglement", annee: 2021, source: "https://pasal.id/peraturan/pp/pp-no-23-tahun-2021"}
+    sources:
+      - {titre: "Permen LHK No. 9 Tahun 2021 — pasal.id", url: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
+      - {titre: "Ministère des Forêts — 8,4 juta hektare untuk perhutanan sosial (10 septembre 2025)", url: "https://www.kehutanan.go.id/news/menhut-8-4-juta-hektare-telah-diberikan-ke-masyarakat-untuk-perhutanan-sosial"}
+      - {titre: "Santika et al., Global Environmental Change, 2017", url: "https://doi.org/10.1016/j.gloenvcha.2017.08.002"}
+
+  - id: "mongolie-groupes-usagers"
+    atlas_uid: "forets-communautaires-mongolie"
+    communaute: "Groupes d'usagers de la forêt"
+    etats: ["Mongolie"]
+    entite: "1 281 groupes gérant 3 345 400 ha (2018)"
+    mecanisme: "accord_gestion"
+    annee: 2012
+    concept_local: ""
+    resume: >-
+      La loi sur les forêts de 2012 permet au conseil élu du district rural (khural du soum), sur proposition de l'assemblée des habitants de la plus petite circonscription (khural public du bagh), de conférer à un groupe d'usagers la possession d'une partie du fonds forestier par contrat : un an d'abord, puis des périodes de dix ans jusqu'à soixante ans (art. 4.4 et 4.5). La forêt reste propriété de l'État. Le groupe exploite le bois et les produits non ligneux selon son plan de gestion et vend l'excédent, mais le gouverneur du soum décide des coupes dans les limites fixées par le khural (art. 18.2.7 et 21.12). Les autres citoyens gardent le droit de traverser la forêt, d'y faire passer le bétail et, avec autorisation, d'y récolter et d'y chasser (art. 4.11).
+    gouvernance: "Association volontaire dont 80 % au moins des membres résident dans l'unité administrative ; elle rend compte chaque année au khural du soum, et le gouverneur annule le contrat sur décision du khural, de l'assemblée des membres ou en cas de manquements répétés (art. 21)."
+    effectivite: "Le groupe de Bayanbulag applique ses plans de gestion 2016-2022 et 2022-2027 et signale des coupes illégales et des menaces d'emprise foncière (registre ICCA, 2023)."
+    textes:
+      - {titre: "Law on Forest (version révisée du 17 mai 2012), art. 4, 18 et 21", nature: "loi", annee: 2012, source: "https://faolex.fao.org/docs/pdf/mon73111E.pdf"}
+    sources:
+      - {titre: "Law on Forest — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mon73111E.pdf"}
+      - {titre: "Sixième rapport national de la Mongolie à la CDB (2019)", url: "https://www.cbd.int/doc/nr/nr-06/mn-nr-06-en.pdf"}
+      - {titre: "Registre ICCA — Bayanbulag forest user group", url: "https://www.iccaregistry.org/en/explore/mongolia/bayanbulag-forest-user-group"}
+
+  - id: "honduras-cmfc"
+    atlas_uid: "forets-communautaires-honduras"
+    communaute: "Communautés et organisations agroforestières du Système social forestier"
+    etats: ["Honduras"]
+    entite: "864 402 ha de forêts nationales gérées par des communautés ; 242 organisations et 478 communautés inscrites au Système social forestier (2025)"
+    mecanisme: "accord_gestion"
+    annee: 2007
+    concept_local: ""
+    resume: >-
+      La loi sur les forêts, les aires protégées et la faune de 2007 définit le contrat de gestion forestière communautaire comme un accord entre l'Institut national de conservation et de développement forestier (ICF) et des groupes communautaires dotés de la personnalité juridique, établis dans une forêt nationale (art. 11). Les communautés organisées ont un droit de préférence sur ces contrats, qui peuvent durer jusqu'à la période de rotation des essences (art. 77 et 129). Les droits sont indivisibles et ne peuvent être transmis hors de la communauté (art. 131) ; la forêt reste propriété de l'État ou de la municipalité. Parmi les incitations de l'ICF au boisement et au reboisement, qui ne sont pas réservées aux communautés, figurent la récolte gratuite du bois de feu et des résines et l'exploitation commerciale de 50 % au plus du volume produit après des travaux de sylviculture (art. 150).
+    gouvernance: "Communauté organisée accréditée auprès de l'ICF, qui répartit les activités entre ses groupes ; conseil consultatif forestier communautaire chargé d'un contrôle citoyen ; contrôle mensuel de l'ICF, qui résilie en cas de manquement (art. 28, 83 et 130)."
+    effectivite: "Selon un article de l'Université nationale autonome du Honduras (2019), les organisations titulaires de droits d'usage se sont surtout consacrées à l'exploitation du bois et de la résine et ont délaissé la protection de la forêt."
+    textes:
+      - {titre: "Ley Forestal, Áreas Protegidas y Vida Silvestre (décret 98-2007)", nature: "loi", annee: 2007, source: "https://faolex.fao.org/docs/pdf/hon77556.pdf"}
+    sources:
+      - {titre: "Décret 98-2007 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/hon77556.pdf"}
+      - {titre: "ICF registra 864 mil hectáreas de bosque bajo manejo comunitario", url: "https://cn8.spe.gob.hn/nacional/icf-registra-864-mil-hectareas-de-bosque-bajo-manejado-comunitario-con-242-organizaciones-agroforestales/"}
+      - {titre: "Lino Ruiz, UNAH Sociedad, 2019", url: "https://www.camjol.info/index.php/UNAHSOCIEDAD/article/view/10360"}
+
+  # ---------------- Concession d'exploitation communautaire ----------------
+  - id: "peten-concessions"
+    atlas_uid: "concessions-forestieres-communautaires-peten"
+    communaute: "Organisations communautaires de la zone à usages multiples de la réserve de biosphère maya"
+    etats: ["Guatemala"]
+    entite: "11 concessions communautaires sous contrat (août 2022) ; 400 829 ha pour les 12 unités attribuées de 1994 à 2002"
+    mecanisme: "concession_communautaire"
+    annee: 1994
+    concept_local: ""
+    resume: >-
+      Le Conseil national des aires protégées (CONAP) attribue par contrat une unité de gestion forestière à une communauté organisée en association ou en comité (loi sur les aires protégées, art. 19 ; Normes de 1998). Le concessionnaire exploite à titre exclusif le bois et les produits non ligneux selon un plan de gestion approuvé, et doit obtenir une certification forestière dans les trois ans (art. 7, 13 et 14). La durée est fixée au contrat, 25 ans pour les premiers et 30 ans pour ceux de 2022, et prorogeable à la demande du concessionnaire. L'unité ne peut faire l'objet d'aucun titre de propriété et reste sous l'administration du CONAP, qui garde les services environnementaux et les ressources non renouvelables.
+    gouvernance: "Conseil de direction (junta directiva) de l'organisation, attesté par le maire ; le CONAP supervise l'exploitation et peut sanctionner, suspendre ou résilier le contrat (Normes de 1998, art. 11 et 35 à 39)."
+    effectivite: "En 2009, trois contrats communautaires ont été suspendus ou annulés, dont La Colorada avec expulsion de la communauté ; huit ont été prorogés de 25 ans en 2021 et 2022, et deux unités nouvelles ont été concédées en 2022 (IARNA, 2014 ; CONAP)."
+    textes:
+      - {titre: "Ley de Áreas Protegidas (décret 4-89), art. 19", nature: "loi", annee: 1989, source: "https://faolex.fao.org/docs/pdf/gua60538.pdf"}
+      - {titre: "Normas para el otorgamiento de concesiones en la Zona de Uso Múltiple de la Reserva de la Biosfera Maya", nature: "reglement", annee: 1998, source: "https://faolex.fao.org/docs/pdf/gua17249.pdf"}
+    sources:
+      - {titre: "Normas de 1998 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gua17249.pdf"}
+      - {titre: "Acuerdo interno 242/2019 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gua205303.pdf"}
+      - {titre: "IARNA, université Rafael Landívar — Concesiones forestales en Guatemala", url: "https://infoiarna.url.edu.gt/wp-content/uploads/2019/04/articulo-Concesiones-forestales-en-Guatemala.pdf"}
+      - {titre: "AGN — Impulsan modelo de manejo forestal sostenible en la Reserva de la Biosfera Maya", url: "https://agn.gt/impulsan-modelo-de-manejo-forestal-sostenible-en-la-reserva-de-la-biosfera-maya-en-peten/"}
+
+  - id: "colombie-britannique-cfa"
+    atlas_uid: "forets-communautaires-colombie-britannique"
+    communaute: "Premières nations, municipalités et organisations locales titulaires d'un accord de forêt communautaire"
+    etats: ["Canada (Colombie-Britannique)"]
+    entite: "62 accords ; 1 953 537 ha pour les 61 accords dont la superficie est inscrite au registre (mars 2026)"
+    mecanisme: "concession_communautaire"
+    annee: 1998
+    concept_local: ""
+    resume: >-
+      Le Forest Act permet au ministre des Forêts de conclure un accord de forêt communautaire avec une première nation, une municipalité, un district régional ou une société locale (art. 43.2). L'accord dure de 25 à 99 ans ; le ministre doit offrir un accord de remplacement après la neuvième année, sauf clause contraire (art. 43.3 et 43.4). Il donne le droit exclusif de récolter le bois sur les terres de la Couronne (terres publiques provinciales) de la zone et peut donner le droit de récolter, gérer et tarifer les produits non ligneux. Le titulaire paie les droits de coupe (stumpage, redevance due à la province pour le bois récolté), met en œuvre un plan d'aménagement approuvé par le ministre, et l'accord peut réserver une part du bois à d'autres attributaires.
+    gouvernance: "Conseil de gestion décrit dans la demande (Community Tenures Regulation, art. 3) ; selon l'association des forêts communautaires, la moitié des accords sont détenus par des premières nations ou des partenariats avec elles."
+    effectivite: "Le registre de mars 2026 compte 62 accords pour une coupe annuelle autorisée de 2 187 599 m³ ; 37 forêts déclarent 662 727 m³ récoltés et 10,4 millions de dollars versés à leurs communautés (rapport d'indicateurs 2026 de l'association)."
+    textes:
+      - {titre: "Forest Act (RSBC 1996, ch. 157), partie 3, division 7.1", nature: "loi", annee: 1996, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96157_03"}
+      - {titre: "Community Tenures Regulation (B.C. Reg. 352/2004)", nature: "reglement", annee: 2004, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/16_352_2004"}
+    sources:
+      - {titre: "Community Forest Agreements — Gouvernement de la Colombie-Britannique", url: "https://www2.gov.bc.ca/gov/content/industry/forestry/forest-tenures/timber-harvesting-rights/community-forest-agreements"}
+      - {titre: "Registre des licences, mars 2026 — Gouvernement de la Colombie-Britannique", url: "https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/timber-tenures/apportionment/ftarpt_f000_file_status_register_mar2026rpt.xls"}
+      - {titre: "Furness, Harshaw et Nelson, Forest Policy and Economics, 2015", url: "https://www.sciencedirect.com/science/article/abs/pii/S1389934114002330"}
+
+  - id: "liberia-cfma"
+    atlas_uid: "forets-communautaires-liberia"
+    communaute: "Communautés forestières autorisées (Authorized Forest Communities)"
+    etats: ["Liberia"]
+    entite: "57 accords de gestion forestière communautaire, environ 1,2 million d'ha (2024)"
+    mecanisme: "concession_communautaire"
+    annee: 2009
+    concept_local: ""
+    resume: >-
+      La loi de 2009 sur les droits communautaires relatifs aux terres forestières permet à une communauté, après une procédure en neuf étapes, de signer avec l'Autorité de développement forestier (FDA) un accord de gestion de quinze ans au plus. L'accord est renouvelable autant de fois que la communauté le souhaite, et renouvelé d'office si la FDA ne répond pas soixante jours avant l'échéance (accord de Beyan Poye, art. 8). La communauté peut « posséder, utiliser et gérer » ses ressources et exploiter le bois à des fins commerciales ; toute récolte commerciale exige un inventaire confirmé par la FDA et une évaluation environnementale, et tout contrat avec une société doit être approuvé par la FDA. L'État peut exproprier contre indemnité, avec retour des droits à la communauté si l'usage cesse.
+    gouvernance: "Assemblée communautaire, comité exécutif et organe de gestion forestière communautaire nommé par l'assemblée (loi de 2009, section 6.4) ; la FDA contrôle le plan de gestion et peut sanctionner."
+    effectivite: "En 2024, 42 des 57 accords étaient liés par des contrats d'exploitation avec des sociétés sur 997 918 ha, et 5 étaient consacrés à la conservation (FDA) ; une analyse publiée par le Global Landscapes Forum (2020) relève des négociations déséquilibrées avec les sociétés et des conflits entre organes élus et autorités coutumières."
+    textes:
+      - {titre: "Community Rights Law of 2009 with Respect to Forest Lands (texte non ouvert ; cité d'après le cadre de gestion de la FDA)", nature: "loi", annee: 2009, source: "https://www.fda.gov.lr/sites/default/files/documents/Environmental%20and%20Social%20Management%20Framework%20%26%20Labor%20Management%20Procedures-Liberia%20Forest%20Economy%20Project%20%28LiFE-P%29_Updated.pdf"}
+      - {titre: "Accord de gestion forestière communautaire de Beyan Poye (2017)", nature: "accord", annee: 2017, source: "https://www.forest-trends.org/wp-content/uploads/2023/09/Akewa-CFMA.pdf"}
+    sources:
+      - {titre: "Accord de Beyan Poye — Forest Trends", url: "https://www.forest-trends.org/wp-content/uploads/2023/09/Akewa-CFMA.pdf"}
+      - {titre: "FDA — Environmental and Social Management Framework (2026)", url: "https://www.fda.gov.lr/sites/default/files/documents/Environmental%20and%20Social%20Management%20Framework%20%26%20Labor%20Management%20Procedures-Liberia%20Forest%20Economy%20Project%20%28LiFE-P%29_Updated.pdf"}
+      - {titre: "Global Landscapes Forum — Do forest rights empower communities in Liberia?", url: "https://thinklandscape.globallandscapesforum.org/viewpoint/do-forest-rights-empower-communities-in-liberia/"}
+
+  - id: "cameroun-forets-communautaires"
+    atlas_uid: "forets-communautaires-cameroun"
+    communaute: "Communautés villageoises riveraines"
+    etats: ["Cameroun"]
+    entite: "758 forêts communautaires identifiées, 2 662 424 ha (couche du ministère, 2026)"
+    mecanisme: "concession_communautaire"
+    annee: 1994
+    concept_local: ""
+    resume: >-
+      Créé par la loi forestière de 1994 et repris par la loi n° 2024/008, le régime attribue en jouissance (droit d'usage et d'exploitation, sans propriété) à une communauté riveraine une forêt du domaine forestier non permanent, c'est-à-dire des forêts du domaine national qui peuvent être affectées à d'autres usages (art. 35 et 37). La convention est provisoire pour deux ans au plus, puis définitive pour vingt-cinq ans renouvelables ; la surface est plafonnée à 5 000 ha (art. 38 ; décret de 1995, art. 27). Les ressources forestières tirées de l'exploitation appartiennent à la communauté, qui exploite pour son compte, en régie (par elle-même) ou en sous-traitance, par vente de coupe ou permis, selon un plan simple de gestion approuvé par l'administration (art. 37 et 72). L'administration peut exécuter d'office les travaux, résilier la convention ou retirer le titre de jouissance en cas d'inexécution du cahier des charges (art. 38 et 39).
+    gouvernance: "Responsable de la gestion désigné en réunion de concertation de toutes les composantes de la communauté, sous la supervision de l'autorité administrative ; personne morale obligatoire (association, coopérative, groupe d'initiative commune) (décret n° 95/531/PM, art. 28)."
+    effectivite: "La couche du ministère compte 338 conventions provisoires et 327 définitives ; à Djoko, la convention provisoire a été suivie d'une exploitation par un exploitant autorisé par la communauté ; à Assoumindeleh, des Baka interrogés sur un projet de forêt communautaire citent ce précédent et disent ne pas vouloir de l'exploitation forestière (Forest Peoples Programme, enquêtes de février 2022)."
+    textes:
+      - {titre: "Loi n° 2024/008 du 24 juillet 2024 portant régime des forêts et de la faune, art. 35 à 39 et 72", nature: "loi", annee: 2024, source: "https://www.prc.cm/fr/actualites/actes/lois/7298"}
+      - {titre: "Décret n° 95/531/PM du 23 août 1995, art. 27 à 32", nature: "decret", annee: 1995, source: "https://faolex.fao.org/docs/pdf/cmr4471.pdf"}
+    sources:
+      - {titre: "Loi n° 2024/008 — Présidence de la République du Cameroun", url: "https://www.prc.cm/fr/actualites/actes/lois/7298"}
+      - {titre: "Couche « Forêts communautaires » — ministère des Forêts et de la Faune", url: "https://services3.arcgis.com/dwv7XaFMgpPo7FSx/arcgis/rest/services/forets_communautaires/FeatureServer/0"}
+      - {titre: "Forest Peoples Programme — Conservation communautaire au Cameroun", url: "https://www.forestpeoples.org/fileadmin/uploads/fpp/migration/documents/Community%20conservation%20in%20Cameroon%20FR%20v5.pdf"}
+
+  - id: "gabon-forets-communautaires"
+    atlas_uid: "forets-communautaires-gabon"
+    communaute: "Communautés villageoises du domaine forestier rural"
+    etats: ["Gabon"]
+    entite: "85 conventions définitives, 39 provisoires et 45 décisions de réservation (2024)"
+    mecanisme: "concession_communautaire"
+    annee: 2001
+    concept_local: ""
+    resume: >-
+      Le Code forestier de 2001 pose que toute forêt est la propriété exclusive de l'État (art. 13) et réserve aux communautés villageoises la jouissance du domaine forestier rural (art. 12). Une portion de ce domaine peut être affectée à une communauté comme forêt communautaire, gérée selon un plan simple de gestion et exploitée en régie ou en fermage, c'est-à-dire par la communauté elle-même ou par un tiers ; les revenus de l'exploitation sont la propriété de la communauté (art. 156 à 161). L'exploitation est subordonnée à des contrats d'approvisionnement avec des sociétés de transformation locale (art. 158). La convention dure le temps d'une rotation (cycle de coupe) et aussi longtemps que les engagements sont respectés, et peut être suspendue en cas de non-respect du plan ; une forêt réservée par une communauté ne peut recevoir aucun autre titre d'exploitation (arrêté n° 106 de 2014).
+    gouvernance: "Entité juridique de gestion dont l'assemblée générale adopte statuts et règlement et élit un bureau exécutif et un comité des sages, lors d'une réunion de concertation présidée par le préfet ou le sous-préfet ; contrôle de l'administration des Eaux et Forêts (arrêté n° 018 de 2013 ; décret n° 1028 de 2004)."
+    effectivite: "Une enquête de Gabonreview (2023-2024) relève un manque d'information des communautés, des conflits de direction, la superposition avec des permis miniers, l'absence de budget dédié et le manque de présence de l'administration sur le terrain."
+    textes:
+      - {titre: "Loi n° 016/01 du 31 décembre 2001 portant Code forestier, art. 12, 13 et 156 à 162", nature: "loi", annee: 2001, source: "https://faolex.fao.org/docs/pdf/gab29255.pdf"}
+      - {titre: "Arrêté n° 018/MEF/SG/DGF/DFC du 31 janvier 2013 (procédures d'attribution et de gestion)", nature: "reglement", annee: 2013, source: "https://faolex.fao.org/docs/pdf/gab143378.pdf"}
+      - {titre: "Arrêté n° 106/MFEPRN du 6 mai 2014 (droit de réservation)", nature: "reglement", annee: 2014, source: "https://faolex.fao.org/docs/pdf/gab160072.pdf"}
+    sources:
+      - {titre: "Code forestier du Gabon — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gab29255.pdf"}
+      - {titre: "Gabonreview — La foresterie communautaire, une réalité à double facette au Gabon et en RDC", url: "https://www.gabonreview.com/enquete-la-foresterie-communautaire-une-realite-a-double-facette-au-gabon-et-en-rdc/"}
+
+synthese: >-
+  Dans les cas dont les textes ont été lus sur ce point, l'État garde la décision sur la coupe commerciale. Ce contrôle passe par l'approbation du plan de gestion (Népal, Cambodge, Thaïlande, Cameroun, Colombie-Britannique, Petén), par un permis ou une autorisation de récolte distincts (Philippines, Gambie, RDC, Mexique), par le marquage des arbres (van panchayats) ou par un comité de district (Tanzanie depuis 2019). Trois communautés propriétaires d'Europe restent aussi sous tutelle : en Roumanie, l'obște doit contracter avec un district forestier ; en Vénétie, tout changement de destination exige l'autorisation de la Région ; au Tyrol, l'autorité agraire contrôle la légalité et l'opportunité de la gestion. Pour les corporations de Suisse centrale, la Galice et le Norrland, le dossier ne dit pas qui autorise la coupe. Les régimes diffèrent sur la vente. Au Népal, à Gadchiroli, au Cameroun, au Gabon et en Colombie-Britannique, la communauté vend elle-même, fixe ses prix ou contracte avec une entreprise, dans le cadre du plan approuvé et, au Gabon, de contrats d'approvisionnement avec des sociétés de transformation locale ; au Liberia et en RDC, l'administration approuve chaque contrat ; en Thaïlande, dans les forêts coutumières d'Indonésie, au Cambodge pendant les cinq premières années du plan et dans les forêts de croyance du Viêt Nam, la récolte est limitée à l'usage domestique ou collectif. Dans les sections de commune françaises, les membres ne perçoivent que des fruits en nature, sans revenu en espèces.
+
+
+  Les accords et concessions fixent un terme, de quinze ans au plus, renouvelables (Cambodge, Liberia), à quatre-vingt-dix-neuf ans (Colombie-Britannique). Les attributions administratives (Népal, van panchayats, Thaïlande, Viêt Nam, Suriname) restent retirables par l'administration, comme les accords : le ministère philippin a ordonné en 2005-2006 l'annulation de tous les accords, et trois contrats communautaires ont été suspendus ou annulés au Petén en 2009. Pour trois des régimes à titre sans terme, les sources rapportent la reconnaissance à la demande ou à l'objectif : moins de 2 % des territoires coutumiers cartographiés en Indonésie, environ 1,87 million de demandes rejetées en Inde, 16,67 % de l'objectif de surface atteint en Gambie ; en RDC, presque toutes les concessions attribuées dépendent d'un appui extérieur. Dans les régimes de propriété collective, les textes lus prévoient l'expropriation pour utilité publique (Portugal, Mexique) ou une gestion de substitution (Galice, Vénétie, Tyrol), et plusieurs cas posent la question de la frontière entre la communauté et la commune ou l'État : transfert des biens des sections à la commune par le préfet, valeur de substance du Gemeindegut tyrolien attribuée à la commune, passage des terres d'une obște dissoute dans la propriété publique du conseil local, baldios portugais cogérés à 71,6 % avec l'État. L'exclusion des tiers n'est écrite que dans une partie des textes (Tanzanie, Petén, Colombie-Britannique, Gabon, Galice, zones indicatives d'Indonésie, consentement de l'assemblée au Mexique et de l'organisation aux Philippines) ; ailleurs, la loi garantit des droits aux habitants non membres, comme le passage et le pâturage en Mongolie, ou fait de tous les résidents de la zone des membres à usage égal, comme en Namibie.
+
+limites:
+  - "Les cas sont tirés des fiches agrégées de l'atlas : ils décrivent un régime national ou régional, pas le fonctionnement de forêts particulières, sauf Gadchiroli, Mendha-Lekha, Ampezzo, Uri, Kwandu, Beyan Poye et Djoko."
+  - "Pour les corporations de Suisse centrale, la Galice, le Norrland et les Regole, le droit forestier général qui encadre les coupes (loi fédérale sur les forêts, loi espagnole sur les montes, loi suédoise sur les forêts) n'a pas été ouvert ; le dossier ne dit pas qui autorise la coupe dans ces cas."
+  - "Les textes du Cambodge, de la Thaïlande, du Viêt Nam et de la Mongolie ont été lus en traduction anglaise non officielle ; la loi forestière gambienne de 2018 n'a pas été consultée."
+  - "Ni la loi libérienne de 2009 ni son règlement n'ont été ouverts : leurs dispositions sont citées d'après l'accord de Beyan Poye et le cadre de gestion publié par la FDA. Les règles des van panchayats (2005, 2012, 2024) et les règles de 2007 sur les droits forestiers en Inde n'ont pas été ouvertes ; elles sont décrites d'après des articles de revue et de presse."
+  - "Les chiffres viennent d'années et de périmètres différents (de 2014 à 2026, forêts attribuées ou seulement recensées) et ne sont pas comparables entre eux."
+  - "La fiscalité, le partage des revenus du carbone forestier et les droits sur le sous-sol ne sont pas comparés."
+  - "Fiches de l'atlas non retenues pour tenir dans 30 cas : Bhoutan, Myanmar, Laos, Kenya, Éthiopie, Ouganda, Malawi, Zambie, Congo, Centrafrique, Côte d'Ivoire, Togo, Guinée équatoriale, Cross River (Nigeria), bourgeoisies et patriciats de Suisse, domaines collectifs d'Italie, ASUC du Trentin."
+
+candidats_atlas:
+  - "Communautés forestières d'Allemagne (Waldgenossenschaften, Haubergsgenossenschaften du Siegerland) : aucune fiche ; régime relevant des lois des Länder, à vérifier au regard du critère d'autonomie du cadre."
+  - "Comunanza des Regole d'Ampezzo : gère depuis 1990 un parc naturel régional par délégation de la Région de Vénétie ; aujourd'hui décrite dans la fiche regole-venetie, elle pourrait recevoir une fiche propre."
+  - "Assemblées de village du district de Gadchiroli (Maharashtra) : 1 171 villages sur 1 292 vendent eux-mêmes leurs feuilles de tendu ; candidates à une fiche de district à côté de mendha-lekha."

@@ -1,0 +1,629 @@
+slug: "mer-et-rivieres-coutumieres"
+titre: "La mer et les rivières sous règle locale"
+chapeau: >-
+  Sur un récif, un lagon, une plage de débarquement ou un tronçon de rivière, des villages, des clans, des coopératives et des nations autochtones fixent des règles de pêche. Ce dossier compare 29 cas sur cinq continents pour répondre à quatre questions : qui peut fermer une zone, qui peut la réserver à ses membres, qui peut en exclure les autres, qui peut sanctionner ?
+
+introduction: >-
+  Les pêcheries dont il est question ici sont côtières ou continentales : récifs et lagons du Pacifique, plages de l'océan Indien et des lacs africains, rivières de Bornéo et du Mékong, lacs d'inondation de l'Amazonie, estrans du Chili, de Corée et du Japon, eaux des traités dans le nord-ouest de l'Amérique du Nord. Dans chaque cas, une loi, un règlement, une constitution ou un jugement donne une place à un groupe local : groupe de parenté, village, association de pêcheurs ou nation autochtone. Le dossier s'appuie sur les fiches de l'atlas et sur les textes qu'elles citent ; il ne traite pas des quotas de pêche industrielle ni des aires marines protégées gérées par l'État seul.
+
+
+  Le dossier distingue six mécanismes, tirés des cas. Le droit coutumier reconnu par la loi rattache une zone de pêche à un groupe défini par la coutume (Fidji, Îles Salomon, Chuuk, espaces côtiers autochtones du Chili). Le droit ou la juridiction d'une organisation de pêcheurs confie une zone ou la police de la mer à un groupe défini par la résidence ou le métier (Japon, Corée, Chili, Cambodge, Galice, prud'homies de Méditerranée). L'interdit coutumier adossé à la loi part d'une fermeture décidée par des chefs ou un village (ra'ui, tagal, tabu, sasi). Le règlement communautaire approuvé par l'État fait d'une règle de village ou d'une unité de plage un texte opposable à tous. La proposition et la consultation laissent à l'administration l'adoption des règles. Le droit garanti par traité ou par la constitution, enfin, est délimité par les tribunaux.
+
+
+  Quatre pouvoirs servent de grille de lecture à chaque cas. Fermer : interdire la pêche sur une zone ou pour une période. Réserver : limiter la pêche aux membres du groupe. Exclure : refuser l'entrée ou la pêche à une personne extérieure. Sanctionner : saisir un engin, infliger une amende ou juger un différend. Les chiffres viennent des fiches et datent de 2006 à 2026 selon les cas.
+
+mecanismes:
+  - {cle: "droit_coutumier_reconnu", libelle: "Droit coutumier reconnu par la loi", definition: "Une loi ou une constitution reconnaît à un groupe de parenté ou à une communauté autochtone un droit sur une zone de pêche délimitée par la coutume ; une personne extérieure a besoin de la permission du groupe ou d'un permis délivré après consultation."}
+  - {cle: "organisation_pecheurs", libelle: "Droit ou juridiction d'une organisation de pêcheurs", definition: "Une coopérative, une fraternité de village, une organisation de pêcheurs artisanaux ou une communauté de patrons pêcheurs, définie par la résidence ou le métier, reçoit un usage exclusif sur une zone ou le pouvoir de régler la pêche entre ses membres ; l'administration accorde le droit, approuve le règlement et peut révoquer."}
+  - {cle: "interdit_coutumier", libelle: "Interdit coutumier adossé à la loi", definition: "Des chefs, un conseil de chefs ou un village posent un interdit temporaire de prélèvement sur un récif, un lagon ou une rivière ; un texte le reconnaît, l'enregistre ou lui adjoint un comité, mais l'interdit existe avant le texte et parfois sans lui."}
+  - {cle: "reglement_approuve", libelle: "Règlement communautaire approuvé par l'État", definition: "Un conseil de village, une unité de plage, un comité ou des gardiens désignés par la communauté rédigent des règles qui s'imposent aussi aux personnes extérieures après approbation ou publication par l'administration ; celle-ci peut les suspendre ou retirer la zone."}
+  - {cle: "proposition_consultation", libelle: "Proposition et consultation", definition: "La communauté demande la création d'une zone, propose des règles ou siège dans un comité ; l'administration adopte seule les règles et les sanctions, et la communauté n'a pas de pouvoir propre d'exclure."}
+  - {cle: "droit_garanti_partage", libelle: "Droit garanti par traité ou par la constitution", definition: "Un traité ou la constitution protège le droit de pêche d'une nation autochtone ; les tribunaux fixent sa part de la ressource et les limites de l'intervention de l'État ; la nation désigne ses pêcheurs et réglemente leur pêche."}
+
+concepts:
+  - {terme: "qoliqoli", langue: "fidjien", communautes: ["qoliqoli-fidji"], sens: "Zone de pêche coutumière d'un mataqali (clan) ou d'une autre unité sociale iTaukei, inscrite au registre des droits de pêche coutumiers ; 410 en 2020.", source: "https://www.cbd.int/doc/world/fj/fj-nbsap-v2-en.pdf"}
+  - {terme: "tabu", langue: "fidjien ; bislama", communautes: ["qoliqoli-fidji", "aires-conservation-communautaires-vanuatu"], sens: "Interdit posé par un chef sur une zone ou une ressource ; à Fidji, 415 aires tabu dans 143 qoliqoli en 2013 ; au Vanuatu, aires de récolte fermées par les chefs, le plus souvent sans enregistrement.", source: "https://www.cbd.int/doc/world/fj/fj-nbsap-v2-en.pdf"}
+  - {terme: "rāhui", langue: "tahitien", communautes: ["rahui-polynesie-francaise"], sens: "Espace terrestre ou marin où des règles non écrites, dictées par la gestion des ressources, s'appliquent de manière traditionnelle (code de l'environnement de la Polynésie française, art. LP. 2122-1).", source: "https://www.spc.int/CoastalFisheries/CFM/Document/Get/c037f33d-7ed2-4f27-b9bd-ea538929b7b4/PF_Loi%20du%20Pays%20n%C2%B0%202017-25%20du%205%20octobre%202017%20relative%20au%20code%20de%20l%27environnement%20de%20la%20Polyn%C3%A9sie%20fran%C3%A7aise.pdf"}
+  - {terme: "ra'ui ; tiaki ra'ui", langue: "maori des Îles Cook", communautes: ["raui-iles-cook"], sens: "Ra'ui : restriction coutumière d'usage des ressources de la terre, du récif et du lagon, déclarée par les chefs ; tiaki ra'ui : gardien communautaire nommé par les chefs.", source: "https://www.mmr.gov.ck/raui-marine-protected-areas/"}
+  - {terme: "mātaitai ; tangata kaitiaki", langue: "te reo māori", communautes: ["mataitai-taiapure-nouvelle-zelande"], sens: "Mātaitai : zone de pêche traditionnelle d'un hapū ou d'un iwi ; tangata kaitiaki : gardiens désignés par le groupe qui détient l'autorité coutumière sur le lieu.", source: "https://www.mpi.govt.nz/fishing-aquaculture/maori-customary-fishing/managing-customary-fisheries"}
+  - {terme: "tagal ; sogit", langue: "kadazan-dusun", communautes: ["tagal-sabah"], sens: "Tagal : « interdit », fermeture de la pêche sur un tronçon de rivière décidée par le village et levée à date fixe ; sogit : amende coutumière, en argent ou en bétail, infligée au contrevenant.", source: "https://localbiodiversityoutlooks.net/the-community-based-tagal-system-in-sabah-malaysia/"}
+  - {terme: "sasi ; kewang", langue: "malais des Moluques", communautes: ["negeri-adat-maluku"], sens: "Sasi : interdiction coutumière temporaire de prélèvement ; kewang : organe de la negeri chargé de surveiller les ressources naturelles du territoire coutumier.", source: "https://jdih.malukuprov.go.id/peraturan/PERDA%20NO%2014%20TAHUN%202005%20Tentang%20PENETAPAN%20KEMBALI%20NEGERI.pdf"}
+  - {terme: "eochongye (어촌계)", langue: "coréen", communautes: ["peches-villageoises-coree"], sens: "Fraternité de village de pêcheurs : association des pêcheurs résidents d'un village côtier, seule titulaire, avec la coopérative de district, de la licence de pêche villageoise.", source: "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=60269&type=sogan&key=55"}
+  - {terme: "kyōdō gyogyōken (共同漁業権)", langue: "japonais", communautes: ["droits-peche-communs-japon"], sens: "Droit de pêche commun : droit d'exercer en commun et de façon exclusive une pêche déterminée dans une zone délimitée, accordé à la coopérative de pêche du district.", source: "https://www.jfa.maff.go.jp/j/enoki/gyogyouken_jouhou3.html"}
+  - {terme: "dina", langue: "malgache", communautes: ["aires-marines-gerees-localement-madagascar"], sens: "Convention collective locale, homologuée par le tribunal, qui fixe les règles de gestion d'une aire de pêche et les sanctions de leur violation.", source: "https://faolex.fao.org/docs/pdf/mad179721.pdf"}
+  - {terme: "vang sa-nguan (ວັງສະຫງວນ)", langue: "lao", communautes: ["zones-conservation-poissons-laos"], sens: "Zone de conservation des poissons : fosse ou portion de rivière fermée à la pêche toute l'année ou une partie de l'année par un ou plusieurs villages.", source: "https://laoofficialgazette.gov.la/kcfinder/upload/files/0766,22,8,2025.pdf"}
+  - {terme: "T'aaq-wiihak", langue: "nuu-chah-nulth", communautes: ["peches-nuu-chah-nulth"], sens: "« Pêcher avec la permission des Ha'wiih », les chefs héréditaires : nom de la pêche commerciale exercée par cinq nations au titre de leur droit ancestral.", source: "https://taaqwiihakfisheries.ca/about-taaq-wiihak/"}
+
+cas:
+  - id: "qoliqoli-fidji"
+    atlas_uid: "qoliqoli-fidji"
+    communaute: "Mataqali et autres unités sociales iTaukei titulaires de droits de pêche"
+    etats: ["Fidji"]
+    entite: "410 zones de pêche coutumières, dont 385 marines et 25 d'eau douce"
+    mecanisme: "droit_coutumier_reconnu"
+    annee: 1942
+    concept_local: "qoliqoli ; tabu"
+    resume: >-
+      La loi sur les pêches, en vigueur depuis 1942, charge une commission d'établir quels droits de pêche coutumiers appartiennent à quels groupes et d'en inscrire les limites dans un registre (art. 14 à 20). Réserver et exclure : sur un récif ou un banc de coquillages inscrit, une personne extérieure au groupe ne peut pêcher qu'avec un permis du commissaire de division, qui consulte le groupe (art. 13) ; la pêche à la ligne, au harpon ou au piège portatif hors commerce en est exemptée. Selon la FAO, le service des pêches demande en pratique l'accord préalable du chef. Fermer : le chef héréditaire limite l'accès, interdit les filets maillants ou les compresseurs de plongée ; en 2013, 143 qoliqoli comptaient 415 aires tabu. Sanctionner : les sources consultées ne décrivent pas les sanctions appliquées.
+    gouvernance: "Chef héréditaire ou autorité coutumière de l'unité titulaire ; Commission des pêcheries iTaukei (registre) ; commissaire de division (permis, après consultation du groupe)."
+    effectivite: "Selon la FAO (2009), la plupart des zones n'ont pas d'objectifs de gestion formels ; le cinquième rapport à la CDB (2014) indique qu'au moins 70 qoliqoli sur 400 sont surexploités."
+    textes:
+      - {titre: "Fisheries Act (loi sur les pêches), chap. 158, art. 13 à 20", nature: "loi", annee: 1942, source: "https://faolex.fao.org/docs/pdf/fij1155.pdf"}
+      - {titre: "Constitution de Fidji, art. 30 (part des redevances minières du fond marin)", nature: "constitution", annee: 2013, source: "https://www.constituteproject.org/constitution/Fiji_2013"}
+    sources:
+      - {titre: "Fisheries Act, chap. 158 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/fij1155.pdf"}
+      - {titre: "Stratégie et plan d'action nationaux pour la biodiversité de Fidji 2020-2025 — CDB", url: "https://www.cbd.int/doc/world/fj/fj-nbsap-v2-en.pdf"}
+      - {titre: "FAO — Profil de la pêche et de l'aquaculture : Fidji (2009)", url: "https://www.fao.org/fishery/docs/DOCUMENT/fcp/en/FI_CP_FJ.pdf"}
+      - {titre: "Cinquième rapport national de Fidji à la CDB (2014)", url: "https://www.cbd.int/doc/world/fj/fj-nr-05-en.pdf"}
+
+  - id: "salomon-droits-coutumiers"
+    atlas_uid: "peche-coutumiere-iles-salomon"
+    communaute: "Communautés titulaires de droits coutumiers sur les eaux de pêche"
+    etats: ["Îles Salomon"]
+    entite: "Zones de droits coutumiers, jusqu'au bord externe du récif"
+    mecanisme: "droit_coutumier_reconnu"
+    annee: 2015
+    concept_local: ""
+    resume: >-
+      La loi sur la gestion des pêches de 2015 reconnaît les droits que les communautés exercent sur des eaux du fait de leur usage historique, attesté par les chefs coutumiers (art. 2). Exclure : nul ne peut pêcher ou entrer dans une zone de droits coutumiers avec un autre bateau que ceux de la pêche coutumière sans la permission des titulaires, sous peine d'amende et d'un an d'emprisonnement au plus (art. 21). Une aire marine nationale qui inclut une telle zone exige leur accord (art. 19 (4)). Fermer et sanctionner : un plan communautaire de gestion peut fixer des fermetures, des amendes et des pouvoirs de contrôle ; il prend valeur d'arrêté local (bye-law) après adoption par l'assemblée provinciale et publication au Journal officiel (art. 18).
+    gouvernance: "Titulaires désignés par le droit coutumier pour donner la permission de pêcher ; comité représentant les titulaires ; exécutif provincial et directeur des pêches (approbation des plans, objection possible sous 60 jours)."
+    effectivite: "Plus de 300 communautés pratiquent une forme de gestion communautaire (politique nationale 2019-2029) ; selon la Banque mondiale (2024), les plans non publiés ne s'appliquent que par les systèmes villageois, et l'ordonnance des pêches de Choiseul attendait en 2022 l'avis du procureur général."
+    textes:
+      - {titre: "Fisheries Management Act 2015, art. 2, 3, 18, 19 et 21", nature: "loi", annee: 2015, source: "https://faolex.fao.org/docs/pdf/sol153557.pdf"}
+    sources:
+      - {titre: "Fisheries Management Act 2015 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/sol153557.pdf"}
+      - {titre: "Solomon Islands National Fisheries Policy 2019-2029 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/sol188935.pdf"}
+      - {titre: "MFMR et WorldFish — CBRM in Solomon Islands: Provincial Snapshots 2022", url: "https://digitalarchive.worldfishcenter.org/server/api/core/bitstreams/8da4642f-da76-4de9-83c9-20f8dc51adcb/content"}
+      - {titre: "Banque mondiale — Solomon Islands: case studies (2024)", url: "https://documents1.worldbank.org/curated/en/099071624162524055/pdf/P1743531b641cf0df1aa09105fb4074f5cb.pdf"}
+
+  - id: "chuuk-recifs"
+    atlas_uid: "recifs-coutumiers-chuuk"
+    communaute: "Lignages et autres titulaires de droits traditionnels, municipalités de l'État de Chuuk"
+    etats: ["États fédérés de Micronésie"]
+    entite: "Récifs, estrans et terres submergées, avec la colonne d'eau"
+    mecanisme: "droit_coutumier_reconnu"
+    annee: 1989
+    concept_local: ""
+    resume: >-
+      La Constitution de l'État de Chuuk, en vigueur depuis le 1er octobre 1989, reconnaît « les droits traditionnels sur tous les récifs, estrans et autres terres submergées, y compris leur colonne d'eau » ; la législature peut en réglementer l'usage raisonnable (art. IV, s. 4). Les 39 municipalités, dont la constitution « doit être démocratique et peut être traditionnelle », sont compétentes sur l'espace marin à l'intérieur des récifs, et leurs pouvoirs sur les affaires locales priment sur la loi de l'État (art. XIII). Les sources consultées ne décrivent pas les règles de fermeture, d'exclusion ou de sanction fixées par les titulaires.
+    gouvernance: "Titulaires de droits traditionnels (lignages selon F. X. Hezel ; « propriétaires individuels » selon la Cour suprême de Chuuk, 1993) ; municipalités et chefs traditionnels reconnus (art. IV, s. 2) ; législature de l'État pour l'usage raisonnable."
+    effectivite: "La Cour suprême de Chuuk restreint la portée de l'article : effet pour l'avenir seulement (1993), exclusion des chenaux profonds et des estrans remblayés avant 1989 (Sellem v. Maras, 1995)."
+    textes:
+      - {titre: "Constitution de l'État de Chuuk, art. IV (droits traditionnels)", nature: "constitution", annee: 1989, source: "http://fsmlaw.org/chuuk/constitution/article04.htm"}
+      - {titre: "Constitution de l'État de Chuuk, art. XIII (municipalités)", nature: "constitution", annee: 1989, source: "http://fsmlaw.org/chuuk/constitution/article13.htm"}
+    sources:
+      - {titre: "Constitution de l'État de Chuuk — FSM Legal Information System", url: "https://fsmlaw.org/chuuk/constitution/entire.htm"}
+      - {titre: "F. X. Hezel, « Land Issues in Chuuk », Micronesian Counselor n° 16 (1994)", url: "https://micsem.org/micronesian-counselo/land-issues-in-chuuk/"}
+
+  - id: "ecmpo-chili"
+    atlas_uid: "espaces-cotiers-marins-peuples-originaires-chili"
+    communaute: "Communautés autochtones du littoral constituées selon la loi 19.253"
+    etats: ["Chili"]
+    entite: "34 espaces côtiers marins décrétés, 222 404 ha (mai 2024)"
+    mecanisme: "droit_coutumier_reconnu"
+    annee: 2008
+    concept_local: ""
+    resume: >-
+      La loi 20.249 de 2008, dite « loi lafkenche », crée l'espace côtier marin des peuples originaires (ECMPO) pour maintenir un usage coutumier attesté : pêche, usages religieux, récréatifs et médicinaux (art. 6). L'espace est remis à la communauté ou à l'association de communautés par une convention d'usage à durée indéfinie (art. 3 et 12). Réserver : le plan d'administration fixe les usages, les périodes et les usagers extérieurs admis ; les contrevenants sont sanctionnés selon la loi générale de la pêche (art. 11 et 15). Exclure : l'attributaire ne peut empêcher ni l'accès, ni le passage, ni la navigation (art. 15 b). Le plan est approuvé par une commission intersectorielle de l'État.
+    gouvernance: "Association de communautés ou communauté seule si elle a seule l'usage coutumier ; commission intersectorielle (approbation du plan) ; Sous-secrétariat à la Pêche (convention d'usage, rapports)."
+    effectivite: "Selon Pivotes (2024), les ECMPO décrétés ont attendu en moyenne 5,94 ans, et 109 demandes portant sur 3 823 760 ha restaient en cours au 31 mai 2024."
+    textes:
+      - {titre: "Loi 20.249 créant l'espace côtier marin des peuples originaires", nature: "loi", annee: 2008, source: "https://www.bcn.cl/leychile/navegar?idNorma=269291"}
+      - {titre: "Décret suprême n° 134, règlement de la loi 20.249", nature: "reglement", annee: 2009, source: "https://www.subpesca.cl/portal/616/articles-82585_recurso_1.pdf"}
+    sources:
+      - {titre: "Historia de la Ley N° 20.249 — Bibliothèque du Congrès national", url: "https://www.bcn.cl/historiadelaley/fileadmin/file_ley/5244/HLD_5244_37a6259cc0c1dae299a7866489dff0bd.pdf"}
+      - {titre: "Decretos de destinación ECMPO — Subpesca", url: "https://www.subpesca.cl/portal/615/w3-propertyvalue-51039.html"}
+      - {titre: "Ley Lafkenche : alcances y consecuencias — Pivotes (juin 2024)", url: "https://www.pivotes.cl/web/wp-content/uploads/2024/04/240603-Ley-Lafkenche-alcances-y-consecuencias-VF.pdf"}
+
+  - id: "japon-droits-communs"
+    atlas_uid: "droits-peche-communs-japon"
+    communaute: "Coopératives de pêche côtière (gyogyō kyōdō kumiai)"
+    etats: ["Japon"]
+    entite: "4 790 droits de pêche communs accordés en 2023"
+    mecanisme: "organisation_pecheurs"
+    annee: 1949
+    concept_local: "kyōdō gyogyōken"
+    resume: >-
+      La loi sur la pêche de 1949, réformée en 2018, réserve le droit de pêche commun (algues, coquillages, espèces sédentaires, petits filets fixes) à la coopérative du district rattaché à la zone, si ses membres représentent au moins les deux tiers des ménages de pêcheurs côtiers résidents (art. 60, 62 et 72). Le droit dure dix ans et est assimilé à un droit réel, c'est-à-dire un droit sur un bien opposable à tous (art. 75 et 77). Réserver et fermer : la coopérative adopte un règlement d'exercice qui fixe qui peut pêcher, où, quand, avec quels engins et contre quelle redevance ; il faut l'accord écrit des deux tiers des membres concernés, puis l'approbation du gouverneur, qui le refuse s'il est « injustement discriminatoire » (art. 106). Les sources consultées ne décrivent pas les sanctions internes.
+    gouvernance: "Assemblée générale de la coopérative, une voix par membre, majorité des deux tiers pour acquérir, modifier ou abandonner un droit ; gouverneur de la préfecture (attribution, approbation, révocation pour motif d'intérêt public, art. 93)."
+    effectivite: "148 droits n'ont pas été renouvelés en 2023, dont 59 pour défaut d'usage « approprié et effectif » (Agence des pêches) ; T. Murota relève l'abandon de droits contre indemnités pour des projets industriels, dont des centrales nucléaires."
+    textes:
+      - {titre: "Loi sur la pêche (loi n° 267 de 1949), art. 60, 72, 75, 77, 93 et 106", nature: "loi", annee: 1949, source: "https://hourei.net/law/324AC0000000267"}
+      - {titre: "Loi sur les coopératives de la pêche (loi n° 242 de 1948)", nature: "loi", annee: 1948, source: "https://hourei.net/law/323AC0000000242"}
+    sources:
+      - {titre: "Agence des pêches — Les droits de pêche", url: "https://www.jfa.maff.go.jp/j/enoki/gyogyouken_jouhou3.html"}
+      - {titre: "Agence des pêches — Renouvellement général de 2023", url: "https://www.jfa.maff.go.jp/j/enoki/attach/pdf/gyogyouken_jouhou3-417.pdf"}
+      - {titre: "Uchida et Makino, Japanese coastal fishery co-management — FAO", url: "https://www.fao.org/4/a1497e/a1497e20.pdf"}
+      - {titre: "Murota, Fishery Commons in Japan — Digital Library of the Commons", url: "https://dlc.dlib.indiana.edu/dlcrest/api/core/bitstreams/ccb45c40-e160-4660-aa22-7fa05edc2fd0/content"}
+
+  - id: "coree-peche-villageoise"
+    atlas_uid: "peches-villageoises-coree"
+    communaute: "Fraternités de villages de pêcheurs (eochongye), dont les plongeuses haenyeo de Jeju"
+    etats: ["Corée du Sud"]
+    entite: "Zones littorales de pêche villageoise"
+    mecanisme: "organisation_pecheurs"
+    annee: 2022
+    concept_local: "eochongye"
+    resume: >-
+      La loi sur la pêche, refondue en 2022, ne donne la licence de pêche villageoise (coquillages, algues, espèces sédentaires d'une zone littorale délimitée) qu'à une fraternité de village de pêcheurs ou à une coopérative de district (art. 7 et 8). Le droit est un droit réel détenu collectivement, pour dix ans prolongeables (art. 14 et 16). Réserver et fermer : la fraternité fixe un règlement de gestion qui désigne qui peut pêcher, les méthodes, les périodes et les redevances (art. 37) ; son assemblée générale décide de l'accès des non-membres domiciliés dans la même ville, le même comté ou le même arrondissement (art. 36). L'autorité locale peut ordonner la modification du règlement, restreindre ou suspendre la pêche pour protéger la ressource ou pour des travaux publics ; les restrictions pour motif d'intérêt public ouvrent droit à indemnisation (art. 33, 37 et 88). Les sources consultées ne décrivent pas les sanctions internes.
+    gouvernance: "Assemblée générale de la fraternité ; chef de la ville, du comté ou de l'arrondissement (licence, contrôle du règlement, restrictions)."
+    effectivite: "Inconnue : aucune évaluation indépendante consultée ; l'UNESCO (2016) indique qu'à Jeju les coopératives locales détiennent les droits de pêche de leur zone."
+    textes:
+      - {titre: "Loi sur la pêche (loi n° 18755 de 2022), art. 7, 8, 14, 16, 33, 36 à 38 et 88", nature: "loi", annee: 2022, source: "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=60269&type=sogan&key=55"}
+    sources:
+      - {titre: "Fisheries Act (2022), traduction anglaise — Korea Legislation Research Institute", url: "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=60269&type=sogan&key=55"}
+      - {titre: "La culture des haenyeo de l'île de Jeju — UNESCO", url: "https://ich.unesco.org/fr/RL/la-culture-des-haenyeo-femmes-plongeuses-de-jeju-01068"}
+
+  - id: "amerb-chili"
+    atlas_uid: "aires-gestion-ressources-benthiques-chili"
+    communaute: "Organisations de pêcheurs artisanaux"
+    etats: ["Chili"]
+    entite: "758 aires de gestion des ressources benthiques (2017)"
+    mecanisme: "organisation_pecheurs"
+    annee: 1995
+    concept_local: ""
+    resume: >-
+      La loi générale de la pêche et le règlement de 1995 permettent à l'État de délimiter un secteur côtier et de le confier à une organisation de pêcheurs artisanaux, par une convention d'usage limitée à quatre ans dans le règlement de 1995 et à durée indéfinie depuis la loi 20.657 de 2013 (art. 55 A à 55 H). Réserver et exclure : l'organisation obtient l'usage exclusif des ressources benthiques (invertébrés et algues du fond) du secteur ; ses droits ne peuvent être ni cédés ni loués. Fermer : elle propose un plan de gestion (périodes, modalités d'extraction, quotas) que le Sous-secrétariat de la pêche approuve, et les quantités annuelles sont fixées par résolution de celui-ci. Sanctionner : la surveillance est assurée par l'organisation, les sanctions par l'État ; Gelcich et al. décrivent le braconnage comme l'un des principaux problèmes.
+    gouvernance: "Organisation titulaire inscrite au registre de la pêche artisanale ; Sous-secrétariat de la pêche (plan, quotas) ; Service national de la pêche (convention)."
+    effectivite: "Hausse de l'abondance et de la taille des ressources ciblées, coûts de surveillance en hausse (Gelcich et al., 2010) ; en 2013, 161 secteurs sur 512 étaient classés « operativo en duda » (fonctionnement incertain)."
+    textes:
+      - {titre: "Loi générale de la pêche et de l'aquaculture, art. 55 A à 55 H, 144 et 144 A", nature: "loi", annee: 1991, source: "https://www.subpesca.cl/portal/615/articles-88020_documento.pdf"}
+      - {titre: "Décret suprême 355 de 1995, règlement des AMERB", nature: "reglement", annee: 1995, source: "https://www.subpesca.cl/portal/615/articles-11086_documento.pdf"}
+    sources:
+      - {titre: "AMERB — Subpesca", url: "https://www.subpesca.cl/portal/sitio/Areas-y-Zonificaciones/Areas-de-Manejo-y-Explotacion-de-Recursos-Bentonicos-AMERB/"}
+      - {titre: "Área de Manejo y Explotación de Recursos Bentónicos (fiche de cas) — CEPAL", url: "https://archivo.cepal.org/cajaherramientas/Casos/Caso_%C3%81rea%20de%20Manejo%20y%20Explotaci%C3%B3n%20de%20Recursos%20Bent%C3%B3nicos.pdf"}
+      - {titre: "Gelcich et al., PNAS (2010)", url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2947917/"}
+
+  - id: "cambodge-pecheries"
+    atlas_uid: "pecheries-communautaires-cambodge"
+    communaute: "Pêcheries communautaires formées par les habitants d'un ou de plusieurs villages"
+    etats: ["Cambodge"]
+    entite: "516 pêcheries communautaires (2025), 967 000 hectares cogérés (2018)"
+    mecanisme: "organisation_pecheurs"
+    annee: 2005
+    concept_local: ""
+    resume: >-
+      Après la réduction des lots de pêche commerciaux en 2001 puis leur suppression en 2012, l'État a confié des zones de son domaine halieutique à des pêcheries communautaires (décret royal de 2005 ; sous-décret, texte réglementaire du gouvernement, de 2007 ; loi sur la pêche de 2025). Réserver : dans les zones continentales, la pêche à petite ou moyenne échelle est réservée aux membres (loi de 2025, art. 29). Fermer : le comité élu prépare un plan de gestion que l'Administration des pêches approuve ; l'accord de zone dure trois ans au plus, renouvelable, et la zone ne peut être ni vendue ni partagée. Sanctionner : en cas d'urgence, la pêcherie peut demander aux autorités voisines de saisir les preuves et de retenir l'auteur d'une infraction, remis aussitôt à l'Administration des pêches (sous-décret, art. 11) ; les statuts fixent l'exclusion des membres.
+    gouvernance: "Comité de cinq à onze membres élu au scrutin secret pour cinq ans ; Administration des pêches (enregistrement, plan, accord de zone, reprise possible)."
+    effectivite: "En 2022, 293 pêcheries avaient un comité au mandat expiré ; selon l'évaluation de 2023, 67 % des 385 pêcheries enquêtées ne donnent aucune information sur un budget."
+    textes:
+      - {titre: "Loi sur la pêche (2025), chapitre 8, art. 66 à 69, et art. 29", nature: "loi", annee: 2025, source: "https://data.opendevelopmentcambodia.net/en/dataset/3a85fa81-8a0d-4ce9-a095-a6b99d58ae75/resource/5d8555e6-c44d-4a7f-9628-555c4b88da7d/download/royal_decree_no_028__28.06.2025.pdf"}
+      - {titre: "Sous-décret n° 25 sur la gestion des pêcheries communautaires", nature: "reglement", annee: 2007, source: "https://data.opendevelopmentcambodia.net/en/laws_record/sub-decree-of-community-fisheries-management"}
+    sources:
+      - {titre: "Sous-décret n° 25 (2007) — Open Development Cambodia", url: "https://data.opendevelopmentcambodia.net/en/laws_record/sub-decree-of-community-fisheries-management"}
+      - {titre: "Status Assessment of Community Fisheries in Cambodia, 2023 — Administration des pêches et FAO", url: "https://data.opendevelopmentcambodia.net/dataset/status-assessment-of-community-fisheries-in-cambodia-2023"}
+      - {titre: "Community fisheries — Open Development Cambodia", url: "https://opendevelopmentcambodia.net/topics/community-fisheries/"}
+
+  - id: "galice-reserves"
+    atlas_uid: "reserves-marines-interet-halieutique-galice"
+    communaute: "Confréries de pêcheurs de Lira et de Cedeira"
+    etats: ["Espagne (Galice)"]
+    entite: "Réserves marines d'intérêt halieutique Os Miñarzos (2007) et Ría de Cedeira (2009)"
+    mecanisme: "organisation_pecheurs"
+    annee: 2007
+    concept_local: ""
+    resume: >-
+      Les deux réserves ont été créées par décret à la demande des pêcheurs de Lira puis de la confrérie de Cedeira ; les confréries (cofradías) sont des corporations professionnelles de droit public. Réserver : la pêche professionnelle y est limitée aux titulaires de permis inscrits à un recensement propre à chaque réserve, sur des embarcations d'une jauge brute de 1,5 GT au plus, sauf dérogations (décret 28/2009, art. 8 et 9). Fermer : les professionnels recensés rédigent la proposition de plan de gestion intégrale, qui peut déroger aux règlements de pêche et entre en vigueur après approbation de la Direction générale de la pêche. Sanctionner : les sources consultées ne décrivent pas de pouvoir de sanction propre aux confréries.
+    gouvernance: "Organe de gestion de huit membres : quatre sièges pour le secteur de la pêche, quatre pour l'administration, qui préside et tranche les égalités de voix (décret 28/2009, art. 10)."
+    effectivite: "Plans de gestion approuvés depuis 2010 et 2011, organes renouvelés en 2023 et 2026 ; une étude de 2024 décrit Os Miñarzos comme un régime de gouvernance partagée (Ecology and Society)."
+    textes:
+      - {titre: "Décret 87/2007 créant la réserve Os Miñarzos, modifié par le décret 241/2008", nature: "decret", annee: 2007, source: "https://www.xunta.gal/dog/Publicados/2008/20081029/Anuncio40382_es.html"}
+      - {titre: "Décret 28/2009 créant la réserve Ría de Cedeira", nature: "decret", annee: 2009, source: "https://www.xunta.gal/dog/Publicados/2009/20090217/AnuncioA442_es.html"}
+    sources:
+      - {titre: "Reservas mariñas de interese pesqueiro — Xunta de Galicia", url: "https://www.pescadegalicia.gal/gl/reservas-marinas"}
+      - {titre: "Plan de xestión integral 2024-2026, Os Miñarzos", url: "https://www.pescadegalicia.gal/reservas/2024/P.%20X.%20I.%20Minarzos.pdf"}
+      - {titre: "Ecology and Society (2024) — three contrasting MPAs in Spain", url: "https://www.ecologyandsociety.org/vol29/iss4/art19/"}
+
+  - id: "prud-homies"
+    atlas_uid: "prud-homies-peche-mediterranee"
+    communaute: "Patrons pêcheurs des 33 prud'homies de Méditerranée"
+    etats: ["France"]
+    entite: "Circonscriptions des prud'homies, de Port-Vendres à Menton et en Corse"
+    mecanisme: "organisation_pecheurs"
+    annee: 1859
+    concept_local: ""
+    resume: >-
+      Le décret du 19 novembre 1859, toujours en vigueur pour ses articles 4 à 52, fait élire par les patrons pêcheurs de chaque circonscription des prud'hommes qui règlent entre pêcheurs l'usage de la mer. Fermer : ils fixent les postes, les tours de rôle, l'ordre de calage des filets et les heures de pêche, et attribuent les postes par tirage au sort (art. 17). Sanctionner : ils « connaissent seuls, exclusivement et sans appel » des différends entre pêcheurs de leur ressort, et leurs sentences sont exécutoires, avec saisie possible de la barque et des filets (art. 17 et 25) ; les prud'hommes assermentés constatent aussi les infractions (code rural et de la pêche maritime, art. L. 942-2). Exclure : le droit au tirage des postes n'est pas réservé aux pêcheurs de la circonscription (art. 49). Le Conseil d'État leur reconnaît en 2022 des attributions juridictionnelles et un pouvoir réglementaire.
+    gouvernance: "Prud'hommes élus pour trois ans au scrutin secret ; administration des affaires maritimes (présidence de l'assemblée, révocation des prud'hommes, dissolution par le ministre)."
+    effectivite: "Élections, tirages au sort et audiences toujours tenus (inventaire du patrimoine culturel immatériel, 2021) ; depuis les réformes de 1992 à 2010, les comités régionaux des pêches gèrent la bande des 12 milles et l'action des prud'homies se limite au niveau local et aux lagunes (Soltanpour et al., 2020)."
+    textes:
+      - {titre: "Décret du 19 novembre 1859 sur la pêche côtière dans le 5e arrondissement maritime, art. 4 à 52", nature: "decret", annee: 1859, source: "https://dumas.ccsd.cnrs.fr/dumas-03593848/document"}
+      - {titre: "Conseil d'État, 18 juillet 2022, n° 459789", nature: "jurisprudence", annee: 2022, source: "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2022-07-18/459789"}
+    sources:
+      - {titre: "Pratiques des prud'homies de pêche en Méditerranée — ministère de la Culture (2021)", url: "https://www.culture.gouv.fr/Media/Thematiques/Patrimoine-culturel-immateriel/Files/Fiches-inventaire-du-PCI/pratiques-des-prud-homies-de-peche-en-mediterranee"}
+      - {titre: "F. Féral, Grandeurs et misères des prud'homies de pêcheurs de Méditerranée (2022)", url: "https://hal.science/hal-04634773/document"}
+      - {titre: "Soltanpour, Peri et Temri, Maritime Studies (2020)", url: "https://hal.science/hal-02491206/document"}
+
+  - id: "raui-cook"
+    atlas_uid: "raui-iles-cook"
+    communaute: "Chefs coutumiers et communautés de district des Îles Cook"
+    etats: ["Îles Cook (Nouvelle-Zélande)"]
+    entite: "Ra'ui de Rarotonga et d'Atiu ; 23 sites actifs en 2022"
+    mecanisme: "interdit_coutumier"
+    annee: 1998
+    concept_local: "ra'ui ; tiaki ra'ui"
+    resume: >-
+      À Rarotonga, le Koutu Nui, assemblée des chefs coutumiers, déclare des ra'ui depuis le 8 février 1998 sans texte législatif. Fermer : la loi sur les ressources marines de 2005 permet aussi aux conseils insulaires de préparer des règlements locaux (by-laws), promulgués en Conseil exécutif, que le ministre ou le Conseil des ministres ne peuvent rejeter que s'ils sont contraires à la loi (art. 8). À Atiu, le règlement sur l'environnement de 2008 place le ra'ui sous le contrôle des chefs coutumiers, qui en fixent les restrictions « conformément à la coutume traditionnelle » (règl. 18). Sanctionner : le gardien (tiaki ra'ui) nommé par les chefs peut saisir prises et matériel et infliger sur place une sanction (utunga) de 100 dollars, ou transmettre le dossier au Service national de l'environnement (règl. 22).
+    gouvernance: "Koutu Nui à Rarotonga ; à Atiu, Ui Ariki et Mataiapo (chefs) qui nomment et révoquent les tiaki ra'ui ; conseils insulaires pour les règlements locaux ; consultation du conseil insulaire et des propriétaires fonciers."
+    effectivite: "Le sixième rapport à la CDB indique que le ra'ui n'est pas juridiquement contraignant et que des prélèvements ont lieu dans ces aires ; l'enquête de la Communauté du Pacifique (2022) compte 23 sites actifs et 9 inactifs."
+    textes:
+      - {titre: "Marine Resources Act 2005, art. 8", nature: "loi", annee: 2005, source: "https://www.spc.int/digitallibrary/get/s5b7j"}
+      - {titre: "Environment (Atiu and Takutea) Regulations 2008, règl. 18, 21, 22 et 51", nature: "reglement", annee: 2008, source: "https://www.spc.int/digitallibrary/get/s5b7j"}
+      - {titre: "Ra'ui déclarés par le Koutu Nui à Rarotonga", nature: "coutume_reconnue", annee: 1998, source: "https://www.mmr.gov.ck/raui-marine-protected-areas/"}
+    sources:
+      - {titre: "Legal Guide to Enabling and Strengthening Coastal Fisheries Co-Management in the Pacific — CPS et ELI (2023)", url: "https://www.spc.int/digitallibrary/get/s5b7j"}
+      - {titre: "Govan et Lalavanua, Status of Community-based Fisheries Management — CPS (2022)", url: "https://www.spc.int/digitallibrary/get/H_uNgzxUo7kB36r"}
+      - {titre: "Ra'ui — ministère des Ressources marines des Îles Cook", url: "https://www.mmr.gov.ck/raui-marine-protected-areas/"}
+      - {titre: "Sixième rapport national des Îles Cook à la CDB", url: "https://chm.cbd.int/api/v2013/documents/252891"}
+
+  - id: "tagal-sabah"
+    atlas_uid: "tagal-sabah"
+    communaute: "Comités tagal des villages du Sabah"
+    etats: ["Malaisie (Sabah)"]
+    entite: "642 tronçons de rivière dans 23 districts (2025)"
+    mecanisme: "interdit_coutumier"
+    annee: 2003
+    concept_local: "tagal ; sogit"
+    resume: >-
+      Le tagal est une interdiction de pêche décidée par le village et levée à des dates fixées. L'Enactment (loi de l'État du Sabah) de 2003 sur la pêche continentale, en vigueur depuis 2019, permet au ministre de déclarer une zone de gestion communautaire des pêches et au directeur des pêches de nommer un comité de membres du village pour l'administrer (art. 35 et 36). Fermer et exclure : le comité fixe les périodes de fermeture et d'ouverture, interdit le poison, les explosifs et certains engins, et soumet l'entrée des personnes extérieures à sa permission ; le Département des pêches découpe les tronçons en zones rouge, jaune et verte. Sanctionner : le contrevenant paie une amende coutumière (sogit) en argent ou en bétail ; les règlements opposables, pris par le ministre, prévoient une amende jusqu'à 50 000 ringgits (art. 37).
+    gouvernance: "Comité tagal nommé par le directeur des pêches parmi les villageois ; protocoles d'accord avec le Département des pêches depuis 2016 ; tribunaux autochtones (native courts) pour le droit coutumier."
+    effectivite: "Sites passés d'environ 400 à 642 entre 2020 et 2025 ; une étude de 2024 sur 15 sites touristiques trouve que, pour 87,3 % des 400 ménages interrogés, le revenu tiré du tagal pèse peu."
+    textes:
+      - {titre: "Sabah Inland Fisheries and Aquaculture Enactment 2003, art. 5, 35 à 37 et 118", nature: "loi", annee: 2003, source: "http://fishdept.sabah.gov.my/wp-content/uploads/2023/01/SabahInlandFisheriesAquacultureEnactment2003.pdf"}
+      - {titre: "Native Courts (Native Customary Laws) Rules 1995, règle 58", nature: "coutume_reconnue", annee: 1995, source: "https://sagc.sabah.gov.my/sites/default/files/law/NativeCourts1992%28NativeCustomaryLaws1995%29.pdf"}
+    sources:
+      - {titre: "The community-based tagal system in Sabah — Local Biodiversity Outlooks", url: "https://localbiodiversityoutlooks.net/the-community-based-tagal-system-in-sabah-malaysia/"}
+      - {titre: "Reviving rivers: history and success of Sabah Tagal system — The Borneo Post (2025)", url: "https://www.theborneopost.com/2025/06/01/reviving-rivers-history-and-success-of-sabah-tagal-system/"}
+      - {titre: "Sixth National Report of Malaysia to the CBD (2019)", url: "https://www.cbd.int/doc/nr/nr-06/my-nr-06-en.pdf"}
+      - {titre: "Journal of Sustainability Science and Management 19 (5), 2024", url: "https://doi.org/10.46754/jssm.2024.05.001"}
+
+  - id: "vanuatu-tabu"
+    atlas_uid: "aires-conservation-communautaires-vanuatu"
+    communaute: "Propriétaires coutumiers, chefs et conseils de village"
+    etats: ["Vanuatu"]
+    entite: "9 aires de conservation communautaires enregistrées et environ 250 aires informelles (2019)"
+    mecanisme: "interdit_coutumier"
+    annee: 2002
+    concept_local: "tabu"
+    resume: >-
+      Les chefs posent des tabu, interdits coutumiers de pêche ou de récolte, sans enregistrement. La loi sur l'environnement de 2002, modifiée en 2010, permet d'enregistrer une terre ou des eaux comme aire de conservation communautaire, avec le consentement de toutes les personnes titulaires de droits et un plan de gestion (art. 35 à 40). Fermer : le plan fixe les règles de gestion de l'aire ; le comité de gestion l'applique et le fait respecter. Sanctionner : le comité veille au règlement des litiges hors tribunal prévu par le plan, et la violation du plan d'une aire enregistrée est une infraction punie jusqu'à cinq ans d'emprisonnement ou 5 millions de vatu (art. 39 et 41). L'enregistrement ne transfère pas la propriété : la terre reste aux propriétaires coutumiers (Constitution, art. 73 et 74) ; la Constitution ne mentionne pas les eaux.
+    gouvernance: "Comité de gestion désigné par l'organe de décision coutumier (chef, conseil des chefs, conseil de village) ; directeur du département de l'environnement (enregistrement, radiation)."
+    effectivite: "Neuf aires enregistrées en 2019 contre environ 250 aires informelles ; les comités peinent à remettre leurs rapports annuels (sixième rapport à la CDB)."
+    textes:
+      - {titre: "Environmental Management and Conservation Act n° 12 de 2002, art. 35 à 40", nature: "loi", annee: 2002, source: "https://faolex.fao.org/docs/pdf/van53103.pdf"}
+      - {titre: "Environmental Management and Conservation (Amendment) Act n° 28 de 2010", nature: "loi", annee: 2010, source: "https://faolex.fao.org/docs/pdf/van110177.pdf"}
+    sources:
+      - {titre: "Sixième rapport national du Vanuatu à la CDB (2019)", url: "https://www.cbd.int/doc/nr/nr-06/vu-nr-06-en.pdf"}
+      - {titre: "Constitution du Vanuatu — Constitute Project", url: "https://www.constituteproject.org/constitution/Vanuatu_1983"}
+
+  - id: "sasi-moluques"
+    atlas_uid: "negeri-adat-maluku"
+    communaute: "Negeri coutumières des Moluques"
+    etats: ["Indonésie (Moluques)"]
+    entite: "Territoires coutumiers (petuanan), dont les zones côtières de Rutong et Hukurila"
+    mecanisme: "interdit_coutumier"
+    annee: 2005
+    concept_local: "sasi ; kewang"
+    resume: >-
+      Le règlement provincial n° 14 de 2005 rétablit les negeri comme communautés de droit coutumier et cite le sasi, interdiction coutumière temporaire de prélèvement, parmi les institutions qui fondent leur reconnaissance. Le règlement n° 16 de 2019 leur donne la gestion des terres coutumières et le règlement des différends selon le droit coutumier, par délibération et audiences de conciliation. Surveiller : à Ambon, le kewang est l'organe de la negeri chargé de surveiller les ressources naturelles du territoire coutumier (règlement n° 8 de 2017, art. 1 (19)). Un arrêté ministériel de 2019 reconnaît la zone de gestion coutumière côtière de Rutong et de Hukurila. Les sources consultées ne décrivent ni les règles de fermeture d'un sasi marin ni les sanctions appliquées.
+    gouvernance: "Chef au titre coutumier (raja) issu d'une lignée ; conseil Saniri Negeri ; kewang ; gouverneur et maire (encadrement, délimitation des territoires par étapes)."
+    effectivite: "Aucun chiffre provincial des negeri désignées ; à Ambon, les limites des territoires sont fixées par étapes (règlement n° 9 de 2017)."
+    textes:
+      - {titre: "Peraturan Daerah Provinsi Maluku n° 14 de 2005 (rétablissement des negeri)", nature: "loi", annee: 2005, source: "https://jdih.malukuprov.go.id/peraturan/PERDA%20NO%2014%20TAHUN%202005%20Tentang%20PENETAPAN%20KEMBALI%20NEGERI.pdf"}
+      - {titre: "Peraturan Daerah Kota Ambon n° 8 de 2017 sur les negeri", nature: "loi", annee: 2017, source: "https://peraturan.bpk.go.id/Details/120657/perda-kota-ambon-no-8-tahun-2017"}
+    sources:
+      - {titre: "Peraturan Daerah Provinsi Maluku n° 16 de 2019 — JDIH Maluku", url: "https://jdih.malukuprov.go.id/peraturan/PERDA%20PENATAAN%20DESA%20ADAT%20EDIT%20HASIL%20FASILITASI%20KEMNDAGRI%20TERAKHIR.pdf"}
+      - {titre: "Hukurila — Badan Registrasi Wilayah Adat", url: "https://brwa.id/profil/1876"}
+      - {titre: "Negeri Rutong — Badan Registrasi Wilayah Adat", url: "https://brwa.id/profil/2992"}
+
+  - id: "samoa-fono"
+    atlas_uid: "aires-peche-villageoises-samoa"
+    communaute: "Fono (conseils des chefs) des villages côtiers"
+    etats: ["Samoa"]
+    entite: "Aires villageoises de gestion des pêches ; 111 sites actifs, 123 villages (2022)"
+    mecanisme: "reglement_approuve"
+    annee: 2016
+    concept_local: ""
+    resume: >-
+      La loi sur la gestion des pêches de 2016 permet au ministère de déclarer une aire villageoise de gestion des pêches après consultation du fono du village et des villages voisins (art. 19). Fermer : le fono peut adopter des règlements (by-laws) qui interdisent des espèces ou des méthodes, fixent des fermetures périodiques et des tailles minimales ; ils sont examinés par le procureur général, approuvés par le Conseil des ministres et publiés (art. 86). Sanctionner : la violation est punie jusqu'à douze mois d'emprisonnement ; le tribunal peut verser l'amende au fonds du fono, et doit tenir compte, comme circonstance atténuante, de la sanction déjà infligée par le fono au titre de la loi de 1990 sur le fono de village (art. 88).
+    gouvernance: "Fono de village et comité villageois de gestion institué par lui ; directeur général du ministère (déclaration de l'aire, suspension ou abrogation des règlements sur avis du fono)."
+    effectivite: "111 sites actifs dotés d'un plan villageois, 14 inactifs (Communauté du Pacifique, 2022) ; 78 règlements villageois approuvés selon le sixième rapport à la CDB (2019)."
+    textes:
+      - {titre: "Fisheries Management Act 2016, art. 19 et 86 à 89", nature: "loi", annee: 2016, source: "https://faolex.fao.org/docs/pdf/sam164690.pdf"}
+    sources:
+      - {titre: "Fisheries Management Act 2016 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/sam164690.pdf"}
+      - {titre: "Govan et Lalavanua, Status of Community-based Fisheries Management — CPS (2022)", url: "https://purl.org/spc/digilib/doc/H_uNgzxUo7kB36r"}
+      - {titre: "Sixième rapport national du Samoa à la CDB (2019)", url: "https://www.cbd.int/doc/nr/nr-06/ws-nr-06-en.pdf"}
+
+  - id: "tonga-sma"
+    atlas_uid: "zones-gestion-speciale-tonga"
+    communaute: "Communautés côtières désignées"
+    etats: ["Tonga"]
+    entite: "61 zones de gestion spéciale (2024), première à ʻOʻua en 2006"
+    mecanisme: "reglement_approuve"
+    annee: 2002
+    concept_local: ""
+    resume: >-
+      La loi sur la gestion des pêches de 2002 permet au ministre de déclarer une zone de gestion spéciale et d'en confier la charge à une communauté côtière (art. 13 et 14). Réserver et exclure : seules les personnes inscrites au registre tenu par le comité de gestion peuvent pêcher dans la zone ; le comité retire du registre celles qui ne respectent pas les mesures de gestion jusqu'à ce qu'elles les corrigent (règlement de 2009, règl. 16). Fermer : chaque zone comprend une réserve d'habitat des poissons fermée à toute pêche ; le comité prépare le plan de gestion, approuvé par le directeur général du ministère, et les règlements propres à la zone sont pris par le ministre. Le rivage et les ressources marines restent propriété de la Couronne (Constitution, art. 109).
+    gouvernance: "Comité de gestion : président élu par la communauté, agent de la localité, agent du district, représentant du ministère, deux représentants des pêcheurs et deux représentantes des femmes élus, trois membres nommés par le président (règl. 6 et 8) ; décision par consensus, à défaut à la majorité (règl. 11)."
+    effectivite: "Effets écologiques variables selon les zones ; trois études seulement ont mesuré l'effet après création (Ford-Learner et al., 2024)."
+    textes:
+      - {titre: "Fisheries Management Act 2002, art. 13 à 16", nature: "loi", annee: 2002, source: "https://purl.org/spc/digilib/doc/s5b7j"}
+      - {titre: "Fisheries (Coastal Communities) Regulations 2009, règl. 5 à 18", nature: "reglement", annee: 2009, source: "https://purl.org/spc/digilib/doc/s5b7j"}
+    sources:
+      - {titre: "Legal Guide to Enabling and Strengthening Coastal Fisheries Co-Management in the Pacific — CPS et ELI (2023)", url: "https://purl.org/spc/digilib/doc/s5b7j"}
+      - {titre: "Ford-Learner et al., Pacific Conservation Biology 30 (2024)", url: "https://connectsci.au/pc/article/30/5/PC24003/38198/Status-of-monitoring-and-evaluation-of-Tonga-s"}
+
+  - id: "mataitai-taiapure"
+    atlas_uid: "mataitai-taiapure-nouvelle-zelande"
+    communaute: "Hapū et iwi māori"
+    etats: ["Nouvelle-Zélande"]
+    entite: "58 réserves mātaitai et 11 taiāpure (octobre 2026)"
+    mecanisme: "reglement_approuve"
+    annee: 1996
+    concept_local: "mātaitai ; tangata kaitiaki"
+    resume: >-
+      La partie 9 de la loi sur les pêches de 1996 et les règlements de 1998 et 1999 sur la pêche coutumière confient aux tangata whenua (groupe qui détient l'autorité coutumière sur un lieu) la désignation de gardiens (tangata kaitiaki) qui autorisent la pêche coutumière. Réserver : dans une réserve mātaitai, la pêche commerciale cesse en règle générale. Fermer : les gardiens proposent des règlements (bylaws) qui limitent ou interdisent la prise d'espèces pour tous les pêcheurs ; le ministre les approuve après consultation publique. Les fermetures temporaires de 24 mois au plus (ss. 186A et 186B) reconnaissent les pratiques de gestion coutumières. Dans un taiāpure, ouvert à toutes les pêches, le comité ne fait que recommander des règles. Sanctionner : les sources consultées n'attribuent pas de pouvoir de sanction aux gardiens.
+    gouvernance: "Gardiens désignés par les tangata whenua et confirmés par avis du ministre publié à la Gazette ; comité de gestion du taiāpure nommé sur proposition de la communauté māori locale ; ministre des Océans et des Pêches."
+    effectivite: "Hausse de 2 mātaitai en 2003 à 58 en 2026 ; 17 fermetures temporaires publiées entre 2024 et 2026 (couche cartographique du ministère des Industries primaires)."
+    textes:
+      - {titre: "Fisheries Act 1996, partie 9, ss. 174 à 186B", nature: "loi", annee: 1996, source: "https://www.legislation.govt.nz/act/public/1996/0088/latest/DLM394192.html"}
+      - {titre: "Fisheries (Declaration of Te Mātaitai ō Te Hikutū) Notice 2025, pris en vertu du règl. 23 des Fisheries (Kaimoana Customary Fishing) Regulations 1998", nature: "reglement", annee: 2025, source: "https://gazette.govt.nz/notice/id/2025-go7343"}
+    sources:
+      - {titre: "Ministère des Industries primaires — Managing customary fisheries", url: "https://www.mpi.govt.nz/fishing-aquaculture/maori-customary-fishing/managing-customary-fisheries"}
+      - {titre: "Ministère des Industries primaires — Marine Customary Restrictions", url: "https://geospatial.mpi.govt.nz/portal/rest/services/MARINE/Marine_Customary_Restrictions/FeatureServer"}
+      - {titre: "Māori Law Review — T. Love (2018)", url: "https://maorilawreview.co.nz/2018/07/incorporating-maori-approaches-to-ecosystem-management-in-marine-management/"}
+
+  - id: "kenya-bmu"
+    atlas_uid: "unites-gestion-plages-kenya"
+    communaute: "Unités de gestion des plages (Beach Management Units)"
+    etats: ["Kenya"]
+    entite: "Aires de cogestion des sites de débarquement ; 14 aires marines gérées localement (tengefu) sur 109,6 km² en 2014"
+    mecanisme: "reglement_approuve"
+    annee: 2007
+    concept_local: ""
+    resume: >-
+      Le règlement de 2007 fait de l'unité de gestion des plages (BMU) l'organisation des pêcheurs, mareyeurs, propriétaires de bateaux et autres usagers d'une plage. Fermer : le plan de cogestion convenu avec l'agent des pêches et approuvé par le directeur peut fermer des zones ou des saisons, restreindre les engins et limiter les licences (règle 7) ; sur la côte, des communautés ont ainsi créé des zones fermées, les tengefu. Réserver : aucune licence liée à une plage n'est délivrée à une personne qui n'est pas membre de la BMU (règle 11 (7)). Sanctionner : les règlements internes (by-laws) s'imposent aux membres et à toute personne présente sur la plage ; le directeur peut les suspendre, et ils sont réputés approuvés sans réponse sous 21 jours (règles 5 et 23).
+    gouvernance: "Assemblée des membres et comité exécutif de 9 à 15 membres élus au scrutin secret ; directeur des Pêches (suspension du comité, comité intérimaire) ; ministre (dissolution)."
+    effectivite: "Redevances non perçues et amendes non appliquées à Shimoni, Wasini et Kibuyuni (2013) ; nombre des quelque 60 BMU de la côte n'existent que de nom (Rocliffe et al., 2014)."
+    textes:
+      - {titre: "Fisheries (Beach Management Unit) Regulations 2007, L.N. 402", nature: "reglement", annee: 2007, source: "https://faolex.fao.org/docs/pdf/ken101510.pdf"}
+      - {titre: "Fisheries Management and Development Act n° 35 de 2016, art. 29 et 37", nature: "loi", annee: 2016, source: "https://new.kenyalaw.org/akn/ke/act/2016/35/eng@2022-12-31"}
+    sources:
+      - {titre: "Rocliffe et al., Towards a Network of LMMAs in the Western Indian Ocean, PLoS ONE (2014)", url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103000"}
+      - {titre: "Mwambao — Shimoni–Wasini–Kibuyuni (2013)", url: "http://www.mwambao.or.tz/wp-content/uploads/2014/08/Main-RB-Fisheries-Report-for-Kenya-30th-July.pdf"}
+      - {titre: "Wageningen Marine Research — Mission Report Kenya (2017)", url: "https://edepot.wur.nl/413271"}
+
+  - id: "madagascar-dina"
+    atlas_uid: "aires-marines-gerees-localement-madagascar"
+    communaute: "Groupements de pêcheurs des aires marines gérées localement"
+    etats: ["Madagascar"]
+    entite: "Aires de pêche gérées localement ; 150 communautés dans le réseau MIHARI (2017)"
+    mecanisme: "reglement_approuve"
+    annee: 2015
+    concept_local: "dina"
+    resume: >-
+      Le Code de la pêche de 2015 et l'arrêté du 28 novembre 2017 permettent à un groupement de pêcheurs légalement constitué d'obtenir, pour une zone délimitée, une autorisation de gestion de deux ans renouvelable, avec un cahier des charges. Fermer : le groupement peut demander une réserve de pêche, et gère la zone selon des réglementations communautaires, dont un dina, convention collective locale homologuée par le tribunal. Sanctionner : le dina fixe les sanctions de la communauté ; il ne s'impose qu'après homologation. Réserver : aucun texte consulté ne réserve l'accès de la zone aux seuls membres. Le ministère chargé de la pêche assure le suivi et la supervision du groupement.
+    gouvernance: "Groupement de pêcheurs reconnu par le ministère ; assemblée communautaire (validation du plan simple de gestion) ; tribunal (homologation du dina)."
+    effectivite: "En 2017, les communautés du réseau MIHARI ont demandé une homologation plus rapide des dina et un droit de pêche exclusif sur la bande littorale ; aucune liste officielle des autorisations n'a été trouvée."
+    textes:
+      - {titre: "Loi n° 2015-053 portant Code de la pêche et de l'aquaculture, art. 14 et 15", nature: "loi", annee: 2015, source: "https://www.dcn-pac.mg/uploads/loi/5d836f7ded9833bafec7e9f6e7ad5b40.pdf"}
+      - {titre: "Arrêté n° 29211/2017 fixant les modalités de transfert de gestion des ressources halieutiques", nature: "reglement", annee: 2017, source: "https://faolex.fao.org/docs/pdf/mad179721.pdf"}
+    sources:
+      - {titre: "Les communautés de pêcheurs (forum MIHARI, 2017) — Madagascar Tribune", url: "https://madagascar-tribune.com/Les-communautes-de-pecheurs,23207.html"}
+      - {titre: "Motion — Officialisation et mise en œuvre des dina (2017) — MIHARI", url: "https://mihari-network.org/wp-content/uploads/2019/07/Motion-1-MIHARI-Officialisation-et-mise-en-%C5%93uvre-des-dina-en-mati%C3%A8re-de-gestion-des-ressources.pdf"}
+      - {titre: "Décret n° 2016-1352 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/mad203280.pdf"}
+
+  - id: "mozambique-apgc"
+    atlas_uid: "aires-peche-gestion-communautaire-mozambique"
+    communaute: "Conseils communautaires de pêche (Conselhos Comunitários de Pesca)"
+    etats: ["Mozambique"]
+    entite: "107 aires marines à gestion locale recensées, aucune publiée au journal officiel (mai 2024)"
+    mecanisme: "reglement_approuve"
+    annee: 2020
+    concept_local: ""
+    resume: >-
+      Le règlement de la pêche maritime de 2020 définit l'aire de pêche à gestion communautaire (APGC) comme une aire du domaine public gérée par une ou plusieurs communautés locales sur leur aire d'usage coutumier ; le diplôme ministériel (arrêté du ministre) de 2023 fixe la procédure, qui exige la preuve d'un consensus avec les communautés et se termine par une décision du ministre. Réserver : l'aire n'est pas réservée à la communauté mais à certaines pêches : artisanale, de subsistance, récréative et sportive, de recherche, expérimentale et de formation. Exclure et fermer : les conseils communautaires de pêche participent à la limitation de l'accès, y compris au nombre de pêcheurs et d'engins, et mettent en œuvre le plan de gestion. Sanctionner : la délivrance des licences et le contrôle restent à l'administration.
+    gouvernance: "Conseils communautaires de pêche dotés de la personnalité juridique ; représentant de l'État au district (début et fin de leurs activités) ; ministre chargé des pêches (création, modification, extinction de l'aire)."
+    effectivite: "Au 31 mai 2024, 61 aires établies au niveau local, 28 en attente d'approbation ministérielle, aucune publiée ; 63,2 % sans plan de gestion (fondation Likhulu, 2024)."
+    textes:
+      - {titre: "Decreto n.º 89/2020, Regulamento da Pesca Marítima, art. 22 à 24", nature: "reglement", annee: 2020, source: "https://adnap.gov.mz/download/aprovacao-do-regulamento-geral-da-pesca-maritima-repmar"}
+      - {titre: "Diploma Ministerial n.º 83/2023 (régime des APGC)", nature: "reglement", annee: 2023, source: "https://sibmoz.gov.mz/content/uploads/2023/09/Diploma-Ministerial-n.o-83_2023-de-6-de-Junho-Estabelece-o-Regime-Juridico-de-APGCs.pdf"}
+    sources:
+      - {titre: "National assessment of locally-managed marine areas in Mozambique — fondation Likhulu (2024)", url: "https://biblioteca.biofund.org.mz/wp-content/uploads/2024/10/1728570656-1.%20Likhulu%20Report%20Moz%20LMMA%20Assessment%20Moz%20Aug%202024.pdf"}
+      - {titre: "Lei n.º 22/2013 — Lei das Pescas, ADNAP", url: "https://adnap.gov.mz/download/lei-n-22-2013-de-1-de-novembro-aprova-a-lei-das-pescas-e-revoga-a-lei-3-90-de-26-de-setembro-2"}
+
+  - id: "laos-vang-sanguan"
+    atlas_uid: "zones-conservation-poissons-laos"
+    communaute: "Villages riverains et comités de gestion des zones de conservation"
+    etats: ["Laos"]
+    entite: "1 313 zones de conservation des poissons officielles et 364 non approuvées (2018)"
+    mecanisme: "reglement_approuve"
+    annee: 2025
+    concept_local: "vang sa-nguan"
+    resume: >-
+      La première zone de conservation des poissons officielle date de 1993, dans le district de Khong. Selon la décision ministérielle de 2025, un ou plusieurs villages demandent la création de la zone, accompagnée du procès-verbal de la réunion villageoise ; le district l'approuve et nomme un comité présidé par le chef de village (art. 7 et 8). Fermer : le comité établit le règlement (engins, saisons, espèces interdites), que le district approuve et promulgue ; la pêche saisonnière n'est possible qu'après trois ans de gestion continue (art. 9 et 17). Sanctionner : le comité de patrouille retient le contrevenant, saisit ses engins et inflige une amende à la deuxième et à la troisième infraction ; le comité de médiation règle les affaires (art. 9 et 10). Le district peut supprimer la zone pour un projet de l'État (art. 12).
+    gouvernance: "Comité de gestion présidé par le chef de village, avec comités de médiation et de patrouille ; comité administratif du district (création, règlement, suppression)."
+    effectivite: "Selon FISHBIO, le WWF et le Département de l'élevage et de la pêche (2018), une partie des zones recensées n'existe que de nom, faute de budget de surveillance ou après des changements de direction villageoise."
+    textes:
+      - {titre: "Décision n° 0766 du 22 août 2025 sur la gestion des zones de conservation des poissons", nature: "reglement", annee: 2025, source: "https://laoofficialgazette.gov.la/kcfinder/upload/files/0766,22,8,2025.pdf"}
+      - {titre: "Loi n° 41/AN du 17 juillet 2023 sur les animaux aquatiques et la pêche", nature: "loi", annee: 2023, source: "https://laoofficialgazette.gov.la/kcfinder/upload/files/41%E0%BA%AA%E0%BA%9E%E0%BA%8A17.7.2023.pdf"}
+    sources:
+      - {titre: "Status Report on Fish Conservation Zones in Lao PDR (2018) — FISHBIO et DLF", url: "https://data.opendevelopmentmekong.net/dataset/7aa6bb8c-8f2a-4537-92c9-69973023a57e/resource/6e308e77-8bc7-481c-adf9-8482fd8bd1ca/download/fcz-status-report-for-lao-pdr-2018.pdf"}
+      - {titre: "Fisheries Law No. 03/NA (2009) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/lao139169.pdf"}
+
+  - id: "namibie-reserves"
+    atlas_uid: "reserves-peche-communautaires-namibie"
+    communaute: "Conservancies communales des régions du Zambèze et du Kavango"
+    etats: ["Namibie"]
+    entite: "20 réserves de pêche fluviales déclarées entre 2015 et 2021"
+    mecanisme: "reglement_approuve"
+    annee: 2003
+    concept_local: ""
+    resume: >-
+      La loi de 2003 sur les ressources halieutiques continentales permet au ministre de déclarer une réserve de pêche à son initiative ou à celle d'une autorité traditionnelle, d'un conseil régional ou municipal (art. 22). Les avis de 2015 à 2020 reconnaissent l'accord de gestion rédigé par la conservancy (zone de gestion communautaire de la faune) avec l'autorité traditionnelle, le ministère et le conseil régional. Fermer et réserver : les règles figurent dans l'annexe de l'avis ministériel ; la communauté fixe la date de la récolte annuelle, réservée aux membres. Exclure : dans la conservancy Joseph Mbambangandu, toute pêche et l'accès des non-résidents (300 dollars namibiens par engin pour deux semaines) passent par l'autorisation du comité de pêche. Sanctionner : les gardes de la conservancy patrouillent ; les autorités traditionnelles et le ministère poursuivent les contrevenants (NACSO).
+    gouvernance: "Conservancy, autorité traditionnelle et comité de pêche continentale ; ministre des Pêches (déclaration et modification des réserves)."
+    effectivite: "Environ 50 gardes-pêche employés et payés par les conservancies du Zambèze (Conservation Namibia) ; aucune évaluation publiée des effets sur les stocks."
+    textes:
+      - {titre: "Inland Fisheries Resources Act 2003, art. 22", nature: "loi", annee: 2003, source: "https://www.lac.org.na/laws/annoSTAT/Inland%20Fisheries%20Resources%20Act%201%20of%202003.pdf"}
+      - {titre: "Avis n° 65 à 68 de 2020 (huit réserves du Zambèze)", nature: "reglement", annee: 2020, source: "https://gazettes.africa/archive/na/2020/na-government-gazette-dated-2020-03-06-no-7138.pdf"}
+      - {titre: "Avis n° 206 de 2021 (conservancy Joseph Mbambangandu)", nature: "reglement", annee: 2021, source: "https://gazettes.africa/archive/na/2021/na-government-gazette-dated-2021-09-22-no-7641.pdf"}
+    sources:
+      - {titre: "Community Fisheries Reserves — Conservation Namibia", url: "https://conservationnamibia.com/factsheets/community-fisheries-reserves.php"}
+      - {titre: "Community Fisheries Reserves — NACSO", url: "https://nacso.org.na/community-fisheries-reserves/"}
+
+  - id: "polynesie-rahui-zpr"
+    atlas_uid: "rahui-polynesie-francaise"
+    communaute: "Communes et comités de gestion (tōmite rāhui) de Tahiti et des îles"
+    etats: ["France (Polynésie française)"]
+    entite: "34 zones de pêche réglementée (2023), dont le rāhui de Teahupo'o (760 ha)"
+    mecanisme: "proposition_consultation"
+    annee: 2017
+    concept_local: "rāhui"
+    resume: >-
+      Le code de l'environnement de la Polynésie française, adopté en 2017, définit le rāhui par des « règles non écrites […] appliquées de manière traditionnelle » (art. LP. 2122-1). Les règles opposables sont toutefois fixées par arrêté du conseil des ministres, à la demande de la commune et après consultation publique. Fermer : à Tautira, l'arrêté de 2018 crée une sous-zone fermée à toute pêche en tout temps et deux sous-zones dont le comité de gestion propose la périodicité d'ouverture (art. 2 à 5). Sanctionner : les infractions sont des contraventions de 5e classe (la catégorie d'amendes la plus élevée hors délits), environ 179 000 F CFP selon la Direction des ressources marines, poursuivies par l'administration. Le comité, qui réunit commune, pêcheurs, résidents et confessions religieuses, propose et suit ; il ne décide pas.
+    gouvernance: "Tōmite rāhui (comité de gestion) ; conseil des ministres de la Polynésie française (création, règles) ; Direction des ressources marines."
+    effectivite: "À Teahupo'o, le comité fonctionne sans budget propre et la surveillance repose en partie sur des habitants bénévoles ; hausse de la taille et de la biomasse des espèces commerciales (Fabre et al., 2022)."
+    textes:
+      - {titre: "Loi du pays n° 2017-25 relative au code de l'environnement, art. LP. 2121-4 et LP. 2122-1", nature: "loi", annee: 2017, source: "https://www.spc.int/CoastalFisheries/CFM/Document/Get/c037f33d-7ed2-4f27-b9bd-ea538929b7b4/PF_Loi%20du%20Pays%20n%C2%B0%202017-25%20du%205%20octobre%202017%20relative%20au%20code%20de%20l%27environnement%20de%20la%20Polyn%C3%A9sie%20fran%C3%A7aise.pdf"}
+      - {titre: "Arrêté n° 1204 CM du 12 juillet 2018 (zone de pêche réglementée de Tautira)", nature: "reglement", annee: 2018, source: "https://www.spc.int/CoastalFisheries/CFM/Document/Get/d649f384-fc51-442d-ae60-67c8f3b5ab84/PF_Arr%C3%AAt%C3%A9%20n%C2%B0%201204%20du%2012%20juillet%202018%20r%C3%A9glementant%20la%20p%C3%AAche%20sur%20le%20domaine%20public%20maritime%20au%20droit%20de%20la%20commune%20associ%C3%A9e%20de%20Tautira.pdf"}
+    sources:
+      - {titre: "Zones de pêche réglementée — Direction des ressources marines", url: "https://www.ressources-marines.gov.pf/cartes-thematiques/zpr/"}
+      - {titre: "Fabre, Le Meur, Mawyer et Bambridge, Revue d'anthropologie des connaissances (2022)", url: "https://journals.openedition.org/rac/27989"}
+
+  - id: "hawaii-cbsfa"
+    atlas_uid: "zones-peche-subsistance-hawaii"
+    communaute: "Communautés de Hā'ena, Miloli'i et Kīpahulu"
+    etats: ["États-Unis (Hawaï)"]
+    entite: "Trois zones de pêche de subsistance gérées par la communauté"
+    mecanisme: "proposition_consultation"
+    annee: 1994
+    concept_local: ""
+    resume: >-
+      Une loi de 1994 permet au département des Terres et Ressources naturelles de désigner, par règlement, des zones de pêche de subsistance pour protéger les pratiques de pêche hawaïennes coutumières ; un groupe communautaire peut proposer une zone avec un plan de gestion (§ 188-22.6). Fermer : les règles de Hā'ena (2015) ferment des sous-zones et interdisent la vente des prises ; celles de Miloli'i (2022) interdisent la pêche pour aquarium ; celles de Kīpahulu (2024) ont été proposées par l'association Kīpahulu 'Ohana après dix ans de concertation. Exclure et sanctionner : la communauté n'a pas de pouvoir réglementaire propre ; les règles sont adoptées et appliquées par l'État. À Hā'ena, le département doit consulter les habitants de l'ahupua'a (division territoriale de la montagne à la mer).
+    gouvernance: "Groupe communautaire (proposition, suivi) ; département des Terres et Ressources naturelles (adoption des règles, contrôle)."
+    effectivite: "Inconnue : aucune évaluation publique de l'application des règles n'a été trouvée."
+    textes:
+      - {titre: "Hawaii Revised Statutes, § 188-22.6, 188-22.7 et 188-22.9", nature: "loi", annee: 1994, source: "https://data.capitol.hawaii.gov/sessions/session2017/HRS-Chapter-PDF's/HRS_0188.pdf"}
+      - {titre: "Hawaii Administrative Rules, chapitre 13-60.8 (Hā'ena)", nature: "reglement", annee: 2015, source: "https://dlnr.hawaii.gov/dar/files/2015/08/ch60.8.pdf"}
+      - {titre: "Hawaii Administrative Rules, chapitre 13-60.11 (Kīpahulu)", nature: "reglement", annee: 2024, source: "https://dlnr.hawaii.gov/dar/files/2024/04/ch60.11.pdf"}
+    sources:
+      - {titre: "Zones réglementées — division des ressources aquatiques d'Hawaï", url: "https://dlnr.hawaii.gov/dar/regulated-areas/"}
+      - {titre: "Dossier F-2 du conseil des Terres et Ressources naturelles (janvier 2024)", url: "https://dlnr.hawaii.gov/wp-content/uploads/2024/01/F-2.pdf"}
+
+  - id: "senegal-clpa"
+    atlas_uid: "conseils-locaux-peche-artisanale-senegal"
+    communaute: "Conseils locaux de pêche artisanale"
+    etats: ["Sénégal"]
+    entite: "43 conseils locaux (2024), dont la zone de pêche protégée de Fass Boye"
+    mecanisme: "proposition_consultation"
+    annee: 2015
+    concept_local: ""
+    resume: >-
+      Le Code de la pêche maritime de 2015 engage l'État à la cogestion (art. 6) et prévoit les conseils locaux de pêche artisanale (CLPA) (art. 23), que le ministre crée par arrêté (décret de 2016, art. 5). Fermer : le conseil peut proposer des mesures locales, que le ministre approuve et qu'une autorité administrative prend par arrêté ; la zone de pêche protégée de Fass Boye a été réglementée en 2017 par arrêté du sous-préfet, sur proposition du CLPA. Sanctionner : le conseil règle « en premier ressort » (avant tout recours) les conflits entre pêcheurs, sans pouvoir juridictionnel (arrêté de 2011, art. 12), et participe à la surveillance. Réserver et exclure : il donne un avis sur les permis ; la ressource reste un patrimoine national géré par l'État (art. 3 et 4).
+    gouvernance: "Collèges de pêcheurs, mareyeurs, transformatrices, notables, élus et agents de l'État, au moins trois quarts issus des communautés de pêche ; présidence par le représentant de l'État."
+    effectivite: "Réunions irrégulières, résolutions peu appliquées ; quelques conseils seulement ont reçu la part des redevances prévue, et des ONG financent la surveillance de certains (CEMLAWS Africa, 2024)."
+    textes:
+      - {titre: "Loi n° 2015-18 portant Code de la pêche maritime, art. 5, 6 et 23", nature: "loi", annee: 2015, source: "https://faolex.fao.org/docs/pdf/sen155049.pdf"}
+      - {titre: "Décret n° 2016-1804, art. 5 à 8", nature: "decret", annee: 2016, source: "https://faolex.fao.org/docs/pdf/sen163863.pdf"}
+      - {titre: "Arrêté portant réglementation de la pêche dans la zone de pêche protégée de Fass Boye", nature: "reglement", annee: 2017, source: "https://faolex.fao.org/docs/pdf/sen221111.pdf"}
+    sources:
+      - {titre: "Local Artisanal Fisheries Councils in Senegal — CEMLAWS Africa (2024)", url: "https://cemlawsafrica.org/wp-content/uploads/2024/08/EN-Local-Artisanal-Fisheries-Councils-CLPAs-in-Senegal.pdf"}
+      - {titre: "Arrêté n° 12439 du 15 novembre 2011 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/sen131163.pdf"}
+
+  - id: "amazonie-acordos"
+    atlas_uid: "accords-de-peche-amazonie-bresil"
+    communaute: "Communautés riveraines (ribeirinhas) des várzeas"
+    etats: ["Brésil"]
+    entite: "Lacs des plaines inondées ; 35 accords réglementés en Amazonas (1995-2006)"
+    mecanisme: "proposition_consultation"
+    annee: 2002
+    concept_local: ""
+    resume: >-
+      Les communautés riveraines fixent par consensus des règles de pêche sur les lacs qu'elles utilisent : engins interdits, périodes de fermeture, lacs affectés à la subsistance, à la pêche commerciale ou à la reproduction. L'instruction normative n° 29 de 2002 de l'IBAMA (Institut brésilien de l'environnement) définit l'accord de pêche comme un ensemble de mesures issues d'accords consensuels entre usagers et administration. Fermer : les règles ne s'imposent qu'une fois reprises par un arrêté (portaria) de l'IBAMA. Réserver et exclure : l'instruction exclut les accords qui donnent un privilège à un groupe, et les cours d'eau sont des voies publiques, ce qui empêche de réserver la pêche aux riverains. Sanctionner : le contrôle relève de l'État ; le programme d'agents environnementaux volontaires ouvert aux communautés a pris fin.
+    gouvernance: "Assemblées d'usagers des lacs (proposition par consensus) ; IBAMA (arrêté, contrôle)."
+    effectivite: "Dans une enquête auprès de 214 pêcheurs d'Amazonas, 72 % jugent la productivité accrue et 71 % décrivent la surveillance et les sanctions comme inexistantes ou inefficaces (Oviedo et al., 2015)."
+    textes:
+      - {titre: "Instruction normative IBAMA n° 29 du 31 décembre 2002", nature: "reglement", annee: 2002, source: "https://www.ibama.gov.br/sophia/cnia/legislacao/IBAMA/IN0029-311202.PDF"}
+    sources:
+      - {titre: "Oviedo, Bursztyn et Drummond, Ambiente & Sociedade (2015)", url: "https://www.scielo.br/j/asoc/a/Xcr5CQ43KCYyCnhR4Gkrrxj/?lang=pt"}
+
+  - id: "imraguen-arguin"
+    atlas_uid: "imraguen-banc-darguin"
+    communaute: "Imraguen des neuf villages du Banc d'Arguin"
+    etats: ["Mauritanie"]
+    entite: "Parc national du Banc d'Arguin"
+    mecanisme: "proposition_consultation"
+    annee: 2000
+    concept_local: ""
+    resume: >-
+      La loi de 2000 sur le Parc national du Banc d'Arguin y interdit la pêche, sauf pour les populations résidentes, qui conservent la pêche de subsistance, dont la pêche à pied dite « pêche Imraguen » et la pêche à la lanche à voile (art. 10 et 11). Réserver : le plan d'aménagement 2025-2029 présente les Imraguen comme les seuls autorisés à pêcher dans le parc ; les embarcations motorisées y sont interdites pour la pêche (art. 17). Fermer, exclure et sanctionner : ces pouvoirs appartiennent au parc, établissement public de l'État ; le ministre délivre les autorisations de lanches, dont le nombre est plafonné. Les populations résidentes ont des représentants au conseil d'administration (art. 6).
+    gouvernance: "Conseil d'administration du parc ; en 2006, un siège pour les communautés résidentes sur quatorze, la composition fixée en 2015 n'ayant pas été consultée ; direction du parc et ministre chargé des pêches."
+    effectivite: "Le plan d'aménagement 2025-2029 constate une érosion de la cogestion depuis plus de dix ans ; un recensement de juin 2023 compte 116 lanches, dont 93 plastifiées, alors que seules les lanches à voile traditionnelles sont autorisées."
+    textes:
+      - {titre: "Loi n° 2000-024 relative au Parc national du Banc d'Arguin, art. 6, 10, 11 et 17", nature: "loi", annee: 2000, source: "https://faolex.fao.org/docs/pdf/mau20609.pdf"}
+      - {titre: "Décret n° 2006-068 portant application de la loi n° 2000-024", nature: "decret", annee: 2006, source: "https://faolex.fao.org/docs/pdf/mau170207.pdf"}
+    sources:
+      - {titre: "Plan d'aménagement et de gestion du PNBA 2025-2029", url: "https://pnba.mr/wp-content/uploads/2025/12/PAG-PNBA-2025-2029-decembre-2025-VF.pdf"}
+      - {titre: "Boulay S., « La tradition imrâgen » (2011) — HAL", url: "https://hal.science/hal-01327593/document"}
+
+  - id: "washington-traites"
+    atlas_uid: "cogestion-peche-traites-ouest-washington"
+    communaute: "20 nations signataires des traités de 1854-1856"
+    etats: ["États-Unis (Washington)"]
+    entite: "Saumon, truite steelhead et coquillages des lieux de pêche habituels et accoutumés"
+    mecanisme: "droit_garanti_partage"
+    annee: 1974
+    concept_local: ""
+    resume: >-
+      Les traités de 1854-1856 réservent aux nations « le droit de prendre le poisson, à tous les lieux et stations habituels et accoutumés […], en commun avec tous les citoyens ». Réserver : la décision du juge Boldt de 1974 fixe leur part à la moitié des poissons récoltables, confirmée par la Cour suprême en 1979, et étendue aux coquillages en 1994, y compris sur des estrans privés, hors bancs artificiels ou cultivés. Fermer et sanctionner : une nation qui dispose d'un gouvernement organisé, d'agents de contrôle formés, d'experts en halieutique et d'un registre des membres réglemente la pêche de ses membres sans réglementation de l'État ; l'État ne peut imposer que les mesures « raisonnables et nécessaires » à la conservation, en prouvant cette nécessité. Exclure : la pêche reste exercée « en commun » avec les autres citoyens.
+    gouvernance: "Gouvernements des nations ; Northwest Indian Fisheries Commission (coordination, depuis 1974) ; département de la Pêche et de la Faune de l'État (planification conjointe) ; tribunal fédéral, qui reste saisi."
+    effectivite: "Partage et planification conjointe appliqués depuis 1974 ; en 2018, la Cour suprême a laissé en vigueur l'injonction qui oblige l'État à remplacer d'ici 2030 les buses routières qui nuisent le plus au saumon."
+    textes:
+      - {titre: "Traités de Medicine Creek, Point Elliott, Point No Point, Neah Bay et Quinault River", nature: "traite", annee: 1855, source: "https://wdfw.wa.gov/hunting/management/tribal/history"}
+      - {titre: "United States v. Washington, 384 F. Supp. 312 (W.D. Wash. 1974)", nature: "jurisprudence", annee: 1974, source: "https://law.justia.com/cases/federal/district-courts/FSupp/384/312/1370661/"}
+      - {titre: "Washington v. Fishing Vessel Association, 443 U.S. 658 (1979)", nature: "jurisprudence", annee: 1979, source: "https://supreme.justia.com/cases/federal/us/443/658/"}
+    sources:
+      - {titre: "Northwest Indian Fisheries Commission — About Us", url: "https://nwifc.org/about-us/"}
+      - {titre: "Northwest Indian Fisheries Commission — Rafeedie Decision", url: "https://nwifc.org/about-us/shellfish/rafeedie-decision/"}
+      - {titre: "MRSC — The Culverts Case (2018)", url: "https://mrsc.org/stay-informed/mrsc-insight/june-2018/culverts-case-implications-local-governments"}
+
+  - id: "nuu-chah-nulth"
+    atlas_uid: "peches-nuu-chah-nulth"
+    communaute: "Nations Ahousaht, Ehattesaht/Chinehkint, Hesquiaht, Mowachaht/Muchalaht et Tla-o-qui-aht"
+    etats: ["Canada (Colombie-Britannique)"]
+    entite: "Territoires de pêche jusqu'à neuf milles marins au large de l'île de Vancouver"
+    mecanisme: "droit_garanti_partage"
+    annee: 2009
+    concept_local: "T'aaq-wiihak"
+    resume: >-
+      Les tribunaux de la Colombie-Britannique ont déclaré en 2009, puis confirmé en 2011 et 2013, le droit ancestral (droit fondé sur les pratiques antérieures au contact avec les Européens, protégé par l'article 35 de la Loi constitutionnelle de 1982) des cinq nations de pêcher toutes les espèces sauf la panope et de vendre le poisson. Réserver : seuls les membres des cinq nations participent à cette pêche, sous un permis communautaire de Pêches et Océans Canada ; les nations désignent les pêcheurs et les bateaux. Exclure : le droit n'est pas exclusif. Fermer : Pêches et Océans Canada fixe les parts par espèce dans un plan de gestion annuel ; en 2021, la Cour d'appel a jugé injustifiées plusieurs atteintes au droit, dont l'exclusion des nations d'un couloir entre un et cinq milles de la côte.
+    gouvernance: "Ha'wiih (chefs héréditaires) et dirigeants élus des cinq nations ; Pêches et Océans Canada (permis, plan annuel, consultation) ; Accord progressif de réconciliation du 25 septembre 2024."
+    effectivite: "En 2024, la pêche des cinq nations a pris 17 267 saumons chinook, contre 47 656 pour la pêche récréative et 24 154 pour la pêche commerciale à la traîne (Ha-Shilth-Sa, 2026) ; les nations contestent les allocations."
+    textes:
+      - {titre: "Loi constitutionnelle de 1982, art. 35", nature: "constitution", annee: 1982, source: "https://laws-lois.justice.gc.ca/fra/const/page-12.html"}
+      - {titre: "Ahousaht Indian Band and Nation v. Canada, 2009 BCSC 1494 ; 2013 BCCA 300 ; 2021 BCCA 155", nature: "jurisprudence", annee: 2009, source: "https://www.woodwardandcompany.com/news/ahousaht-indian-band-and-nation-v-canada-2021-bcca-155-summary/"}
+      - {titre: "Règlement sur les permis de pêche communautaires des Autochtones (DORS/93-332)", nature: "reglement", annee: 1993, source: "https://laws-lois.justice.gc.ca/fra/reglements/DORS-93-332/page-1.html"}
+    sources:
+      - {titre: "Five Nations Multi-species Fishery Management Plan 2023-2024 — Pêches et Océans Canada", url: "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41096605.pdf"}
+      - {titre: "About T'aaq-wiihak — T'aaq-wiihak Fisheries", url: "https://taaqwiihakfisheries.ca/about-taaq-wiihak/"}
+      - {titre: "Salmon allocation revision faces scrutiny — Ha-Shilth-Sa (2026)", url: "https://www.hashilthsa.com/news/2026-02-03/canada-must-bring-policy-line-law-salmon-allocation-revision-faces-scrutiny"}
+
+synthese: >-
+  Dans la plupart des cas, l'administration accorde, approuve, publie ou révoque le droit ou les règles de la communauté. Les exceptions sont les fermetures décidées sans texte (ra'ui de Rarotonga, tabu non enregistrés du Vanuatu), les droits traditionnels sur les récifs reconnus par la Constitution de Chuuk, et les droits garantis par traité ou par la constitution, dont les tribunaux fixent l'étendue (ouest de Washington, Nuu-chah-nulth). Là où les cas le précisent, la zone reste dans le domaine de l'État ou de la Couronne (Cambodge, Tonga, Mozambique). Fermer une zone est le pouvoir que les cas attribuent le plus souvent à la communauté : dans 25 cas sur 29, un chef, un village, un comité, une coopérative ou une nation peut proposer ou décider une fermeture ; les exceptions sont Chuuk et les Moluques, faute de source, le Banc d'Arguin et les Nuu-chah-nulth. La différence tient à la force de cette fermeture face aux personnes extérieures. Elle s'impose à tous quand un texte de l'État la reprend (Samoa, Tonga, mātaitai, unités de plage du Kenya, Laos, Namibie, Polynésie française, Hawaï) ; elle repose sur la coutume seule quand le texte manque, comme pour les ra'ui de Rarotonga, les tabu non enregistrés du Vanuatu ou les plans des Îles Salomon non publiés. Réserver et exclure suivent deux voies. Dans la première, la loi attache un droit exclusif à un groupe : unités sociales iTaukei à Fidji, titulaires coutumiers aux Îles Salomon, coopératives du Japon, fraternités de Corée, organisations titulaires d'une aire benthique au Chili, pêcheries cambodgiennes dans les zones continentales, communautés tonguiennes, pêcheurs recensés de Galice. Dans la seconde, la zone reste ouverte à tous ceux qui respectent la règle : accords de pêche d'Amazonie, où les rivières sont des voies publiques, espaces côtiers autochtones du Chili, dont l'attributaire ne peut empêcher ni l'accès ni le passage même si le plan désigne les usagers extérieurs admis, aires gérées localement de Madagascar, droits issus des traités exercés « en commun » avec les autres citoyens.
+
+
+  Sanctionner est délégué dans peu de régimes. Six donnent à la communauté une sanction propre : sentence sans appel des prud'hommes de Méditerranée, sanction sur place de 100 dollars par le gardien d'Atiu, amende coutumière du tagal, amendes du comité de patrouille au Laos, sanction du fono de Samoa dont le tribunal doit tenir compte, autoréglementation des nations des traités de Washington. Ailleurs, la communauté surveille, retient ou signale et l'administration poursuit, ou les sources consultées ne décrivent pas de sanction. Les régimes diffèrent aussi par la définition du groupe : la parenté, la coutume ou l'appartenance à un peuple autochtone (Fidji, Îles Salomon, Chuuk, Vanuatu, Moluques, Nouvelle-Zélande, espaces côtiers autochtones du Chili, ouest de Washington, Nuu-chah-nulth) ; le village ou la résidence (Îles Cook, Sabah, Samoa, Tonga, Cambodge, Laos, Namibie, Polynésie française, Hawaï, Banc d'Arguin) ; la résidence et le métier (Japon, Corée, aires benthiques du Chili, Galice, prud'homies) ; l'usage d'une plage, d'une zone de pêche ou d'un lac (Kenya, Madagascar, Mozambique, Sénégal, Amazonie). Là où les textes fixent une durée, elle va de deux ans renouvelables (Madagascar) et trois ans au plus, renouvelables (Cambodge), à dix ans (Japon, Corée) et à une durée indéfinie (aires benthiques et espaces côtiers autochtones du Chili). Les sources d'application signalent des comités inactifs, sans budget ou qui n'existent que de nom au Kenya, au Sénégal, au Cambodge et au Laos, des sites inactifs aux Îles Cook et au Samoa, des aires sans plan de gestion et aucune aire publiée au Mozambique en 2024, et une attente moyenne de 5,94 ans pour les espaces côtiers autochtones du Chili.
+
+limites:
+  - "Le dossier repose sur les fiches de l'atlas et sur les textes qu'elles citent ; aucune recherche nouvelle n'a été faite pour ce dossier. Les sanctions effectivement appliquées ne sont décrites que pour quelques cas (Sabah, prud'homies, Namibie) ; pour Atiu et le Laos, seuls les textes qui les prévoient ont été consultés, et la décision laotienne de 2025, publiée en image, n'a pas pu être relue pour cette vérification."
+  - "Fiches de l'atlas sur le même sujet non retenues pour limiter le nombre de cas : Kiribati, Tanzanie, Malawi, Zambie, Gambie, Viêt Nam, Sri Lanka, Costa Rica, Afrique du Sud, Papouasie-Nouvelle-Guinée, Yap et détroit de Torres."
+  - "Japon et Corée : les règlements internes des coopératives et des fraternités, et les sanctions qu'ils prévoient, n'ont pas été consultés."
+  - "Chuuk et Moluques : aucune source consultée ne décrit les règles de fermeture fixées par les titulaires de droits ou les règles d'un sasi marin."
+  - "Les chiffres ne sont pas à la même date : 2006 pour les accords de pêche d'Amazonie, 2013 pour les aires tabu de Fidji, 2014 pour les tengefu du Kenya, 2017 pour les aires benthiques du Chili et le réseau MIHARI de Madagascar, 2018 pour le Laos et la surface des pêcheries cambodgiennes, 2019 pour le Vanuatu, 2021 à 2026 pour les autres."
+  - "Hors champ : quotas de pêche industrielle attribués à des communautés (Alaska, Nouvelle-Zélande commerciale), aires marines protégées gérées par l'État seul, traités de pêche des Grands Lacs et du bassin du Columbia, faute de fiche dans l'atlas."
+
+candidats_atlas:
+  - "Nations des traités de 1855 du bassin du Columbia (Yakama, Umatilla, Warm Springs, Nez Perce), coordonnées par la Columbia River Inter-Tribal Fish Commission : cogestion de traités comparable à celle de l'ouest de Washington."
+  - "Nations ojibwe des traités de 1836 à 1854 des Grands Lacs, coordonnées par la Great Lakes Indian Fish and Wildlife Commission : autoréglementation de la pêche reconnue par les tribunaux fédéraux."
+  - "Comités de pêche de shehia de Zanzibar : régime distinct des unités de plage de Tanzanie continentale, mentionné par la fiche tanzanienne, sans fiche propre."

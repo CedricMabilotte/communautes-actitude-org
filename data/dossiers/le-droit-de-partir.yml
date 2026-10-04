@@ -1,0 +1,619 @@
+slug: "le-droit-de-partir"
+titre: "Le droit de partir : sécession et référendums inscrits dans les textes"
+chapeau: >-
+  Trente-huit fiches de l'atlas relèvent un texte qui prévoit, sous une forme ou une autre, la possibilité de quitter l'État dont la communauté relève ou d'en changer le lien, que ce texte soit appliqué, conditionnel ou contesté. Ce dossier examine 30 cas en Afrique, en Amérique, en Asie, en Europe et en Océanie avec quatre questions : que prévoit le texte, qui vote, à quelle majorité, et le droit a-t-il été exercé ?
+
+introduction: >-
+  Dans la grille de l'atlas, le droit d'« autodétermination externe » (choix du statut international d'un territoire, indépendance comprise) est le seul qui place une fiche au degré 5. Il est retenu quand un texte en vigueur prévoit un référendum d'indépendance ou un droit de sécession (séparation d'avec l'État). Le dossier part des fiches où ce droit est inscrit, partiel ou remis en cause (un seul cas par article pour l'Éthiopie, voir plus bas), et y ajoute des cas où un vote sur le statut a eu lieu sans texte permanent ou sans compétence reconnue : Bermudes, Mariannes du Nord, Papouasie occidentale, Kurdistan irakien. Il ne traite pas de la légitimité des revendications, seulement de ce que disent les textes et de ce qui s'est passé.
+
+
+  Six mécanismes se dégagent des cas. Le droit de sécession constitutionnel est écrit dans la constitution de l'État ou dans sa loi d'autonomie, avec sa procédure (Éthiopie, Ouzbékistan, Saint-Christophe-et-Niévès, Liechtenstein, Moldavie, Aruba dans le Royaume des Pays-Bas). La sortie par accord est prévue par le statut d'une entité : le vote local ouvre une négociation dont le Parlement de l'État central approuve l'issue (Groenland, Irlande du Nord). La consultation issue d'un accord de paix ou de décolonisation est inscrite dans un accord négocié, souvent sous l'égide de l'ONU, avec un calendrier (Nouvelle-Calédonie, Bougainville, Abyei, Sahara occidental, Cachemire). L'acte d'autodétermination observé par l'ONU a fixé un statut de libre association (territoire qui s'administre lui-même et confie certaines compétences, comme la défense, à l'État auquel il reste lié) ou d'union politique (rattachement à un État avec un statut propre) (Îles Cook, Niue, Mariannes du Nord, Tokélaou, Papouasie occidentale). Le référendum consultatif permet à une assemblée locale de consulter la population sur le statut sans que le résultat lie l'État central. Enfin, le référendum sans compétence reconnue est organisé ou voulu par une entité que la justice de l'État juge dépourvue du pouvoir de le tenir.
+
+
+  L'Éthiopie est traitée séparément. L'article 39 de la Constitution de 1994 reconnaît à chaque « nation, nationalité et peuple » un droit « inconditionnel » à l'autodétermination, sécession comprise : il figure dans 13 fiches éthiopiennes de l'atlas. Le dossier le traite par un cas (Tigray) et montre, par un second (Sidama), comment la procédure voisine de l'article 47, qui permet de créer un nouvel État membre de la fédération, a été employée trois fois depuis 2019.
+
+mecanismes:
+  - {cle: "secession_constitutionnelle", libelle: "Droit de sécession constitutionnel", definition: "La constitution de l'État, ou une loi d'autonomie, reconnaît à une entité le droit de se séparer et fixe la procédure : vote d'une assemblée, référendum, majorité requise ; le droit peut être soumis à condition."}
+  - {cle: "sortie_par_accord", libelle: "Sortie par accord prévue par un statut", definition: "Le statut d'une entité prévoit qu'un vote local ouvre une négociation sur la sortie ; l'accord qui en résulte doit être approuvé par le parlement de l'État central."}
+  - {cle: "consultation_accord_paix", libelle: "Consultation issue d'un accord de paix ou de décolonisation", definition: "Un accord négocié entre les parties, souvent sous l'égide de l'ONU, prévoit un référendum sur le statut à une date ou dans un délai, avec un corps électoral défini par l'accord."}
+  - {cle: "acte_onu", libelle: "Acte d'autodétermination observé par l'ONU", definition: "Un vote ou une consultation, observé ou supervisé par l'ONU, fixe un statut de libre association, d'union politique ou d'intégration ; l'ONU en prend acte par une résolution."}
+  - {cle: "referendum_consultatif", libelle: "Référendum consultatif sur le statut", definition: "Une constitution ou une loi locale permet à l'assemblée ou au gouvernement de l'entité de consulter la population sur le statut, indépendance comprise ; le résultat ne lie pas l'État central."}
+  - {cle: "referendum_sans_competence", libelle: "Référendum sans compétence reconnue", definition: "L'entité organise ou veut organiser un vote sur l'indépendance ; la juridiction suprême de l'État juge que le texte ne lui en donne pas le pouvoir."}
+
+concepts:
+  - {terme: "Inatsisartut", langue: "kalaallisut (groenlandais)", communautes: ["kalaallit-groenland"], sens: "Parlement du Groenland ; il doit approuver l'accord d'indépendance négocié avec le gouvernement danois avant le référendum (loi de 2009, art. 21).", source: "https://english.stm.dk/media/4vgewyoh/gl-selvstyrelov-uk.pdf"}
+  - {terme: "Gagauz Yeri", langue: "gagaouze", communautes: ["gagaouzes-gagaouzie"], sens: "« Terre gagaouze » : nom de l'unité territoriale autonome dans la loi de 1994, qui lui donne un droit à l'autodétermination externe si la Moldavie perd son indépendance.", source: "http://www.e-democracy.md/files/elections/law-special-legal-status-gagauzia-23-12-1994-en.pdf"}
+  - {terme: "aus dem Staatsverband austreten", langue: "allemand", communautes: ["communes-liechtenstein-droit-de-sortie"], sens: "« Sortir de l'union de l'État » : formule de l'article 4 al. 2 de la Constitution du Liechtenstein qui ouvre ce droit à chacune des onze communes.", source: "https://verfassung.li/Art._4"}
+  - {terme: "Jokargy Kenes", langue: "karakalpak", communautes: ["karakalpaks-karakalpakstan"], sens: "« Conseil suprême » : parlement de la République du Karakalpakstan, dont la Constitution ouzbèke reconnaît le droit de faire sécession par référendum.", source: "https://fpc.org.uk/the-curious-case-of-the-republic-of-karakalpakstan/"}
+  - {terme: "status aparte", langue: "papiamento / néerlandais", communautes: ["aruba"], sens: "« Statut séparé » : statut de pays du Royaume obtenu par Aruba le 1er janvier 1986, hors des Antilles néerlandaises.", source: "https://www.parlamento.aw/het-statuut"}
+  - {terme: "landsverordening", langue: "néerlandais", communautes: ["aruba", "curacao", "sint-maarten"], sens: "« Ordonnance nationale » : loi d'un pays du Royaume des Pays-Bas ; pour Aruba, c'est par une ordonnance votée aux deux tiers que s'ouvre la sortie du Statut (art. 58).", source: "https://wetten.overheid.nl/jci1.3:c:BWBR0002154"}
+  - {terme: "Estado Libre Asociado", langue: "espagnol", communautes: ["porto-rico"], sens: "« État libre associé » : nom du régime de Porto Rico depuis la Constitution de 1952 ; il désigne un territoire des États-Unis doté d'une constitution propre, non un État souverain.", source: "https://welcome.topuertorico.org/constitu-es.shtml"}
+  - {terme: "Native Inhabitants of Guam", langue: "anglais", communautes: ["chamorro-guam"], sens: "« Habitants autochtones de Guam » : catégorie de la loi de Guam de 2000 qui réservait à ces personnes le vote sur le statut politique ; jugée contraire au quinzième amendement de la Constitution des États-Unis en 2019.", source: "https://cdn.ca9.uscourts.gov/datastore/opinions/2019/07/29/17-15719.pdf"}
+  - {terme: "border poll", langue: "anglais", communautes: ["irlande-du-nord"], sens: "« Scrutin sur la frontière » : nom courant du référendum par lequel l'Irlande du Nord pourrait quitter le Royaume-Uni pour une Irlande unie (Northern Ireland Act 1998, annexe 1).", source: "https://www.legislation.gov.uk/ukpga/1998/47/schedule/1"}
+  - {terme: "Kanaky", langue: "usage kanak", communautes: ["kanak-nouvelle-caledonie"], sens: "Nom donné à la Nouvelle-Calédonie par les mouvements indépendantistes kanak ; IWGIA l'emploie dans le titre de son chapitre annuel.", source: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2025.pdf"}
+  - {terme: "Halk Topluşu", langue: "gagaouze", communautes: ["gagaouzes-gagaouzie"], sens: "« Assemblée populaire » de la Gagaouzie, qui adopte les lois locales ; son mandat a expiré en novembre 2025 sans élections.", source: "https://www.undp.org/sites/g/files/zskgke326/files/2026-04/adept-developments_of_the_institutional_crisis_in_gagauzia_region.pdf"}
+
+cas:
+  - id: "ethiopie-article-39"
+    atlas_uid: "tigray-ethiopie"
+    communaute: "Tigréens et, par le même article, toutes les « nations, nationalités et peuples » d'Éthiopie"
+    etats: ["Éthiopie"]
+    entite: "État régional du Tigray"
+    mecanisme: "secession_constitutionnelle"
+    annee: 1994
+    concept_local: ""
+    resume: >-
+      L'article 39 (1) de la Constitution fédérale de 1994 reconnaît à chaque « nation, nationalité et peuple » un droit « inconditionnel » à l'autodétermination, sécession comprise. L'article 39 (4) fixe la procédure : demande approuvée par les deux tiers des membres du conseil législatif de la nation concernée ; référendum organisé par le gouvernement fédéral dans les trois ans ; approbation à la majorité des votants ; transfert des pouvoirs fédéraux au conseil ; partage des biens selon la loi. La Chambre de la Fédération (chambre haute, formée de représentants des nations) statue sur ces questions (art. 62 (3)). Le Tigray est le premier des neuf États membres énumérés en 1994 (art. 47).
+    gouvernance: "Vote : conseil législatif de la nation (deux tiers), puis population de la nation par référendum (majorité simple) ; organisation par le gouvernement fédéral ; Chambre de la Fédération compétente."
+    effectivite: "Jamais exercé, au Tigray ni ailleurs. Après la guerre de 2020-2022 et l'accord de Pretoria, le Tigray est dirigé par une administration intérimaire ; le TPLF en a écarté le président en mai 2026 et les combats ont repris en septembre 2026 (Crisis Group)."
+    textes:
+      - {titre: "Constitution de la République fédérale démocratique d'Éthiopie, art. 39, 47 et 62", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+    sources:
+      - {titre: "Constitute Project — Constitution de l'Éthiopie (1994)", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+      - {titre: "Crisis Group — Arresting the Dangerous Descent Back into War in Northern Ethiopia (25 septembre 2026)", url: "https://www.crisisgroup.org/stm/africa/ethiopia-eritrea/arresting-dangerous-descent-back-war-northern-ethiopia"}
+
+  - id: "ethiopie-article-47-sidama"
+    atlas_uid: "sidama-ethiopie"
+    communaute: "Sidama ; peuples du Sud-Ouest et du Sud éthiopien"
+    etats: ["Éthiopie"]
+    entite: "Région Sidama (2020), Région du Sud-Ouest (2021), Région d'Éthiopie du Sud (2023)"
+    mecanisme: "secession_constitutionnelle"
+    annee: 2019
+    concept_local: ""
+    resume: >-
+      L'article 47 (3) applique à la création d'un nouvel État membre la même architecture que l'article 39 : vote du conseil de la nation aux deux tiers, référendum organisé dans l'année par le conseil de l'État régional, approbation à la majorité. Le conseil de la zone Sidama a demandé la création d'un État le 18 juillet 2018 ; le référendum, organisé par la Commission électorale nationale, a eu lieu le 20 novembre 2019, plus d'un an après la demande, avec plus de 98 % de votes favorables. Le 30 septembre 2021, cinq zones et un district à statut particulier ont voté pour former la Région du Sud-Ouest (1 262 679 votants sur 1 344 622 inscrits). Le 6 février 2023, six zones et cinq districts ont voté pour un État commun, l'Éthiopie du Sud ; le vote de la zone Wolayta, annulé, a été refait le 19 juin 2023.
+    gouvernance: "Conseil de la zone ou de la nation (demande), Commission électorale nationale (organisation), conseil de l'État régional d'origine ou Chambre de la Fédération (approbation)."
+    effectivite: "Exercé trois fois depuis 2019, pour l'autonomie interne et non pour la sécession. Les conseils des zones Wolayta, Gamo et d'autres avaient voté aux deux tiers pour un État propre à chacune ; les gouvernements régional et fédéral les ont conduits à demander un État commun (fiche Éthiopie du Sud). L'État d'Éthiopie centrale a été créé sans référendum, sur décision de la Chambre de la Fédération (fiche Éthiopie centrale)."
+    textes:
+      - {titre: "Constitution de la République fédérale démocratique d'Éthiopie, art. 47 (2) et (3)", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
+    sources:
+      - {titre: "Commission électorale nationale d'Éthiopie — Référendums", url: "https://nebe.org.et/en/referendum"}
+      - {titre: "Commission électorale nationale d'Éthiopie — South West Ethiopia People's Referendum", url: "https://nebe.org.et/en/node/657"}
+      - {titre: "Rift Valley Institute — Referendum in Ethiopia's Southern Region (2023)", url: "https://riftvalley.net/wp-content/uploads/2023/03/RVI-2023.03.21-Referendum-in-Ethiopias-Southern-Region.pdf"}
+      - {titre: "Tronvoll, Boroje, Tezera — The Sidama's quest for self-rule, European Institute of Peace (2020)", url: "https://eip.org/wp-content/uploads/2020/06/Sidamas-quest-for-self-rule.pdf"}
+
+  - id: "karakalpakstan"
+    atlas_uid: "karakalpaks-karakalpakstan"
+    communaute: "Karakalpaks et population de la République du Karakalpakstan"
+    etats: ["Ouzbékistan"]
+    entite: "République du Karakalpakstan"
+    mecanisme: "secession_constitutionnelle"
+    annee: 1992
+    concept_local: "Jokargy Kenes"
+    resume: >-
+      La Constitution ouzbèke de 1992 (art. 74), puis celle de 2023 (art. 89), reconnaît au Karakalpakstan le droit de faire sécession de l'Ouzbékistan « sur la base d'un référendum général de son peuple ». Le texte ne fixe ni majorité ni délai ; les litiges entre les deux républiques se règlent par voie diplomatique (art. 90). Les frontières du Karakalpakstan ne peuvent être modifiées sans son consentement. En juillet 2022, un projet de révision supprimait la souveraineté de la république et ce droit ; le projet a été retiré après les manifestations de Noukous.
+    gouvernance: "Peuple du Karakalpakstan par référendum ; ni l'organe qui convoque le vote ni la majorité ne sont précisés dans la Constitution ouzbèke."
+    effectivite: "Jamais exercé. Les manifestations de juillet 2022 ont fait 18 morts selon le parquet cité par la Haute-Commissaire aux droits de l'homme, au moins 21 selon Human Rights Watch, qui relève en 2024 des condamnations sans enquête indépendante."
+    textes:
+      - {titre: "Constitution de la République d'Ouzbékistan, art. 85 à 90", nature: "constitution", annee: 2023, source: "https://www.constituteproject.org/constitution/Uzbekistan_2023"}
+      - {titre: "Constitution de la République d'Ouzbékistan (1992, révision 2011), art. 74", nature: "constitution", annee: 1992, source: "https://www.constituteproject.org/constitution/Uzbekistan_2011"}
+    sources:
+      - {titre: "HCDH — Bachelet calls for urgent probe into deadly protest in Uzbek city of Nukus (5 juillet 2022)", url: "https://www.ohchr.org/en/press-releases/2022/07/bachelet-calls-urgent-probe-deadly-protest-uzbek-city-nukus"}
+      - {titre: "Human Rights Watch — Uzbekistan: 2 Years on, No Justice in Autonomous Republic (2024)", url: "https://www.hrw.org/news/2024/07/01/uzbekistan-2-years-no-justice-autonomous-republic"}
+      - {titre: "Foreign Policy Centre — The curious case of the Republic of Karakalpakstan (2020)", url: "https://fpc.org.uk/the-curious-case-of-the-republic-of-karakalpakstan/"}
+
+  - id: "nevis"
+    atlas_uid: "nevis-saint-kitts"
+    communaute: "Habitants de l'île de Nevis"
+    etats: ["Saint-Christophe-et-Niévès"]
+    entite: "Île de Nevis"
+    mecanisme: "secession_constitutionnelle"
+    annee: 1983
+    concept_local: ""
+    resume: >-
+      L'article 113 de la Constitution de 1983 permet à l'Assemblée de l'île de Nevis de mettre fin à l'appartenance de l'île à la fédération. La loi doit être votée par les deux tiers des élus de l'Assemblée, puis approuvée à Nevis par référendum aux deux tiers des suffrages exprimés, après publication d'un projet détaillé de constitution future (art. 113 et 115, annexe 3). Un projet de loi de sécession a été voté en deuxième lecture le 7 juillet 1998 par six voix contre deux. Au référendum du 10 août 1998, 2 427 votants ont dit oui et 1 498 non, soit 61,8 % des suffrages valables.
+    gouvernance: "Assemblée de l'île de Nevis (deux tiers des élus), puis électeurs de Nevis (deux tiers des suffrages exprimés), enfin assentiment du gouverneur général ; aucun vote du Parlement fédéral n'est requis par l'article 113."
+    effectivite: "Exercé une fois, en 1998 ; seuil des deux tiers non atteint. Aucun nouveau projet trouvé depuis ; l'île garde sa législature et son administration propres (Freedom House, 2023)."
+    textes:
+      - {titre: "Constitution de Saint-Christophe-et-Niévès, art. 113 et 115, annexe 3", nature: "constitution", annee: 1983, source: "https://www.gov.kn/wp-content/uploads/2020/07/constitution-of-st-kitts-and-nevis.pdf"}
+    sources:
+      - {titre: "Political Database of the Americas — St. Kitts and Nevis: 1998 Referendum", url: "https://pdba.georgetown.edu/Elecdata/Kitts/ref1998.html"}
+      - {titre: "Database and Search Engine for Direct Democracy — Nevis, 10 août 1998", url: "https://www.sudd.ch/event.php?lang=en&id=kn011998"}
+      - {titre: "Freedom House — St. Kitts and Nevis, Freedom in the World 2023", url: "https://freedomhouse.org/country/st-kitts-and-nevis/freedom-world/2023"}
+
+  - id: "liechtenstein-communes"
+    atlas_uid: "communes-liechtenstein-droit-de-sortie"
+    communaute: "Citoyens des onze communes du Liechtenstein"
+    etats: ["Liechtenstein"]
+    entite: "Chacune des onze communes politiques (Gemeinden)"
+    mecanisme: "secession_constitutionnelle"
+    annee: 2003
+    concept_local: "aus dem Staatsverband austreten"
+    resume: >-
+      Depuis la révision constitutionnelle de 2003, l'article 4 al. 2 donne à chaque commune le droit de sortir de l'union de l'État. La majorité des citoyens liechtensteinois ayant le droit de vote et résidant dans la commune décide d'ouvrir la procédure. La sortie est ensuite réglée par une loi ou par un traité international ; dans le cas d'un traité, un second vote a lieu dans la commune après la négociation. La loi ou le traité suit la procédure ordinaire : il peut être soumis au référendum facultatif (vote national demandé par pétition, art. 66) et requiert l'accord du prince (sanction de la loi ou conclusion du traité).
+    gouvernance: "Citoyens de la commune (majorité, pour ouvrir la procédure, puis pour approuver un traité) ; Diète (Parlement), corps électoral national en cas de référendum facultatif, et prince pour la loi ou le traité de sortie."
+    effectivite: "Aucune procédure ouverte depuis 2003 selon les sources consultées ; le commentaire de la Constitution (état 2015) relève que l'État ne peut être contraint d'y consentir et que la commune ne peut imposer sa sortie."
+    textes:
+      - {titre: "Constitution de la principauté de Liechtenstein, art. 4 al. 2 (révision LGBl. 2003 n° 186)", nature: "constitution", annee: 2003, source: "https://www.gesetze.li/konso/pdf/1921.015"}
+    sources:
+      - {titre: "P. Bussjäger, Art. 4 LV, commentaire en ligne de la Constitution — Liechtenstein-Institut", url: "https://verfassung.li/Art._4"}
+      - {titre: "Verfassung des Fürstentums Liechtenstein, version consolidée — gesetze.li", url: "https://www.gesetze.li/konso/pdf/1921.015"}
+
+  - id: "gagaouzie"
+    atlas_uid: "gagaouzes-gagaouzie"
+    communaute: "Peuple de Gagaouzie"
+    etats: ["Moldavie"]
+    entite: "Unité territoriale autonome de Gagaouzie (Gagauz Yeri)"
+    mecanisme: "secession_constitutionnelle"
+    annee: 1994
+    concept_local: "Gagauz Yeri"
+    resume: >-
+      La loi du 23 décembre 1994 sur le statut juridique spécial de la Gagaouzie dispose que, si la Moldavie perd son statut d'État indépendant, le peuple de Gagaouzie a droit à l'autodétermination externe (art. 1, al. 4). Le droit ne s'ouvre donc que sur un événement extérieur à la Gagaouzie ; la loi ne fixe ni corps électoral, ni majorité, ni procédure. L'article 111 de la Constitution moldave définit la Gagaouzie comme une forme d'autodétermination du peuple gagaouze au sein de la Moldavie.
+    gouvernance: "Non précisée par la loi : le texte désigne « le peuple de Gagaouzie » sans organe ni procédure."
+    effectivite: "Jamais exercé ; la condition ne s'est pas réalisée. Le mandat de l'Assemblée populaire a expiré le 12 novembre 2025 sans élections et le ministère de la Justice a saisi la Cour constitutionnelle de plusieurs compétences en mars 2026 (ADEPT, note soutenue par le PNUD)."
+    textes:
+      - {titre: "Loi n° 344-XIII du 23 décembre 1994 sur le statut juridique spécial de la Gagaouzie, art. 1", nature: "statut_autonomie", annee: 1994, source: "http://www.e-democracy.md/files/elections/law-special-legal-status-gagauzia-23-12-1994-en.pdf"}
+      - {titre: "Constitution de la République de Moldavie, art. 111", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Moldova_2024"}
+    sources:
+      - {titre: "ADEPT, projet PNUD Moldavie — Developments of the institutional crisis in the Găgăuzia region (2026)", url: "https://www.undp.org/sites/g/files/zskgke326/files/2026-04/adept-developments_of_the_institutional_crisis_in_gagauzia_region.pdf"}
+      - {titre: "Alber et Cuijuclu — The Autonomy of Gagauzia and its Uneasy Centre-Autonomy Relations, IACL-AIDC Blog (2023)", url: "https://blog-iacl-aidc.org/territorial-autonomy/2023/10/3/the-autonomy-of-gagauzia-and-its-uneasy-centre-autonomy-relations"}
+
+  - id: "groenland"
+    atlas_uid: "kalaallit-groenland"
+    communaute: "Peuple du Groenland"
+    etats: ["Danemark"]
+    entite: "Groenland (Kalaallit Nunaat)"
+    mecanisme: "sortie_par_accord"
+    annee: 2009
+    concept_local: "Inatsisartut"
+    resume: >-
+      Le préambule de la loi de 2009 sur l'autonomie reconnaît le peuple du Groenland comme un peuple au sens du droit international. L'article 21 dispose que la décision sur l'indépendance appartient à ce peuple. Si elle est prise, des négociations s'ouvrent entre les gouvernements danois et groenlandais ; l'accord conclu doit être approuvé par l'Inatsisartut (Parlement du Groenland), par référendum au Groenland, puis par le Folketing (Parlement danois). La loi ne fixe pas de majorité qualifiée.
+    gouvernance: "Inatsisartut et électeurs du Groenland, puis Folketing ; le gouvernement danois négocie avec le Naalakkersuisut (gouvernement du Groenland)."
+    effectivite: "Jamais exercé. Un projet de constitution a été présenté au Parlement du Groenland en avril 2023 ; le Rapporteur spécial (2023) relève la dépendance financière envers le Danemark."
+    textes:
+      - {titre: "Loi n° 473 du 12 juin 2009 sur l'autonomie du Groenland, préambule et art. 21", nature: "statut_autonomie", annee: 2009, source: "https://english.stm.dk/media/4vgewyoh/gl-selvstyrelov-uk.pdf"}
+    sources:
+      - {titre: "Act on Greenland Self-Government (2009), traduction — Statsministeriet", url: "https://english.stm.dk/media/4vgewyoh/gl-selvstyrelov-uk.pdf"}
+      - {titre: "A/HRC/54/31/Add.1, visite au Danemark et au Groenland — HCDH", url: "https://www.ohchr.org/en/documents/country-reports/ahrc5431add1-visit-denmark-and-greenland-report-special-rapporteur-rights"}
+      - {titre: "IWGIA — The Indigenous World 2024: Kalaallit Nunaat", url: "https://www.iwgia.org/en/kalaallit-nunaat-greenland/5393-iw-2024-kalaallit-nunaat.html"}
+
+  - id: "aruba"
+    atlas_uid: "aruba"
+    communaute: "Électeurs d'Aruba"
+    etats: ["Pays-Bas (Royaume)"]
+    entite: "Aruba, pays du Royaume des Pays-Bas"
+    mecanisme: "secession_constitutionnelle"
+    annee: 1995
+    concept_local: "landsverordening"
+    resume: >-
+      Les articles 58 à 60 du Statut du Royaume (charte constitutionnelle commune aux pays du Royaume), en vigueur depuis 1995, organisent la sortie d'Aruba. Le Parlement d'Aruba (Staten) vote aux deux tiers des membres en fonction une ordonnance nationale (landsverordening) déclarant vouloir mettre fin à l'ordre juridique du Statut, accompagnée d'une esquisse de constitution future. Un référendum a lieu dans les six mois ; l'ordonnance n'est adoptée que si une majorité des électeurs inscrits, et non des seuls votants, l'approuve. Les Staten adoptent ensuite la constitution aux deux tiers, et un décret royal fixe, conformément à l'avis du gouvernement d'Aruba, la date de fin du lien, au plus un mois après. Aucune approbation par le Parlement des Pays-Bas ou par le gouvernement du Royaume n'est prévue.
+    gouvernance: "Staten d'Aruba (deux tiers, deux fois), électeurs inscrits d'Aruba (majorité absolue des inscrits) ; le Royaume fixe la date par décret royal conformément à l'avis du gouvernement d'Aruba (art. 60)."
+    effectivite: "Jamais exercé. La loi de 1994 entrée en vigueur en 1995 a abrogé l'ancien article 62, qui prévoyait l'indépendance d'Aruba en 1996 ; Aruba reste pays du Royaume pour une durée indéterminée."
+    textes:
+      - {titre: "Statuut voor het Koninkrijk der Nederlanden, art. 58 à 60 (rédaction de 1995)", nature: "loi_organique", annee: 1995, source: "https://wetten.overheid.nl/jci1.3:c:BWBR0002154"}
+    sources:
+      - {titre: "Statuut voor het Koninkrijk der Nederlanden, XML au 1er janvier 2024 — officiële overheidspublicaties", url: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0002154/2024-01-01_0/xml/BWBR0002154_2024-01-01_0.xml"}
+      - {titre: "Het Statuut — Parlamento di Aruba", url: "https://www.parlamento.aw/het-statuut"}
+
+  - id: "irlande-du-nord"
+    atlas_uid: "irlande-du-nord"
+    communaute: "Population de l'Irlande du Nord"
+    etats: ["Royaume-Uni", "Irlande"]
+    entite: "Irlande du Nord"
+    mecanisme: "sortie_par_accord"
+    annee: 1998
+    concept_local: "border poll"
+    resume: >-
+      L'accord de Belfast du 10 avril 1998 reconnaît au peuple de l'île d'Irlande seul le droit d'exercer son autodétermination, par accord entre ses deux parties, avec un consentement donné librement et en même temps au Nord et au Sud. La section 1 du Northern Ireland Act 1998 dispose que l'Irlande du Nord ne cesse d'appartenir au Royaume-Uni que par le vote d'une majorité de sa population lors d'un référendum. Le secrétaire d'État doit l'organiser s'il lui paraît probable qu'une majorité choisirait une Irlande unie ; aucun nouveau vote n'est possible avant sept ans (annexe 1). Si la majorité choisit une Irlande unie, le gouvernement soumet au Parlement les propositions convenues avec l'Irlande.
+    gouvernance: "Électeurs d'Irlande du Nord (majorité simple) ; déclenchement par le secrétaire d'État pour l'Irlande du Nord ; mise en œuvre par les Parlements britannique et irlandais."
+    effectivite: "Aucun référendum organisé au titre de l'annexe 1. L'Assemblée et l'exécutif n'ont pas fonctionné pleinement de février 2022 au 3 février 2024 (bibliothèque de la Chambre des communes)."
+    textes:
+      - {titre: "Accord de Belfast et accord britannico-irlandais du 10 avril 1998", nature: "accord_paix", annee: 1998, source: "https://avalon.law.yale.edu/20th_century/good_friday.asp"}
+      - {titre: "Northern Ireland Act 1998, s. 1 et annexe 1", nature: "loi", annee: 1998, source: "https://www.legislation.gov.uk/ukpga/1998/47/schedule/1"}
+    sources:
+      - {titre: "Northern Ireland Act 1998, section 1 — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukpga/1998/47/section/1"}
+      - {titre: "The Good Friday Agreement — Avalon Project, Yale Law School", url: "https://avalon.law.yale.edu/20th_century/good_friday.asp"}
+      - {titre: "House of Commons Library — Northern Ireland devolution: Safeguarding the Union", url: "https://commonslibrary.parliament.uk/research-briefings/cbp-9954/"}
+
+  - id: "nouvelle-caledonie"
+    atlas_uid: "kanak-nouvelle-caledonie"
+    communaute: "Kanak et populations intéressées de Nouvelle-Calédonie"
+    etats: ["France"]
+    entite: "Nouvelle-Calédonie"
+    mecanisme: "consultation_accord_paix"
+    annee: 1998
+    concept_local: "Kanaky"
+    resume: >-
+      L'accord de Nouméa de 1998, constitutionnalisé par l'article 77 de la Constitution, et la loi organique de 1999 (art. 216 à 218) prévoient une consultation sur l'accession à la pleine souveraineté. Seuls votent les électeurs inscrits sur une liste électorale spéciale, définie par des conditions de durée de résidence, de statut civil coutumier (régime de droit civil régi par la coutume kanak) ou de naissance. La majorité des suffrages exprimés décide ; en cas de refus, une deuxième puis une troisième consultation peuvent être organisées à la demande d'un tiers des membres du Congrès. Les trois consultations ont donné : non 56,7 % en 2018 (participation 81,0 %), non 53,3 % en 2020 (participation 85,7 %), non 96,5 % en 2021, scrutin que les mouvements indépendantistes avaient appelé à ne pas suivre (participation 43,9 %).
+    gouvernance: "Électeurs de la liste spéciale pour la consultation (majorité des suffrages exprimés) ; consultation organisée par l'État ; deuxième et troisième consultations à la demande d'un tiers du Congrès."
+    effectivite: "Exercé trois fois, avec un refus à chaque scrutin. L'Assemblée générale relève les préoccupations exprimées sur le résultat de 2021 (résolution 79/107). Le projet de loi constitutionnelle traduisant l'accord de Bougival (2025) a été rejeté par l'Assemblée nationale le 2 avril 2026 ; la suite du processus n'est pas fixée."
+    textes:
+      - {titre: "Accord sur la Nouvelle-Calédonie signé à Nouméa le 5 mai 1998", nature: "accord_paix", annee: 1998, source: "https://peacemaker.un.org/sites/default/files/document/files/2024/05/accord20sur20la20nouvelle-calc3a9donie20signc3a920c3a020noumc3a9a20le20520mai201998.pdf"}
+      - {titre: "Loi organique n° 99-209 du 19 mars 1999, art. 216 à 218", nature: "loi_organique", annee: 1999, source: "https://dass.gouv.nc/sites/default/files/atoms/files/loi_organique_modifiee_99-209_du_19_mars_1999-nc.pdf"}
+    sources:
+      - {titre: "Résolution 79/107 « Question de la Nouvelle-Calédonie » (2024)", url: "https://documents.un.org/api/symbol/access?s=A/RES/79/107&l=fr&t=pdf"}
+      - {titre: "Assemblée nationale — Réponse à la question écrite n° 15887 (résultats de 2018)", url: "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE15887.pdf"}
+      - {titre: "Maison de la Nouvelle-Calédonie — Référendum 2020 : résultats officiels", url: "https://www.mncparis.fr/actualites/archives/2020/referendum-2020-resultats-officiels"}
+      - {titre: "Public Sénat — Le non à l'indépendance l'emporte (12 décembre 2021), participation de 2021", url: "https://www.publicsenat.fr/actualites/non-classe/referendum-en-nouvelle-caledonie-le-non-a-l-independance-l-emporte-a-191563"}
+      - {titre: "Assemblée nationale — Réponse à la question écrite n° 40773 (résultats définitifs de 2021)", url: "https://www.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE40773.pdf"}
+      - {titre: "Localtis — Les députés rejettent le projet de réforme constitutionnelle (3 avril 2026)", url: "https://www.banquedesterritoires.fr/les-deputes-rejettent-le-projet-de-reforme-constitutionnelle-de-la-nouvelle-caledonie"}
+
+  - id: "bougainville"
+    atlas_uid: "bougainville"
+    communaute: "Peuple de Bougainville"
+    etats: ["Papouasie-Nouvelle-Guinée"]
+    entite: "Région autonome de Bougainville"
+    mecanisme: "consultation_accord_paix"
+    annee: 2001
+    concept_local: ""
+    resume: >-
+      L'accord de paix de Bougainville, signé à Arawa le 30 août 2001, est mis en œuvre par la partie XIV de la Constitution nationale. Elle prévoit un référendum sur le statut politique futur, indépendance comprise (art. 338 et 339), et soumet le résultat à des consultations entre les deux gouvernements puis au Parlement national, qui a le dernier mot (art. 342). Le texte ne fixe pas de majorité qualifiée et le résultat ne lie pas le Parlement. Au référendum de fin 2019, 207 213 électeurs étaient inscrits ; 176 928 ont choisi l'indépendance (97,7 %) et 3 043 une autonomie renforcée, sur 181 067 votants (participation 87,4 %).
+    gouvernance: "Électeurs inscrits sur la liste du référendum ; commission du référendum ; consultations entre gouvernements ; ratification ou rejet par le Parlement national."
+    effectivite: "Exercé en 2019 ; résultat non encore ratifié. Il a été déposé au Parlement national le 27 août 2026 ; le gouvernement annonce une réunion en octobre 2026 pour fixer la date du vote (RNZ)."
+    textes:
+      - {titre: "Accord de paix de Bougainville, Arawa, 30 août 2001 (déclaration du président du Conseil de sécurité, SC/7238)", nature: "accord_paix", annee: 2001, source: "https://press.un.org/en/2001/sc7238.doc.htm"}
+      - {titre: "Constitution de Papouasie-Nouvelle-Guinée, partie XIV, art. 338 à 342", nature: "constitution", annee: 2002, source: "https://www.constituteproject.org/constitution/Papua_New_Guinea_2016?lang=en"}
+    sources:
+      - {titre: "Commission du référendum de Bougainville — Voter Information (archive)", url: "https://bougainville-referendum.org/voter-information/index.html"}
+      - {titre: "ABC News — Bougainville votes overwhelmingly for independence (11 décembre 2019)", url: "https://www.abc.net.au/news/2019-12-11/bougainville-independence-referendum-result/11787434"}
+      - {titre: "RNZ — PNG parliament decision on Bougainville still months off at least (28 août 2026)", url: "https://www.rnz.co.nz/news/pacific/1157863/png-parliament-decision-on-bougainville-still-months-off-at-least"}
+
+  - id: "abyei"
+    atlas_uid: "ngok-dinka-abyei"
+    communaute: "Ngok Dinka et autres résidents de la zone d'Abyei"
+    etats: ["Soudan", "Soudan du Sud"]
+    entite: "Zone d'Abyei"
+    mecanisme: "consultation_accord_paix"
+    annee: 2004
+    concept_local: ""
+    resume: >-
+      Le Protocole d'Abyei du 26 mai 2004, intégré à l'Accord de paix global de 2005, prévoit un vote séparé, simultané au référendum du Sud-Soudan, entre deux choix : garder un statut administratif spécial au Nord ou rejoindre le Bahr el-Ghazal (sections 1.3 et 8). Les résidents appelés à voter sont « les membres de la communauté ngok dinka et les autres Soudanais résidant dans la zone » ; les critères de résidence devaient être fixés par une commission du référendum (section 6.1). La Constitution de transition du Soudan du Sud reprend ce référendum (art. 97).
+    gouvernance: "Commission du référendum d'Abyei, jamais constituée ; la résolution 2802 (2025) relève trois administrations dans la zone : celle mise en place par le Soudan du Sud, celle mise en place par le Soudan et l'administration misseriya à Moughlad."
+    effectivite: "Jamais organisé : le vote prévu en janvier 2011 n'a pas eu lieu. La résolution 2802 (2025) du Conseil de sécurité insiste pour que le statut futur soit déterminé par la négociation entre les parties. Un vote non officiel de 2013 est signalé par la fiche de l'atlas, sans source primaire."
+    textes:
+      - {titre: "Protocole sur la résolution du conflit d'Abyei, 26 mai 2004, sections 1.3, 6.1 et 8", nature: "accord_paix", annee: 2004, source: "https://www.peaceagreements.org/media/documents/ag583_55dc1c528ce29.pdf"}
+      - {titre: "Constitution de transition du Soudan du Sud, art. 97", nature: "constitution", annee: 2011, source: "https://www.constituteproject.org/constitution/South_Sudan_2013"}
+    sources:
+      - {titre: "PA-X, Université d'Édimbourg — Protocole d'Abyei (2004)", url: "https://www.peaceagreements.org/media/documents/ag583_55dc1c528ce29.pdf"}
+      - {titre: "Conseil de sécurité, résolution 2802 (2025)", url: "https://documents.un.org/api/symbol/access?s=S/RES/2802(2025)&l=fr&t=pdf"}
+
+  - id: "sahara-occidental"
+    atlas_uid: "sahraouis-sahara-occidental"
+    communaute: "Peuple du Sahara occidental"
+    etats: ["Maroc"]
+    entite: "Sahara occidental, territoire non autonome"
+    mecanisme: "consultation_accord_paix"
+    annee: 1988
+    concept_local: ""
+    resume: >-
+      Le Sahara occidental figure depuis 1963 sur la liste des territoires non autonomes (territoires dont la population ne s'administre pas encore pleinement elle-même, suivis par l'ONU). Le plan de règlement accepté par le Maroc et le Front POLISARIO le 30 août 1988, approuvé par les résolutions 658 (1990) et 690 (1991) du Conseil de sécurité, prévoit un référendum entre l'indépendance et l'intégration au Maroc. La résolution 690 crée la Mission des Nations unies pour l'organisation d'un référendum au Sahara occidental (MINURSO). Le texte relève du droit international ; aucune disposition marocaine ne prévoit ce référendum.
+    gouvernance: "Organisation confiée à l'ONU par le plan de règlement ; corps électoral à établir par la MINURSO."
+    effectivite: "Jamais organisé. Les hostilités ont repris en 2020. La résolution 2797 (2025) fonde les négociations sur le plan d'autonomie marocain de 2007 tout en demandant une solution qui « assure l'autodétermination du peuple du Sahara occidental »."
+    textes:
+      - {titre: "Conseil de sécurité, résolution 690 (1991)", nature: "traite", annee: 1991, source: "https://docs.un.org/fr/S/RES/690(1991)"}
+    sources:
+      - {titre: "Conseil de sécurité, résolution 2797 (2025)", url: "https://docs.un.org/fr/S/RES/2797(2025)"}
+      - {titre: "Sahara occidental — Document de travail du Secrétariat, A/AC.109/2026/17", url: "https://docs.un.org/fr/A/AC.109/2026/17"}
+      - {titre: "Human Rights Watch — ONU : le droit à l'autodétermination des habitants du Sahara occidental est menacé (2026)", url: "https://www.hrw.org/fr/news/2026/03/25/onu-le-droit-a-lautodetermination-des-habitants-du-sahara-occidental-est-menace"}
+
+  - id: "cachemire-azad"
+    atlas_uid: "azad-jammu-et-cachemire"
+    communaute: "Population de l'ancien État de Jammu-et-Cachemire (partie administrée par le Pakistan)"
+    etats: ["Pakistan"]
+    entite: "Azad Jammu-et-Cachemire (et Gilgit-Baltistan)"
+    mecanisme: "consultation_accord_paix"
+    annee: 1948
+    concept_local: ""
+    resume: >-
+      Les résolutions de la Commission des Nations unies pour l'Inde et le Pakistan (UNCIP) de 1948 et 1949 prévoient un plébiscite (vote de la population sur le rattachement) pour décider du statut de l'ensemble de l'État de Jammu-et-Cachemire. La Constitution intérimaire de l'Azad Jammu-et-Cachemire de 1974 y renvoie dans son préambule et permet au Président de nommer un conseiller pour le plébiscite (art. 11). La même Constitution interdit d'agir contre « l'idéologie de l'adhésion de l'État au Pakistan » (art. 4, droit fondamental 7 (3)). Au Gilgit-Baltistan, l'ordre de 2018 réserve la position du Pakistan sur l'autodétermination « conformément aux résolutions des Nations unies » (art. 115).
+    gouvernance: "Plébiscite sous l'égide de l'ONU, jamais organisé ; l'article 257 de la Constitution du Pakistan prévoit que, si le peuple de l'État choisit l'adhésion, la relation sera fixée selon sa volonté."
+    effectivite: "Jamais organisé depuis 1948. Le HCDH (2018) écrit que le territoire est contrôlé dans les faits par le gouvernement du Pakistan ; le choix offert par la Constitution intérimaire se limite à l'adhésion au Pakistan."
+    textes:
+      - {titre: "Azad Jammu and Kashmir Interim Constitution 1974, préambule, art. 4 et 11", nature: "constitution", annee: 1974, source: "https://ajkassembly.gok.pk/wp-content/uploads/2019/10/AJK-Interim-Constitution-1974-with-13th-Amendment.pdf"}
+      - {titre: "Government of Gilgit-Baltistan Order 2018, art. 115", nature: "statut_autonomie", annee: 2018, source: "https://gilgitbaltistan.gov.pk/storage/downloads/GB%20Order%202018.pdf"}
+    sources:
+      - {titre: "UNCIP — premier rapport intérimaire (S/1100, 1948)", url: "https://documents.un.org/api/symbol/access?s=S/1100&l=en&t=pdf"}
+      - {titre: "Conseil de sécurité, résolution 91 (1951)", url: "https://docs.un.org/en/S/RES/91(1951)"}
+      - {titre: "HCDH — Report on the Situation of Human Rights in Kashmir (juin 2018)", url: "https://www.ohchr.org/Documents/Countries/IN/DevelopmentsInKashmirJune2016ToApril2018.pdf"}
+      - {titre: "Constitution du Pakistan, partie XII, chapitre 4 (art. 257)", url: "https://www.pakistani.org/pakistan/constitution/part12.ch4.html"}
+
+  - id: "iles-cook"
+    atlas_uid: "iles-cook"
+    communaute: "Peuple des Îles Cook"
+    etats: ["Nouvelle-Zélande (libre association)"]
+    entite: "Îles Cook"
+    mecanisme: "acte_onu"
+    annee: 1965
+    concept_local: ""
+    resume: >-
+      En 1965, des élections surveillées par un représentant de l'ONU ont porté au pouvoir une assemblée qui a adopté le statut d'autonomie en libre association avec la Nouvelle-Zélande ; l'Assemblée générale en prend acte par la résolution 2064 (XX). La Nouvelle-Zélande garde des responsabilités pour les affaires extérieures et la défense, exercées après consultation du Premier ministre des Îles Cook. La déclaration néo-zélandaise de 1988 qualifie les Îles Cook d'« État autonome en libre association volontaire » issu d'un acte d'autodétermination conforme à la résolution 1541 (XV). Le vote a porté sur le choix d'un statut, non sur une procédure de sortie future.
+    gouvernance: "Électeurs des Îles Cook en 1965 ; depuis, gouvernement et Parlement des Îles Cook, la Nouvelle-Zélande gardant les affaires extérieures et la défense, exercées après consultation du Premier ministre des Îles Cook."
+    effectivite: "Exercé en 1965 ; statut en vigueur. Les habitants conservent la citoyenneté néo-zélandaise. Aucune évaluation indépendante consultée sur les relations de 2025-2026."
+    textes:
+      - {titre: "Constitution of the Cook Islands, version consolidée au 13 juin 2022", nature: "constitution", annee: 1965, source: "https://parliamentci.wpenginepowered.com/wp-content/uploads/2022/07/CONSTITUTION-OF-THE-COOK-ISLANDS-JUNE-2022.pdf"}
+    sources:
+      - {titre: "Résolution 2064 (XX) de l'Assemblée générale (1965)", url: "https://documents.un.org/api/symbol/access?s=A/RES/2064%28XX%29&l=fr&t=pdf"}
+      - {titre: "Parlement des Îles Cook — page Constitution", url: "https://parliament.gov.ck/mandates/constitution-2/"}
+
+  - id: "niue"
+    atlas_uid: "niue"
+    communaute: "Peuple de Niue"
+    etats: ["Nouvelle-Zélande (libre association)"]
+    entite: "Niue"
+    mecanisme: "acte_onu"
+    annee: 1974
+    concept_local: ""
+    resume: >-
+      En 1974, le peuple de Niue a voté par référendum pour l'autonomie en libre association avec la Nouvelle-Zélande ; une mission spéciale de l'ONU, envoyée à Niue en août 1974, a observé la procédure. L'Assemblée générale en prend acte par la résolution 3285 (XXIX) et juge que la communication de renseignements au titre de l'article 73 e de la Charte (obligation de rendre compte d'un territoire non autonome) n'est plus nécessaire. Le statut est en vigueur depuis le 19 octobre 1974. L'Assemblée de Niue peut modifier la Constitution (art. 35).
+    gouvernance: "Électeurs de Niue en 1974 ; Assemblée de Niue (20 membres, dont 14 élus par les villages) pour la révision constitutionnelle."
+    effectivite: "Exercé en 1974 ; statut en vigueur. La Nouvelle-Zélande s'est engagée à continuer son assistance économique et administrative (résolution 3285 (XXIX), par. 7)."
+    textes:
+      - {titre: "Niue Constitution Act 1974 et Constitution of Niue, édition 2019", nature: "constitution", annee: 1974, source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
+    sources:
+      - {titre: "Résolution 3285 (XXIX) de l'Assemblée générale (1974)", url: "https://documents.un.org/api/symbol/access?s=A/RES/3285%28XXIX%29&l=fr&t=pdf"}
+      - {titre: "Gouvernement de Niue — Our History", url: "https://www.gov.nu/our-history"}
+
+  - id: "mariannes-du-nord"
+    atlas_uid: "mariannes-du-nord"
+    communaute: "Chamorros et Caroliniens des Mariannes du Nord"
+    etats: ["États-Unis"]
+    entite: "Commonwealth des Îles Mariannes du Nord"
+    mecanisme: "acte_onu"
+    annee: 1976
+    concept_local: ""
+    resume: >-
+      Les Mariannes du Nord faisaient partie du Territoire sous tutelle des îles du Pacifique (territoire confié par l'ONU à un État chargé de l'administrer), administré par les États-Unis depuis 1947. Leurs populations ont approuvé par plébiscite, observé par une mission de visite du Conseil de tutelle, le Pacte (Covenant) qui établit un Commonwealth (territoire des États-Unis doté d'une constitution propre) en union politique avec les États-Unis, en vigueur depuis 1976. En 1990, la résolution 683 du Conseil de sécurité constate qu'elles ont ainsi exercé leur droit à l'autodétermination et que l'accord de tutelle cesse de s'appliquer. Ni le Pacte ni la Constitution du Commonwealth consultée ne prévoient de nouveau vote sur le statut.
+    gouvernance: "Populations des Mariannes du Nord par plébiscite ; Conseil de tutelle puis Conseil de sécurité pour la fin de la tutelle."
+    effectivite: "Exercé une fois ; statut en vigueur. La fiche ne retient pas de droit actuel d'autodétermination externe faute de texte ; en 2016, la justice fédérale a invalidé le vote réservé aux personnes d'ascendance nord-mariannaise sur l'article XII (Davis v. Commonwealth Election Commission)."
+    textes:
+      - {titre: "Conseil de sécurité, résolution 683 (1990)", nature: "traite", annee: 1990, source: "https://documents.un.org/api/symbol/access?s=S/RES/683(1990)&l=fr&t=pdf"}
+      - {titre: "Constitution du Commonwealth des Îles Mariannes du Nord", nature: "constitution", annee: 1978, source: "https://cnmilaw.org/cons.php"}
+    sources:
+      - {titre: "Conseil de sécurité — Résolution 683 (1990)", url: "https://documents.un.org/api/symbol/access?s=S/RES/683(1990)&l=fr&t=pdf"}
+      - {titre: "Davis v. Commonwealth Election Commission, 9e circuit (2016)", url: "https://cdn.ca9.uscourts.gov/datastore/opinions/2016/12/27/14-16090.pdf"}
+
+  - id: "tokelaou"
+    atlas_uid: "tokelau"
+    communaute: "Peuple des Tokélaou"
+    etats: ["Nouvelle-Zélande"]
+    entite: "Tokélaou, territoire non autonome"
+    mecanisme: "acte_onu"
+    annee: 2006
+    concept_local: ""
+    resume: >-
+      Le Fono général (assemblée des trois atolls) a organisé en février 2006 puis en octobre 2007 deux référendums d'autodétermination, sous supervision de l'ONU, sur un projet de constitution et de traité de libre association avec la Nouvelle-Zélande. Il avait lui-même fixé le seuil d'adoption aux deux tiers des suffrages. En 2006, environ 60 % des votants ont approuvé le projet ; en 2007, 446 votants sur 692, soit 64,4 %, seize voix de moins que le seuil. Les Tokélaou restent sur la liste des territoires non autonomes.
+    gouvernance: "Fono général (décision d'organiser le vote et seuil des deux tiers) ; électeurs des trois atolls ; supervision de l'ONU."
+    effectivite: "Exercé deux fois, seuil non atteint. Le Fono général a relancé le dialogue sur l'autodétermination le 23 mai 2022 (résolution 79/110)."
+    textes:
+      - {titre: "Tokelau Act 1948, réimpression au 20 septembre 2007", nature: "loi", annee: 1948, source: "https://faolex.fao.org/docs/pdf/tok151698.pdf"}
+    sources:
+      - {titre: "ONU Info — Tokelau narrowly rejects self-government option in UN-supervised ballot (octobre 2007)", url: "https://news.un.org/en/story/2007/10/237132"}
+      - {titre: "Résolution 79/110 « Question des Tokélaou » (2024)", url: "https://documents.un.org/api/symbol/access?s=A/RES/79/110&l=fr&t=pdf"}
+      - {titre: "A. H. Angelo — The Constitution of Tokelau, Victoria University of Wellington (2009)", url: "https://www.wgtn.ac.nz/law/research/publications/about-nzacl/publications/cljpjdcp-journals/volume-15,-2009/Tokelau.pdf"}
+
+  - id: "papouasie-occidentale"
+    atlas_uid: "papous-indonesie"
+    communaute: "Papous autochtones (Orang Asli Papua)"
+    etats: ["Indonésie"]
+    entite: "Provinces de Papouasie (ancienne Nouvelle-Guinée occidentale)"
+    mecanisme: "acte_onu"
+    annee: 1969
+    concept_local: ""
+    resume: >-
+      L'accord de New York du 15 août 1962 entre l'Indonésie et les Pays-Bas place la Nouvelle-Guinée occidentale sous administration temporaire de l'ONU (UNTEA), puis la transfère à l'Indonésie le 1er mai 1963, à charge d'organiser un « acte de libre choix ». En 1969, ce choix est exprimé par des conseils représentatifs de 1 026 membres, et non par un vote de toute la population ; l'Assemblée générale en prend acte par la résolution 2504 (XXIV). La loi 21/2001 sur l'autonomie spéciale, modifiée en 2021, ne prévoit pas de nouvelle consultation sur le statut.
+    gouvernance: "Conseils représentatifs de 1 026 membres en 1969 ; l'ONU a pris acte du résultat sans le qualifier."
+    effectivite: "Exercé une fois selon l'ONU ; le mode de désignation des votants reste discuté. La fiche ne retient pas de droit actuel d'autodétermination externe ; le Comité des droits de l'homme (2024) relève des cas de torture de Papous autochtones."
+    textes:
+      - {titre: "Accord de New York du 15 août 1962 (résolution 1752 (XVII))", nature: "traite", annee: 1962, source: "https://peacekeeping.un.org/sites/default/files/past/unsfbackgr.html"}
+      - {titre: "Loi 21/2001 sur l'autonomie spéciale de la Papouasie", nature: "statut_autonomie", annee: 2001, source: "https://jdih.kemenkeu.go.id/api/download/fulltext/2001/21TAHUN2001UU.htm"}
+    sources:
+      - {titre: "Nations unies — Nouvelle-Guinée occidentale (UNSF), historique", url: "https://peacekeeping.un.org/sites/default/files/past/unsfbackgr.html"}
+      - {titre: "Comité des droits de l'homme, CCPR/C/IDN/CO/2 (2024)", url: "https://docs.un.org/fr/CCPR/C/IDN/CO/2"}
+
+  - id: "iles-caimans"
+    atlas_uid: "iles-caimans"
+    communaute: "Caïmaniens"
+    etats: ["Royaume-Uni"]
+    entite: "Îles Caïmans, territoire non autonome"
+    mecanisme: "referendum_consultatif"
+    annee: 2009
+    concept_local: ""
+    resume: >-
+      La section 69 de la Constitution de 2009 permet d'organiser par une loi un référendum sur une question « d'importance nationale », sur résolution de la majorité des élus. La question de demander une modification de la Constitution pouvant conduire à l'indépendance est réputée d'importance nationale. La charte des droits de la Constitution s'ouvre sur l'affirmation que tous les peuples ont le droit de disposer d'eux-mêmes. Le texte ne dit pas que le résultat lie le Royaume-Uni.
+    gouvernance: "Parlement des Îles Caïmans (majorité des élus) ; électeurs ayant le statut de Caymanian ; décision finale du Royaume-Uni."
+    effectivite: "Aucun référendum sur l'indépendance trouvé. La résolution 79/103 (2024) réaffirme le droit du peuple à l'autodétermination."
+    textes:
+      - {titre: "The Cayman Islands Constitution Order 2009, annexe 2, s. 69", nature: "constitution", annee: 2009, source: "https://www.legislation.gov.uk/uksi/2009/1379/schedule/2/made"}
+    sources:
+      - {titre: "Comité spécial de la décolonisation — Îles Caïmans, A/AC.109/2025/5", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/5&l=en&t=pdf"}
+
+  - id: "turks-et-caicos"
+    atlas_uid: "turks-et-caicos"
+    communaute: "Turks-et-Caïquais"
+    etats: ["Royaume-Uni"]
+    entite: "Îles Turks-et-Caïcos, territoire non autonome"
+    mecanisme: "referendum_consultatif"
+    annee: 2024
+    concept_local: ""
+    resume: >-
+      L'ordonnance constitutionnelle de 2024 (art. 16) insère une section 62A : une loi locale peut organiser un référendum sur des « questions d'intérêt national », dont celle de demander une modification constitutionnelle pouvant mener à l'indépendance. Le résultat n'est pas contraignant (s. 62A, al. 5). La même ordonnance renomme la Chambre d'assemblée en Parlement et supprime les membres nommés à partir de la dissolution suivante (élections de février 2025). De 2009 à 2012, le Royaume-Uni avait suspendu le gouvernement élu et confié le pouvoir au gouverneur.
+    gouvernance: "Parlement (loi organisant le vote) ; électeurs ayant le statut de Turks and Caicos Islander ; décision finale du Royaume-Uni."
+    effectivite: "Aucun référendum sur l'indépendance trouvé depuis l'entrée en vigueur de la section 62A le 10 décembre 2024."
+    textes:
+      - {titre: "The Turks and Caicos Islands Constitution (Amendment) Order 2024, art. 16 (s. 62A)", nature: "constitution", annee: 2024, source: "https://www.legislation.gov.uk/uksi/2024/1128/contents/made"}
+    sources:
+      - {titre: "Peter Clegg — Constitutional Change in Turks and Caicos Islands, ConstitutionNet (2024)", url: "https://constitutionnet.org/news/voices/constitutional-change-turks-and-caicos-islands-territorial-particularities"}
+      - {titre: "Comité spécial de la décolonisation — Îles Turks-et-Caïcos, A/AC.109/2025/15", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/15&l=en&t=pdf"}
+
+  - id: "curacao"
+    atlas_uid: "curacao"
+    communaute: "Peuple de Curaçao"
+    etats: ["Pays-Bas (Royaume)"]
+    entite: "Curaçao, pays du Royaume des Pays-Bas"
+    mecanisme: "referendum_consultatif"
+    annee: 2010
+    concept_local: "landsverordening"
+    resume: >-
+      Le préambule de la Staatsregeling (constitution du pays) de 2010 déclare : « Le droit à l'autodétermination du peuple de Curaçao est absolu et inaliénable. Le peuple a le dernier mot dans l'exercice de ce droit sacré. » Aucun article de la Staatsregeling ni du Statut du Royaume ne fixe de procédure de sortie pour Curaçao ; les articles 58 à 60 du Statut ne visent qu'Aruba. Les Staten peuvent organiser un référendum consultatif par ordonnance (art. 60). Trois référendums ont porté sur le statut : en 1993 (maintien dans des Antilles néerlandaises restructurées), en 2005 (près de 68 % pour un statut de pays autonome) et en 2009 (52 % pour les accords sur ce statut).
+    gouvernance: "Staten de Curaçao (ordonnance organisant le vote) ; électeurs de Curaçao ; toute modification du statut passe par une loi du Royaume."
+    effectivite: "Exercé trois fois pour choisir un statut interne au Royaume ; l'indépendance n'a pas été retenue. Le budget reste soumis au Collège de surveillance financière institué par une loi du Royaume."
+    textes:
+      - {titre: "Staatsregeling van Curaçao (AB 2010, n° 86), préambule et art. 60", nature: "constitution", annee: 2010, source: "https://algemenerekenkamercuracao.cw/wp-content/uploads/2023/09/staatsregeling_curacao__ab_2010_no__86__1475286399.pdf"}
+    sources:
+      - {titre: "Université Laval — Curaçao, L'aménagement linguistique dans le monde", url: "https://www.axl.cefan.ulaval.ca/amsudant/Curacao.htm"}
+      - {titre: "Statuut voor het Koninkrijk der Nederlanden — wetten.overheid.nl", url: "https://wetten.overheid.nl/BWBR0002154/"}
+
+  - id: "sint-maarten"
+    atlas_uid: "sint-maarten"
+    communaute: "Population de Sint Maarten"
+    etats: ["Pays-Bas (Royaume)"]
+    entite: "Sint Maarten, pays du Royaume des Pays-Bas"
+    mecanisme: "referendum_consultatif"
+    annee: 2000
+    concept_local: "landsverordening"
+    resume: >-
+      Le préambule de la Constitution de Sint Maarten de 2010 invoque le droit à l'autodétermination exercé par le référendum du 23 juin 2000. Ce vote proposait plusieurs statuts : 69,98 % des suffrages exprimés ont choisi celui de pays au sein du Royaume, 14,44 % l'indépendance. Le Parlement peut organiser un référendum consultatif (art. 92). Le Statut du Royaume ne prévoit pas de procédure de sortie pour Sint Maarten.
+    gouvernance: "Parlement de Sint Maarten (référendum consultatif) ; électeurs de Sint Maarten ; toute modification du statut passe par une loi du Royaume."
+    effectivite: "Exercé en 2000 ; statut de pays obtenu le 10 octobre 2010. Les finances publiques restent sous le contrôle du Collège de surveillance financière (Cft)."
+    textes:
+      - {titre: "Constitution of Sint Maarten (2010), préambule et art. 92", nature: "constitution", annee: 2010, source: "https://aicesis.org/publications-docman/publications/amerique-latine/143-constitution-of-sint-maarten/file"}
+    sources:
+      - {titre: "2000 Sint Maarten status referendum — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/2000_Sint_Maarten_status_referendum"}
+      - {titre: "Colleges financieel toezicht — Cft", url: "https://www.cft.cw/over-het-cft"}
+
+  - id: "porto-rico"
+    atlas_uid: "porto-rico"
+    communaute: "Peuple de Porto Rico"
+    etats: ["États-Unis"]
+    entite: "Porto Rico (Estado Libre Asociado)"
+    mecanisme: "referendum_consultatif"
+    annee: 2020
+    concept_local: "Estado Libre Asociado"
+    resume: >-
+      La loi portoricaine 165-2020 (art. 2.1) autorise le gouverneur à convoquer par décret un vote « pour résoudre le statut politique futur de Porto Rico ». Le plébiscite du 5 novembre 2024, convoqué sur cette base, proposait l'État fédéré, la souveraineté en libre association et l'indépendance. Résultats certifiés : État fédéré 58,61 %, libre association 29,57 %, indépendance 11,82 % des votes valides. Le résultat est transmis au président et au Congrès des États-Unis comme une demande ; il ne les lie pas.
+    gouvernance: "Gouverneur (convocation) ; électeurs de Porto Rico ; Congrès des États-Unis, qui garde le pouvoir de décider du statut d'un territoire."
+    effectivite: "Exercé à titre consultatif ; aucune suite fédérale trouvée. Le Comité spécial de la décolonisation réaffirme chaque année le droit du peuple portoricain à l'autodétermination et à l'indépendance."
+    textes:
+      - {titre: "Ley Núm. 165-2020, art. 2.1 et 5.10", nature: "loi", annee: 2020, source: "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/165-2020.pdf"}
+      - {titre: "Orden Ejecutiva OE-2024-016 (1er juillet 2024)", nature: "loi", annee: 2024, source: "https://docs.pr.gov/files/Estado/OrdenesEjecutivas/2024/OE-2024-016.pdf"}
+    sources:
+      - {titre: "Primera Hora — la CEE certifie les résultats du plébiscite de 2024", url: "https://www.primerahora.com/noticias/gobierno-politica/notas/cee-certifica-a-la-estadidad-como-la-formula-ganadora-del-plebiscito/"}
+      - {titre: "A/AC.109/2025/L.7 — Comité spécial de la décolonisation, Porto Rico", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/L.7&l=fr&t=pdf"}
+
+  - id: "bermudes"
+    atlas_uid: "bermudes"
+    communaute: "Bermudiens"
+    etats: ["Royaume-Uni"]
+    entite: "Bermudes, territoire non autonome"
+    mecanisme: "referendum_consultatif"
+    annee: 1995
+    concept_local: ""
+    resume: >-
+      La Constitution des Bermudes de 1968 ne prévoit pas de référendum sur le statut. Le référendum sur l'indépendance de 1995 reposait sur une loi ponctuelle : 73,6 % des votants se sont prononcés contre, avec une participation de 58,8 % ; le Parti travailliste progressiste avait appelé à ne pas voter. Une Commission bermudienne sur l'indépendance a rendu un rapport en 2005. Le droit de vote est réservé aux personnes ayant le statut bermudien défini par la loi de 1956 sur l'immigration.
+    gouvernance: "Parlement des Bermudes (loi ponctuelle) ; électeurs ayant le statut bermudien."
+    effectivite: "Exercé une fois à titre consultatif, en 1995 ; refus. La fiche ne retient pas de droit d'autodétermination externe faute de texte en vigueur."
+    textes:
+      - {titre: "Bermuda Constitution Order 1968", nature: "constitution", annee: 1968, source: "https://www.bermudalaws.bm/Laws/Consolidated%20Law/1968/Bermuda%20Constitution%20Order%201968"}
+    sources:
+      - {titre: "Comité spécial de la décolonisation — Bermudes, A/AC.109/2025/3", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/3&l=en&t=pdf"}
+
+  - id: "quebec"
+    atlas_uid: "quebecois-quebec"
+    communaute: "Nation québécoise"
+    etats: ["Canada"]
+    entite: "Québec"
+    mecanisme: "referendum_consultatif"
+    annee: 1998
+    concept_local: ""
+    resume: >-
+      Aucun texte canadien ne prévoit la sécession d'une province. Dans le Renvoi relatif à la sécession du Québec (avis de 1998), la Cour suprême exclut un droit de sécession unilatérale mais juge qu'une majorité claire en réponse à une question claire obligerait les autres parties de la fédération à négocier. La Loi 99 de 2000 affirme le droit du peuple québécois à disposer de lui-même et fixe la majorité à 50 % des votes valides plus un (art. 1 à 4). La Loi sur la clarté (fédérale, 2000) confie à la Chambre des communes l'examen de la question et de la majorité. Au référendum de 1995, le oui a obtenu 49,42 % et le non 50,58 %, avec une participation de 93,52 %.
+    gouvernance: "Assemblée nationale et électeurs du Québec (50 % plus un selon la Loi 99) ; Chambre des communes pour juger de la clarté (Loi sur la clarté) ; négociation entre les parties de la fédération."
+    effectivite: "Exercé deux fois (1980, 1995), avec un refus à chaque scrutin ; le dossier n'a vérifié que les chiffres de 1995. En 2021, la Cour d'appel du Québec a rejeté l'appel visant six articles de la Loi 99, dont la règle des 50 % plus un (Le Devoir)."
+    textes:
+      - {titre: "Renvoi relatif à la sécession du Québec, [1998] 2 R.C.S. 217", nature: "jurisprudence", annee: 1998, source: "https://juricaf.org/arret/CANADA-COURSUPREME-19980820-19982RCS217"}
+      - {titre: "Loi sur l'exercice des droits fondamentaux et des prérogatives du peuple québécois et de l'État du Québec (Loi 99), art. 1 à 4", nature: "loi", annee: 2000, source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/E-20.2"}
+      - {titre: "Loi de clarification (Loi sur la clarté, L.C. 2000, ch. 26)", nature: "loi", annee: 2000, source: "https://laws-lois.justice.gc.ca/fra/lois/C-31.8/TexteComplet.html"}
+    sources:
+      - {titre: "Electoral Geography — Quebec Independence Referendum 1995", url: "https://www.electoralgeography.com/new/en/countries/q/quebec/quebec-independence-referendum-1995.html"}
+      - {titre: "Le Devoir — La loi 99 validée par la Cour d'appel (10 avril 2021)", url: "https://www.ledevoir.com/politique/quebec/598542/la-loi-99-sur-l-autodetermination-du-quebec-validee-par-la-cour-d-appel"}
+
+  - id: "guam"
+    atlas_uid: "chamorro-guam"
+    communaute: "Chamorros de Guam"
+    etats: ["États-Unis"]
+    entite: "Guam, territoire non autonome"
+    mecanisme: "referendum_consultatif"
+    annee: 2000
+    concept_local: "Native Inhabitants of Guam"
+    resume: >-
+      Une loi de Guam de 2000 prévoyait un plébiscite sur le statut politique (indépendance, libre association ou État fédéré) réservé aux « habitants autochtones de Guam », définis par l'ascendance de personnes devenues citoyennes par l'Organic Act de 1950. Le tribunal fédéral de district a invalidé cette restriction le 8 mars 2017 ; la Cour d'appel du neuvième circuit l'a jugée contraire au quinzième amendement (interdiction de restreindre le vote selon la race) le 29 juillet 2019 ; la décision est devenue définitive le 4 mai 2020. Un référendum de 1987 avait approuvé un projet d'État libre associé, dont les négociations avec Washington ont pris fin en 1997.
+    gouvernance: "Législature de Guam (loi) ; Commission guamienne de décolonisation ; électorat restreint invalidé par la justice fédérale."
+    effectivite: "Plébiscite interrompu après la décision fédérale ; plus de 11 000 autochtones s'étaient inscrits auprès de la Commission de décolonisation (résolution 79/105)."
+    textes:
+      - {titre: "Davis v. Guam, n° 17-15719 (9e circuit, 29 juillet 2019)", nature: "jurisprudence", annee: 2019, source: "https://cdn.ca9.uscourts.gov/datastore/opinions/2019/07/29/17-15719.pdf"}
+    sources:
+      - {titre: "Résolution 79/105 « Question de Guam » (2024)", url: "https://documents.un.org/api/symbol/access?s=A/RES/79/105&l=fr&t=pdf"}
+      - {titre: "Davis v. Guam (9e circuit, 2019)", url: "https://cdn.ca9.uscourts.gov/datastore/opinions/2019/07/29/17-15719.pdf"}
+
+  - id: "ecosse"
+    atlas_uid: "ecossais-ecosse"
+    communaute: "Peuple d'Écosse"
+    etats: ["Royaume-Uni"]
+    entite: "Écosse"
+    mecanisme: "referendum_sans_competence"
+    annee: 2022
+    concept_local: ""
+    resume: >-
+      L'Union des royaumes d'Écosse et d'Angleterre est une matière réservée (compétence que le Parlement du Royaume-Uni garde pour lui) (Scotland Act 1998, annexe 5, partie I, para. 1). Le référendum du 18 septembre 2014 a eu lieu grâce à un transfert temporaire de compétence par une ordonnance de 2013 ; pour la première fois, les jeunes de 16 et 17 ans pouvaient voter. Le non l'a emporté avec 55,3 % contre 44,7 %, pour une participation de 84,6 %. Le 23 novembre 2022, la Cour suprême du Royaume-Uni a jugé que le Parlement écossais n'a pas compétence pour organiser seul un nouveau référendum.
+    gouvernance: "Parlement écossais, avec un transfert de compétence par le Parlement du Royaume-Uni ; électeurs résidant en Écosse, dès 16 ans en 2014."
+    effectivite: "Exercé une fois, en 2014, avec un accord du gouvernement britannique ; refus. Sans nouveau transfert, aucune base légale pour un second vote ([2022] UKSC 31)."
+    textes:
+      - {titre: "Scotland Act 1998, annexe 5", nature: "loi", annee: 1998, source: "https://www.legislation.gov.uk/ukpga/1998/46/schedule/5"}
+      - {titre: "Cour suprême du Royaume-Uni, [2022] UKSC 31", nature: "jurisprudence", annee: 2022, source: "https://www.supremecourt.uk/cases/uksc-2022-0098"}
+    sources:
+      - {titre: "House of Commons Library — Scottish Independence Referendum 2014: Analysis of results (RP14-50)", url: "https://commonslibrary.parliament.uk/research-briefings/rp14-50/"}
+      - {titre: "[2022] UKSC 31 — Cour suprême du Royaume-Uni", url: "https://www.supremecourt.uk/cases/uksc-2022-0098"}
+
+  - id: "catalogne"
+    atlas_uid: "catalans-catalogne"
+    communaute: "Catalans de Catalogne"
+    etats: ["Espagne"]
+    entite: "Catalogne, communauté autonome"
+    mecanisme: "referendum_sans_competence"
+    annee: 2017
+    concept_local: ""
+    resume: >-
+      Le Statut d'autonomie de 2006 ne prévoit pas de référendum sur l'indépendance. Le 6 septembre 2017, le Parlement de Catalogne adopte la loi 19/2017 « du référendum d'autodétermination ». Par l'arrêt 114/2017 du 17 octobre 2017, le Tribunal constitutionnel la déclare inconstitutionnelle et nulle en totalité. La loi qui fondait le vote du 1er octobre 2017 étant nulle, ce dossier n'en examine pas les résultats.
+    gouvernance: "Parlement de Catalogne (loi 19/2017, annulée) ; le Tribunal constitutionnel juge qu'une communauté autonome ne peut convoquer un tel vote."
+    effectivite: "Aucun droit reconnu en droit espagnol ; vote de 2017 sans effet juridique selon l'arrêt 114/2017."
+    textes:
+      - {titre: "Tribunal constitutionnel, arrêt 114/2017 du 17 octobre 2017", nature: "jurisprudence", annee: 2017, source: "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12206"}
+      - {titre: "Statut d'autonomie de la Catalogne (loi organique 6/2006)", nature: "statut_autonomie", annee: 2006, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
+    sources:
+      - {titre: "BOE — Arrêt 114/2017 du Tribunal constitutionnel", url: "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12206"}
+
+  - id: "kurdistan-irak"
+    atlas_uid: "kurdes-region-kurdistan-irak"
+    communaute: "Kurdes de la Région du Kurdistan"
+    etats: ["Irak"]
+    entite: "Région du Kurdistan"
+    mecanisme: "referendum_sans_competence"
+    annee: 2017
+    concept_local: ""
+    resume: >-
+      La Constitution irakienne de 2005 reconnaît la Région du Kurdistan comme région fédérale ; elle ne prévoit pas de sécession. La région organise le 25 septembre 2017 un référendum d'indépendance, y compris dans des territoires disputés avec Bagdad comme Kirkouk ; selon la commission électorale régionale, 92 % des votants choisissent l'indépendance. Le vote est présenté comme non contraignant. Le 20 novembre 2017, la Cour suprême fédérale le déclare inconstitutionnel en s'appuyant sur l'article 1, qui fait de la Constitution la garante de l'unité de l'Irak.
+    gouvernance: "Gouvernement et Parlement de la Région du Kurdistan (organisation du vote) ; Cour suprême fédérale (art. 93, litiges entre l'État fédéral et les régions)."
+    effectivite: "Vote tenu, déclaré inconstitutionnel ; aucun effet juridique. La fiche ne retient pas de droit d'autodétermination externe."
+    textes:
+      - {titre: "Constitution de l'Irak, art. 1, 93 et 117", nature: "constitution", annee: 2005, source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
+    sources:
+      - {titre: "JURIST — The Federal Supreme Court of Iraq rules Kurdish referendum on independence unconstitutional (2017)", url: "https://www.jurist.org/news/2017/11/the-federal-supreme-court-of-iraq-rules-kurdish-referendum-on-independence-unconstitutional/"}
+      - {titre: "France 24 — 92% of Iraqi Kurds back independence from Baghdad (27 septembre 2017)", url: "https://www.france24.com/en/20170927-iraqi-kurds-vote-overwhelmingly-independence-referendum"}
+
+synthese: >-
+  Dans la plupart des cas où un texte fixe une procédure, le vote de la population est nécessaire mais ne suffit pas. Un organe de l'État central garde l'étape finale : Parlement national en Papouasie-Nouvelle-Guinée, Folketing au Danemark, Parlement britannique pour l'Irlande du Nord, Congrès des États-Unis pour Porto Rico, loi ou traité soumis à l'accord du prince au Liechtenstein. La Constitution de Saint-Christophe-et-Niévès, celle de l'Ouzbékistan et le Statut du Royaume des Pays-Bas pour Aruba confient la décision à l'entité seule, le décret royal néerlandais ne faisant que fixer la date selon l'avis du gouvernement d'Aruba ; l'article 39 éthiopien la confie à la nation concernée, le gouvernement fédéral organisant le vote. Les majorités varient : majorité simple des suffrages en Nouvelle-Calédonie, en Irlande du Nord et dans l'article 39 éthiopien ; 50 % plus un au Québec selon la Loi 99 ; deux tiers à Nevis et aux Tokélaou ; majorité des électeurs inscrits, et non des votants, à Aruba. Le corps électoral est restreint par une liste spéciale en Nouvelle-Calédonie et, dans les territoires britanniques d'outre-mer, par un statut d'appartenance défini par la loi locale (Caymanian, Turks and Caicos Islander, Bermudian) ; la restriction fondée sur l'ascendance à Guam a été jugée contraire à la Constitution des États-Unis.
+
+
+  Les régimes se distinguent par leur origine. En Éthiopie (1994) et en Ouzbékistan (1992), le droit est inscrit dans la Constitution depuis sa rédaction et n'a jamais servi à la sécession ; en Éthiopie, la procédure parallèle de l'article 47 a servi trois fois à créer des États membres. Au Danemark et au Royaume-Uni, la sortie du Groenland ou de l'Irlande du Nord passe par une négociation dont l'issue revient au Parlement de l'État ; aux Pays-Bas, le Statut laisse la sortie d'Aruba aux Staten et aux électeurs d'Aruba. Dans les territoires suivis par l'ONU, le vote a souvent eu lieu une fois et fixé un statut (Îles Cook, Niue, Mariannes du Nord), ou a été répété sans atteindre le seuil (Tokélaou) ; en Papouasie occidentale, l'acte dont l'ONU a pris acte a été exprimé par des conseils représentatifs de 1 026 membres, et non par un vote de toute la population. Les accords de paix et les résolutions de l'ONU ont prévu des consultations : tenues en Nouvelle-Calédonie et à Bougainville, jamais organisées à Abyei, au Sahara occidental et au Cachemire. Sur les 30 cas, aucun vote tenu au titre de ces textes n'a conduit à l'indépendance à la date du dossier. Deux votes prévus par un texte ont donné une majorité pour la séparation : à Nevis en 1998 (61,8 %), sous le seuil des deux tiers, et à Bougainville en 2019 (97,7 %), dont le résultat attend la décision du Parlement national. Là où l'entité a voté sans compétence reconnue (Catalogne, Kurdistan), la juridiction suprême a privé le vote d'effet.
+
+limites:
+  - "Le dossier repose sur les fiches de l'atlas ; quelques chiffres de résultats viennent de la presse ou de bases secondaires (Sint Maarten, Québec, Kurdistan, Porto Rico, participation de 2021 en Nouvelle-Calédonie), signalés dans les sources de chaque cas."
+  - "L'article 39 éthiopien figure dans 13 fiches ; le dossier n'en présente qu'un cas, le Tigray, et un cas pour l'article 47."
+  - "Les situations évoluent : vote de ratification du résultat de Bougainville attendu, suite de l'accord de Bougival en Nouvelle-Calédonie non fixée, combats au Tigray depuis septembre 2026."
+  - "Non traités en cas séparé : référendum des Falkland (Malvinas) de 2013, dont la base juridique locale n'a pas été consultée ; Gilgit-Baltistan, rattaché au cas du Cachemire ; Féroé, où aucun texte en vigueur ne prévoit de référendum d'indépendance ; sécession d'Anguilla (1967) et crise comorienne de 1997, qui ne reposaient pas sur un texte de ce type."
+  - "Les États souverains en libre association (Palaos, Îles Marshall, États fédérés de Micronésie) sont exclus de l'atlas par le cadre et ne sont pas examinés."
+  - "Le dossier ne juge pas de la régularité des scrutins ; il rapporte les constats de l'ONU et des sources citées."
+  - "Le référendum de 1980 au Québec et le référendum de 1977 à Nevis n'ont pas été vérifiés sur une source ouverte."
+candidats_atlas:
+  - "Mayotte (France) : consultations de 1974, 1976 et 2009 sur le statut, aucune fiche dans l'atlas ; utile pour comparer avec les autres territoires de l'océan Indien."
+  - "Unités administratives de la rive gauche du Dniestr (Moldavie) : loi moldave de 2005 sur leur statut juridique spécial ; contenu sur l'autodétermination externe à vérifier, par comparaison avec la Gagaouzie."

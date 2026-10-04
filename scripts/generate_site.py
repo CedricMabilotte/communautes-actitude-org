@@ -388,6 +388,8 @@ def charger_dossiers(uids):
             if c.get("atlas_uid"):
                 CAS_PAR_UID.setdefault(c["atlas_uid"], []).append((d, c))
         out.append(d)
+    ORDRE = ["entites-naturelles", "habiter-sans-posseder", "inde-gerer-son-territoire", "forets-aux-communautes", "mer-et-rivieres-coutumieres", "communaux-d-europe", "le-droit-de-partir"]
+    out.sort(key=lambda d: ORDRE.index(d["slug"]) if d["slug"] in ORDRE else len(ORDRE))
     return out
 
 def dossiers_liens(d):
@@ -409,7 +411,7 @@ def dossiers_index_html(dossiers):
     body = f"""<div class="wrap"><header style="padding:44px 0 8px"><p class="kicker">Dossiers thématiques</p><h1>Des questions précises, communauté par communauté</h1>
 <p class="lede prose">Chaque dossier suit une question à travers les communautés de l'atlas et au-delà : les notions qu'elles emploient, les textes qui les fondent, ce qui s'applique réellement.</p></header>
 <ol class="dlist">{''.join(cards)}</ol></div>"""
-    return page("/dossiers/", "Dossiers thématiques", "Études thématiques : personnalité juridique des entités naturelles, habiter sans posséder, gestion des territoires au village en Inde.", body)
+    return page("/dossiers/", "Dossiers thématiques", "Études thématiques : une question suivie à travers les communautés de l'atlas, avec les textes, les institutions et ce qui s'applique réellement.", body)
 
 def lire_table(fichier):
     txt = (ROOT / "data" / "tables" / fichier).read_text(encoding="utf-8-sig")

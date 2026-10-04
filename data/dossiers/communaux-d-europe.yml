@@ -1,0 +1,647 @@
+slug: "communaux-d-europe"
+titre: "Les communaux d’Europe, un droit ancien toujours en vigueur"
+chapeau: >-
+  En Europe, des forêts, des alpages, des pâturages et des canaux d'irrigation appartiennent encore à des groupes d'habitants, de descendants ou de propriétaires de fermes, ou leur sont réservés en usage, au titre de lois souvent récentes qui reprennent des droits plus anciens. Ce dossier compare 30 régimes, 25 en Europe et 5 hors d'Europe, autour de trois questions : qui est ayant droit, ce qui ne peut pas être vendu, qui gouverne.
+
+introduction: >-
+  Les communaux sont des terres ou des eaux dont l'usage revient à un groupe et non à un individu : bois de chauffage, pâturage, alpage d'été, chasse, pêche, eau d'irrigation. Dans les cas étudiés, ces terres ont été séparées des communes ou retirées aux villages à différentes époques : biens des bourgeoisies suisses séparés de la commune après 1798, communautés agraires slovènes supprimées en 1947, obști roumaines placées sous propriété d'État de 1948 à 1989. Plusieurs pays leur ont consacré depuis 1980 une loi ou des articles de loi : Espagne (1980), Slovénie (1994 et 2015), Roumanie (loi de restitution de 2000), Slovaquie (2013), Italie (2017), Portugal (2017). Les noms changent d'un pays à l'autre (montes vecinales, baldios, usi civici, regole, Agrargemeinschaften, obști, sections de commune, bygdeallmenninger, commons), et le dossier pose à chaque régime les trois mêmes questions.
+
+
+  Le dossier distingue sept mécanismes, classés selon la réponse à la première question. Dans la propriété des habitants, le groupe des voisins tel qu'il est composé à chaque moment détient la terre, sans parts. Dans le bien d'une collectivité publique de village, une personne publique plus petite que la commune détient la terre et les habitants en ont la jouissance (le droit d'en tirer les fruits). Dans la corporation d'ayants droit héréditaires, la qualité de membre se transmet par la famille, quel que soit le domicile. Dans la copropriété d'ayants droit inscrits, des personnes nommées sur une liste détiennent des parts qui s'héritent et parfois se vendent. Dans la propriété attachée aux exploitations, le droit suit la ferme. Dans les droits d'usage sur le sol d'autrui, le sol appartient à un propriétaire, à la Couronne ou à l'État, et les usagers n'ont que des droits d'usage. Enfin, les communautés d'usagers de l'eau répartissent une eau qui reste publique et, en Espagne, jugent les litiges.
+
+
+  Les cas européens viennent tous des fiches de l'atlas. Cinq cas hors d'Europe servent de points de comparaison : deux régimes du Nouveau-Mexique issus du droit colonial espagnol (acequias et mercedes), les commonages des Bahamas, régis par une loi de 1896, les forêts iriai du Japon, que le Code civil de 1896 soumet aux coutumes locales, et les terres des collectivités soulaliyates du Maroc. Le dossier ne traite ni des communs de la mer (prud'homies de pêche, réserves marines) ni des droits d'achat des communautés écossaises, décrits ailleurs dans l'atlas.
+
+mecanismes:
+  - {cle: "propriete_des_habitants", libelle: "Propriété des habitants, sans parts", definition: "La terre appartient au groupe des habitants d'un lieu, tel qu'il est composé à chaque moment ; on devient ayant droit en s'y installant et on cesse de l'être en partant ; aucune part ne se vend ni ne s'hérite."}
+  - {cle: "collectivite_publique_de_village", libelle: "Bien d'une collectivité publique de village", definition: "La terre appartient à une personne publique plus petite que la commune (section, concejo) ou à un groupement de communes ; les habitants en ont la jouissance, et des élus locaux ou la commune l'administrent."}
+  - {cle: "corporation_hereditaire", libelle: "Corporation d'ayants droit héréditaires", definition: "La qualité d'ayant droit se transmet par la filiation ou par l'appartenance à une famille ou à une lignée, indépendamment du domicile ; une corporation reconnue par la loi détient la terre, qui ne se partage pas entre ses membres."}
+  - {cle: "coproprietaires_inscrits", libelle: "Copropriété d'ayants droit inscrits", definition: "La terre appartient en indivision (sans partage matériel) à des personnes nommément inscrites sur une liste ou un registre ; leur part se transmet par héritage et parfois se vend, alors que l'ensemble ne se partage pas, ou seulement à des conditions fixées par la loi."}
+  - {cle: "propriete_des_exploitations", libelle: "Propriété attachée aux exploitations", definition: "Le droit appartient à une ferme ou à un immeuble et suit sa vente ; les propriétaires des exploitations possèdent le sol en commun, et une autorité de l'État approuve ou fixe les règles de la communauté."}
+  - {cle: "droits_sur_sol_d_autrui", libelle: "Droits d'usage sur le sol d'autrui", definition: "Le sol appartient à un propriétaire foncier, à la Couronne ou à l'État ; les ayants droit détiennent des droits de pâturage, de bois, de chasse ou de pêche, administrés par un organe prévu par la loi, dont les membres sont, selon les cas, élus par les usagers, nommés par l'État, la Couronne ou les propriétaires, ou désignés par les communes."}
+  - {cle: "usagers_de_l_eau", libelle: "Communautés d'usagers de l'eau", definition: "L'eau reste publique ; les titulaires de droits d'eau d'un même canal forment une corporation qui élit ses organes, répartit l'eau, adopte ses ordonnances et, dans certains cas, juge les litiges."}
+
+concepts:
+  - {terme: "man común ; mano común", langue: "galicien ; espagnol", communautes: ["montes-vecinales-mano-comun-espagne"], sens: "« En main commune » : propriété collective sans parts, qui appartient aux voisins composant le groupe à chaque moment.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-25463"}
+  - {terme: "compartes", langue: "portugais", communautes: ["baldios-portugal"], sens: "Ayants droit d'un baldio, titulaires des terrains et électeurs de l'assemblée qui les gère.", source: "https://files.diariodarepublica.pt/1s/2017/08/15800/0472204734.pdf"}
+  - {terme: "uso civico ; dominio collettivo", langue: "italien", communautes: ["domaines-collectifs-usi-civici-italie", "asuc-trentin"], sens: "Uso civico : droit d'usage des habitants (pâturage, bois, cueillette) ; dominio collettivo : terre possédée et gérée en commun, que la loi de 2017 qualifie d'ordre juridique premier des communautés d'origine.", source: "https://www.normattiva.it/eli/stato/LEGGE/2017/11/20/168/CONSOLIDATED"}
+  - {terme: "fuoco ; laudo", langue: "italien (Vénétie)", communautes: ["regole-venetie"], sens: "Fuoco : « foyer », chaque famille ayant droit d'une Regola ; laudo : statut propre de la Regola, qui la régit avec ses coutumes.", source: "https://www.consiglioveneto.it/web/crv/dettaglio-legge?numeroDocumento=26&id=1725316&backLink=https%3A%2F%2Fwww.consiglioveneto.it%2Fleggi-regionali%3Fp_p_id&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&pageTitle=&tab=vigente&annoSelezionato=1996"}
+  - {terme: "Allmend ; Korporationsbürgerrecht", langue: "allemand", communautes: ["corporations-allmend-suisse-centrale", "bourgeoisies-suisse"], sens: "Allmend : terres d'usage collectif (alpages, forêts, pâturages) ; Korporationsbürgerrecht : droit de bourgeoisie de la corporation, transmis en principe par filiation.", source: "https://www.korporation.ch/ueber-uns/buergerrecht/"}
+  - {terme: "Stammsitzliegenschaft", langue: "allemand (Autriche)", communautes: ["agrargemeinschaften-autriche"], sens: "Ferme à laquelle est attachée la qualité de membre d'une communauté agraire ; la part n'en est séparée qu'avec l'autorisation de l'autorité agraire.", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000117"}
+  - {terme: "obște de moșneni ; obște de răzeși ; composesorat", langue: "roumain", communautes: ["obsti-composesorate-roumanie"], sens: "Communautés de copropriétaires de forêts et de pâturages de Valachie (moșneni), de Moldavie (răzeși) et de Transylvanie (composesorat), dont les membres héritent des parts.", source: "https://thecommonsjournal.org/articles/10.18352/ijc.805"}
+  - {terme: "wspólnota gruntowa", langue: "polonais", communautes: ["communautes-foncieres-pologne"], sens: "« Communauté foncière » : terres, forêts et eaux attribuées en usage commun aux habitants d'un ou de plusieurs villages lors de l'affranchissement des paysans au XIXe siècle.", source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1454/text.pdf"}
+  - {terme: "bygdeallmenning ; seter", langue: "norvégien", communautes: ["communaux-bygdeallmenninger-norvege"], sens: "Bygdeallmenning : communal villageois possédé par les exploitations qui y exercent des droits d'usage ; seter : alpage d'été auquel chaque exploitation ayant droit peut prétendre.", source: "https://snl.no/bygdeallmenning"}
+  - {terme: "iriai", langue: "japonais", communautes: ["forets-iriai-japon"], sens: "Droit collectif d'usage ou de propriété d'un groupe villageois sur des forêts, prairies et terres communes, régi par les coutumes locales.", source: "https://thecommonsjournal.org/articles/10.18352/ijc.348"}
+  - {terme: "Tribunal de les Aigües ; Consejo de Hombres Buenos", langue: "valencien ; espagnol", communautes: ["tribunaux-coutumiers-eaux-espagne"], sens: "Tribunal des Eaux de Valence et Conseil des Hommes Bons de Murcie : juridictions d'irrigants qui jugent oralement les litiges sur l'eau des canaux.", source: "https://ich.unesco.org/fr/RL/les-tribunaux-dirrigants-du-bassin-mediterraneen-espagnol-le-conseil-des-sages-de-la-plaine-de-murcie-et-le-tribunal-des-eaux-de-la-plaine-de-valence-00171"}
+  - {terme: "parciante ; mayordomo", langue: "espagnol du Nouveau-Mexique", communautes: ["acequias-nouveau-mexique"], sens: "Parciante : détenteur d'un droit d'eau sur une acequia ; mayordomo : responsable élu qui répartit l'eau et dirige les travaux.", source: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-21/"}
+
+cas:
+  - id: "montes-vecinales"
+    atlas_uid: "montes-vecinales-mano-comun-espagne"
+    communaute: "Communautés de voisins de Galice et des Asturies"
+    etats: ["Espagne"]
+    entite: "Montes vecinales en mano común, 3 312 montes classés en Galice (664 230 ha, 2018)"
+    mecanisme: "propriete_des_habitants"
+    annee: 1980
+    concept_local: "man común ; mano común"
+    resume: >-
+      La loi d'État 55/1980 définit les montes vecinales en mano común (bois, landes et pâturages de voisinage) comme des terres qui appartiennent à des groupements de voisins « en leur qualité de groupes sociaux et non d'entités administratives ». La propriété revient, sans parts, aux voisins qui composent le groupe à chaque moment ; les montes sont indivisibles, inaliénables, imprescriptibles (insusceptibles d'acquisition par possession prolongée) et insaisissables (art. 2). La loi galicienne 13/1989 qualifie cette propriété de « privée et collective » (art. 3.1). Les actes de disposition exigent l'accord des trois quarts des membres (loi 55/1980, art. 5.2), et la Galice impose de réinvestir dans le monte au moins 40 % des revenus (loi 7/2012, art. 125).
+    gouvernance: "Assemblée générale de tous les comuneros (membres), « organe suprême », qui élit pour quatre ans au plus une junta rectora (conseil de direction) (loi 13/1989, art. 14 et 15) ; si la communauté n'existe plus ou ne respecte pas les règles d'organisation, la consellería (département régional) chargée des montes assure une gestion conservatoire (art. 20)."
+    effectivite: "3 312 montes classés en Galice fin 2018 pour 664 230 ha (Association forestière de Galice, d'après la Xunta) ; une étude de 2020 (revue Land) indique qu'environ un quart du territoire galicien est classé en terres communes appartenant à quelque 3 300 communautés. Nombre de comuneros inconnu."
+    textes:
+      - {titre: "Loi 55/1980 du 11 novembre sur les montes vecinales en mano común, art. 1 à 15", nature: "loi", annee: 1980, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-25463"}
+      - {titre: "Loi galicienne 13/1989 du 10 octobre sur les montes vecinales en mano común", nature: "loi", annee: 1989, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-3358"}
+      - {titre: "Loi galicienne 7/2012 du 28 juin sur les montes de Galice, art. 125", nature: "loi", annee: 2012, source: "https://www.boe.es/eli/es-ga/l/2012/06/28/7/con"}
+    sources:
+      - {titre: "BOE — Ley 55/1980 de montes vecinales en mano común", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1980-25463"}
+      - {titre: "BOE — Ley 13/1989 de montes vecinales en mano común (Galice)", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-3358"}
+      - {titre: "Asociación Forestal de Galicia — Os montes veciñais en man común : número e características", url: "https://asociacionforestal.gal/en/os-montes-vecinais-en-man-comun/numero-e-caracteristicas/"}
+      - {titre: "Grove et al. (2020), Land, 9(1), 9", url: "https://www.mdpi.com/2073-445X/9/1/9"}
+
+  - id: "baldios"
+    atlas_uid: "baldios-portugal"
+    communaute: "Compartes des baldios"
+    etats: ["Portugal"]
+    entite: "Baldios du Portugal continental, environ 500 000 ha (estimation 2020)"
+    mecanisme: "propriete_des_habitants"
+    annee: 2017
+    concept_local: "compartes"
+    resume: >-
+      Les baldios sont des terrains utilisés en commun par les habitants d'un ou de plusieurs villages pour le pâturage, le bois de chauffe, les cultures ou la chasse. La Constitution de 1976 range les moyens de production possédés et gérés par des communautés locales dans le secteur coopératif et social (art. 82, al. 4, b). La loi 75/2017 fait des compartes (ayants droit) les titulaires des baldios (art. 7) et les place hors commerce juridique : ni appropriation par des tiers, y compris par usucapião (acquisition par possession prolongée), ni saisie, ni hypothèque (art. 6). La loi admet des exceptions : sortie du régime votée à l'unanimité par une assemblée réunissant au moins deux tiers des compartes, vente de petites parcelles d'intérêt local aux deux tiers, expropriation, et intégration au domaine public de la freguesia (paroisse civile) après quinze ans d'abandon constaté par un juge (art. 38, 40 et 41). Les recettes ne sont pas distribuables (art. 14).
+    gouvernance: "Assemblée des compartes, qui élit un conseil directeur de trois à cinq membres et une commission de contrôle (loi 75/2017, art. 17, 24, 28 et 30) ; l'assemblée peut déléguer l'administration à la freguesia, à la commune ou à un service de l'État et révoquer cette délégation à tout moment (art. 35)."
+    effectivite: "Selon une étude publiée en 2020 dans Silva Lusitana, 71,6 % des baldios sont cogérés avec l'État et environ 60 % ont un conseil directeur ; 664 plans d'utilisation sur 776 étaient approuvés en 2018 ; la présence moyenne aux assemblées est de 25 participants."
+    textes:
+      - {titre: "Constitution de la République portugaise, art. 82, al. 4, b", nature: "constitution", annee: 1976, source: "https://www.parlamento.pt/Legislacao/Paginas/ConstituicaoRepublicaPortuguesa.aspx"}
+      - {titre: "Loi n° 75/2017 du 17 août, régime applicable aux baldios", nature: "loi", annee: 2017, source: "https://files.diariodarepublica.pt/1s/2017/08/15800/0472204734.pdf"}
+    sources:
+      - {titre: "Diário da República — Lei n.º 75/2017", url: "https://files.diariodarepublica.pt/1s/2017/08/15800/0472204734.pdf"}
+      - {titre: "Skulska, Monteiro, Rego — Gestão dos Terrenos Comunitários, Silva Lusitana 28(2), 2020", url: "https://silva-lusitana.edpsciences.org/articles/silu/pdf/2020/02/silu2020282p91.pdf"}
+      - {titre: "Baladi — Federação Nacional dos Baldios", url: "https://www.baladi.pt/"}
+
+  - id: "domini-collettivi"
+    atlas_uid: "domaines-collectifs-usi-civici-italie"
+    communaute: "Collectivités titulaires de domaines collectifs et d'usi civici"
+    etats: ["Italie"]
+    entite: "Domaines collectifs : 2 233 exploitations recensées, 16 688 km² (recensement agricole 2010)"
+    mecanisme: "propriete_des_habitants"
+    annee: 2017
+    concept_local: "uso civico ; dominio collettivo"
+    resume: >-
+      La loi n° 168 de 2017 reconnaît les domaines collectifs comme « ordinamento giuridico primario delle comunità originarie » (ordre juridique premier des communautés d'origine), dotés d'une capacité de se donner leurs propres règles ; leurs entités représentatives ont la personnalité juridique (existence en droit comme personne distincte de leurs membres) de droit privé (art. 1). Les droits d'usage et de gestion sont réservés aux membres de la communauté, sauf décision contraire de l'entité (art. 2, al. 3). Les biens collectifs, qu'il s'agisse de terres d'origine, de terres attribuées après liquidation des usi civici ou de terres des familles descendant des anciens originaires du lieu, sont inaliénables, indivisibles, imprescriptibles et affectés pour toujours à l'usage agro-sylvo-pastoral, c'est-à-dire à l'agriculture, à la forêt et à l'élevage (art. 3). Depuis l'arrêt n° 119 de 2023 de la Cour constitutionnelle, cette inaliénabilité ne vise plus les terres privées grevées d'usi civici non liquidés.
+    gouvernance: "Entités représentatives (enti esponenziali) à statut propre ; en leur absence, la commune gère les biens en administration séparée (loi 168/2017, art. 2, al. 4) ; certains actes ne deviennent exécutoires qu'après délibération de la Junte régionale (art. 3, al. 7)."
+    effectivite: "Une conférence tenue en juillet 2025 en Sicile relève que l'application de la loi se heurte au manque de connaissance juridique, à des difficultés de coordination et à un accès limité aux financements (ICCA Consortium). Aucun recensement des communautés titulaires n'a été trouvé."
+    textes:
+      - {titre: "Loi n° 168 du 20 novembre 2017, Norme in materia di domini collettivi", nature: "loi", annee: 2017, source: "https://www.normattiva.it/eli/stato/LEGGE/2017/11/20/168/CONSOLIDATED"}
+      - {titre: "Loi n° 1766 du 16 juin 1927 sur les usi civici", nature: "loi", annee: 1927, source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766"}
+      - {titre: "Cour constitutionnelle, arrêt n° 119 de 2023", nature: "jurisprudence", annee: 2023, source: "https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2023:119"}
+    sources:
+      - {titre: "Normattiva — Legge 168/2017", url: "https://www.normattiva.it/eli/stato/LEGGE/2017/11/20/168/CONSOLIDATED"}
+      - {titre: "Istat — 6e recensement général de l'agriculture 2010", url: "https://www.istat.it/wp-content/uploads/2024/02/1425-12_Vol_VI_Cens_Agricoltura_INT_CD_1_Trimboxes_ipp.pdf"}
+      - {titre: "ICCA Consortium — Italy: recap of the conference on collective lands (2025)", url: "https://www.iccaconsortium.org/2025/09/08/italy-recap-conference-collective-lands-biodiversity-territories-of-life/"}
+
+  - id: "asuc-trentin"
+    atlas_uid: "asuc-trentin"
+    communaute: "Ménages résidant dans les frazioni (hameaux) du Trentin"
+    etats: ["Italie"]
+    entite: "113 domaines collectifs administrés par une ASUC, 73 912 ha sous plan d'aménagement forestier (2021)"
+    mecanisme: "propriete_des_habitants"
+    annee: 2005
+    concept_local: "uso civico"
+    resume: >-
+      La loi provinciale n° 6 de 2005 protège les droits d'usage civique comme droits inaliénables, imprescriptibles et insusceptibles d'usucapion (acquisition par possession prolongée) (art. 1). La jouissance des terres, forêts, pâturages et alpages appartient, selon leurs besoins, aux ménages résidant dans la frazione, en principe gratuitement ; toute distribution d'argent aux ménages est interdite et les recettes vont d'abord à l'entretien du patrimoine (art. 2 et 10). L'extinction du lien d'usage civique n'est admise qu'à titre exceptionnel et avec l'autorisation du service provincial (art. 16), mais l'expropriation pour utilité publique reste possible (art. 18).
+    gouvernance: "Comité de trois à sept membres élu pour cinq ans par les ayants droit, avec un quorum de 40 % que le statut peut abaisser (loi provinciale 6/2005, art. 7) ; après trois scrutins sans quorum, la commune reprend la gestion (art. 8) ; le président de la Province peut dissoudre le comité et nommer un commissaire (décret 6-59/Leg de 2006, art. 20)."
+    effectivite: "L'Association provinciale des ASUC comptait 113 domaines en 2021 et environ 54 000 ayants droit dans 87 ASUC ; sur 2017-2019, le bois rapportait en moyenne près de 4 millions d'euros par an. Le tribunal administratif régional de Trente (jugement n° 108 du 30 juin 2026) a écarté le recours de quatre ASUC contre l'expropriation de parcelles pour une route."
+    textes:
+      - {titre: "Loi provinciale de Trente n° 6 du 14 juin 2005 sur l'administration des biens d'usage civique", nature: "loi", annee: 2005, source: "https://www.consiglio.provincia.tn.it/_layouts/15/dispatcher/doc_dispatcher.aspx?app=clex&at_id=12402"}
+      - {titre: "Décret du président de la Province n° 6-59/Leg du 6 avril 2006", nature: "reglement", annee: 2006, source: "https://www.consiglio.provincia.tn.it/_layouts/15/dispatcher/doc_dispatcher.aspx?app=clex&at_id=14751"}
+    sources:
+      - {titre: "Association provinciale des ASUC — Relazione sulla situazione economica, finanziaria e forestale delle A.S.U.C. del Trentino (2021)", url: "https://www.asuctrentine.it/content/download/3244/34887/file/Relazione_sulla_situazione_economica,_finanziaria_e_forestale_delle_A.S.U.C._del_Trentino.pdf"}
+      - {titre: "Tribunal administratif régional de Trente, jugement n° 108 du 30 juin 2026", url: "https://www.demaniocivico.it/wp-content/uploads/2026/07/SENTENZA-TRENTO-1-2.pdf"}
+
+  - id: "iriai-japon"
+    atlas_uid: "forets-iriai-japon"
+    communaute: "Groupes villageois titulaires de droits d'iriai"
+    etats: ["Japon"]
+    entite: "Forêts communes coutumières, 4,56 % de la surface forestière (1990)"
+    mecanisme: "propriete_des_habitants"
+    annee: 1896
+    concept_local: "iriai"
+    resume: >-
+      Le Code civil de 1896 soumet les droits d'iriai « aux coutumes locales » et distingue l'iriai avec copropriété du sol (art. 263) de l'iriai sur la terre d'autrui (art. 294). Le groupe d'iriai n'a pas de personnalité juridique : la Cour suprême le qualifie en 1966 d'association sans personnalité, titulaire d'une propriété collective indivise (sōyū), et exige que l'action en justice soit portée par tous les titulaires. La loi de 1966 sur la modernisation des forêts d'iriai permet d'éteindre le droit et de le remplacer par une propriété, un bail ou un droit de superficie, avec l'accord de tous les titulaires et l'autorisation du gouverneur de la préfecture (art. 3 et 4). En 2006, la Cour suprême a admis la règle coutumière qui limite la qualité de titulaire aux chefs de ménage, mais a annulé celle qui la réservait aux descendants masculins.
+    gouvernance: "Règles internes adoptées par l'ensemble des membres ou fixées par la coutume du groupe, sous le contrôle du juge (Code civil, art. 90, ordre public) ; aucun organe imposé par la loi."
+    effectivite: "Selon le recensement forestier de 1990, 59 209 organisations géraient des forêts communes coutumières. Une étude de 2014 (International Journal of the Commons) relève qu'après guerre la gestion collective a souvent cédé la place à une gestion individualisée, et décrit onze villages du district de Yamaguni (Kyoto) qui gèrent encore leurs forêts en commun."
+    textes:
+      - {titre: "Code civil (loi n° 89 de 1896), art. 263 et 294", nature: "loi", annee: 1896, source: "https://www.japaneselawtranslation.go.jp/en/laws/view/3494"}
+      - {titre: "Loi n° 126 de 1966 sur la modernisation des rapports de droit relatifs aux forêts d'iriai", nature: "loi", annee: 1966, source: "https://hourei.net/law/341AC0000000126"}
+    sources:
+      - {titre: "Shimada D., International Journal of the Commons, vol. 8, n° 1 (2014)", url: "https://thecommonsjournal.org/articles/10.18352/ijc.348"}
+      - {titre: "入会権 (droit d'iriai) — Wikipédia en japonais", url: "https://ja.wikipedia.org/wiki/入会権"}
+
+  - id: "sections-de-commune"
+    atlas_uid: "sections-de-commune-france"
+    communaute: "Membres des sections de commune"
+    etats: ["France"]
+    entite: "26 792 sections de commune recensées en 1999, surtout dans le Massif central"
+    mecanisme: "collectivite_publique_de_village"
+    annee: 2013
+    concept_local: "sectionnaires"
+    resume: >-
+      La section de commune est une partie de commune qui possède « à titre permanent et exclusif des biens ou des droits distincts de ceux de la commune » ; c'est une personne morale de droit public, c'est-à-dire une entité publique dotée de la personnalité juridique (Code général des collectivités territoriales, art. L. 2411-1). Ses membres sont les habitants qui ont leur domicile réel et fixe sur son territoire ; ils ne sont pas propriétaires et n'ont qu'un droit de jouissance (Conseil constitutionnel, décision n° 2011-118 QPC). Les fruits sont perçus en nature, « à l'exclusion de tout revenu en espèces », et les terres agricoles sont attribuées en priorité aux exploitants domiciliés sur la section (art. L. 2411-10). La loi du 27 mai 2013 interdit la création de nouvelles sections, et le préfet peut transférer les biens à la commune (art. L. 2411-11 à L. 2411-12-2).
+    gouvernance: "Commission syndicale, composée du maire et de membres élus par les électeurs de la section, à la demande de la moitié des électeurs ou du conseil municipal ; pas de commission sous vingt électeurs ou 2 000 euros de revenus cadastraux ; sinon, le conseil municipal administre (CGCT, art. L. 2411-3 et L. 2411-5)."
+    effectivite: "Le rapport du Sénat de 2012 relève qu'en 2003 seules 200 commissions syndicales étaient connues de l'État, pour 26 792 sections recensées en 1999 ; le tribunal administratif de Clermont-Ferrand traite 40 à 50 dossiers par an sur ces biens."
+    textes:
+      - {titre: "Loi n° 2013-428 du 27 mai 2013 modernisant le régime des sections de commune", nature: "loi", annee: 2013, source: "https://www.senat.fr/leg/tas12-143.html"}
+      - {titre: "Conseil constitutionnel, décision n° 2011-118 QPC du 8 avril 2011", nature: "jurisprudence", annee: 2011, source: "https://www.conseil-constitutionnel.fr/decision/2011/2011118QPC.htm"}
+    sources:
+      - {titre: "Direction générale des collectivités locales — L'administration des sections de communes", url: "https://www.collectivites-locales.gouv.fr/connaitre-les-acteurs-et-les-institutions/structures-territoriales/les-communes/le-territoire-communal/ladministration-des-sections-de-communes"}
+      - {titre: "Sénat — Rapport de Pierre-Yves Collombat (2012)", url: "https://www.senat.fr/rap/l12-013/l12-013.html"}
+      - {titre: "Jean-François Joye, « Le profil juridique contemporain des communaux », 2021 — HAL", url: "https://univ-smb.hal.science/hal-03504658v1"}
+
+  - id: "concejos-alava"
+    atlas_uid: "concejos-alava"
+    communaute: "Habitants des concejos d'Álava"
+    etats: ["Espagne (Pays basque)"]
+    entite: "333 concejos, 37 736 habitants (2025)"
+    mecanisme: "collectivite_publique_de_village"
+    annee: 2026
+    concept_local: "concejo abierto ; junta administrativa"
+    resume: >-
+      Le concejo est une entité locale territoriale dotée de la personnalité juridique, qui administre un village à l'intérieur d'une commune avec une « pleine autonomie » pour gérer ses intérêts (Norma Foral, c'est-à-dire loi du territoire historique, 17/2026, art. 1). Il est propriétaire de ses biens communaux, dont l'usage revient aux habitants (art. 59), et attribue aux foyers résidents les pâturages, les roturos (terres défrichées) et les suertes foguerales (lots de bois de chauffage) (art. 61). Toute vente, hypothèque ou échange d'un bien d'une valeur supérieure à 30 % des recettes ordinaires de l'année précédente exige l'autorisation de la Diputación Foral, le gouvernement du territoire (art. 7.2).
+    gouvernance: "Assemblée de tous les habitants inscrits (concejo abierto) ou junta administrativa élue au suffrage direct pour quatre ans ; le concejo adopte des ordenanzas (règlements locaux) et sanctionne leur violation (Norma Foral 17/2026, art. 6, 9, 25 et 29)."
+    effectivite: "L'édit de la Junta electoral du 29 octobre 2025 range plus de 270 des 333 concejos parmi ceux sans candidature ou sans candidats en nombre suffisant ; les électeurs peuvent toutefois voter pour tout habitant éligible sans candidature (Norma Foral 17/2026, art. 16.3), et le résultat du scrutin n'a pas été trouvé ; l'exposé des motifs de la Norma Foral 17/2026 vise des « situations de blocage » des juntas administrativas."
+    textes:
+      - {titre: "Norma Foral 17/2026 du 10 juillet, des concejos du territoire historique d'Álava", nature: "loi", annee: 2026, source: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
+      - {titre: "Loi 2/2016 du 7 avril, des institutions locales d'Euskadi, art. 2 et 12", nature: "loi", annee: 2016, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2016-4171"}
+    sources:
+      - {titre: "BOTHA n° 84, 24 juillet 2026 — Norma Foral 17/2026", url: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
+      - {titre: "BOTHA n° 119, 20 octobre 2025 — Orden Foral 513/2025", url: "https://www.araba.eus/botha/Boletines/2025/119/2025_119_03012_C.pdf"}
+      - {titre: "BOTHA n° 123, 29 octobre 2025 — candidatures et concejos sans candidature", url: "https://www.araba.eus/botha/Boletines/2025/123/2025_123_03110_C.pdf"}
+
+  - id: "concejos-navarre"
+    atlas_uid: "entites-traditionnelles-concejos-navarre"
+    communaute: "Habitants des concejos et corporations traditionnelles de Navarre"
+    etats: ["Espagne (Navarre)"]
+    entite: "344 concejos et 5 corporations traditionnelles (Bardenas Reales, Aezkoa, Roncal, Salazar, Aralar)"
+    mecanisme: "collectivite_publique_de_village"
+    annee: 1990
+    concept_local: "aprovechamiento"
+    resume: >-
+      La loi forale 6/1990 reconnaît comme entités locales les concejos, situés dans le territoire d'une commune, et cinq corporations traditionnelles titulaires de biens communaux, régies par leurs propres règlements, ordonnances et concordes (art. 3 et 45). Les biens communaux sont inaliénables, imprescriptibles, insaisissables et non imposables (art. 100), et toute aliénation au-delà de petites parcelles exige une loi forale (art. 140.5). La loi fixe elle-même les bénéficiaires de l'aprovechamiento (droit d'usage : culture, pâturage, bois), à savoir les foyers dont le titulaire est inscrit au registre municipal depuis un à six ans et réside au moins neuf mois par an dans l'entité (art. 142), ainsi que la taille des lots et le plafond des redevances (art. 142 à 156).
+    gouvernance: "Président et junta élus par les résidents inscrits sur les listes électorales, ou assemblée de tous les habitants (concejo abierto) sous 50 habitants (loi forale 6/1990, art. 38) ; depuis 2019, la commune doit assurer au concejo un organe consultatif de participation (art. 39.4)."
+    effectivite: "Selon les relevés de l'Institut de statistique de Navarre repris par Wikipédia en espagnol, 98 concejos ont été supprimés en 1990 et 1991, et leur nombre est passé de 388 en 1991 à 345 au 1er janvier 2024 ; la loi forale 4/2019 ajoute comme cause d'extinction l'absence de candidats à deux élections successives."
+    textes:
+      - {titre: "Loi forale 6/1990 du 2 juillet, de l'administration locale de Navarre", nature: "loi", annee: 1990, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19817"}
+      - {titre: "Loi forale 4/2019 du 4 février, de réforme de l'administration locale de Navarre", nature: "loi", annee: 2019, source: "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2642"}
+    sources:
+      - {titre: "BOE — Ley Foral 6/1990", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19817"}
+      - {titre: "Concejo (Navarra) — Wikipédia en espagnol", url: "https://es.wikipedia.org/wiki/Concejo_(Navarra)"}
+
+  - id: "bourgeoisies-suisses"
+    atlas_uid: "bourgeoisies-suisse"
+    communaute: "Bourgeois et patrizi titulaires du droit de cité d'une commune"
+    etats: ["Suisse"]
+    entite: "Biens bourgeoisiaux : forêts, alpages, pâturages ; environ 1 700 bourgeoisies et corporations"
+    mecanisme: "corporation_hereditaire"
+    annee: 1999
+    concept_local: "Bürgergemeinde ; patriziato"
+    resume: >-
+      Les bourgeoisies (Bürgergemeinden, communes bourgeoisiales en Valais, patriziati au Tessin) regroupent les titulaires du droit de cité héréditaire d'une commune, quel que soit leur domicile. Elles sont nées après 1798, quand la commune a été ouverte à tous les habitants et que les anciens bourgeois ont gardé à part la propriété des biens communs. La Constitution fédérale permet de déroger à l'égalité entre titulaires de droits de cité pour régler les droits politiques dans les bourgeoisies et la participation à leurs biens (art. 37, al. 2). Au Tessin, les forêts, alpages, pâturages et carrières du patriziato sont inaliénables et ne peuvent être mis en gage, et toute aliénation d'immeuble exige la ratification du Conseil d'État (loi organique patriziale de 1992, art. 5, 8, 9 et 16) ; la jouissance se fait en commun par les membres et les non-membres, et l'usage public est garanti (art. 4 et 7).
+    gouvernance: "Au Tessin, assemblée des membres ayant le droit de vote, conseil patrizial et bureau patrizial élus pour quatre ans (LOP 1992, art. 64 à 68) ; en Valais, assemblée et conseil bourgeoisial de trois à neuf membres (loi sur les communes 2004, art. 50) ; surveillance cantonale et substitution possible en cas de carence (LOP, art. 130 à 138)."
+    effectivite: "L'association faîtière représente environ 1 700 bourgeoisies et corporations, propriétaires d'environ 41 % de la forêt suisse (SVBK). Au Tessin, l'étude stratégique de 2020 recense 197 patriziati, dont 56 « fragiles » sur le plan financier, et indique que 68 % ont des difficultés à tenir à jour le registre des membres."
+    textes:
+      - {titre: "Constitution fédérale de la Confédération suisse, art. 37, al. 2", nature: "constitution", annee: 1999, source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20240303/fr/html/fedlex-data-admin-ch-eli-cc-1999-404-20240303-fr-html-10.html"}
+      - {titre: "Legge organica patriziale du canton du Tessin, 28 avril 1992", nature: "loi", annee: 1992, source: "https://www3.ti.ch/CAN/RLeggi/public/index.php/raccolta-leggi/legge/num/82"}
+      - {titre: "Loi sur les communes du canton du Valais, 5 février 2004, art. 48 à 58", nature: "loi", annee: 2004, source: "https://lex.vs.ch/app/fr/texts_of_law/175.1"}
+    sources:
+      - {titre: "Bourgeoisie — Dictionnaire historique de la Suisse", url: "https://hls-dhs-dss.ch/fr/articles/026443/"}
+      - {titre: "Studio strategico sui Patriziati 2020 — Cantone Ticino", url: "https://www4.ti.ch/fileadmin/DI/DI_DI/SEL/Patriziati/Studio_strategico/Studio_strategico_patriziati_impaginato_SIC2.pdf"}
+      - {titre: "Schweizerischer Verband der Bürgergemeinden und Korporationen (SVBK)", url: "https://www.svbk.ch/"}
+
+  - id: "corporations-allmend"
+    atlas_uid: "corporations-allmend-suisse-centrale"
+    communaute: "Membres des corporations d'Uri, de Schwyz, d'Obwald, de Zoug et de Lucerne"
+    etats: ["Suisse"]
+    entite: "Alpages, forêts et terres d'allmend ; Uri et Ursern possèdent au moins 85 % du canton d'Uri"
+    mecanisme: "corporation_hereditaire"
+    annee: 1984
+    concept_local: "Allmend ; Korporationsbürgerrecht"
+    resume: >-
+      Le Code civil suisse laisse au droit cantonal les sociétés d'allmends, c'est-à-dire de biens d'usage collectif (art. 59, al. 3). Les constitutions d'Uri, de Schwyz, d'Obwald, de Zoug et de Lucerne reconnaissent les corporations comme collectivités de droit public ; Uri garantit leur patrimoine (art. 73), Zoug impose de le conserver comme bien indivisible (§ 73) et Lucerne interdit d'en répartir la substance entre les membres (loi de 2013, § 5). La vente de terrains reste possible, et Obwald l'encadre (art. 107). La qualité de membre se transmet en principe par filiation ; dans les corporations dites réelles du canton de Lucerne, elle est liée à la propriété d'un bien-fonds. À Uri, les corporations accordent les droits de cristallier et les concessions de carrières sur leur territoire (constitution, art. 57).
+    gouvernance: "À Uri, collectivités autonomes de droit public qui s'organisent selon des principes démocratiques, sous contrôle de légalité du canton (constitution, art. 72 et 118) ; la Korporation Uri a une assemblée des membres (Korporationsgemeinde), un conseil élu (Korporationsrat) et un exécutif (Engerer Rat). À Lucerne, compétences de puissance publique pour édicter des normes dans leur domaine (loi de 2013, § 2 et 3)."
+    effectivite: "Le Dictionnaire historique de la Suisse (2008) indique que, dans la plupart des cantons, les corporations ont un statut de droit public avec garantie de propriété. Selon la fédération qui les représente, Schwyz comptait 81 corporations en 2025, propriétaires d'environ la moitié de la surface cantonale."
+    textes:
+      - {titre: "Code civil suisse, art. 59, al. 3", nature: "loi", annee: 1907, source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260701/fr/html/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260701-fr-html-2.html"}
+      - {titre: "Constitution du canton d'Uri du 28 octobre 1984, art. 57, 72 à 74 et 118", nature: "constitution", annee: 1984, source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/2_621_625_589_fga/20210921/de/html/fedlex-data-admin-ch-eli-cc-1985-2_621_625_589_fga-20210921-de-html-6.html"}
+      - {titre: "Loi du canton de Lucerne sur les corporations du 9 décembre 2013", nature: "loi", annee: 2013, source: "https://srl.lu.ch/app/de/texts_of_law/170"}
+    sources:
+      - {titre: "Corporations — Dictionnaire historique de la Suisse", url: "https://hls-dhs-dss.ch/fr/articles/010262/"}
+      - {titre: "Korporation Uri — Bürgerrecht", url: "https://www.korporation.ch/ueber-uns/buergerrecht/"}
+      - {titre: "SVBK — Kanton Schwyz", url: "https://www.svbk.ch/kantone/sz/"}
+
+  - id: "regole"
+    atlas_uid: "regole-venetie"
+    communaute: "Familles regolières des provinces de Belluno et de Vicence"
+    etats: ["Italie"]
+    entite: "51 Regole constituées (2025), dont les onze Regole d'Ampezzo réunies en Comunanza (environ 16 000 ha de forêt)"
+    mecanisme: "corporation_hereditaire"
+    annee: 1996
+    concept_local: "fuoco ; laudo"
+    resume: >-
+      Les Regole sont des groupements de familles ayants droit, chaque famille formant un fuoco (foyer), qui possèdent et gèrent en commun des forêts, des pâturages et des alpages. La loi nationale 97/1994 sur la montagne demande aux régions de leur reconnaître la personnalité juridique de droit privé, et la loi nationale 168/2017 range parmi les biens collectifs les terres des familles descendant des anciens originaires du lieu (art. 3). La loi régionale 26/1996 rend le « patrimoine ancien », c'est-à-dire les biens agro-sylvo-pastoraux appartenant à la Regola au 31 décembre 1952, inaliénable, indivisible et insusceptible d'usucapion, et fait annoter ce lien aux registres immobiliers (art. 5 et 6). Tout changement de destination exige l'avis du service forestier et l'autorisation de la Région (art. 7 à 9).
+    gouvernance: "Assemblée de la Regola, qui approuve le laudo (statut propre) et élit les organes de gestion (loi régionale 26/1996, art. 2 à 4) ; gestion de substitution organisée par le président de la Région si la Regola cesse de fonctionner (art. 12) ; avis des Regole obligatoire sur les choix d'urbanisme, réputé favorable après soixante jours (art. 14)."
+    effectivite: "La Région recense 51 Regole (50 dans la province de Belluno, une dans celle de Vicence). Les Regole d'Ampezzo indiquent gérer environ 16 000 ha de forêt et, depuis 1990, le parc naturel des Dolomites d'Ampezzo (11 200 ha) ; aucune source indépendante n'évalue l'application du régime."
+    textes:
+      - {titre: "Loi régionale de Vénétie 26/1996 du 19 août 1996, Riordino delle Regole", nature: "loi", annee: 1996, source: "https://www.consiglioveneto.it/web/crv/dettaglio-legge?numeroDocumento=26&id=1725316&backLink=https%3A%2F%2Fwww.consiglioveneto.it%2Fleggi-regionali%3Fp_p_id&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&pageTitle=&tab=vigente&annoSelezionato=1996"}
+      - {titre: "Loi 168/2017 du 20 novembre 2017 sur les domaines collectifs", nature: "loi", annee: 2017, source: "https://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2017-11-28&atto.codiceRedazionale=17G00181"}
+    sources:
+      - {titre: "Regione del Veneto — Regole", url: "https://www.regione.veneto.it/web/enti-locali/regole"}
+      - {titre: "Regole d'Ampezzo — Le Regole d'Ampezzo, un altro modo di possedere", url: "https://www.regole.it/IT/pagina107-le-regole-d-ampezzo-un-altro-modo-di-possedere"}
+      - {titre: "Regole d'Ampezzo — Gestione del patrimonio", url: "https://www.regole.it/IT/pagina112-gestione-del-patrimonio"}
+
+  - id: "mercedes"
+    atlas_uid: "mercedes-nouveau-mexique"
+    communaute: "Héritiers des concessions de terres espagnoles et mexicaines"
+    etats: ["États-Unis (Nouveau-Mexique)"]
+    entite: "28 mercedes reconnues comme subdivisions politiques, plus de 250 000 acres de terres communes (2025)"
+    mecanisme: "corporation_hereditaire"
+    annee: 1907
+    concept_local: "merced"
+    resume: >-
+      Les mercedes sont des concessions de terres faites par l'Espagne puis par le Mexique à des villages, de la fin du XVIIe au milieu du XIXe siècle ; les ayants droit sont les héritiers inscrits. Le chapitre 49 des lois du Nouveau-Mexique en fait des subdivisions politiques de l'État (collectivités publiques rattachées à l'État), régies par leurs statuts et par le traité de Guadalupe Hidalgo de 1848 (art. 49-1-1). Le conseil des trustees (administrateurs) contrôle et gère les terres communes, fixe le nombre d'animaux au pâturage et adopte un zonage (art. 49-1-3). Toute vente ou hypothèque des terres communes exige une résolution du conseil, un bénéfice pour la merced et une ordonnance du tribunal de district, à laquelle les héritiers peuvent s'opposer dans les trente jours (art. 49-1-11).
+    gouvernance: "Conseil de cinq trustees élus par les héritiers inscrits tous les deux ou quatre ans selon les statuts (NMSA 1978, art. 49-1-4 et 49-1-5) ; le conseil peut conclure des accords avec des gouvernements locaux, l'État, le gouvernement fédéral ou des nations amérindiennes reconnues."
+    effectivite: "Selon le Government Accountability Office (2004), la quasi-totalité des 5,3 millions d'acres confirmés aux 84 concessions communautaires hors pueblos semble avoir été transférée ensuite à d'autres propriétaires. En 2025, le Land Grant Council de l'État compte 28 mercedes dotées du statut de subdivision politique, qui gèrent plus de 250 000 acres."
+    textes:
+      - {titre: "Traité de Guadalupe Hidalgo, art. VIII et IX", nature: "traite", annee: 1848, source: "https://nmdoj.gov/wp-content/uploads/Land_Grant_Law_Book_2023_update.v2.pdf"}
+      - {titre: "New Mexico Statutes Annotated 1978, chap. 49, art. 1 (Land Grants)", nature: "loi", annee: 1907, source: "https://nmdoj.gov/wp-content/uploads/Land_Grant_Law_Book_2023_update.v2.pdf"}
+    sources:
+      - {titre: "Ministère de la Justice du Nouveau-Mexique — Land Grant-Merced Laws and Statutes (2023)", url: "https://nmdoj.gov/wp-content/uploads/Land_Grant_Law_Book_2023_update.v2.pdf"}
+      - {titre: "NMSA 1978, art. 49-1-11 — FindLaw", url: "https://codes.findlaw.com/nm/chapter-49-land-grants/nm-st-sect-49-1-11/"}
+      - {titre: "GAO — Treaty of Guadalupe Hidalgo: Definition and List of Community Land Grants (2004)", url: "https://www.gao.gov/assets/gao-04-59.pdf"}
+      - {titre: "New Mexico Land Grant Council — rapport annuel 2025", url: "https://lgc.unm.edu/sites/default/files/desktop/nmlgc_fy_2025_annual_report.pdf"}
+
+  - id: "soulaliyates"
+    atlas_uid: "collectivites-soulaliyates-maroc"
+    communaute: "Membres des collectivités soulaliyates"
+    etats: ["Maroc"]
+    entite: "4 908 collectivités, environ 15,6 millions d'hectares de terres collectives (2024)"
+    mecanisme: "corporation_hereditaire"
+    annee: 2019
+    concept_local: "jamāʿa sulāliyya ; naïb"
+    resume: >-
+      Les collectivités soulaliyates (de sulāla, « lignée ») détiennent en commun des terres agricoles, forestières et de parcours sous la tutelle du ministère de l'Intérieur. La loi n° 62-17 de 2019 ne donne aux membres, hommes et femmes, qu'un droit d'exploitation personnelle et directe (art. 6). Les biens collectifs ne peuvent être acquis par possession ou prescription ni saisis, et ne sont cédés que dans les cas prévus par la loi (art. 15).
+    gouvernance: "Assemblée des délégués (naïbs) choisis parmi les membres pour six ans (loi 62-17, art. 9), qui répartit la jouissance et peut suspendre le droit d'un membre par décision motivée (art. 8) ; tutelle d'un conseil central présidé par le ministre de l'Intérieur et de conseils provinciaux présidés par les gouverneurs (art. 32 et 33)."
+    effectivite: "En janvier 2024, 17 des 7 731 délégués étaient des femmes ; 5,1 millions d'hectares étaient immatriculés au registre foncier et environ un million d'hectares mobilisés pour l'investissement agricole (Médias24)."
+    textes:
+      - {titre: "Loi n° 62-17 relative à la tutelle administrative sur les collectivités soulaliyates et la gestion de leurs biens (dahir n° 1-19-115 du 9 août 2019)", nature: "loi", annee: 2019, source: "https://adala.justice.gov.ma/api/uploads/2024/07/22/Dahir%20n%C2%B0%201%E2%80%9119%E2%80%91115%20portant%20promulgation%20de%20la%20loi%20n%C2%B0%2062%E2%80%9117%20relative%20%C3%A0%20la%20...-1721659890185.pdf"}
+    sources:
+      - {titre: "Portail Adala — Dahir n° 1-19-115 portant promulgation de la loi n° 62-17", url: "https://adala.justice.gov.ma/api/uploads/2024/07/22/Dahir%20n%C2%B0%201%E2%80%9119%E2%80%91115%20portant%20promulgation%20de%20la%20loi%20n%C2%B0%2062%E2%80%9117%20relative%20%C3%A0%20la%20...-1721659890185.pdf"}
+      - {titre: "Médias24 — Terres soulaliyates : 76 % des communautés recensées (2024)", url: "https://medias24.com/2024/01/30/terres-soulaliyates-76-des-communautes-recensees/"}
+
+  - id: "obsti"
+    atlas_uid: "obsti-composesorate-roumanie"
+    communaute: "Ayants droit des obști et des composesorate"
+    etats: ["Roumanie"]
+    entite: "Environ 1 500 communs forestiers et pastoraux, 873 000 ha de forêts (2014-2018)"
+    mecanisme: "coproprietaires_inscrits"
+    annee: 2000
+    concept_local: "obște de moșneni ; obște de răzeși ; composesorat"
+    resume: >-
+      Les obști et composesorate sont des propriétés communes de villages, détenues en indivision par des ayants droit qui en héritent des parts ; elles ont été placées sous propriété d'État de 1948 à 1989. La loi n° 1/2000 leur restitue leurs forêts et pâturages sous un seul titre de propriété au nom de l'association (art. 26). Les forêts restent en propriété indivise, les membres ne peuvent céder leurs parts à des personnes extérieures et les terres ne peuvent être aliénées en aucune manière (art. 28) ; en cas de dissolution, elles passent dans la propriété publique du conseil local. Le Code forestier de 2024 qualifie cette propriété de « garantie, indivisible et inaliénable » (art. 8).
+    gouvernance: "Un comité ad hoc présente au tribunal un statut, et la décision du tribunal rend à l'association sa personnalité juridique (loi 1/2000, art. 28) ; assemblée générale des membres, conseil de cinq membres, président et commission de contrôle (Sorea et al., 2022) ; contrat obligatoire avec un district forestier (ocol silvic) pour la garde et la gestion (Code forestier 2024, art. 26)."
+    effectivite: "Selon M. Vasile (2018), plus de 400 000 ayants droit, dont environ 30 % ont quitté les villages ; dans le département de Hunedoara, 67 % des 40 communs interrogés en 2016 avaient des procès liés à la restitution. Sorea et al. (2022) relèvent la dispersion des droits par héritage, qui gêne la participation aux assemblées."
+    textes:
+      - {titre: "Loi n° 1/2000 sur la reconstitution du droit de propriété sur les terres agricoles et forestières, art. 26 à 28", nature: "loi", annee: 2000, source: "https://legeaz.net/legea-1-2000/art-28"}
+      - {titre: "Loi n° 331/2024 portant Code forestier, art. 8", nature: "loi", annee: 2024, source: "https://legeaz.net/monitorul-oficial-7-2025/codul-silvic"}
+    sources:
+      - {titre: "M. Vasile, « Formalizing commons, registering rights », International Journal of the Commons, 12(1), 2018", url: "https://thecommonsjournal.org/articles/10.18352/ijc.805"}
+      - {titre: "D. Sorea et al., « The Compossessorates in the Olt Land (Romania) as Sustainable Commons », Land, 11(2), 2022", url: "https://www.mdpi.com/2073-445X/11/2/292"}
+
+  - id: "wspolnoty-gruntowe"
+    atlas_uid: "communautes-foncieres-pologne"
+    communaute: "Ayants droit des communautés foncières"
+    etats: ["Pologne"]
+    entite: "Environ 5 100 communautés foncières, 107 000 ha (2015)"
+    mecanisme: "coproprietaires_inscrits"
+    annee: 1963
+    concept_local: "wspólnota gruntowa"
+    resume: >-
+      Les communautés foncières sont des terres, des forêts et des eaux attribuées au XIXe siècle, lors de l'affranchissement des paysans, en usage commun aux habitants d'un ou de plusieurs villages ; la loi du 29 juin 1963 en fixe aujourd'hui les ayants droit par une liste. Elles ne peuvent être partagées, sauf remembrement voté à la majorité absolue (art. 5). Une part ne se cède qu'en entier, par acte notarié, à un autre ayant droit ou à un exploitant du même village ou d'un village voisin, et la commune a un droit de préemption, c'est-à-dire d'acheter en priorité (art. 26 et 27). Depuis 2016, un vote unanime ou une décision de justice peut transformer la communauté en copropriété ordinaire (art. 30a), et les terres sans ayants droit identifiés peuvent passer sans contrepartie à la commune ou à l'État (art. 8g à 8k).
+    gouvernance: "Société de gestion (spółka) formée par les ayants droit, personne morale dès l'approbation de son statut par le starosta (chef de district), une voix par membre (loi de 1963, art. 14 à 19) ; tutelle du wójt (maire), qui crée une société obligatoire et en nomme les organes si aucun statut n'est présenté (art. 23 à 25)."
+    effectivite: "Selon l'exposé des motifs de la réforme de 2015, environ 3 500 des 5 100 communautés n'avaient pas de statut juridique réglé et 1 080 seulement avaient une société de gestion. Une enquête de l'Institut de recherche forestière (2025) n'a obtenu que 22 réponses de 670 communautés forestières, dont 4 avec une inscription réglée au livre foncier."
+    textes:
+      - {titre: "Loi du 29 juin 1963 sur la gestion des communautés foncières, texte consolidé Dz.U. 2025 poz. 1454", nature: "loi", annee: 1963, source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1454/text.pdf"}
+      - {titre: "Loi du 10 juillet 2015 modifiant la loi sur la gestion des communautés foncières", nature: "loi", annee: 2015, source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1276"}
+    sources:
+      - {titre: "Sejm, impression n° 3193 (2015) : exposé des motifs", url: "https://api.sejm.gov.pl/sejm/term7/prints/3193/3193.pdf"}
+      - {titre: "E. Wysocka-Fijorek et al., Leśne Prace Badawcze, 85, 2025", url: "https://www.ibles.pl/wp-content/uploads/2025/11/10.48538-lpb-2025-0013.pdf"}
+      - {titre: "Communauté forestière des ayants droit des huit villages, Witów", url: "http://www.wspolnotalesna8wsi.pl/"}
+
+  - id: "pozemkove-spolocenstva"
+    atlas_uid: "communautes-foncieres-slovaquie"
+    communaute: "Copropriétaires des communautés foncières"
+    etats: ["Slovaquie"]
+    entite: "Forêts en propriété partagée, 324 980 ha (2020)"
+    mecanisme: "coproprietaires_inscrits"
+    annee: 2013
+    concept_local: "urbariát ; komposesorát"
+    resume: >-
+      Les communautés foncières (pozemkové spoločenstvá) réunissent les copropriétaires de forêts, de pâturages et de terres détenus en commun ; une partie hérite des biens des urbariáty, communautés d'anciens tenanciers régis par l'urbaire de 1767, et des komposesoráty (copropriétés indivises). La loi n° 97/2013 fait de chaque communauté une personne morale inscrite au registre de l'office de district (§ 3). Le bien commun forme une seule chose immobilière détenue en copropriété par parts ; la loi le déclarait indivisible en 2013, mais depuis la loi n° 110/2018 la copropriété peut être dissoute dans le cadre d'un remembrement (§ 8). Les parts restent cessibles, avec offre préalable aux autres copropriétaires et sans part inférieure à 2 000 m² (§ 2 et 9), et l'assemblée répartit les bénéfices entre les membres (§ 14 et 20).
+    gouvernance: "Assemblée de tous les membres, réunie au moins une fois par an, comité (výbor) et conseil de surveillance (dozorná rada) élus pour cinq ans au plus (loi 97/2013, § 13 à 17) ; contrôle de l'État par l'office de district (§ 27) ; le Fonds foncier slovaque vote pour les parts de l'État et des propriétaires non identifiés (§ 9 et 10)."
+    effectivite: "La Slovaquie déclare à la FAO 324 980 ha de forêts en propriété partagée en 2020, contre 475 380 ha en 2010, et 432 980 ha de forêts dont le titre ne figure qu'à l'état E du cadastre, sans force juridique. Aucune source indépendante sur le fonctionnement des communautés n'a été trouvée."
+    textes:
+      - {titre: "Loi n° 97/2013 Z. z. sur les communautés foncières, version consolidée au 1er juin 2025", nature: "loi", annee: 2013, source: "https://static.slov-lex.sk/static/SK/ZZ/2013/97/20250601.html"}
+    sources:
+      - {titre: "Slov-Lex — Zákon č. 97/2013 Z. z., texte publié", url: "https://static.slov-lex.sk/pdf/SK/ZZ/2013/97/ZZ_2013_97.pdf"}
+      - {titre: "FAO — Global Forest Resources Assessment 2025, Slovakia, Forest ownership", url: "https://fra-data.fao.org/assessments/fra/2025/SVK/sections/forestOwnership/"}
+      - {titre: "Parlamentný inštitút, Národná rada SR — information n° 6/2019", url: "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=468914"}
+
+  - id: "agrarne-skupnosti"
+    atlas_uid: "communautes-agraires-slovenie"
+    communaute: "Membres des communautés agraires"
+    etats: ["Slovénie"]
+    entite: "638 communautés agraires, 77 486 ha (2013)"
+    mecanisme: "coproprietaires_inscrits"
+    annee: 2015
+    concept_local: "agrarna skupnost ; srenja"
+    resume: >-
+      Les communautés agraires sont issues des anciennes communautés villageoises (soseske, srenje), supprimées en 1947 et dont les biens avaient été nationalisés ; la loi de 1994 a permis leur reconstitution et la restitution des terres et des droits d'usage (pâturage, litière, bois). La loi de 2015 inscrit les membres au registre foncier comme copropriétaires ou propriétaires en commun (art. 2). Le bien en tant que tout ne peut être aliéné ni divisé, sauf exceptions (art. 6 et 41) ; en cas de vente d'une part, la communauté, puis les membres, puis les membres associés, puis les résidents de la commune ont un droit de préemption (art. 42). La part d'un membre ne passe qu'à un seul héritier (art. 49).
+    gouvernance: "Assemblée générale (občni zbor) de tous les membres, président, conseil d'administration et conseil de surveillance, ou assemblée et président seuls à 25 membres ou moins (loi de 2015, art. 19 et 20) ; la communauté adopte un acte fondateur (temeljni akt) ; elle n'est pas une personne morale mais peut agir en justice (art. 7)."
+    effectivite: "Début 2025, 44 des 638 communautés recensées en 2013 étaient inscrites au registre national créé par la loi de 2015 ; en Haute-Carniole, 52 des 108 communautés recensées sont actives, et leurs terres couvrent 23 % du parc national du Triglav, où elles ont peu de poids dans la gestion (Geografski vestnik, 2025)."
+    textes:
+      - {titre: "Loi sur le rétablissement des communautés agraires et la restitution de leurs biens et droits (ZPVAS), Uradni list RS 5/1994", nature: "loi", annee: 1994, source: "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/1994-01-0233"}
+      - {titre: "Loi sur les communautés agraires (ZAgrS), Uradni list RS 74/2015", nature: "loi", annee: 2015, source: "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2015-01-2871"}
+    sources:
+      - {titre: "Ministère de l'Agriculture — Priročnik za uporabo Zakona o agrarnih skupnostih (2016)", url: "https://www.gov.si/assets/ministrstva/MKGP/PODROCJA/KMETIJSTVO/Kmetijska-zemljisca/AGRARNE-IN-PASNE-SKUPNOSTI/Prirocnik_za_uporabo_Zakona_o_agrarnih_skupnostih.pdf"}
+      - {titre: "Šmid Hribar M., Geografski vestnik 97-1, 2025", url: "https://ojs-gr.zrc-sazu.si/gv/article/view/9341"}
+
+  - id: "consortages"
+    atlas_uid: "consortages-valais"
+    communaute: "Consorts des alpages, bisses, forêts et fontaines du Valais"
+    etats: ["Suisse"]
+    entite: "Alpages, bisses (canaux d'irrigation), forêts et fontaines du Valais"
+    mecanisme: "coproprietaires_inscrits"
+    annee: 1998
+    concept_local: "Geteilschaft"
+    resume: >-
+      Les consortages sont des corporations dont les membres, les consorts, possèdent ou exploitent en commun un alpage, un bisse, une forêt ou une fontaine. La loi valaisanne d'application du Code civil de 1998 les soumet à leurs statuts approuvés par le Conseil d'État, qui leur donnent la personnalité morale (art. 126 et 127). Le but d'exploitation ne peut être modifié et les biens ne peuvent être aliénés de façon à entraver cette exploitation (art. 129) ; mais l'assemblée peut décider la dissolution, le solde revenant aux consorts, et chaque consort dispose librement de sa part dans les limites de la loi et des statuts (art. 128 et 131). Pour les droits d'alpage ou de bisse, le vote est proportionnel aux parts, et les statuts peuvent le réserver aux allodiateurs, titulaires de tous les droits sociaux (art. 130).
+    gouvernance: "Assemblée des consorts, comité et, pour les bisses, garde du bisse ; registre des consorts (LACC, art. 128 et 130) ; les statuts fixent les devoirs des consorts, dont les corvées (travaux collectifs). Le refus d'approbation du Conseil d'État ne peut être attaqué ni par la voie civile ni par la voie administrative (art. 127)."
+    effectivite: "Selon l'Office fédéral de la culture (2022), de nombreux bisses sont encore gérés par des consortages et 80 % des surfaces irriguées du canton reçoivent l'eau des bisses ; le recul de l'agriculture a réduit le travail collectif, et des communes ont repris par endroits les charges d'anciens consortages."
+    textes:
+      - {titre: "Code civil suisse, art. 59, al. 3", nature: "loi", annee: 1907, source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260701/fr/html/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260701-fr-html-2.html"}
+      - {titre: "Loi d'application du code civil suisse du canton du Valais du 24 mars 1998, art. 125 à 131", nature: "loi", annee: 1998, source: "https://lex.vs.ch/app/fr/texts_of_law/211.1"}
+    sources:
+      - {titre: "Office fédéral de la culture — Les consortages en Valais (Thomas Antonietti, 2022)", url: "https://www.lebendige-traditionen.ch/dam/fr/sd-web/dtmv4dYDE2hr/geteilschaften_imwallis.pdf"}
+      - {titre: "Canton du Valais — Consortages en Valais (Thomas Antonietti, 2012)", url: "https://www.vs.ch/documents/33695260/33770900/Les+consortages+en+Valais.pdf/3195048a-9fd9-e1d5-009b-08e44225aefb?t=1638276092368&v=1.0"}
+
+  - id: "commonages-bahamas"
+    atlas_uid: "commonages-bahamas"
+    communaute: "Commoners inscrits des commonages"
+    etats: ["Bahamas"]
+    entite: "Commonages de Tarpum Bay, Harbour Island et Spanish Wells, Rock Sound, Mount Thompson et Ramsey, Savannah Sound"
+    mecanisme: "coproprietaires_inscrits"
+    annee: 1896
+    concept_local: "commonage"
+    resume: >-
+      La loi de 1896 sur les commonages (Commonage Act, chap. 152) organise les terres concédées à plus de vingt personnes et non partagées entre elles, tenues en commun (art. 2). Seule une personne inscrite comme commoner sur le registre de la localité a un intérêt sur ces terres (art. 10) ; tout occupant non inscrit est réputé intrus et peut être expulsé, à la demande d'un commoner, par mandat du commissaire, l'administrateur de district (art. 15). Les commoners adoptent des règles d'usage que le ministre approuve et qui ont force de loi après publication au Journal officiel (art. 11 et 12). La loi de 2025 sur l'adjudication foncière exclut ces terres de ses zones d'adjudication.
+    gouvernance: "Assemblées des commoners, avec un quorum de dix ; l'assemblée annuelle élit un président et un bureau, que le commissaire nomme à défaut (Commonage Act, art. 7 et 8) ; à Savannah Sound, un comité formé des élus des commoners tranche les litiges entre commoners (règles de 2004)."
+    effectivite: "Cinq règlements de commonage figurent au recueil des lois ; aucun décompte officiel des commonages n'a été trouvé. En 2019, le comité de Harbour Island a transmis au procureur général des modifications ratifiées par les commoners ; celui-ci a répondu que tout changement exigerait une consultation des commoners de tout le pays (The Nassau Guardian)."
+    textes:
+      - {titre: "Commonage Act, chap. 152 (loi n° 14 de 1896)", nature: "loi", annee: 1896, source: "https://faolex.fao.org/docs/pdf/bha78380.pdf"}
+      - {titre: "Savannah Sound Commonage Rules (S.I. 102/2004) et autres règlements de commonage", nature: "reglement", annee: 2004, source: "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1896/1896-0014/1896-0014_1.pdf"}
+    sources:
+      - {titre: "FAOLEX — Commonage Act, chap. 152", url: "https://faolex.fao.org/docs/pdf/bha78380.pdf"}
+      - {titre: "The Nassau Guardian — Bethel: Commonage law changes will require consultation throughout Bahamas (2019)", url: "https://thenassauguardian.com/bethel-commonage-law-changes-will-require-consultation-throughout-bahamas/"}
+
+  - id: "agrargemeinschaften"
+    atlas_uid: "agrargemeinschaften-autriche"
+    communaute: "Membres des communautés agraires du Tyrol et du Vorarlberg"
+    etats: ["Autriche"]
+    entite: "Forêts, alpages et pâturages agraires ; 1 800 à 2 000 communautés au Tyrol"
+    mecanisme: "propriete_des_exploitations"
+    annee: 1996
+    concept_local: "Stammsitzliegenschaft"
+    resume: >-
+      Les communautés agraires (Agrargemeinschaften) groupent les propriétaires de fermes ou de parts qui utilisent en commun des forêts, des alpages et des pâturages « en vertu d'un usage ancien » ; la matière relève des Länder depuis l'abrogation de la loi-cadre fédérale fin 2019. Au Tyrol, la communauté est une corporation de droit public, personne morale publique formée de ses membres (TFLG 1996, § 34). La qualité de membre est attachée à une ferme (Stammsitzliegenschaft) et n'en est séparée qu'avec l'autorisation de l'autorité agraire (§ 38) ; la vente ou la charge durable de terrains exige aussi son autorisation, sauf vente de 2 000 m² au plus (§ 40). Sur les biens communaux (Gemeindegut) transférés à une communauté agraire, les revenus au-delà de l'usage agricole et forestier reviennent à la commune depuis l'arrêt de la Cour constitutionnelle de 2008 (VfSlg 18.446/2008).
+    gouvernance: "Assemblée générale (Vollversammlung), comité (Ausschuss) élu pour cinq ans et président (Obmann) (TFLG 1996, § 35) ; les statuts sont fixés par décision administrative (Bescheid) de l'autorité agraire, qui contrôle la légalité et l'opportunité de la gestion et peut nommer un administrateur (§ 34 et 37) ; sur le Gemeindegut, un administrateur de la substance nommé par le conseil municipal gère ventes et baux (§ 36a à 36k)."
+    effectivite: "Le Land du Tyrol estime à 1 800 à 2 000 le nombre de communautés sous sa tutelle ; la Cour constitutionnelle a tranché en 2008 et en 2010 des recours de communes et de communautés contre l'autorité agraire. Aucun total national n'a été trouvé."
+    textes:
+      - {titre: "Tiroler Flurverfassungslandesgesetz 1996 (TFLG 1996), §§ 33 à 40", nature: "loi", annee: 1996, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000117"}
+      - {titre: "Cour constitutionnelle, arrêt du 11 juin 2008, B464/07 (« Mieders »)", nature: "jurisprudence", annee: 2008, source: "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_09919389_07B00464_01"}
+    sources:
+      - {titre: "Land Tirol — Agrargemeinschaftliche Grundstücke und Agrargemeinschaften", url: "https://www.tirol.gv.at/landwirtschaft-forstwirtschaft/agrar/agrarrecht/agrargemeinschaftliche-grundstuecke-und-agrargemeinschaften/agrargemeinschaftliche-grundstuecke-und-agrargemeinschaften/"}
+      - {titre: "VfGH, 10 décembre 2010, B639/10 — RIS", url: "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_09898790_10B00639_01"}
+
+  - id: "bygdeallmenninger"
+    atlas_uid: "communaux-bygdeallmenninger-norvege"
+    communaute: "Exploitations agricoles ayants droit des communaux villageois"
+    etats: ["Norvège"]
+    entite: "Un peu plus de cinquante communaux villageois, 7 500 km²"
+    mecanisme: "propriete_des_exploitations"
+    annee: 1992
+    concept_local: "bygdeallmenning ; seter"
+    resume: >-
+      Le communal villageois est une terre dont la propriété appartient à au moins la moitié des exploitations agricoles qui y exercent de longue date des droits d'usage (loi n° 59 de 1992, § 1-1). Le droit d'usage ne peut être séparé de l'exploitation (§ 2-3). Le sol ne peut être ni vendu ni donné à bail, sauf parcelles pour mise en culture, activités liées au communal, projets d'utilité publique locale ou terrains à bâtir, et ne peut être hypothéqué (§ 1-2 et 1-3). Les exploitations disposent du bois pour leurs besoins agricoles, du pâturage, d'un alpage d'été (seter), de la chasse et de la pêche, dans la limite des besoins de l'exploitation (§ 2-2 et chapitres 5 à 8).
+    gouvernance: "Conseil du communal (allmenningsstyre) de trois à sept membres, élu pour quatre ans par et parmi les propriétaires et ayants droit en assemblée annuelle ; ses décisions ne sont pas susceptibles de recours administratif (§ 3-1, 3-2 et 3-13) ; ses règles d'usage (bruksregler) lient les ayants droit après approbation du ministère de l'Agriculture, qui peut en fixer d'office (§ 3-7 et 3-8)."
+    effectivite: "Un document de travail de l'Université norvégienne des sciences de la vie (Berge, 2018) décrit le passage à une gestion forestière professionnelle, les droits en bois étant remplis par une remise sur le prix du bois, et la baisse du nombre d'exploitations actives, dont les ressources non utilisées reviennent aux autres ayants droit."
+    textes:
+      - {titre: "Loi sur les communaux villageois (lov om bygdeallmenninger, LOV-1992-06-19-59)", nature: "loi", annee: 1992, source: "https://faolex.fao.org/docs/pdf/nor210509.pdf"}
+    sources:
+      - {titre: "Eriksen, « bygdeallmenningsloven », Store norske leksikon", url: "https://snl.no/bygdeallmenningsloven"}
+      - {titre: "Berge, « Understanding Norwegian Commons », Working Paper 10/18, Université norvégienne des sciences de la vie, 2018", url: "https://www.nmbu.no/download/file/fid/40390"}
+
+  - id: "allmanningsskogar"
+    atlas_uid: "forets-communales-norrland-suede"
+    communaute: "Propriétaires des immeubles copropriétaires des forêts communales"
+    etats: ["Suède"]
+    entite: "Forêts communales du Norrland et de Dalécarlie, 33 étudiées par Holmgren (2009)"
+    mecanisme: "propriete_des_exploitations"
+    annee: 1952
+    concept_local: "besparingsskog ; allmänning"
+    resume: >-
+      Ces forêts ont été mises en réserve au XIXe siècle, lors du remembrement (storskifte) en Dalécarlie et dans le Gävleborg sous le nom de besparingsskogar (« forêts d'épargne »), ou lors du partage des terres entre la Couronne et les paysans (avvittring) dans le Västerbotten et le Norrbotten. Elles appartiennent en commun aux propriétaires des immeubles pour lesquels elles ont été constituées, et la part ne peut être cédée qu'avec l'immeuble (loi 1952:167, § 2 et 4). La forêt doit être maintenue sans diminution et ne peut être hypothéquée ni saisie (§ 5) ; une vente de terrain exige une décision des copropriétaires et un avantage notable pour eux (§ 8). Le revenu net peut payer les impôts fonciers des immeubles copropriétaires ou soutenir l'agriculture et d'autres fins utiles dans les paroisses concernées (§ 18).
+    gouvernance: "Conseil (allmänningsstyrelse) élu par l'assemblée des copropriétaires (allmänningsstämma), où chacun vote selon sa part, sans dépasser un dixième des parts représentées (§ 7, 31 et 32) ; le conseil d'administration du comté (länsstyrelse, représentation de l'État) fixe le règlement et peut le modifier d'office ; le règlement peut prévoir que des membres du conseil sont nommés par lui (§ 7, 39 et 40)."
+    effectivite: "Une thèse de l'Université suédoise des sciences agricoles (Holmgren, 2009) a étudié les 33 forêts : exploitation limitée dans le Västerbotten et le Norrbotten, disparités entre forêts et influence directe de l'État sur la gestion. La forêt d'épargne de Svärdsjö et Svartnäs (environ 6 000 ha, environ 800 copropriétaires) verse une aide aux projets locaux liée à ses revenus éoliens."
+    textes:
+      - {titre: "Loi (1952:167) sur les forêts communales du Norrland et de Dalécarlie", nature: "loi", annee: 1952, source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1952167-om-allmanningsskogar-i-norrland-och_sfs-1952-167/"}
+    sources:
+      - {titre: "Holmgren, Forest commons in boreal Sweden, thèse, Université suédoise des sciences agricoles, 2009", url: "https://pub.epsilon.slu.se/2173/"}
+      - {titre: "Svärdsjö Svartnäs Besparingsskog — historique", url: "https://www.svardsjobesparingsskog.se/om-oss/historia"}
+
+  - id: "crofting-common-grazings"
+    atlas_uid: "paturages-communs-crofting-ecosse"
+    communaute: "Crofters partageant un pâturage commun"
+    etats: ["Royaume-Uni (Écosse)"]
+    entite: "Plus de 1 000 pâturages communs, plus de 500 000 ha"
+    mecanisme: "droits_sur_sol_d_autrui"
+    annee: 1993
+    concept_local: "township ; grazings committee"
+    resume: >-
+      Les pâturages communs (common grazings) sont des terres de colline partagées par les crofters, petits exploitants agricoles locataires sous un régime légal propre, d'un même township (hameau agricole). Chaque crofter détient une part d'usage ; la propriété du sol reste au propriétaire foncier, mais la Crofting Commission peut répartir des portions pour un usage exclusif (Crofters (Scotland) Act 1993, section 52). Les règlements du pâturage fixent le nombre et la nature du bétail de chaque crofter et la répartition des frais, et priment sur les clauses contraires des baux (section 49). Le Land Reform (Scotland) Act 2003 permet à une communauté de crofters d'acheter les terres, dont les pâturages communs, avec l'accord de la majorité de la communauté et l'approbation des ministres écossais (section 68).
+    gouvernance: "Comité des pâturages (grazings committee) nommé pour trois ans par les crofters en assemblée publique ; à défaut, la Crofting Commission, autorité publique de régulation, nomme un comité ou un gardien (grazings constable) et peut révoquer les membres (section 47) ; les règlements prennent effet après sa confirmation (section 49) ; les autres usages sont votés à la majorité, une voix par part (section 50B)."
+    effectivite: "Selon le plan national de développement du crofting (2021), 495 comités étaient en fonction en 2020 pour plus de 1 000 pâturages communs ; la Crofting Commission signale des pâturages sans règlement confirmé, et la Scottish Crofting Federation a dénoncé en 2016 la révocation d'au moins deux comités sur l'île de Lewis."
+    textes:
+      - {titre: "Crofters (Scotland) Act 1993, sections 47 à 52", nature: "loi", annee: 1993, source: "https://www.legislation.gov.uk/ukpga/1993/44/section/47"}
+      - {titre: "Land Reform (Scotland) Act 2003, section 68", nature: "loi", annee: 2003, source: "https://www.legislation.gov.uk/asp/2003/2/section/68"}
+    sources:
+      - {titre: "Crofting Commission — Common grazings", url: "https://www.crofting.scotland.gov.uk/common-grazings/"}
+      - {titre: "Gouvernement écossais — National Development Plan for Crofting (2021)", url: "https://www.gov.scot/publications/national-development-plan-crofting/"}
+      - {titre: "Scottish Crofting Federation — Crofting grazings put in jeopardy (2016)", url: "https://www.crofting.org/crofting_grazings_put_in_jeopardy/"}
+
+  - id: "commons-councils"
+    atlas_uid: "conseils-des-communaux-angleterre"
+    communaute: "Commoners de Brendon Commons et de Bodmin Moor"
+    etats: ["Royaume-Uni (Angleterre)"]
+    entite: "Deux conseils des communaux : Brendon Commons (Devon) et Bodmin Moor (Cornouailles)"
+    mecanisme: "droits_sur_sol_d_autrui"
+    annee: 2006
+    concept_local: "commoner"
+    resume: >-
+      La partie 2 de la loi de 2006 sur les communaux (Commons Act 2006) permet au ministre de créer par ordonnance un conseil des communaux, personne morale qui gère les activités agricoles, la végétation et les droits communaux d'une terre commune, s'il constate un « soutien substantiel » des titulaires de droits et des propriétaires (art. 26, 27 et 31). Les commoners sont les titulaires de droits d'usage sur cette terre ; le conseil ne possède pas le sol, qui reste aux propriétaires. Le conseil peut limiter le nombre d'animaux et les périodes de pâturage, retirer les clôtures illégales et tient un registre du pâturage ; ses règles n'entrent en vigueur qu'après confirmation du ministre, et leur violation n'est une infraction pénale que si le ministre y a consenti (art. 31 et 34). Deux conseils existent : Brendon Commons, en fonction depuis 2014, et Bodmin Moor, depuis 2016.
+    gouvernance: "À Bodmin Moor, 24 à 26 membres : 16 élus par les éleveurs actifs, 4 par les autres commoners, 4 nommés par les propriétaires et jusqu'à deux cooptés sans droit de vote (ordonnance de 2015, art. 4) ; le ministre peut révoquer l'ordonnance si le conseil cesse de fonctionner ou néglige l'intérêt public (Commons Act 2006, art. 37)."
+    effectivite: "Les consultations préalables ont recueilli 47 réponses favorables sur 53 à Brendon (2013) et 195 sur 202 à Bodmin Moor (2015) ; aucune source consultée ne décrit le fonctionnement des conseils après 2016."
+    textes:
+      - {titre: "Commons Act 2006, partie 2, art. 26 à 37", nature: "loi", annee: 2006, source: "https://www.legislation.gov.uk/ukpga/2006/26/part/2"}
+      - {titre: "Bodmin Moor Commons Council Establishment Order 2015 (S.I. 2015/1515)", nature: "reglement", annee: 2015, source: "https://www.legislation.gov.uk/uksi/2015/1515/made"}
+      - {titre: "Brendon Commons Council Establishment Order 2013 (S.I. 2013/2959)", nature: "reglement", annee: 2013, source: "https://www.legislation.gov.uk/uksi/2013/2959/made"}
+    sources:
+      - {titre: "Note explicative de l'ordonnance de 2015 (Bodmin Moor) — Defra", url: "https://www.legislation.gov.uk/uksi/2015/1515/pdfs/uksiem_20151515_en.pdf"}
+      - {titre: "Note explicative de l'ordonnance de 2013 (Brendon) — Defra", url: "https://www.legislation.gov.uk/uksi/2013/2959/pdfs/uksiem_20132959_en.pdf"}
+
+  - id: "dartmoor"
+    atlas_uid: "conseil-commoners-dartmoor"
+    communaute: "Commoners de Dartmoor"
+    etats: ["Royaume-Uni (Angleterre)"]
+    entite: "Terres communes de Dartmoor, près de 36 000 ha, 86 unités"
+    mecanisme: "droits_sur_sol_d_autrui"
+    annee: 1985
+    concept_local: "commoner ; reeve"
+    resume: >-
+      Le Dartmoor Commons Act 1985, loi locale du Parlement, institue un Conseil des commoners, titulaires de droits d'usage, surtout de pâturage, sur les terres communes. Les droits de commun sont inscrits au registre de 1965, attachés aux exploitations et non détachables de celles-ci (art. 8) ; le sol, les minéraux et les droits de chasse restent aux seigneurs des manoirs, au duché de Cornouailles et aux autres propriétaires (art. 20 et 21). Le Conseil édicte des règlements sur la santé du bétail, le surpâturage, le marquage et le brûlage de la lande, fixe le nombre d'animaux admis sur chaque unité et tient le registre des commoners ; ses règlements, confirmés par le ministre en 1990, peuvent ériger leur violation en infraction (art. 5).
+    gouvernance: "Conseil de 26 à 28 membres : 20 commoners élus par quartier, 2 membres nommés par l'autorité du parc national, 1 représentant du duché, 2 représentants des propriétaires, 1 vétérinaire et jusqu'à 2 cooptés (loi de 1985, art. 3) ; des reeves (gardes) font respecter les règlements (art. 6) ; les réclamations sur le registre vont en appel devant un tribunal de première instance (art. 7)."
+    effectivite: "La revue indépendante de 2023 pour le ministère de l'Environnement compte environ 850 commoners inscrits, dont moins de 20 % font pâturer ; elle décrit le Conseil comme soutenu en majorité, note des critiques sur la lenteur de ses décisions et une crise avec Natural England sur les réductions de cheptel."
+    textes:
+      - {titre: "Dartmoor Commons Act 1985 (1985 c. xxxvii)", nature: "loi", annee: 1985, source: "https://www.legislation.gov.uk/ukla/1985/37/contents"}
+      - {titre: "Règlements du Conseil des commoners de Dartmoor, confirmés le 3 août 1990", nature: "reglement", annee: 1990, source: "https://www.dartmoorcommonerscouncil.org.uk/data/uploads/690_1188406879.pdf"}
+    sources:
+      - {titre: "Dartmoor Commoners' Council", url: "https://www.dartmoorcommonerscouncil.org.uk/"}
+      - {titre: "Independent review of protected site management on Dartmoor (2023) — gov.uk", url: "https://www.gov.uk/government/publications/independent-review-of-protected-site-management-on-dartmoor/independent-review-of-protected-site-management-on-dartmoor"}
+
+  - id: "new-forest"
+    atlas_uid: "verderers-new-forest"
+    communaute: "Commoners de la New Forest"
+    etats: ["Royaume-Uni (Angleterre)"]
+    entite: "Terres de la Couronne de la New Forest"
+    mecanisme: "droits_sur_sol_d_autrui"
+    annee: 1949
+    concept_local: "verderer ; agister"
+    resume: >-
+      Les commoners de la New Forest occupent des terres auxquelles sont attachés des droits d'usage sur la forêt : pâturage des poneys, bovins et ânes, glandée des porcs (common of mast), bois de chauffage. Les terres de la forêt restent propriété de la Couronne ; les droits sont attachés aux terres inscrites au registre établi en application des lois de 1851 et 1854 (New Forest Act 1949, art. 4). L'accord des verderers est requis pour soustraire des terres aux droits communaux par échange (art. 19), pour certains enclos dans des plafonds fixés par la loi (art. 12 et 14) et pour les lignes, parkings, aires de loisirs et campings (art. 18). Les verderers adoptent des règlements (byelaws) sur la santé, le nombre et le marquage des animaux, confirmés par le ministre (art. 9).
+    gouvernance: "Cour des Verderers de dix membres : un verderer officiel nommé par la Couronne, cinq élus par les occupants d'au moins 0,40 ha de terre dotée de droits communaux et quatre nommés par des organismes publics ; les élus n'ont pas la majorité (New Forest Act 1949, art. 1 à 3) ; des agisters (gardes) suivent le bétail."
+    effectivite: "L'Autorité du parc national compte environ 700 commoners et 5 000 poneys ; les procès-verbaux de la Cour relèvent 11 787 animaux marqués en 2021 contre 15 524 en 2020, et une élection de verderers d'un coût supérieur à 25 000 livres avec peu de votants."
+    textes:
+      - {titre: "New Forest Act 1949, art. 1 à 19", nature: "loi", annee: 1949, source: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/contents"}
+    sources:
+      - {titre: "Verderers of the New Forest — About us", url: "https://www.verderers.org.uk/about-us/"}
+      - {titre: "New Forest National Park Authority — Supporting commoning", url: "https://www.newforestnpa.gov.uk/protecting/people/supporting-commoning/"}
+
+  - id: "fjellstyrer"
+    atlas_uid: "communaux-etat-fjellstyrer-norvege"
+    communaute: "Villages et exploitations ayants droit des communaux d'État"
+    etats: ["Norvège"]
+    entite: "Communaux d'État du sud et du centre de la Norvège, 26 600 km² dans 73 communes"
+    mecanisme: "droits_sur_sol_d_autrui"
+    annee: 1975
+    concept_local: "statsallmenning ; fjellstyre"
+    resume: >-
+      Dans les communaux d'État (statsallmenninger), le sol appartient à l'État et sa propriété est gérée par l'entreprise publique Statskog SF. Le droit d'usage « appartient au village ou au hameau qui l'exerce depuis les temps anciens » (loi sur les montagnes de 1975, § 2). Les exploitations agricoles qui ont le plein droit de communal peuvent avoir un droit de pâturage, d'alpage, de chasse, de piégeage et de pêche, et les habitants permanents ont des droits propres, surtout de chasse et de pêche. La loi restreint la disposition et la vente du sol (§ 12 et 13) ; le droit au bois relève d'une loi distincte de 1992.
+    gouvernance: "Conseil de montagne (fjellstyre) de cinq membres dans chaque commune qui compte un communal d'État, désignés par le conseil municipal pour quatre ans, dont la majorité doit résider dans le communal ou le village titulaire ; les ayants droit ne l'élisent pas ; recours devant la Direction de l'environnement pour la chasse et la pêche (§ 10)."
+    effectivite: "Le Store norske leksikon compte 93 conseils de montagne en 2023 ; leur fédération indique qu'ils employaient en 2012 environ 95 gardes de montagne. Aucune évaluation publique indépendante n'a été trouvée."
+    textes:
+      - {titre: "Loi sur les montagnes (fjellova) du 6 juin 1975 n° 31", nature: "loi", annee: 1975, source: "https://snl.no/fjellova"}
+    sources:
+      - {titre: "Store norske leksikon — fjellstyre", url: "https://snl.no/fjellstyre"}
+      - {titre: "Store norske leksikon — statsallmenning", url: "https://snl.no/statsallmenning"}
+      - {titre: "Norges Fjellstyresamband — Om fjellstyrene", url: "https://www.fjellstyrene.no/om-fjellstyrene"}
+
+  - id: "pays-quint"
+    atlas_uid: "pays-quint-aldudes"
+    communaute: "Habitants de la vallée de Baïgorry"
+    etats: ["France", "Espagne"]
+    entite: "Pâturages du Pays Quint septentrional (Kintoa), 2 510 ha"
+    mecanisme: "droits_sur_sol_d_autrui"
+    annee: 1856
+    concept_local: "Kintoa"
+    resume: >-
+      Le traité de délimitation signé à Bayonne le 2 décembre 1856 accorde aux habitants de la vallée de Baïgorry, en France, la « jouissance exclusive et perpétuelle » des pâturages de la partie nord du Pays Quint, territoire sous souveraineté espagnole, par un bail perpétuel de 8 000 francs par an (art. XV). Les Baïgorriens y conduisent leurs troupeaux sans payer de droits, construisent des cabanes et coupent le bois nécessaire aux usages ordinaires, sans pouvoir le vendre ; les propriétaires ne peuvent ni défricher, ni labourer, ni bâtir sur ces pâturages (art. XVI). Le sol appartient depuis la loi forale 8/1991 aux communes navarraises du Valle de Erro et du Valle de Baztán, en indivision.
+    gouvernance: "Commission syndicale de la vallée de Baïgorry, établissement public de huit communes formé de délégués des conseils municipaux, siège à Urepel (CGCT, art. L. 5222-1 à L. 5222-3) ; les Baïgorriens nomment leurs propres gardes jurés, qui surveillent les pâturages avec les gardes espagnols (traité, art. XVI)."
+    effectivite: "L'hebdomadaire Argia (2002) indique que les pâturages et le bois du Pays Quint septentrional restent à l'usage exclusif des habitants de Baïgorry contre une rente ; la charte de la montagne basque (2008) compte pour la vallée 250 exploitants transhumants et 8 200 unités de gros bétail en 2004."
+    textes:
+      - {titre: "Traité de délimitation entre la France et l'Espagne, Bayonne, 2 décembre 1856, art. XV à XIX", nature: "traite", annee: 1856, source: "https://www.dipublico.org/110719/tratado-de-limites-entre-espana-y-francia-desde-el-collado-de-analarra-hasta-la-desembocadura-del-bidasoa-firmado-en-bayona-a-2-de-diciembre-de-1856/"}
+      - {titre: "Ley Foral 8/1991, de 16 de marzo (Navarre), cession du mont Quinto Real", nature: "loi", annee: 1991, source: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1991-23612"}
+    sources:
+      - {titre: "Charte de développement durable de la montagne basque (2008)", url: "https://files.eke.eus/pdf/charte_developpement_durable_montagne_basque_2008.pdf"}
+      - {titre: "Argia — Kintoa mendi multzoa (2002)", url: "http://www.argia.com/argia-astekaria/1848/kintoa-mendi-multzoa-baso-ederrez-estalia"}
+      - {titre: "Escòla Gaston Febus — Les commissions syndicales dans les Pyrénées (2020)", url: "https://escolagastonfebus.com/histoire/les-commissions-syndicales-dans-les-pyrenees/"}
+
+  - id: "tribunaux-des-eaux"
+    atlas_uid: "tribunaux-coutumiers-eaux-espagne"
+    communaute: "Communautés d'irrigants de Valence, Murcie, Orihuela et Aldaia"
+    etats: ["Espagne"]
+    entite: "Canaux (acequias) des huertas de Valence, de Murcie, d'Orihuela et d'Aldaia"
+    mecanisme: "usagers_de_l_eau"
+    annee: 1985
+    concept_local: "Tribunal de les Aigües ; Consejo de Hombres Buenos"
+    resume: >-
+      La loi organique du pouvoir judiciaire (art. 19) reconnaît le caractère de « tribunal coutumier et traditionnel » au Tribunal des Eaux de Valence (1985), au Conseil des Hommes Bons de Murcie (1999), au Juzgado Privativo de Aguas (tribunal particulier des eaux) d'Orihuela et au Tribunal du Comuner d'Aldaia (2021), en application de l'article 125 de la Constitution. Composés d'irrigants élus ou tirés au sort, ils jugent oralement, sans avocat ni appel ordinaire, les infractions aux ordonnances d'irrigation et les litiges entre usagers ; le Tribunal constitutionnel a jugé en 2004 que le Conseil des Hommes Bons « exerce une juridiction véritable ». L'eau reste dans le domaine public hydraulique, et la junta de gobierno de chaque communauté la répartit « en respectant les droits acquis et les coutumes locales » (loi sur les eaux, art. 84).
+    gouvernance: "Chaque communauté d'usagers, corporation de droit public, a une assemblée générale de tous les usagers, une junta de gobierno (conseil de direction) élue et un ou plusieurs jurys ; ses ordonnances, adoptées par les usagers, sont approuvées par l'organisme de bassin, qui ne peut les refuser ni les modifier sans avis du Conseil d'État (loi sur les eaux, art. 81 à 84)."
+    effectivite: "Depuis 1999, le Tribunal supérieur de justice de Murcie refuse de réviser les décisions du Conseil des Hommes Bons (arrêt 113/2004 du Tribunal constitutionnel) ; la fiche de l'UNESCO (2009) décrit les tribunaux de Valence et de Murcie en activité et compte 11 691 et 23 313 membres dans leurs communautés. Aucune source indépendante n'a été trouvée sur Orihuela et Aldaia."
+    textes:
+      - {titre: "Constitution espagnole, art. 125", nature: "constitution", annee: 1978, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a125"}
+      - {titre: "Loi organique 6/1985 du pouvoir judiciaire, art. 19", nature: "loi_organique", annee: 1985, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666"}
+      - {titre: "Texte refondu de la loi sur les eaux (décret législatif royal 1/2001), art. 81 à 85", nature: "loi", annee: 2001, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276"}
+      - {titre: "Tribunal constitutionnel, arrêt 113/2004 du 12 juillet 2004", nature: "jurisprudence", annee: 2004, source: "https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/5118"}
+    sources:
+      - {titre: "UNESCO — Les tribunaux d'irrigants du bassin méditerranéen espagnol (2009)", url: "https://ich.unesco.org/fr/RL/les-tribunaux-dirrigants-du-bassin-mediterraneen-espagnol-le-conseil-des-sages-de-la-plaine-de-murcie-et-le-tribunal-des-eaux-de-la-plaine-de-valence-00171"}
+      - {titre: "Tribunal de les Aigües de València — fonctionnement", url: "https://tribunaldelasaguas.org/funcionamiento/"}
+      - {titre: "Consejo de Hombres Buenos de la Huerta de Murcia — fonctionnement et règlement", url: "https://www.elconsejodehombresbuenos.es/funcionamiento/"}
+
+  - id: "acequias"
+    atlas_uid: "acequias-nouveau-mexique"
+    communaute: "Parciantes des acequias"
+    etats: ["États-Unis (Nouveau-Mexique)"]
+    entite: "640 acequias recensées dans 22 comtés (2018), plus de 100 000 acres irrigués"
+    mecanisme: "usagers_de_l_eau"
+    annee: 1965
+    concept_local: "parciante ; mayordomo"
+    resume: >-
+      Les acequias sont des canaux d'irrigation gérés en commun par les détenteurs de droits d'eau (parciantes), selon un usage hérité de la période coloniale espagnole ; la loi en fait des personnes morales depuis 1895 et des subdivisions politiques de l'État depuis 1965 (NMSA 1978, art. 73-2-11 et 73-2-28). Depuis 1987, l'acequia peut détenir des droits d'eau, qu'elle ne perd pas par prescription (art. 73-2-22.1), et depuis 2009 les municipalités ne peuvent exproprier son eau (art. 3-27-2). Les droits d'eau des membres restent individuels et cessibles ; mais depuis 2004, lorsque ses règlements le prévoient, l'acequia doit approuver tout changement de point de dérivation ou d'usage d'un droit qu'elle dessert avant que l'ingénieur d'État ne statue, et ne peut refuser que si le changement lui est préjudiciable (art. 72-5-24.1).
+    gouvernance: "Trois commissaires et un mayordomo (responsable du partage de l'eau), élus tous les deux ans par les titulaires de droits d'eau à jour de leurs contributions (art. 73-2-12 et 73-2-14) ; les commissaires adoptent des règlements conformes aux lois de l'État (art. 73-2-21)."
+    effectivite: "En 2009, la cour d'appel de l'État a validé deux refus de transfert opposés par des acequias (Peña Blanca Partnership v. San José de Hernández Community Ditch, selon le Utton Center) ; en 2023, l'ingénieur d'État indiquait qu'il n'existait aucun nombre établi d'acequias en activité."
+    textes:
+      - {titre: "NMSA 1978, art. 73-2-28 (subdivisions politiques de l'État)", nature: "loi", annee: 1965, source: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-28/"}
+      - {titre: "NMSA 1978, art. 72-5-24.1 (approbation des changements de droits d'eau par l'acequia)", nature: "loi", annee: 2003, source: "https://law.justia.com/codes/new-mexico/chapter-72/article-5/section-72-5-24-1/"}
+    sources:
+      - {titre: "NMSA 1978, art. 73-2-21 — Justia", url: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-21/"}
+      - {titre: "Utton Center, Université du Nouveau-Mexique — Acequias", url: "https://uttoncenter.unm.edu/resources/research-resources/acequias.pdf"}
+      - {titre: "New Mexico Acequia Association — présentation au comité législatif (2018)", url: "https://www.nmlegis.gov/handouts/WNR%20100218%20Item%207%20Acequia%20Association%20Presentation%20Outline.pdf"}
+
+synthese: >-
+  Dans vingt-sept des trente cas, les ayants droit élisent ou désignent tout ou partie de l'organe qui gère la terre ou l'eau ; les trois autres sont les forêts d'iriai, pour lesquelles la loi n'impose aucun organe, les communaux d'État norvégiens, dont le conseil de montagne est désigné par le conseil municipal, et le Pays Quint, géré par une commission de délégués des conseils municipaux. Des membres nommés siègent à côté des élus à Dartmoor et à Bodmin Moor, où ils sont minoritaires, et dans la Cour des Verderers, où ils occupent la moitié des sièges. Une autorité publique approuve ou fixe les statuts ou les règles d'usage dans plusieurs cas : le Conseil d'État du Valais pour les consortages, l'autorité agraire du Tyrol pour les communautés agraires, le conseil d'administration du comté pour les forêts communales suédoises, le ministère norvégien pour les communaux villageois, la Crofting Commission pour les pâturages écossais. Elle peut aussi se substituer au groupe : gestion conservatoire en Galice, reprise par la commune après trois élections sans quorum dans le Trentin, société obligatoire créée par le maire en Pologne, comité nommé en Écosse. La qualité d'ayant droit suit la résidence en Galice, au Portugal, dans le Trentin, dans les sections de commune et dans les concejos ; la filiation dans les bourgeoisies suisses, les corporations de Suisse centrale (sauf les corporations dites réelles de Lucerne, liées à un bien-fonds), les Regole et les mercedes ; la ferme ou la terre en Autriche, dans les communaux villageois norvégiens, en Suède, à Dartmoor et dans la New Forest ; une part ou une inscription en Roumanie, en Pologne, en Slovaquie, en Slovénie, dans les consortages valaisans et aux Bahamas. La loi déclare la terre inaliénable dans les montes vecinales, les domaines collectifs italiens, les biens communaux de Navarre, les biens administratifs des patriziati tessinois, le patrimoine ancien des Regole et les obști roumaines, mais prévoit des issues : actes de disposition votés par les trois quarts des membres en Galice, loi forale en Navarre, retour au conseil local en cas de dissolution en Roumanie, exclusion depuis 2023 des terres privées grevées d'usi civici en Italie. Ailleurs, la vente est permise à des conditions fixées par la loi : vote des ayants droit au Portugal et en Suède, cas énumérés en Norvège, autorisation de l'administration en Autriche et en Álava, ordonnance du juge pour les mercedes. La loi a ouvert la sortie du régime en Pologne (2016) et en Slovaquie (2018), et le préfet peut transférer à la commune les biens des sections de commune. Là où le sol appartient à autrui, les droits d'usage sont attachés aux exploitations ou aux terres à Dartmoor et dans la New Forest, au village ou au hameau dans les communaux d'État norvégiens, aux habitants de la vallée de Baïgorry dans le Pays Quint.
+
+
+  Pour plusieurs régimes, les chiffres disponibles montrent un écart entre le nombre de communautés recensées et celui des communautés dotées d'organes ou inscrites : 200 commissions syndicales connues en 2003 pour 26 792 sections recensées en 1999 ; 1 080 sociétés de gestion pour environ 5 100 communautés foncières polonaises en 2015 ; 44 communautés agraires slovènes au registre national début 2025 sur 638 recensées en 2013 ; 495 comités en 2020 pour plus de 1 000 pâturages écossais. En Roumanie, les études citées relèvent les procès liés à la restitution et la dispersion des parts par héritage ; en Slovénie, la loi de 2015 ne donne pas la personnalité juridique aux communautés. Les cas hors d'Europe se rattachent aux mêmes mécanismes, sur des bases différentes : droit colonial espagnol au Nouveau-Mexique, loi de 1896 aux Bahamas, renvoi du Code civil japonais aux coutumes locales, loi de 2019 au Maroc. Selon le GAO, la quasi-totalité des terres confirmées aux concessions communautaires du Nouveau-Mexique hors pueblos semble avoir été transférée à d'autres propriétaires ; au Japon, la loi de 1966 permet de remplacer le droit d'iriai par une propriété, un bail ou un droit de superficie. Parmi les cas, seule la loi espagnole reconnaît à des juridictions d'usagers le rang de tribunal ; aux Bahamas, un comité d'élus des commoners de Savannah Sound tranche les litiges entre commoners.
+
+limites:
+  - "Le dossier ne couvre que les régimes qui ont une fiche dans l'atlas ; les communaux d'Allemagne, des Pays-Bas, de Grèce, d'Islande et des Balkans occidentaux ne sont pas traités."
+  - "Le nombre d'ayants droit n'est connu que pour quelques régimes (Trentin, Roumanie, Dartmoor, New Forest, Valence et Murcie, concejos d'Álava et de Navarre) ; aucun total national des communautés agraires d'Autriche ni des consortages du Valais n'a été trouvé."
+  - "Les chiffres viennent d'années différentes (1990 pour le Japon, 1999 pour les sections de commune, 2013 pour la Slovénie, 2015 pour la Pologne, 2025 pour l'Álava) et ne se comparent pas directement."
+  - "Le fonctionnement des conseils des communaux de Brendon et de Bodmin Moor après 2016, celui des communautés foncières de Slovaquie et celui des tribunaux d'Orihuela et d'Aldaia ne sont décrits par aucune source ouverte."
+  - "Les règles internes (statuts, laudi, ordonnances) des communautés n'ont pas été consultées une à une ; le dossier décrit le cadre légal et quelques cas documentés."
+  - "Les communs de la mer (prud'homies de pêche, réserves marines de Galice) et les droits d'achat des communautés écossaises sont exclus ; ils relèvent d'autres dossiers et fiches."
+
+candidats_atlas:
+  - "Commissions syndicales de Cize, d'Ostabaret et de Soule (Pays basque français) : signataires avec celle de Baïgorry de la charte de la montagne basque de 2008, elles gèrent des terres indivises entre communes au titre du CGCT, art. L. 5222-1 à L. 5222-3."
+  - "Communautés pastorales (pašne skupnosti) de Slovénie : régime distinct des communautés agraires, mentionné par le ministère de l'Agriculture slovène et exclu de la fiche communautes-agraires-slovenie."
+  - "Communauté des Bardenas Reales et Universidad de la vallée de Salazar (Navarre) : corporations traditionnelles nommées par la loi forale 6/1990 et régies par leurs propres ordonnances ; à décrire dans des fiches propres à côté de entites-traditionnelles-concejos-navarre."
+  - "Partecipanze agrarie d'Émilie et università agrarie du Latium : formes de domaines collectifs citées par la loi italienne de 2017, sans fiche propre ; à vérifier au regard du critère d'autonomie du cadre."
+  - "Coopératives bourgeoises du Liechtenstein : fiche bourgeoisies-liechtenstein existante, non retenue ici ; cinq coopératives sur onze communes (quatre constituées au plus tard en 2004, Vaduz en 2010), à intégrer au dossier."
