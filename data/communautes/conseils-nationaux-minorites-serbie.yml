@@ -1,0 +1,57 @@
+uid: "conseils-nationaux-minorites-serbie"
+nom: "Minorités nationales de Serbie"
+endonyme: "Nacionalni saveti nacionalnih manjina"
+territoire: "Serbie entière ; conseils sans territoire propre, plusieurs sièges en Voïvodine"
+etats: ["Serbie"]
+region: "europe"
+coord: [44.5, 20.5]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 570385, annee: 2022, perimetre: "somme des personnes déclarant l'une de ces 17 appartenances au recensement de 2022 : Bosniaques 153 801, Roms 131 936, Albanais 61 687, Slovaques 41 730, Croates 39 107, Roumains 23 044, Valaques 21 013, Monténégrins 20 238, Macédoniens 14 767, Bulgares 12 918, Ruthènes 11 483, Bunjevci 11 104, Russes 10 486, Goranis 7 700, Ukrainiens 3 969, Slovènes 2 829, Allemands 2 573 ; Ashkali, Égyptiens, Grecs, Juifs, Polonais et Tchèques non comptés (absents du tableau publié) ; Hongrois exclus (fiche propre)", source: "https://www.stat.gov.rs/en-us/vesti/20230428-konacnirezpopisa/?a=0&s=1904"}
+lieux: {valeur: 23, unite: "conseils nationaux de minorité nationale (24 en juin 2024, moins le Conseil national hongrois)", annee: 2024, source: "https://rm.coe.int/acfc-op-v-2024-5-5eme-avis-sur-la-serbie-fr/4880287293"}
+surface_km2: {valeur: null, annee: null, perimetre: "autonomie non territoriale", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution serbe de 2006 permet aux minorités nationales d'élire des conseils nationaux pour exercer l'autogouvernement (gestion de leurs affaires par des organes élus) dans la culture, l'éducation, l'information et l'usage officiel de la langue (art. 75). La loi de 2009 sur les conseils nationaux en fait des organisations investies de compétences publiques pour exercer le « droit collectif d'une minorité nationale à l'autogouvernement » dans ces domaines. Chaque minorité élit un seul conseil, de 15 à 35 membres selon sa population, pour quatre ans, au suffrage direct ou par une assemblée électorale ; pour la minorité juive, le comité exécutif de l'Union des communautés juives de Serbie fait office de conseil national (art. 134). Cette fiche regroupe les 23 conseils autres que le Conseil national hongrois, qui a sa propre fiche.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur la Serbie, adopté le 26 février 2025 : 24 conseils des minorités nationales depuis juin 2024 (§ 32) ; les conseils doivent refléter toute la diversité des minorités nationales (§ 7).", annee: 2025, source: "https://rm.coe.int/acfc-op-v-2024-5-5eme-avis-sur-la-serbie-fr/4880287293"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République de Serbie (2006), art. 75, 79 et 100", nature: "constitution", annee: 2006, source: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  - {instrument: "Loi sur les conseils nationaux des minorités nationales (Journal officiel n° 72/09, 20/14 décision de la Cour constitutionnelle, 55/14 et 47/18)", nature: "loi", annee: 2009, source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Conseil national élu par les membres de la minorité pour exercer leur droit à l'autogouvernement dans la culture, l'éducation, l'information et l'usage officiel de la langue, Constitution, art. 75 ; loi sur les conseils nationaux, art. 1a et 2 ; 15 à 35 membres selon la population au dernier recensement, art. 9 ; mandat de quatre ans, art. 9a ; élection directe si plus de 40 % des membres de la minorité sont inscrits sur la liste électorale spéciale, sinon assemblée électorale, art. 29 ; le comité exécutif de l'Union des communautés juives de Serbie fait office de conseil national sans élection, art. 134.", source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil national adopte son statut, art. 10, et fixe les noms traditionnels des communes, localités et lieux dans la langue de la minorité là où elle est en usage officiel ; ces noms deviennent officiels avec les noms serbes et sont publiés au Journal officiel, loi sur les conseils nationaux, art. 22, al. 1.", source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Consentement préalable du conseil national à l'approbation des manuels et matériels pédagogiques dans la langue de la minorité, réputé donné sans réponse sous 30 jours, art. 14 ; avis sur les candidats aux conseils d'établissements scolaires et à leur direction, art. 12, et sur les plans d'urbanisme touchant des biens culturels de la minorité, art. 18 ; avis, non consentement, dans les autres cas.", source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  langue: {valeur: "partiel", note: "Droit d'utiliser sa langue et, dans les zones où la minorité forme une part importante de la population, d'obtenir des procédures dans cette langue devant les organes de l'État, Constitution, art. 79 ; le conseil national propose l'usage officiel de la langue et de l'écriture de la minorité dans une commune, loi sur les conseils nationaux, art. 22, al. 3.", source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  education: {valeur: "partiel", note: "Le conseil national propose au ministre les programmes des contenus propres à la minorité et les programmes de langue, art. 13, et déclare des établissements d'importance particulière pour la minorité, art. 15 ; il peut créer des établissements d'enseignement, art. 10 et 11 ; enseignement dans la langue de la minorité, Constitution, art. 79.", source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  fiscalite: {valeur: "partiel", note: "Financement par les budgets de la République, de la Province autonome de Voïvodine et des communes ; 30 % des crédits de l'État répartis à parts égales entre les conseils enregistrés, 70 % selon la population de la minorité et le nombre d'institutions fondées par le conseil, loi sur les conseils nationaux, art. 114 et 115 ; aucun pouvoir fiscal.", source: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  representation: {valeur: "partiel", note: "L'Assemblée nationale assure la représentation des minorités nationales conformément à la loi, Constitution, art. 100 ; aucun siège réservé par minorité dans le texte consulté.", source: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La participation aux élections de l'ensemble des conseils, Conseil hongrois compris, est passée de 54,48 % en 2010 à 37,64 % en 2014 ; parmi les conseils de cette fiche : Roms de 54,93 % à 28,38 %, Bosniaques de 56,40 % à 35,90 %, Slovaques de 46,81 % à 31,04 % ; un arrêt de la Cour constitutionnelle de 2014 a supprimé plusieurs compétences des conseils (Beretka et Székely, World Autonomies, 2016). En 2025, le Comité consultatif du Conseil de l'Europe demande que les conseils reflètent toute la diversité des minorités nationales (§ 7).", source: "https://www.world-autonomies.info/non-territorial-autonomies/serbia"}
+chronologie:
+  - {annee: 2006, evenement: "Constitution de la Serbie : art. 75 sur les conseils nationaux."}
+  - {annee: 2009, evenement: "Loi sur les conseils nationaux des minorités nationales."}
+  - {annee: 2010, evenement: "Premières élections des conseils nationaux selon la loi de 2009."}
+  - {annee: 2014, evenement: "Arrêt de la Cour constitutionnelle (Journal officiel 20/14) annulant plusieurs articles ; modification de la loi (55/14) ; élections des conseils."}
+  - {annee: 2018, evenement: "Modification de la loi (Journal officiel 47/18)."}
+  - {annee: 2022, evenement: "Élections du 13 novembre : 23 minorités, dont 19 au suffrage direct et 4 par assemblée électorale (Goranis, Macédoniens, Croates, Monténégrins)."}
+  - {annee: 2024, evenement: "Le Conseil national des Goranis devient le 24e conseil (juin)."}
+  - {annee: 2025, evenement: "Cinquième avis du Comité consultatif de la Convention-cadre sur la Serbie (26 février)."}
+  - {annee: 2026, evenement: "Élections convoquées le 18 septembre pour le 8 novembre : 23 minorités, dont 21 au suffrage direct et 2 par assemblée électorale (Goranis, Russes)."}
+fiabilite:
+  verifie: ["Loi sur les conseils nationaux, texte consolidé en anglais publié par la Commission électorale de la République (art. 1a, 2, 9, 9a, 10 à 15, 18, 22, 29, 114, 115, 134).", "Chiffres du recensement de 2022 pour 17 minorités (Office statistique de la République).", "Rôle de conseil national du comité exécutif de l'Union des communautés juives de Serbie (loi sur les conseils nationaux, art. 134).", "Liste des 24 minorités dotées d'un conseil et date de juin 2024 (cinquième avis du Comité consultatif, § 32 et note 4).", "Élections de 2022 : 23 minorités, 4 par assemblée électorale (Gouvernement de la Serbie).", "Élections de 2026 : décision du 18 septembre 2026, 21 minorités au suffrage direct, Goranis et Russes par assemblée électorale (ministère des Droits de l'homme et des minorités)."]
+  non_confirme: ["Le Conseil des Goranis est cité parmi les assemblées électorales de 2022 mais n'est devenu le 24e conseil qu'en juin 2024 selon le Conseil de l'Europe : écart non expliqué.", "Sièges des conseils non relevés ; nombre de communes où chaque langue est en usage officiel non vérifié.", "Participation aux élections de 2018 et 2022 non trouvée ; partie du cinquième avis consacrée à l'article 15 (participation) non lue."]
+sources:
+  - {titre: "Law on National Councils of National Minorities, texte consolidé en anglais — Commission électorale de la République", url: "https://www.rik.parlament.gov.rs/extfile/en/170/ZoNSNM-eng.pdf"}
+  - {titre: "Constitution de la Serbie — Constitute Project", url: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  - {titre: "Cinquième avis sur la Serbie (2025) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/acfc-op-v-2024-5-5eme-avis-sur-la-serbie-fr/4880287293"}
+  - {titre: "Final results of the Census 2022 — Office statistique de la République de Serbie", url: "https://www.stat.gov.rs/en-us/vesti/20230428-konacnirezpopisa/?a=0&s=1904"}
+  - {titre: "Elections for members of national councils of national minorities on 13 November — Gouvernement de la Serbie", url: "https://www.srbija.gov.rs/vest/en/193588/elections-for-members-of-national-councils-of-national-minorities-on-13-november.php"}
+  - {titre: "Izbori za članove nacionalnih saveta nacionalnih manjina raspisani za 8. novembar — ministère des Droits de l'homme et des minorités et du Dialogue social", url: "https://minljmpdd.gov.rs/izbori-za-clanove-nacionalnih-saveta-nacionalnih-manjina-raspisani-za-8-novembar/"}
+  - {titre: "The National Councils of National Minorities in Serbia — World Autonomies (Eurac Research)", url: "https://www.world-autonomies.info/non-territorial-autonomies/serbia"}

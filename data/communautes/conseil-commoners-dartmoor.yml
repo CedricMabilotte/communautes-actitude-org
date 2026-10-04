@@ -1,0 +1,72 @@
+uid: "conseil-commoners-dartmoor"
+nom: "Commoners de Dartmoor"
+endonyme: "Dartmoor Commoners' Council"
+territoire: "Terres communes de Dartmoor et de ses abords (Devon, Angleterre), dont la Forêt de Dartmoor"
+etats: ["Royaume-Uni"]
+region: "europe"
+coord: [50.6, -3.9]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 850, annee: 2023, perimetre: "commoners inscrits (environ 850, dont moins de 20 % font effectivement pâturer, selon la revue indépendante de 2023)", source: "https://www.gov.uk/government/publications/independent-review-of-protected-site-management-on-dartmoor/independent-review-of-protected-site-management-on-dartmoor"}
+lieux: {valeur: 86, unite: "unités de terres communes (common land units) listées par le Conseil des commoners", annee: null, source: "https://www.dartmoorcommonerscouncil.org.uk/data/uploads/751_1068388034.pdf"}
+surface_km2: {valeur: 360, annee: null, perimetre: "terres communes de Dartmoor, « nearly 36000 hectares » selon le Conseil, soit environ 37 % du parc national", source: "https://www.dartmoorcommonerscouncil.org.uk/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les commoners de Dartmoor (titulaires de droits d'usage, surtout de pâturage, sur les terres communes) élisent la majorité du Conseil des commoners de Dartmoor, institué par une loi locale du Parlement, le Dartmoor Commons Act du 30 octobre 1985. Le Conseil compte 26 à 28 membres, dont 20 commoners élus par quartier (nord, sud, est, ouest) ; les autres sièges reviennent à 2 membres nommés par l'autorité du parc national, 1 représentant du duché de Cornouailles, 2 représentants des propriétaires nommés par l'autorité du parc, 1 vétérinaire désigné par les autres membres et jusqu'à 2 membres cooptés. Il édicte des règlements sur le pâturage, le marquage, la santé du bétail et le brûlage de la lande, confirmés par le ministre, tient le registre des commoners et lève une contribution sur eux. Les terres communes couvrent près de 36 000 ha, environ 37 % du parc national de Dartmoor.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Dartmoor Commons Act 1985 (1985 c. xxxvii), loi locale du Parlement du 30 octobre 1985", nature: "loi", annee: 1985, source: "https://www.legislation.gov.uk/ukla/1985/37/contents"}
+  - {instrument: "Règlements du Conseil des commoners pris au titre de l'article 5 de la loi de 1985, scellés le 10 janvier 1990 et confirmés par le ministre de l'Environnement le 3 août 1990", nature: "loi", annee: 1990, source: "https://www.dartmoorcommonerscouncil.org.uk/data/uploads/690_1188406879.pdf"}
+  - {instrument: "Commons Act 2006 (loi de 2006 sur les communaux), partie 1 (enregistrement des terres communes et des droits de commun), en vigueur dans le Devon, zone pilote, depuis le 1er octobre 2008 ; elle remplace le Commons Registration Act 1965, abrogé dans les zones pilotes", nature: "loi", annee: 2006, source: "https://www.legislation.gov.uk/uksi/2008/1960/made"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Conseil des commoners compte 26 à 28 membres : 16 commoners élus par les commoners et 4 petits éleveurs (moins de 10 unités de bétail) élus de même, 2 membres nommés par l'autorité du parc, 1 par le duché de Cornouailles, 2 représentants des propriétaires nommés par l'autorité du parc, 1 vétérinaire désigné par les autres membres, et jusqu'à 2 membres cooptés (loi de 1985, art. 3 (2) et (3)). Le Conseil est une personne morale (annexe 2, par. 1). Les commoners votent par quartier lors d'assemblées électorales, s'ils sont inscrits au registre tenu par le Conseil et à jour de leurs contributions (art. 7 ; annexe 1, par. 9 à 14).", source: "https://www.legislation.gov.uk/ukla/1985/37/pdfs/ukla_19850037_en.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le Conseil doit édicter des règlements sur la santé du bétail, le surpâturage, le marquage, les mâles reproducteurs, l'enlèvement des carcasses et le brûlage de la lande, et peut réglementer l'exercice de tous les droits de commun (loi de 1985, art. 5 (1)) ; les règlements peuvent ériger leur violation en infraction, punie d'une amende pouvant atteindre le niveau 3 (art. 5 (4) ; règlements de 1990, règle 21) ; ils n'entrent en vigueur qu'après confirmation par le ministre (art. 5 (6)). Règlements confirmés le 3 août 1990.", source: "https://www.dartmoorcommonerscouncil.org.uk/data/uploads/690_1188406879.pdf"}
+  justice_propre: {valeur: "partiel", note: "Le Conseil ou un de ses comités statue sur les réclamations contre les inscriptions au registre, avec appel devant un tribunal de première instance (magistrates' court) (loi de 1985, art. 7 (6) et (7)) ; les recours contre un plafond de bétail vont à un arbitre (art. 5 (5)), nommé chaque année par le président de la Royal Institution of Chartered Surveyors (règlements de 1990, règle 13). Le Conseil nomme des reeves (gardes) chargés de faire respecter les règlements (art. 6).", source: "https://www.legislation.gov.uk/ukla/1985/37/pdfs/ukla_19850037_en.pdf"}
+  terres: {valeur: "partiel", note: "Les commoners détiennent des droits de commun inscrits au registre de 1965, attachés à leurs exploitations et non détachables de celles-ci (loi de 1985, art. 8) ; la propriété du sol, des minéraux et des droits de chasse reste aux seigneurs des manoirs, au duché de Cornouailles et aux autres propriétaires (art. 20 et 21). Le Conseil peut conclure avec les propriétaires des accords de gestion du pâturage (art. 4 (2) (d)).", source: "https://www.legislation.gov.uk/ukla/1985/37/pdfs/ukla_19850037_en.pdf"}
+  ressources: {valeur: "partiel", note: "Le Conseil fixe le nombre d'animaux admis sur chaque unité de terres communes par des avis de limitation (loi de 1985, art. 5 (1) (a) (ii) ; règlements de 1990, règle 9), peut brûler la bruyère, l'ajonc, l'herbe et la fougère avec l'accord du propriétaire, réputé acquis sans refus sous six semaines (art. 4 (2) (b) et 4 (3)) et encadre le brûlage (règles 16 à 19). Les minéraux restent aux propriétaires (art. 20).", source: "https://www.dartmoorcommonerscouncil.org.uk/data/uploads/690_1188406879.pdf"}
+  consentement: {valeur: "partiel", note: "L'autorité du parc doit consulter le Conseil des commoners avant d'édicter des arrêtés sur l'accès du public (loi de 1985, art. 11 (3)), avant de restreindre l'accès pour protéger le paysage, les arbres ou les animaux (art. 10 (4) (b)) et avant de fixer les pistes des chevaux de location (art. 12 (3)). Aucun droit de veto n'est prévu.", source: "https://www.legislation.gov.uk/ukla/1985/37/pdfs/ukla_19850037_en.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le Conseil vote son budget et peut lever sur chaque commoner inscrit une contribution annuelle par unité de bétail, exigible comme une dette ; les montants gardent entre catégories de titulaires la proportion fixée par la loi et leur révision exige une majorité des deux tiers (loi de 1985, art. 16 (3) et (4)) ; il peut emprunter comme une collectivité locale, sous réserve des ordonnances sur le contrôle des emprunts (art. 17). Le Conseil indique une contribution de 72 pence par unité de bétail pour les éleveurs actifs et de 12 pence pour les titulaires inactifs.", source: "https://www.dartmoorcommonerscouncil.org.uk/menu_page.php?id=63"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La revue indépendante de 2023, conduite par David Fursdon pour le ministère de l'Environnement (Defra), décrit le Conseil comme « mostly well-supported by the commoning community » (en majorité soutenu par les commoners) mais note qu'une partie des commoners souhaite confier ses fonctions à un autre organe, en raison de la lenteur de ses décisions (par. 15.3 et 15.4). Elle relève une crise entre commoners et Natural England sur les réductions de cheptel exigées dans les accords agroenvironnementaux, et que les éleveurs actifs de la Forêt de Dartmoor n'utilisent que 22 % de leurs droits.", source: "https://www.gov.uk/government/publications/independent-review-of-protected-site-management-on-dartmoor/independent-review-of-protected-site-management-on-dartmoor"}
+chronologie:
+  - {annee: 1965, evenement: "Le Commons Registration Act organise l'enregistrement des terres communes et des droits de commun auprès du conseil du comté de Devon."}
+  - {annee: 1984, evenement: "Lors d'une audience au titre de la loi de 1965, le duché de Cornouailles ne s'oppose pas à l'enregistrement de la Forêt de Dartmoor comme terre commune, selon le Conseil."}
+  - {annee: 1985, evenement: "Le Dartmoor Commons Act, loi locale du 30 octobre, institue le Conseil des commoners et ouvre un droit d'accès du public à pied et à cheval."}
+  - {annee: 1986, evenement: "Constitution du Conseil au 30 juin, date fixée par la loi ; premières élections sur la base d'un registre des commoners."}
+  - {annee: 1990, evenement: "Règlements du Conseil scellés le 10 janvier et confirmés par le ministre de l'Environnement le 3 août."}
+  - {annee: 2008, evenement: "Le Devon devient zone pilote de la partie 1 du Commons Act 2006 (1er octobre), qui remplace le Commons Registration Act 1965 pour l'enregistrement des terres communes."}
+  - {annee: 2023, evenement: "Revue indépendante sur la gestion des sites protégés de Dartmoor, publiée le 12 décembre."}
+  - {annee: 2024, evenement: "Réponse du gouvernement à la revue, publiée en avril."}
+fiabilite:
+  verifie:
+    - "Texte du Dartmoor Commons Act 1985 (version imprimée de l'Imprimeur du Roi) : composition du Conseil, fonctions, règlements, registre, contributions, consultation par l'autorité du parc."
+    - "Texte des règlements de 1990 et date de leur confirmation par le ministre, publié par le Conseil."
+    - "Abrogation du Commons Registration Act 1965 dans les zones pilotes, dont le Devon (ordonnance S.I. 2008/1960 et annotations de legislation.gov.uk)."
+    - "Liste de 86 unités de terres communes publiée par le Conseil."
+    - "Surface de près de 36 000 ha et part de 37 % du parc national, selon le site du Conseil."
+    - "Nombre d'environ 850 commoners inscrits et appréciations sur le Conseil : revue indépendante de 2023 (gov.uk)."
+  non_confirme:
+    - "Date de la liste des unités de terres communes et de la surface : documents non datés."
+    - "Montant de la contribution (72 et 12 pence) : indiqué par le Conseil, résolution correspondante non consultée."
+    - "Le nombre de 850 commoners est donné par la revue comme approximatif ; registre du Conseil non consulté."
+    - "La revue de 2023 compte 92 terres communes enregistrées (par. 5.5), le Conseil liste 86 unités : écart de périmètre non expliqué."
+    - "Modifications éventuelles des règlements depuis 1990 : aucune trouvée."
+sources:
+  - {titre: "Dartmoor Commons Act 1985 — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukla/1985/37/contents"}
+  - {titre: "Dartmoor Commons Act 1985, version imprimée (PDF) — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukla/1985/37/pdfs/ukla_19850037_en.pdf"}
+  - {titre: "Regulations as prepared under Section 5 of the Dartmoor Commons Act 1985 — Dartmoor Commoners' Council", url: "https://www.dartmoorcommonerscouncil.org.uk/data/uploads/690_1188406879.pdf"}
+  - {titre: "Common Land Units of Dartmoor — Dartmoor Commoners' Council", url: "https://www.dartmoorcommonerscouncil.org.uk/data/uploads/751_1068388034.pdf"}
+  - {titre: "Dartmoor Commoners' Council — accueil", url: "https://www.dartmoorcommonerscouncil.org.uk/"}
+  - {titre: "Organisation — Dartmoor Commoners' Council", url: "https://www.dartmoorcommonerscouncil.org.uk/menu_page.php?id=59"}
+  - {titre: "Regulations — Dartmoor Commoners' Council", url: "https://www.dartmoorcommonerscouncil.org.uk/menu_page.php?id=63"}
+  - {titre: "History — Dartmoor Commoners' Council", url: "https://www.dartmoorcommonerscouncil.org.uk/menu_page.php?id=64"}
+  - {titre: "Charging Sheet 2026 (registres de 1965 et de 1985) — Dartmoor Commoners' Council", url: "https://www.dartmoorcommonerscouncil.org.uk/data/uploads/781_2114754111.pdf"}
+  - {titre: "Commons Act 2006 (Commencement No. 4 and Savings) (England) Order 2008 — legislation.gov.uk", url: "https://www.legislation.gov.uk/uksi/2008/1960/made"}
+  - {titre: "Independent review of protected site management on Dartmoor, 12 décembre 2023 — gov.uk", url: "https://www.gov.uk/government/publications/independent-review-of-protected-site-management-on-dartmoor/independent-review-of-protected-site-management-on-dartmoor"}
+  - {titre: "Independent review of protected site management on Dartmoor: government response, avril 2024 — gov.uk", url: "https://www.gov.uk/government/publications/independent-review-of-protected-site-management-on-dartmoor-government-response"}

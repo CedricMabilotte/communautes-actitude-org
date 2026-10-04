@@ -1,0 +1,54 @@
+uid: "faxinais-parana"
+nom: "Faxinais du Paraná"
+endonyme: "Povos faxinalenses"
+territoire: "Faxinais de la région Centre-Sud de l'État du Paraná (Prudentópolis, Rio Azul, Rebouças, Pinhão et autres municipalités)"
+etats: ["Brésil"]
+region: "ameriques"
+coord: [-25.4, -51.0]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "faxinais", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les faxinais, communautés rurales du Centre-Sud du Paraná qui élèvent leurs animaux en liberté sur des terres d'usage commun (le criadouro comunitário, pâturage collectif sous forêt d'araucarias), cultivent des parcelles familiales et exploitent la forêt (maté, araucaria). Le décret de l'État du Paraná n° 3.446 du 14 août 1997 crée les Aires spéciales d'usage réglementé (ARESUR), délimitées faxinal par faxinal par le secrétaire d'État à l'Environnement. La loi de l'État n° 15.673 du 13 novembre 2007 reconnaît les faxinais et leur « territorialité spécifique », fondée sur l'usage commun de la terre, et protège leurs accords communautaires comme patrimoine culturel immatériel de l'État. Selon le ministère public du Paraná, ces accords fixent les activités permises dans chaque zone du faxinal et une commission locale en contrôle l'application.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Décret de l'État du Paraná n° 3.446 du 14 août 1997 (création des Áreas Especiais de Uso Regulamentado, ARESUR)", nature: "loi", annee: 1997, source: "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=54005&indice=1&totalRegistros=1"}
+  - {instrument: "Loi de l'État du Paraná n° 15.673 du 13 novembre 2007 (reconnaissance des faxinais et de leur territorialité)", nature: "loi", annee: 2007, source: "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=105&indice=1&totalRegistros=1"}
+  - {instrument: "Décret fédéral n° 8.750 du 9 mai 2016 (Conseil national des peuples et communautés traditionnels), art. 4, § 2, IX", nature: "loi", annee: 2016, source: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8750.htm"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "partiel", note: "La loi 15.673 de 2007 (art. 4) dispose que les pratiques sociales traditionnelles et les accords communautaires (acordos comunitários) des groupes faxinalenses doivent être conservés comme patrimoine culturel immatériel de l'État ; la loi ne leur donne pas expressément force obligatoire. Le ministère public du Paraná lit la loi comme une reconnaissance de la gestion du territoire par la communauté : les accords fixent les activités permises dans chaque zone du faxinal et une commission locale en contrôle l'application.", source: "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=105&indice=1&totalRegistros=1"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La loi 15.673 de 2007 (art. 1 et 2) reconnaît une territorialité fondée sur l'« usage commun des terres traditionnellement occupées », sans titre de propriété collective. Le décret 3.446 de 1997 (art. 1, § 3) prévoit la délimitation de chaque ARESUR par acte du secrétaire d'État à l'Environnement ; l'ARESUR suit, « no que couber » (dans la mesure applicable), les règles des aires de protection environnementale (APA).", source: "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=54005&indice=1&totalRegistros=1"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Le décret fédéral 8.750 de 2016 (art. 4, § 2, IX) réserve un siège aux faxinalenses (un titulaire et deux suppléants élus sur appel public) au Conseil national des peuples et communautés traditionnels, organe consultatif.", source: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8750.htm"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Hauresko, Correia et Gomes (2017) décrivent la vente de terres, l'appropriation illégale (grilagem) et l'absence d'appui de l'État ; ils relèvent que le faxinal d'Anta Gorda (Prudentópolis), réglementé comme ARESUR en 1997, dispose ainsi d'« un instrument de plus » pour défendre son mode de vie.", source: "https://revista.fct.unesp.br/index.php/pegada/article/download/4728/3726"}
+chronologie:
+  - {annee: 1997, evenement: "Décret de l'État n° 3.446 du 14 août : création des ARESUR et inscription possible des faxinais au registre des unités de conservation (CEUC)."}
+  - {annee: 1997, evenement: "Résolution n° 72 du secrétariat d'État à l'Environnement : le faxinal d'Anta Gorda (612 ha, dont 252 ha de criadouro comunitário) devient ARESUR."}
+  - {annee: 2004, evenement: "Relevé de l'Institut environnemental du Paraná (IAP) : 44 faxinais."}
+  - {annee: 2005, evenement: "Création de l'Articulação Puxirão dos Povos Faxinalenses, mouvement des faxinalenses."}
+  - {annee: 2007, evenement: "Loi de l'État n° 15.673 du 13 novembre : reconnaissance des faxinais, de leur territorialité et de leurs accords communautaires."}
+  - {annee: 2009, evenement: "Relevé de Souza, aligné sur la Rede Puxirão : 227 faxinais."}
+  - {annee: 2016, evenement: "Décret fédéral n° 8.750 : les faxinalenses figurent parmi les segments du Conseil national des peuples et communautés traditionnels."}
+fiabilite:
+  verifie: ["Texte de la loi 15.673 de 2007 (art. 1 à 4) et du décret 3.446 de 1997 (art. 1 et 2), lus sur le portail de législation de l'État du Paraná.", "Mention des faxinalenses à l'art. 4, § 2, IX du décret fédéral 8.750 de 2016 (portail Planalto).", "Description des accords communautaires et de la commission locale sur la page du ministère public du Paraná.", "Chiffres de 44 faxinais (IAP, Marques 2004) et de 227 faxinais (Rede Puxirão, Souza 2009 ; 2010), et données d'Anta Gorda (résolution n° 72 de 1997, 612 ha, 41 familles, 139 habitants), lus dans Hauresko, Correia et Gomes (2017)."]
+  non_confirme: ["Nombre d'ARESUR délimitées et liste officielle des sites : non trouvés ; la page du Cadastre des unités de conservation (Institut Água e Terra) range les « Faxinais (ARESUR) » parmi les aires protégées sans en donner le nombre ; pas de tableau des sites.", "Nombre de faxinais : aucun total officiel ; 44 selon l'IAP (2004), 227 selon la Rede Puxirão (2009), écart que Hauresko et al. (2017) attribuent à des définitions différentes.", "Existence d'une base légale (loi municipale ou acte de l'État) donnant force obligatoire aux accords communautaires et pouvoirs aux commissions locales ; la description vient du ministère public, pas d'un texte.", "Nombre de certificats d'auto-reconnaissance faxinalense délivrés en application de l'art. 3 de la loi 15.673.", "Date du décret 3.446 : 14 août 1997 sur le portail officiel, 25 juillet 1997 dans Hauresko et al. (2017)."]
+sources:
+  - {titre: "Loi de l'État du Paraná n° 15.673 du 13 novembre 2007 — Legislação do Estado do Paraná", url: "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=105&indice=1&totalRegistros=1"}
+  - {titre: "Décret de l'État du Paraná n° 3.446 du 14 août 1997 (ARESUR) — Legislação do Estado do Paraná", url: "https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=54005&indice=1&totalRegistros=1"}
+  - {titre: "Décret fédéral n° 8.750 du 9 mai 2016 — Planalto", url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8750.htm"}
+  - {titre: "CEUC — Cadastro Estadual de Unidades de Conservação e Áreas Protegidas — Instituto Água e Terra", url: "https://www.iat.pr.gov.br/Pagina/CEUC-Cadastro-Estadual-de-Unidades-de-Conservacao-e-Areas-Protegidas"}
+  - {titre: "Povos de Faxinais — Ministério Público do Paraná", url: "https://site.mppr.mp.br/direito/Pagina/Povos-de-Faxinais"}
+  - {titre: "Hauresko, Correia et Gomes, « A relação entre a conservação ambiental da floresta com araucárias e os sistemas faxinais no Paraná », Revista Pegada, vol. 18, n° 1, 2017", url: "https://revista.fct.unesp.br/index.php/pegada/article/download/4728/3726"}

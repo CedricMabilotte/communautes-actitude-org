@@ -1,0 +1,65 @@
+uid: "reserves-marines-interet-halieutique-galice"
+nom: "Réserves marines cogérées de Galice"
+endonyme: "Reservas mariñas de interese pesqueiro"
+territoire: "Eaux intérieures de Galice : côte de Lira (Os Miñarzos, Costa da Morte) et ria de Cedeira, province de La Corogne"
+etats: ["Espagne"]
+region: "europe"
+coord: [43.2, -8.6]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 2, unite: "réserves marines d'intérêt halieutique", annee: 2026, source: "https://www.pescadegalicia.gal/gl/reservas-marinas"}
+surface_km2: {valeur: 28.18, annee: 2024, perimetre: "somme des deux réserves : 2 074,2 ha pour Os Miñarzos et 744,2 ha pour la ria de Cedeira, selon leurs plans de gestion intégrale 2024-2026", source: "https://www.pescadegalicia.gal/reservas/2024/P.%20X.%20I.%20Minarzos.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés de pêcheurs artisanaux de Lira et de Cedeira, regroupées dans leurs confréries de pêcheurs (cofradías ou confrarías : corporations professionnelles de droit public), titulaires des deux réserves marines d'intérêt halieutique (REMIP) de Galice. La réserve Os Miñarzos, créée par le décret 87/2007 du 12 avril sur proposition des pêcheurs de Lira, et la réserve Ría de Cedeira, créée par le décret 28/2009 du 29 janvier sur proposition de la confrérie de Cedeira, réservent la pêche professionnelle aux titulaires de permis inscrits à un recensement propre à chaque réserve. Chaque réserve est dirigée par un organe de gestion, de suivi et de contrôle de huit membres, où le secteur de la pêche dispose de quatre sièges et l'administration des quatre autres, dont la présidence. Les professionnels recensés rédigent la proposition de plan de gestion intégrale, que la Direction générale de la pêche approuve.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Décret 87/2007 du 12 avril créant la réserve marine d'intérêt halieutique Os Miñarzos (DOG n° 88 du 8 mai 2007)", nature: "loi", annee: 2007, source: "https://www.pescadegalicia.gal/reservas/2026/Resolucion%20Organos%20de%20Goberno%20Os%20Mi%C3%B1arzos.pdf"}
+  - {instrument: "Décret 241/2008 du 2 octobre modifiant le décret 87/2007 : plan de gestion intégrale (art. 6 bis) et recensement des professionnels (DOG n° 210 du 29 octobre 2008)", nature: "loi", annee: 2008, source: "https://www.xunta.gal/dog/Publicados/2008/20081029/Anuncio40382_es.html"}
+  - {instrument: "Décret 28/2009 du 29 janvier créant la réserve marine d'intérêt halieutique Ría de Cedeira (DOG n° 33 du 17 février 2009)", nature: "loi", annee: 2009, source: "https://www.xunta.gal/dog/Publicados/2009/20090217/AnuncioA442_es.html"}
+  - {instrument: "Plans de gestion intégrale 2024-2026 des réserves Os Miñarzos et Ría de Cedeira, approuvés par résolution de la Direction générale de la pêche, de l'aquaculture et de l'innovation technologique", nature: "loi", annee: 2024, source: "https://www.pescadegalicia.gal/gl/reservas-marinas"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque réserve est dirigée par un organe de gestion, de suivi et de contrôle de huit membres nommés par la consellería (ministère régional) de la pêche : à Cedeira, trois sièges pour la confrérie de Cedeira et un pour la Fédération galicienne des confréries (décret 28/2009, art. 10) ; à Os Miñarzos, deux pour la confrérie de Lira et deux pour la Fédération (ordre du 22 juin 2026) ; la présidence et le secrétariat reviennent à l'administration, dont le président tranche les égalités de voix (décret 28/2009, art. 10.3).", source: "https://www.xunta.gal/dog/Publicados/2009/20090217/AnuncioA442_es.html"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les associations qui représentent les professionnels recensés rédigent la proposition de plan de gestion intégrale (de six mois à trois ans), qui peut déroger aux règlements de pêche ; le plan n'entre en vigueur qu'après approbation par la Direction générale compétente, sur avis de l'organe de gestion (décret 28/2009, art. 7 ; décret 87/2007, art. 6 bis, introduit par le décret 241/2008).", source: "https://www.xunta.gal/dog/Publicados/2009/20090217/AnuncioA442_es.html"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "La pêche et le ramassage professionnels dans la réserve sont réservés aux titulaires de permis inscrits à un recensement propre, approuvé et mis à jour par la Direction générale après avis de l'organe de gestion, et limités aux embarcations de 1,5 GT (jauge brute) au plus, sauf dérogations (décret 28/2009, art. 8 et 9) ; la récolte du naissain de moule passe par un accord entre les confréries et les concessionnaires de cultures (art. 4 d).", source: "https://www.xunta.gal/dog/Publicados/2009/20090217/AnuncioA442_es.html"}
+  consentement: {valeur: "partiel", note: "Le plan de gestion intégrale 2024-2026 d'Os Miñarzos prévoit que la proposition de plan est soumise aux professionnels recensés, par leurs associations ou en assemblée, avant l'avis de l'organe de gestion (point 4.2.1) ; aucune obligation légale de consentement n'a été trouvée.", source: "https://www.pescadegalicia.gal/reservas/2024/P.%20X.%20I.%20Minarzos.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Des plans de gestion intégrale sont approuvés chaque année ou par période depuis 2010 pour Os Miñarzos et depuis 2011 pour la ria de Cedeira (mesures de gestion en 2010), et les organes de gestion des deux réserves ont été renouvelés par ordres du 25 octobre 2023 et du 22 juin 2026 ; une étude publiée dans Ecology and Society (2024) décrit Os Miñarzos comme placée sous un régime de gouvernance partagée entre le gouvernement régional et le secteur de la pêche, et n'y relève, dans les publications analysées jusqu'en 2019, qu'un conflit, entre pêcheurs professionnels et de loisir, au sujet de la procédure de création. Aucune source indépendante sur la ria de Cedeira n'a été consultée.", source: "https://www.ecologyandsociety.org/vol29/iss4/art19/"}
+chronologie:
+  - {annee: 2007, evenement: "Décret 87/2007 du 12 avril : création de la réserve Os Miñarzos au large de Lira ; un ordre du 27 novembre en règle l'usage et la gestion."}
+  - {annee: 2008, evenement: "Décret 241/2008 du 2 octobre modifiant le décret 87/2007 (plan de gestion intégrale, recensement des professionnels)."}
+  - {annee: 2009, evenement: "Décret 28/2009 du 29 janvier : création de la réserve Ría de Cedeira sur proposition de la confrérie de Cedeira."}
+  - {annee: 2011, evenement: "Résolution du 3 novembre (DOG du 7 décembre) fixant le recensement des professionnels de la réserve Os Miñarzos."}
+  - {annee: 2024, evenement: "Approbation des plans de gestion intégrale 2024-2026 des deux réserves."}
+  - {annee: 2026, evenement: "Ordres du 22 juin renouvelant les membres des deux organes de gestion, de suivi et de contrôle (DOG du 1er juillet)."}
+fiabilite:
+  verifie:
+    - "Texte du décret 28/2009 (articles 1 à 14, dispositions additionnelles et transitoires) sur le site du DOG."
+    - "Texte du décret 241/2008 (article 6 bis : plan de gestion intégrale proposé par les associations des professionnels recensés) sur le site du DOG."
+    - "Composition des deux organes de gestion et références du décret 87/2007 (DOG n° 88 du 8 mai 2007) dans les ordres du 22 juin 2026 (DOG n° 121 du 1er juillet 2026)."
+    - "Surfaces (2 074,2 ha et 744,2 ha), procédure d'élaboration du plan et composition de l'organe d'Os Miñarzos dans les plans de gestion intégrale 2024-2026."
+    - "Existence de deux réserves seulement, selon la page « Reservas mariñas » de la plateforme Pesca de Galicia (Xunta de Galicia)."
+  non_confirme:
+    - "Texte initial du décret 87/2007 non consulté directement ; le décret modificatif, numéroté 240/2008 dans le plan de gestion 2024-2026, est le décret 241/2008 selon le DOG n° 210 du 29 octobre 2008."
+    - "Effectivité à Cedeira : seules des sources de l'administration régionale ont été consultées."
+    - "Nombre de pêcheurs et de ramasseurs inscrits aux recensements : listes annexées aux plans, non dénombrées."
+    - "Aucun document de l'ONU (CDB, FAO) ou du Conseil de l'Europe visant nommément ces réserves n'a été trouvé."
+sources:
+  - {titre: "Decreto 28/2009 por el que se crea la reserva marina de interés pesquero Ría de Cedeira — DOG", url: "https://www.xunta.gal/dog/Publicados/2009/20090217/AnuncioA442_es.html"}
+  - {titre: "Decreto 241/2008 por el que se modifica el Decreto 87/2007, reserva marina de interés pesquero Os Miñarzos — DOG", url: "https://www.xunta.gal/dog/Publicados/2008/20081029/Anuncio40382_es.html"}
+  - {titre: "Reservas mariñas de interese pesqueiro — Pesca de Galicia, Xunta de Galicia", url: "https://www.pescadegalicia.gal/gl/reservas-marinas"}
+  - {titre: "Plan de xestión integral 2024-2026, reserva Os Miñarzos", url: "https://www.pescadegalicia.gal/reservas/2024/P.%20X.%20I.%20Minarzos.pdf"}
+  - {titre: "Plan de xestión integral 2024-2026, reserva Ría de Cedeira", url: "https://www.pescadegalicia.gal/reservas/2024/P.%20X.%20I.%20Ria%20de%20Cedeira.pdf"}
+  - {titre: "Orde do 22 de xuño de 2026, órgano de xestión de Os Miñarzos — DOG", url: "https://www.pescadegalicia.gal/reservas/2026/Resolucion%20Organos%20de%20Goberno%20Os%20Mi%C3%B1arzos.pdf"}
+  - {titre: "Orde do 22 de xuño de 2026, órgano de xestión de Ría de Cedeira — DOG", url: "https://www.pescadegalicia.gal/reservas/2026/Resolucion%20Organos%20de%20Goberno%20Ria%20de%20Cedeira.pdf"}
+  - {titre: "Assessing the delivery of ecosystem services and benefits to human well-being of three contrasting MPAs in Spain — Ecology and Society, 2024", url: "https://www.ecologyandsociety.org/vol29/iss4/art19/"}

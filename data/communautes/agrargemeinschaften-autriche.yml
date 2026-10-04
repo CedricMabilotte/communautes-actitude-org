@@ -1,0 +1,63 @@
+uid: "agrargemeinschaften-autriche"
+nom: "Communautés agraires d'Autriche"
+endonyme: "Agrargemeinschaften"
+territoire: "Forêts, alpages et pâturages utilisés en commun, surtout dans les Länder alpins (Tyrol, Vorarlberg, Salzbourg, Carinthie, Styrie)"
+etats: ["Autriche"]
+region: "europe"
+coord: [47.2, 11.4]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "communautés agraires", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés agraires (Agrargemeinschaften) d'Autriche, groupements des propriétaires de fermes ou de personnes titulaires d'une part, qui possèdent ou gèrent en commun des forêts, des alpages et des pâturages utilisés « en vertu d'un usage ancien » (auf Grund alter Übung). Le régime repose sur la loi-cadre fédérale sur l'organisation foncière agricole (Flurverfassungs-Grundsatzgesetz 1951, BGBl. 103/1951), abrogée fin 2019 quand la matière est passée à la compétence exclusive des Länder, et sur les lois des Länder, dont la loi tyrolienne de 1996 (TFLG 1996) et la loi du Vorarlberg de 1979. En droit tyrolien, la communauté agraire est une corporation de droit public (Körperschaft des öffentlichen Rechts, personne morale publique formée de ses membres) dotée d'une assemblée générale, d'un comité et d'un président élus, sous la tutelle de l'autorité agraire (Agrarbehörde). Le Land du Tyrol estime leur nombre entre 1 800 et 2 000 sur son territoire ; aucun total national n'a été trouvé.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Flurverfassungs-Grundsatzgesetz 1951 (loi-cadre fédérale sur l'organisation foncière agricole), BGBl. Nr. 103/1951, §§ 15 à 17 et § 36 ; abrogé au 31 décembre 2019 (BGBl. I Nr. 14/2019)", nature: "loi", annee: 1951, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010269&FassungVom=2019-12-31"}
+  - {instrument: "Tiroler Flurverfassungslandesgesetz 1996 (TFLG 1996, loi tyrolienne sur l'organisation foncière agricole), LGBl. Nr. 74/1996, §§ 33 à 37, modifié notamment par LGBl. Nr. 7/2010 et LGBl. Nr. 70/2014", nature: "loi", annee: 1996, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000117"}
+  - {instrument: "Flurverfassungsgesetz du Vorarlberg, LGBl. Nr. 2/1979", nature: "loi", annee: 1979, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrVbg&Gesetzesnummer=20000588"}
+  - {instrument: "Cour constitutionnelle (VfGH), arrêt du 1er mars 1982, G35/81 et autres (VfSlg 9336/1982), sur l'inclusion du Gemeindegut dans le régime agraire", nature: "jurisprudence", annee: 1982, source: "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_10179699_81G00035_01"}
+  - {instrument: "Cour constitutionnelle (VfGH), arrêt du 11 juin 2008, B464/07 (VfSlg 18.446/2008, arrêt « Mieders »)", nature: "jurisprudence", annee: 2008, source: "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_09919389_07B00464_01"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les organes de la communauté agraire sont l'assemblée générale (Vollversammlung), le comité (Ausschuss) élu par l'assemblée pour cinq ans et le président (Obmann) élu par le comité (TFLG 1996, § 35). Les communautés « décident en principe de façon autonome » selon le Land, mais restent sous la tutelle de l'autorité agraire, qui contrôle la légalité et l'opportunité de la gestion, peut convoquer les organes et nommer un administrateur à leur place (TFLG 1996, § 37, al. 1 à 3).", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000117"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'assemblée générale décide à la majorité des parts des membres présents (TFLG 1996, § 35, al. 2), mais les statuts (Satzungen) sont fixés par décision administrative (Bescheid) de l'autorité agraire, d'office au-delà de cinq membres (TFLG 1996, § 34, al. 2) ; certains actes, dont la création d'entreprises commerciales, exigent son autorisation, et elle annule les décisions contraires à la loi ou aux statuts (§ 37, al. 4 à 6).", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000117"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "La communauté agraire, corporation de droit public (TFLG 1996, § 34, al. 3), possède ou utilise en commun les terrains agraires ; l'autorité agraire inscrit au registre foncier si la propriété revient à des copropriétaires ou à la communauté (§ 38, al. 1 et 2). La qualité de membre est attachée à une ferme (Stammsitzliegenschaft) et n'en est séparée qu'avec l'autorisation de l'autorité agraire (§ 38, al. 3) ; la vente ou la charge durable de terrains exige aussi son autorisation, sauf vente de 2 000 m² au plus (§ 40, al. 1). Une partie des terrains appartient à une commune ; pour le Gemeindegut (biens communaux), la valeur de substance revient à la commune (voir ressources).", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000117"}
+  ressources: {valeur: "partiel", note: "Les membres utilisent en commun la forêt, l'alpage et le pâturage à des fins agricoles et forestières (TFLG 1996, § 33, al. 1). Sur le Gemeindegut transféré à une communauté agraire, la valeur de substance (Substanzwert, revenus au-delà de l'usage agricole et forestier) revient à la commune depuis l'arrêt VfSlg 18.446/2008 ; un administrateur de substance (Substanzverwalter) nommé par le conseil municipal gère ventes, baux et charges sur ces terrains (TFLG 1996, §§ 36a à 36k, LGBl. Nr. 70/2014).", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000117"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les statuts règlent l'usage des excédents de recettes, le fonds de fonctionnement, le budget prévisionnel et les comptes, vérifiés par des contrôleurs aux comptes (TFLG 1996, § 36, lettres f et g) ; ces règles ne s'appliquent pas aux communautés sur Gemeindegut, dont la gestion financière relève de règles propres (§§ 36a et 36e). Aucun pouvoir fiscal.", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000117"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le régime est appliqué et soumis au juge : la Cour constitutionnelle a tranché en 2008 (B464/07) et en 2010 (B639/10) des recours de communes et de communautés agraires contre des décisions de l'autorité agraire tyrolienne ; en 2010, elle a validé la modification de la TFLG (LGBl. Nr. 7/2010) qui attribue à la commune la valeur de substance du Gemeindegut. Le Land du Tyrol estime à 1 800 à 2 000 le nombre de communautés agraires sous sa tutelle.", source: "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_09898790_10B00639_01"}
+chronologie:
+  - {annee: 1847, evenement: "Résolution impériale du 6 février 1847 pour le Tyrol et le Vorarlberg : des forêts sont transférées en propriété à des groupes d'ayants droit."}
+  - {annee: 1883, evenement: "Loi-cadre impériale du 7 juin 1883 (RGBl. Nr. 94) sur le partage et la régulation des terres communes."}
+  - {annee: 1951, evenement: "Loi-cadre fédérale sur l'organisation foncière agricole (BGBl. Nr. 103/1951)."}
+  - {annee: 1979, evenement: "Nouvelle publication de la loi du Vorarlberg sur l'organisation foncière agricole (LGBl. Nr. 2/1979), issue de la loi de 1951 (LGBl. Nr. 4/1951)."}
+  - {annee: 1982, evenement: "Arrêt de la Cour constitutionnelle du 1er mars 1982 (VfSlg 9336/1982) : les dispositions qui incluent le Gemeindegut dans le régime agraire sans tenir compte de sa valeur de substance sont jugées contraires au principe d'égalité."}
+  - {annee: 1996, evenement: "Loi tyrolienne sur l'organisation foncière agricole (TFLG 1996, LGBl. Nr. 74/1996)."}
+  - {annee: 2008, evenement: "Arrêt « Mieders » de la Cour constitutionnelle (11 juin, B464/07) : la valeur de substance du Gemeindegut transféré revient à la commune."}
+  - {annee: 2010, evenement: "Modification de la TFLG (LGBl. Nr. 7/2010) ; arrêt de la Cour constitutionnelle du 10 décembre (B639/10, « Unterlangkampfen »)."}
+  - {annee: 2014, evenement: "Modification de la TFLG (LGBl. Nr. 70/2014) : régime des communautés sur Gemeindegut et administrateur de substance (§§ 36a à 36k)."}
+  - {annee: 2020, evenement: "La loi-cadre fédérale de 1951 cesse de s'appliquer avec la fin de la compétence fédérale de principe (B-VG, art. 151, al. 63, ch. 4, BGBl. I Nr. 14/2019) ; la matière relève des seuls Länder."}
+fiabilite:
+  verifie: ["Définition des terrains agraires communs, statut de corporation de droit public, organes, statuts et tutelle : texte consolidé de la TFLG 1996 (§§ 33 à 37) sur le RIS.", "Loi-cadre de 1951 (§§ 15, 17, 36) et sa sortie de vigueur au 31 décembre 2019 (B-VG, art. 151, al. 63, ch. 4) : RIS.", "Litiges entre membres et avec la commune tranchés par l'autorité agraire, hors voie judiciaire ordinaire (TFLG 1996, § 37, al. 7) : RIS.", "Autorisation de l'autorité agraire pour la séparation des parts et la vente de terrains (TFLG 1996, §§ 38 et 40) : RIS.", "Estimation de 1 800 à 2 000 communautés au Tyrol et référence à l'arrêt B464/07 : page du Land du Tyrol.", "Arrêts VfSlg 9336/1982 (G35/81) et VfSlg 18.446/2008 (B464/07), B639/10 : base de jurisprudence du RIS.", "Loi du Vorarlberg LGBl. Nr. 2/1979 : RIS."]
+  non_confirme: ["Nombre total de communautés agraires en Autriche, surface et nombre de membres : aucune source officielle trouvée.", "Chiffre d'environ 300 communautés sur Gemeindegut et 18 000 membres au Tyrol : Wikipédia en allemand seulement, non repris dans la fiche.", "Effectivité hors du Tyrol non documentée par une source indépendante.", "Lois des autres Länder (Salzbourg, Carinthie, Styrie, Haute-Autriche, Basse-Autriche, Burgenland) non consultées en détail.", "Aucun document de l'ONU, de la Convention sur la diversité biologique ou du Conseil de l'Europe visant ce régime n'a été trouvé."]
+sources:
+  - {titre: "Tiroler Flurverfassungslandesgesetz 1996 — RIS", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000117"}
+  - {titre: "Flurverfassungs-Grundsatzgesetz 1951 (version au 31 décembre 2019) — RIS", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010269&FassungVom=2019-12-31"}
+  - {titre: "Flurverfassungsgesetz du Vorarlberg — RIS", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrVbg&Gesetzesnummer=20000588"}
+  - {titre: "Agrargemeinschaftliche Grundstücke und Agrargemeinschaften — Land Tirol", url: "https://www.tirol.gv.at/landwirtschaft-forstwirtschaft/agrar/agrarrecht/agrargemeinschaftliche-grundstuecke-und-agrargemeinschaften/agrargemeinschaftliche-grundstuecke-und-agrargemeinschaften/"}
+  - {titre: "Rechtsgrundlagen für Agrargemeinschaften — Land Tirol", url: "https://www.tirol.gv.at/landwirtschaft-forstwirtschaft/agrar/agrarrecht/agrargemeinschaftliche-grundstuecke-und-agrargemeinschaften/rechtsgrundlagen-fuer-agrargemeinschaften/"}
+  - {titre: "Aufgaben des Substanzverwalters — Land Tirol", url: "https://www.tirol.gv.at/fileadmin/themen/land-forstwirtschaft/agrar/agrargemeinschaften/downloads/Aufgaben_Substanzverwalter.pdf"}
+  - {titre: "VfGH, 1er mars 1982, G35/81 (VfSlg 9336/1982) — RIS", url: "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_10179699_81G00035_01"}
+  - {titre: "VfGH, 11 juin 2008, B464/07 (VfSlg 18.446/2008) — RIS", url: "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_09919389_07B00464_01"}
+  - {titre: "VfGH, 10 décembre 2010, B639/10 — RIS", url: "https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Vfgh&Dokumentnummer=JFR_09898790_10B00639_01"}
+  - {titre: "Agrargemeinschaft — Wikipédia en allemand", url: "https://de.wikipedia.org/wiki/Agrargemeinschaft"}

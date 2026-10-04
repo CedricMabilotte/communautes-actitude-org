@@ -1,0 +1,66 @@
+uid: "aires-gestion-ressources-benthiques-chili"
+nom: "Aires de gestion des ressources benthiques du Chili (AMERB)"
+endonyme: ""
+territoire: "Bande côtière de cinq milles réservée à la pêche artisanale, eaux intérieures et eaux terrestres, de la région d'Arica et Parinacota à celle de Magallanes"
+etats: ["Chili"]
+region: "ameriques"
+coord: [-36.8, -73.2]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 31000, annee: 2017, perimetre: "pêcheurs artisanaux bénéficiaires des AMERB, chiffre arrondi de la CEPAL", source: "https://archivo.cepal.org/cajaherramientas/Casos/Caso_%C3%81rea%20de%20Manejo%20y%20Explotaci%C3%B3n%20de%20Recursos%20Bent%C3%B3nicos.pdf"}
+lieux: {valeur: 758, unite: "AMERB en vigueur", annee: 2017, source: "https://archivo.cepal.org/cajaherramientas/Casos/Caso_%C3%81rea%20de%20Manejo%20y%20Explotaci%C3%B3n%20de%20Recursos%20Bent%C3%B3nicos.pdf"}
+surface_km2: {valeur: 1240, annee: 2017, perimetre: "surface cumulée des AMERB en vigueur, donnée par la CEPAL comme « environ 124 000 ha »", source: "https://archivo.cepal.org/cajaherramientas/Casos/Caso_%C3%81rea%20de%20Manejo%20y%20Explotaci%C3%B3n%20de%20Recursos%20Bent%C3%B3nicos.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les organisations de pêcheurs artisanaux titulaires d'une aire de gestion et d'exploitation des ressources benthiques (AMERB : invertébrés du fond marin et algues). La loi générale de la pêche et de l'aquaculture (loi 18.892 de 1989, texte refondu par le décret 430 de 1991) et le règlement du décret suprême 355 de 1995 permettent à l'État de délimiter par décret un secteur côtier, puis de l'attribuer à une organisation de pêcheurs artisanaux légalement constituée, qui en obtient l'usage exclusif par un convenio de uso (convention d'usage) signé avec le Service national de la pêche (Sernapesca). L'organisation gère le secteur selon un plan de gestion et d'exploitation approuvé par le Sous-secrétariat de la pêche et de l'aquaculture (Subpesca) et suivi par des rapports périodiques. Les premiers secteurs datent de 1997 ; la CEPAL recense 758 AMERB en vigueur en 2017.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Cinquième rapport national du Chili à la Convention sur la diversité biologique (2014) : il décrit les AMERB comme un régime qui attribue des droits d'usage exclusif à des organisations de pêcheurs artisanaux et cite leurs effets sur les espèces exploitées.", annee: 2014, source: "https://www.cbd.int/doc/world/cl/cl-nr-05-es.pdf"}
+base_nationale:
+  - {instrument: "Loi générale de la pêche et de l'aquaculture, texte refondu de la loi 18.892 de 1989 (décret 430 de 1991), titre IV, paragraphe 3, articles 55 A à 55 H, et articles 144 et 144 A", nature: "loi", annee: 1991, source: "https://www.subpesca.cl/portal/615/articles-88020_documento.pdf"}
+  - {instrument: "Décret suprême 355 de 1995, Reglamento sobre Áreas de Manejo y Explotación de Recursos Bentónicos (version intégrant le décret 49 de 2009)", nature: "loi", annee: 1995, source: "https://www.subpesca.cl/portal/615/articles-11086_documento.pdf"}
+  - {instrument: "Loi 20.437 de 2010 (paragraphe sur le régime des AMERB), loi 20.657 de 2013 et loi 21.651 de 2024 modifiant la loi générale de la pêche", nature: "loi", annee: 2024, source: "https://www.subpesca.cl/portal/615/articles-88020_documento.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Seules les organisations de pêcheurs artisanaux légalement constituées et inscrites au registre de la pêche artisanale peuvent être titulaires d'une AMERB (décret 355 de 1995, art. 7 et 8 ; loi générale de la pêche, art. 55 A) ; l'organisation gère et exploite le secteur sous le contrôle de la Subpesca, qui approuve le plan de gestion et les rapports de suivi (décret 355, art. 1, 12 et 18).", source: "https://www.subpesca.cl/portal/615/articles-11086_documento.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'organisation propose le plan de gestion et d'exploitation (programme annuel d'exploitation, modalités et périodes d'extraction, critères de quotas) et peut en demander la modification ; le plan ne s'applique qu'après approbation par résolution de la Subpesca (décret 355 de 1995, art. 12, 16 et 16 bis ; loi générale de la pêche, art. 55 B).", source: "https://www.subpesca.cl/portal/615/articles-11086_documento.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le secteur de fond marin délimité par décret fait l'objet d'une destinación maritime (affectation du domaine public) au nom du Sernapesca, qui le confie à l'organisation par une convention d'usage de durée indéfinie tant qu'aucune cause de déchéance n'est constatée ; les droits ne peuvent être cédés, loués ni grevés de droits au profit de tiers (loi générale de la pêche, art. 55 A, 55 B, 144 et 144 A).", source: "https://www.subpesca.cl/portal/615/articles-88020_documento.pdf"}
+  ressources: {valeur: "partiel", note: "L'AMERB confère à l'organisation titulaire l'usage exclusif des seules ressources benthiques du secteur (loi générale de la pêche, art. 55 A à 55 D ; décret 355 de 1995, art. 1) ; les quantités extraites chaque année sont fixées par résolution de la Subpesca sur proposition de l'organisation (décret 355, art. 16 d) ; l'organisation peut aussi obtenir l'exploitation exclusive des ressources de la plage contiguë et pratiquer l'aquaculture sur au plus 40 % de la surface (loi, art. 55 D).", source: "https://www.subpesca.cl/portal/615/articles-88020_documento.pdf"}
+  consentement: {valeur: "partiel", note: "Avant l'établissement d'un secteur, le Conseil zonal de la pêche doit consulter les organisations de pêcheurs artisanaux domiciliées dans la ou les communes concernées et, le cas échéant, la Corporation nationale de développement autochtone (CONADI) ; l'absence de réponse dans un délai d'un mois vaut avis favorable (décret 355 de 1995, art. 5).", source: "https://www.subpesca.cl/portal/615/articles-11086_documento.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Gelcich et al. (PNAS, 2010) relèvent dans les AMERB une hausse de l'abondance et de la taille des ressources ciblées, mais aussi le braconnage, qui reste l'un des principaux problèmes de gestion, la hausse des coûts de surveillance et des revenus variables ; en mars 2013, 161 des 512 secteurs attribués étaient classés par la Subpesca « operativo en duda » (fonctionnement incertain).", source: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2947917/"}
+chronologie:
+  - {annee: 1989, evenement: "Loi 18.892, loi générale de la pêche et de l'aquaculture."}
+  - {annee: 1991, evenement: "Les lois 19.079 et 19.080 modifient la loi générale de la pêche ; le décret 430 en fixe le texte refondu, qui prévoit les aires de gestion des ressources benthiques."}
+  - {annee: 1995, evenement: "Décret suprême 355 : règlement sur les AMERB (publié au Journal officiel le 26 août)."}
+  - {annee: 1997, evenement: "Établissement des premiers secteurs sous régime AMERB."}
+  - {annee: 2009, evenement: "Le décret 49 modifie le règlement des AMERB."}
+  - {annee: 2010, evenement: "La loi 20.437 insère dans la loi générale de la pêche un paragraphe sur le régime des AMERB (articles 55 A et suivants)."}
+  - {annee: 2013, evenement: "La loi 20.657 modifie les articles 55 B et 144 et ajoute l'article 144 A sur la déchéance des aires ; au 21 mars, la Subpesca recense 512 secteurs attribués."}
+  - {annee: 2017, evenement: "La CEPAL recense 758 AMERB actives, environ 124 000 ha et 31 000 pêcheurs bénéficiaires."}
+  - {annee: 2024, evenement: "La loi 21.651 (Journal officiel du 7 février) modifie le régime des ressources benthiques : critères d'attribution, titularité et causes de déchéance."}
+fiabilite:
+  verifie:
+    - "Articles 55 A à 55 H, 144 et 144 A de la loi générale de la pêche, dans le texte à jour publié par la Subpesca (intégrant la loi 21.770 de 2025)."
+    - "Articles 1 à 39 du décret 355 de 1995 dans la version publiée par la Subpesca, qui intègre le décret 49 de 2009."
+    - "État de 1 465 secteurs au 21 mars 2013 (tableur de la Subpesca) : 773 décrétés, 512 attribués, 74 215,9 ha attribués."
+    - "Mention des AMERB dans le cinquième rapport national du Chili à la CDB (2014)."
+  non_confirme:
+    - "Chiffres de 2017 (758 AMERB, 124 000 ha, 31 000 pêcheurs) : arrondis repris de la CEPAL, sans tableau détaillé consulté."
+    - "Le tableau des sites reprend la liste officielle de mars 2013 ; aucune liste nominative plus récente n'a été trouvée."
+    - "Adaptation du décret 355 aux lois 20.657 et 21.651 : la version consultée (intégrant le décret 49 de 2009) prévoit encore une convention d'usage de quatre ans au plus, alors que la loi la rend de durée indéfinie."
+    - "Nombre d'organisations titulaires et de caletas (localités de pêche) concernées."
+sources:
+  - {titre: "Áreas de Manejo y Explotación de Recursos Bentónicos (AMERB) — Subpesca", url: "https://www.subpesca.cl/portal/sitio/Areas-y-Zonificaciones/Areas-de-Manejo-y-Explotacion-de-Recursos-Bentonicos-AMERB/"}
+  - {titre: "Ley General de Pesca y Acuicultura, texte à jour — Subpesca", url: "https://www.subpesca.cl/portal/615/articles-88020_documento.pdf"}
+  - {titre: "Décret suprême 355 de 1995, Reglamento sobre Áreas de Manejo y Explotación de Recursos Bentónicos — Subpesca", url: "https://www.subpesca.cl/portal/615/articles-11086_documento.pdf"}
+  - {titre: "Estado de tramitación AMERB por región y nombre (tableur, mars 2013) — Subpesca", url: "https://www.subpesca.cl/portal/618/articles-5902_documento.xls"}
+  - {titre: "Área de Manejo y Explotación de Recursos Bentónicos (fiche de cas) — CEPAL", url: "https://archivo.cepal.org/cajaherramientas/Casos/Caso_%C3%81rea%20de%20Manejo%20y%20Explotaci%C3%B3n%20de%20Recursos%20Bent%C3%B3nicos.pdf"}
+  - {titre: "Quinto Informe Nacional de Biodiversidad de Chile (2014) — CDB", url: "https://www.cbd.int/doc/world/cl/cl-nr-05-es.pdf"}
+  - {titre: "Gelcich S. et al., « Navigating transformations in governance of Chilean marine coastal resources », PNAS, 2010", url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2947917/"}

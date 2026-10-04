@@ -1,0 +1,61 @@
+uid: "tsilhqotin-nation"
+nom: "Nation Tsilhqot'in"
+endonyme: "Tŝilhqot'in"
+territoire: "Plateau Chilcotin, centre de la Colombie-Britannique ; zone du titre ancestral déclaré en 2014"
+etats: ["Canada"]
+region: "ameriques"
+coord: [51.6, -123.8]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 4324, annee: 2026, perimetre: "membres inscrits au registre des Indiens (septembre 2026) des six bandes de la Nation (n° 709, 710, 712, 714, 717, 718), toutes résidences confondues ; la page citée est celle de Xeni Gwet'in, les cinq autres se lisent en changeant le numéro de bande", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=714&lang=eng"}
+lieux: {valeur: 6, unite: "communautés membres (bandes)", annee: 2025, source: "https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/consulting-with-first-nations/first-nations-negotiations/first-nations-a-z-listing/tsilhqot-in-national-government"}
+surface_km2: {valeur: 1750, annee: 2019, perimetre: "zone du titre ancestral déclaré en 2014, chiffre arrondi du communiqué conjoint du Canada, de la Colombie-Britannique et de la Nation (2019) ; l'arrêt ne donne pas de surface et précise (par. 9) que les terrains privés et les terres submergées ne sont pas visés", source: "https://news.gov.bc.ca/releases/2019IRR0048-001670"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Nation Tsilhqot'in regroupe six communautés du centre de la Colombie-Britannique : Tl'etinqox, ʔEsdilagh, Yunesit'in, Tl'esqox, Tsi Del Del et Xeni Gwet'in. Le 26 juin 2014, la Cour suprême du Canada lui reconnaît un titre ancestral (droit collectif de propriété autochtone issu de l'occupation antérieure à la souveraineté britannique) sur environ 1 750 km². C'est la première déclaration judiciaire d'un titre ancestral au Canada. Le titre donne le droit de décider de l'usage des terres et d'en tirer les bénéfices ; toute utilisation par les gouvernements ou des tiers exige le consentement de la Nation ou une justification au titre de l'article 35 de la Loi constitutionnelle de 1982.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Le rapport du Rapporteur spécial sur les droits des peuples autochtones après sa visite au Canada (A/HRC/54/31/Add.2, 2023, par. 9) cite la déclaration du titre ancestral dans le territoire de la Nation Tsilhqot'in par la Cour suprême en 2014.", annee: 2023, source: "https://documents.un.org/doc/undoc/gen/g23/139/12/pdf/g2313912.pdf"}
+base_nationale:
+  - {instrument: "Loi constitutionnelle de 1982, art. 35 (droits ancestraux des peuples autochtones)", nature: "constitution", annee: 1982, source: "https://laws-lois.justice.gc.ca/fra/const/TexteComplet.html"}
+  - {instrument: "Nation Tsilhqot'in c. Colombie-Britannique, 2014 CSC 44, [2014] 2 R.C.S. 256", nature: "jurisprudence", annee: 2014, source: "https://juricaf.org/arret/CANADA-COURSUPREME-20140626-2014CSC44"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les six communautés membres ont chacune leur gouvernement de bande ; le Gouvernement national Tsilhqot'in signe au nom de la Nation l'accord Nenqay Deni avec la Colombie-Britannique (2016) et l'accord Gwets'en Nilt'i avec le Canada et la province (2019, renouvelé en 2024), hors du processus de la Commission des traités de la Colombie-Britannique.", source: "https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/consulting-with-first-nations/first-nations-negotiations/first-nations-a-z-listing/tsilhqot-in-national-government"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Arrêt 2014 CSC 44 (par. 73, 74 et 153) : titre collectif comparable à une pleine propriété, détenu pour les générations futures, cessible seulement à la Couronne ; droit de déterminer l'utilisation des terres, de les posséder et de les gérer.", source: "https://juricaf.org/arret/CANADA-COURSUPREME-20140626-2014CSC44"}
+  ressources: {valeur: "partiel", note: "Arrêt 2014 CSC 44 (par. 70 et 116) : les titulaires ont droit aux avantages économiques des terres ; le bois de la zone n'est plus du bois des terres publiques au sens de la Forest Act (loi provinciale sur les forêts). Limites : les lois provinciales d'application générale, Forest Act comprise, peuvent s'appliquer si l'atteinte est justifiée au titre de l'article 35 (par. 151) ; l'arrêt ne statue que sur le bois, pas sur le sous-sol ni sur l'eau.", source: "https://juricaf.org/arret/CANADA-COURSUPREME-20140626-2014CSC44"}
+  consentement: {valeur: "reconnu", note: "Arrêt 2014 CSC 44 (par. 76, 77 et 90) : les gouvernements et les tiers doivent obtenir le consentement de la Nation ; à défaut, l'atteinte doit être justifiée (consultation, objectif public, obligation fiduciaire de la Couronne).", source: "https://juricaf.org/arret/CANADA-COURSUPREME-20140626-2014CSC44"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune source indépendante sur l'application du titre dans la zone déclarée n'a été trouvée. Les accords signés par la Colombie-Britannique (Nenqay Deni, 2016, art. 2.2 c) et par le Canada et la province (Gwets'en Nilt'i, 2019, renouvelé pour cinq ans en 2024) fixent encore comme objectif « la transition pratique » de la zone du titre vers la gestion et le contrôle tsilhqot'in.", source: "https://www2.gov.bc.ca/assets/gov/environment/natural-resource-stewardship/consulting-with-first-nations/agreements/other-docs/nenqay_deni_accord.pdf"}
+chronologie:
+  - {annee: 1864, evenement: "Guerre de Chilcotin ; six chefs tsilhqot'in sont pendus en 1864 et 1865."}
+  - {annee: 1983, evenement: "La province accorde un permis d'exploitation forestière dans une partie du territoire revendiqué ; le gouvernement Xeni Gwet'in s'y oppose."}
+  - {annee: 1998, evenement: "La revendication est étendue au titre ancestral au nom de toute la Nation."}
+  - {annee: 2007, evenement: "Jugement de première instance (juge Vickers, 2007 BCSC 1700) après 339 jours de procès."}
+  - {annee: 2014, evenement: "Arrêt 2014 CSC 44 (26 juin) : déclaration du titre ancestral ; exonération des six chefs par la Colombie-Britannique (23 octobre)."}
+  - {annee: 2016, evenement: "Accord Nenqay Deni avec la Colombie-Britannique (11 février)."}
+  - {annee: 2018, evenement: "Exonération des six chefs par le premier ministre du Canada à la Chambre des communes (26 mars)."}
+  - {annee: 2019, evenement: "Accord tripartite Gwets'en Nilt'i avec le Canada et la Colombie-Britannique (août)."}
+  - {annee: 2024, evenement: "Renouvellement de l'accord Gwets'en Nilt'i pour cinq ans (26 juin)."}
+  - {annee: 2025, evenement: "Accord Teẑtan Biny avec la province et Taseko Mines (5 juin) : aucune activité d'exploration ou d'exploitation minière dans la zone du projet New Prosperity sans le consentement libre, préalable et éclairé de la Nation."}
+fiabilite:
+  verifie: ["Paragraphes 3, 5, 6, 70, 73, 74, 76, 77, 88, 90, 116, 151 et 153 de l'arrêt 2014 CSC 44 (texte français).", "Article 35 de la Loi constitutionnelle de 1982 (Justice Canada).", "Liste des six bandes et des accords avec la Colombie-Britannique (page provinciale).", "Population inscrite des six bandes au registre fédéral (septembre 2026).", "Paragraphe 9 du rapport A/HRC/54/31/Add.2.", "Article 2.2 c de l'accord Nenqay Deni.", "Surface d'environ 1 750 km² et objet de l'accord Gwets'en Nilt'i (communiqué conjoint du 28 août 2019).", "Exclusion des terrains privés et des terres submergées (paragraphe 9 de l'arrêt).", "Nom de l'accord Teẑtan Biny (page provinciale) et clause de consentement (communiqué de Taseko Mines, 5 juin 2025)."]
+  non_confirme: ["Surface du titre : l'arrêt ne donne pas de chiffre ; 1 750 km² selon le communiqué Canada–Colombie-Britannique de 2019, environ 1 700 km² selon un document provincial, environ 1 900 km² selon le Gouvernement national Tsilhqot'in.", "État d'application de la Forest Act et des autres lois provinciales dans la zone du titre depuis 2014.", "Application effective du titre dans la zone déclarée : seules des sources des parties (accords, communiqués) ont été trouvées.", "Reconnaissance par l'État des lois propres de la Nation dans la zone du titre (déclaration Nenduwh jid guẑit'in, 2015)."]
+sources:
+  - {titre: "Nation Tsilhqot'in c. Colombie-Britannique, 2014 CSC 44 — Juricaf", url: "https://juricaf.org/arret/CANADA-COURSUPREME-20140626-2014CSC44"}
+  - {titre: "Loi constitutionnelle de 1982 — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/const/TexteComplet.html"}
+  - {titre: "Tsilhqot'in National Government — Province de Colombie-Britannique", url: "https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/consulting-with-first-nations/first-nations-negotiations/first-nations-a-z-listing/tsilhqot-in-national-government"}
+  - {titre: "Canada, British Columbia, and the Tŝilhqot'in Nation Sign Gwets'en Nilt'i Pathway Agreement — BC Gov News, 2019", url: "https://news.gov.bc.ca/releases/2019IRR0048-001670"}
+  - {titre: "Nenqay Deni Accord, 2016 — Province de Colombie-Britannique", url: "https://www2.gov.bc.ca/assets/gov/environment/natural-resource-stewardship/consulting-with-first-nations/agreements/other-docs/nenqay_deni_accord.pdf"}
+  - {titre: "La Nation des Tsilhqot'in, le Canada et la Colombie-Britannique soulignent le 10e anniversaire de la déclaration du titre — Relations Couronne-Autochtones, 2024", url: "https://www.canada.ca/fr/relations-couronne-autochtones-affaires-nord/nouvelles/2024/06/la-nation-des-tsilhqotin-le-canada-et-la-colombie-britannique-soulignent-le-10e-anniversaire-de-la-declaration-du-titre-en-renouvelant-leur-entente.html"}
+  - {titre: "Population inscrite, Xeni Gwet'in First Nations Government (bande n° 714) — Relations Couronne-Autochtones", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=714&lang=eng"}
+  - {titre: "Visit to Canada — Report of the Special Rapporteur on the rights of Indigenous Peoples, A/HRC/54/31/Add.2 (2023)", url: "https://documents.un.org/doc/undoc/gen/g23/139/12/pdf/g2313912.pdf"}
+  - {titre: "From the Tŝilhqot'in War to the Supreme Court: A Timeline — Tŝilhqot'in National Government", url: "https://tsilhqotin.ca/governance/tsilhqotin-rights-title/tsilhqotin-war-timeline/"}
+  - {titre: "Taseko, Tŝilhqot'in Nation & Province of BC Reach Agreement Concerning the New Prosperity Project — GlobeNewswire, 2025", url: "https://www.globenewswire.com/news-release/2025/06/05/3094826/0/en/taseko-t%c5%9dilhqot-in-nation-province-of-bc-reach-historic-agreement-concerning-the-new-prosperity-project.html"}

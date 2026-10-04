@@ -1,0 +1,63 @@
+uid: "titres-collectifs-autochtones-honduras"
+nom: "Titres communautaires autochtones du Honduras"
+endonyme: ""
+territoire: "Terres communautaires titrées des peuples lenca (ouest), maya chortí (Copán, Ocotepeque), tolupán (Yoro, Francisco Morazán), pech (Colón, Olancho, Gracias a Dios) et tawahka (Olancho, Colón, Gracias a Dios)"
+etats: ["Honduras"]
+region: "ameriques"
+coord: [14.6, -86.8]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 329898, annee: 2001, perimetre: "membres des peuples lenca (279 507), maya chortí (34 463), tolupán (9 617), pech (3 848) et tawahka (2 463) au recensement de 2001, cités par la Rapporteuse spéciale des Nations unies ; la population des seules communautés titrées n'est pas connue", source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+lieux: {valeur: 440, unite: "titres communautaires délivrés de 1993 à 2015 (Lenca 300, Maya Chortí 94, Tolupán 31, Pech 11, Tawahka 4), par l'Institut national agraire sauf deux titres pech délivrés en 2013 par l'Institut de conservation forestière ; 19 des 31 titres tolupán remesurent des titres du XIXe siècle", annee: 2015, source: "https://www.forest-trends.org/wp-content/uploads/imported/honduras-brief_english_a4_final-pdf.pdf"}
+surface_km2: {valeur: 2602.67, annee: 2015, perimetre: "surface des 440 titres de 1993 à 2015 : Lenca 154 613 ha, Tolupán 84 052 ha, Pech 11 603 ha, Tawahka 5 138 ha, Maya Chortí 4 861 ha, soit 260 267 ha (données de l'Institut national agraire, 2015) ; titres tolupán du XIXe siècle non remesurés exclus", source: "https://www.forest-trends.org/wp-content/uploads/imported/honduras-brief_english_a4_final-pdf.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les titres de propriété collective délivrés aux communautés des peuples lenca, maya chortí, tolupán, pech et tawahka. Les titres miskitu, délivrés à des conseils territoriaux, et les titres garífunas ont leur propre fiche. Des communautés tolupán et pech détiennent des titres depuis le milieu du XIXe siècle ; de 1993 à 2015, l'Institut national agraire et, pour deux titres pech, l'Institut de conservation forestière ont délivré 440 titres à ces cinq peuples, le plus souvent à l'échelle d'une communauté et sur des surfaces de quelques centaines d'hectares. Depuis 2004, la loi sur la propriété (décret 82-2004) prévoit le titrage collectif de ces terres et les rend inaliénables.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Honduras partie à la Convention 169 de l'OIT depuis 1995 (A/HRC/33/42/Add.2, § 9).", annee: 1995, source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  - {mecanisme: "dnudpa", detail: "Le Honduras a voté en faveur de la Déclaration de 2007 ; le recensement de 2001 compte les Lenca, Maya Chortí, Tolupán, Pech et Tawahka parmi les peuples autochtones du pays (A/HRC/33/42/Add.2, § 6 et 9).", annee: 2007, source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport de la Rapporteuse spéciale sur sa visite au Honduras (novembre 2015) : titres tolupán et pech du XIXe siècle, 505 titres délivrés de 1993 à 2015, engagement de 1997 envers les Maya Chortí, réserve de biosphère Tawahka Asangni (§ 35, 36, 38 et 39).", annee: 2016, source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+base_nationale:
+  - {instrument: "Constitution de 1982, art. 346 (protection des terres et forêts des communautés autochtones)", nature: "constitution", annee: 1982, source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  - {instrument: "Loi de modernisation et de développement du secteur agricole (décret 31-92), art. 65 (titre en pleine propriété aux communautés qui prouvent leur occupation)", nature: "loi", annee: 1992, source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  - {instrument: "Décret 157-99 portant création de la réserve de biosphère Tawahka Asangni", nature: "loi", annee: 1999, source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  - {instrument: "Loi sur la propriété (Ley de Propiedad, décret 82-2004), titre V, chapitre III, art. 93 à 102", nature: "loi", annee: 2004, source: "https://honduras.eregulations.org/media/Ley_de_la_Propiedad.pdf"}
+  - {instrument: "Loi sur les forêts, les aires protégées et la faune (décret 98-2007), art. 45", nature: "loi", annee: 2007, source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "La loi sur la propriété de 2004 reconnaît les terres possédées traditionnellement par les peuples autochtones et afrohonduriens (art. 93), les titre au nom de la collectivité (art. 94), les déclare inaliénables, insaisissables et imprescriptibles (art. 100) et interdit d'enregistrer un titre au profit de tiers (art. 102) ; l'art. 97 laisse toutefois aux tiers titrés qui occupent ces terres le droit de les garder, et l'art. 100 permet aux communautés de mettre fin au régime communal ou d'affermer à des tiers.", source: "https://honduras.eregulations.org/media/Ley_de_la_Propiedad.pdf"}
+  ressources: {valeur: "partiel", note: "La loi forestière de 2007 (décret 98-2007, art. 45) reconnaît le droit des peuples autochtones et afrohonduriens sur les aires forestières de leurs terres traditionnelles (A/HRC/33/42/Add.2, § 10) ; la loi sur la propriété de 2004 (art. 101) impose une gestion conjointe avec l'État des aires protégées situées sur ces terres ; la réserve de biosphère Tawahka Asangni (décret 157-99) est gérée par l'État, les municipalités et les Tawahka (même rapport, § 36).", source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  consentement: {valeur: "partiel", note: "L'État doit informer et consulter ces peuples avant d'autoriser toute inspection ou exploitation de ressources sur leurs terres, et leur verser une indemnisation équitable pour les dommages subis (loi sur la propriété de 2004, art. 95) ; le texte ne prévoit pas de consentement.", source: "https://honduras.eregulations.org/media/Ley_de_la_Propiedad.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La Rapporteuse spéciale (2016) relève que l'État ne s'est acquitté que de 4 995,74 ha sur les 14 700 ha promis aux Maya Chortí en 1997, que des communautés lenca et tolupán titrées font face à des ventes illégales et à des revendications de tiers, et que des demandes de titres pech et d'extension de titres tolupán, tawahka et pech restent en attente.", source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+chronologie:
+  - {annee: 1836, evenement: "Des lois accordent des titres de propriété à 21 des 28 groupes tolupán, selon Minority Rights Group."}
+  - {annee: 1864, evenement: "Titre de la communauté tolupán de San Francisco de Locomapa (Yoro)."}
+  - {annee: 1982, evenement: "La Constitution (art. 346) charge l'État de protéger les terres et forêts des communautés autochtones."}
+  - {annee: 1992, evenement: "Loi de modernisation agricole (décret 31-92, art. 65) : titres en pleine propriété aux communautés autochtones qui prouvent leur occupation. La même année, selon Minority Rights Group, 20 groupes tolupán ont un titre et 6 une garantie de possession ancestrale."}
+  - {annee: 1993, evenement: "Premiers titres du relevé de l'Institut national agraire (1993-2015) : 23 titres lenca et un titre tolupán."}
+  - {annee: 1994, evenement: "Création de San Francisco de Opalaca, première municipalité autochtone (lenca), avec titres sur ses terres."}
+  - {annee: 1995, evenement: "Le Honduras ratifie la Convention 169 de l'OIT."}
+  - {annee: 1997, evenement: "Accord exécutif : l'État s'engage à acquérir 14 700 ha au nom des communautés maya chortí ; quatre titres tawahka (5 138 ha)."}
+  - {annee: 1999, evenement: "Décret 157-99 : réserve de biosphère Tawahka Asangni, gérée par l'État, les municipalités et les Tawahka."}
+  - {annee: 2004, evenement: "Loi sur la propriété (décret 82-2004) : titrage collectif des terres autochtones et afrohonduriennes."}
+  - {annee: 2007, evenement: "Loi forestière (décret 98-2007, art. 45)."}
+  - {annee: 2013, evenement: "Titres des communautés pech de Culuco et Jocomico, délivrés par l'Institut de conservation forestière dans la réserve de biosphère du Río Plátano (décret 61-2013)."}
+  - {annee: 2015, evenement: "Visite de la Rapporteuse spéciale des Nations unies sur les droits des peuples autochtones."}
+fiabilite:
+  verifie: ["Art. 93 à 102 de la loi sur la propriété (décret 82-2004) sur le texte publié par eRegulations Honduras.", "A/HRC/33/42/Add.2, § 6, 8 à 11, 22, 35, 36, 38 et 39 (version consultée sur documents.un.org).", "Tableau 1 de la note CONPAH-Forest Trends (source INA 2015), par peuple et par année ; total tolupán recalculé par addition des lignes : 31 titres, 84 052 ha, dont 19 remesurages de titres du XIXe siècle (note 2 du tableau) ; deux titres pech de 2013 délivrés par l'Institut de conservation forestière (note 4).", "Somme des surfaces des cinq peuples recalculée : 260 267 ha.", "Fiche Xicaque de Minority Rights Group : titres de 1836, 20 groupes titrés et 6 garanties de possession ancestrale en 1992."]
+  non_confirme: ["Liste officielle des titres par communauté (nom, surface, année) : non trouvée ; pas de tableau des sites.", "Écart entre les données INA citées par la Rapporteuse spéciale (505 titres, 1 322 774,50 ha) et le tableau de Forest Trends (507 titres, 1 389 812 ha), tous peuples confondus.", "Nature de l'institution titulaire (patronat, conseil communautaire, conseil des communautés tolupán) et ses pouvoirs reconnus par l'État : non établies.", "Titres délivrés après 2015 : non trouvés."]
+sources:
+  - {titre: "Ley de Propiedad, décret 82-2004 — eRegulations Honduras", url: "https://honduras.eregulations.org/media/Ley_de_la_Propiedad.pdf"}
+  - {titre: "Rapport de la Rapporteuse spéciale sur les droits des peuples autochtones sur sa visite au Honduras, A/HRC/33/42/Add.2 (2016)", url: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  - {titre: "Titling Ancestral Territories in the Honduran Muskitia — CONPAH et Forest Trends (tableau 1, INA 2015)", url: "https://www.forest-trends.org/wp-content/uploads/imported/honduras-brief_english_a4_final-pdf.pdf"}
+  - {titre: "Xicaque (Tolupán) — Minority Rights Group", url: "https://minorityrights.org/communities/xicaque/"}

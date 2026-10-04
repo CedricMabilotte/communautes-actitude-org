@@ -1,0 +1,65 @@
+uid: "kaa-iya-isoso-bolivie"
+nom: "Parc national Kaa-Iya du Gran Chaco (Guarani isoseños)"
+endonyme: ""
+territoire: "Parc national et aire naturelle de gestion intégrée Kaa-Iya du Gran Chaco, département de Santa Cruz, frontière avec le Paraguay"
+etats: ["Bolivie"]
+region: "ameriques"
+coord: [-19.2, -61.5]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 11562, annee: 2013, perimetre: "Guarani isoseños des communautés de l'Alto et du Bajo Isoso (Charagua), zone d'influence du parc ; estimation du plan de gestion 2013-2022 établie à partir d'entretiens et du plan de développement municipal de Charagua 2003-2007 ; pas population résidant dans le parc", source: "https://fcbc.org.bo/wp-content/uploads/2021/07/PM-KaaIya.pdf"}
+lieux: {valeur: 1, unite: "aire protégée (parc national et aire naturelle de gestion intégrée)", annee: 1995, source: "https://www.lexivox.org/norms/BO-DS-24122.html"}
+surface_km2: {valeur: 34411, annee: 1995, perimetre: "aire protégée déclarée par le décret suprême 24122 (3 441 115 ha) ; la terre communautaire d'origine Isoso, titrée à part, n'est pas comptée", source: "https://www.lexivox.org/norms/BO-DS-24122.html"}
+villages: {valeur: 31, annee: 2013, perimetre: "communautés isoseñas dotées de la personnalité juridique d'organisation territoriale de base (OTB) : 12 dans l'Alto Isoso, 19 dans le Bajo Isoso", source: "https://fcbc.org.bo/wp-content/uploads/2021/07/PM-KaaIya.pdf"}
+resume: >-
+  Le parc national et aire naturelle de gestion intégrée (ANMI, zone protégée où l'usage des ressources par les habitants est admis) Kaa-Iya du Gran Chaco est déclaré par le décret suprême 24122 du 21 septembre 1995 sur 3 441 115 ha. Le décret rappelle que la Capitanía de l'Alto et du Bajo Izozog (CABI), organisation du peuple guarani isoseño, a demandé en 1993 la protection de son territoire, et reconnaît la juridiction du premier district municipal autochtone de l'Izozog exercée par la CABI (art. 8). Il prévoit une convention-cadre de gestion participative avec les organisations autochtones locales (art. 9) ; la CABI cogère le parc de novembre 1995 à mars 2008, date à laquelle le Service national des aires protégées (SERNAP) en reprend l'administration directe. La CABI dépose en 1997 une demande de terre communautaire d'origine (TCO, propriété collective) ; 560 000 ha étaient titrés en 2005. Les communautés isoseñas se trouvent dans les zones Alto et Bajo Isoso de l'autonomie Charagua Iyambae, qui a sa propre fiche.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Le quatrième rapport national de la Bolivie à la Convention sur la diversité biologique cite le parc (décret 24122) et la vente internationale de peaux issues de la chasse de subsistance des communautés de la TCO Izozog.", annee: 2014, source: "https://www.cbd.int/doc/world/bo/bo-nr-04-es.pdf"}
+  - {mecanisme: "oit_169", detail: "La Bolivie ratifie la Convention 169 de l'OIT le 11 décembre 1991.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "La Bolivie vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Décret suprême 24122 du 21 septembre 1995 déclarant le parc national et aire naturelle de gestion intégrée Kaa-Iya du Gran Chaco", nature: "loi", annee: 1995, source: "https://www.lexivox.org/norms/BO-DS-24122.html"}
+  - {instrument: "Loi 1333 de l'environnement (1992), art. 61, 62 et 64", nature: "loi", annee: 1992, source: "https://www.lexivox.org/norms/BO-L-1333.html"}
+  - {instrument: "Règlement général des aires protégées, décret suprême 24781 du 31 juillet 1997, art. 47 à 49 et 72 à 85", nature: "loi", annee: 1997, source: "https://www.lexivox.org/norms/BO-RE-DS24781.html"}
+  - {instrument: "Constitution politique de l'État plurinational de Bolivie (2009), art. 5, 30.II, 385 et 403", nature: "constitution", annee: 2009, source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+droits:
+  autogouvernement: {valeur: "conteste", note: "Le décret 24122 (art. 8) reconnaît la juridiction du premier district municipal autochtone de l'Izozog exercée par la CABI et (art. 9) prévoit une convention-cadre de gestion participative ; la convention de cogestion signée en novembre 1995 est rompue en mars 2008 et le SERNAP (Service national des aires protégées) administre depuis directement le parc ; le règlement de 1997 (art. 77 et 78) exclut tout pouvoir normatif ou de sanction des cogestionnaires et permet à l'administration de résilier ces conventions.", source: "https://fcbc.org.bo/wp-content/uploads/2021/07/PM-KaaIya.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le parc relève du patrimoine de l'État (loi 1333, art. 61) et le décret 24122 (art. 11) y interdit toute dotation de terres ; à côté, 560 000 ha de la TCO Isoso, demandée par la CABI en 1997, étaient titrés en 2005.", source: "https://www.equatorinitiative.org/wp-content/uploads/2017/05/case_1_1360168586_SP.pdf"}
+  ressources: {valeur: "partiel", note: "Le décret 24122 (art. 6) réserve l'usage des ressources renouvelables de l'aire de gestion intégrée « en especial » à la population autochtone, selon le plan de gestion, et garantit (art. 5) la subsistance des familles ayoreode non contactées ; tout permis d'exploitation relève du ministère (art. 13), de même que les hydrocarbures et les mines (art. 14 et 15).", source: "https://www.lexivox.org/norms/BO-DS-24122.html"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 30.II.15 et 403.I) impose une consultation préalable, sans exiger le consentement ; l'art. 385.II prévoit une gestion partagée selon les normes propres des peuples là où une aire protégée chevauche un territoire autochtone.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  langue: {valeur: "reconnu", note: "La Constitution (art. 5.I) fait du guarani une langue officielle de l'État.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le plan de gestion 2013-2022 du parc, la cogestion entre la CABI et l'État dure de 1995 à mars 2008 ; la convention est alors rompue, la CABI conteste la procédure suivie par le SERNAP, qui administre depuis directement le parc, et deux capitanías parallèles à la CABI apparaissent. En juin 2026, les capitanías de l'Alto Isoso et du Bajo Isoso et le gouvernement autonome de Charagua Iyambae siègent au comité de gestion du parc (instance de participation, règlement de 1997, art. 47 et 48), dont le directeur du parc nommé par le SERNAP assure le secrétariat (Agence de presse environnementale ANA, 1er juillet 2026).", source: "https://fcbc.org.bo/wp-content/uploads/2021/07/PM-KaaIya.pdf"}
+chronologie:
+  - {annee: 1991, evenement: "Fondation de la Capitanía de l'Alto et du Bajo Izozog (CABI)."}
+  - {annee: 1993, evenement: "La CABI demande au gouvernement la protection de son territoire."}
+  - {annee: 1994, evenement: "Ordonnance municipale 011/94 (26 juillet) créant le premier district municipal autochtone de l'Izozog, dans le cadre de la loi 1551 de participation populaire."}
+  - {annee: 1995, evenement: "Le décret suprême 24122 (21 septembre) déclare le parc Kaa-Iya et reconnaît la juridiction exercée par la CABI ; convention de cogestion entre la CABI et le ministère du Développement durable (novembre)."}
+  - {annee: 1997, evenement: "Règlement général des aires protégées (décret 24781, 31 juillet) ; la CABI dépose la demande de TCO Isoso."}
+  - {annee: 2000, evenement: "Approbation du plan de gestion du parc."}
+  - {annee: 2004, evenement: "La CABI reçoit le prix Équateur du PNUD."}
+  - {annee: 2005, evenement: "560 000 ha de la TCO Isoso sont titrés à cette date."}
+  - {annee: 2008, evenement: "Rupture de la convention de cogestion (mars) ; le SERNAP administre directement le parc."}
+  - {annee: 2026, evenement: "Renouvellement du directoire du comité de gestion du parc pour 2026-2028 (30 juin)."}
+fiabilite:
+  verifie: ["Considérants et articles 1 à 20 du décret suprême 24122 de 1995 (surface, art. 5, 6, 8, 9, 11, 13 à 15, 19).", "Articles 61, 62 et 64 de la loi 1333 de 1992.", "Articles 47 à 49, 72, 73, 77, 78 et 79 du règlement général des aires protégées de 1997.", "Articles 385 et 403 de la Constitution de 2009.", "Mention de la TCO Izozog et du parc dans le quatrième rapport national à la CDB.", "Convention de cogestion de novembre 1995, rupture en mars 2008 et administration directe par le SERNAP, population et communautés de l'Isoso, dans le plan de gestion 2013-2022.", "Composition du comité de gestion et de son directoire en juin 2026 (ANA)."]
+  non_confirme: ["Texte de la convention de cogestion de 1995 et de ses avenants, et acte de rupture de 2008 : non retrouvés.", "Portée actuelle de l'art. 8 du décret 24122 depuis le remplacement de la commune de Charagua par l'autonomie Charagua Iyambae en 2017.", "Chevauchement entre la TCO Isoso et le parc, et surface titrée actuelle de la TCO.", "Population : estimation du plan de gestion fondée sur des données de 2003-2007 et des entretiens."]
+sources:
+  - {titre: "Décret suprême 24122 du 21 septembre 1995 — LexiVox", url: "https://www.lexivox.org/norms/BO-DS-24122.html"}
+  - {titre: "Loi 1333 de l'environnement — LexiVox", url: "https://www.lexivox.org/norms/BO-L-1333.html"}
+  - {titre: "Règlement général des aires protégées (décret 24781) — LexiVox", url: "https://www.lexivox.org/norms/BO-RE-DS24781.html"}
+  - {titre: "Constitution de Bolivie (2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {titre: "Capitanía del Alto y Bajo Izozog, étude de cas — Initiative Équateur (PNUD), 2012", url: "https://www.equatorinitiative.org/wp-content/uploads/2017/05/case_1_1360168586_SP.pdf"}
+  - {titre: "Plan de gestion 2013-2022 du parc national et ANMI Kaa-Iya du Gran Chaco — SERNAP, actualisé par la FCBC, SAVIA et WCS", url: "https://fcbc.org.bo/wp-content/uploads/2021/07/PM-KaaIya.pdf"}
+  - {titre: "Comité de gestion du Kaa-Iya, renouvellement du directoire — ANA (Agencia de Noticias Ambientales), 1er juillet 2026", url: "https://anabolivia.org/comite-de-gestion-del-kaa-iya-renueva-directorio-y-compromiso-de-conservacion-de-35-millones-de-has-de-biodiversidad/"}
+  - {titre: "Quatrième rapport national de la Bolivie — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/bo/bo-nr-04-es.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

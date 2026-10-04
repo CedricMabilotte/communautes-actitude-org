@@ -1,0 +1,56 @@
+uid: "salinas-bolivie"
+nom: "Aymaras de Salinas"
+endonyme: ""
+territoire: "Ancienne commune de Salinas de Garci Mendoza, province Ladislao Cabrera, département d'Oruro"
+etats: ["Bolivie"]
+region: "ameriques"
+coord: [-19.6, -67.7]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 9, unite: "unités territoriales décentralisées (UTD, ayllus et markas) : Kulli Yaretani, Phajcha San Martín, Thunupa, Cora Cora, Challacota Belén, Aroma, Huatari, Ucumasi, Villa Esperanza", annee: 2023, source: "https://fuentedirecta.oep.org.bo/noticia/ted-oruro-gaioc-salinas-posesiona-a-qulqi-kamachi-sara-poma-huarachi/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Salinas est une population aymara du sud de l'Altiplano, entre les salars de Tauca et de Thunupa, organisée en communautés, ayllus (lignages territoriaux) et markas (groupes d'ayllus). L'ancienne commune de Salinas de Garci Mendoza vote en 2009 sa conversion en AIOC (« Autonomía Indígena Originario Campesina », collectivité territoriale autochtone prévue par la Constitution de 2009). Le statut, déclaré conforme à la Constitution en 2018, est approuvé par référendum le 26 mai 2019 avec 51,8 % des voix. Le gouvernement autonome s'installe le 4 janvier 2021 : une assemblée des autorités originaires (Jach'a Tantachawi), un exécutif (Qulqi Kamachi) et neuf administrateurs territoriaux (Qulqi Apnaqiri).
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La Bolivie ratifie la Convention 169 de l'OIT le 11 décembre 1991.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "La Bolivie vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Constitution politique de l'État plurinational de Bolivie (2009), art. 5, 30, 190, 289 à 296, 303 et 304", nature: "constitution", annee: 2009, source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {instrument: "Statut autonomique de l'AIOC de Salinas (24 août 2018), déclarations de constitutionnalité 0064/2018 et 0079/2018, approuvé par référendum le 26 mai 2019", nature: "statut_autonomie", annee: 2019, source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Salinas-de-Garc%C3%AD-Mendoza.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le statut (art. 16 à 39) crée le Jach'a Tantachawi (grande assemblée des autorités des communautés, ayllus et markas), un Conseil suprême de gouvernement de neuf autorités originaires, le Qulqi Kamachi élu pour deux ans et un Qulqi Apnaqiri élu pour quatre ans dans chaque unité territoriale.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Salinas-de-Garc%C3%AD-Mendoza.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le statut (art. 2, 16.I et 19.1) attribue au Jach'a Tantachawi la faculté législative et place les lois autonomiques au premier rang des normes de l'autonomie ; la disposition transitoire troisième fixe trois lois à adopter dans les 120 jours.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Salinas-de-Garc%C3%AD-Mendoza.pdf"}
+  justice_propre: {valeur: "reconnu", note: "La Constitution (art. 190) reconnaît la juridiction autochtone (« jurisdicción indígena originaria campesina ») ; le statut (art. 50 à 53 et 55.8) confie la justice aux autorités originaires des communautés, ayllus et markas, la marka étant l'instance d'appel finale.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Salinas-de-Garc%C3%AD-Mendoza.pdf"}
+  terres: {valeur: "partiel", note: "Le statut (art. 12.3 et 80) reconnaît l'accès au sol communal selon les normes propres, en stricte soumission à la Constitution et aux lois, et charge l'autonomie de contribuer à la protection et à la gestion de la terre communautaire d'origine (TCO, propriété collective autochtone) dans le cadre des autorités des ayllus et markas, titulaires du territoire.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Salinas-de-Garc%C3%AD-Mendoza.pdf"}
+  ressources: {valeur: "partiel", note: "Le statut (art. 12.2 et 55.3) donne à l'autonomie l'usage et la gestion des ressources renouvelables selon la Constitution et la loi, et les range dans le patrimoine du territoire (art. 63) ; pour les ressources non renouvelables, il prévoit une part des bénéfices (art. 13.d), une contribution à leur gestion en coordination avec l'État dans le cadre de la consultation (art. 78.6) et le suivi environnemental des activités minières et pétrolières (art. 57.9).", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Salinas-de-Garc%C3%AD-Mendoza.pdf"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 30.II.15) impose une consultation préalable sans exiger le consentement ; le statut (art. 14, 19.11 et 55.21) charge l'autonomie de conduire la consultation préalable, libre et informée sur l'exploration et l'exploitation des ressources.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Salinas-de-Garc%C3%AD-Mendoza.pdf"}
+  langue: {valeur: "reconnu", note: "La Constitution (art. 5) fait de l'aymara une langue officielle de l'État ; le statut (art. 5) fait de l'aymara et du castillan les langues officielles de l'autonomie, et l'art. 27 exige des deux langues pour le Qulqi Kamachi.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Salinas-de-Garc%C3%AD-Mendoza.pdf"}
+  education: {valeur: "partiel", note: "Le statut (art. 57.2 et 58) fait de l'éducation une compétence concurrente exercée dans le cadre des lois de l'État, avec des programmes conduits depuis les unités territoriales.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Salinas-de-Garc%C3%AD-Mendoza.pdf"}
+  fiscalite: {valeur: "partiel", note: "Le statut (art. 55.12 à 55.14) permet de créer des taxes et contributions et d'administrer les impôts de sa compétence ; le budget repose surtout sur les transferts de l'État (art. 42 et 43), répartis entre unités territoriales selon la population (art. 47).", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Salinas-de-Garc%C3%AD-Mendoza.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le gouvernement autonome s'installe le 4 janvier 2021, après remise des lettres de créance par le Tribunal électoral le 11 août 2020 ; Emilio Aguilar Choque devient premier Qulqi Kamachi (Sudamérica Rural, 2021). La deuxième Qulqi Kamachi, Sara Poma Huarachi, prend ses fonctions le 28 février 2023 (Organe électoral plurinational).", source: "https://www.sudamericarural.org/index.php/noticias/que-pasa/6368-salinas-de-garci-mendoza-se-constituye-en-la-cuarta-autonomia-indigena-del-estado-plurinacional-de-bolivia"}
+chronologie:
+  - {annee: 2009, evenement: "Référendum du 6 décembre : 75,09 % des votants approuvent la conversion de la commune en AIOC."}
+  - {annee: 2018, evenement: "Déclarations de constitutionnalité 0064/2018 (3 août) et 0079/2018 (12 septembre) ; statut adopté le 24 août."}
+  - {annee: 2019, evenement: "Référendum du 26 mai : 51,8 % des votants approuvent le statut."}
+  - {annee: 2020, evenement: "Remise des lettres de créance aux autorités élues (11 août)."}
+  - {annee: 2021, evenement: "Installation du gouvernement autonome (4 janvier), quatrième AIOC du pays."}
+  - {annee: 2023, evenement: "Sara Poma Huarachi, élue par le Jach'a Tantachawi le 14 novembre 2022, prend ses fonctions de Qulqi Kamachi pour 2023-2025 (28 février)."}
+fiabilite:
+  verifie: ["Articles 2, 5, 12 à 14, 16 à 39, 42 à 58, 63, 78, 80 et dispositions transitoires du statut de Salinas (texte publié par l'Organe électoral plurinational, février 2019).", "Résultats des référendums de 2009 (75,09 %) et 2019 (51,8 %), numéros des déclarations de constitutionnalité et date d'installation, selon Sudamérica Rural.", "Mention de Salinas parmi les AIOC constituées par la voie municipale (Morell i Torra, 2021).", "Noms des neuf unités territoriales décentralisées et élection de la deuxième Qulqi Kamachi, selon l'Organe électoral plurinational (mars 2023)."]
+  non_confirme: ["Population et surface de l'ancienne commune : aucune source ouverte consultée.", "Existence et date d'un titre de TCO au nom des ayllus et markas de Salinas.", "Obtention des deux sièges à l'Assemblée départementale d'Oruro que le statut charge l'autonomie de demander (disposition transitoire sixième)."]
+sources:
+  - {titre: "Statut autonomique de l'AIOC de Salinas — Service étatique des autonomies (SEA)", url: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Salinas-de-Garc%C3%AD-Mendoza.pdf"}
+  - {titre: "Statuts des gouvernements AIOC — Service étatique des autonomies (SEA)", url: "https://www.sea.gob.bo/desarrollo-normativo-autonomico/estatutos-autonomicos-y-cartas-organicas/estatutos-gaioc.html"}
+  - {titre: "« Salinas de Garci Mendoza se constituye en la cuarta autonomía indígena del Estado Plurinacional de Bolivia » — Sudamérica Rural, 2021", url: "https://www.sudamericarural.org/index.php/noticias/que-pasa/6368-salinas-de-garci-mendoza-se-constituye-en-la-cuarta-autonomia-indigena-del-estado-plurinacional-de-bolivia"}
+  - {titre: "« TED Oruro: GAIOC Salinas posesiona a Qulqi Kamachi Sara Poma Huarachi » — Organe électoral plurinational, 2023", url: "https://fuentedirecta.oep.org.bo/noticia/ted-oruro-gaioc-salinas-posesiona-a-qulqi-kamachi-sara-poma-huarachi/"}
+  - {titre: "Pere Morell i Torra, « Los primeros pasos de Charagua Iyambae », REAF-JSG 34, 2021", url: "https://dialnet.unirioja.es/descarga/articulo/8331297.pdf"}
+  - {titre: "Constitution de Bolivie (2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

@@ -1,0 +1,57 @@
+uid: "ejidos-comunidades-agrarias-mexique"
+nom: "Ejidos et communautés agraires (noyaux agraires)"
+endonyme: ""
+territoire: "Terres de propriété sociale des ejidos et des communautés agraires, dans toutes les entités fédérées du Mexique"
+etats: ["Mexique"]
+region: "ameriques"
+coord: [23.6, -102.6]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 5653637, annee: 2007, perimetre: "titulaires de droits agraires : ejidatarios, comuneros et posesionarios (occupants régularisés), d'après les recensements agricole et ejidal de l'INEGI de 2007 ; les habitants sans droits agraires ne sont pas comptés", source: "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-54722017000100125"}
+lieux: {valeur: 32102, unite: "noyaux agraires (29 709 ejidos et 2 393 communautés agraires)", annee: 2016, source: "https://www.gob.mx/cms/uploads/attachment/file/1028349/NOTA_TECNICA_SOBRE_LA_PROPIEDAD_SOCIAL_v26102017.pdf"}
+surface_km2: {valeur: 1019000, annee: 2007, perimetre: "propriété sociale : 84,5 millions d'hectares d'ejidos et 17,4 millions d'hectares de communautés agraires, soit 53,4 % du territoire, d'après les données de 2007 réunies par Morett-Sánchez et Cosío-Ruiz (2017) ; le Registre agraire national donne environ 100 millions d'hectares, soit 50,8 % du territoire, pour 2016", source: "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-54722017000100125"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'ejido (terre dotée à un groupe de paysans par la réforme agraire) et la communauté agraire (terre restituée ou confirmée à un village qui la détenait en commun) forment au Mexique la « propriété sociale » de la terre. L'article 27 de la Constitution de 1917 et la loi agraire du 26 février 1992 leur reconnaissent la personnalité juridique et la propriété de leurs terres. Chaque noyau agraire est gouverné par l'assemblée de ses membres, qui élit un comisariado (bureau exécutif) et un conseil de surveillance. En 2016, le Registre agraire national compte 32 102 noyaux agraires couvrant 50,8 % du territoire. Les aires de conservation volontaire certifiées sur des terres d'ejidos et de communautés ont leur fiche ; les droits propres aux peuples autochtones relèvent de la fiche « Peuples et communautés autochtones du Mexique (article 2 de la Constitution) ».
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Rapport de la Rapporteuse spéciale sur les droits des peuples autochtones sur sa visite au Mexique (A/HRC/39/17/Add.2), § 9 et 18 à 21 : régime agraire des ejidos et des communautés, rapports entre autorités ejidales et autorités autochtones.", annee: 2018, source: "https://documents.un.org/api/symbol/access?s=A/HRC/39/17/Add.2&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution politique des États-Unis mexicains, art. 27 fr. VII (réforme publiée au Journal officiel de la Fédération, DOF, le 6 janvier 1992)", nature: "constitution", annee: 1992, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  - {instrument: "Loi agraire (Ley Agraria), DOF 26 février 1992, dernière réforme DOF 14 novembre 2025", nature: "loi", annee: 1992, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+  - {instrument: "Loi générale de développement forestier durable, DOF 5 juin 2018, art. 5", nature: "loi", annee: 2018, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf"}
+  - {instrument: "Loi des eaux nationales, art. 55", nature: "loi", annee: 1992, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Constitution (art. 27 fr. VII) fait de l'assemblée générale l'organe suprême du noyau ejidal ou communal ; la loi agraire (art. 21, 22 et 37) institue l'assemblée de tous les ejidatarios, le comisariado et le conseil de surveillance élus au scrutin secret, avec parité depuis 2023 ; l'article 107 étend ces règles aux communautés.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Chaque ejido adopte un règlement interne inscrit au Registre agraire national (loi agraire, art. 10 et 23 I), chaque communauté un statut communal (art. 99 et 101), dans les limites de la loi.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "L'ejido est propriétaire des terres dotées (loi agraire, art. 9) ; les terres d'usage commun et la zone d'habitat sont inaliénables, imprescriptibles et insaisissables (art. 64 et 74), de même que les terres communales (art. 99 III), sauf apport à une société (art. 75 et 100) ; l'assemblée peut autoriser la pleine propriété individuelle des parcelles (dominio pleno, art. 81) ; l'expropriation pour utilité publique reste possible (art. 93).", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+  ressources: {valeur: "partiel", note: "Les ressources forestières appartiennent aux propriétaires des terrains, dont les ejidos et les communautés (loi générale de développement forestier durable de 2018, art. 5) ; l'usage de l'eau des terres communes suit le règlement intérieur du noyau (loi des eaux nationales, art. 55) ; le sous-sol relève de la Nation (Constitution, art. 27).", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf"}
+  consentement: {valeur: "partiel", note: "Seule l'assemblée approuve les contrats d'usage des terres communes par des tiers (loi agraire, art. 23 V et 45) et leur apport à une société (art. 75) ; l'expropriation pour utilité publique ne requiert pas son accord (art. 93).", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "L'ejido a un patrimoine propre (loi agraire, art. 9) et l'assemblée décide de l'emploi de ses ressources et de la répartition des gains (art. 23 IV et VI) ; aucun pouvoir fiscal n'est prévu.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La Rapporteuse spéciale sur les droits des peuples autochtones (A/HRC/39/17/Add.2, 2018, § 18 à 21) relève que les autorités ejidales ne coïncident pas toujours avec les autorités des communautés autochtones et que des consultations passent par les seules autorités ejidales ; Morett-Sánchez et Cosío-Ruiz (2017) signalent des ventes de parcelles hors du régime légal de pleine propriété.", source: "https://documents.un.org/api/symbol/access?s=A/HRC/39/17/Add.2&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1917, evenement: "L'article 27 de la Constitution fonde la restitution et la dotation de terres aux villages."}
+  - {annee: 1992, evenement: "Réforme de l'article 27 (DOF 6 janvier) et nouvelle loi agraire (DOF 26 février) : fin de la redistribution, possibilité de pleine propriété des parcelles."}
+  - {annee: 2018, evenement: "Loi générale de développement forestier durable : la propriété des ressources forestières suit celle des terrains."}
+  - {annee: 2018, evenement: "Rapport de la Rapporteuse spéciale des Nations unies sur sa visite au Mexique, qui examine le régime agraire."}
+  - {annee: 2023, evenement: "Réforme de la loi agraire (DOF 25 avril) : parité dans les comisariados et les conseils de surveillance."}
+fiabilite:
+  verifie: ["Article 27 fr. VII de la Constitution, texte en vigueur.", "Articles 9, 10, 21 à 23, 37, 45, 64, 74, 75, 81, 93, 98 à 107 et 164 de la loi agraire, texte en vigueur (réforme DOF 14 novembre 2025).", "Article 5 de la loi générale de développement forestier durable et article 55 de la loi des eaux nationales.", "Nombre de noyaux agraires, surface et part du territoire (note technique du Registre agraire national, données 2016).", "Paragraphes 9 et 18 à 21 du rapport A/HRC/39/17/Add.2."]
+  non_confirme: ["Liste officielle des noyaux agraires (padrón du Registre agraire national) : le portail de données ouvertes du RAN n'a pas pu être ouvert, aucun tableau des sites n'est donc joint.", "Surface : 102 millions d'hectares (données 2007, Morett-Sánchez et Cosío-Ruiz) et environ 100 millions d'hectares (RAN, 2016) ; le CCMSS donne 52 % du territoire sans date.", "Nombre de noyaux agraires : le CCMSS donne 30 570 noyaux (28 595 ejidos et 1 975 communautés) d'après le RAN 2019, moins que les 32 102 de la note du RAN pour 2016 et les « un peu plus de 32 000 » cités en 2022 par La Jornada del Campo ; l'écart n'est pas expliqué.", "Nombre actuel de titulaires de droits agraires : 5,65 millions en 2007 (recensements de l'INEGI), 5,5 millions de personnes ayant des droits selon le RAN pour 2016, 5,2 millions de sujets agraires selon La Jornada del Campo en 2022.", "Part des noyaux agraires situés en territoire autochtone."]
+sources:
+  - {titre: "Constitution politique des États-Unis mexicains — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  - {titre: "Loi agraire (Ley Agraria) — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf"}
+  - {titre: "Loi générale de développement forestier durable — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf"}
+  - {titre: "Loi des eaux nationales — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf"}
+  - {titre: "Rapport de la Rapporteuse spéciale sur les droits des peuples autochtones sur sa visite au Mexique, A/HRC/39/17/Add.2 (2018), texte en espagnol — Nations unies", url: "https://documents.un.org/api/symbol/access?s=A/HRC/39/17/Add.2&l=fr&t=pdf"}
+  - {titre: "Nota técnica sobre la propiedad social — Registro Agrario Nacional, 2017", url: "https://www.gob.mx/cms/uploads/attachment/file/1028349/NOTA_TECNICA_SOBRE_LA_PROPIEDAD_SOCIAL_v26102017.pdf"}
+  - {titre: "Cobertura forestal y núcleos agrarios — Conseil civil mexicain pour la sylviculture durable (CCMSS)", url: "https://comunidadesybosques.ccmss.org.mx/cobertura_forestal_y_nucleos_agrarios.php"}
+  - {titre: "Morett-Sánchez et Cosío-Ruiz, « Panorama de los ejidos y comunidades agrarias en México », Agricultura, sociedad y desarrollo, 2017", url: "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-54722017000100125"}
+  - {titre: "Ibarra Hernández, « El papel actual del Registro Agrario Nacional », La Jornada del Campo, 2022", url: "https://www.jornada.com.mx/2022/04/16/delcampo/articulos/papel-actual-ran.html"}

@@ -1,0 +1,61 @@
+uid: "jatun-ayllu-yura-bolivie"
+nom: "Jatun Ayllu Yura"
+endonyme: "Jatun Ayllu Yura"
+territoire: "Autonomie originaire du Jatun Ayllu Yura (territoire autochtone originaire paysan), province Antonio Quijarro, département de Potosí"
+etats: ["Bolivie"]
+region: "ameriques"
+coord: [-20.1, -66.1]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 4, unite: "ayllus majeurs (Qullana, Wisijsa, Chiquchi, Qurqa), regroupant 41 communautés, plus le bourg de Yura", annee: 2022, source: "https://www.lexivox.org/norms/BO-L-N1442.html"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 42, annee: 2022, perimetre: "communautés, localités et bourgs listés par la loi 1442 (art. 6) : 41 communautés des quatre ayllus et le bourg de Yura", source: "https://www.lexivox.org/norms/BO-L-N1442.html"}
+resume: >-
+  Le Jatun Ayllu Yura (« grand ayllu », ayllu désignant une communauté andine fondée sur la parenté et le territoire) se présente dans son statut comme un peuple ancestral de la parcialidad Wisijsa (une des moitiés territoriales) de la nation Qhara Qhara, établi dans la province Antonio Quijarro (Potosí). Il accède à l'autonomie originaire (autonomía indígena originaria campesina, AIOC, collectivité territoriale autochtone prévue par la Constitution de 2009) sur la base de son territoire titré en 2012, et non d'une commune. Le statut est déclaré conforme à la Constitution en 2019 et approuvé le 20 novembre 2020 selon les normes et procédures propres ; la loi 1442 du 30 juin 2022 crée l'unité territoriale. Le gouvernement repose sur le cabildo (Jatun Tantakuy, assemblée générale des habitants), le Conseil grand des autorités, quatre kurakas et quatre mama thallas (un homme et une femme par ayllu) et un jilaqata (Jilacata), représentant légal.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La Bolivie ratifie la Convention 169 de l'OIT le 11 décembre 1991 ; le statut de Yura (art. 52) la cite comme fondement de la justice originaire.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "La Bolivie vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Constitution politique de l'État plurinational de Bolivie (2009), art. 5, 30, 190, 289 à 304 et disposition transitoire septième", nature: "constitution", annee: 2009, source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {instrument: "Statut autonomique de l'autonomie originaire du Jatun Ayllu Yura (déclaration constitutionnelle plurinationale 0081/2019, approuvé le 20 novembre 2020)", nature: "statut_autonomie", annee: 2020, source: "https://www.sea.gob.bo/wp-content/uploads/2023/04/Estatuto_de_Jatun_Ayllu_Yura_.pdf"}
+  - {instrument: "Loi 1442 du 30 juin 2022 portant création de l'unité territoriale « Territoire indígena originario campesino de Jatun Ayllu Yura »", nature: "loi", annee: 2022, source: "https://www.lexivox.org/norms/BO-L-N1442.html"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Constitution (art. 289) définit l'AIOC comme autogouvernement ; le statut (art. 24 à 51) crée le cabildo, le Conseil grand des autorités, les conseils par ayllu, le Conseil des kurakas et mama thallas (mandat de deux ans) et le jilaqata, désignés par rotation (muyu) selon les normes propres.", source: "https://www.sea.gob.bo/wp-content/uploads/2023/04/Estatuto_de_Jatun_Ayllu_Yura_.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le statut (art. 28 et 30.1 et 30.6) attribue au Conseil grand des autorités une faculté législative sur les compétences exclusives de l'art. 304 de la Constitution ; les kurakas promulguent les lois et les réglementent (art. 44.11 et 44.12).", source: "https://www.sea.gob.bo/wp-content/uploads/2023/04/Estatuto_de_Jatun_Ayllu_Yura_.pdf"}
+  justice_propre: {valeur: "reconnu", note: "La Constitution (art. 190) reconnaît la juridiction indígena originaria campesina ; le statut (art. 52 à 57) l'organise sur quatre niveaux (communauté, ayllu, Conseil grand des autorités, cabildo), avec des décisions obligatoires (Constitution, art. 192).", source: "https://www.sea.gob.bo/wp-content/uploads/2023/04/Estatuto_de_Jatun_Ayllu_Yura_.pdf"}
+  terres: {valeur: "reconnu", note: "Le territoire est consolidé sur le titre exécutoire TIOC-NAL 000021 du 17 avril 2012 (loi 1442 de 2022, art. 2) ; le statut (art. 20) combine tenure familiale et terres communales de pâturage.", source: "https://www.lexivox.org/norms/BO-L-N1442.html"}
+  ressources: {valeur: "partiel", note: "Le statut (art. 21 et 87.3) confie au gouvernement autonome la gestion des ressources renouvelables selon les normes propres ; les ressources non renouvelables restent soumises à la consultation de l'art. 30 de la Constitution (art. 21.III).", source: "https://www.sea.gob.bo/wp-content/uploads/2023/04/Estatuto_de_Jatun_Ayllu_Yura_.pdf"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 30.II.15) impose une consultation préalable obligatoire sans exiger le consentement ; le statut (art. 14) soumet l'exploitation des ressources non renouvelables à une consultation libre, préalable et informée, menée avec l'État central.", source: "https://www.sea.gob.bo/wp-content/uploads/2023/04/Estatuto_de_Jatun_Ayllu_Yura_.pdf"}
+  langue: {valeur: "reconnu", note: "La Constitution (art. 5) fait du quechua une langue officielle de l'État ; le statut (art. 5) fait du quechua et du castillan les langues officielles de l'autonomie.", source: "https://www.sea.gob.bo/wp-content/uploads/2023/04/Estatuto_de_Jatun_Ayllu_Yura_.pdf"}
+  education: {valeur: "partiel", note: "Le statut (art. 66, 69 et 89.2) fait de l'éducation une compétence concurrente exercée dans le cadre de la loi Avelino Siñani-Elizardo Pérez, avec un curriculum local diversifié.", source: "https://www.sea.gob.bo/wp-content/uploads/2023/04/Estatuto_de_Jatun_Ayllu_Yura_.pdf"}
+  fiscalite: {valeur: "partiel", note: "Le statut (art. 87.12 à 87.14) permet de créer des taxes et contributions, d'administrer les impôts de sa compétence et d'adopter son budget ; les ressources suivent l'art. 106 de la loi-cadre des autonomies (art. 91).", source: "https://www.sea.gob.bo/wp-content/uploads/2023/04/Estatuto_de_Jatun_Ayllu_Yura_.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le premier gouvernement, élu du 26 au 29 octobre 2021 selon les normes propres, exerce pour 2022-2023 et signe en février 2023 une convention avec l'Institut national de statistique ; en juillet 2023, le quotidien El Potosí rapporte que la structure administrative fonctionne depuis un an ; les autorités du second mandat (2024-2025) reçoivent leurs lettres de créance en janvier 2024 (Organe électoral plurinational). Le transfert des fonds et biens de la commune de Tomave n'est pas documenté.", source: "https://elpotosi.net/local/20230715_el-jatun-ayllu-yura-avanza-en-la-consolidacion-de-su-estructura-territorial-y-administrativa.html"}
+chronologie:
+  - {annee: 2012, evenement: "Cabildo décidant de la voie autonomique ; titre exécutoire TIOC-NAL 000021 du territoire (17 avril)."}
+  - {annee: 2016, evenement: "Consultation d'accès à l'autonomie originaire, approuvée à l'unanimité selon les normes propres (26 novembre)."}
+  - {annee: 2017, evenement: "Désignation des 42 membres de la commission de rédaction du statut (30 mai)."}
+  - {annee: 2018, evenement: "La commission de rédaction approuve le projet de statut, 100 articles et deux dispositions transitoires (28 novembre)."}
+  - {annee: 2019, evenement: "Déclaration constitutionnelle plurinationale 0081/2019 de conformité du statut (27 novembre)."}
+  - {annee: 2020, evenement: "Approbation du statut par la population des 42 communautés selon les normes propres (20 novembre)."}
+  - {annee: 2021, evenement: "Élection du premier gouvernement autonome (26 au 29 octobre), pour 2022-2023."}
+  - {annee: 2022, evenement: "Loi 1442 portant création de l'unité territoriale du TIOC de Jatun Ayllu Yura (30 juin)."}
+  - {annee: 2024, evenement: "Remise des lettres de créance aux autorités du second mandat, 2024-2025 (janvier)."}
+fiabilite:
+  verifie: ["Articles 1, 5, 14, 19 à 21, 24 à 57, 66, 69, 86 à 91 et dispositions transitoires du statut de Jatun Ayllu Yura.", "Articles 1 à 8 de la loi 1442 du 30 juin 2022 (objet, consolidation sur le titre TIOC-NAL 000021, limites, liste de 41 communautés et du bourg de Yura).", "Étapes 2016-2024 supervisées par l'Organe électoral plurinational, dont la déclaration constitutionnelle 0081/2019 du 27 novembre 2019 et l'approbation du statut le 20 novembre 2020.", "Article 289 de la Constitution de 2009."]
+  non_confirme: ["Date exacte d'entrée en fonction des autorités du second mandat : l'article de l'Organe électoral est daté du 9 janvier 2024 ; le statut (art. 47) fixe l'investiture du jilaqata au 7 janvier et l'exercice de ses fonctions au 1er mars.", "Population et surface du territoire : aucune source ouverte trouvée.", "Date de dissolution des fonctions municipales de Tomave sur le territoire (transfert prévu par la disposition transitoire première)."]
+sources:
+  - {titre: "Statut autonomique de l'autonomie originaire de Jatun Ayllu Yura — Service étatique des autonomies (SEA)", url: "https://www.sea.gob.bo/wp-content/uploads/2023/04/Estatuto_de_Jatun_Ayllu_Yura_.pdf"}
+  - {titre: "Statuts des gouvernements AIOC — Service étatique des autonomies (SEA)", url: "https://www.sea.gob.bo/desarrollo-normativo-autonomico/estatutos-autonomicos-y-cartas-organicas/estatutos-gaioc.html"}
+  - {titre: "Loi 1442 du 30 juin 2022 — LexiVox", url: "https://www.lexivox.org/norms/BO-L-N1442.html"}
+  - {titre: "« El TED Potosí entrega credenciales a nuevas autoridades de la autonomía originaria de Yura » — Organe électoral plurinational, 2024", url: "https://web.oep.org.bo/institucional-institucional/el-ted-potosi-entrega-credenciales-a-nuevas-autoridades-de-la-autonomia-originaria-de-yura/"}
+  - {titre: "« El Jatun Ayllu Yura avanza en la consolidación de su estructura territorial y administrativa » — El Potosí, 15 juillet 2023", url: "https://elpotosi.net/local/20230715_el-jatun-ayllu-yura-avanza-en-la-consolidacion-de-su-estructura-territorial-y-administrativa.html"}
+  - {titre: "« El INE firma convenio con la autonomía indígena Jatun Ayllu Yura para apoyar al censo » — Institut national de statistique, 2023", url: "https://cpv2024.ine.gob.bo/index.php/el-ine-firma-convenio-con-la-autonomia-indigena-jatun-ayllu-yura-para-apoyar-al-censo/"}
+  - {titre: "Constitution de Bolivie (2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

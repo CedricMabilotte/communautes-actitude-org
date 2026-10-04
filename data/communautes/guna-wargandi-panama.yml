@@ -1,0 +1,60 @@
+uid: "guna-wargandi-panama"
+nom: "Guna de la comarca Wargandí"
+endonyme: ""
+territoire: "Comarca Kuna de Wargandí (province de Darién, haut bassin du Chucunaque)"
+etats: ["Panama"]
+region: "ameriques"
+coord: [8.9, -78.1]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2781, annee: 2023, perimetre: "population recensée dans la comarca Kuna de Wargandí (recensement de 2023, INEC)", source: "https://www.inec.gob.pa/publicaciones/Default3.aspx?ID_PUBLICACION=1231&ID_CATEGORIA=19&ID_SUBCATEGORIA=71"}
+lieux: {valeur: 4, unite: "lieux habités (lugares poblados)", annee: 2023, source: "https://www.inec.gob.pa/publicaciones/Default3.aspx?ID_PUBLICACION=1231&ID_CATEGORIA=19&ID_SUBCATEGORIA=71"}
+surface_km2: {valeur: 775, annee: 2000, perimetre: "superficie fixée par la loi 34 de 2000 (art. 1) : 77 500 ha", source: "https://docs.panama.justia.com/federales/leyes/34-de-2000-jul-28-2000.pdf"}
+villages: {valeur: 4, annee: 2023, perimetre: "lieux habités recensés dans la comarca : Asnatí, Mortí, Nurra et Walá (INEC, recensement de 2023)", source: "https://www.inec.gob.pa/publicaciones/Default3.aspx?ID_PUBLICACION=1231&ID_CATEGORIA=19&ID_SUBCATEGORIA=71"}
+resume: >-
+  Les Guna de Wargandí vivent dans le haut bassin du fleuve Chucunaque, dans la province de Darién, à l'est du Panama. La loi 34 du 25 juillet 2000 crée pour eux la comarca (division territoriale autochtone à statut spécial) Kuna de Wargandí, de 77 500 ha, détachée des districts de Chepigana et Pinogana. Les terres sont une propriété collective qui ne peut être cédée ni louée, et le Congrès général est reconnu comme autorité traditionnelle suprême. La comarca a rang de corregimiento (plus petite division administrative) ; son régime est distinct de ceux de Guna Yala et de Madungandí. Le recensement de 2023 y compte 2 781 habitants dans quatre localités.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Panama vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport du Rapporteur spécial James Anaya sur le Panama (A/HRC/27/52/Add.1) : il cite la comarca de Wargandí parmi les trois comarcas où vivent les Guna et parmi les cinq comarcas créées entre 1938 et 2000.", annee: 2014, source: "https://undocs.org/fr/A/HRC/27/52/Add.1"}
+base_nationale:
+  - {instrument: "Constitution politique du Panama (1972, révisée en 2004), art. 127", nature: "constitution", annee: 1972, source: "https://www.constituteproject.org/constitution/Panama_2004?lang=es"}
+  - {instrument: "Loi 34 du 25 juillet 2000 qui crée la comarca Kuna de Wargandí (Gaceta Oficial 24106)", nature: "loi", annee: 2000, source: "https://docs.panama.justia.com/federales/leyes/34-de-2000-jul-28-2000.pdf"}
+  - {instrument: "Décret exécutif 414 du 22 octobre 2008 qui adopte la Charte organique administrative de la comarca", nature: "loi", annee: 2008, source: "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F35435%2F1%2FLos_pueblos_indigenas_de_Panama_y_su_relacion_con_el_Estado.pdf"}
+  - {instrument: "Loi 88 du 22 novembre 2010 sur les langues et alphabets des peuples autochtones", nature: "loi", annee: 2010, source: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  - {instrument: "Loi 37 de 2016 sur la consultation et le consentement préalable, libre et éclairé", nature: "loi", annee: 2016, source: "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F35435%2F1%2FLos_pueblos_indigenas_de_Panama_y_su_relacion_con_el_Estado.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La loi 34 de 2000 reconnaît le Congrès général comme autorité traditionnelle suprême et les congrès locaux (art. 3), ainsi que les caciques et les sahilas (chefs de village) comme autorités et représentants (art. 5).", source: "https://docs.panama.justia.com/federales/leyes/34-de-2000-jul-28-2000.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La loi 34 de 2000 (art. 4) rend obligatoires dans la comarca les résolutions du Congrès général, à condition qu'elles ne contredisent ni la Constitution ni les lois ; la Charte organique est reconnue par décret de l'exécutif (art. 23).", source: "https://docs.panama.justia.com/federales/leyes/34-de-2000-jul-28-2000.pdf"}
+  justice_propre: {valeur: "partiel", note: "La loi 34 de 2000 (art. 7) soumet la justice à la Constitution et à la loi, avec prise en compte de la culture guna, et renvoie à la Charte organique les formes coutumières de règlement des conflits.", source: "https://docs.panama.justia.com/federales/leyes/34-de-2000-jul-28-2000.pdf"}
+  terres: {valeur: "reconnu", note: "La loi 34 de 2000 (art. 2) fait des terres de la comarca une propriété collective qui ne peut être attribuée, cédée ni louée ; les droits de possession des occupants non autochtones antérieurs à la loi sont maintenus hors de cette propriété.", source: "https://docs.panama.justia.com/federales/leyes/34-de-2000-jul-28-2000.pdf"}
+  ressources: {valeur: "partiel", note: "La loi 34 de 2000 confie au Congrès général l'élaboration d'un plan de gestion soumis à l'approbation de l'Autorité nationale de l'environnement (art. 9) et la protection des ressources en coordination avec l'État (art. 11 et 12) ; elle interdit l'exploitation forestière intensive (art. 13).", source: "https://docs.panama.justia.com/federales/leyes/34-de-2000-jul-28-2000.pdf"}
+  consentement: {valeur: "partiel", note: "La loi 37 de 2016 rend obligatoires la consultation et le consentement préalable, libre et éclairé des peuples des comarcas, conduits par les entités de l'État avant toute mesure législative ou administrative (art. 1 à 3) ; son article 10 permet aux autorités traditionnelles de conclure avec l'État et les entreprises des accords qui obligent les parties.", source: "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F35435%2F1%2FLos_pueblos_indigenas_de_Panama_y_su_relacion_con_el_Estado.pdf"}
+  langue: {valeur: "partiel", note: "La loi 88 de 2010 reconnaît la langue kuna (guna) (art. 1), fixe son alphabet (art. 2) et prévoit son enseignement à côté de l'espagnol dans toutes les comarcas (art. 4), sans statut de langue officielle.", source: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  education: {valeur: "partiel", note: "La loi 34 de 2000 (art. 14) prévoit une éducation bilingue interculturelle conduite par le ministère de l'Éducation en coordination avec les autorités traditionnelles.", source: "https://docs.panama.justia.com/federales/leyes/34-de-2000-jul-28-2000.pdf"}
+  fiscalite: {valeur: "partiel", note: "La loi 34 de 2000 (art. 20) oblige l'État à inscrire au budget national les crédits des programmes de développement de la comarca, conduits en coordination avec le Congrès général ; elle ne prévoit pas de pouvoir fiscal propre.", source: "https://docs.panama.justia.com/federales/leyes/34-de-2000-jul-28-2000.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les caciques de la comarca, reçus en août 2025 par la vice-ministre des Affaires autochtones, dénoncent l'occupation de terres de la comarca, notamment à Asnatí, par des éleveurs et des cultivateurs venus d'autres régions du pays ; le ministère de Gouvernement renvoie le dossier à la Commission nationale des limites et à l'Autorité nationale d'administration des terres. Le Rapporteur spécial de l'ONU (2014) relevait déjà, pour l'ensemble des Guna, un manque de consultation et l'arrivée de colons sur leurs terres.", source: "https://www.diaadia.com.pa/el-pais/caciques-de-la-comarca-guna-de-wargandi-denuncian-invasiones-y-falta-de-electricidad-785539"}
+chronologie:
+  - {annee: 2000, evenement: "La loi 34 du 25 juillet crée la comarca Kuna de Wargandí sur 77 500 ha détachés des districts de Chepigana et Pinogana."}
+  - {annee: 2008, evenement: "Le décret exécutif 414 du 22 octobre adopte la Charte organique administrative de la comarca."}
+  - {annee: 2010, evenement: "La loi 88 reconnaît les langues et alphabets des peuples autochtones, dont le guna."}
+  - {annee: 2014, evenement: "Le Rapporteur spécial de l'ONU sur les droits des peuples autochtones publie son rapport sur le Panama, qui cite la comarca."}
+  - {annee: 2016, evenement: "La loi 37 instaure la consultation et le consentement préalable, libre et éclairé des peuples autochtones."}
+  - {annee: 2023, evenement: "Le recensement compte 2 781 habitants dans quatre localités de la comarca."}
+  - {annee: 2025, evenement: "Les caciques dénoncent auprès du ministère de Gouvernement l'occupation de terres de la comarca par des éleveurs et des cultivateurs."}
+fiabilite:
+  verifie: ["Texte de la loi 34 de 2000 (art. 1 à 24), superficie de 77 500 ha (art. 1).", "Population (2 781) et quatre lieux habités (Asnatí, Mortí, Nurra, Walá) du recensement de 2023, tableau de l'INEC pour la province de Darién.", "Mention de la comarca dans le rapport A/HRC/27/52/Add.1 (2014), § 8 et 13.", "Article 1 de la loi 88 de 2010.", "Vote du Panama pour la résolution 61/295.", "Plainte des caciques pour occupation de terres (Día a Día, 20 août 2025)."]
+  non_confirme: ["Contenu de la Charte organique (décret exécutif 414 de 2008), connu par l'étude de la Bibliothèque du Congrès national du Chili (art. 53 et 54 sur les ressources naturelles) ; le texte au Journal officiel n'a pas pu être ouvert, et le rapport de l'ONU de 2014 ne cite pas Wargandí parmi les comarcas dotées d'une charte.", "Rattachement de la comarca à une circonscription électorale et application de l'article 147 de la Constitution (sièges garantis aux comarcas).", "État de la démarcation physique prévue par l'article 22 de la loi 34 de 2000.", "La mention (P) attachée à Asnatí dans le tableau de l'INEC n'a pas été vérifiée dans les définitions du recensement."]
+sources:
+  - {titre: "Loi 34 de 2000 qui crée la comarca Kuna de Wargandí — Gaceta Oficial 24106 (copie Legispan, Justia Panamá)", url: "https://docs.panama.justia.com/federales/leyes/34-de-2000-jul-28-2000.pdf"}
+  - {titre: "Recensement 2023, volume V : lieux habités de la République — INEC", url: "https://www.inec.gob.pa/publicaciones/Default3.aspx?ID_PUBLICACION=1231&ID_CATEGORIA=19&ID_SUBCATEGORIA=71"}
+  - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones : la situation au Panama (A/HRC/27/52/Add.1, 2014) — ONU", url: "https://undocs.org/fr/A/HRC/27/52/Add.1"}
+  - {titre: "Los pueblos indígenas de Panamá y su relación con el Estado (2023) — Biblioteca del Congreso Nacional de Chile", url: "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F35435%2F1%2FLos_pueblos_indigenas_de_Panama_y_su_relacion_con_el_Estado.pdf"}
+  - {titre: "Caciques de la comarca Guna de Wargandí denuncian invasiones y falta de electricidad — Día a Día, 20 août 2025", url: "https://www.diaadia.com.pa/el-pais/caciques-de-la-comarca-guna-de-wargandi-denuncian-invasiones-y-falta-de-electricidad-785539"}
+  - {titre: "Loi 88 de 2010 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  - {titre: "Constitution du Panama — Constitute Project", url: "https://www.constituteproject.org/constitution/Panama_2004?lang=es"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

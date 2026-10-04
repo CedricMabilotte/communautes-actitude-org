@@ -1,0 +1,74 @@
+uid: "ordonnances-municipales-autochtones-salvador"
+nom: "Communautés autochtones reconnues par ordonnance municipale au Salvador"
+endonyme: ""
+territoire: "Neuf anciennes communes, devenues districts municipaux en 2024, dans les départements de Sonsonate, San Salvador, La Unión et Morazán"
+etats: ["Salvador"]
+region: "ameriques"
+coord: [13.7, -89.7]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 9, unite: "communes (districts municipaux depuis 2024) dotées d'une ordonnance sur les droits des communautés autochtones, selon le ministère de la Culture en août 2021 ; les rapports de l'État au Comité pour l'élimination de la discrimination raciale (2018) et au Comité des droits économiques, sociaux et culturels (2019) en nommaient 6, le Comité pour l'élimination de la discrimination raciale en comptait 7 en 2019", annee: 2021, source: "https://www.cultura.gob.sv/comunidades-indigenas-de-san-antonio-del-monte-ya-cuentan-con-ordenanza-municipal/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés autochtones (nahua-pipil, lenca, kakawira) reconnues par une ordonnance municipale, c'est-à-dire une norme adoptée par le conseil municipal en vertu de l'autonomie communale (Constitution, art. 204 n° 5). La première, à Nahuizalco (décret n° 1 du 24 octobre 2010), crée un Conseil des communautés autochtones ; celle d'Izalco (décret n° 2 du 11 avril 2012) reconnaît l'Alcaldía del Común, institution coutumière d'origine coloniale, comme représentante de la communauté nahua-pipil, et impose une consultation libre, préalable et éclairée. Des ordonnances analogues existent à Panchimalco, Cuisnahuat, Conchagua, Santo Domingo de Guzmán, Cacaopera, Yucuaiquín et San Antonio del Monte. La Constitution reconnaît les peuples autochtones depuis la réforme de l'article 63 ratifiée en 2014 ; la loi de restructuration municipale de 2023 a fondu ces communes dans 44 municipalités au 1er mai 2024 en maintenant leurs ordonnances en vigueur.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Rapport du Rapporteur spécial sur les droits des peuples autochtones sur sa visite au Salvador (A/HRC/24/41/Add.2, § 29, 30 et 33) : il décrit les ordonnances de Nahuizalco et d'Izalco, le Conseil des communautés autochtones de Nahuizalco et l'Alcaldía del Común d'Izalco", annee: 2013, source: "https://documents.un.org/api/symbol/access?s=A/HRC/24/41/Add.2&l=es&t=pdf"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale (CERD/C/SLV/CO/18-19, § 18 et 22) : le Comité prend note des « sept ordonnances municipales de droits des communautés autochtones » et du droit à la consultation qu'elles prévoient, et s'inquiète du manque de consultation lors de leur élaboration", annee: 2019, source: "https://documents.un.org/api/symbol/access?s=CERD/C/SLV/CO/18-19&l=es&t=pdf"}
+  - {mecanisme: "dnudpa", detail: "Le Salvador a voté pour la Déclaration en septembre 2007 (A/HRC/24/41/Add.2, § 18) ; l'ordonnance d'Izalco reconnaît à la communauté tous les droits prévus par la Déclaration (art. 4)", annee: 2007, source: "https://documents.un.org/api/symbol/access?s=A/HRC/24/41/Add.2&l=es&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République du Salvador (1983), art. 63, al. 2, réforme ratifiée en 2014 : « El Salvador reconoce a los pueblos indígenas »", nature: "constitution", annee: 2014, source: "https://www.constituteproject.org/constitution/El_Salvador_2014?lang=es"}
+  - {instrument: "Ordonnance municipale sur les droits de la communauté autochtone d'Izalco (Ordenanza Municipal sobre Derechos de la Comunidad Indígena de Izalco), décret n° 2 du conseil municipal du 11 avril 2012, Diario Oficial n° 75, tome 395, 25 avril 2012", nature: "loi", annee: 2012, source: "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2010-2019/2012/04/96747.PDF"}
+  - {instrument: "Ordonnance municipale sur les droits des communautés autochtones établies dans la commune de Nahuizalco, décret n° 1 du 24 octobre 2010, Diario Oficial n° 126, tome 392, 6 juin 2011 (référence citée par le Rapporteur spécial)", nature: "loi", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=A/HRC/24/41/Add.2&l=es&t=pdf"}
+  - {instrument: "Ordonnance municipale sur les droits des communautés autochtones de Panchimalco, Diario Oficial n° 61, tome 407, avril 2015 (référence citée par l'État au CERD)", nature: "loi", annee: 2015, source: "https://documents.un.org/api/symbol/access?s=CERD/C/SLV/18-19&l=es&t=pdf"}
+  - {instrument: "Loi spéciale de restructuration municipale (Ley Especial para la Reestructuración Municipal), décret législatif n° 762 du 13 juin 2023, art. 8 : les ordonnances des anciennes communes restent en vigueur jusqu'à leur ratification, réforme ou remplacement", nature: "loi", annee: 2023, source: "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2020-2029/2023/06/F9625.PDF"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'ordonnance d'Izalco reconnaît l'Alcaldía del Común (mairie du commun, institution coutumière) comme « représentante légitime » de la communauté nahua-pipil, avec un rôle de représentation, de participation et d'avis auprès de la mairie (art. 31, 2012) ; celle de Nahuizalco crée un Conseil des communautés autochtones (art. 35). La loi de 2023 précise que l'Alcaldía del Común n'a aucune compétence administrative, fiscale, territoriale ni municipale (considérant XV).", source: "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2010-2019/2012/04/96747.PDF"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La communauté ne peut en aucun cas être déplacée de force hors de ses terres et territoires (ordonnance d'Izalco, art. 7, 2012) ; la mairie lui doit protection et conseil pour défendre sa propriété foncière (art. 28) et promeut la réparation des terres prises sans consentement (art. 29). Aucun titre collectif n'est créé.", source: "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2010-2019/2012/04/96747.PDF"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Toute activité, entreprise ou projet touchant la terre, le territoire ou les ressources de la communauté doit lui être soumis au préalable, par ses représentants propres ; la consultation est « libre, préalable et éclairée » et ses résultats sont pesés selon le droit de la communauté à définir son destin (ordonnance d'Izalco, art. 23, 2012). La portée est municipale et le texte ne prévoit pas de veto.", source: "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2010-2019/2012/04/96747.PDF"}
+  langue: {valeur: "partiel", note: "La mairie promeut la préservation et la diffusion du nahuat, en coordination avec le ministère de l'Éducation (ordonnance d'Izalco, art. 10, 2012). Le nahuat n'a pas de statut officiel.", source: "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2010-2019/2012/04/96747.PDF"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Le Rapporteur spécial voit dans les ordonnances un moyen de participation « si elles sont appliquées pleinement » (A/HRC/24/41/Add.2, § 30, 2013) ; le CERD relève en 2019 un manque de consultation adéquate lors de leur élaboration. Aucune source trouvée sur leur application après la fusion des communes de 2024.", source: "https://documents.un.org/api/symbol/access?s=CERD/C/SLV/CO/18-19&l=es&t=pdf"}
+chronologie:
+  - {annee: 2007, evenement: "Le Salvador vote pour la Déclaration des Nations unies sur les droits des peuples autochtones."}
+  - {annee: 2010, evenement: "Le conseil municipal de Nahuizalco adopte la première ordonnance sur les droits des communautés autochtones (publiée en 2011)."}
+  - {annee: 2012, evenement: "Ordonnance d'Izalco : reconnaissance de la communauté nahua-pipil et de l'Alcaldía del Común."}
+  - {annee: 2013, evenement: "Rapport du Rapporteur spécial des Nations unies sur sa visite au Salvador."}
+  - {annee: 2014, evenement: "Ratification de la réforme de l'article 63 de la Constitution, qui reconnaît les peuples autochtones."}
+  - {annee: 2015, evenement: "Publication de l'ordonnance de Panchimalco au Diario Oficial."}
+  - {annee: 2019, evenement: "Le CERD prend note de sept ordonnances municipales et critique le manque de consultation."}
+  - {annee: 2023, evenement: "Loi spéciale de restructuration municipale : 262 communes regroupées en 44 municipalités, ordonnances maintenues en vigueur."}
+  - {annee: 2024, evenement: "Entrée en fonction des 44 conseils municipaux le 1er mai ; les anciennes communes deviennent des districts."}
+fiabilite:
+  verifie:
+    - "Texte de l'ordonnance d'Izalco (décret n° 2 du 11 avril 2012), art. 3, 4, 7, 10, 13, 23, 24, 27, 28, 29 et 31, lu sur le site de la Cour suprême de justice."
+    - "Références des ordonnances de Nahuizalco et d'Izalco au Diario Oficial et existence du Conseil des communautés autochtones de Nahuizalco, d'après le rapport A/HRC/24/41/Add.2."
+    - "Mention de sept ordonnances et du droit à la consultation dans CERD/C/SLV/CO/18-19 ; liste de six communes (Nahuizalco, Izalco, Cuisnahuat, Santo Domingo de Guzmán, Panchimalco, Conchagua) dans E/C.12/SLV/6."
+    - "Loi de restructuration municipale de 2023 : art. 8 (ordonnances maintenues) et considérant XV (Alcaldía del Común sans compétence administrative, fiscale ni territoriale)."
+    - "Liste des neuf communes dotées d'une ordonnance et approbation de celle de San Antonio del Monte le 9 août 2021, d'après le ministère de la Culture."
+    - "Ressources : l'ordonnance d'Izalco (art. 27) confie la protection des ressources à la mairie et impose de consulter la communauté sur l'action de l'État ; elle ne lui donne ni contrôle ni part des ressources. Ce contenu est retenu au titre de la consultation."
+  non_confirme:
+    - "Textes et dates des ordonnances de Cuisnahuat, Conchagua, Santo Domingo de Guzmán, Cacaopera et Yucuaiquín, et texte de celle de San Antonio del Monte : non lus ; leur existence repose sur les rapports de l'État et le ministère de la Culture."
+    - "Le nombre d'ordonnances varie selon les sources (6, 7 ou 9) ; aucune liste officielle à jour n'a été trouvée."
+    - "Ratification, réforme ou abrogation des ordonnances par les nouvelles municipalités depuis le 1er mai 2024 : non vérifié."
+    - "Contenu de l'ordonnance de Nahuizalco (art. 35) connu seulement par le résumé du Rapporteur spécial."
+    - "Population autochtone concernée : le recensement de 2007 (13 319 personnes dans tout le pays) est jugé sous-estimé par le Rapporteur spécial ; aucun chiffre par commune n'a été retenu."
+sources:
+  - {titre: "Ordenanza Municipal sobre Derechos de la Comunidad Indígena de Izalco (2012) — Centro de Documentación Judicial, Cour suprême de justice", url: "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2010-2019/2012/04/96747.PDF"}
+  - {titre: "Ley Especial para la Reestructuración Municipal (décret législatif n° 762, 2023)", url: "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2020-2029/2023/06/F9625.PDF"}
+  - {titre: "Constitution du Salvador, texte de 2014 — Constitute Project", url: "https://www.constituteproject.org/constitution/El_Salvador_2014?lang=es"}
+  - {titre: "Rapport du Rapporteur spécial sur la situation des peuples autochtones au Salvador, A/HRC/24/41/Add.2 (2013)", url: "https://documents.un.org/api/symbol/access?s=A/HRC/24/41/Add.2&l=es&t=pdf"}
+  - {titre: "CERD, observations finales sur le Salvador, CERD/C/SLV/CO/18-19 (2019)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/SLV/CO/18-19&l=es&t=pdf"}
+  - {titre: "Rapport du Salvador au CERD, CERD/C/SLV/18-19 (2018)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/SLV/18-19&l=es&t=pdf"}
+  - {titre: "Sixième rapport du Salvador au Comité des droits économiques, sociaux et culturels, E/C.12/SLV/6 (2019)", url: "https://documents.un.org/api/symbol/access?s=E/C.12/SLV/6&l=es&t=pdf"}
+  - {titre: "Ministère de la Culture du Salvador, « Comunidades indígenas de San Antonio del Monte ya cuentan con ordenanza municipal » (10 août 2021)", url: "https://www.cultura.gob.sv/comunidades-indigenas-de-san-antonio-del-monte-ya-cuentan-con-ordenanza-municipal/"}

@@ -1,0 +1,58 @@
+uid: "consortages-valais"
+nom: "Consortages du Valais"
+endonyme: "Geteilschaften"
+territoire: "Alpages, bisses (canaux d'irrigation à faible pente), forêts et fontaines possédés ou exploités en commun dans le canton du Valais"
+etats: ["Suisse"]
+region: "europe"
+coord: [46.2, 7.6]
+type: "communaute_locale"
+types_secondaires: []
+base: "mixte"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "consortages", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les consortages (en allemand Geteilschaften), corporations dont les membres, les consorts, possèdent ou exploitent en commun un alpage, un bisse (canal d'irrigation), une forêt ou une fontaine. Le Code civil suisse (art. 59, al. 3) laisse les sociétés d'allmends (biens d'usage collectif) au droit cantonal. La loi valaisanne d'application du Code civil du 24 mars 1998 (art. 126 à 131) les soumet à leurs statuts et règlements approuvés par le Conseil d'État, leur donne par cette approbation la personnalité juridique (existence comme personne distincte de ses membres, qui peut posséder des biens) et interdit de modifier leur but d'exploitation. L'assemblée des consorts, un comité et, pour les bisses, un garde du bisse administrent le bien ; les statuts fixent les devoirs des consorts, dont la participation aux travaux collectifs (corvées). Selon l'Office fédéral de la culture, 80 % des surfaces irriguées du canton reçoivent l'eau des bisses, dont beaucoup sont gérés par des consortages.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Code civil suisse du 10 décembre 1907 (RS 210), art. 59, al. 3", nature: "loi", annee: 1907, source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260701/fr/html/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260701-fr-html-2.html"}
+  - {instrument: "Loi d'application du code civil suisse (LACC) du 24 mars 1998, RS/VS 211.1, art. 125 à 131, en vigueur depuis le 1er janvier 1999", nature: "loi", annee: 1998, source: "https://lex.vs.ch/app/fr/texts_of_law/211.1"}
+  - {instrument: "Loi sur les forêts du 14 septembre 2011, RS/VS 921.1, art. 28", nature: "loi", annee: 2011, source: "https://lex.vs.ch/app/fr/texts_of_law/921.1"}
+  - {instrument: "Loi sur l'agriculture et le développement rural du 8 février 2007, RS/VS 910.1, art. 51 et 99", nature: "loi", annee: 2007, source: "https://lex.vs.ch/app/fr/texts_of_law/910.1"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les consortages sont régis par leurs statuts et règlements tels qu'approuvés par le Conseil d'État (LACC de 1998, art. 126, al. 2, let. a) et acquièrent la personnalité morale par cette approbation (art. 127) ; ils ont une assemblée générale qui peut décider leur dissolution (art. 128) et tiennent un registre des consorts (art. 130, al. 2). Le Conseil d'État ne peut refuser l'approbation que « pour des motifs importants », et ce refus ne peut être attaqué par la voie civile ou administrative (art. 127, al. 3).", source: "https://lex.vs.ch/app/fr/texts_of_law/211.1"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les statuts et règlements approuvés s'appliquent en premier, sous réserve des dispositions légales impératives ; la loi ne vient qu'ensuite, puis l'usage local (LACC, art. 126, al. 2) ; là où la loi ne règle pas tout, les coutumes et usages locaux gardent force obligatoire et sont appliqués d'office par le juge (art. 125). Ces règles ne valent que pour le consortage, ses biens et ses membres.", source: "https://lex.vs.ch/app/fr/texts_of_law/211.1"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le but d'exploitation des alpages, forêts, fontaines et bisses ne peut être modifié et les biens sociaux ne peuvent être aliénés ou engagés de façon à entraver cette exploitation (LACC, art. 129) ; le partage et la vente des forêts des consortages exigent une autorisation forestière (loi sur les forêts de 2011, art. 28). Ce n'est pas une inaliénabilité absolue : l'assemblée générale peut décider la dissolution, le solde de la liquidation revient alors aux consorts (art. 128), et chaque consort dispose librement de sa part dans les limites de la loi et des statuts (art. 131).", source: "https://lex.vs.ch/app/fr/texts_of_law/211.1"}
+  ressources: {valeur: "partiel", note: "Chaque consort a une part de jouissance des biens sociaux ; lorsque ces droits portent sur des droits d'alpage ou de bisse, le vote à l'assemblée est proportionnel aux parts, sauf disposition contraire des statuts (LACC, art. 130, al. 1 et 3). Les statuts peuvent réserver le droit de vote à certains consorts, les allodiateurs (consorts titulaires de tous les droits sociaux), les autres gardant un droit d'information sur la gestion (art. 130, al. 4).", source: "https://lex.vs.ch/app/fr/texts_of_law/211.1"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Selon la fiche de l'Office fédéral de la culture (Thomas Antonietti, février 2022), de nombreux bisses sont encore gérés par des consortages, organisés autour d'un comité, d'un garde du bisse et des consorts qui participent à la remise en eau, et 80 % des surfaces irriguées du canton le sont par l'eau des bisses. La version de 2012 du même auteur indique que le recul de l'agriculture a réduit le travail collectif, que des communes ont repris par endroits les charges d'anciens consortages, et que la plupart des consortages ont toujours pour but l'irrigation et les alpages.", source: "https://www.lebendige-traditionen.ch/dam/fr/sd-web/dtmv4dYDE2hr/geteilschaften_imwallis.pdf"}
+chronologie:
+  - {annee: 1240, evenement: "Statut écrit de l'alpage d'Eginen, en Valais, cité par le Dictionnaire historique de la Suisse parmi les premiers statuts de communautés."}
+  - {annee: 1483, evenement: "À Törbel, des paysans concluent un contrat sur l'usage de l'eau et des pâturages."}
+  - {annee: 1907, evenement: "Le Code civil suisse (art. 59, al. 3) laisse les sociétés d'allmends au droit cantonal ; il entre en vigueur en 1912."}
+  - {annee: 1990, evenement: "Elinor Ostrom publie « Governing the Commons », qui s'appuie notamment sur les travaux de Robert McC. Netting à Törbel."}
+  - {annee: 1998, evenement: "Loi valaisanne d'application du Code civil du 24 mars (art. 126 à 131 sur les consortages), en vigueur le 1er janvier 1999."}
+  - {annee: 2007, evenement: "Loi cantonale sur l'agriculture et le développement rural : soutien au maintien des bisses (art. 51 et 99)."}
+  - {annee: 2011, evenement: "Loi cantonale sur les forêts : autorisation forestière pour le partage et la vente des forêts des consortages (art. 28)."}
+  - {annee: 2012, evenement: "Fiche « Consortages en Valais » publiée dans la liste des traditions vivantes en Suisse."}
+fiabilite:
+  verifie: ["Texte des art. 125 à 131 de la LACC du 24 mars 1998 (recueil systématique du Valais, RS/VS 211.1), en vigueur depuis le 1er janvier 1999.", "Art. 59, al. 3, du Code civil suisse (Fedlex).", "Art. 28 de la loi cantonale sur les forêts de 2011 et art. 51 et 99 de la loi cantonale sur l'agriculture de 2007 (recueil systématique du Valais).", "Organisation des consortages de bisses (comité, garde, consorts) et part de 80 % des surfaces irriguées : fiche de l'Office fédéral de la culture, version de février 2022, en ligne le 6 août 2024 à une nouvelle adresse.", "Statut de l'alpage d'Eginen (1240) et organes des communautés : Dictionnaire historique de la Suisse, article « Communauté ».", "Contrat de Törbel de 1483 : swissinfo.ch, 20 juin 2025."]
+  non_confirme: ["Nombre de consortages, de consorts et surface totale : aucune source officielle trouvée ; aucune liste publique des statuts approuvés par le Conseil d'État n'a été trouvée, donc aucun tableau des sites.", "La part de 80 % des surfaces irriguées n'a pas d'année de mesure ni de source primaire citée dans la fiche de l'Office fédéral de la culture.", "Les contestations des décisions sociales vont au juge ordinaire (LACC, art. 130, al. 6) ; aucune juridiction propre n'a été trouvée.", "Les consortages qui relèvent de la loi sur l'agriculture ou de la loi sur les bourgeoisies sont exclus du régime de la LACC (art. 126, al. 1) ; leur part n'a pas été établie.", "Inscription de l'irrigation traditionnelle suisse sur une liste de l'UNESCO : non vérifiée.", "Aucun document de l'ONU, de la Convention sur la diversité biologique ou du Conseil de l'Europe visant ce régime n'a été trouvé."]
+sources:
+  - {titre: "Loi d'application du code civil suisse (LACC), RS/VS 211.1 — recueil systématique du canton du Valais", url: "https://lex.vs.ch/app/fr/texts_of_law/211.1"}
+  - {titre: "Code civil suisse (RS 210) — Fedlex", url: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260701/fr/html/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260701-fr-html-2.html"}
+  - {titre: "Loi sur les forêts, RS/VS 921.1 — recueil systématique du canton du Valais", url: "https://lex.vs.ch/app/fr/texts_of_law/921.1"}
+  - {titre: "Loi sur l'agriculture et le développement rural, RS/VS 910.1 — recueil systématique du canton du Valais", url: "https://lex.vs.ch/app/fr/texts_of_law/910.1"}
+  - {titre: "Les consortages en Valais — Traditions vivantes en Suisse, Office fédéral de la culture (Thomas Antonietti, 2022)", url: "https://www.lebendige-traditionen.ch/dam/fr/sd-web/dtmv4dYDE2hr/geteilschaften_imwallis.pdf"}
+  - {titre: "Consortages en Valais — Thomas Antonietti, 2012 (canton du Valais)", url: "https://www.vs.ch/documents/33695260/33770900/Les+consortages+en+Valais.pdf/3195048a-9fd9-e1d5-009b-08e44225aefb?t=1638276092368&v=1.0"}
+  - {titre: "Communauté — Dictionnaire historique de la Suisse", url: "https://hls-dhs-dss.ch/fr/articles/008970/"}
+  - {titre: "La gestion des biens communs dans le village suisse de Törbel — swissinfo.ch (2025)", url: "https://www.swissinfo.ch/fre/democratie-suisse/t%C3%B6rbel-comment-la-gestion-des-communs-en-suisse-a-int%C3%A9gr%C3%A9-le-savoir-mondial/89543201"}

@@ -1,0 +1,69 @@
+uid: "forets-communautaires-colombie-britannique"
+nom: "Forêts communautaires de la Colombie-Britannique"
+endonyme: ""
+territoire: "Zones des accords de forêt communautaire (community forest agreements) sur les terres de la Couronne de la Colombie-Britannique, réparties dans les districts de ressources naturelles de la province"
+etats: ["Canada"]
+region: "ameriques"
+coord: [54.0, -125.0]
+type: "communaute_locale"
+types_secondaires: ["peuple_autochtone"]
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 62, unite: "accords de forêt communautaire inscrits au registre provincial des licences (type de dossier A28)", annee: 2026, source: "https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/timber-tenures/apportionment/ftarpt_f000_file_status_register_mar2026rpt.xls"}
+surface_km2: {valeur: 19535.37, annee: 2026, perimetre: "somme des superficies inscrites au registre provincial de mars 2026 pour 61 des 62 accords de forêt communautaire (1 953 537 ha) ; l'accord K3W (Three Rivers) y figure sans superficie", source: "https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/timber-tenures/apportionment/ftarpt_f000_file_status_register_mar2026rpt.xls"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés titulaires d'un accord de forêt communautaire (community forest agreement, CFA) en Colombie-Britannique. Le Forest Act (RSBC 1996, ch. 157), partie 3, division 7.1 (art. 43.2 à 43.53), permet au ministre des Forêts de conclure cet accord avec une première nation, une municipalité, un district régional, ou une société, une coopérative, une compagnie ou une société de personnes répondant aux conditions du Community Tenures Regulation (B.C. Reg. 352/2004). L'accord, d'une durée de 25 à 99 ans et remplaçable tous les dix ans, donne au titulaire le droit exclusif de récolter le bois sur une zone de terres de la Couronne (terres publiques provinciales) et peut lui donner le droit de récolter, gérer et tarifer les produits forestiers non ligneux ; le titulaire paie les droits de coupe (stumpage, redevance due à la province pour le bois récolté) et met en œuvre un plan d'aménagement approuvé par le ministre. Créé en 1998, le régime compte 62 accords au registre provincial de mars 2026 ; selon l'association des forêts communautaires (BCCFA), la moitié sont détenus par des premières nations ou par des partenariats entre premières nations et autres collectivités. La licence forestière des premières nations (First Nations Woodland Licence, division 7.11, art. 43.54 et suivants), réservée aux premières nations, reprend le même régime ; le registre en compte 27.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Forest Act (RSBC 1996, ch. 157), partie 3, division 7.1 « Community Forest Agreements », art. 43.2, 43.3, 43.4, 43.51, 43.52 et 43.53", nature: "loi", annee: 1996, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96157_03"}
+  - {instrument: "Forest Act (RSBC 1996, ch. 157), partie 3, division 7.11 « First Nations Woodland Licences », art. 43.54 et 43.55", nature: "loi", annee: 1996, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96157_03"}
+  - {instrument: "Community Tenures Regulation (B.C. Reg. 352/2004), art. 2 (demandeurs admissibles), 3 (demandes), 4 (évaluation), 6 (attribution directe) et 7 (modification de la zone)", nature: "loi", annee: 2004, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/16_352_2004"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'accord n'est conclu qu'avec une première nation, une municipalité, un district régional ou une entité (société, coopérative, compagnie, société de personnes) qui remplit les conditions réglementaires (Forest Act, art. 43.2(3) ; Community Tenures Regulation, art. 2) ; la demande décrit le modèle de gouvernance, dont la structure et le mandat du conseil de gestion (art. 3(1)(c)(iii.2) du règlement). Le titulaire agit dans le cadre de l'accord et du plan d'aménagement approuvé par le ministre (Forest Act, art. 43.3(1)(f)).", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/16_352_2004"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "L'accord décrit une zone de terres de la Couronne, qui peut inclure des terres de réserve au sens de la Loi sur les Indiens ou des terres privées, pour une durée de 25 à 99 ans (Forest Act, art. 43.3(1)(a) et (b)) ; le ministre doit offrir un accord de remplacement après la neuvième année, sauf clause contraire (art. 43.4(4)) ; le texte confère des droits de récolte sur ces terres et ne prévoit aucun transfert de propriété.", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96157_03"}
+  ressources: {valeur: "partiel", note: "L'accord donne au titulaire le droit exclusif de récolter le bois sur les terres de la Couronne de la zone et peut lui donner le droit de récolter, gérer et tarifer les produits forestiers non ligneux (botanical forest products) (Forest Act, art. 43.3(1)(c)) ; le titulaire paie les droits de coupe, soumet son plan d'aménagement à l'approbation du ministre, et l'accord peut réserver une part du bois à d'autres attributaires (art. 43.3(1)(d), (f), (g.2) et (g.3)).", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96157_03"}
+  consentement: {valeur: "partiel", note: "Le ministre ne peut modifier les limites ou la superficie de la zone d'un accord de remplacement, ni modifier les limites ou agrandir la zone d'un accord en cours, qu'avec le consentement du titulaire (Forest Act, art. 43.4(6) et 43.52) ; la demande d'accord doit documenter le soutien de la communauté et résumer un examen public mené par le demandeur (Community Tenures Regulation, art. 3(1)(c)(v)) ; le titulaire mène des consultations publiques sur la gestion de l'accord (Forest Act, art. 43.3(1)(g)(ii)).", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96157_03"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le registre provincial de mars 2026 recense 62 accords en vigueur, pour une coupe annuelle autorisée cumulée de 2 187 599 m³. Une enquête auprès de tous les membres actifs de la BCCFA (Furness, Harshaw et Nelson, Forest Policy and Economics, 2015) conclut que les titulaires jugent le programme atteint pour la participation du public et la gestion environnementale, mais pas pour la diversification économique. Dans le rapport d'indicateurs 2026 de la BCCFA, 37 forêts communautaires déclarent 662 727 m³ récoltés et 10,4 millions de dollars de contributions en argent versées à leurs communautés.", source: "https://www.sciencedirect.com/science/article/abs/pii/S1389934114002330"}
+chronologie:
+  - {annee: 1997, evenement: "Accord sur l'emploi et le bois (Jobs and Timber Accord) : lancement du programme pilote de forêts communautaires."}
+  - {annee: 1998, evenement: "Modification du Forest Act : création de l'accord de forêt communautaire."}
+  - {annee: 2000, evenement: "Premiers accords en vigueur au registre actuel : Burns Lake (K1A) et Harrop-Procter (K1B)."}
+  - {annee: 2003, evenement: "Forest Revitalization Act : davantage de superficie et de volume réservés aux accords de forêt communautaire."}
+  - {annee: 2004, evenement: "Community Tenures Regulation (B.C. Reg. 352/2004) : conditions d'admissibilité, contenu des demandes, attribution directe."}
+  - {annee: 2009, evenement: "Modification du Forest Act : suppression de la période probatoire, accords de longue durée remplaçables tous les dix ans."}
+  - {annee: 2026, evenement: "62 accords au registre provincial ; mise à jour des objectifs du programme par la province avec la BCCFA."}
+fiabilite:
+  verifie:
+    - "Articles 43.2 à 43.53 (division 7.1) et 43.54 à 43.55 (division 7.11) du Forest Act, version consolidée publiée par l'imprimeur du Roi de la Colombie-Britannique."
+    - "Articles 1 à 3 du Community Tenures Regulation (B.C. Reg. 352/2004), consolidé au 29 septembre 2026."
+    - "62 lignes de type A28 (accords de forêt communautaire) et 27 lignes de type A29 (licences forestières des premières nations) dans le registre provincial de mars 2026 ; superficie cumulée des accords de 1 953 537 ha."
+    - "62 accords en activité, total de 1 979 678 ha et dates d'entrée en vigueur dans la fiche d'état 2026 de la BCCFA."
+  non_confirme:
+    - "La part des accords détenus par des premières nations (« la moitié », seules ou en partenariat) vient de la BCCFA et de Ressources naturelles Canada ; aucun décompte officiel n'a été trouvé."
+    - "Les années du tableau sont les dates d'entrée en vigueur données par la fiche d'état de la BCCFA ; les noms, districts et superficies viennent du registre provincial. Les superficies diffèrent pour quelques accords (ex. K1N : 21 495 ha au registre, 13 069 ha pour la BCCFA)."
+    - "L'année de création du régime (1998) et la chronologie de 1997 à 2009 viennent de la BCCFA, de Ressources naturelles Canada et d'études universitaires ; la loi modificative de 1998 n'a pas été ouverte."
+    - "Aucun document de l'ONU nommant ce régime n'a été trouvé."
+    - "Valemount Community Forest Company Ltd. détient deux accords (K2T, 2007, et K5Q, 2016) de superficie presque identique au registre (71 722 ha et 71 720 ha) ; aucune source ne dit si les deux zones se superposent. Si c'est le cas, la superficie cumulée compte deux fois la même zone et le régime compte 61 titulaires distincts pour 62 accords."
+    - "L'accord K3W (Three Rivers, 2024) figure au registre sans superficie ; la fiche d'état de la BCCFA lui attribue 38 223 ha."
+    - "Population et nombre de localités concernées : aucune source trouvée ; la BCCFA indique seulement plus de 100 communautés de premières nations et rurales."
+sources:
+  - {titre: "Forest Act (RSBC 1996, ch. 157), partie 3 — BC Laws", url: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96157_03"}
+  - {titre: "Community Tenures Regulation (B.C. Reg. 352/2004) — BC Laws", url: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/16_352_2004"}
+  - {titre: "Community Forest Agreements — Gouvernement de la Colombie-Britannique", url: "https://www2.gov.bc.ca/gov/content/industry/forestry/forest-tenures/timber-harvesting-rights/community-forest-agreements"}
+  - {titre: "Registre des licences de forêt communautaire, licences forestières des premières nations et terres à bois, mars 2026 — Gouvernement de la Colombie-Britannique", url: "https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/timber-tenures/apportionment/ftarpt_f000_file_status_register_mar2026rpt.xls"}
+  - {titre: "Status of Community Forests 2026 — BC Community Forest Association", url: "https://www.bccfa.ca/_files/ugd/b776e1_eb226d7153e2432b8e43e2656230102a.pdf"}
+  - {titre: "Community Forest Indicators 2026 — BC Community Forest Association", url: "https://www.bccfa.ca/_files/ugd/b776e1_58879bc5dd8d4de48b27855eefce78ed.pdf"}
+  - {titre: "Community Forestry — BC Community Forest Association", url: "https://www.bccfa.ca/community-forestry"}
+  - {titre: "Community forests manage for multiple values at multiple scales in increasingly uncertain landscapes — Ressources naturelles Canada, L'état des forêts au Canada", url: "https://natural-resources.canada.ca/our-natural-resources/forests/state-canadas-forests-report/community-forests-manage-for-multiple-values-multiple-scales-increasingly-uncertain-l/24152"}
+  - {titre: "Furness, Harshaw et Nelson, « Community forestry in British Columbia: Policy progression and public participation », Forest Policy and Economics, 58, 2015", url: "https://www.sciencedirect.com/science/article/abs/pii/S1389934114002330"}
+  - {titre: "Bryn-Thorn, « Progression of Community Forest Agreements in British Columbia through Social and Political Pathways » — UBC Open Case Studies", url: "https://cases.open.ubc.ca/progression-of-community-forest-agreements-in-british-columbia-through-social-and-political-pathways-a-study-on-the-history-of-cfas-with-context-from-a-specific-coastal-case/"}

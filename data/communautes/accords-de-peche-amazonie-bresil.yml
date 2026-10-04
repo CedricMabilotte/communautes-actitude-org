@@ -1,0 +1,48 @@
+uid: "accords-de-peche-amazonie-bresil"
+nom: "Accords de pêche communautaires de l'Amazonie brésilienne"
+endonyme: ""
+territoire: "Lacs et plaines inondables (várzeas) de l'Amazonie brésilienne, surtout dans les États d'Amazonas, du Pará et de l'Acre"
+etats: ["Brésil"]
+region: "ameriques"
+coord: [-3.3, -60.6]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 35, unite: "accords de pêche réglementés par l'IBAMA dans l'État d'Amazonas entre 1995 et 2006 (hors Pará et Acre)", annee: 2006, source: "https://www.scielo.br/j/asoc/a/Xcr5CQ43KCYyCnhR4Gkrrxj/?lang=pt"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés riveraines (ribeirinhas) des várzeas, plaines inondées une partie de l'année, qui fixent par consensus des règles de pêche sur les lacs qu'elles utilisent. L'Instruction normative n° 29 de l'Institut brésilien de l'environnement et des ressources naturelles renouvelables (IBAMA) du 31 décembre 2002 définit l'accord de pêche comme « un ensemble de mesures spécifiques découlant d'accords consensuels entre les divers usagers et l'organe gestionnaire des ressources de pêche » dans une zone délimitée ; l'IBAMA rend ces règles obligatoires par des portarias (arrêtés) complémentaires. L'instruction exclut les accords qui établissent des privilèges d'un groupe sur les autres. Entre 1995 et 2006, l'IBAMA a réglementé 35 accords de pêche dans l'État d'Amazonas.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Instruction normative IBAMA n° 29 du 31 décembre 2002 (critères de réglementation des accords de pêche), publiée au Journal officiel le 1er janvier 2003", nature: "loi", annee: 2002, source: "https://www.ibama.gov.br/sophia/cnia/legislacao/IBAMA/IN0029-311202.PDF"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "partiel", note: "L'Instruction normative IBAMA n° 29 de 2002 (art. 1) admet des accords issus du consensus entre usagers et organe gestionnaire, à condition qu'ils représentent les intérêts collectifs, n'établissent pas de privilège d'un groupe sur les autres et ne touchent pas aux matières réservées à la puissance publique ; ils ne s'imposent qu'une fois repris par une portaria (arrêté) de l'IBAMA (art. 1, VI, et art. 2).", source: "https://www.ibama.gov.br/sophia/cnia/legislacao/IBAMA/IN0029-311202.PDF"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Les accords réglementés par l'IBAMA fixent l'accès et les formes d'usage des ressources de pêche d'un ensemble de lacs (engins interdits, périodes de fermeture, lacs affectés à la subsistance, à la pêche commerciale ou à la reproduction des animaux) ; la loi brésilienne traite les cours d'eau comme voies publiques, ce qui empêche de réserver la pêche aux seuls riverains.", source: "https://www.scielo.br/j/asoc/a/Xcr5CQ43KCYyCnhR4Gkrrxj/?lang=pt"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Dans une enquête auprès de 214 pêcheurs d'Amazonas citée par Oviedo, Bursztyn et Drummond (2015), 60 % jugent la gestion participative améliorée et 72 % la productivité accrue, mais 71 % décrivent la surveillance et les sanctions comme inexistantes ou inefficaces. Le programme d'agents environnementaux volontaires de l'IBAMA, ouvert aux membres des communautés, a pris fin après des conflits ; à Manoel Urbano (Acre), le stock de pirarucu (Arapaima, poisson d'eau douce) a augmenté de 89 % entre 2005 et 2009 puis baissé de 89,7 % entre 2009 et 2013.", source: "https://www.scielo.br/j/asoc/a/Xcr5CQ43KCYyCnhR4Gkrrxj/?lang=pt"}
+chronologie:
+  - {annee: 1987, evenement: "Début des accords informels à Santarém (Pará) : au moins 35 accords entre 72 communautés de la colonie de pêcheurs Z-20 jusqu'en 1996."}
+  - {annee: 1995, evenement: "Début de la période (1995-2006) au cours de laquelle l'IBAMA réglemente 35 accords de pêche dans l'État d'Amazonas."}
+  - {annee: 2001, evenement: "L'IBAMA crée le programme d'agents environnementaux volontaires, étendu aux membres des communautés chargés de faire respecter les accords."}
+  - {annee: 2002, evenement: "Instruction normative IBAMA n° 29 du 31 décembre sur les critères de réglementation des accords de pêche."}
+  - {annee: 2002, evenement: "À Manacapuru (Amazonas), deux portarias réglementent l'usage de deux lacs et créent un conseil local d'usage des lacs pour une dizaine de communautés chacune."}
+  - {annee: 2005, evenement: "Trois accords de pêche réglementés à Manoel Urbano (Acre)."}
+  - {annee: 2006, evenement: "Fin de la période retenue par l'évaluation d'Aquino (2007), citée par Oviedo, Bursztyn et Drummond : 35 accords réglementés en Amazonas."}
+fiabilite:
+  verifie: ["Texte de l'Instruction normative IBAMA n° 29 du 31 décembre 2002 (définition, critères de l'art. 1, réglementation par acte normatif de l'IBAMA), lu sur le site de l'IBAMA, qui l'indique « em vigor » (en vigueur).", "Nombre de 35 accords réglementés en Amazonas (1995-2006) et enquête auprès de 214 pêcheurs, lus dans l'article d'Oviedo, Bursztyn et Drummond, Ambiente & Sociedade, 18(4), 2015, qui cite Aquino (2007).", "Création en 2001 du programme d'agents environnementaux volontaires et sa fin après des conflits (même source)."]
+  non_confirme: ["L'article d'Oviedo, Bursztyn et Drummond date l'instrument de 2003 (date de publication) et lui prête une interdiction explicite des règles excluant les pêcheurs extérieurs ; le texte officiel parle seulement de l'absence de privilège d'un groupe sur les autres.", "Nombre total d'accords en vigueur aujourd'hui, au Pará, en Acre et dans les autres États ; aucune liste officielle des portarias trouvée.", "Statut actuel de l'instrument après le transfert de la gestion de la pêche à d'autres ministères (2009 et suivantes).", "Existence et pouvoirs des conseils locaux créés par certaines portarias en dehors de Manacapuru."]
+sources:
+  - {titre: "Instruction normative IBAMA n° 29 du 31 décembre 2002 — IBAMA", url: "https://www.ibama.gov.br/sophia/cnia/legislacao/IBAMA/IN0029-311202.PDF"}
+  - {titre: "Oviedo, Bursztyn et Drummond, « Agora sob nova administração: acordos de pesca nas várzeas da Amazônia brasileira », Ambiente & Sociedade, 18(4), 2015 — SciELO", url: "https://www.scielo.br/j/asoc/a/Xcr5CQ43KCYyCnhR4Gkrrxj/?lang=pt"}

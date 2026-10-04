@@ -1,0 +1,70 @@
+uid: "suedophones-finlande"
+nom: "Finlandais de langue suédoise"
+endonyme: "Finlandssvenskar"
+territoire: "Communes bilingues et suédophones des côtes sud et ouest de la Finlande (Uusimaa/Nyland, Finlande du Sud-Ouest, Ostrobotnie) ; les îles Åland ont leur propre fiche"
+etats: ["Finlande"]
+region: "europe"
+coord: [61.5, 22.6]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 284611, annee: 2025, perimetre: "personnes dont la langue inscrite au registre de la population est le suédois, ensemble de la Finlande, îles Åland comprises, au 31 décembre", source: "https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__vaerak/11rm.px/"}
+lieux: {valeur: 33, unite: "communes bilingues (18 à majorité finnoise, 15 à majorité suédoise), îles Åland non comprises", annee: 2023, source: "https://www.axl.cefan.ulaval.ca/europe/finlande-4pol_bilinguisme_off.htm"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le finnois et le suédois sont les langues nationales de la Finlande ; la Constitution de 1999, art. 17, oblige les pouvoirs publics à répondre aux besoins culturels et sociaux des populations finnophone et suédophone « selon des principes égaux ». La Loi sur les langues de 2003 fait de la commune l'unité de base : une commune est bilingue si la minorité linguistique atteint 8 % des habitants ou 3 000 personnes. Une assemblée instituée par la loi de 2003, le Svenska Finlands folkting (Assemblée suédoise de Finlande), a pour mission de promouvoir les droits des suédophones et rend des avis aux autorités. L'enseignement de base est organisé séparément pour chaque groupe linguistique, sous la conduite d'organes communaux distincts.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Le Comité consultatif de la Convention-cadre pour la protection des minorités nationales compte la population suédophone parmi les communautés couvertes par la Convention en Finlande (sixième avis, adopté le 24 février 2025, § 23).", annee: 2025, source: "https://rm.coe.int/6th-opinion-finland-en/1680b65a0b"}
+  - {mecanisme: "charte_langues_regionales", detail: "Le suédois, langue nationale moins répandue, est protégé par la Charte européenne des langues régionales ou minoritaires ; sixième rapport d'évaluation du Comité d'experts adopté le 7 mars 2024.", annee: 2024, source: "https://rm.coe.int/finlandecrml6-fr/1680b16874"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la Finlande (731/1999), art. 17 et 122", nature: "constitution", annee: 1999, source: "https://www.finlex.fi/sv/lagstiftning/1999/731"}
+  - {instrument: "Loi sur les langues (423/2003), en vigueur le 1er janvier 2004", nature: "loi", annee: 2003, source: "https://www.finlex.fi/sv/lagstiftning/2003/423"}
+  - {instrument: "Loi sur le Svenska Finlands folkting (1331/2003), en vigueur le 1er janvier 2004", nature: "loi", annee: 2003, source: "https://www.finlex.fi/sv/lagstiftning/2003/1331"}
+  - {instrument: "Loi sur l'enseignement de base (628/1998), art. 4 et 10", nature: "loi", annee: 1998, source: "https://www.finlex.fi/sv/lagstiftning/1998/628"}
+  - {instrument: "Loi sur les communes (410/2015), art. 30", nature: "loi", annee: 2015, source: "https://www.finlex.fi/sv/lagstiftning/2015/410"}
+  - {instrument: "Loi sur les régions de bien-être (611/2021), art. 33", nature: "loi", annee: 2021, source: "https://www.finlex.fi/sv/lagstiftning/2021/611"}
+  - {instrument: "Loi sur les universités (558/2009), art. 11 et 12", nature: "loi", annee: 2009, source: "https://www.finlex.fi/sv/lagstiftning/2009/558"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Svenska Finlands folkting compte 75 membres désignés pour quatre ans à partir des voix obtenues par les candidats de langue suédoise aux élections municipales, Loi 1331/2003, art. 3 et 4 ; la loi ne lui attribue que des fonctions de proposition, d'avis et d'information, art. 1. Dans une commune bilingue, l'administration de l'enseignement relève d'un organe propre à chaque groupe linguistique, dont les membres appartiennent à ce groupe, Loi sur les communes 410/2015, art. 30.", source: "https://www.finlex.fi/sv/lagstiftning/2003/1331"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le Folkting a pour mission de faire des propositions et de rendre des avis, notamment pour que les droits linguistiques soient respectés devant les tribunaux et les autorités, Loi 1331/2003, art. 1. Dans chaque région de bien-être bilingue, une commission des langues nationales formée de membres de la minorité linguistique se prononce sur les effets des décisions du conseil régional sur ces droits, Loi 611/2021, art. 33. Ces avis ne lient pas les autorités et aucun consentement n'est requis.", source: "https://www.finlex.fi/sv/lagstiftning/2021/611"}
+  langue: {valeur: "reconnu", note: "Le finnois et le suédois sont les langues nationales, Constitution, art. 17 ; chacun peut employer le suédois devant les autorités de l'État et les autorités bilingues des communes et des régions de bien-être, Loi sur les langues 423/2003, art. 10 ; une commune est déclarée bilingue tous les dix ans si la minorité atteint 8 % ou 3 000 habitants, art. 5.", source: "https://www.finlex.fi/sv/lagstiftning/2003/423"}
+  education: {valeur: "reconnu", note: "Une commune qui compte des habitants finnophones et suédophones doit organiser l'enseignement de base et préscolaire séparément pour chaque groupe linguistique, Loi 628/1998, art. 4 ; la langue d'enseignement de l'Åbo Akademi, de la Svenska handelshögskolan (école de commerce) et de la Svenska social- och kommunalhögskolan de l'université d'Helsinki est le suédois, Loi sur les universités 558/2009, art. 11.", source: "https://www.finlex.fi/sv/lagstiftning/1998/628"}
+  fiscalite: {valeur: "partiel", note: "Le budget de l'État doit comporter un crédit pour les missions du Folkting, Loi 1331/2003, art. 11 ; aucun pouvoir fiscal n'est prévu.", source: "https://www.finlex.fi/sv/lagstiftning/2003/1331"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité d'experts de la Charte européenne des langues régionales ou minoritaires juge le cadre juridique suffisant mais relève que la disponibilité des services en suédois varie selon les lieux (§ 64), que la réforme judiciaire a réduit de 8 à 5 le nombre de tribunaux bilingues (§ 56) et que 20 % des locuteurs du suédois déclarent avoir subi une discrimination liée à leur langue, selon le Baromètre des langues 2020 (§ 16). Le Comité consultatif de la Convention-cadre (2025) note une mise en œuvre insuffisante dans l'éducation, l'emploi et les services sociaux et de santé (§ 5).", source: "https://rm.coe.int/finlandecrml6-fr/1680b16874"}
+chronologie:
+  - {annee: 1919, evenement: "La Forme de gouvernement de la Finlande impose la rédaction des lois et des actes du Parlement en finnois et en suédois (art. 22)."}
+  - {annee: 1922, evenement: "Première loi sur les langues, en vigueur jusqu'en 2003."}
+  - {annee: 1985, evenement: "Loi sur la subvention de l'État au Svenska Finlands folkting (902/1985)."}
+  - {annee: 1999, evenement: "Nouvelle Constitution (731/1999), art. 17 et 122, en vigueur le 1er mars 2000."}
+  - {annee: 2004, evenement: "Entrée en vigueur de la Loi sur les langues (423/2003) et de la Loi sur le Svenska Finlands folkting (1331/2003), le 1er janvier."}
+  - {annee: 2021, evenement: "La Loi sur les régions de bien-être (611/2021) crée une commission des langues nationales dans chaque région bilingue."}
+  - {annee: 2024, evenement: "Sixième rapport d'évaluation du Comité d'experts de la Charte européenne des langues régionales ou minoritaires (7 mars)."}
+  - {annee: 2025, evenement: "Sixième avis du Comité consultatif de la Convention-cadre sur la Finlande (adopté le 24 février)."}
+fiabilite:
+  verifie: ["Constitution, art. 17, 121 et 122, texte suédois consolidé (Finlex, données ouvertes).", "Loi 1331/2003, art. 1 à 13, texte suédois consolidé (version de 2015).", "Loi sur les langues 423/2003, art. 5, 6, 32, 35 à 37.", "Loi 628/1998, art. 4 et 10 ; Loi 410/2015, art. 30 ; Loi 611/2021, art. 33 ; Loi 558/2009, art. 11 et 12.", "Population de langue suédoise au 31 décembre 2025 : 284 611 (Statistics Finland, table 11rm, interrogée par l'API)."]
+  non_confirme: ["Nombre de communes bilingues (33 en 2023) : repris de l'Université Laval, le décret gouvernemental fixant le statut linguistique des communes pour 2023-2032 n'a pas été lu.", "Les constats des organes du Conseil de l'Europe ont été lus dans une version extraite des documents, le PDF original n'ayant pas pu être téléchargé.", "Aucun document d'un organe de traité de l'ONU nommant les suédophones n'a été recherché jusqu'au bout.", "Date de création du Folkting (1919 selon l'usage courant) : non vérifiée sur une source primaire.", "Texte de la Forme de gouvernement de 1919 (art. 14 sur les langues nationales) : non consulté sur une source primaire, seul l'art. 22 cité par l'Université Laval a été lu."]
+sources:
+  - {titre: "Finlands grundlag (731/1999) — Finlex", url: "https://www.finlex.fi/sv/lagstiftning/1999/731"}
+  - {titre: "Språklag (423/2003) — Finlex", url: "https://www.finlex.fi/sv/lagstiftning/2003/423"}
+  - {titre: "Lag om Svenska Finlands folkting (1331/2003) — Finlex", url: "https://www.finlex.fi/sv/lagstiftning/2003/1331"}
+  - {titre: "Act on Svenska Finlands folkting (1331/2003) — Finlex", url: "https://www.finlex.fi/en/legislation/2003/1331"}
+  - {titre: "Lag om grundläggande utbildning (628/1998) — Finlex", url: "https://www.finlex.fi/sv/lagstiftning/1998/628"}
+  - {titre: "Kommunallag (410/2015) — Finlex", url: "https://www.finlex.fi/sv/lagstiftning/2015/410"}
+  - {titre: "Lag om välfärdsområden (611/2021) — Finlex", url: "https://www.finlex.fi/sv/lagstiftning/2021/611"}
+  - {titre: "Universitetslag (558/2009) — Finlex", url: "https://www.finlex.fi/sv/lagstiftning/2009/558"}
+  - {titre: "Language according to sex by municipality (11rm) — Statistics Finland", url: "https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/StatFin__vaerak/11rm.px/"}
+  - {titre: "Linguistic rights — ministère de la Justice de Finlande", url: "https://oikeusministerio.fi/en/linguistic-rights"}
+  - {titre: "Folktinget — Svenska Finlands folkting", url: "https://folktinget.fi/en/start/"}
+  - {titre: "Sixième avis sur la Finlande — Comité consultatif de la Convention-cadre, Conseil de l'Europe, 2025", url: "https://rm.coe.int/6th-opinion-finland-en/1680b65a0b"}
+  - {titre: "Sixième rapport d'évaluation sur la Finlande — Charte européenne des langues régionales ou minoritaires, 2024", url: "https://rm.coe.int/finlandecrml6-fr/1680b16874"}
+  - {titre: "La politique du bilinguisme officiel en Finlande — L'aménagement linguistique dans le monde, Université Laval", url: "https://www.axl.cefan.ulaval.ca/europe/finlande-4pol_bilinguisme_off.htm"}
+  - {titre: "Données historiques sur la Finlande — L'aménagement linguistique dans le monde, Université Laval", url: "https://www.axl.cefan.ulaval.ca/europe/finlande-3historique.htm"}

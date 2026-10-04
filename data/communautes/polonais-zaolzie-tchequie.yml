@@ -1,0 +1,71 @@
+uid: "polonais-zaolzie-tchequie"
+nom: "Polonais de Tchéquie (Silésie de Těšín)"
+endonyme: "Polacy"
+territoire: "Silésie de Těšín (Zaolzie), districts de Karviná et de Frýdek-Místek, région de Moravie-Silésie"
+etats: ["Tchéquie"]
+region: "europe"
+coord: [49.7, 18.6]
+type: "minorite_nationale"
+types_secondaires: []
+base: "mixte"
+population: {valeur: 38218, annee: 2021, perimetre: "personnes ayant déclaré la nationalité polonaise au recensement de 2021 dans toute la Tchéquie ; le gouvernement indique qu'environ 80 % vivent en Silésie de Těšín", source: "https://vlada.gov.cz/cz/ppov/rnm/mensiny/polska-narodnostni-mensina-16124/"}
+lieux: {valeur: 31, unite: "communes des anciens districts de Karviná et de Frýdek-Místek où la minorité polonaise est représentée au niveau de l'administration locale, selon le gouvernement", annee: 2022, source: "https://vlada.gov.cz/cz/ppov/rnm/mensiny/polska-narodnostni-mensina-16124/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La minorité polonaise est l'une des minorités nationales représentées au Conseil gouvernemental pour les minorités nationales, où elle dispose de deux sièges.
+  Le recensement de 2021 compte 38 218 personnes de nationalité polonaise, dont environ 80 % en Silésie de Těšín, dans les districts de Karviná et de Frýdek-Místek.
+  La loi n° 273/2001 sur les droits des membres des minorités nationales garantit l'exercice des droits « individuellement ou en commun », des noms bilingues et l'enseignement dans la langue maternelle.
+  La loi sur les communes impose un comité pour les minorités nationales, organe consultatif du conseil municipal, là où au moins 10 % des habitants déclarent une nationalité autre que tchèque et sur demande écrite d'une association ; aucun organe d'autogouvernement n'existe.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Convention-cadre pour la protection des minorités nationales en vigueur pour la Tchéquie depuis le 1er avril 1998 ; sixième avis du Comité consultatif adopté le 2 juillet 2025, qui relève que seule la minorité polonaise atteint le seuil de 10 % dans des communes et que les indications topographiques en langue minoritaire n'existent qu'en polonais.", annee: 2025, source: "https://rm.coe.int/6th-opinion-czechia-fr/4880294c4d"}
+  - {mecanisme: "charte_langues_regionales", detail: "Charte européenne des langues régionales ou minoritaires ratifiée le 15 novembre 2006, en vigueur le 1er mars 2007 ; le polonais relève des parties II et III dans les districts de Frýdek-Místek et de Karviná. Cinquième rapport d'évaluation du Comité d'experts adopté le 6 mars 2024.", annee: 2024, source: "https://rm.coe.int/czechiaecrml5-en/1680afb27b"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi n° 273/2001 Sb. sur les droits des membres des minorités nationales et la modification de certaines lois", nature: "loi", annee: 2001, source: "https://vlada.gov.cz/assets/ppov/rnm/anglictina.pdf"}
+  - {instrument: "Loi n° 128/2000 Sb. sur les communes (organisation communale), § 29 al. 2 et § 117 al. 3", nature: "loi", annee: 2000, source: "https://www.zakonyprolidi.cz/cs/2000-128"}
+  - {instrument: "Loi n° 561/2004 Sb. sur l'enseignement préscolaire, primaire, secondaire et supérieur professionnel (loi scolaire), § 14", nature: "loi", annee: 2004, source: "https://www.zakonyprolidi.cz/cs/2004-561"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le Conseil gouvernemental pour les minorités nationales, organe consultatif dont au moins la moitié des membres sont des représentants désignés par les associations des minorités, donne son avis sur les projets de lois et de règlements qui les concernent, loi n° 273/2001, § 6 ; le statut de 2026 attribue deux sièges à la minorité polonaise ; la commune où au moins 10 % des habitants déclarent une nationalité autre que tchèque crée un comité pour les minorités nationales sur demande écrite d'une association, loi sur les communes, § 117 al. 3.", source: "https://vlada.gov.cz/assets/ppov/rnm/Statut_RVNM.pdf"}
+  langue: {valeur: "partiel", note: "Droit aux noms bilingues de la commune, des rues et des bâtiments publics, loi n° 273/2001, § 8, si au moins 10 % des habitants ont déclaré la nationalité de la minorité aux deux derniers recensements et sur demande du comité ou d'une association active depuis cinq ans, loi sur les communes, § 29 al. 2 ; droit d'employer la langue de la minorité devant les autorités et les tribunaux dans les conditions des lois de procédure, loi n° 273/2001, § 9 ; le polonais n'est pas langue officielle.", source: "https://www.zakonyprolidi.cz/cs/2000-128"}
+  education: {valeur: "partiel", note: "Droit à l'enseignement dans la langue maternelle et à la création d'écoles privées, loi n° 273/2001, § 11 ; la commune, la région ou le ministère assure l'enseignement en langue minoritaire dans les communes dotées d'un comité pour les minorités nationales, à partir de 8 enfants en maternelle, 10 élèves en primaire et 12 au secondaire, loi scolaire n° 561/2004, § 14 ; écoles publiques sans gestion propre.", source: "https://www.zakonyprolidi.cz/cs/2004-561"}
+  fiscalite: {valeur: "partiel", note: "L'État accorde des subventions sur le budget pour la culture, la presse et l'audiovisuel des minorités, loi n° 273/2001, § 12 et § 13 ; le Conseil gouvernemental propose leur répartition, § 6 al. 5 f ; aucun pouvoir fiscal.", source: "https://vlada.gov.cz/assets/ppov/rnm/anglictina.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité consultatif de la Convention-cadre constate en 2025 que l'usage d'une langue minoritaire devant l'administration suppose que le demandeur fournisse un interprète si aucun agent ne la parle, et que seul le polonais est employé dans les relations avec les autorités locales et dans les gares ; les élèves de la minorité polonaise suivent un enseignement en polonais du préscolaire au secondaire.", source: "https://rm.coe.int/6th-opinion-czechia-fr/4880294c4d"}
+chronologie:
+  - {annee: 1998, evenement: "Entrée en vigueur de la Convention-cadre pour la protection des minorités nationales pour la Tchéquie."}
+  - {annee: 2000, evenement: "Loi n° 128/2000 sur les communes."}
+  - {annee: 2001, evenement: "Loi n° 273/2001 sur les droits des membres des minorités nationales ; elle abaisse les seuils des comités pour les minorités nationales et des noms bilingues dans la loi sur les communes."}
+  - {annee: 2001, evenement: "Création du Conseil gouvernemental pour les minorités nationales par la résolution gouvernementale n° 1034 du 10 octobre 2001."}
+  - {annee: 2004, evenement: "Loi scolaire n° 561/2004 : seuils d'ouverture des classes et écoles en langue minoritaire (§ 14)."}
+  - {annee: 2007, evenement: "Entrée en vigueur de la Charte européenne des langues régionales ou minoritaires ; le polonais relève de la partie III."}
+  - {annee: 2021, evenement: "Le recensement compte 38 218 personnes de nationalité polonaise."}
+  - {annee: 2026, evenement: "Nouveau statut du Conseil gouvernemental pour les minorités nationales (résolution n° 617 du 21 septembre 2026) : deux sièges pour la minorité polonaise."}
+fiabilite:
+  verifie:
+    - "Loi n° 273/2001, § 3, § 6, § 8, § 9, § 11, § 12, § 13 et § 15 (traduction anglaise publiée par le gouvernement tchèque)."
+    - "Loi sur les communes en vigueur, § 29 al. 2 (seuil de 10 % aux deux derniers recensements) et § 117 al. 3 (comité sur demande d'une association, au moins la moitié des membres issus des minorités)."
+    - "Loi scolaire n° 561/2004, § 14 (seuils de 8, 10 et 12 élèves)."
+    - "Statut du Conseil gouvernemental de 2026 : deux sièges pour la minorité polonaise."
+    - "Convention-cadre : ratification le 18 décembre 1997, entrée en vigueur le 1er avril 1998 ; sixième avis adopté le 2 juillet 2025 (page pays du Conseil de l'Europe)."
+    - "Chiffre de 38 218 personnes au recensement de 2021 (page du gouvernement et sixième avis du Comité consultatif)."
+  non_confirme:
+    - "Le nombre de 31 communes où la minorité polonaise est représentée figure sur une page gouvernementale publiée en 2022 dont certaines données datent des années 2000 ; l'année de référence exacte n'est pas indiquée."
+    - "Nombre de communes appliquant les noms bilingues polonais et surface de la zone concernée non trouvés dans une source officielle."
+    - "Le chiffre de 38 218 inclut probablement les déclarations de double nationalité ; le détail n'a pas été vérifié auprès de l'office statistique."
+sources:
+  - {titre: "Loi n° 273/2001 sur les droits des membres des minorités nationales, traduction anglaise — Gouvernement tchèque", url: "https://vlada.gov.cz/assets/ppov/rnm/anglictina.pdf"}
+  - {titre: "Loi n° 128/2000 sur les communes, version en vigueur — Zákony pro lidi", url: "https://www.zakonyprolidi.cz/cs/2000-128"}
+  - {titre: "Loi scolaire n° 561/2004, version en vigueur — Zákony pro lidi", url: "https://www.zakonyprolidi.cz/cs/2004-561"}
+  - {titre: "Statut du Conseil gouvernemental pour les minorités nationales (2026) — Gouvernement tchèque", url: "https://vlada.gov.cz/assets/ppov/rnm/Statut_RVNM.pdf"}
+  - {titre: "Polská národnostní menšina — Gouvernement tchèque", url: "https://vlada.gov.cz/cz/ppov/rnm/mensiny/polska-narodnostni-mensina-16124/"}
+  - {titre: "Tchéquie, Convention-cadre pour la protection des minorités nationales : dates de ratification et cycles de suivi — Conseil de l'Europe", url: "https://www.coe.int/en/web/minorities/czech-republic"}
+  - {titre: "Sixième avis sur la Tchéquie, Comité consultatif de la Convention-cadre — Conseil de l'Europe", url: "https://rm.coe.int/6th-opinion-czechia-fr/4880294c4d"}
+  - {titre: "Cinquième rapport d'évaluation sur la Tchéquie, Charte européenne des langues régionales ou minoritaires — Conseil de l'Europe", url: "https://rm.coe.int/czechiaecrml5-en/1680afb27b"}

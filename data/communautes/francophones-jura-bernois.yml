@@ -1,0 +1,69 @@
+uid: "francophones-jura-bernois"
+nom: "Francophones du Jura bernois et de Bienne"
+endonyme: ""
+territoire: "Région administrative du Jura bernois et arrondissement administratif de Biel/Bienne, canton de Berne"
+etats: ["Suisse"]
+region: "europe"
+coord: [47.2, 7.2]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 47003, annee: 2025, perimetre: "population résidante permanente au 31 décembre 2025 de l'arrondissement administratif du Jura bernois (54 056) moins celle de Moutier (7 053), commune passée au canton du Jura le 1er janvier 2026 ; les francophones de l'arrondissement de Biel/Bienne (107 448 habitants toutes langues confondues) ne sont pas comptés", source: "https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0102010000_101/-/px-x-0102010000_101.px/"}
+lieux: {valeur: 58, unite: "communes : 39 dans l'arrondissement administratif du Jura bernois et 19 dans l'arrondissement administratif de Biel/Bienne", annee: 2026, source: "https://www.agvchapp.bfs.admin.ch/fr/communes/query"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution du canton de Berne du 6 juin 1993 (art. 5) reconnaît un statut particulier au Jura bernois, région francophone du canton, pour préserver son identité et sa particularité linguistique et culturelle. La loi du 13 septembre 2004 sur le statut particulier (LStP), en vigueur depuis le 1er janvier 2006, institue le Conseil du Jura bernois (CJB), 24 membres élus à la proportionnelle, et le Conseil des affaires francophones de l'arrondissement de Biel/Bienne (CAF), 18 membres au plus. Le CJB attribue les subventions culturelles et celles des Fonds de loterie et du sport pour le Jura bernois ; avec le CAF, il décide en matière de coordination scolaire romande. La Constitution garantit au Jura bernois 12 sièges au Grand Conseil (parlement cantonal) et un siège au Conseil-exécutif (gouvernement cantonal). La commune de Moutier a rejoint le canton du Jura le 1er janvier 2026.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur la Suisse (adopté le 13 février 2023), § 30 : la Suisse reconnaît en pratique comme minorités nationales les personnes appartenant à la minorité de langue française ; le Jura bernois et Bienne ne sont pas nommés dans le passage.", annee: 2023, source: "https://rm.coe.int/5th-op-switzerland-en/1680ab9e02"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution du canton de Berne du 6 juin 1993 (RSB 101.1), art. 4 (minorités), art. 5 (Jura bernois), art. 6 (langues), art. 73 al. 3 (12 mandats au Grand Conseil) et art. 84 al. 2 (siège au Conseil-exécutif)", nature: "constitution", annee: 1993, source: "https://www.belex.sites.be.ch/app/fr/texts_of_law/101.1"}
+  - {instrument: "Loi du 13 septembre 2004 sur le statut particulier du Jura bernois et sur la minorité francophone de l'arrondissement administratif de Biel/Bienne (LStP, RSB 102.1), en vigueur le 1er janvier 2006, état au 1er mars 2025", nature: "loi", annee: 2004, source: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.1"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La LStP (art. 2 et 3) institue le Conseil du Jura bernois, 24 membres élus pour quatre ans à la proportionnelle par les électeurs de la région administrative, et le Conseil des affaires francophones de l'arrondissement de Biel/Bienne (CAF), 18 membres au plus, dont 13 issus de Biel/Bienne et d'Evilard (9 au moins inscrits au registre électoral comme francophones) et 5 au plus issus des communes germanophones, désignés par le corps électoral, le Conseil de ville ou l'Association seeland.biel/bienne (art. 34 et 35) ; ces conseils n'ont ni pouvoir législatif ni administration propre au-delà de leur secrétariat, rattaché à la Chancellerie d'État.", source: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.1"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Droit de participation politique (LStP, art. 31 à 33) : le CJB donne son avis et fait des propositions sur les modifications de la Constitution cantonale, les lois soumises à consultation ou qui concernent le Jura bernois et les arrêtés du Conseil-exécutif qui le concernent ; l'avis figure dans le rapport soumis à l'autorité qui décide, sans droit de veto. Le CAF exerce le même droit pour les francophones de Biel/Bienne (art. 46).", source: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.1"}
+  langue: {valeur: "reconnu", note: "Le français est la langue officielle de la région administrative du Jura bernois ; le français et l'allemand sont langues officielles de l'arrondissement administratif de Biel/Bienne (Constitution cantonale, art. 6 al. 2) ; toute personne peut s'adresser aux autorités de l'arrondissement dans la langue officielle de son choix (LStP, art. 49).", source: "https://www.belex.sites.be.ch/app/fr/texts_of_law/101.1"}
+  education: {valeur: "partiel", note: "Pour les affaires de coordination scolaire romande et interjurassienne, la compétence de décision appartient conjointement au CJB et au CAF, en séance commune et à la majorité de chacun ; en cas de désaccord, la Direction de l'instruction publique et de la culture décide (LStP, art. 23 et 45).", source: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.1"}
+  fiscalite: {valeur: "partiel", note: "Sans pouvoir fiscal, le CJB dispose chaque année d'une enveloppe culturelle et d'une part des recettes des Fonds de loterie et du sport proportionnelles à la part de la population du Jura bernois dans le canton, et décide des subventions à la place de l'administration cantonale (LStP, art. 15, 17, 19 et 20).", source: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.1"}
+  representation: {valeur: "reconnu", note: "Douze mandats du Grand Conseil sont garantis au cercle électoral du Jura bernois et une représentation équitable est garantie à la minorité de langue française du cercle de Bienne-Seeland (Constitution cantonale, art. 73 al. 3) ; un siège du Conseil-exécutif est garanti au Jura bernois, réservé à une personne de langue française qui y réside (art. 84 al. 2).", source: "https://www.belex.sites.be.ch/app/fr/texts_of_law/101.1"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le CJB est élu au suffrage universel depuis le 9 avril 2006 ; en 2011, le gouvernement cantonal n'a pas suivi la position du CJB et du CAF sur l'élection d'un vice-chancelier, prévue dans le cadre de la participation politique. Le CJB publie chaque mois ses décisions de subvention (septembre 2026) ; le CAF indique avoir traité 107 dossiers de subventions culturelles au premier semestre 2026.", source: "https://fr.wikipedia.org/wiki/Conseil_du_Jura_bernois"}
+chronologie:
+  - {annee: 1993, evenement: "Adoption de la Constitution du canton de Berne, qui reconnaît un statut particulier au Jura bernois (en vigueur le 1er janvier 1995)."}
+  - {annee: 1994, evenement: "Loi du 19 janvier 1994 sur le renforcement de la participation politique du Jura bernois et de la population francophone du district de Bienne."}
+  - {annee: 2004, evenement: "Le Grand Conseil adopte la loi sur le statut particulier (LStP), qui remplace la loi de 1994."}
+  - {annee: 2006, evenement: "Entrée en vigueur de la LStP le 1er janvier ; le Conseil du Jura bernois remplace le Conseil régional."}
+  - {annee: 2021, evenement: "Le 28 mars, la commune de Moutier confirme par un nouveau vote son choix de 2017 de rejoindre le canton du Jura."}
+  - {annee: 2024, evenement: "Le Grand Conseil bernois (6 mars) puis la population jurassienne (22 septembre) approuvent le concordat sur le transfert de Moutier."}
+  - {annee: 2025, evenement: "Le Conseil des États (5 mars) et le Conseil national (10 mars) approuvent le transfert."}
+  - {annee: 2026, evenement: "Moutier rejoint le canton du Jura le 1er janvier ; l'arrondissement administratif du Jura bernois compte 39 communes."}
+fiabilite:
+  verifie:
+    - "Constitution cantonale, art. 5, 6, 73 al. 3 et 84 al. 2, version en vigueur depuis le 1er janvier 2026 (BELEX)."
+    - "LStP, état au 1er mars 2025 : CJB de 24 membres (art. 3), CAF de 18 membres au plus (art. 34), décision conjointe en coordination scolaire (art. 23 et 45), subventions culturelles, de loterie et du sport (art. 15 à 21b), participation politique (art. 31 à 33 et 46)."
+    - "Date du transfert de Moutier (1er janvier 2026) et étapes 2021-2025, chronologie du canton du Jura."
+    - "Nombre de communes (39 et 19) au registre officiel des communes de l'Office fédéral de la statistique ; population 2025 par arrondissement et commune (STATPOP)."
+  non_confirme:
+    - "Adaptation de la LStP au départ de Moutier : la version en vigueur sur BELEX reste celle du 1er mars 2025 ; la Constitution dans sa version du 1er janvier 2026 maintient les 12 mandats garantis."
+    - "Effectivité : seule source indépendante ouverte, une encyclopédie collaborative ; pas d'évaluation universitaire ou onusienne trouvée."
+    - "Nombre de francophones dans l'arrondissement de Biel/Bienne : statistiques du CAF non dépouillées."
+    - "Surface de l'arrondissement du Jura bernois après le départ de Moutier : pas de source officielle ouverte."
+sources:
+  - {titre: "Constitution du canton de Berne (RSB 101.1) — BELEX", url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/101.1"}
+  - {titre: "Loi sur le statut particulier (LStP, RSB 102.1) — BELEX", url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.1"}
+  - {titre: "Conseil du Jura bernois — Compétences", url: "https://www.conseildujurabernois.ch/le-cjb/competences"}
+  - {titre: "Conseil des affaires francophones de l'arrondissement de Biel/Bienne", url: "https://www.caf-bienne.ch/"}
+  - {titre: "Conseil du Jura bernois — Actualités et subventions octroyées", url: "https://www.conseildujurabernois.ch/"}
+  - {titre: "Conseil du Jura bernois — Wikipédia", url: "https://fr.wikipedia.org/wiki/Conseil_du_Jura_bernois"}
+  - {titre: "Moutier dans le Jura — Contexte historique (République et Canton du Jura)", url: "https://www.jura.ch/fr/Autorites/Moutier/Contexte-historique/Moutier-dans-le-Jura-Contexte-historique.html"}
+  - {titre: "Chancellerie d'État du canton de Berne — « Avenir Berne romande » et transfert de Moutier", url: "https://www.sta.be.ch/fr/start/themen/avenir-berne-romande-et-transfert-moutier.html"}
+  - {titre: "Office fédéral de la statistique — Population résidante permanente (STATPOP)", url: "https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0102010000_101/-/px-x-0102010000_101.px/"}
+  - {titre: "Office fédéral de la statistique — Liste officielle des communes de Suisse", url: "https://www.agvchapp.bfs.admin.ch/fr/communes/query"}
+  - {titre: "Comité consultatif de la Convention-cadre, cinquième avis sur la Suisse (2023)", url: "https://rm.coe.int/5th-op-switzerland-en/1680ab9e02"}
+  - {titre: "Aménagement linguistique dans le monde (Université Laval) — Loi bernoise de 2004 sur le statut particulier, texte initial", url: "https://www.axl.cefan.ulaval.ca/EtatsNsouverains/Berne-loi-Bienne-2004.htm"}

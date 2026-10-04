@@ -1,0 +1,53 @@
+uid: "iles-caimans"
+nom: "Caïmaniens"
+endonyme: "Caymanians"
+territoire: "Îles Caïmans (Grand Cayman, Cayman Brac et Little Cayman)"
+etats: ["Royaume-Uni"]
+region: "ameriques"
+coord: [19.3, -81.3]
+type: "peuple_territoire_non_autonome"
+types_secondaires: ["collectivite_autonome"]
+base: "territoriale"
+population: {valeur: 36808, annee: 2021, perimetre: "personnes de statut caïmanien recensées en 2021 (population tabulée de 68 811 personnes, dont 32 003 sans ce statut) ; le document A/AC.109/2025/5 de l'ONU estime la population totale du territoire à 84 738 personnes en 2023, dont 46 % de Caïmaniens", source: "https://www.eso.ky/user_images/census_2021/Section_1.2.pdf"}
+lieux: {valeur: 6, unite: "districts (George Town, West Bay, Bodden Town, North Side, East End et Sister Islands)", annee: 2021, source: "https://www.eso.ky/user_images/census_2021/Section_1.2.pdf"}
+surface_km2: {valeur: 264, annee: 2025, perimetre: "terres émergées des trois îles ; la zone économique exclusive couvre 119 137 km²", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/5&l=en&t=pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Population des îles Caïmans, trois îles de la mer des Caraïbes situées à environ 290 km à l'ouest de la Jamaïque. Le territoire figure sur la liste des territoires non autonomes de l'ONU, avec le Royaume-Uni comme puissance administrante. La Constitution de 2009, modifiée en 2020, institue un Parlement de dix-neuf élus et deux membres de droit, un Premier (chef du gouvernement) et un Cabinet dotés d'une compétence autonome et exclusive dans les affaires intérieures, sous réserve des responsabilités du gouverneur nommé par la Couronne ; sa charte des droits (partie I) s'ouvre sur l'affirmation que tous les peuples ont le droit de disposer d'eux-mêmes. Le statut de Caymanian, défini par la loi locale, conditionne le droit de vote.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "liste_tna", detail: "Territoire non autonome administré par le Royaume-Uni ; document de travail du Secrétariat du Comité spécial de la décolonisation (A/AC.109/2025/5) ; résolution 79/103 de l'Assemblée générale du 4 décembre 2024, qui réaffirme le droit inaliénable du peuple des îles Caïmans à l'autodétermination", annee: 2025, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/5&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Cayman Islands Constitution Order 2009 (SI 2009/1379), annexe 2 : Constitution des îles Caïmans", nature: "constitution", annee: 2009, source: "https://www.legislation.gov.uk/uksi/2009/1379/schedule/2/made"}
+  - {instrument: "Cayman Islands Constitution (Amendment) Order 2020 (SI 2020/1283)", nature: "constitution", annee: 2020, source: "https://www.legislation.gov.uk/uksi/2020/1283/made"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le Cabinet, présidé par le gouverneur (Constitution de 2009, s. 46), réunit le Premier, sept ministres issus des élus du Parlement, le gouverneur adjoint et le procureur général (s. 44, modifiée en 2020) ; l'ordonnance de 2020 lui reconnaît une « capacité autonome et exclusive » dans les affaires intérieures, hors défense, affaires extérieures, sécurité intérieure et fonction publique, qui restent au gouverneur (s. 44, al. 5, et s. 55).", source: "https://www.legislation.gov.uk/uksi/2020/1283/made"}
+  pouvoir_normatif: {valeur: "partiel", note: "La Législature fait les lois pour la paix, l'ordre et le bon gouvernement des îles (Constitution de 2009, s. 59) ; l'ordonnance de 2020 abroge le désaveu (annulation) des lois par Londres, mais le gouverneur peut, avec l'accord du secrétaire d'État, promulguer une loi relevant de ses responsabilités sans vote du Parlement (s. 81), et la Couronne garde le plein pouvoir de légiférer pour le territoire (s. 125).", source: "https://www.legislation.gov.uk/uksi/2020/1283/made"}
+  justice_propre: {valeur: "partiel", note: "La Constitution de 2009 établit la Grand Court (cour supérieure) et la Cour d'appel des îles Caïmans (s. 94 et 99), dont les juges sont nommés par le gouverneur (s. 95, al. 3, et s. 100, al. 2) ; en matière de droits fondamentaux, l'appel final va à Sa Majesté en conseil (Comité judiciaire du Conseil privé), à Londres (s. 26, al. 3).", source: "https://www.legislation.gov.uk/uksi/2009/1379/schedule/2/made"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le gouverneur ne peut conclure un accord international qui touche la politique intérieure ou exige une loi locale sans l'accord du Cabinet, sauf instruction contraire du secrétaire d'État (Constitution de 2009, s. 55, al. 3) ; tout projet de loi britannique ou d'ordonnance étendant une loi britannique au territoire est normalement notifié au Premier pour avis du Cabinet, sans effet sur le pouvoir de légiférer de Londres (s. 126, ajouté en 2020).", source: "https://www.legislation.gov.uk/uksi/2020/1283/made"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "reconnu", note: "L'éducation ne figure pas parmi les responsabilités spéciales du gouverneur (Constitution de 2009, s. 55, al. 1) et relève de la « capacité autonome et exclusive » du Cabinet dans les affaires intérieures (s. 44, al. 5, ajouté en 2020) ; la Constitution charge le gouvernement de réaliser progressivement, dans la limite des ressources, une instruction primaire et secondaire gratuite (s. 20, al. 2).", source: "https://www.legislation.gov.uk/uksi/2020/1283/made"}
+  fiscalite: {valeur: "partiel", note: "La Législature a le pouvoir de lever les recettes et d'en changer les taux, sauf disposition légale contraire, et vote toute dépense (Constitution de 2009, s. 111) ; un projet créant ou augmentant un impôt n'est examiné que sur recommandation du ministre chargé des finances (s. 77, al. 3) ; l'emprunt public est plafonné par un pourcentage des recettes fixé par la loi et convenu avec un secrétaire d'État britannique (s. 113).", source: "https://www.legislation.gov.uk/uksi/2009/1379/schedule/2/made"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "La Constitution renvoie à la loi locale la définition de « Caymanian » (s. 124) ; l'inscription sur les listes électorales est réservée, hors électeurs déjà inscrits en 2009, aux Caïmaniens majeurs qui résident aux îles depuis au moins deux des quatre années précédentes (s. 90) ; les lois sur l'entrée, l'emploi et la résidence des personnes sans ce statut échappent à la clause de non-discrimination (s. 16, al. 4 b).", source: "https://www.legislation.gov.uk/uksi/2009/1379/schedule/2/made"}
+  autodetermination_externe: {valeur: "partiel", note: "Une loi peut organiser un référendum sur une question d'importance nationale, sur résolution de la majorité des élus, et la question de demander une modification de la Constitution pouvant conduire à l'indépendance est réputée d'importance nationale (Constitution de 2009, s. 69) ; le texte ne dit pas que le résultat lie le Royaume-Uni.", source: "https://www.legislation.gov.uk/uksi/2009/1379/schedule/2/made"}
+effectivite: {valeur: "partielle", note: "Le gouvernement territorial établit son budget et présente des excédents, sans impôt direct sur le revenu ; le Royaume-Uni encadre la politique budgétaire depuis 2012 et maintient sa demande d'un registre public des bénéficiaires effectifs des sociétés, que le territoire s'est engagé à ouvrir aux seules personnes justifiant d'un intérêt légitime d'ici juin 2025.", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/5&l=en&t=pdf"}
+chronologie:
+  - {annee: 1734, evenement: "Début d'une pratique d'autogouvernement local, selon le Secrétariat de l'ONU."}
+  - {annee: 1831, evenement: "Création d'une assemblée législative, l'Assembly of Justices and Vestry."}
+  - {annee: 1834, evenement: "Abolition de l'esclavage."}
+  - {annee: 1863, evenement: "Les îles deviennent une dépendance de la Jamaïque."}
+  - {annee: 1962, evenement: "À l'indépendance de la Jamaïque, les îles restent sous la Couronne britannique."}
+  - {annee: 2009, evenement: "Entrée en vigueur de la Constitution le 6 novembre."}
+  - {annee: 2020, evenement: "Ordonnance du 11 novembre, en vigueur le 4 décembre : l'Assemblée législative devient le Parlement, le désaveu des lois est abrogé, la compétence autonome du Cabinet dans les affaires intérieures est inscrite."}
+  - {annee: 2024, evenement: "Le 4 décembre, l'Assemblée générale adopte sans vote la résolution 79/103 sur la question des îles Caïmans."}
+fiabilite:
+  verifie: ["Affirmation du droit des peuples à disposer d'eux-mêmes en tête de la partie I, composition du Cabinet, responsabilités du gouverneur, pouvoir législatif réservé, référendums, qualité d'électeur, définition de « Caymanian », clause de non-discrimination, juridictions, pouvoir fiscal et plafond d'emprunt (Constitution de 2009 sur legislation.gov.uk).", "Abrogation du désaveu, compétence autonome du Cabinet, notification des lois britanniques, Parlement (ordonnance de 2020 sur legislation.gov.uk).", "Inscription sur la liste des territoires non autonomes, résolution 79/103, surface, population estimée et cadre de responsabilité budgétaire de 2012 (document A/AC.109/2025/5).", "Six districts et 36 808 personnes de statut caïmanien dans la population tabulée (recensement de 2021, Economics and Statistics Office)."]
+  non_confirme: ["Texte de la loi sur l'immigration qui définit le statut caïmanien non consulté : conditions d'acquisition et de perte du statut.", "Régime foncier et accès des personnes sans statut caïmanien à la propriété non vérifiés.", "Résultats des élections générales prévues le 30 avril 2025 non vérifiés.", "Aucune source indépendante (universitaire ou associative) consultée sur le fonctionnement des institutions."]
+sources:
+  - {titre: "The Cayman Islands Constitution Order 2009 (SI 2009/1379), annexe 2 — legislation.gov.uk", url: "https://www.legislation.gov.uk/uksi/2009/1379/schedule/2/made"}
+  - {titre: "The Cayman Islands Constitution (Amendment) Order 2020 (SI 2020/1283) — legislation.gov.uk", url: "https://www.legislation.gov.uk/uksi/2020/1283/made"}
+  - {titre: "Comité spécial de la décolonisation — Îles Caïmans, document de travail A/AC.109/2025/5", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/5&l=en&t=pdf"}
+  - {titre: "Economics and Statistics Office — Recensement de 2021, section 1.2 : population par district et statut", url: "https://www.eso.ky/user_images/census_2021/Section_1.2.pdf"}

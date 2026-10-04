@@ -1,0 +1,53 @@
+uid: "conseils-minorites-nationales-croatie"
+nom: "Minorités nationales de Croatie (conseils)"
+endonyme: "Vijeća i predstavnici nacionalnih manjina"
+territoire: "Croatie : communes, villes et comtés où une minorité nationale élit un conseil ou un représentant"
+etats: ["Croatie"]
+region: "europe"
+coord: [45.6, 17.2]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 102424, annee: 2021, perimetre: "membres déclarés des minorités nationales au recensement de 2021 (240 079), moins les Serbes (123 892) et les Italiens (13 763) qui ont leur propre fiche ; dont Bosniaques 24 131, Roms 17 980, Albanais 13 817, Hongrois 10 315, Tchèques 7 862, Slovènes 7 729", source: "https://rm.coe.int/croatiapr7-en/1680aa5f42"}
+lieux: {valeur: 344, unite: "conseils de minorité nationale enregistrés au 31 décembre 2021 (toutes minorités, Serbes et Italiens compris), plus 103 représentants et 12 organes de coordination", annee: 2021, source: "https://rm.coe.int/croatiapr7-en/1680aa5f42"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution croate nomme 22 minorités nationales. La loi constitutionnelle sur les droits des minorités nationales de 2002 leur ouvre des conseils élus tous les quatre ans dans les communes, villes et comtés où la minorité atteint 1,5 % de la population ou compte plus de 200 membres (500 au niveau du comté), et un représentant élu à partir de 100 membres. Ces conseils sont des personnes morales sans but lucratif, financées par les collectivités, qui proposent des mesures et donnent leur avis sur les actes locaux. La loi électorale réserve quatre des huit sièges de minorités au Sabor (Parlement) aux minorités autres que serbe et italienne. Cette fiche regroupe ces 20 minorités ; les Serbes et les Italiens ont chacun une fiche.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur la Croatie (2021) : la Croatie applique la Convention aux 22 minorités nommées dans le préambule de la Constitution ; § 9 sur les conseils de minorité et la représentation au Parlement.", annee: 2021, source: "https://rm.coe.int/5th-op-croatia-fr/1680a2cb4a"}
+  - {mecanisme: "charte_langues_regionales", detail: "Septième rapport périodique de la Croatie sur la Charte européenne des langues régionales ou minoritaires (2023) : la Croatie applique la Charte à sept langues (italien, serbe, hongrois, tchèque, slovaque, ruthène, ukrainien) ; le rapport recense aussi l'usage officiel du tchèque, du hongrois, du ruthène et de l'albanais dans des collectivités locales, et le seuil d'un tiers atteint par la minorité rom à Orehovica.", annee: 2023, source: "https://rm.coe.int/croatiapr7-en/1680aa5f42"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République de Croatie, préambule (liste des 22 minorités nationales)", nature: "constitution", annee: 2010, source: "https://rm.coe.int/5th-op-croatia-fr/1680a2cb4a"}
+  - {instrument: "Loi constitutionnelle sur les droits des minorités nationales (NN 155/02, modifiée NN 47/10, 80/10, 93/11), art. 11, 12, 19, 20, 23 à 35", nature: "loi_organique", annee: 2002, source: "https://www.zakon.hr/z/295/Ustavni-zakon-o-pravima-nacionalnih-manjina"}
+  - {instrument: "Loi sur l'élection des députés au Sabor, art. 17 (circonscription spéciale des minorités)", nature: "loi", annee: 1999, source: "https://www.zakon.hr/z/355/Zakon-o-izboru-zastupnika-u-Hrvatski-sabor"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Conseils de minorité nationale (vijeća, 10 membres en commune, 15 en ville, 25 en comté) élus pour quatre ans là où la minorité atteint 1,5 % de la population ou compte plus de 200 membres (500 en comté), représentant élu à partir de 100 membres, loi constitutionnelle de 2002, art. 24 ; personnes morales sans but lucratif, art. 25 ; coordinations possibles, art. 33 ; droits de proposition et d'information, sans pouvoir de décision, art. 31.", source: "https://www.zakon.hr/z/295/Ustavni-zakon-o-pravima-nacionalnih-manjina"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "L'exécutif de la collectivité doit demander l'avis et les propositions du conseil sur les dispositions des projets d'actes généraux qui règlent les droits et libertés des minorités ; si le conseil estime un acte contraire à la Constitution ou à la loi, il en informe le ministère de l'administration, qui en suspend l'application dans les huit jours s'il partage cette analyse, loi constitutionnelle, art. 32 ; avis, non consentement.", source: "https://www.zakon.hr/z/295/Ustavni-zakon-o-pravima-nacionalnih-manjina"}
+  langue: {valeur: "partiel", note: "Usage officiel égal de la langue d'une minorité dans la collectivité où elle forme au moins un tiers de la population ou si le statut local le prévoit, loi constitutionnelle, art. 12 ; en 2023, tchèque à Končanica, Daruvar et Dežanovac, hongrois à Kneževi Vinogradi, Ernestinovo et Tordinci, ruthène à Bogdanovci, albanais (avec le tchèque, le hongrois et le serbe) dans le comté de Bjelovar-Bilogora, et langue de la minorité rom à Orehovica, où celle-ci forme 33,68 % de la population ; la variante (romani ou roumain des Bayash) n'est pas précisée (septième rapport sur la Charte).", source: "https://rm.coe.int/croatiapr7-en/1680aa5f42"}
+  education: {valeur: "partiel", note: "Droit des membres de la minorité à l'enseignement dans leur langue et leur écriture, avec des seuils d'effectifs plus bas que pour les classes en croate, une partie propre du programme (langue maternelle, littérature, histoire, géographie, culture) et l'apprentissage obligatoire du croate, loi constitutionnelle de 2002, art. 11 ; écoles dans le cadre d'une loi de l'État, sans maîtrise du système par les conseils.", source: "https://aceproject.org/ero-en/regions/europe/HR/croatia-constitutional-act-on-the-rights-of"}
+  fiscalite: {valeur: "partiel", note: "Les collectivités financent le travail des conseils, y compris leurs frais administratifs ; le budget de l'État peut financer leurs programmes, loi constitutionnelle, art. 28 ; le Conseil national des minorités (Savjet) répartit les crédits de l'État, art. 35. Aucun pouvoir fiscal.", source: "https://www.zakon.hr/z/295/Ustavni-zakon-o-pravima-nacionalnih-manjina"}
+  representation: {valeur: "reconnu", note: "Cinq à huit députés des minorités au Sabor, loi constitutionnelle, art. 19 ; la loi électorale (art. 17) attribue un siège aux Hongrois, un aux Tchèques et Slovaques ensemble, un aux Albanais, Bosniaques, Monténégrins, Macédoniens et Slovènes ensemble, un aux Autrichiens, Bulgares, Allemands, Polonais, Roms, Roumains, Ruthènes, Russes, Turcs, Ukrainiens, Valaques et Juifs ensemble ; sièges garantis dans les assemblées locales, art. 20.", source: "https://www.zakon.hr/z/355/Zakon-o-izboru-zastupnika-u-Hrvatski-sabor"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En mai 2019, 352 conseils et 108 représentants ont été élus (septième rapport sur la Charte, 2023). Le Comité consultatif de la Convention-cadre juge en 2021 la représentation et la consultation « globalement satisfaisantes », mais relève que « les conseils des minorités régionaux et locaux ne sont pas tous efficaces, leur pouvoir d'intervention étant trop limité et insuffisamment clair », et que les minorités moins nombreuses sont représentées au Parlement par des membres d'une autre minorité.", source: "https://rm.coe.int/5th-op-croatia-fr/1680a2cb4a"}
+chronologie:
+  - {annee: 2002, evenement: "Loi constitutionnelle sur les droits des minorités nationales (13 décembre) : conseils et représentants de minorité."}
+  - {annee: 2010, evenement: "Modifications de la loi constitutionnelle (NN 47/10, 80/10) et de la Constitution, dont le préambule nomme 22 minorités."}
+  - {annee: 2019, evenement: "Élections de mai : 352 conseils et 108 représentants élus."}
+  - {annee: 2021, evenement: "Recensement : 240 079 membres déclarés des minorités nationales ; cinquième avis du Comité consultatif de la Convention-cadre."}
+  - {annee: 2023, evenement: "Septième rapport de la Croatie sur la Charte européenne des langues régionales ou minoritaires."}
+fiabilite:
+  verifie: ["Loi constitutionnelle, art. 12, 19, 24, 25, 28, 31, 32, 33 et 35, texte consolidé (zakon.hr).", "Répartition des huit sièges de minorités, loi électorale (NN 116/99, dernière modification NN 98/19), art. 17 (zakon.hr).", "Collectivités du tableau et langue associée à chacune, septième rapport sur la Charte (seuil d'un tiers et note sur les statuts locaux).", "Chiffres du recensement 2021, des élections de 2019 et des conseils enregistrés fin 2021, et liste des collectivités à usage officiel d'une langue minoritaire (septième rapport sur la Charte, 2023).", "Liste des 22 minorités et § 9 du cinquième avis du Comité consultatif (2021)."]
+  non_confirme: ["Résultats des élections des conseils de mai 2023 non consultés ; le nombre de conseils par minorité hors Serbes et Italiens n'est pas établi.", "Langue rom en usage officiel à Orehovica (romani ou roumain des Bayash) non précisée par le rapport.", "Liste nominative des conseils non trouvée sur une source officielle ouverte ; le tableau recense les collectivités où une langue minoritaire est d'usage officiel, non les conseils."]
+sources:
+  - {titre: "Ustavni zakon o pravima nacionalnih manjina (texte consolidé) — zakon.hr", url: "https://www.zakon.hr/z/295/Ustavni-zakon-o-pravima-nacionalnih-manjina"}
+  - {titre: "Zakon o izboru zastupnika u Hrvatski sabor — zakon.hr", url: "https://www.zakon.hr/z/355/Zakon-o-izboru-zastupnika-u-Hrvatski-sabor"}
+  - {titre: "Constitutional Act on the Rights of National Minorities (2002) — ACE Project", url: "https://aceproject.org/ero-en/regions/europe/HR/croatia-constitutional-act-on-the-rights-of"}
+  - {titre: "Septième rapport périodique de la Croatie, Charte européenne des langues régionales ou minoritaires (2023) — Conseil de l'Europe", url: "https://rm.coe.int/croatiapr7-en/1680aa5f42"}
+  - {titre: "Cinquième avis sur la Croatie (2021) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/5th-op-croatia-fr/1680a2cb4a"}

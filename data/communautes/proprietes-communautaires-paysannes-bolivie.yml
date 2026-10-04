@@ -1,0 +1,57 @@
+uid: "proprietes-communautaires-paysannes-bolivie"
+nom: "Propriétés communautaires des communautés paysannes de Bolivie"
+endonyme: ""
+territoire: "Vallées, plaines tropicales et Altiplano de Bolivie"
+etats: ["Bolivie"]
+region: "ameriques"
+coord: [-17.5, -65.5]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "membres des communautés titulaires d'une propriété communautaire ; total non trouvé", source: ""}
+lieux: {valeur: null, unite: "propriétés communautaires titrées", annee: null, source: ""}
+surface_km2: {valeur: 163848, annee: 2024, perimetre: "surface assainie et titrée comme propriété communautaire de 1996 à 2024 (1 450 076 ha en 1996-2005, 6 998 514 ha en 2006-2012, 7 936 251 ha en 2013-2024, figure 3.8 de l'INRA ; la figure 3.10 donne 16,3 millions d'hectares) ; les 12 289 511 ha distribués avant 1994 ne sont pas comptés", source: "https://www.inra.gob.bo/wp-content/uploads/2025/10/Libro-de-la-Reforma-Agraria.pdf"}
+villages: {valeur: null, annee: null, perimetre: "communautés paysannes titulaires ; total non relevé", source: ""}
+resume: >-
+  Fiche agrégée. La propriété communautaire, appelée « propriété communaire » (propiedad comunaria) par la loi 1715 de 1996, est une terre titrée collectivement à une communauté paysanne ou à une ancienne hacienda (grand domaine) ; le décret 29215 de 2007 (art. 100.I) l'ouvre aussi aux communautés de colons et aux communautés autochtones ; elle est inaliénable, indivisible, irréversible, insaisissable et imprescriptible (art. 41.I.6). La Constitution de 2009 (art. 394.III) range les communautés paysannes dans la propriété communautaire ou collective, aux côtés des « territoires indígenas originarios campesinos » (TIOC, territoires des peuples autochtones et paysans). La base de titres de l'Institut national de réforme agraire (INRA) distingue les deux catégories : de 1996 à 2024, les propriétés communautaires couvrent 25 % de la surface assainie et titrée, les TCO/TIOC 39 %. Une communauté titrée inscrite au registre d'identité des peuples autochtones ou originaires peut demander, sur décision de son assemblée, la conversion de sa propriété communautaire en TCO (décret 29215 de 2007, art. 378 à 380).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution politique de l'État plurinational de Bolivie (2009), art. 393, 394.III et 395", nature: "constitution", annee: 2009, source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {instrument: "Loi 1715 du Service national de réforme agraire (18 octobre 1996), art. 3, 4 et 41.I.6", nature: "loi", annee: 1996, source: "https://www.lexivox.org/norms/BO-L-1715.html"}
+  - {instrument: "Loi 3545 de reconduction communautaire de la réforme agraire (28 novembre 2006), modifiant la loi 1715, art. 8 (composition de la Commission agraire nationale)", nature: "loi", annee: 2006, source: "https://www.lexivox.org/norms/BO-L-3545.html"}
+  - {instrument: "Décret suprême 29215 (2 août 2007), règlement de la loi 1715 modifiée, art. 3, 8, 99, 100, 378 à 380 et 473", nature: "loi", annee: 2007, source: "https://www.lexivox.org/norms/BO-DS-29215.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Pour recevoir une propriété communautaire, la communauté paysanne justifie de sa personnalité juridique (décret 29215 de 2007, art. 100.III) ; elle agit par des représentants « organiques », élus selon ses us et coutumes (art. 8), peut attribuer à ses membres l'usage de parcelles familiales sans diviser la propriété collective (art. 99.II) et décide en assemblée de demander la conversion en TCO (art. 378). Aucun texte consulté ne lui confère de compétences de gouvernement au-delà de la gestion de la terre.", source: "https://www.lexivox.org/norms/BO-DS-29215.html"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "Le décret 29215 de 2007 reconnaît la résolution des conflits à l'intérieur des communautés paysannes ou entre elles, adoptée selon leurs us et coutumes (art. 3), et l'INRA avalise les accords de conciliation conclus dans les communautés selon leur normativité traditionnelle (art. 473.II) ; la compétence se limite aux conflits de possession et de propriété agraires.", source: "https://www.lexivox.org/norms/BO-DS-29215.html"}
+  terres: {valeur: "reconnu", note: "La loi 1715 de 1996 (art. 41.I.6) définit les propriétés communaires, titrées collectivement aux communautés paysannes, comme inaliénables, indivisibles, irréversibles, collectives, insaisissables et imprescriptibles ; la Constitution de 2009 (art. 394.III) reprend ces caractères pour la propriété collective des communautés paysannes et l'exempte de l'impôt sur la propriété agraire.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "La loi 3545 de 2006 (art. 8, modifiant l'art. 11 de la loi 1715) réserve des sièges de la Commission agraire nationale à la CSUTCB (Confederación Sindical Única de Trabajadores Campesinos de Bolivia, principale organisation syndicale paysanne), à la Fédération nationale des femmes paysannes Bartolina Sisa et à la Confédération des colons ; ces sièges reviennent aux organisations nationales et non aux communautés titulaires, et la commission n'a qu'un rôle consultatif et de contrôle en matière agraire.", source: "https://www.lexivox.org/norms/BO-L-3545.html"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon une étude de cas de la Coalition internationale pour l'accès à la terre et de la Fondation TIERRA (2015), l'assainissement lancé par la loi 1715 n'avait titré que 8,73 % de la surface du pays en 2005 ; après la loi 3545, plus de 200 communautés de l'Altiplano de La Paz, environ 17 700 familles, ont mis à jour leurs droits par un « assainissement interne » (inventaire des droits mené par la communauté) que l'INRA valide ensuite. L'INRA relève de son côté que des communautés paysannes ont dénoncé, pendant la sous-traitance de l'assainissement (1996-2006), des travaux menés sans coordination territoriale ni respect de leurs usages.", source: "https://d1n0nj0ml605fq.cloudfront.net/media/documents/ilc_case_study_0060_bolivia_es.pdf"}
+chronologie:
+  - {annee: 1953, evenement: "Réforme agraire : distribution de terres, dont 12,3 millions d'hectares en propriétés communautaires jusqu'en 1994."}
+  - {annee: 1996, evenement: "Loi 1715 : création de l'INRA et définition des propriétés communaires (art. 41.I.6)."}
+  - {annee: 2006, evenement: "Loi 3545 de reconduction communautaire de la réforme agraire."}
+  - {annee: 2007, evenement: "Décret 29215 : règlement de l'assainissement et de la titularisation, attributions familiales et conversion en TCO."}
+  - {annee: 2009, evenement: "Constitution : propriété communautaire ou collective des communautés paysannes (art. 394.III)."}
+  - {annee: 2024, evenement: "Bilan de l'INRA : les propriétés communautaires représentent 25 % de la surface assainie et titrée depuis 1996."}
+fiabilite:
+  verifie: ["Art. 393, 394.III et 395 de la Constitution de 2009 (texte du Constitute Project).", "Art. 41.I.6 de la loi 1715 (infoleyes et lexivox) et définition reprise par l'INRA.", "Art. 3, 8, 99.II, 100, 378 et 473.II du décret 29215 (lexivox).", "Art. 8 de la loi 3545 : composition de la Commission agraire nationale (lexivox).", "Étude de cas ILC-Fondation TIERRA (2015) sur l'assainissement interne dans le département de La Paz.", "Surfaces assainies et titrées par période et part de 25 % (INRA, La Reforma Agraria en Cifras, 2025, figures 3.8 et 3.9).", "Distinction entre propriétés communautaires et TCO/TIOC dans la base de titres de l'INRA, d'où une fiche séparée de celle des TIOC."]
+  non_confirme: ["Nombre de propriétés communautaires titrées et nombre de communautés ou de familles bénéficiaires : non trouvés.", "Représentation dans les commissions agraires départementales (loi 1715, art. 15, modifié par la loi 3545) : non vérifiée.", "Application aux communautés paysannes des droits constitutionnels des « naciones y pueblos indígena originario campesinos » (art. 30, consultation préalable, ressources) : non tranchée par les textes consultés.", "Une seule source indépendante (étude de cas de 2015, limitée au département de La Paz) ; aucune liste officielle ouverte des propriétés communautaires, d'où l'absence de tableau.", "Le total de surface est la somme des trois périodes publiées par l'INRA ; il peut inclure des propriétés converties depuis en TCO."]
+sources:
+  - {titre: "Constitution de Bolivie (2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {titre: "Loi 1715, art. 41 — Infoleyes Bolivia", url: "https://bolivia.infoleyes.com/articulo/24116"}
+  - {titre: "Loi 1715 du Service national de réforme agraire — Lexivox", url: "https://www.lexivox.org/norms/BO-L-1715.html"}
+  - {titre: "Loi 3545 de reconduction communautaire de la réforme agraire — Lexivox", url: "https://www.lexivox.org/norms/BO-L-3545.html"}
+  - {titre: "Décret suprême 29215 — Lexivox", url: "https://www.lexivox.org/norms/BO-DS-29215.html"}
+  - {titre: "Types de propriété — INRA", url: "https://www.inra.gob.bo/tipos-de-propiedad/"}
+  - {titre: "La Reforma Agraria en Cifras (1953-2024) — INRA, 2025", url: "https://www.inra.gob.bo/wp-content/uploads/2025/10/Libro-de-la-Reforma-Agraria.pdf"}
+  - {titre: "INRA en perspectiva : memoria, logros y retos de la titulación de tierras en Bolivia — INRA, 2025", url: "https://www.inra.gob.bo/wp-content/uploads/2025/10/LIBRO-INRA-.pdf"}
+  - {titre: "Saneamiento interno para la regularización de tierras comunales y privadas, departamento de La Paz — ILC et Fondation TIERRA, 2015", url: "https://d1n0nj0ml605fq.cloudfront.net/media/documents/ilc_case_study_0060_bolivia_es.pdf"}

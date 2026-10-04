@@ -1,0 +1,56 @@
+uid: "sardes-sardaigne"
+nom: "Sardes"
+endonyme: "Sardos"
+territoire: "Région autonome de la Sardaigne"
+etats: ["Italie"]
+region: "europe"
+coord: [40.1, 9.0]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: ["collectivite_autonome"]
+population: {valeur: 1570453, annee: 2023, perimetre: "population résidente de la région au 31 décembre (recensement permanent), sans distinction de langue", source: "https://www.istat.it/wp-content/uploads/2025/04/Censimento-permanente-popolazione_Anno-2023_Sardegna.pdf"}
+lieux: {valeur: 377, unite: "communes", annee: 2023, source: "https://www.istat.it/wp-content/uploads/2025/04/Censimento-permanente-popolazione_Anno-2023_Sardegna.pdf"}
+surface_km2: {valeur: 24090, annee: 2024, perimetre: "Sardaigne, sans distinction entre l'île principale et les îles rattachées (page mise à jour le 18 février 2024)", source: "https://www.axl.cefan.ulaval.ca/europe/italiesardaigne.htm"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Sardaigne et ses îles forment une région autonome à statut spécial (loi constitutionnelle n° 3 du 26 février 1948). Le Conseil régional légifère notamment sur l'agriculture et les forêts, la chasse et la pêche, et les usi civici (droits d'usage collectifs des habitants sur des terres). La loi 482/1999 range le sarde et le catalan parmi les douze minorités linguistiques historiques de l'Italie. La loi régionale n° 22 du 3 juillet 2018 organise la politique linguistique pour le sarde, le catalan d'Alghero, le gallurais, le sassarais et le tabarquin.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Sixième avis du Comité consultatif de la Convention-cadre sur l'Italie, § 19 et 20 : le sarde figure parmi les minorités linguistiques historiques de la loi 482/1999 ; la loi régionale n° 22/2018 définit les compétences de la Région en matière de politique linguistique.", annee: 2026, source: "https://rm.coe.int/acfc-op-vi-2025-5-sixth-opinion-on-italy-en/48802bdf6e"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Statut spécial pour la Sardaigne (loi constitutionnelle n° 3 du 26 février 1948), texte coordonné au 30 décembre 2013", nature: "statut_autonomie", annee: 1948, source: "https://www.regione.sardegna.it/documenti/1_5_20150114110812.pdf"}
+  - {instrument: "Loi n° 482 du 15 décembre 1999 sur la protection des minorités linguistiques historiques, art. 2 : la République protège la langue et la culture des populations parlant le sarde", nature: "loi", annee: 1999, source: "https://www.parlamento.it/parlam/leggi/99482l.htm"}
+  - {instrument: "Loi régionale n° 22 du 3 juillet 2018 sur la politique linguistique régionale", nature: "loi", annee: 2018, source: "https://www.edizionieuropee.it/LAW/HTML/211/sa3_04_059.html"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Sardaigne avec ses îles est constituée en Région autonome dotée de la personnalité juridique, Statut, art. 1 ; ses organes sont le Conseil régional de soixante membres élus au suffrage universel, la Junte (exécutif régional) et le Président de la Région, art. 15 et 16 ; l'initiative des lois appartient aussi au « popolo sardo » (peuple sarde), art. 28.", source: "https://www.regione.sardegna.it/documenti/1_5_20150114110812.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "La Région a le pouvoir législatif dans les matières de l'article 3 (collectivités locales, agriculture et forêts, urbanisme, chasse et pêche, usi civici, tourisme) et légifère dans le cadre des principes des lois de l'État pour celles de l'article 4, Statut, art. 3 et 4 ; le Gouvernement peut contester une loi régionale devant la Cour constitutionnelle, art. 33.", source: "https://www.regione.sardegna.it/documenti/1_5_20150114110812.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Pouvoir législatif sur les usi civici, Statut, art. 3, lettre n ; la Région succède aux biens immobiliers et au domaine public de l'État sur son territoire, sauf le domaine maritime, art. 14 ; ces droits appartiennent à la Région et aux populations des communes, pas à un sujet collectif sarde.", source: "https://www.regione.sardegna.it/documenti/1_5_20150114110812.pdf"}
+  ressources: {valeur: "partiel", note: "Pouvoir législatif sur l'exercice des droits domaniaux de la Région sur les eaux publiques, les mines, carrières et salines, Statut, art. 3, lettres l et m ; les redevances des concessions hydroélectriques reviennent à la Région, art. 8, lettre g ; le domaine maritime reste à l'État, art. 14.", source: "https://www.regione.sardegna.it/documenti/1_5_20150114110812.pdf"}
+  consentement: {valeur: "partiel", note: "Le Président de la Région siège au Conseil des ministres pour les questions qui concernent la Région, Statut, art. 47 ; la Région est représentée dans l'élaboration des traités de commerce qui la concernent, art. 52 ; le Conseil régional donne un avis sur les projets de révision du Statut, art. 54.", source: "https://www.regione.sardegna.it/documenti/1_5_20150114110812.pdf"}
+  langue: {valeur: "partiel", note: "La loi régionale n° 22/2018 prévoit la communication institutionnelle bilingue et la traduction de certains actes, « fermo restando il valore legale esclusivo degli atti nel testo in lingua italiana » (la valeur juridique reste au seul texte italien), art. 12 ; elle soutient la toponymie et la signalisation bilingues, art. 13.", source: "https://www.edizionieuropee.it/LAW/HTML/211/sa3_04_059.html"}
+  education: {valeur: "partiel", note: "La Région adapte les lois de la République sur l'instruction à ses besoins, Statut, art. 5 ; dans les communes délimitées selon la loi 482/1999, les écoles maternelles, primaires et secondaires du premier degré inscrivent dans l'horaire l'enseignement des langues minoritaires et l'enseignement dans ces langues, loi régionale n° 22/2018, art. 17.", source: "https://www.edizionieuropee.it/LAW/HTML/211/sa3_04_059.html"}
+  fiscalite: {valeur: "reconnu", note: "La Région dispose de finances propres ; ses recettes comprennent les sept dixièmes de l'impôt sur le revenu des personnes physiques et des sociétés perçu sur son territoire, les neuf dixièmes de la TVA calculée sur la consommation régionale et ses propres impôts créés par loi, Statut, art. 7 et 8 ; elle peut moduler les taux de certains impôts de l'État, art. 10.", source: "https://www.regione.sardegna.it/documenti/1_5_20150114110812.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon l'Université Laval, le sarde n'a pas de statut officiel, l'italien reste la langue de l'enseignement et de la justice, et, d'après l'enquête sociolinguistique de 2007 commandée par la Région, environ 75 % des habitants parlent ou comprennent le sarde.", source: "https://www.axl.cefan.ulaval.ca/europe/italiesardaigne.htm"}
+chronologie:
+  - {annee: 1948, evenement: "Loi constitutionnelle n° 3 du 26 février portant Statut spécial pour la Sardaigne."}
+  - {annee: 1997, evenement: "Loi régionale n° 26 du 15 octobre sur la promotion de la culture et de la langue de la Sardaigne."}
+  - {annee: 1999, evenement: "Loi 482/1999 : le sarde et le catalan parmi les minorités linguistiques historiques."}
+  - {annee: 2001, evenement: "Loi constitutionnelle n° 2 du 31 janvier : la Région fixe par loi sa forme de gouvernement (Statut, art. 15)."}
+  - {annee: 2006, evenement: "La Région adopte à titre expérimental la norme écrite Limba Sarda Comuna pour certains actes."}
+  - {annee: 2013, evenement: "Loi constitutionnelle n° 3 du 7 février : le Conseil régional passe de quatre-vingts à soixante membres."}
+  - {annee: 2016, evenement: "Décret législatif n° 16 du 13 janvier : transfert à la Région des fonctions de protection des minorités linguistiques historiques."}
+  - {annee: 2018, evenement: "Loi régionale n° 22 du 3 juillet sur la politique linguistique régionale."}
+fiabilite:
+  verifie: ["Statut spécial, art. 1, 3, 4, 5, 7, 8, 10, 14, 15, 16, 33, 47, 52 et 54 (texte coordonné au 30 décembre 2013, site de la Région).", "Loi régionale n° 22/2018, art. 1, 2, 8, 10, 12, 13 et 17 (texte publié par Edizioni Europee).", "Population au 31 décembre 2023 et 377 communes (Istat).", "Sixième avis ACFC sur l'Italie, adopté le 11 février 2026, § 19 et 20 ; § 71 : l'Italie a signé la Charte européenne des langues régionales ou minoritaires sans achever sa ratification.", "Loi 482/1999, art. 2, texte publié par le Parlement italien."]
+  non_confirme: ["Surface de 24 090 km² tirée de l'Université Laval, sans année de référence propre ; donnée Istat non consultée.", "L'Université Laval date la loi linguistique du 3 juillet 2017 ; le texte publié porte la date du 3 juillet 2018.", "Lois régionales de 1997 et norme Limba Sarda Comuna de 2006 : relevées dans l'Université Laval, textes non consultés.", "Endonyme « Sardos » (forme logoudorienne) relevé sur la Wikipédia en sarde, sans source institutionnelle.", "Le texte coordonné du Statut publié par la Région reproduit l'article 33 dans sa rédaction d'origine (renvoi préalable par le Gouvernement) ; la procédure de contrôle issue de la réforme constitutionnelle de 2001 n'a pas été vérifiée."]
+sources:
+  - {titre: "Statuto speciale per la Sardegna, testo vigente coordinato — Regione autonoma della Sardegna", url: "https://www.regione.sardegna.it/documenti/1_5_20150114110812.pdf"}
+  - {titre: "L.R. 3 luglio 2018, n. 22, Disciplina della politica linguistica regionale — Edizioni Europee", url: "https://www.edizionieuropee.it/LAW/HTML/211/sa3_04_059.html"}
+  - {titre: "Il Censimento permanente della popolazione in Sardegna, anno 2023 — Istat", url: "https://www.istat.it/wp-content/uploads/2025/04/Censimento-permanente-popolazione_Anno-2023_Sardegna.pdf"}
+  - {titre: "Sardaigne — L'aménagement linguistique dans le monde (Université Laval)", url: "https://www.axl.cefan.ulaval.ca/europe/italiesardaigne.htm"}
+  - {titre: "Legge 15 dicembre 1999, n. 482 — Parlamento italiano", url: "https://www.parlamento.it/parlam/leggi/99482l.htm"}
+  - {titre: "Sixth Opinion on Italy — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/acfc-op-vi-2025-5-sixth-opinion-on-italy-en/48802bdf6e"}

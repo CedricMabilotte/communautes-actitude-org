@@ -1,0 +1,60 @@
+uid: "justice-maya-quintana-roo"
+nom: "Justice autochtone maya du Quintana Roo"
+endonyme: ""
+territoire: "Communautés de la Zone maya de l'État du Quintana Roo (centre de l'État)"
+etats: ["Mexique"]
+region: "ameriques"
+coord: [19.6, -88.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 17, unite: "tribunaux traditionnels mayas (juzgados tradicionales)", annee: 2013, source: "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0185-06362013000100004"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'État du Quintana Roo a institué en 1997 un système de justice autochtone (Sistema de Justicia Indígena) pour les communautés mayas de la Zone maya. Des juges traditionnels, nommés par le Tribunal supérieur de justice sur proposition d'un conseil où siègent cinq représentants des centres cérémoniels mayas, appliquent le droit coutumier maya. Ils jugent des affaires civiles, familiales et pénales sans gravité ; leurs accords et sentences arbitrales ont force de chose jugée (décision définitive). Le recours à cette justice reste un choix des parties, la voie judiciaire ordinaire restant ouverte.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Le Mexique ratifie la Convention 169 de l'OIT le 5 septembre 1990.", annee: 1990, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "Le Mexique vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+  - {mecanisme: "rapporteur_special", detail: "Le rapport du Rapporteur spécial sur sa mission au Mexique (E/CN.4/2004/80/Add.2) cite le Quintana Roo parmi les cinq États ayant légiféré en matière autochtone et nomme les Mayas du Quintana Roo.", annee: 2003, source: "https://documents.un.org/api/symbol/access?s=E/CN.4/2004/80/Add.2&l=es&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution politique de l'État libre et souverain du Quintana Roo, art. 13 (texte en vigueur, réforme du 19 mars 2025)", nature: "constitution", annee: 2025, source: "https://documentos.congresoqroo.gob.mx/leyes/L176-XVIII-20260622-CN1820260622007-Constitución-(1).pdf"}
+  - {instrument: "Loi de justice autochtone de l'État du Quintana Roo (Ley de Justicia Indígena, décret 079, POE du 14 août 1997, dernière réforme du 31 décembre 2012)", nature: "loi", annee: 1997, source: "https://documentos.congresoqroo.gob.mx/leyes/L1320121231234.pdf"}
+  - {instrument: "Loi des droits, de la culture et de l'organisation autochtone de l'État du Quintana Roo (décret 140, POE du 31 juillet 1998, dernière réforme du 24 août 2022)", nature: "loi", annee: 1998, source: "https://documentos.congresoqroo.gob.mx/leyes/L76-XVI-20220824-L1620220824246-ley-derechos.pdf"}
+  - {instrument: "Constitution politique des États-Unis mexicains, art. 2 (réformé le 30 septembre 2024)", nature: "constitution", annee: 2024, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La Constitution de l'État (art. 13 A III) reconnaît l'élection des autorités selon les normes propres ; la loi de 1998 (art. 44 à 55) reconnaît cinq centres cérémoniels mayas et le Grand Conseil maya, dont les autorités doivent respecter les accords (art. 54).", source: "https://documentos.congresoqroo.gob.mx/leyes/L76-XVI-20220824-L1620220824246-ley-derechos.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La Constitution de l'État (art. 13 A II) reconnaît l'application des systèmes normatifs propres aux conflits internes, sous validation des juges ; la loi de justice autochtone (art. 10) charge les juges traditionnels d'appliquer le droit coutumier dans le respect des droits humains.", source: "https://documentos.congresoqroo.gob.mx/leyes/L1320121231234.pdf"}
+  justice_propre: {valeur: "reconnu", note: "La loi de justice autochtone de 1997 crée des juges traditionnels compétents en matière civile, familiale et pénale pour les délits non graves (art. 14 à 18) ; leurs accords et sentences arbitrales ont force de chose jugée (art. 12) ; la voie ordinaire reste ouverte (art. 6 et 11) et les recours vont aux magistrats des affaires autochtones (art. 30).", source: "https://documentos.congresoqroo.gob.mx/leyes/L1320121231234.pdf"}
+  terres: {valeur: "partiel", note: "La Constitution de l'État (art. 13 A V) reconnaît le droit de préserver l'intégrité des terres dans les termes de la Constitution fédérale, sans régime foncier propre.", source: "https://documentos.congresoqroo.gob.mx/leyes/L176-XVIII-20260622-CN1820260622007-Constitución-(1).pdf"}
+  ressources: {valeur: "partiel", note: "La Constitution de l'État (art. 13 A VI) accorde l'usage préférentiel des ressources naturelles des lieux habités, sauf les domaines stratégiques et les droits acquis par des tiers.", source: "https://documentos.congresoqroo.gob.mx/leyes/L176-XVIII-20260622-CN1820260622007-Constitución-(1).pdf"}
+  consentement: {valeur: "partiel", note: "La Constitution de l'État (art. 13 B IX) impose de consulter les peuples autochtones sur les plans de développement ; la loi de 1998 (art. 3) prévoit une consultation préalable sur ces plans et sur les programmes éducatifs.", source: "https://documentos.congresoqroo.gob.mx/leyes/L76-XVI-20220824-L1620220824246-ley-derechos.pdf"}
+  langue: {valeur: "partiel", note: "La Constitution de l'État (art. 13, dernier alinéa) impose la publication des lois au journal officiel en langue maya ; la loi de justice autochtone (art. 9) exige des juges traditionnels qu'ils parlent la langue de la communauté.", source: "https://documentos.congresoqroo.gob.mx/leyes/L176-XVIII-20260622-CN1820260622007-Constitución-(1).pdf"}
+  education: {valeur: "partiel", note: "La Constitution de l'État (art. 13 B II) prévoit une éducation bilingue interculturelle et des programmes régionaux définis en consultation ; la loi de 1998 (art. 23) garantit l'accès à l'éducation de base bilingue.", source: "https://documentos.congresoqroo.gob.mx/leyes/L176-XVIII-20260622-CN1820260622007-Constitución-(1).pdf"}
+  fiscalite: {valeur: "partiel", note: "La Constitution de l'État (art. 13 B I) prévoit des dotations municipales administrées directement par les communautés ; la loi de justice autochtone (art. 3) impose une ligne budgétaire distincte pour la justice autochtone dans le budget du pouvoir judiciaire.", source: "https://documentos.congresoqroo.gob.mx/leyes/L176-XVIII-20260622-CN1820260622007-Constitución-(1).pdf"}
+  representation: {valeur: "partiel", note: "La Constitution de l'État (art. 13 A VII, réforme de 2025) prévoit l'élection, selon les normes propres, d'un représentant autochtone au conseil municipal, avec voix consultative.", source: "https://documentos.congresoqroo.gob.mx/leyes/L176-XVIII-20260622-CN1820260622007-Constitución-(1).pdf"}
+  statut_personnel: {valeur: "partiel", note: "La loi de justice autochtone (art. 16 I) reconnaît la validité des mariages mayas pour l'application de la justice autochtone ; la loi de 1998 (art. 6) permet d'attester la qualité d'autochtone par une attestation du juge traditionnel.", source: "https://documentos.congresoqroo.gob.mx/leyes/L1320121231234.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon Manuel Buenrostro Alba (revue Diario de Campo, INAH), 17 tribunaux traditionnels fonctionnent dans les communautés mayas et privilégient la réparation et le travail communautaire ; l'auteur relève, avec Francisco López Bárcenas, que le système reproduit la structure judiciaire de l'État et que la reconnaissance des juges s'arrête au niveau local.", source: "https://revistas.inah.gob.mx/index.php/diariodecampo/article/download/5725/6571/10843"}
+chronologie:
+  - {annee: 1997, evenement: "Réforme de l'article 13 de la Constitution de l'État (août) et publication de la loi de justice autochtone au journal officiel de l'État (14 août)."}
+  - {annee: 1997, evenement: "Décret 090 du 14 novembre : réforme des articles 8 (conseil de la magistrature de la justice autochtone) et 29 (règles générales du Tribunal supérieur de justice) de la loi de justice autochtone."}
+  - {annee: 1998, evenement: "Loi des droits, de la culture et de l'organisation autochtone (31 juillet) : reconnaissance des centres cérémoniels et du Grand Conseil maya. Ouverture des premiers tribunaux traditionnels et nomination des premiers juges."}
+  - {annee: 2008, evenement: "Selon Buenrostro Alba, 1 850 audiences tenues depuis 1998, dont 384 affaires pénales, 170 familiales et 78 civiles."}
+  - {annee: 2012, evenement: "Réforme de la loi de justice autochtone (31 décembre) : rédaction au masculin et au féminin (juges et juges femmes), définition des mariages forcés et concertés, règles sur la violence familiale."}
+  - {annee: 2025, evenement: "Réforme de l'article 13 de la Constitution de l'État (19 mars) : le système de justice autochtone de la Zone maya y est réaffirmé."}
+fiabilite:
+  verifie: ["Texte de la loi de justice autochtone (version du 31 décembre 2012) sur le site du Congrès de l'État.", "Texte de l'article 13 de la Constitution de l'État (version de juin 2026).", "Articles 3, 6, 23 et 44 à 59 de la loi des droits, de la culture et de l'organisation autochtone (version de 2022).", "Mention du Quintana Roo dans le rapport E/CN.4/2004/80/Add.2.", "Nombre de tribunaux traditionnels (17) et d'audiences tenues de 1998 à 2008 (1 850) dans Buenrostro Alba, Nueva Antropología, 2013."]
+  non_confirme: ["Nombre actuel de tribunaux traditionnels : 17 en 2013 selon Buenrostro Alba (Nueva Antropología) ; aucune liste officielle récente consultée.", "Date de la réforme constitutionnelle de 1997 : donnée par Buenrostro Alba (août 1997), absente de l'historique de l'article 13 publié par le Congrès.", "Compétence des juges sur les litiges de terres ejidales (propriété agraire collective) : la loi ne la prévoit pas expressément.", "Population maya concernée par le système."]
+sources:
+  - {titre: "Ley de Justicia Indígena del Estado de Quintana Roo — Congrès du Quintana Roo", url: "https://documentos.congresoqroo.gob.mx/leyes/L1320121231234.pdf"}
+  - {titre: "Constitución Política del Estado Libre y Soberano de Quintana Roo — Congrès du Quintana Roo", url: "https://documentos.congresoqroo.gob.mx/leyes/L176-XVIII-20260622-CN1820260622007-Constitución-(1).pdf"}
+  - {titre: "Ley de Derechos, Cultura y Organización Indígena del Estado de Quintana Roo — Congrès du Quintana Roo", url: "https://documentos.congresoqroo.gob.mx/leyes/L76-XVI-20220824-L1620220824246-ley-derechos.pdf"}
+  - {titre: "Buenrostro Alba, « Justicia y derecho entre los mayas de Quintana Roo », Diario de Campo — INAH", url: "https://revistas.inah.gob.mx/index.php/diariodecampo/article/download/5725/6571/10843"}
+  - {titre: "Buenrostro Alba, « Cambios constitucionales en materia indígena en la península de Yucatán : el caso de los jueces tradicionales mayas de Quintana Roo », Nueva Antropología, 2013 — SciELO México", url: "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0185-06362013000100004"}
+  - {titre: "Rapport du Rapporteur spécial sur sa mission au Mexique, E/CN.4/2004/80/Add.2 — ONU", url: "https://documents.un.org/api/symbol/access?s=E/CN.4/2004/80/Add.2&l=es&t=pdf"}
+  - {titre: "Constitution politique des États-Unis mexicains — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

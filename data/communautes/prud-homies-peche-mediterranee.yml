@@ -1,0 +1,69 @@
+uid: "prud-homies-peche-mediterranee"
+nom: "Prud'homies de pêche de Méditerranée"
+endonyme: ""
+territoire: "Littoral méditerranéen de la France continentale, de la frontière espagnole à la frontière italienne, et de la Corse ; en mer, jusqu'à la limite des eaux territoriales (12 milles marins)"
+etats: ["France"]
+region: "europe"
+coord: [43.1, 5.4]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: 2021, perimetre: "patrons pêcheurs membres des prud'homies : la fiche d'inventaire donne seulement une fourchette de deux à trois mille", source: "https://www.culture.gouv.fr/Media/Thematiques/Patrimoine-culturel-immateriel/Files/Fiches-inventaire-du-PCI/pratiques-des-prud-homies-de-peche-en-mediterranee"}
+lieux: {valeur: 33, unite: "prud'homies (29 sur le continent, 4 en Corse)", annee: 2021, source: "https://www.culture.gouv.fr/Media/Thematiques/Patrimoine-culturel-immateriel/Files/Fiches-inventaire-du-PCI/pratiques-des-prud-homies-de-peche-en-mediterranee"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les 33 prud'homies de pêche du littoral méditerranéen français, 29 de Port-Vendres à Menton et 4 en Corse. Une prud'homie réunit les patrons pêcheurs (propriétaires-exploitants d'un bateau de pêche) qui travaillent dans une circonscription délimitée à terre par le décret n° 93-56 du 15 janvier 1993 et en mer par la limite des eaux territoriales. Ses membres élisent des prud'hommes qui, selon le décret du 19 novembre 1859 toujours en vigueur pour ses articles 4 à 52, règlent l'usage de la mer entre pêcheurs, attribuent les postes de pêche par tirage au sort, jugent sans appel les différends entre pêcheurs et participent à la police des pêches, sous la tutelle de l'administration maritime. La fiche d'inventaire du patrimoine culturel immatériel (2021) compte moins d'une centaine de prud'hommes élus pour deux à trois mille patrons pêcheurs.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Décret du 19 novembre 1859 portant règlement sur la pêche maritime côtière dans le 5e arrondissement maritime (arrondissement de Toulon), titre Ier, articles 4 à 52 (texte modifié notamment par les décrets du 2 octobre 1927 et du 19 mars 1936)", nature: "loi", annee: 1859, source: "https://dumas.ccsd.cnrs.fr/dumas-03593848/document"}
+  - {instrument: "Décret n° 90-95 du 25 janvier 1990, article 31 : abroge le décret de 1859 sauf ses articles 4 à 52, l'article 56 et une partie de l'article 57", nature: "loi", annee: 1990, source: "https://dumas.ccsd.cnrs.fr/dumas-03593848/document"}
+  - {instrument: "Décret n° 93-56 du 15 janvier 1993 fixant les limites territoriales des prud'homies de pêche dans les eaux méditerranéennes", nature: "loi", annee: 1993, source: "https://www.dirm.mediterranee.developpement-durable.gouv.fr/IMG/pdf/20260121_aiphn_nice_signe_3p.pdf"}
+  - {instrument: "Conseil d'État, 18 juillet 2022, n° 459789, Prud'homie des patrons pêcheurs de La Seyne-sur-Mer – Saint-Mandrier : organisme de droit privé chargé d'une mission de service public, doté d'attributions juridictionnelles (code de l'organisation judiciaire, art. L. 261-1) et d'un pouvoir réglementaire dans son ressort", nature: "jurisprudence", annee: 2022, source: "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2022-07-18/459789"}
+  - {instrument: "Code rural et de la pêche maritime, article L. 942-2 (prud'hommes pêcheurs assermentés habilités à constater les infractions) et article R. 941-1, 8° (prud'hommes pêcheurs comptés parmi les agents des contrôles de police administrative)", nature: "loi", annee: 2016, source: "https://codes.droit.org/PDF/Code%20rural%20et%20de%20la%20p%C3%AAche%20maritime.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les patrons pêcheurs de chaque prud'homie élisent tous les trois ans, au scrutin secret, leurs prud'hommes, qui administrent les affaires de la communauté avec un secrétaire archiviste et un trésorier élus (décret du 19 novembre 1859, art. 5, 11, 17 et 29) ; l'assemblée générale est présidée par l'administrateur de l'Inscription maritime, l'ancienne administration des affaires maritimes (art. 10), les prud'hommes peuvent être révoqués par le directeur de l'Inscription maritime et la prud'homie dissoute par le ministre (art. 22).", source: "https://dumas.ccsd.cnrs.fr/dumas-03593848/document"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les prud'hommes règlent entre pêcheurs la jouissance de la mer et du domaine public maritime, déterminent les postes, tours de rôle et tirages au sort, l'ordre de calage des filets et les heures de pêche, et prennent « toutes les mesures d'ordre et de précaution » non prévues par le décret, sous l'autorité du commissaire de l'Inscription maritime (décret du 19 novembre 1859, art. 17).", source: "https://dumas.ccsd.cnrs.fr/dumas-03593848/document"}
+  justice_propre: {valeur: "reconnu", note: "Les prud'hommes « connaissent seuls, exclusivement et sans appel, révision ou cassation, de tous les différends entre pêcheurs » nés de la pêche dans leur ressort (décret du 19 novembre 1859, art. 17, 1°) ; la procédure devant le tribunal prud'homal est fixée aux articles 23 à 27 et les sentences sont immédiatement exécutoires, avec saisie possible de la barque et des filets (art. 25).", source: "https://hal.science/hal-04634773/document"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Les postes de pêche, tours de rôle, sorts et stations sont attribués entre pêcheurs par la prud'homie (décret du 19 novembre 1859, art. 17) ; le tirage au sort des postes se fait sous la présidence et avec la sanction du commissaire de l'Inscription maritime (art. 48), qui statue sur les réclamations des pêcheurs écartés ; le droit au tirage n'est pas restreint à la circonscription du syndicat ou du quartier maritime où a lieu la pêche (art. 49).", source: "https://dumas.ccsd.cnrs.fr/dumas-03593848/document"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les revenus de la communauté comprennent la contribution dite de la demi-part, prélevée sur le produit de la pêche, et les amendes prononcées par les prud'hommes (décret du 19 novembre 1859, art. 35 et 39) ; les recettes et dépenses sont réglées pour chaque exercice par un budget voté en assemblée générale de la communauté et soumis à l'approbation de l'administrateur de l'Inscription maritime (art. 37).", source: "https://dumas.ccsd.cnrs.fr/dumas-03593848/document"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La fiche d'inventaire du patrimoine culturel immatériel (2021) décrit des élections, des tirages au sort et des audiences toujours tenus ; Soltanpour, Peri et Temri (Maritime Studies, 2020) relèvent que les réformes de 1992, 1998 et 2010 ont confié aux comités régionaux des pêches la gestion de la bande des 12 milles et réduit l'action des prud'homies au niveau local et aux lagunes.", source: "https://hal.science/hal-02491206/document"}
+chronologie:
+  - {annee: 1431, evenement: "Règlement pour la commune des pêcheurs du quartier Saint-Jean à Marseille : quatre prud'hommes chargés d'appliquer les règles de la pêche au thon et de juger les litiges."}
+  - {annee: 1452, evenement: "Reconnaissance de la prud'homie de La Ciotat."}
+  - {annee: 1791, evenement: "Le décret d'Allarde abolit les corporations ; les biens des prud'homies sont confisqués en vertu de la loi du 24 avril 1793."}
+  - {annee: 1859, evenement: "Décret du 19 novembre portant règlement sur la pêche maritime côtière dans le 5e arrondissement maritime : statut des prud'homies."}
+  - {annee: 1927, evenement: "Le décret du 2 octobre modifie les articles du décret de 1859 sur le serment, les indemnités et la révocation des prud'hommes."}
+  - {annee: 1990, evenement: "Le décret n° 90-95 du 25 janvier abroge le décret de 1859 sauf ses articles 4 à 52, son article 56 et une partie de son article 57."}
+  - {annee: 1993, evenement: "Le décret n° 93-56 du 15 janvier fixe les limites territoriales des prud'homies de pêche en Méditerranée."}
+  - {annee: 2021, evenement: "Inscription des « Pratiques des prud'homies de pêche en Méditerranée » à l'Inventaire du patrimoine culturel immatériel en France."}
+  - {annee: 2022, evenement: "Le Conseil d'État (18 juillet 2022, n° 459789) qualifie la prud'homie de La Seyne-sur-Mer – Saint-Mandrier d'organisme de droit privé chargé d'une mission de service public, tout en relevant ses attributions juridictionnelles et son pouvoir d'édicter des règlements qui s'imposent à la profession dans son ressort."}
+fiabilite:
+  verifie:
+    - "Articles 4, 5, 10, 11, 17, 22 à 29, 35 à 39 et 48 à 50 du décret du 19 novembre 1859, dans le texte consolidé reproduit en annexe du mémoire de S. Spadoni (2021), avec l'article 31 du décret n° 90-95."
+    - "Articles L. 942-2 et R. 941-1 du code rural et de la pêche maritime (édition du 1er octobre 2026) : les prud'hommes pêcheurs y figurent comme agents de constatation des infractions."
+    - "Décision du Conseil d'État n° 459789 du 18 juillet 2022 (texte intégral sur ArianeWeb) : attributions juridictionnelles, règlements à caractère d'acte administratif, ressources (cotisations, amendes, revenus des biens)."
+    - "Visa du décret n° 93-56 du 15 janvier 1993 et renvoi aux ressorts de Nice et de Villefranche-sur-Mer dans l'arrêté interpréfectoral de 2026 sur les zones de protection des habitats marins de Nice."
+    - "Nombre de 33 prud'homies (29 continentales, 4 en Corse), liste des 33 prud'homies (section des praticiens rencontrés) et année d'inscription à l'inventaire (2021) : fiche d'inventaire du ministère de la Culture."
+  non_confirme:
+    - "Texte officiel du décret de 1859 et du décret n° 93-56 non consulté sur Légifrance (accès bloqué) ; le décret de 1859 est lu dans une reproduction en annexe d'un mémoire universitaire."
+    - "Les articles L. 912-1 et R. 912-1 du code rural et de la pêche maritime, parfois cités pour les prud'homies, portent en réalité sur les comités des pêches : aucune codification du statut des prud'homies n'a été trouvée."
+    - "Ressort de la prud'homie de Saint-Cyprien : la liste nominative ne cite ni Port-Vendres, ni Collioure, ni Banyuls, alors que la fiche d'inventaire fait commencer la série à Port-Vendres."
+    - "Ordonnance de la Cour de justice des Communautés européennes du 14 mai 2008 (affaire C-109/07), qui ne reconnaît pas la prud'homie comme juridiction au sens du droit communautaire : texte non consulté."
+    - "Nombre exact de patrons pêcheurs membres et surface cumulée des ressorts."
+sources:
+  - {titre: "Pratiques des prud'homies de pêche en Méditerranée — fiche d'inventaire du patrimoine culturel immatériel, ministère de la Culture (2021)", url: "https://www.culture.gouv.fr/Media/Thematiques/Patrimoine-culturel-immateriel/Files/Fiches-inventaire-du-PCI/pratiques-des-prud-homies-de-peche-en-mediterranee"}
+  - {titre: "S. Spadoni, La prud'homie de pêche : d'institution coutumière à acteur de la cogestion (2021), annexe II : décret du 19 novembre 1859", url: "https://dumas.ccsd.cnrs.fr/dumas-03593848/document"}
+  - {titre: "F. Féral, Grandeurs et misères des prud'homies de pêcheurs de Méditerranée (2022)", url: "https://hal.science/hal-04634773/document"}
+  - {titre: "Y. Soltanpour, I. Peri, L. Temri, Co-management of fisheries through a negotiation lens: the case of prud'homies, Maritime Studies (2020)", url: "https://hal.science/hal-02491206/document"}
+  - {titre: "Conseil d'État, 18 juillet 2022, n° 459789 — ArianeWeb", url: "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2022-07-18/459789"}
+  - {titre: "Code rural et de la pêche maritime, édition du 1er octobre 2026 (articles L. 942-2 et R. 941-1)", url: "https://codes.droit.org/PDF/Code%20rural%20et%20de%20la%20p%C3%AAche%20maritime.pdf"}
+  - {titre: "Arrêté interpréfectoral portant création de zones de protection des habitats naturels marins à Nice (2026), visant le décret n° 93-56", url: "https://www.dirm.mediterranee.developpement-durable.gouv.fr/IMG/pdf/20260121_aiphn_nice_signe_3p.pdf"}

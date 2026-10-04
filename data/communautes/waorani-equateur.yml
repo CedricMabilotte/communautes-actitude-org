@@ -1,0 +1,65 @@
+uid: "waorani-equateur"
+nom: "Nationalité waorani (territoire titré)"
+endonyme: "Waorani"
+territoire: "Territoire waorani titré, entre les fleuves Napo et Curaray, provinces d'Orellana, de Pastaza et de Napo"
+etats: ["Équateur"]
+region: "ameriques"
+coord: [-1.1, -76.7]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 3000, annee: 2024, perimetre: "Waorani d'Équateur, chiffre approximatif sans année de comptage donné par Minority Rights Group (page mise à jour en août 2024) ; n'inclut pas les groupes en isolement volontaire", source: "https://minorityrights.org/communities/huaorani/"}
+lieux: {valeur: 32, unite: "communautés waorani réparties dans trois provinces amazoniennes", annee: 2021, source: "https://www.iccaregistry.org/en/explore/Ecuador/territorio-ancestral-waorani-ome"}
+surface_km2: {valeur: 6792, annee: 2021, perimetre: "territoire titré reconnu par l'État (679 220 ha) ; le territoire ancestral est estimé à environ 2 millions d'hectares", source: "https://www.iccaregistry.org/en/explore/Ecuador/territorio-ancestral-waorani-ome"}
+villages: {valeur: 32, annee: 2021, perimetre: "communautés waorani recensées par la fiche du registre ICCA", source: "https://www.iccaregistry.org/en/explore/Ecuador/territorio-ancestral-waorani-ome"}
+resume: >-
+  Les Waorani sont une nationalité autochtone d'Amazonie équatorienne, de langue wao terero, établie entre les fleuves Napo et Curaray. L'État leur attribue en 1983 un titre sur l'ancien protectorat de Tiweno, puis en 1990 un territoire de 612 560 hectares adjugé à « la Etnia Huaorani » ; 679 220 hectares sont aujourd'hui reconnus. Le territoire est gouverné par la Nacionalidad Waorani del Ecuador (NAWE) et les assemblées communautaires ; il chevauche le parc national Yasuní et jouxte la zone intangible des groupes en isolement volontaire Tagaeri et Taromenane. En avril 2019, le tribunal de garanties pénales de Pastaza juge la consultation de 2012 sur le bloc pétrolier 22, dans la partie waorani de Pastaza, contraire aux droits collectifs ; la cour provinciale confirme en juillet 2019.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "L'Équateur ratifie la Convention 169 de l'OIT le 15 mai 1998.", annee: 1998, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "L'Équateur vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+  - {mecanisme: "registre_apac", detail: "« Territorio Ancestral Waorani Ome » inscrit au registre des APAC (aires et territoires du patrimoine autochtone et communautaire, ICCA), fiche publiée en mars 2021.", annee: 2021, source: "https://www.iccaregistry.org/en/explore/Ecuador/territorio-ancestral-waorani-ome"}
+base_nationale:
+  - {instrument: "Titre de propriété au « Grupo Étnico Huaorani, con sus Organizaciones integrantes » sur les terres du protectorat, inscrit le 20 avril 1983", nature: "loi", annee: 1983, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+  - {instrument: "Providencia de l'Instituto Ecuatoriano de Reforma Agraria y Colonización (IERAC) du 3 avril 1990 adjugeant 612 560 ha à « la Etnia Huaorani », rectifiée par l'INDA le 7 avril 1998", nature: "loi", annee: 1990, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+  - {instrument: "Constitution de la République de l'Équateur (2008), art. 2, 57, 171 et 407", nature: "constitution", annee: 2008, source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  - {instrument: "Jugement du tribunal de garanties pénales de Pastaza du 26 avril 2019 sur une action de protection (recours en protection des droits constitutionnels) : droits à l'autodétermination et à la consultation préalable violés lors de la consultation de 2012 sur le bloc 22 ; confirmé par la cour provinciale de Pastaza le 11 juillet 2019", nature: "jurisprudence", annee: 2019, source: "https://gk.city/2025/06/12/caso-waorani-pastaza-explicado/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La Constitution (art. 57.9) garantit les formes propres d'organisation et d'exercice de l'autorité sur les territoires reconnus ; la NAWE (ONHAE jusqu'en 2007) est l'autorité territoriale waorani, avec les assemblées communautaires et les anciens (pikenani).", source: "https://www.iccaregistry.org/en/explore/Ecuador/territorio-ancestral-waorani-ome"}
+  pouvoir_normatif: {valeur: "partiel", note: "La Constitution (art. 57.10) reconnaît le droit de créer et d'appliquer un droit propre ou coutumier, qui ne peut porter atteinte aux droits constitutionnels.", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  justice_propre: {valeur: "partiel", note: "Les autorités des communautés, peuples et nationalités autochtones exercent des fonctions juridictionnelles selon leurs traditions, sous contrôle de constitutionnalité (Constitution, art. 171).", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  terres: {valeur: "reconnu", note: "Titres de 1983 et de 1990 (612 560 ha, portés ensuite à 613 750 ha) ; le registre ICCA indique 679 220 ha reconnus aujourd'hui ; la Constitution (art. 57.4) garantit la propriété imprescriptible des terres communautaires, inaliénables, insaisissables et indivisibles.", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+  ressources: {valeur: "partiel", note: "Participation à l'usage et à la gestion des ressources renouvelables (Constitution, art. 57.6) ; le sous-sol est propriété de l'État (art. 408) ; l'extraction est interdite dans les aires protégées et zones intangibles sauf déclaration d'intérêt national (art. 407).", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  consentement: {valeur: "partiel", note: "Consultation préalable, libre et informée obligatoire sur les ressources non renouvelables (Constitution, art. 57.7) ; si la communauté ne consent pas, l'État « procède conformément à la Constitution et à la loi », sans droit de veto.", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  langue: {valeur: "partiel", note: "Les langues ancestrales autres que le kichwa et le shuar sont d'usage officiel pour les peuples autochtones dans les zones où ils vivent (Constitution, art. 2).", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  education: {valeur: "partiel", note: "La Constitution (art. 57.14) garantit un système d'éducation interculturelle bilingue à administration « collective et participative ».", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Le 26 avril 2019, le tribunal de garanties pénales de Pastaza juge que la consultation de 2012 sur le bloc 22 (environ 180 000 ha, 16 communautés waorani) a violé les droits à l'autodétermination et à la consultation ; la cour provinciale confirme le 11 juillet 2019 et la Cour constitutionnelle déclare irrecevable le recours de l'État le 18 novembre 2019 ; en juin 2025, l'affaire, retenue en 2020 pour fixer une jurisprudence, attend encore sa décision de fond.", source: "https://gk.city/2025/06/12/caso-waorani-pastaza-explicado/"}
+chronologie:
+  - {annee: 1969, evenement: "L'État reconnaît 16 000 ha comme protectorat huaorani."}
+  - {annee: 1979, evenement: "Création du parc national Yasuní sur environ la moitié du territoire ancestral."}
+  - {annee: 1983, evenement: "Titre de propriété sur les terres du protectorat, inscrit le 20 avril."}
+  - {annee: 1990, evenement: "Adjudication de 612 560 ha à « la Etnia Huaorani » par l'IERAC (3 avril)."}
+  - {annee: 1999, evenement: "Décret 552 : zone intangible des groupes Tagaeri et Taromenane (2 février)."}
+  - {annee: 2007, evenement: "L'ONHAE devient la NAWE (Nacionalidad Waorani del Ecuador)."}
+  - {annee: 2008, evenement: "Constitution : droits collectifs (art. 57) et juridiction autochtone (art. 171)."}
+  - {annee: 2012, evenement: "Consultation de l'État sur l'ouverture de blocs pétroliers, dont le bloc 22."}
+  - {annee: 2019, evenement: "Le tribunal de garanties pénales de Pastaza juge la consultation sur le bloc 22 contraire aux droits collectifs (26 avril), jugement confirmé en appel le 11 juillet ; le décret 751 porte la zone intangible à 8 185 km² (27 mai)."}
+  - {annee: 2021, evenement: "Inscription du Territorio Ancestral Waorani Ome au registre ICCA."}
+  - {annee: 2023, evenement: "Consultation populaire du 20 août : 58,95 % des votants approuvent le maintien sous terre du pétrole du bloc 43 (Yasuní-ITT)."}
+  - {annee: 2024, evenement: "Arrêt de la Cour interaméricaine sur les Tagaeri et Taromenane (4 septembre), qui décrit les titres waorani sans compter les Waorani en contact parmi les victimes."}
+fiabilite:
+  verifie: ["Titres de 1983 et 1990, surface de 612 560 ha et décrets 552 (1999) et 751 (2019) : arrêt de la Cour interaméricaine de 2024, § 106 à 113.", "Résultat de la consultation populaire du 20 août 2023 (58,95 %) et décret 257 de 2024 : même arrêt, § 123.", "Articles 2, 57, 171, 407 et 408 de la Constitution de 2008 (édition de l'Assemblée nationale).", "679 220 ha reconnus, 32 communautés, rôle de la NAWE : fiche du registre ICCA ; 679 220 ha et population d'environ 3 000 : Minority Rights Group.", "Jugement de Pastaza du 26 avril 2019, confirmation du 11 juillet 2019 et irrecevabilité devant la Cour constitutionnelle (18 novembre 2019) : GK, juin 2025."]
+  non_confirme: ["Le texte des jugements de Pastaza de 2019 n'a pas été consulté ; leur contenu repose sur la presse et sur le communiqué des conseils des Waorani.", "Surface du protectorat de 1969 : 16 000 ha selon le registre ICCA, 66 570 ha selon la Cour interaméricaine (§ 106).", "En 2026, des dirigeants waorani affirment que le bloc 22 figure de nouveau dans les plans pétroliers de l'État ; non vérifié sur un document officiel.", "Écart sur la surface de 1990 : 612 560 ha selon la Cour interaméricaine, 612 650 ha selon le registre ICCA ; l'acte portant la surface à 679 220 ha n'a pas été trouvé.", "La population waorani (environ 3 000) est une estimation sans année ; le chiffre du recensement de 2022 n'a pas été trouvé.", "Suites données au référendum de 2023 sur le bloc 43 après 2024."]
+sources:
+  - {titre: "Territorio Ancestral Waorani Ome — ICCA Registry", url: "https://www.iccaregistry.org/en/explore/Ecuador/territorio-ancestral-waorani-ome"}
+  - {titre: "Huaorani in Ecuador — Minority Rights Group", url: "https://minorityrights.org/communities/huaorani/"}
+  - {titre: "Corte IDH, Pueblos Indígenas Tagaeri y Taromenane vs. Ecuador, sentence du 4 septembre 2024", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+  - {titre: "Constitution de la République de l'Équateur — Assemblée nationale", url: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  - {titre: "Waorani Victory — Amazon Frontlines, avril 2019", url: "https://www.amazonfrontlines.org/chronicles/waorani-victory/"}
+  - {titre: "El caso Waorani de Pastaza, explicado — GK, 12 juin 2025", url: "https://gk.city/2025/06/12/caso-waorani-pastaza-explicado/"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Résolution 61/295, vote — Bibliothèque numérique des Nations unies", url: "https://digitallibrary.un.org/record/609197"}

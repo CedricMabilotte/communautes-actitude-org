@@ -1,0 +1,69 @@
+uid: "livoniens-lettonie"
+nom: "Livoniens"
+endonyme: "Līvlizt"
+territoire: "Côte live (Līvõd Rānda), nord de la Courlande"
+etats: ["Lettonie"]
+region: "europe"
+coord: [57.7, 22.3]
+type: "peuple_autochtone"
+types_secondaires: ["minorite_nationale"]
+population: {valeur: 163, annee: 2022, perimetre: "personnes inscrites comme Livoniens au registre des personnes physiques, base du recensement de 2021 (janvier 2022)", source: "https://rm.coe.int/4th-op-latvia-en/1680ae98f6"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: 285, annee: 1991, perimetre: "territoire culturel et historique protégé Līvõd Rānda créé en 1991 (28 500 ha)", source: "https://en.wikipedia.org/wiki/Livonian_Coast"}
+villages: {valeur: 12, annee: 1991, perimetre: "villages lives inclus dans le territoire protégé de 1991 (de Lūžņa à Melnsils)", source: "https://en.wikipedia.org/wiki/Livonian_Coast"}
+resume: >-
+  Les Livoniens sont un peuple finnique de la côte nord de la Courlande, en Lettonie.
+  La loi sur la langue officielle (1999) charge l'État d'assurer le maintien, la protection et le développement du live comme langue de la population autochtone,
+  et impose l'usage du live, à côté du letton, pour les noms de lieux, d'institutions et d'événements de la Côte live.
+  La loi sur les terres historiques lettones (2021) rappelle la responsabilité de l'État et des communes envers l'identité, la culture et la langue lives.
+  Une organisation live peut attester l'origine d'une personne qui demande l'inscription « livonienne » au registre de la population.
+  Aucune source trouvée n'établit d'institution propre reconnue par l'État ni de droit collectif sur les terres.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Quatrième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur la Lettonie (§ 17, 25, 29, 62-66) : statut de peuple autochtone, signalisation bilingue, recommandation d'un plan d'ensemble pour revitaliser la langue live.", annee: 2023, source: "https://rm.coe.int/4th-op-latvia-en/1680ae98f6"}
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "La Lettonie a voté pour la Déclaration des Nations unies sur les droits des peuples autochtones le 13 septembre 2007 ; sa loi sur la langue officielle désigne le live comme langue de la population autochtone.", annee: 2007, source: "https://press.un.org/en/2007/ga10612.doc.htm"}
+base_nationale:
+  - {instrument: "Constitution (Satversme), préambule (ajouté en 2014) : « traditions lettones et lives »", nature: "constitution", annee: 2014, source: "https://likumi.lv/ta/en/en/id/57980"}
+  - {instrument: "Loi sur le libre développement des groupes nationaux et ethniques de Lettonie et leur droit à l'autonomie culturelle", nature: "loi", annee: 1991, source: "https://rm.coe.int/4th-op-latvia-en/1680ae98f6"}
+  - {instrument: "Loi sur la langue officielle, art. 4, 5 et 18 (4)", nature: "loi", annee: 1999, source: "https://likumi.lv/ta/en/en/id/14740"}
+  - {instrument: "Loi sur les terres historiques lettones", nature: "loi", annee: 2021, source: "https://rm.coe.int/4th-op-latvia-en/1680ae98f6"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Loi sur la langue officielle de 1999 : l'État assure le maintien, la protection et le développement du live (art. 4) ; sur la Côte live, les noms de lieux, d'institutions, d'organisations et d'événements sont aussi créés et utilisés en live (art. 18, al. 4). Le live n'est pas langue officielle.", source: "https://likumi.lv/ta/en/en/id/14740"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité consultatif du Conseil de l'Europe relève environ 40 locuteurs, une signalisation en live en cours d'installation sur la Côte live, et un financement public des associations, de l'université d'été et de l'Institut live attribué par projet et le plus souvent pour un an (avis de 2023, § 62-66).", source: "https://rm.coe.int/4th-op-latvia-en/1680ae98f6"}
+chronologie:
+  - {annee: 1991, evenement: "Création du territoire culturel et historique protégé Līvõd Rānda (Côte live) le 4 février."}
+  - {annee: 1991, evenement: "Loi sur le libre développement des groupes nationaux et ethniques, à laquelle le Comité consultatif du Conseil de l'Europe rattache la reconnaissance du statut autochtone des Livoniens."}
+  - {annee: 1999, evenement: "Loi sur la langue officielle : le live est la seule langue, à côté du letton, qui n'est pas classée « étrangère »."}
+  - {annee: 2007, evenement: "La Lettonie vote pour la Déclaration des Nations unies sur les droits des peuples autochtones."}
+  - {annee: 2014, evenement: "Le préambule ajouté à la Constitution mentionne les « traditions lives »."}
+  - {annee: 2021, evenement: "Loi sur les terres historiques lettones : responsabilité de l'État et des communes envers l'identité et la langue lives, signalisation bilingue."}
+  - {annee: 2018, evenement: "L'espace culturel live de Courlande est inscrit au patrimoine culturel immatériel national."}
+  - {annee: 2023, evenement: "Année du patrimoine live, déclarée dans le cadre de la Décennie internationale des langues autochtones."}
+fiabilite:
+  verifie:
+    - "Loi sur la langue officielle, art. 4 et 18 (4), lus sur likumi.lv (version anglaise)."
+    - "Préambule de la Constitution mentionnant les « traditions lives », lu sur likumi.lv."
+    - "Vote de la Lettonie en faveur de la DNUDPA (communiqué GA/10612)."
+    - "Population de 163 personnes (§ 25), rôle des organisations lives dans l'inscription de l'origine (§ 29), signalisation, année 2023 et financement (§ 62-66) : avis du Comité consultatif adopté le 9 octobre 2023."
+  non_confirme:
+    - "Texte de la loi sur les terres historiques lettones (2021) non consulté directement ; contenu repris de l'avis du Comité consultatif."
+    - "Année de la loi sur les groupes nationaux : adoptée en mars 1991 selon la chronologie lettone, datée de 1992 par le Comité consultatif."
+    - "Surface (285 km²) et nombre de villages (12) du territoire protégé de 1991, et maintien en vigueur de ce régime après la création du parc national de Slītere : source secondaire seulement."
+sources:
+  - {titre: "Conseil de l'Europe — Quatrième avis du Comité consultatif de la Convention-cadre sur la Lettonie (2023)", url: "https://rm.coe.int/4th-op-latvia-en/1680ae98f6"}
+  - {titre: "Loi sur la langue officielle (Valsts valodas likums) — likumi.lv", url: "https://likumi.lv/ta/en/en/id/14740"}
+  - {titre: "Constitution de la République de Lettonie — likumi.lv", url: "https://likumi.lv/ta/en/en/id/57980"}
+  - {titre: "Assemblée générale des Nations unies — adoption de la DNUDPA, 13 septembre 2007 (GA/10612)", url: "https://press.un.org/en/2007/ga10612.doc.htm"}
+  - {titre: "Institut live de l'Université de Lettonie", url: "https://www.livonian.lv/en/"}
+  - {titre: "Livonian Coast — Wikipedia", url: "https://en.wikipedia.org/wiki/Livonian_Coast"}

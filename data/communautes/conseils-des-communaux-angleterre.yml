@@ -1,0 +1,55 @@
+uid: "conseils-des-communaux-angleterre"
+nom: "Conseils des communaux d'Angleterre"
+endonyme: "Commons councils"
+territoire: "Terres communales enregistrées de Brendon Common (Devon) et de Bodmin Moor (Cornouailles), Angleterre"
+etats: ["Royaume-Uni"]
+region: "europe"
+coord: [50.6, -4.6]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 2, unite: "conseils des communaux établis par ordonnance (Brendon Commons, Bodmin Moor)", annee: 2026, source: "https://www.legislation.gov.uk/uksi?title=Commons%20Council%20Establishment"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les conseils des communaux (commons councils), personnes morales créées par ordonnance ministérielle en vertu de la partie 2 de la loi de 2006 sur les communaux (Commons Act 2006). Un conseil réunit des membres élus par les titulaires de droits d'usage sur une terre commune (commoners, « usagers des communaux »), éleveurs actifs ou non, et des représentants des propriétaires du sol. Il gère les activités agricoles, la végétation et les droits communaux, et peut édicter des règles dont la violation est une infraction pénale si le ministre y consent. Deux conseils sont établis en Angleterre : Brendon Commons (Devon, ordonnance de 2013, en fonction depuis le 1er avril 2014) et Bodmin Moor (Cornouailles, ordonnance de 2015, en fonction depuis le 1er mars 2016, 71 unités du registre des terres communes).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Commons Act 2006 (loi de 2006 sur les communaux), partie 2, art. 26 à 37, en vigueur en Angleterre depuis le 20 janvier 2010", nature: "loi", annee: 2006, source: "https://www.legislation.gov.uk/ukpga/2006/26/part/2"}
+  - {instrument: "Commons Councils (Standard Constitution) (England) Regulations 2010 (S.I. 2010/1204), statuts types des conseils", nature: "loi", annee: 2010, source: "https://www.legislation.gov.uk/uksi/2010/1204/made"}
+  - {instrument: "Brendon Commons Council Establishment Order 2013 (S.I. 2013/2959)", nature: "loi", annee: 2013, source: "https://www.legislation.gov.uk/uksi/2013/2959/made"}
+  - {instrument: "Bodmin Moor Commons Council Establishment Order 2015 (S.I. 2015/1515)", nature: "loi", annee: 2015, source: "https://www.legislation.gov.uk/uksi/2015/1515/made"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le conseil des communaux est une personne morale (body corporate) qui n'agit pas pour le compte de la Couronne (Commons Act 2006, art. 26 et 28). À Bodmin Moor, 24 à 26 membres : 16 élus par les éleveurs actifs (deux par section), 4 élus par les autres commoners, 4 nommés par les propriétaires, et jusqu'à deux membres cooptés sans droit de vote (ordonnance de 2015, art. 4 et annexe 3). À Brendon, 5 à 7 membres : 3 élus par les éleveurs actifs, 1 par les autres commoners, 1 nommé par le propriétaire, et jusqu'à deux cooptés (ordonnance de 2013, art. 4). Limites : compétences restreintes à l'agriculture, à la végétation et aux droits communaux (art. 31), sièges réservés aux propriétaires du sol, et le ministre peut révoquer l'ordonnance si le conseil cesse de fonctionner ou néglige l'intérêt public (art. 37).", source: "https://www.legislation.gov.uk/uksi/2015/1515/made"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil peut édicter des règles sur les activités agricoles, la gestion de la végétation et l'exercice des droits communaux, y compris limiter le nombre d'animaux et les périodes de pâturage (Commons Act 2006, art. 31). Les règles n'entrent en vigueur qu'après confirmation du ministre (art. 7 des ordonnances de 2013 et 2015) ; leur violation n'est une infraction pénale, punie d'une amende de niveau 4, que si la règle est prise avec l'accord du ministre et le précise (art. 34). Le ministre peut révoquer toute règle par une directive motivée (art. 35, al. 3).", source: "https://www.legislation.gov.uk/ukpga/2006/26/part/2"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le conseil ne possède pas la terre commune, qui reste la propriété des propriétaires du sol. Il peut établir et entretenir les limites, retirer les clôtures illégales et autres empiètements (Commons Act 2006, art. 31, al. 3), et acquérir ou céder des terres (art. 32, al. 2 d).", source: "https://www.legislation.gov.uk/ukpga/2006/26/part/2"}
+  ressources: {valeur: "partiel", note: "Le conseil gère le pâturage et la végétation, tient un registre du pâturage (grazing register) et retire les animaux qui pâturent illégalement (Commons Act 2006, art. 31) ; il doit tenir compte de l'intérêt public : conservation de la nature, paysage, accès du public, patrimoine archéologique (art. 31, al. 6 et 7).", source: "https://www.legislation.gov.uk/ukpga/2006/26/part/2"}
+  consentement: {valeur: "partiel", note: "Le ministre publie le projet d'ordonnance, recueille les observations et ne peut créer le conseil que s'il constate un « soutien substantiel » (substantial support), en tenant compte en particulier des titulaires de droits communaux et des propriétaires (Commons Act 2006, art. 27) ; la même procédure s'applique à la modification ou à la révocation de l'ordonnance (art. 37, al. 3), et le ministre doit consulter le conseil avant de révoquer une de ses règles (art. 35, al. 5). Consultation de Brendon (2013) : 47 réponses favorables sur 53 ; de Bodmin Moor (2015) : 195 sur 202.", source: "https://www.legislation.gov.uk/uksi/2015/1515/pdfs/uksiem_20151515_en.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le conseil peut lever des fonds, y compris des redevances liées à l'exercice des droits communaux et à la participation au conseil, recouvrables comme une dette (Commons Act 2006, art. 32, al. 3). La décision d'instituer ou de modifier une redevance exige une majorité des deux tiers des membres présents (statuts types de 2010, annexe, art. 19) ; une personne qui ne paie pas la redevance due ne peut être membre, voter aux élections ni participer aux affaires du conseil (même annexe, art. 4).", source: "https://www.legislation.gov.uk/uksi/2010/1204/made"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Les notes explicatives du ministère de l'Environnement (Defra) décrivent la procédure de création des deux conseils ; aucune source consultée ne décrit leur fonctionnement après 2016 ni les règles confirmées par le ministre.", source: "https://www.legislation.gov.uk/uksi/2013/2959/pdfs/uksiem_20132959_en.pdf"}
+chronologie:
+  - {annee: 2006, evenement: "Commons Act 2006 : la partie 2 prévoit la création de conseils des communaux par ordonnance."}
+  - {annee: 2010, evenement: "Entrée en vigueur de la partie 2 en Angleterre (20 janvier) ; statuts types des conseils."}
+  - {annee: 2010, evenement: "Natural England commande, en août, des travaux de préparation de propositions de conseil pour trois associations d'usagers volontaires : Brendon, Cumbria et Bodmin."}
+  - {annee: 2013, evenement: "Ordonnance établissant le conseil de Brendon Commons, premier usage du pouvoir prévu à l'art. 26."}
+  - {annee: 2014, evenement: "Le conseil de Brendon Commons entre en fonction (1er avril)."}
+  - {annee: 2015, evenement: "Ordonnance établissant le conseil de Bodmin Moor (14 juillet)."}
+  - {annee: 2016, evenement: "Le conseil de Bodmin Moor entre en fonction (1er mars)."}
+fiabilite:
+  verifie: ["Texte des art. 26, 27, 31, 32 et 34 du Commons Act 2006 sur legislation.gov.uk.", "Composition, fonctions et procédure des règles des ordonnances de 2013 et 2015 (texte publié).", "Résultats des consultations, dates d'entrée en fonction et qualité de premier conseil de Brendon : notes explicatives du Defra.", "Art. 4 et 19 des statuts types de 2010 (redevances, majorité des deux tiers).", "Recherche par titre sur legislation.gov.uk : deux ordonnances d'établissement en Angleterre (Brendon 2013, Bodmin Moor 2015), aucune au pays de Galles (recherche dans les Welsh Statutory Instruments).", "Art. 35 (révocation des règles par le ministre) et 37 (révocation de l'ordonnance) du Commons Act 2006 ; absence de texte modificatif des deux ordonnances (liste des modifications sur legislation.gov.uk)."]
+  non_confirme: ["Fonctionnement actuel des deux conseils et règles adoptées : aucune source indépendante consultée.", "Surface des terres communes couvertes et nombre de titulaires de droits : aucune source trouvée.", "Suite donnée à la proposition de conseil en Cumbria : non documentée dans les sources consultées.", "Les conseils créés par des lois locales antérieures (par exemple le Dartmoor Commoners' Council, loi de 1985) relèvent d'un autre régime et ne sont pas comptés ici."]
+sources:
+  - {titre: "Commons Act 2006, partie 2 — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukpga/2006/26/part/2"}
+  - {titre: "Commons Councils (Standard Constitution) (England) Regulations 2010 — legislation.gov.uk", url: "https://www.legislation.gov.uk/uksi/2010/1204/made"}
+  - {titre: "Brendon Commons Council Establishment Order 2013 — legislation.gov.uk", url: "https://www.legislation.gov.uk/uksi/2013/2959/made"}
+  - {titre: "Note explicative de l'ordonnance de 2013 (Brendon) — Defra", url: "https://www.legislation.gov.uk/uksi/2013/2959/pdfs/uksiem_20132959_en.pdf"}
+  - {titre: "Bodmin Moor Commons Council Establishment Order 2015 — legislation.gov.uk", url: "https://www.legislation.gov.uk/uksi/2015/1515/made"}
+  - {titre: "Note explicative de l'ordonnance de 2015 (Bodmin Moor) — Defra", url: "https://www.legislation.gov.uk/uksi/2015/1515/pdfs/uksiem_20151515_en.pdf"}

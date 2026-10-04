@@ -1,0 +1,66 @@
+uid: "reserves-extractivistes-bresil"
+nom: "Réserves extractivistes (RESEX) du Brésil"
+endonyme: ""
+territoire: "98 réserves extractivistes fédérales, des États et municipale, surtout en Amazonie et sur le littoral"
+etats: ["Brésil"]
+region: "ameriques"
+coord: [-5.0, -55.0]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 98, unite: "réserves extractivistes inscrites au Cadastre national des unités de conservation (68 fédérales, 29 des États, 1 municipale)", annee: 2026, source: "https://dados.mma.gov.br/dataset/44b6dc8a-dc82-4a84-8d95-1b0da7c85dac/resource/72dd3d2d-3cca-4b97-b382-a1c90531e379/download/cnuc_2026_07.csv"}
+surface_km2: {valeur: 157628, annee: 2026, perimetre: "somme des surfaces des 98 réserves inscrites au Cadastre national des unités de conservation (CNUC), parties terrestres (148 988 km²) et marines (8 640 km²)", source: "https://dados.mma.gov.br/dataset/44b6dc8a-dc82-4a84-8d95-1b0da7c85dac/resource/72dd3d2d-3cca-4b97-b382-a1c90531e379/download/cnuc_2026_07.csv"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La réserve extractiviste (RESEX) est une catégorie d'aire protégée d'usage durable destinée aux populations extractivistes traditionnelles, qui vivent de la cueillette, de la pêche, d'une agriculture de subsistance et du petit élevage. La loi 7.804 de 1989 inscrit les réserves extractivistes parmi les espaces protégés que l'État peut créer (loi 6.938 de 1981, art. 9, VI) ; le décret 98.897 du 30 janvier 1990 les définit et la loi 9.985 de 2000 sur le Système national des unités de conservation (SNUC) les reprend. La terre reste du domaine public ; son usage est concédé gratuitement aux populations résidentes par un contrat de concession de droit réel d'usage (droit d'usage inscrit sur le bien). Chaque réserve est gérée par un conseil délibératif où siègent ces populations. Le Cadastre national des unités de conservation recense 98 réserves en juillet 2026.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Cinquième rapport national du Brésil à la Convention sur la diversité biologique (2015), section sur l'objectif national 18 (savoirs traditionnels) : les savoirs et pratiques traditionnels sont pris en compte dans l'élaboration et la mise en œuvre des plans de gestion des réserves extractivistes.", annee: 2015, source: "https://www.cbd.int/doc/world/br/br-nr-05-en.pdf"}
+base_nationale:
+  - {instrument: "Loi 6.938 du 31 août 1981 sur la politique nationale de l'environnement, art. 9, VI (rédaction de la loi 7.804 de 1989)", nature: "loi", annee: 1989, source: "https://www.planalto.gov.br/ccivil_03/leis/l6938.htm"}
+  - {instrument: "Décret 98.897 du 30 janvier 1990 sur les réserves extractivistes", nature: "loi", annee: 1990, source: "https://www.planalto.gov.br/ccivil_03/decreto/antigos/d98897.htm"}
+  - {instrument: "Loi 9.985 du 18 juillet 2000 instituant le Système national des unités de conservation (SNUC), art. 18 et 23", nature: "loi", annee: 2000, source: "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm"}
+  - {instrument: "Décret 4.340 du 22 août 2002 portant application de la loi 9.985 (conseils, contrat de concession)", nature: "loi", annee: 2002, source: "https://www.planalto.gov.br/ccivil_03/decreto/2002/d4340.htm"}
+  - {instrument: "Loi 11.284 du 2 mars 2006 sur la gestion des forêts publiques, art. 6", nature: "loi", annee: 2006, source: "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11284.htm"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi 9.985 de 2000 (art. 18, § 2) confie la gestion de chaque réserve à un conseil délibératif présidé par l'organe gestionnaire public et composé de représentants d'organes publics, de la société civile et des populations traditionnelles résidentes ; le décret 4.340 de 2002 confie la présidence au chef de l'unité, qui désigne les autres conseillers sur indication des secteurs représentés (art. 17), et attribue au conseil le suivi du plan de gestion et l'évaluation du budget de l'unité (art. 20).", source: "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le plan de gestion de la réserve est approuvé par le conseil délibératif (loi 9.985, art. 18, § 5), par résolution prise après approbation préalable de l'organe gestionnaire public (décret 4.340 de 2002, art. 12, II) ; toute activité contraire au plan est interdite dans l'unité (loi 9.985, art. 28).", source: "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La réserve est du domaine public, avec un usage concédé aux populations extractivistes traditionnelles (loi 9.985, art. 18, § 1) ; possession et usage sont régis par un contrat (art. 23) ; le décret 98.897 de 1990 (art. 4) prévoit une concession gratuite, résiliée en cas de dommage à l'environnement ou de cession entre vifs.", source: "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm"}
+  ressources: {valeur: "partiel", note: "La réserve a pour objet l'usage durable de ses ressources naturelles par les populations résidentes (loi 9.985, art. 18) ; l'exploitation minière et la chasse y sont interdites et l'exploitation commerciale du bois n'est admise qu'à titre complémentaire (art. 18, § 6 et § 7) ; la loi 11.284 de 2006 (art. 6) prévoit la destination gratuite de forêts publiques occupées par des communautés locales par la création de réserves extractivistes.", source: "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11284.htm"}
+  consentement: {valeur: "partiel", note: "La création d'une unité de conservation est précédée d'une consultation publique (loi 9.985, art. 22, § 2) ; la loi garantit la participation effective des populations locales à la création et à la gestion des unités (art. 5, III) et une large participation de la population résidente au plan de gestion des réserves extractivistes (art. 27, § 2) ; aucun consentement n'est requis.", source: "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En juillet 2026, le Cadastre national des unités de conservation (registre du ministère de l'Environnement) indique un conseil gestionnaire pour 80 des 98 réserves et un plan de gestion pour 52 d'entre elles. Dans la réserve d'État de Jaci-Paraná (Rondônia), l'agriculture et l'élevage occupent 74 % de la surface en 2022 contre 21 % en 2012, selon les données MapBiomas analysées par InfoAmazonia (2024) ; en 2016, le tribunal de justice de Rondônia a jugé inconstitutionnel un décret législatif de 2014 qui visait à supprimer la réserve.", source: "https://infoamazonia.org/2024/01/16/agropecuaria-ilegal-triplica-em-10-anos-na-resex-jaci-parana-em-rondonia/"}
+chronologie:
+  - {annee: 1989, evenement: "La loi 7.804 ajoute les réserves extractivistes aux espaces protégés de la politique nationale de l'environnement (loi 6.938, art. 9, VI)."}
+  - {annee: 1990, evenement: "Le décret 98.863 du 23 janvier crée la réserve extractiviste de l'Alto Juruá (Acre), 506 186 ha."}
+  - {annee: 1990, evenement: "Le décret 98.897 du 30 janvier définit les réserves extractivistes et la concession gratuite de droit réel d'usage."}
+  - {annee: 1990, evenement: "Création des réserves Chico Mendes (Acre), Rio Cajari (Amapá) et Rio Ouro Preto (Rondônia), en mars."}
+  - {annee: 2000, evenement: "La loi 9.985 intègre la réserve extractiviste au Système national des unités de conservation (art. 18)."}
+  - {annee: 2002, evenement: "Le décret 4.340 fixe les règles des conseils et du contrat de concession de droit réel d'usage."}
+  - {annee: 2006, evenement: "La loi 11.284 (art. 6) prévoit la destination des forêts publiques occupées par des communautés locales, notamment par la création de réserves extractivistes."}
+  - {annee: 2018, evenement: "Création de la Commission des réserves extractivistes fédérales (Conarex) par la portaria conjointe (arrêté commun) ICMBio-MMA 96."}
+  - {annee: 2023, evenement: "La portaria conjointe GM/MMA/ICMBio 525 du 21 juin 2023 institue la Commission nationale des réserves extractivistes fédérales (Conarex)."}
+fiabilite:
+  verifie: ["Loi 6.938 de 1981, art. 9, VI, dans la rédaction de la loi 7.804 de 1989.", "Texte des articles 5, 18, 22, 23, 27 et 28 de la loi 9.985 de 2000.", "Articles 1 à 5 du décret 98.897 de 1990.", "Articles 12, 13, 17 et 20 du décret 4.340 de 2002.", "Article 6 de la loi 11.284 de 2006.", "Date et surface du décret 98.863 de 1990 (Alto Juruá).", "Nombre, surfaces, conseils et plans de gestion des 98 réserves dans le CNUC de juillet 2026.", "Composition de la Conarex de 2018 (page de l'ICMBio, 2020) : 2 membres du MMA, 5 de l'ICMBio, 8 des organisations extractivistes ; attributions d'appui, de proposition et de suivi des politiques.", "Contrôle des 98 lignes du tableau sur le CNUC de juillet 2026 (nom, État, année, surface).", "Données MapBiomas sur Jaci-Paraná citées par InfoAmazonia (2024)."]
+  non_confirme: ["Population totale des réserves : l'ICMBio estime plus de 80 000 familles bénéficiaires pour environ 90 unités fédérales d'usage durable (réserves extractivistes, forêts nationales et réserves de développement durable confondues), sans chiffre propre aux réserves extractivistes.", "Nombre de contrats de concession de droit réel d'usage signés.", "Exhaustivité du CNUC pour les réserves créées par les États (Rondônia notamment).", "Composition et rôle de la Conarex instituée en 2023 (portaria conjointe 525) : texte non consulté ; la représentation des populations extractivistes au niveau fédéral reste donc non établie."]
+sources:
+  - {titre: "Loi 6.938 de 1981 sur la politique nationale de l'environnement — Planalto", url: "https://www.planalto.gov.br/ccivil_03/leis/l6938.htm"}
+  - {titre: "Loi 9.985 de 2000 (SNUC) — Planalto", url: "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm"}
+  - {titre: "Décret 98.897 de 1990 sur les réserves extractivistes — Planalto", url: "https://www.planalto.gov.br/ccivil_03/decreto/antigos/d98897.htm"}
+  - {titre: "Décret 98.863 de 1990 créant la réserve de l'Alto Juruá — Planalto", url: "https://www.planalto.gov.br/ccivil_03/decreto/1990-1994/d98863.htm"}
+  - {titre: "Décret 4.340 de 2002 — Planalto", url: "https://www.planalto.gov.br/ccivil_03/decreto/2002/d4340.htm"}
+  - {titre: "Loi 11.284 de 2006 sur les forêts publiques — Planalto", url: "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11284.htm"}
+  - {titre: "Cadastre national des unités de conservation, juillet 2026 — ministère de l'Environnement", url: "https://dados.mma.gov.br/dataset/44b6dc8a-dc82-4a84-8d95-1b0da7c85dac/resource/72dd3d2d-3cca-4b97-b382-a1c90531e379/download/cnuc_2026_07.csv"}
+  - {titre: "Populations traditionnelles — ICMBio", url: "https://www.gov.br/icmbio/pt-br/assuntos/populacoes-tradicionais/populacoes-tradicionais"}
+  - {titre: "Commission des réserves extractivistes fédérales (Conarex) — ICMBio", url: "https://www.gov.br/icmbio/pt-br/assuntos/populacoes-tradicionais/comissao-das-reservas-extrativistas-federais-conarex"}
+  - {titre: "Alerta Legislação nº 25, 19-24 juin 2023 (portaria conjointe GM/MMA/ICMBio 525) — Bibliothèque juridique de l'État de São Paulo", url: "https://www.bibliotecajuridica.sp.gov.br/wp-content/uploads/sites/5/2023/07/25-19-a-24-jun.-2023-AlertaLegislacao.pdf"}
+  - {titre: "InfoAmazonia, « Agropecuária ilegal triplica em 10 anos na Resex Jaci-Paraná, em Rondônia », 16 janvier 2024", url: "https://infoamazonia.org/2024/01/16/agropecuaria-ilegal-triplica-em-10-anos-na-resex-jaci-parana-em-rondonia/"}
+  - {titre: "Cinquième rapport national du Brésil à la CDB (2015)", url: "https://www.cbd.int/doc/world/br/br-nr-05-en.pdf"}
+  - {titre: "De Souza, « O contexto de regulamentação das reservas extrativistas no Brasil », OKARA, 2020", url: "https://periodicos.ufpb.br/index.php/okara/article/view/53889"}

@@ -1,0 +1,50 @@
+uid: "francophones-communaute-francaise-belgique"
+nom: "Francophones de Belgique"
+endonyme: ""
+territoire: "Région de langue française et institutions francophones de la région bilingue de Bruxelles-Capitale"
+etats: ["Belgique"]
+region: "europe"
+coord: [50.5, 4.6]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 3567294, annee: 2020, perimetre: "habitants de la région de langue française au 1er janvier, soit la population de la Région wallonne (3 645 243) moins celle de la Communauté germanophone (77 949) ; les francophones de Bruxelles-Capitale ne sont pas comptés, faute de recensement linguistique", source: "https://statbel.fgov.be/fr/themes/population/structure-de-la-population"}
+lieux: {valeur: 252, unite: "communes de la région de langue française", annee: 2024, perimetre: "253 communes après les fusions de 1977 (tableau de l'Université Laval), moins une après la fusion de Bastogne et de Bertogne, effective le 2 décembre 2024 (RTBF)", source: "https://www.axl.cefan.ulaval.ca/europe/belgiquefrn.htm"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution belge compte trois communautés, dont la Communauté française (art. 2), et quatre régions linguistiques, dont la région de langue française (art. 4). La Communauté française a un parlement de 94 membres et un gouvernement propres. Son parlement adopte des décrets (normes ayant force de loi) en matière culturelle, d'enseignement, de matières personnalisables (matières liées à la personne) et d'emploi des langues (art. 127 à 129). Ces décrets s'appliquent dans la région de langue française et aux institutions de Bruxelles-Capitale qui relèvent de cette seule communauté. Depuis 2011, la Communauté utilise le nom « Fédération Wallonie-Bruxelles ». La Communauté germanophone a sa propre fiche (« Communauté germanophone de Belgique »).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la Belgique coordonnée le 17 février 1994, art. 2, 4, 43, 54, 67, 99, 115, 121, 127 à 129, 138, 170 et 175", nature: "constitution", annee: 1994, source: "https://www.senate.be/doc/const_fr.html"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Parlement et gouvernement de la Communauté française, Constitution, art. 115 et 121 ; le parlement est composé de mandataires élus (art. 116) ; le gouvernement est élu par le parlement (art. 122).", source: "https://www.senate.be/doc/const_fr.html"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le parlement règle par décret les matières culturelles, l'enseignement et les matières personnalisables, y compris la coopération internationale et la conclusion de traités dans ces matières, Constitution, art. 127 et 128 ; il peut confier l'exercice de compétences à la Région wallonne et au groupe linguistique français du parlement bruxellois, art. 138.", source: "https://www.senate.be/doc/const_fr.html"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Les limites des régions linguistiques et les lois spéciales exigent une majorité dans chaque groupe linguistique des chambres fédérales, dont le groupe linguistique français, Constitution, art. 4 ; les trois quarts d'un groupe linguistique peuvent suspendre un projet de loi jugé contraire aux relations entre communautés (procédure dite de la « sonnette d'alarme »), art. 54 ; ces droits appartiennent aux élus fédéraux francophones, non aux organes de la Communauté.", source: "https://www.senate.be/doc/const_fr.html"}
+  langue: {valeur: "reconnu", note: "La région de langue française est une des quatre régions linguistiques, Constitution, art. 4 ; le parlement de la Communauté règle par décret, à l'exclusion du législateur fédéral, l'emploi des langues en matière administrative, dans l'enseignement et dans les relations de travail, art. 129, sauf dans les communes à facilités (communes où la loi admet une autre langue), pour les services dont l'activité dépasse la région et pour les institutions fédérales désignées par la loi ; ces décrets n'ont pas force de loi à Bruxelles-Capitale.", source: "https://www.senate.be/doc/const_fr.html"}
+  education: {valeur: "reconnu", note: "L'enseignement relève du parlement de la Communauté, sauf le début et la fin de l'obligation scolaire, les conditions minimales de délivrance des diplômes et le régime des pensions, Constitution, art. 127 § 1er, 2°.", source: "https://www.senate.be/doc/const_fr.html"}
+  fiscalite: {valeur: "partiel", note: "Un impôt au profit d'une communauté peut être établi par décret, Constitution, art. 170 § 2 ; le système de financement est fixé par une loi fédérale à majorité spéciale et le parlement de la Communauté règle par décret l'affectation de ses recettes, art. 175.", source: "https://www.senate.be/doc/const_fr.html"}
+  representation: {valeur: "reconnu", note: "Le parlement de la Communauté française désigne dix sénateurs, Constitution, art. 67 § 1er, 2° ; la Chambre et le Sénat ont un groupe linguistique français, art. 43 ; le Conseil des ministres compte autant de ministres d'expression française que d'expression néerlandaise, Premier ministre excepté, art. 99.", source: "https://www.senate.be/doc/const_fr.html"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "L'Université Laval recense des décrets adoptés par la Communauté en matière de langue et d'enseignement : décret sur la défense de la langue française (1978), décret relatif aux langues régionales endogènes (1990), décret portant organisation de l'enseignement maternel et primaire (1998) ; elle signale aussi l'annulation du décret de 1982 sur l'emploi des langues dans les relations de travail.", source: "https://www.axl.cefan.ulaval.ca/europe/belgiquefrn.htm"}
+chronologie:
+  - {annee: 1963, evenement: "Loi du 30 juillet 1963 concernant le régime linguistique dans l'enseignement."}
+  - {annee: 1970, evenement: "Première réforme de l'État : création des communautés culturelles, dont la communauté culturelle française."}
+  - {annee: 1980, evenement: "Lois de réformes institutionnelles : la Communauté française reçoit un conseil et un exécutif."}
+  - {annee: 1994, evenement: "Constitution coordonnée du 17 février 1994 : art. 2, 4, 115, 121 et 127 à 129."}
+  - {annee: 2011, evenement: "Résolution du parlement sur l'usage de la dénomination « Fédération Wallonie-Bruxelles » (25 mai)."}
+  - {annee: 2014, evenement: "Réforme du Sénat : le parlement de la Communauté française désigne dix sénateurs (art. 67)."}
+fiabilite:
+  verifie: ["Constitution belge, art. 2, 4, 43, 54, 67, 99, 115, 116, 121, 122, 127 à 129, 138, 170 et 175 (texte coordonné du Sénat).", "Parlement de 94 sièges (site du Parlement de la Fédération Wallonie-Bruxelles).", "Tableau des fusions de communes : 253 communes francophones en 1977 (Université Laval).", "Fusion de Bastogne et de Bertogne effective le 2 décembre 2024 (RTBF).", "Populations de la Région wallonne et de la Communauté germanophone au 1er janvier 2020 (Statbel).", "Dénomination « Fédération Wallonie-Bruxelles » depuis le 25 mai 2011 (Université Laval)."]
+  non_confirme: ["Population : chiffre obtenu par soustraction de deux chiffres Statbel de 2020 ; pas de donnée plus récente consultée.", "Nombre de communes : 252, chiffre obtenu en retirant de 253 (tableau des fusions de 1977, Université Laval) la fusion de Bastogne et de Bertogne du 2 décembre 2024 (RTBF) ; aucune liste officielle des communes de 2025 consultée.", "Surface de la région de langue française : aucune source chiffrée consultée.", "Dates de 1970 et 1980 tirées de l'historique courant, non vérifiées sur texte primaire.", "Aucune reconnaissance onusienne ou régionale nommant la Communauté française n'a été vérifiée ; la Belgique n'a pas ratifié la Convention-cadre pour la protection des minorités nationales (non vérifié sur le site du Conseil de l'Europe)."]
+sources:
+  - {titre: "Constitution belge (texte coordonné) — Sénat de Belgique", url: "https://www.senate.be/doc/const_fr.html"}
+  - {titre: "La composition du parlement — Parlement de la Fédération Wallonie-Bruxelles", url: "https://www.pfwb.be/la-composition-du-parlement"}
+  - {titre: "Structure de la population — Statbel", url: "https://statbel.fgov.be/fr/themes/population/structure-de-la-population"}
+  - {titre: "Belgique : la Communauté française — L'aménagement linguistique dans le monde (Université Laval)", url: "https://www.axl.cefan.ulaval.ca/europe/belgiquefrn.htm"}
+  - {titre: "Fusion Bastogne-Bertogne : la Wallonie souhaite que d'autres communes suivent — RTBF", url: "https://www.rtbf.be/article/fusion-bastogne-bertogne-la-wallonie-souhaite-que-d-autres-communes-suivent-11471207"}

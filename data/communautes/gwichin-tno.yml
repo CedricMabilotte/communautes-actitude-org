@@ -1,0 +1,60 @@
+uid: "gwichin-tno"
+nom: "Gwich'in des Territoires du Nord-Ouest"
+endonyme: "Gwich'in"
+territoire: "Région désignée des Gwich'in (Gwich'in Settlement Area) : Aklavik, Fort McPherson, Inuvik et Tsiigehtchic (Territoires du Nord-Ouest)"
+etats: ["Canada"]
+region: "ameriques"
+coord: [67.6, -134.3]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 3440, annee: null, perimetre: "Gwich'in vivant dans les Territoires du Nord-Ouest, principalement dans les quatre collectivités (chiffre du Conseil tribal des Gwich'in, non daté)", source: "https://gwichin.ca/about-the-gwichin"}
+lieux: {valeur: 4, unite: "conseils gwich'in de collectivité (Ehdiitat, Gwichya, Tetl'it, Nihtat)", annee: 2025, source: "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/gwichin"}
+surface_km2: {valeur: 22329, annee: 1992, perimetre: "terres gwich'in en pleine propriété dans les T.N.-O. (16 264 + 4 299 + 1 766 km²), dont 6 065 km² avec le sous-sol ; hors 1 554 km² de terres des Tetlit Gwich'in au Yukon", source: "https://www.eia.gov.nt.ca/sites/eia/files/gwichin_comprehensive_land_claim_1.pdf"}
+villages: {valeur: 4, annee: 1992, perimetre: "collectivités gwich'in définies par l'Entente (art. 2.1.1) : Inuvik, Aklavik, Arctic Red River (aujourd'hui Tsiigehtchic) et Fort McPherson", source: "https://www.eia.gov.nt.ca/sites/eia/files/gwichin_comprehensive_land_claim_1.pdf"}
+resume: >-
+  Les Gwich'in, aussi appelés Loucheux dans les textes anciens, vivent au nord-ouest des Territoires du Nord-Ouest, autour du delta du Mackenzie, ainsi qu'au Yukon et en Alaska. L'Entente sur la revendication territoriale globale, signée le 22 avril 1992 entre le Canada et les Gwich'in représentés par le Conseil tribal des Gwich'in, est entrée en vigueur le 22 décembre 1992. Elle attribue au Conseil tribal le titre sur 22 329 km² de terres, dont 6 065 km² avec le sous-sol, des droits de récolte, une part des redevances sur les ressources et des sièges dans les offices de gestion des terres, des eaux et de la faune. L'autonomie gouvernementale n'est pas encore conclue : un accord est en négociation depuis l'accord de processus de 2007.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Canada a appuyé la Déclaration en 2010, en revenant sur sa position antérieure (rapport du Rapporteur spécial A/HRC/27/52/Add.2, § 11) ; la loi fédérale de 2021 (L.C. 2021, ch. 14) en fait une source d'interprétation du droit canadien.", annee: 2010, source: "https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/SR/A.HRC.27.52.Add.2-MissionCanada_AUV.pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport sur la mission au Canada (A/HRC/27/52/Add.2), § 41 : négociations d'autonomie gouvernementale engagées en 1996 par le Conseil tribal des Gwich'in avec les Inuvialuit ; accord de principe d'avril 2003 rejeté ensuite par le Conseil tribal ; négociations reprises à des tables séparées.", annee: 2014, source: "https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/SR/A.HRC.27.52.Add.2-MissionCanada_AUV.pdf"}
+base_nationale:
+  - {instrument: "Entente sur la revendication territoriale globale des Gwich'in (Gwich'in Comprehensive Land Claim Agreement)", nature: "accord_revendication", annee: 1992, source: "https://www.eia.gov.nt.ca/sites/eia/files/gwichin_comprehensive_land_claim_1.pdf"}
+  - {instrument: "Loi sur le règlement de la revendication territoriale des Gwich'in (L.C. 1992, ch. 53)", nature: "loi", annee: 1992, source: "https://lois-laws.justice.gc.ca/fra/lois/G-11.8/page-1.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Conseil tribal des Gwich'in représente les Gwich'in, détient le titre des terres (Loi de 1992, art. 4(3)) et en gère l'usage, Entente, art. 18.1.6 ; l'Entente prévoit seulement la négociation d'accords d'autonomie gouvernementale (chapitre 5), toujours en cours selon le gouvernement des T.N.-O. (2025).", source: "https://www.eia.gov.nt.ca/sites/eia/files/gwichin_comprehensive_land_claim_1.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Titre en pleine propriété (fee simple, propriété sans réserve) sur 22 329 km² dans les T.N.-O., dévolu au Conseil tribal des Gwich'in, Entente, art. 18.1.2 et 18.1.4 ; ces terres ne peuvent être cédées qu'à l'État en échange d'autres terres ou à une organisation gwich'in, ni saisies ni hypothéquées, art. 18.1.5, 18.1.7 et 18.1.8.", source: "https://www.eia.gov.nt.ca/sites/eia/files/gwichin_comprehensive_land_claim_1.pdf"}
+  ressources: {valeur: "reconnu", note: "Titre sur le sous-sol de 6 065 km² de terres gwich'in et sur le seul sous-sol de 93 km² supplémentaires, art. 18.1.2 b) et c) ; droit de récolter toutes les espèces sauvages dans la région désignée en toute saison, sous réserve des limites prévues par l'Entente, art. 12.4.1 ; versement annuel de 7,5 % des premiers 2 millions de dollars de redevances perçues par l'État et de 1,5 % au-delà, art. 9.1.1.", source: "https://www.eia.gov.nt.ca/sites/eia/files/gwichin_comprehensive_land_claim_1.pdf"}
+  consentement: {valeur: "partiel", note: "Consultation obligatoire du Conseil tribal avant l'ouverture de terres à l'exploration pétrolière et gazière et avant l'exploration ou la production minière, art. 21.1.2 à 21.1.5 ; nombre égal de membres proposés par le Conseil tribal et par l'État à l'office d'aménagement et à l'office des terres et des eaux, art. 24.2.2 et 24.4.7 ; aucun droit de refus.", source: "https://www.eia.gov.nt.ca/sites/eia/files/gwichin_comprehensive_land_claim_1.pdf"}
+  langue: {valeur: "partiel", note: "Le gwich'in est l'une des onze langues officielles des Territoires du Nord-Ouest, Loi sur les langues officielles (LRTNO 1988, ch. O-1), art. 4, dans la mesure prévue par la loi, art. 5 ; chacun peut l'employer devant les tribunaux territoriaux, art. 9(2), mais les décisions sont rendues en français et en anglais, art. 10(1) ; l'Entente ne confère pas de pouvoir propre en matière de langue.", source: "https://www.justice.gov.nt.ca/en/files/legislation/official-languages/official-languages.a.pdf"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Inscription des participants (bénéficiaires) de nationalité canadienne selon l'ascendance gwich'in ou l'acceptation par les Gwich'in d'une personne autochtone résidant dans la région, Entente, art. 4.1.1 et 4.2 ; le statut ouvre les droits de l'Entente, sans citoyenneté propre.", source: "https://www.eia.gov.nt.ca/sites/eia/files/gwichin_comprehensive_land_claim_1.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune évaluation indépendante de l'application des droits fonciers et de récolte n'a été trouvée. Le Rapporteur spécial des Nations unies note en 2014 que l'accord de principe d'autonomie gouvernementale de 2003 a été rejeté par le Conseil tribal et que les négociations ont repris séparément (A/HRC/27/52/Add.2, § 41) ; selon le gouvernement des T.N.-O., elles sont toujours en cours (page mise à jour le 26 février 2025).", source: "https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/SR/A.HRC.27.52.Add.2-MissionCanada_AUV.pdf"}
+chronologie:
+  - {annee: 1921, evenement: "Signature du Traité 11 à Arctic Red River (Tsiigehtchic) le 26 juillet et à Fort McPherson le 28 juillet avec des chefs gwich'in."}
+  - {annee: 1991, evenement: "Les Gwich'in ratifient le texte de l'Entente par un vote tenu du 16 au 20 septembre."}
+  - {annee: 1992, evenement: "Signature de l'Entente le 22 avril ; loi fédérale sanctionnée le 17 décembre, en vigueur le 22 décembre."}
+  - {annee: 1996, evenement: "Début des négociations d'autonomie gouvernementale, menées avec les Inuvialuit."}
+  - {annee: 2003, evenement: "Accord de principe conjoint avec les Inuvialuit, rejeté ensuite par le Conseil tribal des Gwich'in."}
+  - {annee: 2007, evenement: "Accord sur le processus et le calendrier des négociations d'autonomie gouvernementale."}
+  - {annee: 2019, evenement: "Accord modificatif retirant le Conseil des Nihtat Gwich'in (Inuvik) des négociations ; il les a rejointes depuis."}
+fiabilite:
+  verifie: ["Entente de 1992, art. 4.1.1, 4.2, 5.1, 9.1.1, 12.4.1, 18.1.2 à 18.1.8, 21.1.2 à 21.1.5, 24.2.2, 24.4.7 et préambule (PDF publié par le gouvernement des T.N.-O.).", "Loi L.C. 1992, ch. 53 : approbation de l'Entente, titre dévolu au Conseil tribal (art. 4(3)), sanction le 17 décembre 1992, entrée en vigueur le 22 décembre 1992 (Justice Canada).", "État des négociations d'autonomie gouvernementale et liste des quatre conseils de collectivité (page du ministère exécutif des T.N.-O., 2025).", "Loi sur les langues officielles des T.N.-O., art. 4, 5, 9(2) et 10(1) (texte codifié publié par le ministère de la Justice des T.N.-O.).", "Rapport du Rapporteur spécial A/HRC/27/52/Add.2, § 11 et § 41."]
+  non_confirme: ["Population : chiffre de 3 440 publié par le Conseil tribal sans année ni méthode ; nombre de participants inscrits non trouvé.", "Superficie totale de la région désignée des Gwich'in : non trouvée sur une source ouverte."]
+sources:
+  - {titre: "Gwich'in Comprehensive Land Claim Agreement, volume I (PDF) — Gouvernement des T.N.-O.", url: "https://www.eia.gov.nt.ca/sites/eia/files/gwichin_comprehensive_land_claim_1.pdf"}
+  - {titre: "Loi sur le règlement de la revendication territoriale des Gwich'in (L.C. 1992, ch. 53) — Justice Canada", url: "https://lois-laws.justice.gc.ca/fra/lois/G-11.8/page-1.html"}
+  - {titre: "Gwich'in (Regional) — Ministère exécutif et des Affaires autochtones des T.N.-O.", url: "https://www.eia.gov.nt.ca/en/priorities/concluding-and-implementing-land-and-resources-and-self-government-agreements/gwichin"}
+  - {titre: "About the Gwich'in — Conseil tribal des Gwich'in, département du patrimoine culturel", url: "https://gwichin.ca/about-the-gwichin"}
+  - {titre: "About — Conseil tribal des Gwich'in, département du patrimoine culturel", url: "https://gwichin.ca/about"}
+  - {titre: "Territoires du Nord-Ouest — L'aménagement linguistique dans le monde, Université Laval", url: "https://www.axl.cefan.ulaval.ca/amnord/tno.htm"}
+  - {titre: "Gwich'in Renewable Resources Board", url: "https://grrb.nt.ca/"}
+  - {titre: "Gwich'in Land Use Planning Board", url: "https://www.gwichinplanning.nt.ca/"}
+  - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones : la situation des peuples autochtones au Canada (A/HRC/27/52/Add.2), 2014 — HCDH", url: "https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/SR/A.HRC.27.52.Add.2-MissionCanada_AUV.pdf"}
+  - {titre: "Loi sur les langues officielles (LRTNO 1988, ch. O-1) — Ministère de la Justice des T.N.-O.", url: "https://www.justice.gov.nt.ca/en/files/legislation/official-languages/official-languages.a.pdf"}
+  - {titre: "Loi sur la Déclaration des Nations Unies sur les droits des peuples autochtones (L.C. 2021, ch. 14) — Justice Canada", url: "https://lois-laws.justice.gc.ca/fra/lois/U-2.2/page-1.html"}

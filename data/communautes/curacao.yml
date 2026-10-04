@@ -1,0 +1,57 @@
+uid: "curacao"
+nom: "Curaçao"
+endonyme: "Kòrsou"
+territoire: "Curaçao et Klein Curaçao (Royaume des Pays-Bas)"
+etats: ["Pays-Bas"]
+region: "ameriques"
+coord: [12.2, -69.0]
+type: "collectivite_autonome"
+types_secondaires: ["collectivite_insulaire_ou_regionale"]
+base: "territoriale"
+population: {valeur: 158006, annee: 2026, perimetre: "population inscrite au registre de la population (Kranshi) au 1er janvier 2026", source: "https://cuatro.sim-cdn.nl/cbscuracao/uploads/Population%20of%20Cura%C3%A7ao%20per%20January%201st%202026.pdf?cb=rc5PK3Kr"}
+lieux: {valeur: 2, unite: "îles (Curaçao et Klein Curaçao)", annee: 2010, source: "https://algemenerekenkamercuracao.cw/wp-content/uploads/2023/09/staatsregeling_curacao__ab_2010_no__86__1475286399.pdf"}
+surface_km2: {valeur: 444, annee: 2024, perimetre: "île de Curaçao ; Klein Curaçao, inhabitée, couvre 1,7 km²", source: "https://www.axl.cefan.ulaval.ca/amsudant/Curacao.htm"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Curaçao est l'un des quatre pays (landen) du Royaume des Pays-Bas depuis le 10 octobre 2010, date de la dissolution des Antilles néerlandaises. Le Statut du Royaume (art. 41) lui confie la gestion autonome de ses propres affaires ; la défense, les relations extérieures et la nationalité restent des affaires du Royaume (art. 3). La Staatsregeling (constitution du pays, AB 2010, n° 86) institue un Parlement de vingt et un membres (Staten) et un gouvernement propre, et son préambule déclare « absolu et inaliénable » le droit à l'autodétermination du peuple de Curaçao.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité des droits de l'homme sur le cinquième rapport des Pays-Bas (CCPR/C/NLD/CO/5), § 5 et 12 : le Comité relève que Curaçao est un pays constitutif autonome depuis la réforme de 2010 et recommande d'y créer une institution nationale des droits de l'homme.", annee: 2019, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/NLD/CO/5&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Statut pour le Royaume des Pays-Bas (Statuut voor het Koninkrijk der Nederlanden, 1954), art. 1, 3, 7, 10, 12, 41, 43, 44 et 55, rédaction issue de la réforme du 10 octobre 2010", nature: "constitution", annee: 1954, source: "https://wetten.overheid.nl/BWBR0002154/"}
+  - {instrument: "Staatsregeling van Curaçao (Afkondigingsblad 2010, n° 86)", nature: "statut_autonomie", annee: 2010, source: "https://algemenerekenkamercuracao.cw/wp-content/uploads/2023/09/staatsregeling_curacao__ab_2010_no__86__1475286399.pdf"}
+  - {instrument: "Rijkswet financieel toezicht Curaçao en Sint Maarten (loi du Royaume sur la surveillance financière)", nature: "loi", annee: 2010, source: "https://www.cft.cw/over-het-cft"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les Staten représentent l'ensemble du peuple de Curaçao ; vingt et un membres élus pour quatre ans au suffrage direct et à la proportionnelle (Staatsregeling, art. 39 à 43) ; le Statut prévoit que Curaçao gère de manière autonome ses propres affaires (art. 41).", source: "https://algemenerekenkamercuracao.cw/wp-content/uploads/2023/09/staatsregeling_curacao__ab_2010_no__86__1475286399.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Les ordonnances du pays (landsverordeningen) sont adoptées conjointement par le gouvernement et les Staten (Staatsregeling, art. 74) ; le Roi peut suspendre ou annuler une mesure contraire au Statut, à un traité ou à une loi du Royaume (Statut, art. 50).", source: "https://algemenerekenkamercuracao.cw/wp-content/uploads/2023/09/staatsregeling_curacao__ab_2010_no__86__1475286399.pdf"}
+  justice_propre: {valeur: "partiel", note: "Les juridictions sont le Tribunal de première instance de Curaçao et la Cour de justice (Hof van Justitie), organisée par une règle commune avec les autres pays du Royaume ; la compétence du Hoge Raad des Pays-Bas est fixée par une loi du Royaume (Staatsregeling, art. 98).", source: "https://algemenerekenkamercuracao.cw/wp-content/uploads/2023/09/staatsregeling_curacao__ab_2010_no__86__1475286399.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "reconnu", note: "Une modification du Statut adoptée par les États généraux ne peut être sanctionnée qu'après son acceptation par Curaçao, par ordonnance du pays votée en deux lectures (Statut, art. 55, al. 2) ; le ministre plénipotentiaire peut s'opposer à une mesure du Royaume qui nuirait gravement au pays, sauf si le lien du pays avec le Royaume s'y oppose (art. 12).", source: "https://wetten.overheid.nl/BWBR0002154/"}
+  langue: {valeur: "reconnu", note: "L'ordonnance du pays sur les langues officielles (Landsverordening officiële talen, 2007) fait du papiamento, du néerlandais et de l'anglais les langues officielles ; la Staatsregeling de 2010 ne contient pas de disposition linguistique.", source: "https://www.axl.cefan.ulaval.ca/amsudant/Curacao.htm"}
+  education: {valeur: "reconnu", note: "L'enseignement fait l'objet du soin constant du gouvernement du pays, qui rend compte chaque année de son état aux Staten ; l'enseignement public, les exigences de qualité et le financement de l'enseignement privé sont fixés par ordonnance du pays (Staatsregeling, art. 21).", source: "https://algemenerekenkamercuracao.cw/wp-content/uploads/2023/09/staatsregeling_curacao__ab_2010_no__86__1475286399.pdf"}
+  fiscalite: {valeur: "partiel", note: "Les impôts et le budget du pays sont fixés par ordonnance du pays (Staatsregeling, art. 84 et 85) ; depuis 2010, le Collège de surveillance financière (Cft), dont les membres sont nommés par le Conseil des ministres du Royaume, examine l'ensemble du processus budgétaire au regard des normes de la loi du Royaume sur la surveillance financière de Curaçao et de Sint-Maarten, avec un rôle de signalement et de conseil.", source: "https://www.cft.cw/over-het-cft"}
+  representation: {valeur: "partiel", note: "Un ministre plénipotentiaire nommé par le gouvernement de Curaçao siège au Conseil des ministres du Royaume et participe aux délibérations sur les affaires du Royaume qui concernent le pays (Statut, art. 7 et 10) ; aucun siège n'est réservé à Curaçao aux États généraux.", source: "https://wetten.overheid.nl/BWBR0002154/"}
+  statut_personnel: {valeur: "partiel", note: "L'ordonnance du pays sur l'admission et l'expulsion (Landsverordening toelating en uitzetting, texte consolidé PB 2010, n° 5) exempte de ses règles les Néerlandais nés à Curaçao et leurs enfants (art. 1) ; les autres Néerlandais majeurs n'ont droit au séjour qu'en justifiant d'un certificat de bonne conduite, d'un logement et de moyens d'existence (art. 3) ; la nationalité reste une affaire du Royaume (Statut, art. 3).", source: "https://gobiernu.cw/wp-content/uploads/2019/07/Landsverordening_Toelating_en_Uitzetting.pdf"}
+  autodetermination_externe: {valeur: "partiel", note: "Le préambule de la Staatsregeling déclare : « Le droit à l'autodétermination du peuple de Curaçao est absolu et inaliénable. Le peuple a le dernier mot dans l'exercice de ce droit sacré » ; aucun article de la Staatsregeling ni du Statut ne fixe de procédure de sortie du Royaume ; les Staten peuvent organiser un référendum consultatif par ordonnance du pays (art. 60).", source: "https://algemenerekenkamercuracao.cw/wp-content/uploads/2023/09/staatsregeling_curacao__ab_2010_no__86__1475286399.pdf"}
+effectivite: {valeur: "partielle", note: "Le Parlement et le gouvernement de Curaçao exercent leurs compétences depuis 2010 ; le budget du pays reste soumis à l'examen du Collège de surveillance financière, institué par une loi du Royaume, et le Comité des droits de l'homme relevait en 2019 des lacunes dans le cadre législatif et institutionnel de protection des droits dans les pays caribéens du Royaume.", source: "https://documents.un.org/api/symbol/access?s=CCPR/C/NLD/CO/5&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1954, evenement: "Entrée en vigueur du Statut du Royaume ; Curaçao fait partie du pays des Antilles néerlandaises."}
+  - {annee: 1993, evenement: "Référendum du 19 novembre sur le statut de l'île : majorité pour le maintien dans des Antilles néerlandaises restructurées."}
+  - {annee: 2005, evenement: "Référendum du 8 avril : près de 68 % des votants choisissent un statut de pays autonome au sein du Royaume."}
+  - {annee: 2009, evenement: "Référendum du 15 mai : 52 % des votants approuvent les accords sur le nouveau statut de pays autonome."}
+  - {annee: 2010, evenement: "4 septembre : le conseil insulaire adopte le projet de Staatsregeling (AB 2010, n° 86)."}
+  - {annee: 2010, evenement: "10 octobre : dissolution des Antilles néerlandaises ; Curaçao devient un pays du Royaume des Pays-Bas."}
+fiabilite:
+  verifie: ["Staatsregeling (AB 2010, n° 86), copie publiée par la Cour des comptes de Curaçao : préambule, art. 1, 21, 39 à 43, 60, 74, 84, 85, 97, 98 et 112.", "Statut du Royaume, texte en vigueur sur wetten.overheid.nl : art. 1, 3, 7, 10, 12, 38, 41, 43, 44, 50, 51 et 55.", "CCPR/C/NLD/CO/5 (2019), § 5 et 12.", "Population au 1er janvier 2026 : Bureau central de la statistique de Curaçao.", "Landsverordening toelating en uitzetting, texte consolidé PB 2010, n° 5 : art. 1 et 3.", "Cft : rôle de signalement et de conseil sur le processus budgétaire."]
+  non_confirme: ["La copie numérisée de la Staatsregeling date de 2010 ; les modifications ultérieures n'ont pas été vérifiées et la numérotation des articles peut avoir changé.", "Le droit à l'autodétermination externe est classé « partiel » sur la seule base du préambule, sans procédure écrite de sortie du Royaume.", "Surface, loi linguistique de 2007 et référendum de 2009 vérifiés sur une source universitaire (Université Laval, page mise à jour en janvier 2024), pas sur le texte officiel.", "Les modifications de la loi sur l'admission et l'expulsion postérieures au texte consolidé de 2010 n'ont pas été vérifiées."]
+sources:
+  - {titre: "Staatsregeling van Curaçao, AB 2010, n° 86 — Algemene Rekenkamer Curaçao", url: "https://algemenerekenkamercuracao.cw/wp-content/uploads/2023/09/staatsregeling_curacao__ab_2010_no__86__1475286399.pdf"}
+  - {titre: "Staatsregeling van Curaçao — Dutch Caribbean Law", url: "https://dutchcariblaw.nl/lv/staatsregeling-van-curacao/"}
+  - {titre: "Statuut voor het Koninkrijk der Nederlanden — wetten.overheid.nl", url: "https://wetten.overheid.nl/BWBR0002154/"}
+  - {titre: "CCPR/C/NLD/CO/5 (2019) — Nations unies", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/NLD/CO/5&l=fr&t=pdf"}
+  - {titre: "Population of Curaçao per January 1st, 2026 — Central Bureau of Statistics Curaçao", url: "https://cuatro.sim-cdn.nl/cbscuracao/uploads/Population%20of%20Cura%C3%A7ao%20per%20January%201st%202026.pdf?cb=rc5PK3Kr"}
+  - {titre: "Landsverordening toelating en uitzetting, texte consolidé PB 2010, n° 5 — Gouvernement de Curaçao", url: "https://gobiernu.cw/wp-content/uploads/2019/07/Landsverordening_Toelating_en_Uitzetting.pdf"}
+  - {titre: "Colleges financieel toezicht — Cft", url: "https://www.cft.cw/over-het-cft"}
+  - {titre: "Curaçao — L'aménagement linguistique dans le monde, Université Laval", url: "https://www.axl.cefan.ulaval.ca/amsudant/Curacao.htm"}
+  - {titre: "De Nederlandse Caraïben vijftien jaar na de staatskundige hervorming — CBS", url: "https://www.cbs.nl/nl-nl/longread/diversen/2025/de-nederlandse-caraiben-vijftien-jaar-na-de-staatskundige-hervorming/1-inleiding"}

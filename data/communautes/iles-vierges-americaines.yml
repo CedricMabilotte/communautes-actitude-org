@@ -1,0 +1,63 @@
+uid: "iles-vierges-americaines"
+nom: "Peuple des Îles Vierges des États-Unis"
+endonyme: "Virgin Islanders"
+territoire: "Îles Vierges américaines"
+etats: ["États-Unis"]
+region: "ameriques"
+coord: [17.7, -64.8]
+type: "peuple_territoire_non_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 87146, annee: 2020, perimetre: "population du territoire (recensement des États-Unis)", source: "https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/us-virgin-islands/population-and-housing-unit-counts/us-virgin-islands-phc-table01.csv"}
+lieux: {valeur: 20, unite: "subdivisions de recensement (subdistricts) réparties sur trois îles", annee: 2020, source: "https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/us-virgin-islands/population-and-housing-unit-counts/us-virgin-islands-phc-table01.csv"}
+surface_km2: {valeur: 352, annee: 2026, perimetre: "superficie du territoire (quatre îles principales : Sainte-Croix, Saint-John, Saint-Thomas, Water Island)", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/16&l=fr&t=pdf"}
+villages: {valeur: 10, annee: 2020, perimetre: "villes (towns) et localités désignées du recensement (CDP) : 3 villes et 7 CDP", source: "https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/us-virgin-islands/population-and-housing-unit-counts/us-virgin-islands-phc-table01.csv"}
+resume: >-
+  Territoire non incorporé (non intégré à l'Union au sens constitutionnel) des États-Unis, cédé par le Danemark en 1917 et organisé par la loi organique révisée de 1954 (Revised Organic Act). Le territoire élit un Sénat de 15 membres, un gouverneur depuis 1970 et un délégué sans droit de vote à la Chambre des représentants ; les relations du territoire avec le gouvernement fédéral relèvent de la supervision administrative générale du secrétaire à l'Intérieur. Le Congrès a autorisé en 1976 l'adoption d'une constitution locale ; cinq tentatives n'ont pas abouti et une sixième Assemblée constituante siège depuis 2025. Le territoire figure sur la liste des territoires non autonomes de l'ONU.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "liste_tna", detail: "Résolution 80/103 « Question des Îles Vierges américaines » : réaffirme le droit du peuple des Îles Vierges américaines à l'autodétermination et prie la puissance administrante d'informer le Comité spécial des travaux de la sixième Assemblée constituante", annee: 2025, source: "https://documents.un.org/api/symbol/access?s=A/RES/80/103&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Revised Organic Act of the Virgin Islands (48 U.S.C. § 1541 et suiv.)", nature: "loi_organique", annee: 1954, source: "https://www.law.cornell.edu/uscode/text/48/1541"}
+  - {instrument: "Legislature of the Virgin Islands, 48 U.S.C. § 1571 (législature monocamérale élue)", nature: "loi_organique", annee: 1954, source: "https://www.law.cornell.edu/uscode/text/48/1571"}
+  - {instrument: "Virgin Islands Elective Governor Act (Pub. L. 90-496), 48 U.S.C. § 1591", nature: "loi", annee: 1968, source: "https://www.law.cornell.edu/uscode/text/48/1591"}
+  - {instrument: "Territorial Submerged Lands Act, 48 U.S.C. § 1705", nature: "loi", annee: 1974, source: "https://www.law.cornell.edu/uscode/text/48/1705"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Législature monocamérale élue (48 U.S.C. § 1571) et gouverneur élu depuis 1970 (48 U.S.C. § 1591) ; les relations avec le gouvernement fédéral relèvent de la supervision administrative générale du secrétaire à l'Intérieur (48 U.S.C. § 1541 c).", source: "https://www.law.cornell.edu/uscode/text/48/1541"}
+  pouvoir_normatif: {valeur: "partiel", note: "La législature légifère sur « tous les objets légitimes de législation » compatibles avec la loi organique et les lois fédérales applicables (48 U.S.C. § 1574 a), sous réserve du pouvoir du Congrès d'annuler ses lois (§ 1574 c).", source: "https://www.law.cornell.edu/uscode/text/48/1574"}
+  justice_propre: {valeur: "partiel", note: "La législature peut créer une cour d'appel et des juridictions locales et leur attribuer compétence sur toutes les causes non réservées aux juridictions fédérales, le tribunal de district fédéral gardant une compétence concurrente (48 U.S.C. § 1611, version de 1984).", source: "https://www.law.cornell.edu/uscode/text/48/1611"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Les terres submergées jusqu'à trois milles marins sont transférées au gouvernement du territoire, à administrer « en fiducie au profit de sa population » ; l'État fédéral conserve notamment les gisements de pétrole, de gaz et de minéraux et les fonds du parc national (48 U.S.C. § 1705, 1974).", source: "https://www.law.cornell.edu/uscode/text/48/1705"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les résidents permanents acquittent l'impôt fédéral sur le revenu auprès du trésor des Îles Vierges, qui reçoit aussi les droits de douane ; la législature affecte ces fonds (48 U.S.C. § 1642).", source: "https://www.law.cornell.edu/uscode/text/48/1642"}
+  representation: {valeur: "partiel", note: "Un délégué sans droit de vote (nonvoting Delegate) à la Chambre des représentants (48 U.S.C. § 1711, 1972).", source: "https://www.law.cornell.edu/uscode/text/48/1711"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le document de travail du Secrétariat de 2026 indique que la loi organique n'a pas été révisée depuis 1954 et que les cinq tentatives d'adopter une constitution locale n'ont pas abouti. L'Assemblée générale constatait en 2024 que le territoire n'avait plus participé aux travaux du Comité spécial depuis 2019 (résolution 79/112) et salue sa reprise en 2025 (résolution 80/103).", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/16&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1917, evenement: "Le Danemark transfère les Antilles danoises aux États-Unis le 31 mars."}
+  - {annee: 1936, evenement: "Première loi organique des Îles Vierges."}
+  - {annee: 1954, evenement: "Loi organique révisée du 22 juillet : territoire non incorporé doté d'une législature monocamérale."}
+  - {annee: 1968, evenement: "Elective Governor Act ; premier gouverneur élu le 3 novembre 1970."}
+  - {annee: 1972, evenement: "Création d'un siège de délégué à la Chambre des représentants."}
+  - {annee: 1976, evenement: "Pub. L. 94-584 : le Congrès autorise l'adoption d'une constitution locale."}
+  - {annee: 1993, evenement: "Référendum sur le statut politique du 11 octobre, invalidé faute d'atteindre la participation de 50 % exigée par la loi électorale locale (27 %)."}
+  - {annee: 2007, evenement: "Entrée en fonctions de la Cour suprême des Îles Vierges."}
+  - {annee: 2010, evenement: "Le Président transmet au Congrès le 1er mars le projet de constitution de la cinquième Assemblée constituante ; la loi Pub. L. 111-194 du 30 juin invite l'Assemblée à se réunir de nouveau pour le réviser."}
+  - {annee: 2020, evenement: "Référendum du 3 novembre sur la convocation d'une assemblée constituante."}
+  - {annee: 2024, evenement: "Élection, le 5 novembre, des 15 délégués de la sixième Assemblée constituante, qui prêtent serment le 28 janvier 2025."}
+fiabilite:
+  verifie: ["48 U.S.C. § 1541, 1571, 1574, 1591, 1611, 1642, 1705 et 1711 (Cornell LII).", "Pub. L. 111-194 (2010) sur le projet de constitution de la cinquième Assemblée constituante (govinfo).", "Contenu des résolutions 79/112 et 80/103 et du document de travail A/AC.109/2026/16.", "Population, subdivisions et localités du recensement de 2020 (tableaux du Census Bureau)."]
+  non_confirme: ["Dates et résultats des référendums constitutionnels de 1979 et 1981 : non vérifiés sur source primaire.", "Texte de la Pub. L. 94-584 : non consulté directement, cité d'après le document de travail de l'ONU et la Pub. L. 111-194.", "Projet de constitution attendu au référendum de novembre 2026 : calendrier annoncé par la puissance administrante, non confirmé.", "Dispositions des projets de constitution sur les « Native Virgin Islanders » : non vérifiées."]
+sources:
+  - {titre: "Résolution 80/103 « Question des Îles Vierges américaines » (2025)", url: "https://documents.un.org/api/symbol/access?s=A/RES/80/103&l=fr&t=pdf"}
+  - {titre: "Résolution 79/112 « Question des Îles Vierges américaines » (2024)", url: "https://documents.un.org/api/symbol/access?s=A/RES/79/112&l=fr&t=pdf"}
+  - {titre: "Îles Vierges américaines — document de travail du Secrétariat, A/AC.109/2026/16", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/16&l=fr&t=pdf"}
+  - {titre: "48 U.S.C. § 1541 — Organization and status (Cornell LII)", url: "https://www.law.cornell.edu/uscode/text/48/1541"}
+  - {titre: "48 U.S.C. § 1574 — Legislative power (Cornell LII)", url: "https://www.law.cornell.edu/uscode/text/48/1574"}
+  - {titre: "Pub. L. 111-194 (2010) — révision du projet de constitution des Îles Vierges (govinfo)", url: "https://www.govinfo.gov/content/pkg/PLAW-111publ194/html/PLAW-111publ194.htm"}
+  - {titre: "48 U.S.C. § 1611 — Courts (Cornell LII)", url: "https://www.law.cornell.edu/uscode/text/48/1611"}
+  - {titre: "Recensement de 2020 des Îles Vierges américaines — U.S. Census Bureau", url: "https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/us-virgin-islands/population-and-housing-unit-counts/us-virgin-islands-phc-table01.csv"}
+  - {titre: "Malik Sekou, « The Failure of the Political Status Process in the U.S. Virgin Islands », Université des Îles Vierges, 1994", url: "https://ufdcimages.uflib.ufl.edu/ca/00/40/01/86/00001/pdf.pdf"}

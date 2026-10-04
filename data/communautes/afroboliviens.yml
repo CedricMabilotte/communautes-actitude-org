@@ -1,0 +1,71 @@
+uid: "afroboliviens"
+nom: "Peuple afrobolivien"
+endonyme: "Pueblo Afroboliviano"
+territoire: "Yungas du département de La Paz (provinces de Nor Yungas, Sud Yungas et Caranavi), avec des populations urbaines à La Paz, Cochabamba et Santa Cruz"
+etats: ["Bolivie"]
+region: "ameriques"
+coord: [-16.3, -67.6]
+type: "communaute_afrodescendante"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 16329, annee: 2012, perimetre: "personnes de 15 ans ou plus déclarant appartenir au peuple afrobolivien, recensement de 2012 (tableau 7 de l'Institut national de statistique) ; les moins de 15 ans ne sont pas comptés", source: "https://www.bivica.org/files/censo-resultados.pdf"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le peuple afrobolivien descend des personnes réduites en esclavage dans les haciendas et les mines de l'époque coloniale ; il vit surtout dans les Yungas du département de La Paz. La Constitution de 2009 (art. 3 et 32) le reconnaît comme partie du peuple bolivien et lui étend, « en todo lo que corresponda » (dans la mesure où ils s'appliquent), les droits des nations et peuples « indígena originario campesinos » (autochtones). La loi-cadre des autonomies de 2010 (art. 42 et 43) l'inclut dans le régime d'autonomie autochtone, et la loi électorale de 2010 lui ouvre une circonscription spéciale partagée avec cinq peuples du département de La Paz. Aucune autonomie afrobolivienne n'est constituée et aucun titre foncier collectif n'est établi ; le roi afrobolivien, reconnu par la préfecture de La Paz en 2007, n'exerce pas de pouvoir public.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale (CERD/C/BOL/CO/17-20, § 7 c et 14) : le Comité note la reconnaissance constitutionnelle des communautés afro-boliviennes et de leurs droits, et se déclare préoccupé par leur exclusion sociale et leur sous-représentation.", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=CERD/C/BOL/CO/17-20&l=fr&t=pdf"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du CERD (CERD/C/BOL/CO/21-24, § 23-24, 31-32 et 41-42) : les politiques visant le peuple afro-bolivien « ne sont guère appliquées » ; le Comité recommande de garantir son droit à la consultation et au consentement préalable, libre et éclairé.", annee: 2023, source: "https://documents.un.org/api/symbol/access?s=CERD/C/BOL/CO/21-24&l=fr&t=pdf"}
+  - {mecanisme: "oit_169", detail: "La Bolivie ratifie la Convention 169 de l'OIT en 1991 ; la loi 031 de 2010 (art. 43) inclut le peuple afrobolivien dans le champ de l'autonomie défini « en concordancia » (conformément) avec l'article 1 de la Convention.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+base_nationale:
+  - {instrument: "Constitution politique de l'État plurinational de Bolivie (2009), art. 3, 30, 32, 100 et 395", nature: "constitution", annee: 2009, source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {instrument: "Loi 026 du régime électoral, 30 juin 2010, art. 57.II et 61", nature: "loi", annee: 2010, source: "https://web.oep.org.bo/wp-content/uploads/2019/07/LEY_026.pdf"}
+  - {instrument: "Loi 031 cadre des autonomies et de la décentralisation « Andrés Ibáñez », 19 juillet 2010, art. 42, 43 et 91", nature: "loi", annee: 2010, source: "https://www.lexivox.org/norms/BO-L-N31.html"}
+  - {instrument: "Loi 070 de l'éducation « Avelino Siñani - Elizardo Pérez », 20 décembre 2010, art. 3 et 6", nature: "loi", annee: 2010, source: "https://www.lexivox.org/norms/BO-L-N70.html"}
+  - {instrument: "Loi 045 contre le racisme et toute forme de discrimination, 8 octobre 2010", nature: "loi", annee: 2010, source: "https://www.lexivox.org/norms/BO-L-N45.html"}
+  - {instrument: "Loi 200 instituant la Journée nationale du peuple et de la culture afroboliviens (23 septembre), 14 décembre 2011", nature: "loi", annee: 2011, source: "https://www.lexivox.org/norms/BO-L-N200.html"}
+  - {instrument: "Loi 848 déclarant la décennie du peuple afrobolivien (2015-2024), 27 octobre 2016", nature: "loi", annee: 2016, source: "https://www.lexivox.org/norms/BO-L-N848.html"}
+droits:
+  autogouvernement: {valeur: "conteste", note: "La Constitution (art. 32, renvoi à l'art. 30.II.4 et 14 : libre détermination et systèmes politiques propres) et la loi 031 de 2010 (art. 42 et 43) ouvrent au peuple afrobolivien le régime d'autonomie autochtone ; ce droit n'est pas appliqué : aucune autonomie afrobolivienne n'est constituée et aucune loi ne précise la portée de ce renvoi.", source: "https://www.lexivox.org/norms/BO-L-N31.html"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "conteste", note: "La Constitution (art. 32, renvoi à l'art. 30.II.6 : titre collectif des terres et territoires) et l'art. 395.I (attribution de terres domaniales aux Afroboliviens) fondent un droit à la terre ; le titre collectif n'est pas appliqué : la Défenseure du peuple (2014) constate que la terre n'est détenue qu'en propriété individuelle ou familiale et qu'un territoire afrobolivien comparable aux terres communautaires d'origine (TCO) reste une revendication.", source: "https://www.defensoria.gob.bo/uploads/files/estado-de-situacion-sobre-el-ejercicio-de-los-derechos-humanos-del-pueblo-afroboliviano.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Par renvoi de l'art. 32, l'art. 30.II.15 de la Constitution prévoit une consultation préalable obligatoire ; le CERD (2023, § 31) relève un cadre sectoriel et fragmenté qui ne garantit pas le consentement préalable, libre et éclairé du peuple afro-bolivien.", source: "https://documents.un.org/api/symbol/access?s=CERD/C/BOL/CO/21-24&l=fr&t=pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "La loi 070 de 2010 (art. 3 et 6) inscrit les savoirs des communautés afroboliviennes dans le programme d'enseignement intraculturel (centré sur la culture propre) et interculturel ; le CERD (2023, § 41) constate une mise en œuvre limitée de ces programmes pour le peuple afro-bolivien.", source: "https://www.lexivox.org/norms/BO-L-N70.html"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "La loi 026 de 2010 (art. 57.II et 61) inclut les Afroboliviens dans la circonscription spéciale du département de La Paz, partagée avec les Mosetén, Leco, Kallawaya, Tacana et Araona, qui élit un député.", source: "https://web.oep.org.bo/wp-content/uploads/2019/07/LEY_026.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le CERD (2023, § 23) note que les politiques publiques visant le peuple afro-bolivien « ne sont guère appliquées » ; la Défenseure du peuple (2014) indique que le peuple ne dispose d'aucun territoire collectif et que le roi « no ejerce ninguna influencia en las decisiones » (n'exerce aucune influence sur les décisions) ; un député afrobolivien a été élu dans la circonscription spéciale de La Paz en 2009.", source: "https://documents.un.org/api/symbol/access?s=CERD/C/BOL/CO/21-24&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1953, evenement: "La réforme agraire attribue à des familles afroboliviennes des titres de propriété sur certaines des parcelles qu'elles occupent."}
+  - {annee: 1992, evenement: "Couronnement de Julio Pinedo comme roi afrobolivien à Mururata."}
+  - {annee: 2007, evenement: "La préfecture de La Paz reconnaît le roi afrobolivien par résolution (décembre)."}
+  - {annee: 2009, evenement: "La Constitution reconnaît le peuple afrobolivien (art. 3 et 32) ; élection du premier député afrobolivien dans la circonscription spéciale de La Paz (6 décembre)."}
+  - {annee: 2010, evenement: "Loi 026 du régime électoral (circonscription spéciale) et loi 031 des autonomies (inclusion dans le régime d'autonomie autochtone)."}
+  - {annee: 2011, evenement: "Loi 200 : journée nationale du 23 septembre ; création du Conseil national afrobolivien (CONAFRO)."}
+  - {annee: 2016, evenement: "Loi 848 : décennie du peuple afrobolivien (2015-2024)."}
+  - {annee: 2023, evenement: "Le CERD examine la Bolivie et constate une faible application des politiques visant le peuple afro-bolivien."}
+fiabilite:
+  verifie: ["Articles 3, 32, 100, 147 et 395 de la Constitution de 2009.", "Article 57.II de la loi 026 de 2010 (circonscription spéciale de La Paz).", "Articles 42 et 43 de la loi 031 de 2010 (inclusion du peuple afrobolivien dans le régime d'autonomie autochtone).", "Articles 3 et 6 de la loi 070 de 2010 ; lois 200 de 2011 et 848 de 2016.", "Reconnaissance du roi par la préfecture de La Paz en 2007 et absence de territoire collectif : rapport de la Défenseure du peuple (2014).", "16 329 personnes de 15 ans ou plus : tableau 7 des résultats du recensement de 2012.", "Élection de Jorge Medina dans la circonscription spéciale de La Paz en 2009 : rapport de la Défenseure du peuple (2014).", "Paragraphes du CERD de 2011 et 2023 nommant le peuple afro-bolivien."]
+  non_confirme: ["Population tous âges : Minority Rights Group donne 23 300 sans préciser le périmètre ; le bulletin du recensement de 2024 range le peuple afrobolivien dans la tranche de 10 000 à 20 000 déclarations, sans chiffre exact publié dans ce document.", "Numéro de la résolution préfectorale de 2007 reconnaissant le roi.", "Application de la juridiction « indígena originaria campesina » aux communautés afroboliviennes : la loi 073 de 2010 ne les nomme pas.", "Nombre de communautés afroboliviennes dans les Yungas ; la Défenseure du peuple cite Tocaña, Mururata et Chijchipa comme communautés entièrement afroboliviennes de Nor Yungas.", "Existence d'une demande de titre collectif de territoire auprès de l'INRA."]
+sources:
+  - {titre: "Constitution de Bolivie (2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {titre: "Constitution de Bolivie (2009) — Political Database of the Americas, Georgetown", url: "https://pdba.georgetown.edu/Constitutions/Bolivia/bolivia09.html"}
+  - {titre: "Loi 026 du régime électoral — Organe électoral plurinational", url: "https://web.oep.org.bo/wp-content/uploads/2019/07/LEY_026.pdf"}
+  - {titre: "Loi 031 cadre des autonomies et de la décentralisation — Lexivox", url: "https://www.lexivox.org/norms/BO-L-N31.html"}
+  - {titre: "Loi 070 de l'éducation — Lexivox", url: "https://www.lexivox.org/norms/BO-L-N70.html"}
+  - {titre: "Loi 045 contre le racisme et toute forme de discrimination — Lexivox", url: "https://www.lexivox.org/norms/BO-L-N45.html"}
+  - {titre: "Loi 200, Journée nationale du peuple et de la culture afroboliviens — Lexivox", url: "https://www.lexivox.org/norms/BO-L-N200.html"}
+  - {titre: "Loi 848, décennie du peuple afrobolivien — Lexivox", url: "https://www.lexivox.org/norms/BO-L-N848.html"}
+  - {titre: "Estado de situación sobre el ejercicio de los derechos humanos del pueblo afroboliviano — Défenseure du peuple, 2014", url: "https://www.defensoria.gob.bo/uploads/files/estado-de-situacion-sobre-el-ejercicio-de-los-derechos-humanos-del-pueblo-afroboliviano.pdf"}
+  - {titre: "Observations finales du CERD sur la Bolivie, CERD/C/BOL/CO/17-20 (2011)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/BOL/CO/17-20&l=fr&t=pdf"}
+  - {titre: "Observations finales du CERD sur la Bolivie, CERD/C/BOL/CO/21-24 (2023)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/BOL/CO/21-24&l=fr&t=pdf"}
+  - {titre: "Afro-Bolivians — Minority Rights Group", url: "https://minorityrights.org/communities/afro-bolivians/"}
+  - {titre: "Bolivia : características de población y vivienda, recensement de 2012 — Institut national de statistique", url: "https://www.bivica.org/files/censo-resultados.pdf"}
+  - {titre: "Resultados Bolivia, Censo de población y vivienda 2024 — bulletin INE / UNFPA", url: "https://bolivia.unfpa.org/sites/default/files/pub-pdf/2025-10/1_BOLETIN%20CENSO%202024.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}

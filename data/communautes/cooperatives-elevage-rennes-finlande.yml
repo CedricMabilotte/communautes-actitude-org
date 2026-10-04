@@ -1,0 +1,62 @@
+uid: "cooperatives-elevage-rennes-finlande"
+nom: "Coopératives d'éleveurs de rennes de Finlande"
+endonyme: "Paliskunnat"
+territoire: "Aire d'élevage des rennes définie par la loi : région de Laponie (sans Kemi, Tornio et Keminmaa) et nord des régions d'Ostrobotnie du Nord et du Kainuu, divisée en 54 aires de coopérative"
+etats: ["Finlande"]
+region: "europe"
+coord: [67.5, 26.5]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 4242, annee: 2025, perimetre: "propriétaires de rennes (poronomistajat) recensés pour l'exercice d'élevage 2024-2025 (juin 2024 à mai 2025)", source: "https://paliskunnat.fi/py/materiaalit/tilastot/poronomistajat/"}
+lieux: {valeur: 54, unite: "coopératives d'élevage de rennes (paliskunnat), chacune titulaire d'une aire délimitée", annee: 2025, source: "https://paliskunnat.fi/reindeer-herders-association/cooperatives/"}
+surface_km2: {valeur: 122936, annee: null, perimetre: "aire d'élevage des rennes délimitée par l'art. 2 de la loi 848/1990, soit 36 % du territoire de la Finlande selon l'Association des coopératives", source: "https://paliskunnat.fi/reindeer/reindeer-herding/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les 54 coopératives d'élevage de rennes (paliskunnat) de Finlande. La loi sur l'élevage des rennes (848/1990) permet l'élevage dans l'aire d'élevage « quelle que soit la propriété ou la possession du sol » (art. 3) et confie à chaque coopérative, formée par les propriétaires de rennes résidant sur son aire, la garde des troupeaux et la prévention des dommages (art. 6 et 7). L'assemblée de la coopérative, où chaque membre vote en proportion de ses rennes, élit le chef de district (poroisäntä) et son adjoint ; un conseil de six membres dirige l'activité (art. 13 à 19). Le régime n'est pas réservé aux Sámi : peut posséder des rennes tout ressortissant de l'Espace économique européen résidant de façon permanente dans l'aire d'élevage (art. 4) ; la situation propre aux Sámi est traitée dans la fiche « Sámi de Finlande ».
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Rapport du Rapporteur spécial sur les droits des peuples autochtones sur la région sámi (A/HRC/18/35/Add.2) : il relève qu'en Finlande l'élevage des rennes est ouvert à tout citoyen de l'Union européenne, que la loi de 1990 oblige les autorités de l'État à consulter les représentants des coopératives d'élevage avant les mesures sur les terres de l'État (§ 29-30), et que Metsähallitus (gestionnaire des forêts de l'État) a conclu en 2010 des accords sur l'usage des forêts avec des coopératives (§ 59).", annee: 2011, source: "https://documents.un.org/doc/undoc/gen/g11/138/87/pdf/g1113887.pdf"}
+base_nationale:
+  - {instrument: "Loi sur l'élevage des rennes (poronhoitolaki, 848/1990), modifiée en dernier lieu par la loi 444/2026", nature: "loi", annee: 1990, source: "https://www.finlex.fi/fi/lainsaadanto/1990/848"}
+  - {instrument: "Décret sur l'élevage des rennes (poronhoitoasetus, 883/1990)", nature: "loi", annee: 1990, source: "https://www.finlex.fi/fi/lainsaadanto/1990/883"}
+  - {instrument: "Loi 444/2026 modifiant la loi sur l'élevage des rennes : article sur l'objet de la loi, vote à l'assemblée, plans de gestion et d'usage des pâturages, règles de la procédure administrative et responsabilité pénale des agents publics pour les organes de la coopérative (art. 19 a) ; en vigueur le 1er juin 2026", nature: "loi", annee: 2026, source: "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/444"}
+  - {instrument: "Loi sur Metsähallitus (234/2016), art. 6, al. 2 : dans l'aire d'élevage des rennes, la gestion des ressources de l'État est ajustée pour remplir les obligations de la loi sur l'élevage des rennes", nature: "loi", annee: 2016, source: "https://www.finlex.fi/fi/lainsaadanto/2016/234"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Chaque coopérative a une assemblée de ses membres (osakkaat), où un membre a autant de voix que de rennes recensés (lukuporot), sans dépasser 10 % du total des rennes recensés des membres ni le plafond individuel fixé par décret (art. 15, rédaction de la loi 444/2026) ; l'assemblée élit pour trois ans le chef de district (poroisäntä) et son adjoint (art. 19) ; le conseil comprend ces deux élus et quatre membres (art. 17), loi 848/1990.", source: "https://www.finlex.fi/fi/lainsaadanto/1990/848"}
+  pouvoir_normatif: {valeur: "partiel", note: "La coopérative prend des décisions qui s'imposent à ses membres : réduction annuelle du nombre de rennes sous le plafond fixé par décret du gouvernement (art. 21 et 22), interdiction, par son conseil, d'introduire des rennes sur son aire (art. 10), contributions et travaux d'élevage (art. 12), plan décennal de gestion et d'usage des pâturages (art. 40 a, loi 444/2026) ; les décisions de l'assemblée peuvent être portées devant le tribunal administratif (art. 44) et l'Autorité finlandaise de l'alimentation (Ruokavirasto) contrôle l'application de la loi (art. 52).", source: "https://www.finlex.fi/fi/lainsaadanto/1990/848"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "L'élevage peut être pratiqué dans l'aire d'élevage quelle que soit la propriété ou la possession du sol (art. 3, loi 848/1990) ; au nord d'une limite tracée sur la carte annexée à la loi, les terres de l'État ne peuvent être utilisées d'une manière qui gêne notablement l'élevage (art. 2, al. 2) ; la coopérative n'est pas propriétaire de son aire, dont les limites sont fixées par l'Autorité finlandaise de l'alimentation (Ruokavirasto) (art. 6, al. 3).", source: "https://www.finlex.fi/fi/lainsaadanto/1990/848"}
+  ressources: {valeur: "partiel", note: "Droit de pâturage sur l'aire de la coopérative (art. 3, loi 848/1990) ; bois de chauffage et de construction des abris pris gratuitement et sans permis dans les forêts de l'État (art. 40) ; la gestion des ressources de l'État dans l'aire d'élevage doit remplir les obligations de cette loi (art. 6, al. 2, loi 234/2016 sur Metsähallitus).", source: "https://www.finlex.fi/fi/lainsaadanto/1990/848"}
+  consentement: {valeur: "partiel", note: "Les autorités de l'État doivent négocier avec les représentants de la coopérative concernée avant toute mesure sur les terres de l'État qui affecte notablement l'élevage (art. 53, loi 848/1990) ; il s'agit d'une obligation de consultation, sans droit de veto.", source: "https://www.finlex.fi/fi/lainsaadanto/1990/848"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "La coopérative perçoit de ses membres une contribution annuelle proportionnelle aux rennes recensés (art. 12), un droit d'entrée pour les rennes introduits sur son aire (art. 11) et une redevance de marquage (art. 24, al. 4) ; le chef de district peut vendre des rennes du débiteur et les sommes dues se recouvrent par exécution forcée sans jugement (art. 49, loi 848/1990).", source: "https://www.finlex.fi/fi/lainsaadanto/1990/848"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les 54 coopératives réunissent 4 242 propriétaires de rennes (exercice 2024-2025, Association des coopératives). Le Rapporteur spécial des Nations unies (2011, § 59) rapporte que, selon Metsähallitus, les coupes ont baissé dans l'aire d'élevage après des accords avec les éleveurs, mais que l'exploitation forestière menace encore des zones utilisées pour l'élevage sámi. Le rapport « The State of Sápmi » (Indigenous Navigator, 2025) relève qu'en pratique l'ajustement de la gestion des ressources de l'État prévu par la loi 234/2016 se limite à une négociation avec le Parlement sâme.", source: "https://documents.un.org/doc/undoc/gen/g11/138/87/pdf/g1113887.pdf"}
+chronologie:
+  - {annee: 1898, evenement: "Le Sénat du Grand-Duché de Finlande ordonne la création des coopératives d'élevage de rennes."}
+  - {annee: 1916, evenement: "Le Sénat définit le rapport entre l'élevage des rennes et les terres de l'État."}
+  - {annee: 1932, evenement: "Première loi sur l'élevage des rennes."}
+  - {annee: 1948, evenement: "Nouvelle loi ; création de l'Association des coopératives d'élevage de rennes (Paliskuntain yhdistys)."}
+  - {annee: 1990, evenement: "Loi 848/1990 et décret 883/1990, en vigueur le 1er octobre 1990 ; les coopératives existantes sont maintenues de plein droit."}
+  - {annee: 2011, evenement: "Le Rapporteur spécial des Nations unies sur les droits des peuples autochtones mentionne l'obligation de consulter les coopératives."}
+  - {annee: 2016, evenement: "Loi sur Metsähallitus (234/2016) : la gestion des ressources de l'État dans l'aire d'élevage doit respecter la loi sur l'élevage des rennes."}
+  - {annee: 2026, evenement: "Loi 444/2026, en vigueur le 1er juin : objet de la loi, plans décennaux de gestion des pâturages à adopter sous deux ans, responsabilité pénale des agents publics pour les organes de la coopérative, sanction pécuniaire de Ruokavirasto pour les rennes non réduits, applicable à partir du 1er juin 2027."}
+fiabilite:
+  verifie: ["Texte consolidé de la loi 848/1990 sur Finlex (art. 1 a, 2, 3, 4, 6, 7, 10, 11, 12, 13, 15, 17, 19, 19 a, 20, 21, 22, 24, 40, 40 a, 44, 49, 52, 52 a, 53).", "Loi 234/2016 sur Metsähallitus, art. 6, al. 2, sur Finlex.", "Rapport « The State of Sápmi » (Indigenous Navigator, 2025), passage sur la loi 234/2016.", "Loi modificative 444/2026 : liste des articles modifiés et date d'entrée en vigueur (1er juin 2026).", "54 coopératives et organisation interne : site de l'Association des coopératives ; liste des 54 coopératives : couche cartographique officielle de l'Association (données de novembre 2025).", "4 242 propriétaires de rennes en 2024-2025 : graphique de l'Association des coopératives.", "Rapport A/HRC/18/35/Add.2, § 29, 30 et 59."]
+  non_confirme: ["Surface de l'aire d'élevage (122 936 km²) : chiffre de l'Association des coopératives, non daté.", "Surface de chaque coopérative : la couche cartographique contient un attribut de surface sans unité documentée (somme de 12,28 millions, compatible avec des hectares) ; il n'est pas repris dans le tableau.", "Part des éleveurs sámi parmi les propriétaires de rennes : aucune source chiffrée trouvée."]
+sources:
+  - {titre: "Poronhoitolaki 848/1990 (texte consolidé) — Finlex", url: "https://www.finlex.fi/fi/lainsaadanto/1990/848"}
+  - {titre: "Poronhoitoasetus 883/1990 — Finlex", url: "https://www.finlex.fi/fi/lainsaadanto/1990/883"}
+  - {titre: "Laki poronhoitolain muuttamisesta 444/2026 — Finlex", url: "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/444"}
+  - {titre: "Laki Metsähallituksesta 234/2016 — Finlex", url: "https://www.finlex.fi/fi/lainsaadanto/2016/234"}
+  - {titre: "Reindeer Herding Cooperatives — Paliskuntain yhdistys", url: "https://paliskunnat.fi/reindeer-herders-association/cooperatives/"}
+  - {titre: "Cooperatives — histoire et organisation des paliskunnat — Paliskuntain yhdistys", url: "https://paliskunnat.fi/reindeer/reindeer-herding/cooperatives/"}
+  - {titre: "Reindeer herding — aire d'élevage — Paliskuntain yhdistys", url: "https://paliskunnat.fi/reindeer/reindeer-herding/"}
+  - {titre: "Poronomistajat (statistiques des propriétaires de rennes) — Paliskuntain yhdistys", url: "https://paliskunnat.fi/py/materiaalit/tilastot/poronomistajat/"}
+  - {titre: "Carte des coopératives d'élevage de rennes — Paliskuntain yhdistys", url: "https://paliskunnat.fi/map/"}
+  - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones, La situation du peuple sámi dans la région de Sápmi, A/HRC/18/35/Add.2 (2011)", url: "https://documents.un.org/doc/undoc/gen/g11/138/87/pdf/g1113887.pdf"}
+  - {titre: "The State of Sápmi 2025 — Indigenous Navigator", url: "https://indigenousnavigator.org/files/media/document/The+State+Of+Sa%CC%81pmi+01_2025.pdf"}

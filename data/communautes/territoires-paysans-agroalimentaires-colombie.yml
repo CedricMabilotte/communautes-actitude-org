@@ -1,0 +1,68 @@
+uid: "territoires-paysans-agroalimentaires-colombie"
+nom: "Territoires paysans agroalimentaires (TECAM)"
+endonyme: ""
+territoire: "Territoires paysans agroalimentaires constitués par l'Agence nationale des terres dans les départements du Cesar, d'Arauca, de Bolívar, de Santander, du Tolima et du Huila"
+etats: ["Colombie"]
+region: "ameriques"
+coord: [9.1, -73.7]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 655, annee: 2025, perimetre: "habitants du seul TECAM Nuevo Amanecer (345 hommes, 310 femmes), selon la presse ; l'Agence nationale des terres indique 214 familles et plus de 650 personnes", source: "https://www.colombiainforma.info/estado-colombiano-reconoce-el-primer-territorio-campesino-agroalimentario/"}
+lieux: {valeur: 8, unite: "TECAM constitués par accord du conseil de direction de l'Agence nationale des terres (octobre 2025 - juillet 2026), selon la liste des accords publiée en août 2026", annee: 2026, source: "https://www.ant.gov.co/la-agencia/consejo-directivo/acuerdos-consejo-directivo/"}
+surface_km2: {valeur: 1360.69, annee: 2026, perimetre: "somme des extensions fixées à l'article 2 des huit accords de constitution (136 069 ha) ; le TECAM ne constitue pas un titre collectif de propriété (décret 780 de 2024)", source: "https://www.ant.gov.co/la-agencia/consejo-directivo/acuerdos-consejo-directivo/"}
+villages: {valeur: 9, annee: 2025, perimetre: "veredas (subdivisions rurales d'une commune) du seul TECAM Nuevo Amanecer dont les juntas de acción comunal (comités d'action communale) portent le territoire", source: "https://www.ant.gov.co/prensa/noticias/colombia-celebra-la-constitucion-del-primer-territorio-campesino-agroalimentario--tecam--nuevo-amanecer"}
+resume: >-
+  Fiche agrégée. Le décret 780 de 2024 crée le régime des territoires paysans agroalimentaires (TECAM) : des zones délimitées, habitées et organisées par des familles, communautés et organisations paysannes. Leurs « formes organisationnelles paysannes » adoptent de façon autonome les décisions sur la régulation, l'aménagement et la représentation du territoire, selon un plan de vie digne. Le décret précise que le TECAM ne constitue pas un titre collectif de propriété. Le conseil de direction de l'Agence nationale des terres a constitué le premier TECAM, Nuevo Amanecer (Cesar), le 29 octobre 2025, puis sept autres jusqu'en juillet 2026, dans six départements ; d'autres demandes sont en cours d'instruction.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Acte législatif 01 de 2023 (révision de l'article 64 de la Constitution : le campesinado, la paysannerie, sujet de droits et de protection spéciale)", nature: "constitution", annee: 2023, source: "http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_01_2023.html"}
+  - {instrument: "Loi 2294 de 2023 (plan national de développement 2022-2026), art. 359", nature: "loi", annee: 2023, source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023_pr009.html"}
+  - {instrument: "Décret 780 de 2024 (titre 26 de la partie 14 du décret 1071 de 2015, art. 2.14.26.1.1 et suivants)", nature: "loi", annee: 2024, source: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=242896"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les formes organisationnelles paysannes (associations, juntas de acción comunal, familles, juntas campesinas) adoptent « de manière autonome et participative » les décisions sur l'impulsion, la régulation, l'aménagement et la représentation du TECAM, sans contredire les fonctions des autorités publiques (décret 780 de 2024, art. 2.14.26.1.3) ; la constitution relève du conseil de direction de l'Agence nationale des terres (art. 2.14.26.1.2).", source: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=242896"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le TECAM délimite une aire géographique dont l'aménagement relève des organisations paysannes ; le décret précise qu'il ne constitue pas un titre collectif de propriété et n'a pas d'effet sur la propriété privée (décret 780 de 2024, art. 2.14.26.1.3).", source: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=242896"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Huit TECAM constitués entre octobre 2025 et juillet 2026 ; en juillet 2026, la presse indique que la formalisation « avance lentement » et que le dossier de La Libertad (TECAM El Toro, Cesar), achevé devant l'Agence nationale des terres, reste bloqué par des obstacles administratifs.", source: "https://www.colombiainforma.info/caravana-humanitaria-recorrera-seis-departamentos-para-visibilizar-los-tecam/"}
+chronologie:
+  - {annee: 2023, evenement: "Acte législatif 01 (5 juillet) : la Constitution reconnaît le campesinado comme sujet de droits et ses formes de territorialité."}
+  - {annee: 2023, evenement: "La loi 2294 (art. 359) charge le gouvernement de reconnaître et formaliser les territorialités paysannes, dont les TECAM."}
+  - {annee: 2024, evenement: "Décret 780 du 24 juin : procédure de constitution des TECAM et plans de vie digne."}
+  - {annee: 2025, evenement: "Accord 531 du 29 octobre : le conseil de direction de l'Agence nationale des terres constitue le TECAM Nuevo Amanecer (Cesar), premier du pays."}
+  - {annee: 2025, evenement: "L'Agence nationale des terres déclare recevable la demande du TECAM Tuta Xua (Sogamoso, Boyacá) en décembre."}
+  - {annee: 2025, evenement: "Accords 559 et 560 du 23 décembre : TECAM Ciénaga de la Zapatosa (Cesar) et Vida y Soberanía Popular (Arauca)."}
+  - {annee: 2026, evenement: "Accords 568 et 569 du 25 février : TECAM Paz y Soberanía (Bolívar) et Del Piedemonte Araucano (Arauca)."}
+  - {annee: 2026, evenement: "Accords 591 et 592 du 19 juin : TECAM Cacique Poima (Santander) et Cañón de los ríos Lagunilla y Azufrado (Tolima)."}
+  - {annee: 2026, evenement: "Accord 601 du 16 juillet : TECAM Macizo Isnos (Huila)."}
+fiabilite:
+  verifie:
+    - "Définition du TECAM, rôle autonome des formes organisationnelles paysannes et absence de titre collectif de propriété : décret 780 de 2024, art. 2.14.26.1.3."
+    - "Constitution du TECAM Nuevo Amanecer par l'accord 531 du 29 octobre 2025 : 6 286 ha et 3 943 m², Tamalameque, Chimichagua et Pailitas (Cesar) ; 214 familles et neuf veredas selon l'Agence nationale des terres."
+    - "Huit accords de constitution de TECAM dans la liste des accords du conseil de direction de l'Agence nationale des terres (531, 559, 560, 568, 569, 591, 592, 601) ; extensions lues à l'article 2 de chaque accord."
+    - "Article 359 de la loi 2294 de 2023 et nouvel article 64 de la Constitution (acte législatif 01 de 2023)."
+  non_confirme:
+    - "Accords postérieurs à l'accord 614 (publié le 26 août 2026) non consultés ; demandes signalées à Sogamoso (Tuta Xua), à Agustín Codazzi (El Toro), dans le Cauca, le Nariño et le Chocó."
+    - "Localités du TECAM Nuevo Amanecer : sept veredas et 6 295,59 ha selon la presse, neuf veredas selon l'Agence nationale des terres."
+    - "Le décret cite parmi les objectifs des mécanismes propres de protection (gardes paysannes) et de règlement alternatif des conflits, sans en faire une juridiction (art. 2.14.26.2.2)."
+    - "Effet du changement de gouvernement d'août 2026 sur l'instruction des demandes."
+sources:
+  - {titre: "Décret 780 de 2024 — Función Pública, gestor normativo", url: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=242896"}
+  - {titre: "Acuerdos Consejo Directivo — Agence nationale des terres", url: "https://www.ant.gov.co/la-agencia/consejo-directivo/acuerdos-consejo-directivo/"}
+  - {titre: "Accord 531 de 2025 (TECAM Nuevo Amanecer) — Agence nationale des terres", url: "https://www.ant.gov.co/sites/default/files/2026-04/documentos/archivos/acuerdo-531.pdf"}
+  - {titre: "ANT fortalece la Reforma Agraria al formalizar más de 66.150 hectáreas en los Territorios Campesinos Agroalimentarios del país — Agence nationale des terres", url: "https://www.ant.gov.co/prensa/noticias/ant-fortalece-la-reforma-agraria-al-formalizar-mas-de-66.150-hectareas-en-los-territorios-campesinos-agroalimentarios-del-pais"}
+  - {titre: "Colombia celebra la constitución del primer Territorio Campesino Agroalimentario (TECAM) Nuevo Amanecer — Agence nationale des terres", url: "https://www.ant.gov.co/prensa/noticias/colombia-celebra-la-constitucion-del-primer-territorio-campesino-agroalimentario--tecam--nuevo-amanecer"}
+  - {titre: "Acte législatif 01 de 2023 — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_01_2023.html"}
+  - {titre: "Loi 2294 de 2023, art. 359 — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2294_2023_pr009.html"}
+  - {titre: "Estado colombiano reconoce el primer Territorio Campesino Agroalimentario — Colombia Informa", url: "https://www.colombiainforma.info/estado-colombiano-reconoce-el-primer-territorio-campesino-agroalimentario/"}
+  - {titre: "De la resistencia a la formalización: nace Tuta Xua, el primer TECAM de Boyacá — Colombia Informa", url: "https://www.colombiainforma.info/de-la-resistencia-a-la-formalizacion-nace-tuta-xua-el-primer-tecam-de-boyaca/"}
+  - {titre: "Caravana humanitaria recorrerá seis departamentos para visibilizar los TECAM — Colombia Informa", url: "https://www.colombiainforma.info/caravana-humanitaria-recorrera-seis-departamentos-para-visibilizar-los-tecam/"}

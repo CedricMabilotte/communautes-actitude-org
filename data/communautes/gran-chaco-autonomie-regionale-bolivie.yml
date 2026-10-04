@@ -1,0 +1,59 @@
+uid: "gran-chaco-autonomie-regionale-bolivie"
+nom: "Région autonome du Gran Chaco"
+endonyme: ""
+territoire: "Région du Gran Chaco tarijeño (communes de Yacuiba, Caraparí et Villa Montes), département de Tarija"
+etats: ["Bolivie"]
+region: "ameriques"
+coord: [-21.6, -63.4]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 159237, annee: 2024, perimetre: "habitants des communes de Yacuiba (97 577), Caraparí (15 650) et Villa Montes (46 010) au recensement de 2024", source: "https://nubecpv.ine.gob.bo/index.php/s/fBDwRbxQKgAxegF"}
+lieux: {valeur: 3, unite: "communes (municipios) : Yacuiba, Caraparí, Villa Montes", annee: 2016, source: "https://web.oep.org.bo/wp-content/uploads/2016/12/gran_chaco.pdf"}
+surface_km2: {valeur: 17428, annee: 2024, perimetre: "superficie de la province du Gran Chaco", source: "https://es.wikipedia.org/wiki/Provincia_del_Gran_Chaco"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le Gran Chaco tarijeño est la première autonomie régionale (collectivité infradépartementale prévue par l'article 280 de la Constitution de 2009) de Bolivie, selon son statut (préambule et art. 4). Il réunit les communes de Yacuiba, Caraparí et Villa Montes, au sud-est du département de Tarija. L'autonomie est approuvée par référendum le 6 décembre 2009 et son statut le 20 novembre 2016, avec 72,41 % des suffrages valides. Le gouvernement régional exerce 32 compétences transférées par le département et perçoit directement 45 % des redevances d'hydrocarbures versées au département ; son assemblée compte un siège pour chacun des peuples guarani, weenhayek et tapiete, désigné selon leurs normes propres.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution politique de l'État plurinational de Bolivie (2009), art. 280, 281, 282 et 301", nature: "constitution", annee: 2009, source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {instrument: "Loi-cadre 031 des autonomies et de la décentralisation « Andrés Ibáñez », art. 37 à 41", nature: "loi_organique", annee: 2010, source: "https://www.lexivox.org/norms/BO-L-N31.html"}
+  - {instrument: "Statut autonomique régional du Gran Chaco (déclaré conforme à la Constitution par la déclaration constitutionnelle plurinationale 062/2015)", nature: "statut_autonomie", annee: 2016, source: "https://web.oep.org.bo/wp-content/uploads/2016/12/gran_chaco.pdf"}
+  - {instrument: "Loi 927 du 18 avril 2017, loi transitoire de conformation et de fonctionnement du gouvernement autonome régional du Gran Chaco", nature: "loi", annee: 2017, source: "https://www.lexivox.org/norms/BO-L-N927.html"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Constitution (art. 281) dote chaque autonomie régionale d'une assemblée régionale et d'un organe exécutif ; le statut (art. 14 à 16) crée l'Assemblée régionale du Gran Chaco et l'Organe exécutif régional, élus au suffrage universel (art. 47 et 52), avec un siège par peuple guarani, weenhayek et tapiete désigné selon ses usages propres.", source: "https://web.oep.org.bo/wp-content/uploads/2016/12/gran_chaco.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'assemblée exerce une faculté « normativo-administrativa » (pouvoir réglementaire) (Constitution art. 281, statut art. 25 à 30) ; ses dispositions normatives régionales sont obligatoires, mais la loi-cadre 031 (art. 41) exclut la potestad legislativa (pouvoir de faire des lois), qui reste au département.", source: "https://www.lexivox.org/norms/BO-L-N31.html"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Le statut (art. 60) attribue au gouvernement régional, qui les perçoit et les administre directement, 45 % des redevances d'hydrocarbures (regalías) versées au département de Tarija (11 % de la production) et lui permet (art. 45) de participer à des entreprises d'industrialisation et de distribution d'hydrocarbures ; le sous-sol reste propriété de l'État.", source: "https://web.oep.org.bo/wp-content/uploads/2016/12/gran_chaco.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Le statut (art. 3) établit dans la région l'« uso preferente » (usage préférentiel) du castillan, du guarani, du weenhayek et du tapiete, sans écarter les autres langues officielles de l'État.", source: "https://web.oep.org.bo/wp-content/uploads/2016/12/gran_chaco.pdf"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "La loi départementale 079 de 2013, reprise par le statut (art. 12), transfère la création d'impôts régionaux non analogues aux impôts nationaux ou municipaux, des taxes et contributions spéciales et l'adoption du budget ; le statut (art. 61) liste les ressources, dont la part des redevances d'hydrocarbures. L'autonomie régionale n'a pas de pouvoir législatif (loi 031, art. 41).", source: "https://web.oep.org.bo/wp-content/uploads/2016/12/gran_chaco.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le gouvernement régional fonctionne : en 2021, les peuples guarani (26 février), tapiete (4 mars) et weenhayek (24 avril) désignent leurs représentants à l'Assemblée régionale selon leurs normes propres, sous supervision de l'Organe électoral ; en février 2024, le quotidien El Andaluz rapporte que la région perçoit toujours 45 % des redevances d'hydrocarbures du département et que son gouvernement en réclame la totalité.", source: "https://elandaluz.com.bo/2024/02/19/el-chaco-exigira-el-100-de-los-recursos-de-regalias-por-concepto-de-hidrocarburos/"}
+chronologie:
+  - {annee: 2009, evenement: "La Constitution (7 février) prévoit l'autonomie régionale ; le référendum du 6 décembre approuve l'autonomie de la région du Gran Chaco."}
+  - {annee: 2010, evenement: "La loi-cadre 031 des autonomies fixe le régime de l'autonomie régionale, sans pouvoir législatif."}
+  - {annee: 2013, evenement: "La loi départementale 079 du 12 avril transfère 32 compétences exclusives du département de Tarija à l'autonomie régionale."}
+  - {annee: 2015, evenement: "Le Tribunal constitutionnel plurinational déclare le statut conforme à la Constitution (déclaration 062/2015 du 5 mars)."}
+  - {annee: 2016, evenement: "Le statut est approuvé par référendum le 20 novembre avec 72,41 % des suffrages exprimés valides."}
+  - {annee: 2017, evenement: "La loi 927 du 18 avril organise le gouvernement régional transitoire jusqu'aux élections suivantes."}
+  - {annee: 2021, evenement: "Première élection des autorités régionales selon le statut (7 mars) et désignation des trois représentants autochtones selon les normes propres."}
+fiabilite:
+  verifie: ["Articles 280, 281, 282 et 301 de la Constitution de 2009.", "Articles 37 à 41 de la loi-cadre 031, dont l'exclusion du pouvoir législatif (art. 41).", "Articles 2, 3, 5, 12, 14 à 16, 25 à 30, 45, 47, 60 et 61 du statut.", "Résultat du référendum du 20 novembre 2016 : 49 932 oui (72,41 %), 19 026 non, sur 100 824 inscrits.", "Articles 1 à 11 de la loi 927 de 2017.", "Élection des représentants guarani, tapiete et weenhayek en 2021 selon les normes propres.", "Population 2024 des trois communes dans le fichier de résultats du recensement de l'Institut national de statistique (total 159 237)."]
+  non_confirme: ["Texte de la loi départementale 079 de 2013, connu seulement par sa reprise à l'article 12 du statut.", "Superficie tirée d'une encyclopédie, sans accès direct à une source cartographique officielle.", "Fonctionnement effectif des compétences fiscales (création d'impôts régionaux) en l'absence de pouvoir législatif."]
+sources:
+  - {titre: "Statut autonomique régional du Gran Chaco — Organe électoral plurinational", url: "https://web.oep.org.bo/wp-content/uploads/2016/12/gran_chaco.pdf"}
+  - {titre: "Constitution de Bolivie (2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {titre: "Loi-cadre 031 des autonomies et de la décentralisation — LexiVox", url: "https://www.lexivox.org/norms/BO-L-N31.html"}
+  - {titre: "Loi 927 de 2017 — LexiVox", url: "https://www.lexivox.org/norms/BO-L-N927.html"}
+  - {titre: "Résultats du référendum des statuts autonomiques et chartes organiques 2016 — Organe électoral plurinational", url: "https://web.oep.org.bo/wp-content/uploads/2016/12/separata_resultados.pdf"}
+  - {titre: "Élection de représentants par normes et procédures propres, élections infranationales 2021 — Organe électoral plurinational", url: "https://web.oep.org.bo/elecciones-subnacionales-2021/comunidades-indigenas/"}
+  - {titre: "Ce que nous élirons dans la région du Gran Chaco, 2021 — Organe électoral plurinational", url: "https://web.oep.org.bo/wp-content/uploads/2021/02/Que-elegiremos-GranChaco.pdf"}
+  - {titre: "Résultats du recensement de la population et du logement 2024 — Institut national de statistique de Bolivie", url: "https://nubecpv.ine.gob.bo/index.php/s/fBDwRbxQKgAxegF"}
+  - {titre: "El Chaco exigirá el 100 % de los recursos de regalías por concepto de hidrocarburos — El Andaluz, 19 février 2024", url: "https://elandaluz.com.bo/2024/02/19/el-chaco-exigira-el-100-de-los-recursos-de-regalias-por-concepto-de-hidrocarburos/"}
+  - {titre: "Provincia del Gran Chaco — Wikipedia en espagnol", url: "https://es.wikipedia.org/wiki/Provincia_del_Gran_Chaco"}

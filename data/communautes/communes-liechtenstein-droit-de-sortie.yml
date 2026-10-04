@@ -1,0 +1,62 @@
+uid: "communes-liechtenstein-droit-de-sortie"
+nom: "Communes du Liechtenstein"
+endonyme: "Gemeinden des Fürstentums Liechtenstein"
+territoire: "Les 11 communes politiques de la principauté de Liechtenstein, réparties entre la Landschaft Vaduz (Oberland) et la Landschaft Schellenberg (Unterland)"
+etats: ["Liechtenstein"]
+region: "europe"
+coord: [47.1, 9.5]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 41024, annee: 2025, perimetre: "population résidente permanente (ständige Bevölkerung) des 11 communes au 30 juin 2025, dont 26 599 personnes de nationalité liechtensteinoise, seules appelées à voter sur l'ouverture d'une procédure de sortie", source: "https://www.statistikportal.li/statistikportal/publications/211-bevoelkerungsstand/2025/01/1/211.2025.01.1_01_bevoelkerungsstand-2025juni-tab.xlsx"}
+lieux: {valeur: 11, unite: "communes politiques (Gemeinden) titulaires du droit de sortie, énumérées à l'article 1 de la Constitution", annee: 2003, source: "https://www.gesetze.li/konso/pdf/1921.015"}
+surface_km2: {valeur: 160, annee: 2012, perimetre: "territoire de l'État, valeur arrondie donnée par le commentaire en ligne de la Constitution (« ca. 160 km2 »)", source: "https://verfassung.li/Art._1"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les 11 communes politiques (Gemeinden) du Liechtenstein, dont la Constitution de 1921 fixe la liste (art. 1). Depuis la révision constitutionnelle de 2003 (LGBl. 2003 n° 186), l'article 4 al. 2 donne à chaque commune le droit de sortir de l'union de l'État (Staatsverband) : la majorité des citoyens liechtensteinois ayant le droit de vote et résidant dans la commune décide d'ouvrir la procédure, puis la sortie est réglée par une loi ou par un traité international ; dans le cas d'un traité, un second scrutin a lieu dans la commune après la négociation. Aucune commune n'a ouvert cette procédure selon les sources consultées. Les communes s'administrent elles-mêmes sous la surveillance de l'État selon la loi sur les communes de 1996 (Gemeindegesetz) : assemblée et conseil élus, règlements, centimes additionnels à l'impôt, droit de cité communal.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la principauté de Liechtenstein du 5 octobre 1921 (LGBl. 1921 n° 15), art. 1, 4, 48, 64, 66, 66bis et 110, dans sa version révisée par LGBl. 2003 n° 186", nature: "constitution", annee: 2003, source: "https://www.gesetze.li/konso/pdf/1921.015"}
+  - {instrument: "Loi sur les communes (Gemeindegesetz, GemG) du 20 mars 1996, LGBl. 1996 n° 76", nature: "loi", annee: 1996, source: "https://www.gesetze.li/konso/pdf/1996.076"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Libre élection du chef de commune (Ortsvorsteher) et des organes communaux (Constitution, art. 110 al. 2 a) ; les communes règlent et administrent leurs affaires de façon autonome sous la surveillance de l'État (loi sur les communes de 1996, art. 4) ; l'assemblée communale (Gemeindeversammlung) est l'organe suprême (art. 25).", source: "https://www.gesetze.li/konso/pdf/1996.076"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les communes adoptent un règlement communal (Gemeindeordnung) et des règlements (Reglemente), et peuvent édicter des prescriptions de police locale punies d'amendes jusqu'à 10 000 francs, dans les limites de la loi (loi sur les communes de 1996, art. 9 et 10).", source: "https://www.gesetze.li/konso/pdf/1996.076"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Administration autonome du patrimoine communal sous surveillance du gouvernement (Constitution, art. 110 al. 2 b) ; aménagement local (Ortsplanung) dans le domaine propre de la commune (loi sur les communes de 1996, art. 12 al. 2 d et i).", source: "https://www.gesetze.li/konso/pdf/1996.076"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "reconnu", note: "Toute modification des limites entre communes, toute création ou fusion de communes exige en plus de la loi une décision majoritaire des citoyens ayant le droit de vote qui y résident (Constitution, art. 4 al. 1, révision de 2003 ; loi sur les communes de 1996, art. 6).", source: "https://www.gesetze.li/konso/pdf/1921.015"}
+  langue: {valeur: "non_applicable", note: "L'allemand est la langue de l'État et la langue officielle sur tout le territoire (Constitution, art. 6) ; aucune langue propre aux communes.", source: "https://www.gesetze.li/konso/pdf/1921.015"}
+  education: {valeur: "partiel", note: "Création et entretien des jardins d'enfants et des écoles primaires dans le domaine propre de la commune (loi sur les communes de 1996, art. 12 al. 2 g).", source: "https://www.gesetze.li/konso/pdf/1996.076"}
+  fiscalite: {valeur: "partiel", note: "Perception de contributions et fixation de centimes additionnels à l'impôt (Steuerzuschläge) dans le domaine propre de la commune (loi sur les communes de 1996, art. 12 al. 2 e) ; le budget et le taux communal sont arrêtés par le conseil communal ou par l'assemblée selon le règlement communal (art. 40 al. 2 f et al. 3).", source: "https://www.gesetze.li/konso/pdf/1996.076"}
+  representation: {valeur: "partiel", note: "Pas de sièges réservés ; trois communes, par décisions de leurs assemblées, peuvent faire convoquer le Landtag (parlement), présenter une initiative législative ou demander un référendum sur une loi ; quatre peuvent demander un référendum sur la dissolution du Landtag, présenter une initiative constitutionnelle ou demander un référendum sur une révision constitutionnelle ou sur un traité (Constitution, art. 48 al. 2 et 3, 64 al. 2 et 4, 66 al. 1 et 2, 66bis).", source: "https://www.gesetze.li/konso/pdf/1921.015"}
+  statut_personnel: {valeur: "reconnu", note: "Droit de cité communal (Gemeindebürgerrecht), qui donne un droit d'origine (Heimatrecht) dans la commune ; la commune l'accorde dans son domaine propre (Constitution, art. 110 al. 2 d ; loi sur les communes de 1996, art. 12 al. 2 c et titre III).", source: "https://www.gesetze.li/konso/pdf/1996.076"}
+  autodetermination_externe: {valeur: "partiel", note: "« Den einzelnen Gemeinden steht das Recht zu, aus dem Staatsverband auszutreten » (Constitution, art. 4 al. 2, révision de 2003) : la commune décide seule d'ouvrir la procédure ; la sortie exige ensuite une loi ou un traité, soumis à référendum et à la sanction du prince, si bien que la commune ne peut pas l'imposer (commentaire en ligne de la Constitution, art. 4, n° 71).", source: "https://verfassung.li/Art._4"}
+effectivite: {valeur: "non_etablie", note: "Aucune source consultée ne mentionne l'ouverture d'une procédure de sortie depuis 2003 ; le commentaire de la Constitution (état 2015) traite la sortie comme une hypothèse et relève que l'État ne peut pas être contraint d'y consentir.", source: "https://verfassung.li/Art._4"}
+chronologie:
+  - {annee: 1808, evenement: "Réorganisation du territoire en onze communes politiques."}
+  - {annee: 1921, evenement: "Constitution du 5 octobre 1921 : l'article 110 garantit l'élection des organes communaux et l'administration autonome du patrimoine communal."}
+  - {annee: 1996, evenement: "Loi sur les communes du 20 mars 1996 ; séparation des communes politiques et des coopératives bourgeoises (Bürgergenossenschaften)."}
+  - {annee: 2002, evenement: "Initiative constitutionnelle de la maison princière du 2 août 2002, qui donne à l'article 4 al. 2 sa rédaction actuelle, remaniée par rapport aux propositions de 2000 et 2001."}
+  - {annee: 2003, evenement: "Révision constitutionnelle (LGBl. 2003 n° 186) : l'article 4 al. 2 inscrit le droit de sortie de chaque commune."}
+fiabilite:
+  verifie:
+    - "Texte de l'article 4 al. 1 et 2 de la Constitution, version consolidée au 1er janvier 2026, et sa modification par LGBl. 2003 n° 186 (gesetze.li)."
+    - "Liste des 11 communes et des deux Landschaften (Constitution, art. 1 ; loi sur les communes, art. 2)."
+    - "Pouvoirs communaux : loi sur les communes de 1996, art. 4, 6, 9, 10 et 12 (gesetze.li, version du 29 avril 2020)."
+    - "Droits d'initiative et de référendum des communes : Constitution, art. 48, 64, 66 et 66bis."
+    - "Population résidente permanente par commune au 30 juin 2025 : Amt für Statistik, Bevölkerungsstand 2025, tableau 2.1.4."
+    - "Superficies communales de 10 communes : Historisches Lexikon, articles par commune (état au 31 décembre 2011)."
+    - "Portée limitée du droit de sortie (ouverture de la procédure seulement) : commentaire de P. Bussjäger, Liechtenstein-Institut, art. 4, n° 61 à 71."
+  non_confirme:
+    - "Corps électoral exact visé par l'article 4 (citoyens liechtensteinois majeurs résidant dans la commune) : non chiffré."
+    - "Absence de toute procédure de sortie depuis 2003 : aucune source ne l'affirme expressément."
+    - "Avis de la Commission de Venise de 2002 sur la révision constitutionnelle : non ouvert."
+    - "Superficie de Mauren : le Historisches Lexikon écrit « 7491 km2 », valeur fautive, laissée vide dans le tableau."
+sources:
+  - {titre: "Verfassung des Fürstentums Liechtenstein (LGBl. 1921 n° 15), version consolidée — gesetze.li", url: "https://www.gesetze.li/konso/pdf/1921.015"}
+  - {titre: "Gemeindegesetz (LGBl. 1996 n° 76), version consolidée — gesetze.li", url: "https://www.gesetze.li/konso/pdf/1996.076"}
+  - {titre: "P. Bussjäger, Art. 4 LV, Online-Kommentar zur liechtensteinischen Verfassung — Liechtenstein-Institut", url: "https://verfassung.li/Art._4"}
+  - {titre: "Art. 1 LV, Online-Kommentar zur liechtensteinischen Verfassung — Liechtenstein-Institut", url: "https://verfassung.li/Art._1"}
+  - {titre: "Bevölkerungsstand 30. Juni 2025 — Amt für Statistik Liechtenstein", url: "https://www.statistikportal.li/statistikportal/publications/211-bevoelkerungsstand/2025/01/1/211.2025.01.1_01_bevoelkerungsstand-2025juni-tab.xlsx"}
+  - {titre: "« Gemeinde », Historisches Lexikon des Fürstentums Liechtenstein", url: "https://historisches-lexikon.li/Gemeinde"}

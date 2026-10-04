@@ -1,0 +1,67 @@
+uid: "lhaka-honhat-salta"
+nom: "Communautés de l'association Lhaka Honhat (Salta)"
+endonyme: "Lhaka Honhat"
+territoire: "Anciens lots fiscaux 14 et 55 (matricules cadastraux 175 et 5557), département de Rivadavia, province de Salta, à la frontière du Paraguay et de la Bolivie"
+etats: ["Argentine"]
+region: "ameriques"
+coord: [-22.4, -62.6]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 10155, annee: 2018, perimetre: "personnes membres des communautés autochtones des lots 14 et 55 (environ 2 031 familles) en mai 2018, chiffre avancé par les représentants des communautés et cité par la Cour interaméricaine (par. 50) ; l'État et les représentants font état de plus de 2 000 familles", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+lieux: {valeur: 132, unite: "communautés autochtones victimes, listées à l'annexe V de l'arrêt de la Cour interaméricaine (le décret provincial 1498/14 en nommait 71)", annee: 2020, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+surface_km2: {valeur: 4000, annee: 2020, perimetre: "territoire autochtone à titrer selon l'arrêt (400 000 ha, surface approximative) ; les deux lots couvrent environ 643 000 ha", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Communautés des peuples wichí (mataco), iyjwaja (chorote), komlek (toba ou qom), niwackle (chulupí ou nivaclé) et tapy'y (tapiete) établies sur les anciens lots fiscaux 14 et 55 du département de Rivadavia, dans le Chaco de Salta. Elles se sont regroupées dans l'Association des communautés aborigènes Lhaka Honhat (« Notre Terre »), dotée de la personnalité juridique en 1992, et réclament depuis 1991 un titre collectif sans subdivision. Le décret provincial 1498 de 2014 transfère 400 000 ha en propriété communautaire, en indivision avec des familles créoles (colons non autochtones) ; l'arrêt de la Cour interaméricaine du 6 février 2020 ordonne un seul titre pour les 132 communautés dans un délai de six ans à compter de sa notification. Ce délai a expiré en avril 2026 sans remise du titre.
+reconnaissance_regionale:
+  - {mecanisme: "commission_interamericaine", detail: "Rapport de fond n° 2/12 de 2012 sur la pétition déposée en 1998 par Lhaka Honhat (admissibilité : rapport n° 78/06 de 2006) ; renvoi de l'affaire à la Cour le 1er février 2018.", annee: 2012, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Comunidades indígenas miembros de la Asociación Lhaka Honhat (Nuestra Tierra) c. Argentine, 6 février 2020 : violation des art. 21 (propriété), 23.1 (participation politique), 26 (identité culturelle, environnement sain, alimentation, eau) et 8.1 de la Convention américaine ; ordre de délimiter, démarquer et titrer 400 000 ha par un seul titre collectif, de déplacer la population créole et de retirer clôtures et bétail en six ans, et de consulter les communautés avant tout ouvrage.", annee: 2020, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Rapport de James Anaya sur l'Argentine (A/HRC/21/47/Add.2) : la province de Salta s'est engagée en 1991 à remettre un titre communautaire à l'Association Lhaka Honhat ; le retard de titrage, un pont et d'autres ouvrages sur le territoire restent en litige devant le système interaméricain.", annee: 2012, source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+base_nationale:
+  - {instrument: "Constitution de la Nation argentine, réforme de 1994, art. 75, alinéa 17 (propriété communautaire des terres occupées traditionnellement)", nature: "constitution", annee: 1994, source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/804/norma.htm"}
+  - {instrument: "Résolution ministérielle 499 du 9 décembre 1992 de la province de Salta : statut et personnalité juridique de l'Association des communautés aborigènes Lhaka Honhat", nature: "loi", annee: 1992, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+  - {instrument: "Décret provincial 2786/07 de Salta approuvant l'acte d'accord de 2007 : 400 000 ha aux communautés autochtones, le reste aux familles créoles", nature: "loi", annee: 2007, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+  - {instrument: "Décret provincial 1498/14 de Salta du 29 mai 2014 : reconnaissance et transfert de la propriété communautaire d'environ 400 000 ha (58,27 % des matricules 175 et 5557) à 71 communautés, en indivision avec des familles créoles", nature: "loi", annee: 2014, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+  - {instrument: "Cour interaméricaine des droits de l'homme, arrêt Lhaka Honhat c. Argentine, 6 février 2020 (série C n° 400)", nature: "jurisprudence", annee: 2020, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La résolution ministérielle 499 de 1992 accorde la personnalité juridique à l'association Lhaka Honhat, qui regroupe des habitants des lots 14 et 55 membres des communautés autochtones et a pour buts statutaires l'obtention du titre et le contrôle de l'exploitation des ressources « en coordination avec les organismes de l'État » (arrêt de 2020, par. 61). L'arrêt ne mentionne aucune compétence publique attribuée à l'association.", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "conteste", note: "Le décret 1498/14, en vigueur, reconnaît la propriété communautaire de 71 communautés sur 58,27 % des lots 14 et 55, mais établit sur les mêmes terres une copropriété (condominio) au profit de familles créoles et renvoie la délimitation à des actes ultérieurs, non réalisés ; la Cour juge qu'il ne satisfait pas le droit de propriété (par. 145 et 146) et ordonne un seul titre collectif, « sin subdivisiones ni fragmentaciones » (sans subdivisions ni fragmentations), en six ans (point 7 du dispositif, par. 327).", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "L'art. 75, alinéa 17, de la Constitution (1994) garantit la participation des communautés à la gestion de leurs ressources naturelles et des autres intérêts qui les concernent ; l'arrêt de 2020 (point 8 du dispositif) interdit à l'État tout acte, ouvrage ou projet sur le territoire sans information et consultation préalables, libres et éclairées des communautés. La Cour constate la violation des art. 21 et 23.1 de la Convention américaine pour la construction du pont international sans consultation (par. 184).", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "contestee", note: "Selon l'agence Tierra Viva (2026), le délai fixé par la Cour a expiré le 6 avril 2026 sans délimitation, démarcation ni titre ; l'unité d'exécution nationale temporaire (UENT) a été démantelée en 2023 et les mesures de réparation suspendues, le travail de terrain est arrêté faute de paiement des techniciens depuis trois mois et 45 nouvelles clôtures ont été relevées au nord du territoire après l'arrêt. Lhaka Honhat et le CELS (Centre d'études légales et sociales) ont été convoqués le 14 mai 2026 à une audience privée de supervision, attribuée par l'agence à la CIDH (Commission interaméricaine des droits de l'homme).", source: "https://agenciatierraviva.com.ar/lhaka-honhat-cuatro-decadas-de-lucha-indigena-y-la-deuda-que-el-estado-no-quiere-pagar/"}
+chronologie:
+  - {annee: 1984, evenement: "Les communautés des lots 14 et 55 demandent à la province de Salta, par une déclaration conjointe, un titre sur leurs terres et refusent leur parcellisation."}
+  - {annee: 1991, evenement: "Réclamation de 27 communautés du lot 55 ; le décret 2609/91 engage la province à attribuer une surface sans subdivision par un seul titre."}
+  - {annee: 1992, evenement: "Personnalité juridique de l'association Lhaka Honhat (résolution 499)."}
+  - {annee: 1998, evenement: "Pétition devant la Commission interaméricaine."}
+  - {annee: 2007, evenement: "Acte d'accord entre communautés et familles créoles sur 400 000 ha, approuvé par le décret 2786/07."}
+  - {annee: 2012, evenement: "Rapport de fond n° 2/12 de la Commission interaméricaine."}
+  - {annee: 2014, evenement: "Le décret 1498/14 transfère la propriété des lots 14 et 55 aux communautés et aux familles créoles."}
+  - {annee: 2020, evenement: "Arrêt de la Cour interaméricaine du 6 février."}
+  - {annee: 2026, evenement: "Expiration du délai de six ans le 6 avril sans titre ; audience privée de supervision le 14 mai."}
+fiabilite:
+  verifie:
+    - "Dispositif de l'arrêt du 6 février 2020 (points 1 à 18), 132 communautés, 400 000 ha, cinq peuples, décret 1498/14 (texte de l'arrêt, par. 47, 50, 61, 80, 327)."
+    - "Mention de Lhaka Honhat dans le rapport du Rapporteur spécial A/HRC/21/47/Add.2 (2012)."
+  non_confirme:
+    - "Absence de titre au-delà d'avril 2026 : établie par une seule source de presse (Tierra Viva), pas par une résolution de surveillance de la Cour."
+    - "Organe ayant tenu l'audience du 14 mai 2026 : Tierra Viva écrit « la CIDH » (Commission) ; la supervision de l'exécution d'un arrêt relève en principe de la Cour."
+    - "Population de 10 155 personnes : chiffre des représentants (2018), non recensé par l'État."
+    - "Département : la Cour situe les lots dans le département de Rivadavia ; Tierra Viva écrit San Martín."
+    - "Texte des décrets 2786/07 et 1498/14 non consulté directement au bulletin officiel de Salta."
+sources:
+  - {titre: "Cour interaméricaine des droits de l'homme, Comunidades indígenas miembros de la Asociación Lhaka Honhat (Nuestra Tierra) c. Argentine, arrêt du 6 février 2020", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+  - {titre: "Rapport du Rapporteur spécial sur la situation des peuples autochtones en Argentine, A/HRC/21/47/Add.2 (2012)", url: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+  - {titre: "Constitution de la Nation argentine — Infoleg", url: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/804/norma.htm"}
+  - {titre: "Agencia Tierra Viva, « Lhaka Honhat: cuatro décadas de lucha indígena y la deuda que el Estado no quiere pagar » (2026)", url: "https://agenciatierraviva.com.ar/lhaka-honhat-cuatro-decadas-de-lucha-indigena-y-la-deuda-que-el-estado-no-quiere-pagar/"}
+  - {titre: "EJIL:Talk!, « The Lhaka Honhat case of the Inter-American Court of Human Rights » (2020)", url: "https://www.ejiltalk.org/the-lhaka-honhat-case-of-the-inter-american-court-of-human-rights-the-long-awaited-granting-of-400000-hectares-under-communal-property-rights/"}

@@ -1,0 +1,55 @@
+uid: "conseils-minorites-montenegro"
+nom: "Minorités nationales du Monténégro"
+endonyme: ""
+territoire: "Monténégro : ensemble du pays pour les conseils ; communes où une minorité représente au moins 5 % de la population pour l'usage officiel des langues"
+etats: ["Monténégro"]
+region: "europe"
+coord: [42.6, 19.3]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 316245, annee: 2023, perimetre: "somme des personnes ayant déclaré l'une des six appartenances dotées d'un conseil au recensement de décembre 2023 : Serbes 205 370, Bosniaques 58 956, Albanais 30 978, Musulmans 10 162, Roms 5 629, Croates 5 150, sur 623 633 habitants", source: "https://www.monstat.org/uploads/files/popis%202021/saopstenja/ENGNacijaVjeraJezik%20ENG.xlsx"}
+lieux: {valeur: 6, unite: "conseils des minorités (albanais, bosniaque, musulman, rom, croate, serbe)", annee: 2022, source: "https://rm.coe.int/4th-sr-montenegro-en/1680a96640"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution du Monténégro de 2007 nomme dans son préambule les Monténégrins, Serbes, Bosniaques, Albanais, Musulmans et Croates, et garantit aux « nations minoritaires » le droit de créer des conseils pour la protection de leurs droits propres (art. 79). La loi sur les droits et libertés des minorités de 2006 (art. 33) organise ces conseils : six existent, pour les Albanais, Bosniaques, Musulmans, Roms, Croates et Serbes. Chaque conseil reçoit 100 000 euros par an du budget de l'État. Le droit électoral abaisse le seuil d'accès au Parlement pour les listes des minorités, avec une règle propre aux listes croates, sans siège réservé.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Quatrième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur le Monténégro, adopté le 30 mai 2024 : six conseils des minorités nationales, 100 000 euros par an chacun (§ 50), Fonds pour les minorités doté de 0,15 % du budget de l'État (§ 52).", annee: 2024, source: "https://rm.coe.int/4th-op-montenegro-fr/1680b1d396"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution du Monténégro, préambule, art. 13 (langues en usage officiel) et art. 79 (droits des nations minoritaires, dont le droit de créer des conseils, point 13)", nature: "constitution", annee: 2007, source: "https://www.constituteproject.org/constitution/Montenegro_2013"}
+  - {instrument: "Loi sur les droits et libertés des minorités (Journal officiel 31/06 du 12 mai 2006, modifiée en 2006, 2007, 2011 et 2017), art. 33", nature: "loi", annee: 2006, source: "https://rm.coe.int/4th-sr-montenegro-en/1680a96640"}
+  - {instrument: "Loi sur l'élection des conseillers et des députés (dernière modification par le Parlement en 2014), règles de seuil pour les listes des minorités", nature: "loi", annee: 2014, source: "https://odihr.osce.org/sites/default/files/f/documents/4/9/560256_1.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Droit de créer des conseils pour la protection et la promotion des droits propres, Constitution de 2007, art. 79, point 13 ; selon l'art. 33 de la loi de 2006, les conseils ont pour rôle de « préserver l'identité nationale globale » de la minorité et d'améliorer ses droits ; les minorités de moins de 3 % de la population doivent réunir 510 signatures pour créer un conseil (§ 23) ; les conseils jugent leur rôle précis mal défini (§ 71).", source: "https://rm.coe.int/3eme-avis-montenegro-fr/168096951c"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Le serbe, le bosniaque, l'albanais et le croate sont « en usage officiel » à côté du monténégrin, Constitution, art. 13 ; procédure devant les autorités dans la langue minoritaire et noms de lieux traditionnels dans les zones où la minorité est nombreuse, art. 79, points 5 et 8 ; la loi impose l'usage officiel de la langue dans les communes comptant au moins 5 % de membres d'une minorité ; bulletins bilingues monténégrin-albanais à Tuzi et Ulcinj et dans une partie de Bar, Gusinje et Rožaje en 2023.", source: "https://odihr.osce.org/sites/default/files/f/documents/4/9/560256_1.pdf"}
+  education: {valeur: "partiel", note: "Droit à l'enseignement dans sa langue et son alphabet dans les établissements publics, avec l'histoire et la culture de la minorité dans les programmes, Constitution, art. 79, point 4 ; l'albanais est langue d'enseignement dans les zones à majorité albanaise et à Podgorica (troisième avis du Comité consultatif, 2019, § 16). Le système scolaire reste public, sans gestion par les conseils.", source: "https://rm.coe.int/3eme-avis-montenegro-fr/168096951c"}
+  fiscalite: {valeur: "partiel", note: "Chaque conseil reçoit 100 000 euros par an du budget de l'État ; le Fonds pour la protection et l'exercice des droits des minorités dispose de 0,15 % du budget de l'État, les présidents des conseils siègent à son conseil d'administration mais les conseils ne peuvent plus y déposer de demande (quatrième avis, 2024, § 50 et 52). Aucun pouvoir fiscal.", source: "https://rm.coe.int/4th-op-montenegro-fr/1680b1d396"}
+  representation: {valeur: "partiel", note: "Droit à une « représentation authentique » au Parlement et dans les assemblées locales, Constitution, art. 79, point 9 ; pas de siège réservé : la loi électorale prévoit que, si aucune liste d'une minorité de moins de 15 % de la population n'atteint le seuil de 3 %, les listes ayant chacune 0,7 % des voix obtiennent ensemble jusqu'à trois sièges, et la première liste croate obtient un siège avec 0,35 % ; en 2023, quatre listes de minorités ont obtenu 10 sièges sur 81.", source: "https://odihr.osce.org/sites/default/files/f/documents/4/9/560256_1.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité consultatif du Conseil de l'Europe relève en 2024 que les conseils estiment leur statut juridique mal défini, que la mesure électorale prévue pour les Croates n'a pas été étendue aux Roms, et demande de remédier à l'instrumentalisation du Fonds pour les minorités au service d'intérêts politiques partisans ; la mission d'observation de l'OSCE (2023) note que la loi ne fixe aucun critère pour accorder le statut de liste de minorité.", source: "https://rm.coe.int/4th-op-montenegro-fr/1680b1d396"}
+chronologie:
+  - {annee: 2006, evenement: "Loi sur les droits et libertés des minorités (Journal officiel 31/06, 12 mai), qui prévoit les conseils des minorités (art. 33) et le Fonds pour les minorités."}
+  - {annee: 2007, evenement: "Constitution du Monténégro : art. 13 (langues en usage officiel) et art. 79 (droits des nations minoritaires)."}
+  - {annee: 2013, evenement: "Deuxième avis du Comité consultatif : six conseils créés ; seuil électoral de 0,35 % pour la minorité croate."}
+  - {annee: 2017, evenement: "Dernière modification de la loi sur les droits et libertés des minorités (Journal officiel 31/17)."}
+  - {annee: 2023, evenement: "Élections législatives du 11 juin : quatre listes de minorités obtiennent 10 sièges ; recensement de décembre."}
+  - {annee: 2024, evenement: "Quatrième avis du Comité consultatif de la Convention-cadre (30 mai)."}
+fiabilite:
+  verifie: ["Préambule, art. 13 et 79 de la Constitution (Constitute Project).", "Liste des six conseils et références de la loi de 2006 et de ses modifications (quatrième rapport étatique, décembre 2022).", "Règles de seuil 3 %, 0,7 % et 0,35 %, seuil de 5 % pour l'usage officiel des langues, 10 sièges de minorités en 2023 (rapport final de l'OSCE/BIDDH).", "100 000 euros par conseil et 0,15 % du budget pour le Fonds (quatrième avis, 2024).", "Chiffres du recensement de 2023 par appartenance (Monstat)."]
+  non_confirme: ["Texte de la loi de 2006 non consulté directement : seuil de 510 signatures repris du troisième avis (2019) ; composition des conseils (17 à 35 membres, moitié de membres de droit — députés, membres du gouvernement, maires, présidents d'assemblées municipales —, moitié de représentants élus en assemblées électorales) décrite par le deuxième avis (2013, § 27), non vérifiée après la modification de 2017.", "Liste complète des communes où chaque langue minoritaire est en usage officiel non trouvée sur une source officielle.", "Les Serbes, qui ont un conseil, ne figurent pas parmi les minorités visées par la règle de seuil électoral selon le rapport de l'OSCE ; leur statut exact au regard de la loi électorale n'est pas vérifié.", "Nom officiel des conseils en monténégrin non vérifié."]
+sources:
+  - {titre: "Constitution du Monténégro (2007, modifiée en 2013) — Constitute Project", url: "https://www.constituteproject.org/constitution/Montenegro_2013"}
+  - {titre: "Quatrième rapport étatique du Monténégro, Convention-cadre (2022) — Conseil de l'Europe", url: "https://rm.coe.int/4th-sr-montenegro-en/1680a96640"}
+  - {titre: "Quatrième avis sur le Monténégro (2024) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/4th-op-montenegro-fr/1680b1d396"}
+  - {titre: "Troisième avis sur le Monténégro (2019) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/3eme-avis-montenegro-fr/168096951c"}
+  - {titre: "Deuxième avis sur le Monténégro (2013) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=090000168008c1ad"}
+  - {titre: "Élections législatives anticipées du 11 juin 2023, rapport final — OSCE/BIDDH", url: "https://odihr.osce.org/sites/default/files/f/documents/4/9/560256_1.pdf"}
+  - {titre: "Recensement 2023 : langue maternelle et religion selon l'appartenance nationale — Monstat", url: "https://www.monstat.org/uploads/files/popis%202021/saopstenja/ENGNacijaVjeraJezik%20ENG.xlsx"}

@@ -1,0 +1,55 @@
+uid: "frioulans"
+nom: "Frioulans"
+endonyme: "Furlans"
+territoire: "Communes de langue frioulane du Frioul-Vénétie Julienne et trois communes de Vénétie relevant de la loi n° 482/1999"
+etats: ["Italie"]
+region: "europe"
+coord: [46.1, 13.1]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 444000, annee: 2023, perimetre: "locuteurs actifs du frioulan estimés par l'enquête sociolinguistique de l'ARLeF (plus de 4 300 entretiens dans 178 communes du Frioul-Vénétie Julienne et de Vénétie) ; environ 700 000 personnes le comprennent", source: "https://arlef.it/lenghe-e-culture/cundizion-sociolinguistiche/"}
+lieux: {valeur: 173, unite: "communes du Frioul-Vénétie Julienne où la communauté linguistique frioulane est présente (122 de l'ex-province d'Udine, 15 de Gorizia, 36 de Pordenone) ; le frioulan est aussi parlé dans 7 communes de Vénétie", annee: 2026, source: "https://www.regione.fvg.it/rafvg/cms/RAFVG/cultura-sport/patrimonio-culturale/comunita-linguistiche/FOGLIA3/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Frioulans forment l'une des douze minorités linguistiques historiques protégées par la loi italienne n° 482 du 15 décembre 1999. Leur langue est parlée dans 173 communes du Frioul-Vénétie Julienne et dans sept communes de Vénétie, dont trois relèvent de la loi n° 482/1999. La loi régionale n° 29 du 18 décembre 2007 organise l'usage du frioulan dans l'administration locale et régionale, l'enseignement, la toponymie et les médias, sous la coordination de l'Agence régionale pour la langue frioulane (ARLeF). Les Frioulans n'ont pas d'institution politique propre élue : leurs droits collectifs sont linguistiques. La Région autonome a sa propre fiche (« Frioul-Vénétie Julienne »).
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Sixième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur l'Italie, adopté le 11 février 2026, § 19 : le frioulan figure parmi les douze minorités linguistiques historiques protégées par la loi n° 482/1999 ; le § 71 relève que l'Italie n'a pas ratifié la Charte européenne des langues régionales ou minoritaires.", annee: 2026, source: "https://rm.coe.int/acfc-op-vi-2025-5-sixth-opinion-on-italy-en/48802bdf6e"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi n° 482 du 15 décembre 1999 sur la protection des minorités linguistiques historiques", nature: "loi", annee: 1999, source: "https://www.parlamento.it/parlam/leggi/99482l.htm"}
+  - {instrument: "Loi régionale du Frioul-Vénétie Julienne n° 29 du 18 décembre 2007 sur la protection, la valorisation et la promotion de la langue frioulane", nature: "loi", annee: 2007, source: "https://lexview-int.regione.fvg.it/fontinormative/xml/xmlLex.aspx?anno=2007&legge=29"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "La loi régionale n° 29/2007, art. 30 bis (ajouté en 2021), crée une Commission régionale consultative pour la minorité linguistique frioulane, présidée par l'assesseur régional (membre de l'exécutif régional) et composée notamment du président de l'ARLeF et du président de l'Assemblée de la communauté linguistique frioulane ; elle rend des avis au Conseil et à la Junte régionale et elle est entendue avant l'approbation du Plan général de politique linguistique, art. 25, al. 4 ; la loi n° 482/1999, art. 3, permet aux minorités réparties sur plusieurs territoires de constituer des organismes de coordination et de proposition.", source: "https://lexview-int.regione.fvg.it/fontinormative/xml/xmlLex.aspx?anno=2007&legge=29"}
+  langue: {valeur: "partiel", note: "Dans les communes délimitées, l'usage oral et écrit de la langue protégée est admis dans les bureaux publics et devant le juge de paix, loi n° 482/1999, art. 9 ; seuls les actes en italien produisent des effets juridiques, art. 7 ; l'usage du frioulan est admis auprès des collectivités locales du territoire délimité et la réponse est donnée aussi en frioulan, loi régionale n° 29/2007, art. 6 ; les élus des conseils communaux et les conseillers régionaux peuvent s'exprimer en frioulan, art. 9, al. 1 et 2 ; les communes, fractions et localités portent aussi leur nom frioulan officiel, art. 11, al. 3 ; l'usage du frioulan auprès des bureaux régionaux hors du territoire délimité (art. 6, al. 2) a été annulé par la Cour constitutionnelle en 2009.", source: "https://lexview-int.regione.fvg.it/fontinormative/xml/xmlLex.aspx?anno=2007&legge=29"}
+  education: {valeur: "partiel", note: "Dans les écoles maternelles, primaires et secondaires de premier degré (collège) des communes délimitées, la langue de la minorité est utilisée dans les activités éducatives et comme langue d'enseignement, loi n° 482/1999, art. 4, al. 1 ; chaque école en fixe les modalités dans les limites de l'horaire national, art. 4, al. 2, et les parents déclarent à la préinscription s'ils choisissent cet enseignement, art. 4, al. 5 ; la loi régionale n° 29/2007, art. 12, al. 2, inscrit le frioulan dans le parcours éducatif de ces écoles ; la garantie d'au moins une heure par semaine (art. 14, al. 2) et le refus des parents à l'inscription (art. 12, al. 3) ont été annulés par la Cour constitutionnelle (arrêt n° 159 de 2009).", source: "https://lexview-int.regione.fvg.it/fontinormative/xml/xmlLex.aspx?anno=2007&legge=29"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "L'Université Laval (page mise à jour en juin 2025) indique que le frioulan n'est pas intégré officiellement au système scolaire et qu'il est enseigné à titre facultatif, une heure par semaine, dans une partie des écoles de l'ancienne province d'Udine, selon la volonté des établissements et les enseignants disponibles ; environ 40 % des communes de cette province ont une signalisation routière bilingue. La Cour constitutionnelle, par l'arrêt n° 159 déposé le 22 mai 2009, a annulé les art. 6, al. 2, 8, al. 1 et 3, 9, al. 3, 11, al. 5, 12, al. 3, et 14, al. 2 (dernière phrase) et 3, de la loi régionale n° 29/2007.", source: "https://www.axl.cefan.ulaval.ca/europe/italiefrioul.htm"}
+chronologie:
+  - {annee: 1996, evenement: "Loi régionale n° 15 du 22 mars : première loi reconnaissant le frioulan ; création de l'Observatoire de la langue et de la culture frioulanes (OLF)."}
+  - {annee: 1999, evenement: "Loi n° 482 du 15 décembre : le frioulan figure parmi les douze langues des minorités linguistiques historiques protégées par l'État."}
+  - {annee: 2005, evenement: "L'ARLeF remplace l'OLF."}
+  - {annee: 2007, evenement: "Loi régionale n° 29 du 18 décembre sur la protection, la valorisation et la promotion de la langue frioulane."}
+  - {annee: 2009, evenement: "Arrêt n° 159 de la Cour constitutionnelle annulant plusieurs dispositions de la loi régionale n° 29/2007."}
+  - {annee: 2021, evenement: "Création de la Commission régionale consultative pour la minorité linguistique frioulane (art. 30 bis de la loi régionale n° 29/2007)."}
+  - {annee: 2023, evenement: "Enquête sociolinguistique « Tire fûr la lenghe » dans 178 communes ; premiers résultats publiés en mai 2024."}
+fiabilite:
+  verifie: ["Loi n° 482/1999, art. 2, 3, 4, 7 et 9 (site du Parlement italien).", "Loi régionale n° 29/2007, art. 3, 6, 8, 9, 11, 12, 14, 25 et 30 bis, avec les mentions des dispositions annulées en 2009 (Lexview, Région).", "Dispositif de l'arrêt n° 159 de la Cour constitutionnelle, déposé le 22 mai 2009 (texte reproduit par Consulta Online).", "Trois des sept communes frioulanophones de Vénétie relèvent de la loi n° 482/1999 (ARLeF).", "173 communes en Frioul-Vénétie Julienne et 7 en Vénétie, lois de 1996, 1999 et 2007, création de l'ARLeF en 2005 (page de la Région sur la communauté frioulane).", "444 000 locuteurs actifs et 700 000 personnes comprenant le frioulan, enquête 2023 dans 178 communes (ARLeF).", "Sixième avis ACFC sur l'Italie, 2026, § 19 et 71."]
+  non_confirme: ["L'Assemblée de la communauté linguistique frioulane, organisme de coordination de communes mentionné à l'art. 30 bis de la loi régionale n° 29/2007 « si elle est constituée », n'a pas été documentée : statut, date de création et nombre de communes membres inconnus ; elle n'est pas élue par les locuteurs.", "Endonyme non vérifié sur une source écrite.", "Surface du territoire délimité et nombre de localités non trouvés.", "Les trois communes de Vénétie relevant de la loi n° 482/1999 ne sont pas nommées par l'ARLeF ; leur acte de délimitation n'a pas été consulté.", "Les constats de l'Université Laval sur l'enseignement et la signalisation ne sont pas datés précisément."]
+sources:
+  - {titre: "Legge 15 dicembre 1999, n. 482, norme in materia di tutela delle minoranze linguistiche storiche — Parlamento italiano", url: "https://www.parlamento.it/parlam/leggi/99482l.htm"}
+  - {titre: "L.R. 18 dicembre 2007, n. 29, tutela, valorizzazione e promozione della lingua friulana — Lexview", url: "https://lexview-int.regione.fvg.it/fontinormative/xml/xmlLex.aspx?anno=2007&legge=29"}
+  - {titre: "La comunità linguistica friulana — Regione autonoma Friuli Venezia Giulia", url: "https://www.regione.fvg.it/rafvg/cms/RAFVG/cultura-sport/patrimonio-culturale/comunita-linguistiche/FOGLIA3/"}
+  - {titre: "Cundizion sociolinguistiche — ARLeF", url: "https://arlef.it/lenghe-e-culture/cundizion-sociolinguistiche/"}
+  - {titre: "Sixth Opinion on Italy — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/acfc-op-vi-2025-5-sixth-opinion-on-italy-en/48802bdf6e"}
+  - {titre: "Corte costituzionale, sentenza n. 159 del 2009 — Consulta Online", url: "https://giurcost.org/decisioni/2009/0159s-09.html"}
+  - {titre: "Frioul-Vénétie Julienne — L'aménagement linguistique dans le monde (Université Laval)", url: "https://www.axl.cefan.ulaval.ca/europe/italiefrioul.htm"}

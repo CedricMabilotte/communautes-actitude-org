@@ -1,0 +1,57 @@
+uid: "forets-communautaires-suriname"
+nom: "Forêts communautaires (gemeenschapsbossen) du Suriname"
+endonyme: ""
+territoire: "Forêts désignées autour des terres des villages autochtones et marrons de l'intérieur du Suriname"
+etats: ["Suriname"]
+region: "ameriques"
+coord: [4.0, -55.9]
+type: "peuple_tribal"
+types_secondaires: ["peuple_autochtone", "communaute_afrodescendante"]
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "forêts communautaires", annee: null, source: ""}
+surface_km2: {valeur: 8260, annee: 2022, perimetre: "surface totale des forêts communautaires (826 000 ha, données de la Fondation pour la gestion et le contrôle forestiers, SBB)", source: "https://www.probos.nl/images/pdf/rapporten/251006_Final_Report_Forest_Management_Revenue_Suriname_V2.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les forêts communautaires (gemeenschapsbossen) prévues par la loi sur la gestion forestière (Wet Bosbeheer) du 18 septembre 1992. Le ministre chargé des forêts, après concertation avec le ministre du Développement régional, désigne des zones forestières situées autour des terres communautaires au profit des habitants de l'intérieur vivant en communautés tribales (in stamverband levende boslandbewoners), c'est-à-dire les villages autochtones et marrons. Ces forêts servent à leurs besoins propres en nourriture et en produits forestiers, ainsi qu'à une exploitation commerciale éventuelle du bois, à la collecte de produits forestiers autres que le bois et au défrichement agricole, sans redevance de concession. En 2022, elles couvraient 826 000 ha. La loi ne donne aucun titre de propriété ; la Cour interaméricaine des droits de l'homme a jugé en 2007 que ces permis sont révocables et ne reconnaissent pas la propriété collective.
+reconnaissance_regionale:
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Peuple saramaka c. Suriname, 28 novembre 2007, §§ 112 à 114 : les forêts communautaires de la loi de 1992 sont accordées à la discrétion du ministre, sont des concessions forestières révocables aux droits d'usage restreints et ne donnent pas effet à la propriété collective ; § 184 : le recours au Président de l'article 41(1)(b) n'est pas un recours effectif.", annee: 2007, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_172_ing.pdf"}
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Peuples kaliña et lokono c. Suriname, 25 novembre 2015, § 209 et note 243 : l'article 41 de la loi de 1992 reconnaît les intérêts des peuples autochtones et tribaux lors de l'octroi des concessions, sans droit à une participation effective.", annee: 2015, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_309_ing.pdf"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Wet Bosbeheer (loi sur la gestion forestière), loi du 18 septembre 1992, S.B. 1992 no 80, art. 1 (définitions de gemeenschapsgrond et gemeenschapsbos) et art. 41", nature: "loi", annee: 1992, source: "https://faolex.fao.org/docs/pdf/sur32831.pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les droits coutumiers des habitants de l'intérieur vivant en communautés tribales sur leurs villages, établissements et terres de culture sont respectés « autant que possible » (zoveel als mogelijk), avec recours écrit au Président déposé par l'autorité traditionnelle (Wet Bosbeheer 1992, art. 41(1)(a)-(b)) ; la forêt communautaire est une désignation ministérielle sans titre de propriété, que la Cour interaméricaine a qualifiée en 2007 de concession révocable.", source: "https://faolex.fao.org/docs/pdf/sur32831.pdf"}
+  ressources: {valeur: "partiel", note: "Le ministre désigne des forêts communautaires au profit des villages autochtones et marrons pour leurs besoins en bois, en nourriture et en produits forestiers et pour une exploitation commerciale éventuelle ; aucune redevance de concession n'est due, mais le bois et les produits sortis de la forêt communautaire ou destinés au commerce restent soumis aux taxes (retributies) des art. 32(1)(b) et 40 et à l'indemnité de l'art. 13 (Wet Bosbeheer 1992, art. 1(o) et 41(2)-(3)) ; l'utilisation et la gestion devaient être précisées par décret d'État.", source: "https://faolex.fao.org/docs/pdf/sur32831.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le régime est appliqué : en 2022, 111 permis d'exploitation forestière étaient actifs au nom de communautés autochtones ou tribales et les forêts communautaires couvraient 826 000 ha, pour 23 % de la production de bois ; l'État reste propriétaire des terres et accorde aux communautés des droits d'exploitation de dix ans, et une grande part des revenus va aux entrepreneurs qui achètent le bois sur pied (Probos, 2025). En 2007, la Cour interaméricaine relevait l'absence de forêt communautaire accordée à un membre du peuple saramaka et l'absence de réponse aux plaintes adressées au Président au titre de l'art. 41(1)(b) (arrêt Saramaka, §§ 113 et 184).", source: "https://www.probos.nl/images/pdf/rapporten/251006_Final_Report_Forest_Management_Revenue_Suriname_V2.pdf"}
+chronologie:
+  - {annee: 1992, evenement: "Loi sur la gestion forestière (Wet Bosbeheer) du 18 septembre 1992 : définition des forêts communautaires et art. 41."}
+  - {annee: 2007, evenement: "Arrêt Peuple saramaka c. Suriname de la Cour interaméricaine : les forêts communautaires ne valent pas reconnaissance de la propriété collective."}
+  - {annee: 2015, evenement: "Arrêt Peuples kaliña et lokono c. Suriname : l'art. 41 ne garantit pas la participation effective."}
+fiabilite:
+  verifie:
+    - "Art. 1(n) et 1(o) (définitions de gemeenschapsgrond et gemeenschapsbos) et art. 41 de la Wet Bosbeheer, S.B. 1992 no 80, lus sur les pages 2 et 14 du texte publié par FAOLEX."
+    - "Traduction anglaise de l'art. 41 citée par la Cour interaméricaine (arrêt Kaliña et Lokono, note 243)."
+    - "Arrêt Saramaka, §§ 112 à 114 et 184."
+    - "Surface (826 000 ha en 2022), 111 permis actifs au nom de communautés et part de 23 % de la production : rapport Probos de juillet 2025, citant la SBB."
+    - "Le projet de loi sur les droits collectifs des peuples autochtones et tribaux n'était pas adopté en 2025 (Probos, 2025) ; la loi sur la protection des zones d'habitat adoptée en 2017 n'était pas promulguée en septembre 2026 (Suriname Herald, 7 septembre 2026)."
+  non_confirme:
+    - "Le nombre et la liste des forêts communautaires désignées n'ont pas été trouvés ; les 111 permis actifs en 2022 ne correspondent pas forcément à autant de forêts communautaires ; pas de tableau par site."
+    - "L'adoption, après 2007, du décret d'État sur l'utilisation et la gestion des forêts communautaires n'a pas été vérifiée."
+sources:
+  - {titre: "Wet Bosbeheer, S.B. 1992 no 80 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/sur32831.pdf"}
+  - {titre: "Cour interaméricaine des droits de l'homme, Peuple saramaka c. Suriname, 28 novembre 2007", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_172_ing.pdf"}
+  - {titre: "Cour interaméricaine des droits de l'homme, Peuples kaliña et lokono c. Suriname, 25 novembre 2015", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_309_ing.pdf"}
+  - {titre: "Suriname REDD+, garantie C (niveau national)", url: "http://sis.surinameredd.org/safeguards-nl/nationaal-niveau/safeguard-c/"}
+  - {titre: "Probos, Revenue streams for forest managers in Suriname, juillet 2025", url: "https://www.probos.nl/images/pdf/rapporten/251006_Final_Report_Forest_Management_Revenue_Suriname_V2.pdf"}
+  - {titre: "Suriname Herald, Jubithana : aangepaste Wet bescherming woon- en leefgebieden schiet tekort, 7 septembre 2026", url: "https://www.srherald.com/suriname/2026/09/07/jubithana-aangepaste-wet-bescherming-woon-en-leefgebieden-schiet-tekort-voor-collectieve-rechten/"}

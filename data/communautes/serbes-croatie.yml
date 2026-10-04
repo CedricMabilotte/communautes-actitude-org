@@ -1,0 +1,71 @@
+uid: "serbes-croatie"
+nom: "Serbes de Croatie"
+endonyme: "Srbi u Hrvatskoj"
+territoire: "Croatie entière ; régime propre en Slavonie orientale, Baranja et Syrmie occidentale (comitats de Vukovar-Syrmie et d'Osijek-Baranja)"
+etats: ["Croatie"]
+region: "europe"
+coord: [45.4, 18.9]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 123892, annee: 2021, perimetre: "personnes déclarant l'appartenance serbe au recensement, Croatie entière (3,2 % de la population)", source: "https://podaci.dzs.hr/media/v0ajvwgi/popis_2021-stanovnistvo_po_gradovima_opcinama.xlsx"}
+lieux: {valeur: 20, unite: "villes et communes où les Serbes forment au moins un tiers de la population (seuil de l'usage officiel de la langue, art. 12)", annee: 2021, source: "https://podaci.dzs.hr/media/v0ajvwgi/popis_2021-stanovnistvo_po_gradovima_opcinama.xlsx"}
+surface_km2: {valeur: null, annee: null, perimetre: "autonomie surtout non territoriale", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution croate nomme les Serbes parmi les minorités nationales. La loi constitutionnelle sur les droits des minorités nationales de 2002 leur garantit des sièges au Parlement (Sabor), des conseils de la minorité élus dans les collectivités locales et une coordination nationale, rôle tenu par le Conseil national serbe (Srpsko narodno vijeće, SNV). En Slavonie orientale, l'Accord d'Erdut du 12 novembre 1995, mis en œuvre par l'Administration transitoire des Nations unies (ATNUSO), a prévu un Conseil commun des municipalités (Zajedničko veće opština, ZVO). Établi à Vukovar, le ZVO suit l'application de l'autonomie scolaire et culturelle de la communauté serbe de la région et adresse des propositions aux autorités.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Convention-cadre ratifiée par la Croatie le 11 octobre 1997 ; avis du cinquième cycle du Comité consultatif adopté le 1er février 2021 et publié le 10 juin 2021 ; visite du sixième cycle en juin 2025.", annee: 2021, source: "https://www.coe.int/en/web/minorities/croatia"}
+reconnaissance_onu:
+  - {mecanisme: "accord_sous_egide", detail: "Accord fondamental sur la région de Slavonie orientale, Baranja et Syrmie occidentale (Accord d'Erdut), transmis comme document de l'Assemblée générale et du Conseil de sécurité ; art. 12 : droit de la communauté serbe de désigner un conseil commun des municipalités.", annee: 1995, source: "https://undocs.org/S/1995/951"}
+  - {mecanisme: "mission_onu", detail: "Résolution 1037 du Conseil de sécurité créant l'Administration transitoire des Nations unies pour la Slavonie orientale, la Baranja et le Srem occidental (ATNUSO), chargée d'appliquer l'Accord d'Erdut.", annee: 1996, source: "https://undocs.org/S/RES/1037(1996)"}
+  - {mecanisme: "accord_sous_egide", detail: "Lettre d'intention du gouvernement croate du 13 janvier 1997 sur l'achèvement de la réintégration pacifique, transmise au président du Conseil de sécurité : désignation d'un Conseil commun des municipalités par la communauté serbe (point 4), autonomie scolaire et culturelle des minorités de la région (point 8).", annee: 1997, source: "https://undocs.org/S/1997/27"}
+  - {mecanisme: "organe_traite", detail: "Comité des droits de l'homme, observations finales sur la Croatie, par. 22 : préoccupation sur l'usage des langues minoritaires, en particulier en écriture cyrillique ; recommandation d'appliquer pleinement l'usage égal des langues et écritures, notamment du cyrillique à Vukovar.", annee: 2015, source: "https://undocs.org/CCPR/C/HRV/CO/3"}
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, observations finales sur la Croatie, par. 9 et 10 : représentation insuffisante des membres des minorités rom et serbe dans la police, l'administration et la justice.", annee: 2023, source: "https://undocs.org/CERD/C/HRV/CO/9-14"}
+base_nationale:
+  - {instrument: "Constitution de la République de Croatie, préambule (Serbes nommés parmi les minorités nationales)", nature: "constitution", annee: 1990, source: "https://www.constituteproject.org/constitution/Croatia_2013"}
+  - {instrument: "Loi constitutionnelle sur les droits des minorités nationales (Narodne novine 155/02, 47/10, 80/10, 93/11)", nature: "loi_organique", annee: 2002, source: "https://www.zakon.hr/z/295/Ustavni-zakon-o-pravima-nacionalnih-manjina"}
+  - {instrument: "Loi sur l'élection des députés au Sabor, art. 16 et 17", nature: "loi", annee: 1999, source: "https://www.zakon.hr/z/355/zakon-o-izborima-zastupnika-u-hrvatski-sabor"}
+  - {instrument: "Accord fondamental sur la région de Slavonie orientale, Baranja et Syrmie occidentale (Accord d'Erdut), art. 12", nature: "accord_paix", annee: 1995, source: "https://undocs.org/S/1995/951"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Conseils de la minorité élus au scrutin secret dans les communes, villes et comitats où vivent plus de 200 (communes et villes) ou 500 (comitats) Serbes ou au moins 1,5 % de la population ; personnes morales sans but lucratif ; les conseils de comitat peuvent former une coordination nationale, qui peut décider des emblèmes et symboles de la minorité et de la célébration de ses fêtes avec l'accord du Conseil des minorités nationales, loi constitutionnelle de 2002, art. 23 à 25 et 33 ; le SNV se présente comme cette coordination ; leurs attributions sont de proposition et d'avis, art. 31.", source: "https://www.zakon.hr/z/295/Ustavni-zakon-o-pravima-nacionalnih-manjina"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "L'exécutif local doit demander l'avis et les propositions des conseils de la minorité sur les projets d'actes généraux touchant les droits des minorités ; un conseil qui estime un acte contraire à la loi en informe le ministère chargé de l'administration, qui peut en suspendre l'application, loi constitutionnelle de 2002, art. 32 ; consultation, sans consentement.", source: "https://www.zakon.hr/z/295/Ustavni-zakon-o-pravima-nacionalnih-manjina"}
+  langue: {valeur: "partiel", note: "Usage officiel égal de la langue et de l'écriture de la minorité dans une collectivité locale où elle forme au moins un tiers de la population, ou lorsque le statut local ou un traité le prévoit, loi constitutionnelle de 2002, art. 12.", source: "https://www.zakon.hr/z/295/Ustavni-zakon-o-pravima-nacionalnih-manjina"}
+  education: {valeur: "partiel", note: "Droit à l'enseignement dans la langue et l'écriture de la minorité, avec une partie du programme propre (langue maternelle, littérature, histoire, géographie, culture) et l'apprentissage obligatoire du croate, loi constitutionnelle de 2002, art. 11 ; dans l'ancienne zone de l'ATNUSO, droit de préparer et d'appliquer un programme scolaire, lettre du gouvernement du 13 janvier 1997, point 8.", source: "https://www.zakon.hr/z/295/Ustavni-zakon-o-pravima-nacionalnih-manjina"}
+  fiscalite: {valeur: "partiel", note: "Les collectivités locales financent le fonctionnement des conseils de la minorité ; le budget de l'État peut financer certains programmes, loi constitutionnelle de 2002, art. 28 ; aucun pouvoir fiscal.", source: "https://www.zakon.hr/z/295/Ustavni-zakon-o-pravima-nacionalnih-manjina"}
+  representation: {valeur: "reconnu", note: "Au moins un et au plus trois sièges garantis au Sabor pour une minorité de plus de 1,5 % de la population, loi constitutionnelle de 2002, art. 19, al. 3 ; les membres de la minorité serbe élisent trois députés dans une circonscription spéciale, loi électorale, art. 17.", source: "https://www.zakon.hr/z/355/zakon-o-izborima-zastupnika-u-hrvatski-sabor"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité des droits de l'homme relève en 2015 des difficultés dans l'usage des langues minoritaires, en particulier en écriture cyrillique, et demande l'application de l'usage égal, notamment à Vukovar (par. 22) ; le Comité pour l'élimination de la discrimination raciale relève en 2023 la représentation insuffisante des Serbes dans la police, l'administration et la justice (par. 9). Au recensement de 2021, les Serbes forment 29,7 % de la population de Vukovar, sous le seuil d'un tiers (Bureau croate de statistique).", source: "https://undocs.org/CCPR/C/HRV/CO/3"}
+chronologie:
+  - {annee: 1995, evenement: "Accord d'Erdut (12 novembre) : art. 12 sur le conseil commun des municipalités."}
+  - {annee: 1996, evenement: "Résolution 1037 du Conseil de sécurité (15 janvier) : création de l'ATNUSO."}
+  - {annee: 1997, evenement: "Lettre du gouvernement croate du 13 janvier ; élections locales du 16 mars ; accord de création du Conseil commun des municipalités du 23 mai ; création du Conseil national serbe à Zagreb."}
+  - {annee: 1998, evenement: "Décision du gouvernement du 15 octobre portant création formelle du Conseil commun des municipalités."}
+  - {annee: 2002, evenement: "Loi constitutionnelle sur les droits des minorités nationales."}
+  - {annee: 2003, evenement: "Premières élections des conseils de la minorité au titre de la loi de 2002."}
+  - {annee: 2010, evenement: "Modification de la loi constitutionnelle (Narodne novine 47/10)."}
+  - {annee: 2015, evenement: "Observations finales du Comité des droits de l'homme sur la Croatie."}
+  - {annee: 2023, evenement: "Observations finales du Comité pour l'élimination de la discrimination raciale sur la Croatie."}
+fiabilite:
+  verifie: ["Loi constitutionnelle de 2002, texte consolidé croate (art. 11, 12, 19, 23 à 25, 28, 31 à 33).", "Loi électorale, art. 17 : trois députés élus par la minorité serbe.", "Accord d'Erdut, art. 12 (document S/1995/951) et lettre du gouvernement du 13 janvier 1997 (S/1997/27, points 4, 8 et 9).", "Résolution 1037 (1996) du Conseil de sécurité.", "123 892 Serbes et 20 villes ou communes à au moins un tiers de Serbes au recensement de 2021 (Bureau croate de statistique).", "Dates de création du ZVO (accord du 23 mai 1997, décision du gouvernement du 15 octobre 1998) et composition de son assemblée (28 conseillers, 2021-2025) selon le site du ZVO.", "Le SNV se présente comme coordination nationale des conseils de la minorité serbe, fondée à Zagreb en 1997 (site du SNV).", "Observations finales du Comité des droits de l'homme (2015, par. 22) et du CERD (2023, par. 9 et 10).", "Dates de la Convention-cadre pour la Croatie (ratification, cinquième avis, visite de 2025) sur la page du Conseil de l'Europe."]
+  non_confirme: ["Nombre de communes où le serbe et le cyrillique sont effectivement en usage officiel par statut local : non vérifié sur une liste officielle.", "Liste des membres du ZVO : neuf villes et communes (dont Vukovar et Beli Manastir) sur le site du ZVO, sans texte officiel consulté.", "Réseau du SNV (144 conseils et représentants) : chiffre du site du SNV, date non précisée.", "Texte de l'avis de 2021 du Comité consultatif de la Convention-cadre non lu ; seules ses dates ont été vérifiées.", "Statut juridique du ZVO en droit croate (association de droit privé ou organe sui generis) : non vérifié sur un texte officiel."]
+sources:
+  - {titre: "Ustavni zakon o pravima nacionalnih manjina, texte consolidé — Zakon.hr", url: "https://www.zakon.hr/z/295/Ustavni-zakon-o-pravima-nacionalnih-manjina"}
+  - {titre: "Zakon o izborima zastupnika u Hrvatski sabor — Zakon.hr", url: "https://www.zakon.hr/z/355/zakon-o-izborima-zastupnika-u-hrvatski-sabor"}
+  - {titre: "Constitutional Act on the Rights of National Minorities, traduction anglaise — ACE Project", url: "https://aceproject.org/ero-en/regions/europe/HR/croatia-constitutional-act-on-the-rights-of"}
+  - {titre: "Accord d'Erdut, A/50/757-S/1995/951 — Nations unies", url: "https://undocs.org/S/1995/951"}
+  - {titre: "Résolution 1037 (1996) du Conseil de sécurité — Nations unies", url: "https://undocs.org/S/RES/1037(1996)"}
+  - {titre: "Lettre du gouvernement croate du 13 janvier 1997, S/1997/27 — Nations unies", url: "https://undocs.org/S/1997/27"}
+  - {titre: "Observations finales du Comité des droits de l'homme sur la Croatie, CCPR/C/HRV/CO/3 (2015)", url: "https://undocs.org/CCPR/C/HRV/CO/3"}
+  - {titre: "Observations finales du CERD sur la Croatie, CERD/C/HRV/CO/9-14 (2023)", url: "https://undocs.org/CERD/C/HRV/CO/9-14"}
+  - {titre: "Recensement 2021, population par appartenance nationale et par ville ou commune — Bureau croate de statistique", url: "https://podaci.dzs.hr/media/v0ajvwgi/popis_2021-stanovnistvo_po_gradovima_opcinama.xlsx"}
+  - {titre: "O nama — Zajedničko veće opština", url: "https://zvo.hr/o-nama/"}
+  - {titre: "O vijeću — Srpsko narodno vijeće", url: "https://snv.hr/o-vijecu/"}
+  - {titre: "Croatia — Convention-cadre pour la protection des minorités nationales, Conseil de l'Europe", url: "https://www.coe.int/en/web/minorities/croatia"}
+  - {titre: "Constitution de la Croatie — Constitute Project", url: "https://www.constituteproject.org/constitution/Croatia_2013"}
+  - {titre: "Joint Council of Municipalities — Wikipedia", url: "https://en.wikipedia.org/wiki/Joint_Council_of_Municipalities"}

@@ -1,0 +1,62 @@
+uid: "autonomies-culturelles-estonie"
+nom: "Minorités nationales d'Estonie (autonomie culturelle)"
+endonyme: ""
+territoire: "Estonie (autonomie non territoriale ; communes historiquement suédoises de la côte ouest et des îles, Tallinn)"
+etats: ["Estonie"]
+region: "europe"
+coord: [59.1, 23.5]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 473, annee: 2022, perimetre: "personnes inscrites sur la liste électorale de l'autonomie culturelle suédoise pour l'élection de novembre 2022", source: "https://estlandssvenskarna.org/sov-idag/estlandssvenskarnas-kulturforvaltning-i-estland/"}
+lieux: {valeur: 1, unite: "autonomie culturelle en activité (suédoise) ; l'autonomie culturelle finnoise a pris fin le 26 septembre 2024", annee: 2025, source: "https://kul.ee/kultuuriline-mitmekesisus-ja-loimumine/poliitikakujundamine/vahemusrahvuse-kultuuriautonoomia"}
+surface_km2: {valeur: null, annee: null, perimetre: "sans objet : autonomie non territoriale", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les autonomies culturelles créées en application de la loi sur l'autonomie culturelle des minorités nationales du 26 octobre 1993, prise pour l'article 50 de la Constitution. La loi permet aux citoyens estoniens des minorités allemande, russe, suédoise et juive, et des minorités de plus de 3 000 personnes, de former une autonomie culturelle (kultuuriomavalitsus, organe d'administration propre de la culture) : ses membres s'inscrivent sur une liste nationale (rahvusnimekiri) et élisent un conseil culturel (kultuurinõukogu) de 20 à 60 membres pour trois ans. Deux autonomies ont été établies, celle de la minorité finnoise, portée par les Finnois ingriens (élections de 2004), et celle de la minorité suédoise (2007). Le gouvernement a mis fin à l'autonomie finnoise le 26 septembre 2024 ; seule l'autonomie suédoise est en activité.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur l'Estonie, ACFC/OP/V(2021)5, adopté le 3 février 2022 (§ 84 à 93) : seules les minorités finnoise ingrienne et suédoise ont formé une autonomie culturelle ; financement public commun de 114 300 € en 2019, 125 085 € en 2020 et 110 000 € en 2021 ; le Comité juge le champ de la loi étroit et note qu'aucune suite n'a été donnée aux modifications proposées par les deux conseils culturels", annee: 2022, source: "https://rm.coe.int/5th-op-estonia-en/1680a6cc9e"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République d'Estonie (1992), article 50", nature: "constitution", annee: 1992, source: "https://www.riigiteataja.ee/akt/111042025003"}
+  - {instrument: "Loi sur l'autonomie culturelle des minorités nationales (Vähemusrahvuse kultuuriautonoomia seadus, RT I 1993, 71, 1001), rédaction en vigueur depuis le 1er septembre 2025", nature: "loi", annee: 1993, source: "https://www.riigiteataja.ee/akt/109012025034"}
+  - {instrument: "Arrêté du gouvernement n° 192 du 26 septembre 2024 mettant fin à l'autonomie culturelle de la minorité finnoise", nature: "loi", annee: 2024, source: "https://www.riigiteataja.ee/akt/301102024004"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le conseil culturel est élu au suffrage direct et secret par les personnes inscrites sur la liste nationale (art. 11, 12, 15 et 18) et adopte les statuts de l'autonomie (art. 22) ; ses compétences se limitent à l'enseignement en langue maternelle, aux institutions culturelles et aux fonds et bourses (art. 5), dans le respect du droit estonien, et le gouvernement approuve le comité électoral et met fin à l'autonomie dans les cas prévus (art. 13 et 28).", source: "https://www.riigiteataja.ee/akt/109012025034"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "L'autonomie a pour objet d'organiser l'enseignement en langue maternelle (art. 5) et peut fonder des crèches, jardins d'enfants et écoles en langue de la minorité ou à enseignement renforcé de sa culture (art. 24, rédaction de 2025) ; l'ouverture d'une école suit la loi sur les écoles privées (art. 25).", source: "https://www.riigiteataja.ee/akt/109012025034"}
+  fiscalite: {valeur: "partiel", note: "Les ressources de l'autonomie comprennent des allocations du budget de l'État, des subventions des collectivités locales et une cotisation dont le conseil culturel fixe le montant (art. 27) ; les fonds affectés sont contrôlés par les organes de l'État.", source: "https://www.riigiteataja.ee/akt/109012025034"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "L'arrêté gouvernemental du 26 septembre 2024 met fin à l'autonomie finnoise : la liste nationale est restée sous 3 000 personnes depuis au moins 2017 (2 183 en 2023) et les élections au conseil culturel de 2020 (44,1 %) et de 2023 (43,4 %) n'ont pas atteint la participation de plus de moitié exigée par l'article 19. L'autonomie suédoise a tenu des élections en 2022 (56,4 % de participation, 21 élus) et le gouvernement a approuvé son comité électoral en août 2025. Le Comité consultatif de la Convention-cadre (2022) relève un financement de base stable et une coopération suivie avec les autorités, mais juge la loi inaccessible aux autres minorités.", source: "https://rm.coe.int/5th-op-estonia-en/1680a6cc9e"}
+chronologie:
+  - {annee: 1925, evenement: "Loi du 12 février sur l'autonomie culturelle des minorités nationales ; autonomies allemande (1925) et juive (1926)."}
+  - {annee: 1940, evenement: "Les autonomies culturelles sont supprimées par le pouvoir soviétique."}
+  - {annee: 1992, evenement: "La Constitution reconnaît aux minorités nationales le droit de créer des institutions d'administration propre de la culture (art. 50)."}
+  - {annee: 1993, evenement: "Loi sur l'autonomie culturelle des minorités nationales (26 octobre)."}
+  - {annee: 2001, evenement: "Première approbation de la liste nationale finnoise, sur demande de l'Union des Finnois ingriens d'Estonie (12 juin)."}
+  - {annee: 2003, evenement: "Règlement gouvernemental sur l'élection des conseils culturels (6 mai)."}
+  - {annee: 2004, evenement: "Approbation du comité électoral finnois (5 février) et première élection du conseil culturel finnois."}
+  - {annee: 2007, evenement: "Établissement de l'autonomie culturelle suédoise."}
+  - {annee: 2022, evenement: "Cinquième avis du Comité consultatif de la Convention-cadre (3 février). Élection du conseil culturel suédois (4-6 novembre)."}
+  - {annee: 2023, evenement: "Deuxième élection finnoise consécutive sous le seuil de participation (6-8 octobre)."}
+  - {annee: 2024, evenement: "Le gouvernement met fin à l'autonomie culturelle finnoise (arrêté n° 192 du 26 septembre)."}
+  - {annee: 2025, evenement: "Approbation du comité électoral du conseil culturel suédois (15 août)."}
+fiabilite:
+  verifie: ["Texte consolidé de la loi de 1993 en vigueur depuis le 1er septembre 2025, art. 1 à 29, et sa traduction anglaise officielle : Riigi Teataja.", "Article 50 de la Constitution : Riigi Teataja.", "Arrêté n° 192 du 26 septembre 2024 : motifs (liste nationale de 2 468 personnes en 2017 à 2 183 en 2023 ; participation de 44,1 % en 2020 et 43,4 % en 2023), aide de l'État d'environ 57 000 € par an à l'autonomie finnoise, dissolution volontaire de la fondation porteuse décidée le 27 mai 2024.", "Montants de 2019 à 2021 et constats du Comité consultatif : cinquième avis, § 84 à 93.", "Élection suédoise de 2022 (473 inscrits, 267 votants, 21 élus) : page de l'association Svenska Odlingens Vänner.", "Page du ministère de la Culture mise à jour le 5 août 2025 : seule l'autonomie suédoise est mentionnée."]
+  non_confirme: ["Dates d'établissement : le Comité consultatif (2022) indique Suédois 2004 et Finnois ingriens 2007, alors que l'arrêté de 2024 situe la première élection finnoise en 2004 et que le ministère de la Culture date l'autonomie suédoise de 2007 ; la fiche suit les sources nationales.", "Résultats de l'élection suédoise prévue après l'approbation du comité électoral d'août 2025 : non trouvés.", "Aucune observation d'un organe de traité de l'ONU nommant ces autonomies n'a été trouvée (CERD 2022 et Comité des droits de l'homme 2019 consultés) ; le rapport de l'Estonie au CERD de 2019 mentionne seulement le soutien budgétaire annuel aux autonomies culturelles.", "Tableau : aucune liste officielle de sites n'existe pour une autonomie non territoriale ; aucun tableau n'est joint."]
+sources:
+  - {titre: "Loi sur l'autonomie culturelle des minorités nationales, texte en vigueur — Riigi Teataja", url: "https://www.riigiteataja.ee/akt/109012025034"}
+  - {titre: "National Minorities Cultural Autonomy Act, traduction anglaise — Riigi Teataja", url: "https://www.riigiteataja.ee/en/eli/512092025002/consolide"}
+  - {titre: "Constitution de la République d'Estonie — Riigi Teataja", url: "https://www.riigiteataja.ee/akt/111042025003"}
+  - {titre: "Arrêté n° 192 du 26 septembre 2024 « Soome vähemusrahvuse kultuuriomavalitsuse tegevuse lõpetamine » — Riigi Teataja", url: "https://www.riigiteataja.ee/akt/301102024004"}
+  - {titre: "Arrêté du 15 août 2025 approuvant le comité électoral du conseil culturel suédois — Riigi Teataja", url: "https://www.riigiteataja.ee/akt/319082025001"}
+  - {titre: "Vähemusrahvuse kultuuriautonoomia — ministère de la Culture d'Estonie", url: "https://kul.ee/kultuuriline-mitmekesisus-ja-loimumine/poliitikakujundamine/vahemusrahvuse-kultuuriautonoomia"}
+  - {titre: "Comité consultatif de la Convention-cadre, cinquième avis sur l'Estonie, ACFC/OP/V(2021)5 — Conseil de l'Europe", url: "https://rm.coe.int/5th-op-estonia-en/1680a6cc9e"}
+  - {titre: "Estlandssvenskarnas kulturförvaltning — Svenska Odlingens Vänner", url: "https://estlandssvenskarna.org/sov-idag/estlandssvenskarnas-kulturforvaltning-i-estland/"}

@@ -1,0 +1,54 @@
+uid: "autogouvernements-nationalites-hongrie"
+nom: "Nationalités de Hongrie (autogouvernements)"
+endonyme: ""
+territoire: "Hongrie (autogouvernements locaux, territoriaux et nationaux des Bulgares, Grecs, Croates, Polonais, Arméniens, Roumains, Ruthènes, Serbes, Slovaques, Slovènes et Ukrainiens)"
+etats: ["Hongrie"]
+region: "europe"
+coord: [47.5, 19.0]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 143245, annee: 2011, perimetre: "somme des personnes rattachées à l'une des onze nationalités au recensement de 2011 (au moins une réponse sur l'appartenance, la langue maternelle, la langue parlée en famille ou l'attachement culturel ; une personne peut être comptée deux fois) : Arméniens 3 571, Bulgares 6 272, Croates 26 774, Grecs 4 642, Polonais 7 001, Roumains 35 641, Ruthènes 3 882, Serbes 10 038, Slovaques 35 208, Slovènes 2 820, Ukrainiens 7 396", source: "https://www.world-autonomies.info/non-territorial-autonomies/hungary"}
+lieux: {valeur: 574, unite: "autogouvernements locaux de nationalité élus (onze nationalités), en plus de 27 autogouvernements territoriaux et 11 autogouvernements nationaux", annee: 2019, source: "https://www.world-autonomies.info/non-territorial-autonomies/hungary"}
+surface_km2: {valeur: null, annee: null, perimetre: "autonomie non territoriale", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Hongrie reconnaît treize nationalités ; cette fiche couvre onze d'entre elles, les Roms et les Allemands sont traités à part. La Loi fondamentale de 2011 leur reconnaît le droit de créer des autogouvernements locaux et nationaux (art. XXIX), organisés par la loi CLXXIX de 2011 sur les droits des nationalités. Les électeurs inscrits sur la liste d'une nationalité élisent ses autogouvernements locaux, territoriaux et national, qui donnent leur avis ou leur consentement sur l'éducation, la culture et l'usage de la langue et peuvent reprendre des établissements scolaires et culturels. Chaque nationalité dispose d'un porte-parole à l'Assemblée nationale lorsque sa liste n'obtient pas de mandat préférentiel (siège attribué avec un nombre de voix réduit).
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième rapport de la Hongrie au titre de la Convention-cadre (2019) : il nomme les treize nationalités, décrit les droits d'avis et de consentement des autogouvernements, la reprise d'établissements et la présence des porte-parole à l'Assemblée nationale.", annee: 2019, source: "https://rm.coe.int/5th-sr-hungary-en/168092522f"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi fondamentale de la Hongrie (2011), préambule, art. 2 al. 2 et art. XXIX", nature: "constitution", annee: 2011, source: "https://www.constituteproject.org/constitution/Hungary_2016"}
+  - {instrument: "Loi CLXXIX de 2011 sur les droits des nationalités", nature: "loi", annee: 2011, source: "https://njt.hu/translation/J2011T0179P_20171221_FINrev.pdf"}
+  - {instrument: "Loi CCIII de 2011 sur l'élection des membres de l'Assemblée nationale (mandat préférentiel et porte-parole des nationalités)", nature: "loi", annee: 2011, source: "https://www.world-autonomies.info/non-territorial-autonomies/hungary"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les nationalités ont le droit de créer des autogouvernements locaux et nationaux, Loi fondamentale, art. XXIX, al. 2 ; la loi CLXXIX de 2011 fixe les règles de leur élection ; en 2019, 574 autogouvernements locaux et 27 territoriaux pour ces onze nationalités, plus un autogouvernement national par nationalité (Office national des élections, cité par B. Dobos, 2022).", source: "https://www.constituteproject.org/constitution/Hungary_2016"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "reconnu", note: "Les décisions de la commune qui touchent la nationalité, notamment sur l'usage collectif de la langue, l'éducation, les traditions et la culture, la presse locale, l'égalité des chances et l'action sociale, requièrent le consentement de l'autogouvernement local de nationalité, loi CLXXIX de 2011, art. 81, al. 1.", source: "https://njt.hu/translation/J2011T0179P_20171221_FINrev.pdf"}
+  langue: {valeur: "partiel", note: "Droit d'utiliser sa langue maternelle et de recevoir un enseignement dans cette langue, Loi fondamentale, art. XXIX, al. 1 ; aucun statut de langue officielle territoriale.", source: "https://www.constituteproject.org/constitution/Hungary_2016"}
+  education: {valeur: "partiel", note: "Les autogouvernements peuvent fonder, administrer et reprendre (prendre en charge à la place de l'État ou de la commune) des établissements scolaires et culturels, loi CLXXIX de 2011, art. 19, 24 et 36.", source: "https://njt.hu/translation/J2011T0179P_20171221_FINrev.pdf"}
+  fiscalite: {valeur: "partiel", note: "Les autogouvernements de tous niveaux ont droit à un soutien normatif de l'État (dotation calculée selon des critères fixés), dont le montant est fixé chaque année par la loi de finances ; aucun pouvoir fiscal propre n'est mentionné.", source: "https://www.world-autonomies.info/non-territorial-autonomies/hungary"}
+  representation: {valeur: "partiel", note: "La participation des nationalités à l'Assemblée nationale est réglée par une loi cardinale (loi votée à la majorité des deux tiers), Loi fondamentale, art. 2, al. 2 ; selon la loi CCIII de 2011, une liste de nationalité sans mandat préférentiel obtient un porte-parole sans droit de vote.", source: "https://www.world-autonomies.info/non-territorial-autonomies/hungary"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2019, en moyenne 66 % des membres recensés d'une nationalité vivaient dans une commune dotée d'un autogouvernement local de cette nationalité (91 % pour les Roms, 45 % pour les Ukrainiens) ; l'étude de B. Dobos (Eurac Research, 2022) relève une bureaucratisation et une centralisation qui font souvent agir ces organes comme des agences publiques spécialisées.", source: "https://www.world-autonomies.info/non-territorial-autonomies/hungary"}
+chronologie:
+  - {annee: 1993, evenement: "Loi LXXVII sur les droits des minorités nationales et ethniques : premiers autogouvernements des minorités."}
+  - {annee: 1994, evenement: "Premières élections des autogouvernements locaux des minorités."}
+  - {annee: 2011, evenement: "Loi fondamentale (art. XXIX), loi CLXXIX sur les droits des nationalités et loi CCIII sur l'élection des députés."}
+  - {annee: 2014, evenement: "Première législature avec des porte-parole des nationalités à l'Assemblée nationale."}
+  - {annee: 2019, evenement: "Élection de 574 autogouvernements locaux pour les onze nationalités, dont 116 croates et 112 slovaques."}
+  - {annee: 2024, evenement: "Élections des autogouvernements des nationalités : 2 146 autogouvernements locaux et 64 territoriaux, toutes nationalités confondues."}
+fiabilite:
+  verifie: ["Loi fondamentale, préambule, art. 2 al. 2 et art. XXIX al. 2 et 3 (Constitute Project).", "Cinquième rapport de la Hongrie à la Convention-cadre (2019) : liste des treize nationalités, droits de consentement, reprise d'établissements, porte-parole.", "Nombre d'autogouvernements locaux et territoriaux par nationalité de 1994 à 2019 et recensement de 2011 (B. Dobos, World Autonomies, tableaux 1, 3 et 4).", "Loi CLXXIX de 2011, art. 19, 24, 36 et 81 (traduction officielle anglaise, njt.hu).", "2 146 autogouvernements locaux et 64 territoriaux en 2024, toutes nationalités (Comitatus)."]
+  non_confirme: ["Nombre d'autogouvernements élus en 2024 par nationalité non trouvé.", "Chiffres du recensement de 2022 trouvés seulement pour six des onze nationalités (Slovaques 29 881, Croates 19 909, Ruthènes 7 111, Slovènes 3 965, Roumains environ 28 000, Ukrainiens environ 25 000) ; le total utilise 2011.", "Liste nominative des autogouvernements locaux non consultée : pas de tableau par site."]
+sources:
+  - {titre: "Loi fondamentale de la Hongrie — Constitute Project", url: "https://www.constituteproject.org/constitution/Hungary_2016"}
+  - {titre: "Fifth Report submitted by Hungary, Convention-cadre — Conseil de l'Europe", url: "https://rm.coe.int/5th-sr-hungary-en/168092522f"}
+  - {titre: "The Minority Self-Governments in Hungary, B. Dobos (2022) — World Autonomies, Eurac Research", url: "https://www.world-autonomies.info/non-territorial-autonomies/hungary"}
+  - {titre: "Act CLXXIX of 2011 on the Rights of Nationalities — traduction officielle, Nemzeti Jogszabálytár", url: "https://njt.hu/translation/J2011T0179P_20171221_FINrev.pdf"}
+  - {titre: "A népszámlálás adataiból — nemzetisegek.hu", url: "https://nemzetisegek.hu/2023/10/04/a-nepszamlalas-adataibol/"}
+  - {titre: "A 2024. évi nemzetiségi önkormányzati választások — Comitatus", url: "https://comitatus.sze.hu/a-2024-evi-nemzetisegi-onkormanyzati-valasztasok"}

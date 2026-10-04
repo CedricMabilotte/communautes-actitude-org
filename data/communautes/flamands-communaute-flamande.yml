@@ -1,0 +1,50 @@
+uid: "flamands-communaute-flamande"
+nom: "Flamands"
+endonyme: "Vlamingen"
+territoire: "Région de langue néerlandaise et institutions néerlandophones de la région bilingue de Bruxelles-Capitale"
+etats: ["Belgique"]
+region: "europe"
+coord: [51.0, 4.2]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 6629143, annee: 2020, perimetre: "habitants de la Région flamande au 1er janvier ; les néerlandophones de Bruxelles-Capitale ne sont pas comptés, faute de recensement linguistique", source: "https://statbel.fgov.be/fr/themes/population/structure-de-la-population"}
+lieux: {valeur: null, unite: "communes de la région de langue néerlandaise", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution belge compte trois communautés, dont la Communauté flamande (art. 2), et quatre régions linguistiques, dont la région de langue néerlandaise (art. 4). Le Parlement flamand et le gouvernement flamand exercent à la fois les compétences de la Communauté flamande et celles de la Région flamande (art. 137). Le parlement adopte des décrets (normes ayant force de loi) en matière culturelle, d'enseignement, de matières personnalisables (matières liées à la personne) et d'emploi des langues (art. 127 à 129). Ces décrets s'appliquent dans la région de langue néerlandaise ; ceux qui portent sur la culture, l'enseignement et les matières personnalisables s'appliquent aussi aux institutions de Bruxelles-Capitale qui relèvent de cette seule communauté. Les institutions néerlandophones de Bruxelles ont aussi leur fiche (« Néerlandophones de Bruxelles »).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la Belgique coordonnée le 17 février 1994, art. 2, 4, 43, 54, 67, 99, 115, 116, 118, 121, 122, 127 à 129, 137, 167, 170 et 175", nature: "constitution", annee: 1994, source: "https://www.senate.be/doc/const_fr.html"}
+  - {instrument: "Loi spéciale du 8 août 1980 de réformes institutionnelles", nature: "loi_organique", annee: 1980, source: "https://www.axl.cefan.ulaval.ca/europe/belgiquefla.htm"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Parlement flamand et gouvernement de la Communauté flamande, Constitution, art. 115 et 121 ; le parlement est composé de mandataires élus (art. 116) et élit le gouvernement (art. 122) ; il règle par décret certaines matières relatives à sa propre composition et à son fonctionnement (art. 118 § 2 et 123 § 2).", source: "https://www.senate.be/doc/const_fr.html"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le parlement règle par décret les matières culturelles, l'enseignement et les matières personnalisables, y compris la coopération internationale et la conclusion de traités dans ces matières, Constitution, art. 127, 128 et 167 ; ces décrets ont force de loi dans la région de langue néerlandaise et à l'égard des institutions bruxelloises qui relèvent de la seule Communauté flamande (art. 127 § 2 et 128 § 2) ; le parlement et le gouvernement exercent aussi les compétences de la Région flamande, art. 137.", source: "https://www.senate.be/doc/const_fr.html"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Les limites des régions linguistiques et les lois spéciales exigent une majorité dans chaque groupe linguistique des chambres fédérales, dont le groupe linguistique néerlandais, Constitution, art. 4 ; les trois quarts d'un groupe linguistique peuvent suspendre un projet de loi jugé contraire aux relations entre communautés (procédure dite de la « sonnette d'alarme »), art. 54 ; ces droits appartiennent aux élus fédéraux néerlandophones, non aux organes de la Communauté.", source: "https://www.senate.be/doc/const_fr.html"}
+  langue: {valeur: "reconnu", note: "La région de langue néerlandaise est une des quatre régions linguistiques, Constitution, art. 4 ; le Parlement flamand règle par décret, à l'exclusion du législateur fédéral, l'emploi des langues en matière administrative, dans l'enseignement et dans les relations de travail, art. 129 ; ces décrets ne s'appliquent ni aux communes à facilités (communes où la loi prescrit ou permet une autre langue), ni aux services dont l'activité dépasse la région linguistique, ni aux institutions fédérales et internationales désignées par la loi, art. 129 § 2.", source: "https://www.senate.be/doc/const_fr.html"}
+  education: {valeur: "reconnu", note: "L'enseignement relève du Parlement flamand, sauf le début et la fin de l'obligation scolaire, les conditions minimales de délivrance des diplômes et le régime des pensions, Constitution, art. 127 § 1er, 2°.", source: "https://www.senate.be/doc/const_fr.html"}
+  fiscalite: {valeur: "partiel", note: "Un impôt au profit d'une communauté ou d'une région peut être établi par décret, Constitution, art. 170 § 2 ; le système de financement de la Communauté est fixé par une loi fédérale à majorité spéciale et le Parlement flamand règle l'affectation de ses recettes, art. 175.", source: "https://www.senate.be/doc/const_fr.html"}
+  representation: {valeur: "reconnu", note: "Le Parlement flamand désigne vingt-neuf sénateurs sur soixante, dont au moins un domicilié à Bruxelles-Capitale, Constitution, art. 67 ; la Chambre et le Sénat ont un groupe linguistique néerlandais, art. 43 ; le Conseil des ministres compte autant de ministres d'expression néerlandaise que d'expression française, Premier ministre excepté, art. 99.", source: "https://www.senate.be/doc/const_fr.html"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "L'Université Laval décrit un seul Parlement flamand et un seul gouvernement flamand qui exercent à la fois les compétences communautaires et régionales, et recense des décrets et arrêtés flamands sur l'emploi des langues, l'enseignement et l'intégration civique, de 1981 à 2014.", source: "https://www.axl.cefan.ulaval.ca/europe/belgiquefla.htm"}
+chronologie:
+  - {annee: 1963, evenement: "Loi du 30 juillet 1963 concernant le régime linguistique dans l'enseignement."}
+  - {annee: 1980, evenement: "Loi spéciale du 8 août 1980 de réformes institutionnelles ; les institutions communautaires et régionales flamandes sont fusionnées."}
+  - {annee: 1994, evenement: "Constitution coordonnée du 17 février 1994 : art. 2, 4, 115, 121, 127 à 129 et 137."}
+  - {annee: 1995, evenement: "Première élection directe du Parlement flamand."}
+  - {annee: 2014, evenement: "Réforme du Sénat : le Parlement flamand désigne vingt-neuf sénateurs (art. 67)."}
+fiabilite:
+  verifie: ["Constitution belge, art. 2, 4, 39, 43, 54, 67, 99, 115, 116, 118, 121, 122, 123, 127 à 129, 137, 167, 170 et 175 (texte coordonné du Sénat).", "Population de la Région flamande au 1er janvier 2020 : 6 629 143 (tableau Statbel).", "Fusion des institutions communautaires et régionales flamandes (Université Laval).", "Parlement de 124 membres, 118 élus en Région flamande et 6 à Bruxelles ; élection directe depuis 1995 (Wikipédia, sans accès au site du Parlement flamand, qui refuse la connexion)."]
+  non_confirme: ["Nombre de communes : 308 selon l'Université Laval (chiffre antérieur aux fusions de 2019 et de 2025) ; aucun chiffre à jour consulté, valeur laissée vide.", "Surface de la région de langue néerlandaise : l'Université Laval indique 44 % de la superficie du pays, sans chiffre en km².", "Date de 1980 pour la fusion des institutions : tirée de l'historique courant, texte de la loi spéciale non consulté sur le Moniteur belge.", "Aucune reconnaissance onusienne ou régionale nommant la Communauté flamande n'a été trouvée.", "Inclusion d'un groupe majoritaire de l'État : alignée sur les fiches de la Communauté française, des Québécois et des Catalans."]
+sources:
+  - {titre: "Constitution belge (texte coordonné) — Sénat de Belgique", url: "https://www.senate.be/doc/const_fr.html"}
+  - {titre: "Structure de la population — Statbel", url: "https://statbel.fgov.be/fr/themes/population/structure-de-la-population"}
+  - {titre: "Belgique : la Communauté flamande — L'aménagement linguistique dans le monde (Université Laval)", url: "https://www.axl.cefan.ulaval.ca/europe/belgiquefla.htm"}
+  - {titre: "Parlement flamand — Wikipédia", url: "https://fr.wikipedia.org/wiki/Parlement_flamand"}
+  - {titre: "Organisation de l'Autorité flamande — Flandre.be", url: "https://www.vlaanderen.be/fr/autorite/organisation-de-lautorite-flamande"}

@@ -1,0 +1,58 @@
+uid: "territoires-indigenes-originaires-paysans-bolivie"
+nom: "Territoires indigènes originaires paysans (TIOC) de Bolivie"
+endonyme: ""
+territoire: "Terres collectives titrées TCO puis TIOC, dans les neuf départements, surtout Altiplano, basses terres orientales et Amazonie"
+etats: ["Bolivie"]
+region: "ameriques"
+coord: [-16.3, -64.5]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 190, unite: "TIOC titrés (34 sur l'Altiplano, 101 dans les vallées interandines, 55 dans les basses terres), d'après le rapport 2011 de la Fondation Tierra", annee: 2011, source: "https://dia.upenn.edu/en/content/BOL0021Y/"}
+surface_km2: {valeur: 260103, annee: 2024, perimetre: "surface classée TIOC/TCO dans la structure de la propriété rurale à 2024 (graphique 14 : 26 010 254 ha, INRA, SIG, 2025) ; la surface assainie et titrée en TCO/TIOC de 1996 à 2024 est de 24 969 380 ha (figure 3.8 de « La Reforma Agraria en cifras »)", source: "https://www.inra.gob.bo/wp-content/uploads/2025/10/LIBRO-INRA-.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les terres communautaires d'origine (TCO, propriété collective d'un peuple autochtone) sont créées par la loi 1715 de 1996 sur le Service national de réforme agraire, dite loi INRA. La Constitution de 2009 prévoit leur conversion en territoires indigènes originaires paysans (TIOC) par une démarche administrative (disposition transitoire septième) et déclare la propriété collective indivisible, imprescriptible, insaisissable, inaliénable, irréversible et exempte de l'impôt sur la propriété agraire (art. 394.III). Elle reconnaît sur ces territoires l'usage exclusif des ressources renouvelables, la consultation préalable et l'application des normes propres (art. 403). Selon l'Institut national de réforme agraire (INRA), les TIOC/TCO couvrent 26 010 254 ha en 2024, soit 27 % de la structure de la propriété rurale. La fiche couvre le régime foncier ; les autonomies indigènes originaires paysannes (AIOC, gouvernements territoriaux) relèvent d'un autre régime.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Rapport de mission en Bolivie du Rapporteur spécial Rodolfo Stavenhagen (A/HRC/11/11), § 29 à 33 et 87 : description des TCO, retards de titrage, appropriations illégales ; recommandation de priorité au titrage des TCO.", annee: 2009, source: "https://documents.un.org/api/symbol/access?s=A/HRC/11/11&l=fr&t=pdf"}
+  - {mecanisme: "oit_169", detail: "La Bolivie ratifie la Convention 169 de l'OIT le 11 décembre 1991.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+base_nationale:
+  - {instrument: "Loi 1715 du Service national de réforme agraire (loi INRA), art. 41.I.5", nature: "loi", annee: 1996, source: "https://bolivia.infoleyes.com/articulo/24116"}
+  - {instrument: "Constitution politique de l'État plurinational de Bolivie, art. 30.II, 190, 394.III, 403 et disposition transitoire septième", nature: "constitution", annee: 2009, source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {instrument: "Loi 073 de délimitation juridictionnelle (Ley de Deslinde Jurisdiccional), art. 10", nature: "loi", annee: 2010, source: "https://www.lexivox.org/norms/BO-L-N73.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La Constitution (art. 403.I) reconnaît la faculté d'appliquer les normes propres, administrées par les structures de représentation du territoire ; le gouvernement territorial complet passe par la voie distincte de l'autonomie (art. 293).", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  pouvoir_normatif: {valeur: "partiel", note: "La Constitution (art. 403.I) reconnaît l'application des normes propres sur le territoire et la définition de son développement selon les critères culturels du peuple.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  justice_propre: {valeur: "partiel", note: "La Constitution (art. 190) reconnaît la juridiction indigène originaire paysanne, exercée par les autorités propres selon leurs normes et procédures ; la loi 073 de 2010 (art. 10) en exclut notamment les homicides, les viols, les affaires où l'État est partie, le droit agraire hors répartition interne des terres, le droit minier, forestier et des hydrocarbures.", source: "https://www.lexivox.org/norms/BO-L-N73.html"}
+  terres: {valeur: "reconnu", note: "La loi 1715 de 1996 (art. 41.I.5) définit les TCO comme inaliénables, indivisibles, irréversibles, collectives, insaisissables et imprescriptibles ; la Constitution (art. 394.III et 30.II.6) garantit la propriété collective et le titrage collectif.", source: "https://bolivia.infoleyes.com/articulo/24116"}
+  ressources: {valeur: "partiel", note: "La Constitution (art. 403.I et 30.II.17) donne l'usage exclusif des ressources renouvelables dans les conditions fixées par la loi ; pour les ressources non renouvelables, seuls la consultation et un partage des bénéfices sont prévus.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 30.II.15 et 403.I) impose une consultation préalable, obligatoire et de bonne foi, sans exiger le consentement.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  langue: {valeur: "reconnu", note: "La Constitution (art. 5.I) fait des 36 langues des nations et peuples indigènes originaires paysans des langues officielles de l'État.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  education: {valeur: "partiel", note: "La Constitution (art. 30.II.12) garantit une éducation intraculturelle, interculturelle et plurilingue, sans système scolaire propre au territoire.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "La Constitution (art. 146.VII) prévoit des circonscriptions spéciales indigènes originaires paysannes à la Chambre des députés, dans les départements où ces peuples sont minoritaires.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Rapporteur spécial des Nations unies relève en 2009 des retards de titrage des TCO, des surfaces reconnues inférieures aux territoires traditionnels sur l'Altiplano et des appropriations illégales de TCO dans les basses terres (A/HRC/11/11, § 31 à 33) ; l'INRA compte fin 2024 environ 148 propriétés TCO/TIOC, près d'un demi-million d'hectares, encore en attente de titre.", source: "https://documents.un.org/api/symbol/access?s=A/HRC/11/11&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1990, evenement: "Marche pour le territoire et la dignité des peuples de l'Orient, du Chaco et de l'Amazonie ; l'État reconnaît les premiers territoires de peuples autochtones."}
+  - {annee: 1996, evenement: "La loi 1715 (loi INRA) crée les terres communautaires d'origine et leur procédure de régularisation (saneamiento)."}
+  - {annee: 2006, evenement: "La loi 3545 de reconduction communautaire de la réforme agraire relance le titrage."}
+  - {annee: 2009, evenement: "La Constitution crée la catégorie TIOC et prévoit la conversion administrative des TCO (art. 394.III, 403, disposition transitoire septième)."}
+  - {annee: 2010, evenement: "La loi 073 de délimitation juridictionnelle fixe le champ de la juridiction indigène originaire paysanne."}
+  - {annee: 2024, evenement: "L'INRA compte 26 010 254 ha de TIOC/TCO dans la structure de la propriété rurale."}
+fiabilite:
+  verifie: ["Article 41.I.5 de la loi 1715 de 1996.", "Articles 5, 30.II, 146.VII, 190, 293, 394.III, 403 et disposition transitoire septième de la Constitution de 2009.", "Exemption d'impôt foncier et inaliénabilité, fiche « Tipos de propiedad » de l'INRA.", "Surface TIOC/TCO à 2024 (graphique 14) et propriétés en attente de titre, ouvrage « INRA en perspectiva », 2025.", "Paragraphes 29 à 33 et 87 du rapport A/HRC/11/11.", "Article 10 de la loi 073 de 2010 (exclusions de la juridiction propre).", "190 TIOC titrés en 2011, commentaire de carte de l'Université de Pennsylvanie citant la Fondation Tierra."]
+  non_confirme: ["Nombre de TIOC titrés après 2011 : aucune liste officielle consultée.", "Année du décret suprême 0727 sur le changement de dénomination TCO en TIOC (l'INRA cite 2013, le commentaire de l'Université de Pennsylvanie 2010).", "Population vivant dans les TIOC : l'INRA indique ne pas disposer d'un registre à jour des bénéficiaires.", "Application effective de la juridiction propre dans les TIOC."]
+sources:
+  - {titre: "Loi 1715, art. 41 — Infoleyes Bolivia", url: "https://bolivia.infoleyes.com/articulo/24116"}
+  - {titre: "Tipos de propiedad — Institut national de réforme agraire (INRA)", url: "https://www.inra.gob.bo/tipos-de-propiedad/"}
+  - {titre: "Constitution de Bolivie (2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {titre: "INRA en perspectiva : memoria, logros y retos de la titulación de tierras en Bolivia — INRA, 2025", url: "https://www.inra.gob.bo/wp-content/uploads/2025/10/LIBRO-INRA-.pdf"}
+  - {titre: "La Reforma Agraria en cifras — INRA et Fundación ARU, 2025", url: "https://www.inra.gob.bo/wp-content/uploads/2025/10/Libro-de-la-Reforma-Agraria.pdf"}
+  - {titre: "Rapport du Rapporteur spécial, mission en Bolivie (A/HRC/11/11), 2009 — ONU", url: "https://documents.un.org/api/symbol/access?s=A/HRC/11/11&l=fr&t=pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Ley de Deslinde Jurisdiccional (loi 073 de 2010) — Lexivox", url: "https://www.lexivox.org/norms/BO-L-N73.html"}
+  - {titre: "Map of titled indigenous territories (TIOC) in Bolivia, as of 2011 — Dispossessions in the Americas, Université de Pennsylvanie", url: "https://dia.upenn.edu/en/content/BOL0021Y/"}

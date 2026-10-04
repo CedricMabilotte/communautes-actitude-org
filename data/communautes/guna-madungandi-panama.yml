@@ -1,0 +1,58 @@
+uid: "guna-madungandi-panama"
+nom: "Guna de la comarca Madungandí"
+endonyme: ""
+territoire: "Comarca Kuna de Madungandí (province de Panamá, district de Chepo, haut Bayano)"
+etats: ["Panama"]
+region: "ameriques"
+coord: [9.2, -78.6]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 7647, annee: 2023, perimetre: "ensemble des personnes recensées dans le corregimiento (circonscription) de la comarca Kuna de Madungandí, district de Chepo, sans distinction d'appartenance", source: "https://www.inec.gob.pa/archivos/P053342420231213140620Cuadro%2004.pdf"}
+lieux: {valeur: 1, unite: "comarca", annee: 1996, source: "https://utp.ac.pa/documentos/2010/pdf/kuna_madugandi.PDF"}
+surface_km2: {valeur: 1800, annee: 1996, perimetre: "superficie approximative du polygone délimité par la loi 24 de 1996 (art. 1)", source: "https://utp.ac.pa/documentos/2010/pdf/kuna_madugandi.PDF"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Guna du haut Bayano vivent à l'est de Panamá, autour du lac de retenue du barrage du Bayano, achevé en 1976. La loi 24 de 1996 crée pour eux la comarca (division territoriale autochtone à statut spécial) Kuna de Madungandí, d'environ 1 800 km², propriété collective, gouvernée par un Congrès général distinct de celui de Guna Yala. En 2014, la Cour interaméricaine des droits de l'homme condamne le Panama pour les retards de délimitation et de démarcation de ces terres et pour la durée des procédures contre les occupants non autochtones. L'arrêt situe environ 15 communautés guna dans le haut Bayano ; le recensement de 2023 compte 7 647 habitants dans la comarca.
+reconnaissance_regionale:
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Peuples Kuna de Madungandí et Emberá de Bayano et leurs membres c. Panama (série C n° 284) : violation du droit à la propriété collective (art. 21 de la Convention américaine), du devoir d'adapter le droit interne faute de procédure de délimitation et de titrage avant 2008 (art. 2), et du délai raisonnable dans des procédures internes (art. 8.1 et 25).", annee: 2014, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_284_esp.pdf"}
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Rapport du Rapporteur spécial James Anaya sur la situation des peuples autochtones au Panama (A/HRC/27/52/Add.1) : la comarca Guna de Madungandí figure parmi les cinq comarcas (par. 13) ; le déplacement lié au barrage du Bayano est examiné (par. 48).", annee: 2014, source: "https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/SR/A.HRC.27.52.Add.1-MissionPanama_AUV.pdf"}
+  - {mecanisme: "dnudpa", detail: "Le Panama vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Loi 24 du 12 janvier 1996 qui crée la comarca Kuna de Madungandí (Gaceta Oficial 22951)", nature: "loi", annee: 1996, source: "https://utp.ac.pa/documentos/2010/pdf/kuna_madugandi.PDF"}
+  - {instrument: "Décret exécutif 228 du 3 décembre 1998, Charte organique de la comarca (Gaceta Oficial 23687), complété par le décret exécutif 247 de 2008", nature: "loi", annee: 1998, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_284_esp.pdf"}
+  - {instrument: "Loi 88 du 22 novembre 2010 sur les langues et alphabets des peuples autochtones", nature: "loi", annee: 2010, source: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  - {instrument: "Cour interaméricaine des droits de l'homme, arrêt du 14 octobre 2014, Kuna de Madungandí et Emberá de Bayano c. Panama", nature: "jurisprudence", annee: 2014, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_284_esp.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La loi 24 de 1996 (art. 5 à 7) reconnaît le Congrès général comme autorité traditionnelle suprême, les congrès régionaux et locaux, un cacique élu par le Congrès général et un saila (chef de village) dans chaque localité.", source: "https://utp.ac.pa/documentos/2010/pdf/kuna_madugandi.PDF"}
+  pouvoir_normatif: {valeur: "partiel", note: "La loi 24 de 1996 (art. 5) admet les décisions des congrès à condition qu'elles ne contredisent ni la Constitution ni les lois ; la Charte organique est reconnue par décret de l'exécutif (art. 4 et 20).", source: "https://utp.ac.pa/documentos/2010/pdf/kuna_madugandi.PDF"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "La loi 24 de 1996 (art. 2) fait des terres de la comarca une propriété collective de la comarca, dont la tenure, la conservation et l'usage sont réglés par la Constitution, les lois et la loi 24.", source: "https://utp.ac.pa/documentos/2010/pdf/kuna_madugandi.PDF"}
+  ressources: {valeur: "partiel", note: "La loi 24 de 1996 (art. 9) confie à la communauté, avec les institutions de l'État, la conservation et l'usage des ressources naturelles renouvelables ; le sous-sol appartient à l'État (art. 2) et les activités sont encadrées par la gestion du bassin du Bayano (art. 10 à 12).", source: "https://utp.ac.pa/documentos/2010/pdf/kuna_madugandi.PDF"}
+  consentement: {valeur: "partiel", note: "La loi 24 de 1996 subordonne l'exploitation du sous-sol à des accords avec les autorités de la comarca (art. 2) et les activités d'étrangers à l'autorisation conjointe du gouvernement national et du Congrès général (art. 15).", source: "https://utp.ac.pa/documentos/2010/pdf/kuna_madugandi.PDF"}
+  langue: {valeur: "partiel", note: "La loi 88 de 2010 reconnaît la langue kuna et son alphabet (art. 1 et 2) et prévoit son enseignement à côté de l'espagnol dans toutes les comarcas (art. 4), sans statut de langue officielle.", source: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  education: {valeur: "partiel", note: "La loi 24 de 1996 (art. 16) prévoit une éducation bilingue interculturelle assurée par le ministère de l'Éducation en coordination avec les communautés.", source: "https://utp.ac.pa/documentos/2010/pdf/kuna_madugandi.PDF"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La Cour interaméricaine (2014) constate que les terres n'ont été délimitées qu'en 1996 et démarquées qu'en 2000, et que deux procédures pénales et une procédure d'expulsion d'occupants non autochtones ont dépassé le délai raisonnable.", source: "https://www.corteidh.or.cr/docs/casos/articulos/resumen_284_esp.pdf"}
+chronologie:
+  - {annee: 1972, evenement: "Début de la construction du barrage du Bayano ; une partie de la réserve est inondée et ses habitants sont déplacés de 1973 à 1975."}
+  - {annee: 1996, evenement: "La loi 24 crée la comarca Kuna de Madungandí."}
+  - {annee: 1998, evenement: "Le décret exécutif 228 adopte la Charte organique de la comarca."}
+  - {annee: 2000, evenement: "Démarcation physique de la comarca, d'avril à juin."}
+  - {annee: 2008, evenement: "Le décret exécutif 247 confie la justice administrative de police dans la comarca à un corregidor de police (fonctionnaire de police administrative) nommé par le président de la République et le ministre de Gouvernement et de Justice."}
+  - {annee: 2014, evenement: "La Cour interaméricaine des droits de l'homme condamne le Panama dans l'affaire Kuna de Madungandí et Emberá de Bayano."}
+fiabilite:
+  verifie: ["Texte de la loi 24 de 1996 (art. 1 à 22), surface de 180 000 ha (art. 1).", "Arrêt de la Cour interaméricaine du 14 octobre 2014 et son résumé officiel.", "Article 1 de la loi 88 de 2010.", "Vote du Panama pour la résolution 61/295.", "Population de 7 647 habitants au recensement de 2023 (INEC, tableau 4).", "Mention de la comarca dans le rapport A/HRC/27/52/Add.1 (2014)."]
+  non_confirme: ["Contenu de la Charte organique (décret exécutif 228 de 1998), connu par les citations de l'arrêt de 2014.", "Nombre exact de localités (l'arrêt indique environ 15 communautés).", "Surface : 1 800 km² selon la loi 24 de 1996, 2 127,2 km² selon le tableau du recensement 2023 (données de l'Institut géographique national Tommy Guardia).", "Application à la comarca de la loi 37 de 2016 sur la consultation et de la garantie de sièges de l'article 147 de la Constitution.", "État d'exécution de l'arrêt de 2014."]
+sources:
+  - {titre: "Loi 24 de 1996 qui crée la comarca Kuna de Madungandí — Gaceta Oficial 22951 (copie de l'Universidad Tecnológica de Panamá)", url: "https://utp.ac.pa/documentos/2010/pdf/kuna_madugandi.PDF"}
+  - {titre: "Arrêt Kuna de Madungandí et Emberá de Bayano c. Panama (2014) — Cour interaméricaine des droits de l'homme", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_284_esp.pdf"}
+  - {titre: "Résumé officiel de l'arrêt (2014) — Cour interaméricaine des droits de l'homme", url: "https://www.corteidh.or.cr/docs/casos/articulos/resumen_284_esp.pdf"}
+  - {titre: "Loi 88 de 2010 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  - {titre: "Recensement 2023, tableau 4 : superficie, population et densité par province, comarca, district et corregimiento — INEC Panama", url: "https://www.inec.gob.pa/archivos/P053342420231213140620Cuadro%2004.pdf"}
+  - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones, mission au Panama, A/HRC/27/52/Add.1 (2014) — HCDH", url: "https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/SR/A.HRC.27.52.Add.1-MissionPanama_AUV.pdf"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

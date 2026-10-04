@@ -1,0 +1,60 @@
+uid: "gaeltacht-irlande"
+nom: "Gaeltacht d'Irlande"
+endonyme: "Gaeltacht ; Limistéir Pleanála Teanga Gaeltachta"
+territoire: "Zones Gaeltacht des comtés de Donegal, Mayo, Galway, Kerry, Cork, Waterford et Meath"
+etats: ["Irlande"]
+region: "europe"
+coord: [53.4, -9.4]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: ["communaute_locale"]
+population: {valeur: 106220, annee: 2022, perimetre: "habitants des zones Gaeltacht (recensement de 2022), toutes langues confondues", source: "https://www.cso.ie/en/releasesandpublications/ep/p-cpp8/censusofpopulation2022profile8-theirishlanguageandeducation/irishlanguageandthegaeltacht/"}
+lieux: {valeur: 26, unite: "aires de planification linguistique du Gaeltacht, dans 7 comtés, toutes dotées d'un plan linguistique approuvé", annee: 2026, source: "https://udaras.ie/en/our-language-the-gaeltacht/language-planning/approved-language-plans"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le Gaeltacht désigne les zones de l'Irlande où l'irlandais est, ou était jusqu'à une date récente, la langue parlée par la majorité de la communauté ; ses limites ont été fixées par arrêtés du gouvernement de 1956 à 1982, abrogés en 2012, les zones étant maintenues par le Gaeltacht Act 2012, s. 7 (1). Le Gaeltacht Act 2012 (loi de 2012 sur le Gaeltacht, s. 7 et 8) permet au ministre de désigner des aires de planification linguistique (Gaeltacht Language Planning Areas) : une organisation locale, choisie par Údarás na Gaeltachta, l'agence publique de développement du Gaeltacht, prépare un plan linguistique en irlandais, le fait approuver par le ministre puis le met en œuvre. Le ministre contrôle la mise en œuvre et peut retirer la désignation si le plan n'est pas appliqué. Údarás na Gaeltachta recense 26 aires dans 7 comtés, toutes dotées d'un plan approuvé.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Gaeltacht Act 2012 (n° 34 de 2012), partie 2 (s. 6 à 13) et partie 3", nature: "loi", annee: 2012, source: "https://www.irishstatutebook.ie/eli/2012/act/34/enacted/en/print"}
+  - {instrument: "Official Languages Act 2003 (n° 32 de 2003), s. 33 (noms de lieux dans le Gaeltacht)", nature: "loi", annee: 2003, source: "https://www.irishstatutebook.ie/eli/2003/act/32/section/33/enacted/en/html"}
+  - {instrument: "Official Languages (Amendment) Act 2021 (n° 49 de 2021), s. 8 (sections 18A à 18F insérées dans la loi de 2003)", nature: "loi", annee: 2021, source: "https://www.irishstatutebook.ie/eli/2021/act/49/enacted/en/print"}
+  - {instrument: "Education Act 1998 (n° 51 de 1998), s. 6 (j)", nature: "loi", annee: 1998, source: "https://www.irishstatutebook.ie/eli/1998/act/51/section/6/enacted/en/html"}
+  - {instrument: "Planning and Development Act 2000 (n° 30 de 2000), s. 10 (2) (m)", nature: "loi", annee: 2000, source: "https://www.irishstatutebook.ie/eli/2000/act/30/section/10/enacted/en/html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Une organisation établie dans l'aire ou à côté, choisie par Údarás na Gaeltachta, prépare le plan linguistique et répond de sa mise en œuvre ; le ministre approuve le plan, en contrôle l'exécution et peut retirer la désignation de l'aire, Gaeltacht Act 2012, s. 7 (4), (6), (7) et s. 8 (1), (3), (7).", source: "https://www.irishstatutebook.ie/eli/2012/act/34/enacted/en/print"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Le plan vise l'usage accru de l'irlandais dans la vie familiale, scolaire, publique, sociale, de loisirs et commerciale de l'aire (Gaeltacht Act 2012, s. 7 (6)) ; dans une zone Gaeltacht, une fois un arrêté sur les noms de lieux pris, seule la forme irlandaise du nom a valeur légale (Official Languages Act 2003, s. 33 (2)) ; la section 18E insérée en 2021 charge le ministre de fixer par arrêté la date à laquelle l'irlandais devient langue de travail des bureaux publics situés dans ces aires et langue de tous leurs services.", source: "https://www.irishstatutebook.ie/eli/2021/act/49/enacted/en/print"}
+  education: {valeur: "partiel", note: "La loi sur l'éducation de 1998, s. 6 (j), donne au système éducatif national l'objectif de contribuer au maintien de l'irlandais comme langue première de la communauté dans les zones Gaeltacht ; les écoles restent dans le système national, sans institution scolaire propre aux aires.", source: "https://www.irishstatutebook.ie/eli/1998/act/51/section/6/enacted/en/html"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Le conseil d'Údarás na Gaeltachta compte 12 membres nommés par le ministre, dont cinq sur proposition des conseils de comté des zones Gaeltacht, choisis parmi leurs élus ou, à défaut, parmi des personnes qu'ils jugent représentatives des zones Gaeltacht (Gaeltacht Act 2012, s. 16) ; les élections directes à ce conseil ont été supprimées en 2012 (s. 23 et annexe) ; le comité consultatif sur les services publics en irlandais créé en 2021 comprend un membre, nommé par le ministre après une procédure du Public Appointments Service (service des nominations publiques), qui représente les aires de planification linguistique (Official Languages Act 2003, s. 18A (3) (e), inséré en 2021).", source: "https://www.irishstatutebook.ie/eli/2012/act/34/enacted/en/print"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les 26 aires disposent d'un plan approuvé, mis en œuvre par une organisation locale choisie par Údarás na Gaeltachta. Au recensement de 2022, la population du Gaeltacht avait augmenté de 7 % depuis 2016, mais 20 261 habitants y parlaient irlandais chaque jour, 325 de moins qu'en 2016 ; Conradh na Gaeilge, association de défense de la langue, juge que l'État « a beaucoup de travail à faire » dans le Gaeltacht.", source: "https://www.newstalk.com/news/a-lot-of-work-to-do-census-shows-drop-in-gaeltachts-irish-speakers-1625716"}
+chronologie:
+  - {annee: 1956, evenement: "Loi modifiant la loi sur les ministres et secrétaires : le gouvernement délimite les zones Gaeltacht par arrêté (arrêtés de 1956, 1967, 1974 et 1982)."}
+  - {annee: 1979, evenement: "Loi créant Údarás na Gaeltachta, dont le conseil est en partie élu par les habitants du Gaeltacht jusqu'en 2012."}
+  - {annee: 2003, evenement: "Loi sur les langues officielles : seule la forme irlandaise des noms de lieux du Gaeltacht a valeur légale après arrêté."}
+  - {annee: 2012, evenement: "Gaeltacht Act (25 juillet) : aires de planification linguistique, villes de services du Gaeltacht et réseaux de langue irlandaise ; fin des élections au conseil d'Údarás na Gaeltachta."}
+  - {annee: 2015, evenement: "Údarás na Gaeltachta désigne l'organisation porteuse du plan de Dúiche Sheoigheach et Tuar Mhic Éadaigh."}
+  - {annee: 2021, evenement: "Loi modifiant la loi sur les langues officielles (22 décembre) : l'irlandais doit devenir langue de travail des bureaux publics dans les aires de planification linguistique, à une date fixée par arrêté."}
+  - {annee: 2022, evenement: "Recensement : 106 220 habitants dans le Gaeltacht, dont 20 261 locuteurs quotidiens de l'irlandais."}
+fiabilite:
+  verifie: ["Gaeltacht Act 2012, s. 6 à 8, 12, 16, 17, 23 et annexe (suppression des élections et révocation des arrêtés de 1956 à 1982 et des règlements électoraux de 1979 à 2005), texte du Irish Statute Book.", "Official Languages Act 2003, s. 33, et Official Languages (Amendment) Act 2021, sections 18A et 18E insérées, texte du Irish Statute Book.", "Education Act 1998, s. 6 (j) ; Planning and Development Act 2000, s. 10 (2) (m).", "Liste des 26 aires, organisation porteuse de chacune et chiffres de 2016 par aire : pages d'Údarás na Gaeltachta ; liste des plans approuvés, qui couvre les 26 aires et deux villes de services (Daingean Uí Chúis, An Clochán Liath).", "Population du Gaeltacht en 2022 (106 220, + 6 603 depuis 2016) et 20 261 locuteurs quotidiens : publication du bureau central de statistique (CSO) du 19 décembre 2023.", "Part des locuteurs quotidiens de 3 ans et plus en 2016, par aire : de 2,9 % (An tEachréidh, Oirthear Chathair na Gaillimhe) à 74,6 % (Toraigh), pages des aires d'Údarás na Gaeltachta."]
+  non_confirme: ["Surface totale : Údarás publie des surfaces par comté (Donegal 1 502 km², Galway 1 225, Mayo 905, Kerry 642, Cork 262, Waterford 62, Meath 44), mais les parts en pourcentage qu'il indique ne concordent pas avec leur somme ; aucune surface n'est retenue.", "Date d'entrée en vigueur de la section 18E et existence d'un arrêté fixant les dates du passage à l'irlandais comme langue de travail : non vérifiées.", "Projet de rétablissement des élections au conseil d'Údarás na Gaeltachta : non vérifié sur un texte.", "Population de 2016 : Údarás na Gaeltachta indique 96 090 habitants, alors que la publication du CSO de 2023 implique 99 617 habitants pour 2016 (106 220 moins 6 603) ; écart non expliqué.", "Page de l'aire An Cheathrú Rua sans contenu à la consultation ; l'aire figure dans la liste officielle et dans la liste des plans approuvés.", "Aucun document onusien ou du Conseil de l'Europe visant nommément les aires de planification linguistique n'a été trouvé ; l'Irlande n'est pas partie à la Charte européenne des langues régionales ou minoritaires."]
+sources:
+  - {titre: "Gaeltacht Act 2012 — Irish Statute Book", url: "https://www.irishstatutebook.ie/eli/2012/act/34/enacted/en/print"}
+  - {titre: "Official Languages Act 2003, s. 33 — Irish Statute Book", url: "https://www.irishstatutebook.ie/eli/2003/act/32/section/33/enacted/en/html"}
+  - {titre: "Official Languages (Amendment) Act 2021 — Irish Statute Book", url: "https://www.irishstatutebook.ie/eli/2021/act/49/enacted/en/print"}
+  - {titre: "Education Act 1998, s. 6 — Irish Statute Book", url: "https://www.irishstatutebook.ie/eli/1998/act/51/section/6/enacted/en/html"}
+  - {titre: "Planning and Development Act 2000, s. 10 — Irish Statute Book", url: "https://www.irishstatutebook.ie/eli/2000/act/30/section/10/enacted/en/html"}
+  - {titre: "Language Planning Areas — Údarás na Gaeltachta", url: "https://udaras.ie/en/our-language-the-gaeltacht/language-planning-areas/"}
+  - {titre: "Approved Language Plans — Údarás na Gaeltachta", url: "https://udaras.ie/en/our-language-the-gaeltacht/language-planning/approved-language-plans"}
+  - {titre: "The Gaeltacht — Údarás na Gaeltachta", url: "https://udaras.ie/en/our-language-the-gaeltacht/the-gaeltacht"}
+  - {titre: "Census of Population 2022 Profile 8, Irish Language and the Gaeltacht — CSO", url: "https://www.cso.ie/en/releasesandpublications/ep/p-cpp8/censusofpopulation2022profile8-theirishlanguageandeducation/irishlanguageandthegaeltacht/"}
+  - {titre: "Census shows drop in Gaeltacht's Irish speakers — Newstalk", url: "https://www.newstalk.com/news/a-lot-of-work-to-do-census-shows-drop-in-gaeltachts-irish-speakers-1625716"}

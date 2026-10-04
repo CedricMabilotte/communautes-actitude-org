@@ -1,0 +1,53 @@
+uid: "communautes-foncieres-slovaquie"
+nom: "Communautés foncières de Slovaquie"
+endonyme: "Pozemkové spoločenstvá"
+territoire: "Forêts, pâturages et terres détenus en commun, ensemble du territoire slovaque"
+etats: ["Slovaquie"]
+region: "europe"
+coord: [48.7, 19.7]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "communautés foncières inscrites au registre", annee: null, source: ""}
+surface_km2: {valeur: 3249.8, annee: 2020, perimetre: "forêts en propriété « partagée » (catégorie nationale « shared »), que la Slovaquie déclare à la FAO dans la catégorie des forêts détenues par des communautés ; ne compte ni les pâturages ni les terres agricoles", source: "https://fra-data.fao.org/assessments/fra/2025/SVK/sections/forestOwnership/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les communautés foncières (pozemkové spoločenstvá) réunissent les copropriétaires de forêts, de pâturages et de terres détenus en commun, dont une partie hérite des biens indivis des urbariáty (communautés d'anciens « urbarialistes », tenanciers régis par l'urbaire de 1767) et des komposesoráty (copropriétés indivises), régis par les lois hongroises XIX/1898 et X/1913. La loi n° 97/2013 Z. z. (Recueil des lois), en vigueur depuis le 1er mai 2013, fait de chaque communauté une personne morale inscrite au registre tenu par l'office de district, gouvernée par l'assemblée de tous ses membres, un comité et un conseil de surveillance élus. La communauté gère le bien commun pour l'agriculture, la forêt et les plans d'eau. Depuis la loi n° 110/2018 Z. z., la copropriété du bien commun peut être dissoute dans le cadre d'un remembrement.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi n° 97/2013 Z. z. du 26 mars 2013 sur les communautés foncières (zákon o pozemkových spoločenstvách), texte publié", nature: "loi", annee: 2013, source: "https://static.slov-lex.sk/pdf/SK/ZZ/2013/97/ZZ_2013_97.pdf"}
+  - {instrument: "Loi n° 97/2013 Z. z., version consolidée en vigueur depuis le 1er juin 2025 (modifiée par les lois n° 34/2014, 110/2018, 91/2020, 6/2022, 257/2022, 325/2022 et 81/2025 Z. z.)", nature: "loi", annee: 2025, source: "https://static.slov-lex.sk/static/SK/ZZ/2013/97/20250601.html"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La communauté est une personne morale (loi 97/2013, § 3) ; ses organes sont l'assemblée de tous les membres, organe suprême réuni au moins une fois par an, un comité (výbor) exécutif et statutaire d'au moins trois membres et un conseil de surveillance (dozorná rada) d'au moins trois membres, élus pour cinq ans au plus (§ 13, § 14 al. 1 et 2, § 16, § 17, version de 2025) ; l'office de district exerce un contrôle de l'État (štátny dozor), notamment sur la tenue des listes, le respect du mandat des organes et la réunion annuelle de l'assemblée (§ 27) ; le Fonds foncier slovaque (Slovenský pozemkový fond) gère les parts de l'État et celles des propriétaires non identifiés et vote à leur place pour les décisions majeures (§ 9 al. 1, § 10).", source: "https://static.slov-lex.sk/static/SK/ZZ/2013/97/20250601.html"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'assemblée adopte le contrat de communauté et les statuts, qui règlent les droits et devoirs des membres et l'organisation interne, et décide du mode d'usage du bien commun (loi 97/2013, § 5 et § 14 al. 7 a, b et f) ; ces règles n'obligent que les membres et s'inscrivent dans le Code civil et les lois sectorielles.", source: "https://static.slov-lex.sk/static/SK/ZZ/2013/97/20250601.html"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le bien commun (spoločná nehnuteľnosť) forme une seule chose immobilière, détenue en copropriété par parts ; la loi de 2013 le déclarait indivisible et interdisait de dissoudre la copropriété selon le droit commun (§ 8 al. 1, texte de 2013) ; depuis la loi 110/2018, la copropriété peut être dissoute selon la loi 330/1991 sur le remembrement (§ 8 al. 1 et note 11) ; les parts restent cessibles, avec offre préalable aux autres copropriétaires (§ 9 al. 8), sans part inférieure à 2 000 m² (§ 2 al. 3).", source: "https://static.slov-lex.sk/static/SK/ZZ/2013/97/20250601.html"}
+  ressources: {valeur: "partiel", note: "La communauté exerce la production agricole et gère les forêts et les plans d'eau du bien commun (loi 97/2013, § 19 al. 1), dans le respect des lois sur les forêts, l'eau et la protection de la nature (§ 19 al. 2) ; l'assemblée décide de la gestion et de l'usage du bien commun, approuve les comptes et répartit les bénéfices entre les membres (§ 14 al. 7 f, g et h, § 20).", source: "https://static.slov-lex.sk/static/SK/ZZ/2013/97/20250601.html"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "La Slovaquie déclare à la FAO 324 980 ha de forêts en propriété partagée en 2020, contre 475 380 ha en 2010, et 432 980 ha classés « inconnus, autres », parcelles dont le titre ne figure qu'à l'état E du cadastre, sans force juridique ; aucune source indépendante sur le fonctionnement des communautés n'a été trouvée.", source: "https://fra-data.fao.org/assessments/fra/2025/SVK/sections/forestOwnership/"}
+chronologie:
+  - {annee: 1767, evenement: "Urbaire de Marie-Thérèse, auquel le Parlement slovaque rattache l'origine du régime des communautés foncières."}
+  - {annee: 1898, evenement: "Loi hongroise XIX/1898 sur la gestion des forêts et pâturages indivis des komposesoráty et des anciens urbarialistes."}
+  - {annee: 1913, evenement: "Loi hongroise X/1913 sur les pâturages communs indivis."}
+  - {annee: 1991, evenement: "Les lois 229/1991 et 330/1991 permettent de reconstituer les communautés forestières et pastorales après la restitution des terres."}
+  - {annee: 1995, evenement: "Loi n° 181/1995 Z. z. sur les communautés foncières."}
+  - {annee: 2013, evenement: "La loi n° 97/2013 Z. z. remplace la loi de 1995 (en vigueur le 1er mai) ; les communautés doivent mettre leurs statuts en conformité avant le 28 février 2014."}
+  - {annee: 2018, evenement: "La loi n° 110/2018 Z. z. (en vigueur le 1er juillet) permet de dissoudre la copropriété du bien commun par remembrement et interdit aux communautés de changer de forme juridique."}
+  - {annee: 2025, evenement: "Modification par la loi n° 81/2025 Z. z. (en vigueur le 1er juin)."}
+fiabilite:
+  verifie: ["Texte publié de la loi 97/2013 (Recueil des lois, 23 avril 2013) : personne morale (§ 3), indivisibilité du bien commun (§ 8 al. 1), organes (§ 13 à 17), activités (§ 19), registre (§ 22), contrôle de l'État (§ 27), abrogation de la loi 181/1995 (§ 33), entrée en vigueur au 1er mai 2013 (§ 34).", "Version consolidée en vigueur au 1er juin 2025 et liste des lois modificatives, d'après Slov-Lex ; nouveau § 8 al. 1 (dissolution possible selon § 11 al. 13 de la loi 330/1991) présent dès la version du 1er juillet 2018 et absent de celle du 27 février 2014.", "Renvoi aux lois hongroises XIX/1898 et X/1913 sur les biens indivis des komposesoráty et des anciens urbarialistes (note 2 de la loi).", "Surface des forêts en propriété partagée (324,98 milliers d'ha en 2020) et classement de cette catégorie nationale parmi les forêts détenues par des communautés, d'après le rapport de la Slovaquie à l'Évaluation des ressources forestières mondiales de la FAO (2025).", "Rattachement du régime à l'urbaire de 1767, d'après l'Institut parlementaire du Conseil national (information n° 6/2019)."]
+  non_confirme: ["Nombre de communautés inscrites et nombre de membres : aucun chiffre officiel n'a pu être ouvert (rapports du ministère de l'Agriculture inaccessibles) ; aucune liste nationale des communautés n'a été trouvée, d'où l'absence de tableau.", "La catégorie « partagée » de la FAO peut ne pas coïncider exactement avec les forêts des communautés inscrites sous la loi 97/2013 ; les pâturages et terres agricoles des communautés ne sont pas comptés.", "La loi couvre aussi des communautés créées librement par des propriétaires de parcelles voisines (§ 2 al. 1 d), sans héritage des urbariáty ou komposesoráty.", "Aucune source indépendante (universitaire ou associative) sur le fonctionnement des communautés n'a été ouverte.", "Aucune source n'établit l'application effective des organes et du contrôle de l'État, d'où la valeur « partiel » de l'autogouvernement ; la répartition des bénéfices n'a pas été retenue comme pouvoir fiscal.", "Le rôle du conseil de surveillance, qui examine les plaintes des membres (§ 17 al. 1), n'a pas été retenu comme justice propre."]
+sources:
+  - {titre: "Zákon č. 97/2013 Z. z. o pozemkových spoločenstvách — texte publié, Slov-Lex", url: "https://static.slov-lex.sk/pdf/SK/ZZ/2013/97/ZZ_2013_97.pdf"}
+  - {titre: "Zákon č. 97/2013 Z. z. — version consolidée en vigueur depuis le 1er juin 2025, Slov-Lex", url: "https://static.slov-lex.sk/static/SK/ZZ/2013/97/20250601.html"}
+  - {titre: "Zákon č. 97/2013 Z. z. — version consolidée au 1er juillet 2018, Slov-Lex", url: "https://static.slov-lex.sk/static/SK/ZZ/2013/97/20180701.html"}
+  - {titre: "Global Forest Resources Assessment 2025 — Slovakia, Forest ownership, FAO", url: "https://fra-data.fao.org/assessments/fra/2025/SVK/sections/forestOwnership/"}
+  - {titre: "Hogenová, « Legislatívna úprava pozemkových spoločenstiev (urbariáty, komposesoráty a iné právne úpravy) v krajinách Európskej únie », Parlamentný inštitút, Národná rada SR, information n° 6/2019", url: "https://www.nrsr.sk/web/Dynamic/Download.aspx?DocID=468914"}

@@ -1,0 +1,59 @@
+uid: "minorites-nationales-bosnie-herzegovine"
+nom: "Minorités nationales de Bosnie-Herzégovine"
+endonyme: "Nacionalne manjine u Bosni i Hercegovini"
+territoire: "Bosnie-Herzégovine : ensemble du pays (État, Fédération de Bosnie-Herzégovine, Republika Srpska, district de Brčko)"
+etats: ["Bosnie-Herzégovine"]
+region: "europe"
+coord: [44.2, 17.9]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 24844, annee: 2013, perimetre: "somme des personnes déclarées membres des 17 minorités nommées par la loi de 2003 au recensement de 2013 (Autrichiens, 62, non compris), d'après les chiffres du cinquième avis du Comité consultatif (§ 43 et note) : Roms 12 583, Albanais 2 659, Ukrainiens 2 331, Monténégrins 1 993, Turcs 1 108, les douze autres moins de 1 000 chacune", source: "https://rm.coe.int/5th-op-bih-fr/1680b07a27"}
+lieux: {valeur: null, unite: "conseils des minorités nationales (État, entités, cantons)", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi de 2003 sur la protection des droits des membres des minorités nationales définit comme minorité nationale les citoyens de Bosnie-Herzégovine qui n'appartiennent à aucun des trois « peuples constitutifs » (Bosniaques, Croates, Serbes) et nomme 17 minorités : Albanais, Tchèques, Allemands, Hongrois, Italiens, Juifs, Macédoniens, Monténégrins, Polonais, Roms, Roumains, Russes, Ruthènes, Slovaques, Slovènes, Turcs et Ukrainiens (art. 3). Un Conseil des minorités nationales de 18 membres, constitué en 2008, est un organe consultatif de l'Assemblée parlementaire ; des conseils existent aussi auprès des entités et de certains cantons. La loi électorale réserve des sièges aux minorités dans les conseils municipaux là où elles dépassent 3 % de la population, et le statut du district de Brčko leur réserve deux sièges sur 31. Les droits collectifs se limitent à la représentation et à la consultation.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur la Bosnie-Herzégovine, adopté le 8 février 2024 : liste des 17 minorités de la loi de 2003 et membre autrichien du Conseil des minorités nationales (§ 33) ; seuils de 50 % ou 33 % fixés pour l'accès aux droits des minorités, « de toute évidence prohibitif » (§ 8) ; conseils des minorités, seul moyen de se faire entendre des parlementaires (§ 10).", annee: 2024, source: "https://rm.coe.int/5th-op-bih-fr/1680b07a27"}
+  - {mecanisme: "conseil_europe_fcnm", detail: "Quatrième avis du Comité consultatif, adopté le 9 novembre 2017 : aucun progrès sur l'usage des langues minoritaires avec l'administration et sur la signalisation, dispositions législatives des entités « largement non-opérationnelles » (§ 16).", annee: 2017, source: "https://rm.coe.int/4th-op-bih-fr/16808e2c54"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la Bosnie-Herzégovine (annexe 4 des accords de Dayton), art. II.4 (non-discrimination fondée sur l'appartenance à une minorité nationale) et annexe I (Convention-cadre pour la protection des minorités nationales)", nature: "constitution", annee: 1995, source: "https://www.constituteproject.org/constitution/Bosnia_Herzegovina_2009"}
+  - {instrument: "Loi sur la protection des droits des membres des minorités nationales (Journal officiel de BiH 12/03, modifiée 76/05 et 93/08), art. 3 et 22", nature: "loi", annee: 2003, source: "https://www.parlament.ba/committee/read/36?commiteeMandate=146&lang=en"}
+  - {instrument: "Décision sur la création du Conseil des minorités nationales de Bosnie-Herzégovine (Journal officiel de BiH 38/06)", nature: "loi", annee: 2006, source: "https://www.parlament.ba/committee/read/36?commiteeMandate=146&lang=en"}
+  - {instrument: "Loi électorale de Bosnie-Herzégovine (sièges réservés aux minorités nationales dans les conseils municipaux au-delà de 3 % de la population)", nature: "loi", annee: 2001, source: "https://rm.coe.int/5th-op-bih-fr/1680b07a27"}
+  - {instrument: "Statut du district de Brčko, art. 23(1) (deux sièges sur 31 pour les minorités nationales)", nature: "statut_autonomie", annee: 2000, source: "https://www.ohr.int/ohr_archive/statute-of-the-brcko-district-of-bosnia-and-herzegovina/"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le Conseil des minorités nationales, organe consultatif spécial de l'Assemblée parlementaire (loi de 2003, art. 22 ; décision de 2006), donne des avis, conseils et propositions sur les questions relatives aux minorités nationales et peut déléguer des experts aux commissions constitutionnelles et à la commission mixte des droits de l'homme ; avis, sans consentement.", source: "https://www.parlament.ba/committee/read/36?commiteeMandate=146&lang=en"}
+  langue: {valeur: "conteste", note: "La loi de 2003 subordonne l'usage des langues minoritaires avec les autorités municipales et la signalisation à des seuils de population que le Comité consultatif juge élevés (troisième avis, 2013, § 24) ; il qualifie les seuils de 50 % ou 33 % fixés pour l'accès aux droits des minorités de « de toute évidence prohibitif » (cinquième avis, 2024, § 8) et les dispositions des entités sur l'usage administratif et la signalisation de « largement non-opérationnelles » (quatrième avis, 2017, § 16).", source: "https://rm.coe.int/5th-op-bih-fr/1680b07a27"}
+  education: {valeur: "conteste", note: "L'enseignement en langue minoritaire n'est obligatoire que si les élèves de la minorité forment un tiers des effectifs ; aucune école n'atteignait ce seuil (troisième avis du Comité consultatif, 2013, § 26) ; le cinquième avis (2024, § 24) demande la suppression de ces seuils.", source: "https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=090000168008c666"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "La loi électorale réserve des sièges aux minorités nationales dans les conseils municipaux là où elles dépassent 3 % de la population (cinquième avis, 2024, § 35) ; deux sièges sur 31 à l'Assemblée du district de Brčko (Statut, art. 23(1)) ; un siège à l'Assemblée du canton de Sarajevo depuis les amendements de 2013 ; aucun siège réservé au Parlement de l'État.", source: "https://www.ohr.int/ohr_archive/statute-of-the-brcko-district-of-bosnia-and-herzegovina/"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le nombre de représentants des minorités élus dans les conseils locaux est passé de 35 en 2008 à 29 en 2012 (troisième avis du Comité consultatif, 2013, § 29) ; en 2024, le Comité relève que les conseils des minorités ont des statuts variables selon les niveaux (§ 10) et que les associations des minorités ne reçoivent plus de financement de l'État depuis 2020, faute de budget adopté (§ 66).", source: "https://rm.coe.int/5th-op-bih-fr/1680b07a27"}
+chronologie:
+  - {annee: 1995, evenement: "Constitution (annexe 4 des accords de Dayton) : interdiction de la discrimination fondée sur l'appartenance à une minorité nationale, Convention-cadre en annexe I."}
+  - {annee: 2003, evenement: "Loi sur la protection des droits des membres des minorités nationales : 17 minorités nommées."}
+  - {annee: 2008, evenement: "Constitution du Conseil des minorités nationales auprès de l'Assemblée parlementaire (23 avril)."}
+  - {annee: 2009, evenement: "Arrêt Sejdić et Finci de la Cour européenne des droits de l'homme : les « Autres » ne peuvent se présenter à la Présidence ni à la Chambre des peuples."}
+  - {annee: 2012, evenement: "Loi du canton de Bosnie-Podrinje (Goražde) créant un conseil cantonal des minorités nationales."}
+  - {annee: 2013, evenement: "Amendements à la Constitution du canton de Sarajevo : un siège réservé aux minorités nationales ; recensement de la population."}
+  - {annee: 2024, evenement: "Cinquième avis du Comité consultatif de la Convention-cadre (8 février)."}
+fiabilite:
+  verifie: ["Composition (18 membres, un par minorité, Autrichiens compris), base légale et rôle consultatif du Conseil des minorités nationales, constitué le 23 avril 2008 (site de l'Assemblée parlementaire).", "Liste des 17 minorités (§ 33), chiffres du recensement 2013 (§ 43 et note), seuil de 3 % pour les sièges locaux (§ 35), seuils de 50 % ou 33 % (§ 8), arrêt du financement depuis 2020 (§ 66) (cinquième avis, 2024).", "Seuil d'un tiers pour l'enseignement (§ 26), 35 élus en 2008 et 29 en 2012 (§ 29), conseils de l'État, des entités et des cantons de Tuzla et de Sarajevo (§ 28) (troisième avis, 2013).", "Siège réservé au canton de Sarajevo (amendements XLIII-XLIX du 31 janvier 2013) et conseil du canton de Bosnie-Podrinje (loi du 2 mai 2012, art. 23) (cinquième rapport de l'État, 2022).", "Deux sièges sur 31 réservés aux minorités à l'Assemblée du district de Brčko (Statut, art. 23(1)).", "Article II.4 et annexe I de la Constitution (Constitute Project)."]
+  non_confirme: ["Texte de la loi électorale (article sur les sièges municipaux) et texte intégral de la loi de 2003 non consultés directement ; seuils et articles repris des avis du Comité consultatif.", "Nombre de représentants des minorités élus aux élections locales de 2016, 2020 et 2024 non trouvé.", "Dates de création des conseils des minorités des entités et des cantons non vérifiées sur des sources primaires ; aucune liste officielle des conseils trouvée, d'où l'absence de tableau.", "Siège réservé au canton de Sarajevo : repris du cinquième rapport de l'État (2022), non vérifié sur le texte des amendements.", "Le Conseil de l'État compte 18 membres : le site de l'Assemblée parlementaire inclut les Autrichiens parmi les minorités représentées, alors que la loi de 2003 en nomme 17."]
+sources:
+  - {titre: "Council of National Minorities in BiH — Assemblée parlementaire de Bosnie-Herzégovine", url: "https://www.parlament.ba/committee/read/36?commiteeMandate=146&lang=en"}
+  - {titre: "Cinquième avis sur la Bosnie-Herzégovine (2024) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/5th-op-bih-fr/1680b07a27"}
+  - {titre: "Quatrième avis sur la Bosnie-Herzégovine (2017) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/4th-op-bih-fr/16808e2c54"}
+  - {titre: "Troisième avis sur la Bosnie-Herzégovine (2013) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/CoERMPublicCommonSearchServices/DisplayDCTMContent?documentId=090000168008c666"}
+  - {titre: "Cinquième rapport étatique de la Bosnie-Herzégovine (2022) — Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/5th-sr-bih-en/1680a7ca9a"}
+  - {titre: "Statut du district de Brčko de Bosnie-Herzégovine — Bureau du Haut Représentant", url: "https://www.ohr.int/ohr_archive/statute-of-the-brcko-district-of-bosnia-and-herzegovina/"}
+  - {titre: "Constitution de la Bosnie-Herzégovine (1995, révisée en 2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bosnia_Herzegovina_2009"}

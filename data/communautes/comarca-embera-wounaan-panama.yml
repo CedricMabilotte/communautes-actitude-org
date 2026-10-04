@@ -1,0 +1,55 @@
+uid: "comarca-embera-wounaan-panama"
+nom: "Emberá et Wounaan de la comarca Emberá-Wounaan"
+endonyme: "Emberá, Wounaan"
+territoire: "Comarca Emberá-Wounaan (districts de Cémaco et de Sambú, Darién)"
+etats: ["Panama"]
+region: "ameriques"
+coord: [8.1, -77.8]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 13788, annee: 2023, perimetre: "population estimée de la comarca au 1er juillet 2023 (INEC)", source: "https://www.inec.gob.pa/archivos/P0705547520260325115152Algunas%20caract-Cartografia%20Demograf%C3%ADa%202023%20(CSE).pdf"}
+lieux: {valeur: 5, unite: "corregimientos (subdivisions des districts)", annee: 2023, source: "https://www.inec.gob.pa/archivos/P0705547520260325115152Algunas%20caract-Cartografia%20Demograf%C3%ADa%202023%20(CSE).pdf"}
+surface_km2: {valeur: 4365.5, annee: 2023, perimetre: "superficie approximative de la comarca, hors eaux continentales (INEC, données préliminaires de l'Institut géographique national)", source: "https://www.inec.gob.pa/archivos/P0705547520260325115152Algunas%20caract-Cartografia%20Demograf%C3%ADa%202023%20(CSE).pdf"}
+villages: {valeur: 83, annee: 2023, perimetre: "lieux habités (lugares poblados) de la comarca : 50 à Cémaco, 33 à Sambú (INEC, division politico-administrative 2023)", source: "https://www.inec.gob.pa/archivos/P0705547520260325115152Algunas%20caract-Cartografia%20Demograf%C3%ADa%202023%20(CSE).pdf"}
+resume: >-
+  La loi 22 de 1983, publiée au Journal officiel le 17 janvier 1984, crée la comarca (division territoriale autochtone à statut spécial) Emberá sur deux zones prises sur la province de Darién, qui forment les districts de Cémaco et de Sambú. Les terres y forment un patrimoine à usage collectif des Emberá et des Wounaan, et le Congrès général est reconnu comme organe traditionnel suprême de décision. L'INEC estime la population de la comarca à 13 788 personnes en 2023. Selon le Rapporteur spécial de l'ONU, 44 communautés emberá et wounaan sont restées hors des limites de la comarca en 1983.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Panama vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport du Rapporteur spécial James Anaya sur le Panama (A/HRC/27/52/Add.1) : il décrit la comarca Emberá Wounaan, sa carte organique adoptée par décret exécutif et l'invasion de ses terres.", annee: 2014, source: "https://docs.un.org/es/A/HRC/27/52/Add.1"}
+base_nationale:
+  - {instrument: "Constitution politique du Panama (1972, révisée en 2004), art. 127 et 147", nature: "constitution", annee: 1972, source: "https://www.constituteproject.org/constitution/Panama_2004?lang=es"}
+  - {instrument: "Loi 22 du 8 novembre 1983 qui crée la comarca Emberá de Darién (Gaceta Oficial 19976 du 17 janvier 1984)", nature: "loi", annee: 1983, source: "https://utp.ac.pa/documentos/2010/pdf/EMBERA.pdf"}
+  - {instrument: "Loi 88 du 22 novembre 2010 sur les langues et alphabets des peuples autochtones", nature: "loi", annee: 2010, source: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La loi 22 de 1983 (art. 10) institue le Congrès général comme organe traditionnel suprême de décision et d'expression, avec des congrès régionaux et locaux ; les articles 11 à 13 prévoient un cacique général et des caciques régionaux élus par les congrès pour cinq ans.", source: "https://utp.ac.pa/documentos/2010/pdf/EMBERA.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La loi 22 de 1983 (art. 7 et 10) soumet l'administration de la comarca aux dispositions du Congrès général, prises par résolutions, dans le cadre de la Constitution et des lois nationales.", source: "https://utp.ac.pa/documentos/2010/pdf/EMBERA.pdf"}
+  justice_propre: {valeur: "partiel", note: "La loi 22 de 1983 (art. 12) habilite les caciques régionaux à connaître, en concurrence avec la police, des actes de « superchería y hechicería » (charlatanerie et sorcellerie) et à les sanctionner de dix à soixante jours d'arrêt ; les tribunaux de la comarca (art. 15) relèvent de l'organisation judiciaire nationale.", source: "https://utp.ac.pa/documentos/2010/pdf/EMBERA.pdf"}
+  terres: {valeur: "reconnu", note: "La loi 22 de 1983 (art. 2) fait des terres délimitées, hors propriétés privées existantes, un patrimoine de la comarca à usage collectif des Emberá et des Wounaan et en interdit l'appropriation privée et l'aliénation (cession) ; l'article 3 donne à la comarca un droit de préemption (priorité d'achat) sur les fonds privés.", source: "https://utp.ac.pa/documentos/2010/pdf/EMBERA.pdf"}
+  ressources: {valeur: "partiel", note: "La loi 22 de 1983 (art. 19) confie la conservation des ressources renouvelables à l'administration nationale conjointement avec la communauté et exige l'autorisation des caciques pour leur exploitation ; l'article 20 réserve le sous-sol à l'exécutif, avec un pourcentage des revenus versé à la comarca.", source: "https://utp.ac.pa/documentos/2010/pdf/EMBERA.pdf"}
+  consentement: {valeur: "partiel", note: "La loi 22 de 1983 (art. 24) oblige le gouvernement à consulter les autorités emberá avant d'exécuter des projets nationaux dans la comarca, sans exiger leur accord ; l'article 20 prévoit un représentant de la comarca dans la négociation des contrats miniers.", source: "https://utp.ac.pa/documentos/2010/pdf/EMBERA.pdf"}
+  langue: {valeur: "partiel", note: "La loi 88 de 2010 (art. 1) reconnaît les langues emberá et wounaan et en fixe les alphabets, sans statut de langue officielle.", source: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  education: {valeur: "partiel", note: "La loi 22 de 1983 (art. 21) prévoit un programme d'enseignement bilingue planifié et conduit en coordination entre les autorités autochtones et les services éducatifs de l'État.", source: "https://utp.ac.pa/documentos/2010/pdf/EMBERA.pdf"}
+  fiscalite: {valeur: "partiel", note: "La loi 22 de 1983 (art. 16) oblige l'État à inscrire au budget national les crédits de la comarca, utilisés en coordination avec les autorités autochtones ; l'article 18 donne aux communes de la comarca les recettes municipales ordinaires.", source: "https://utp.ac.pa/documentos/2010/pdf/EMBERA.pdf"}
+  representation: {valeur: "partiel", note: "La Constitution (art. 147) garantit à chaque comarca le nombre de députés dont elle disposait à l'entrée en vigueur de la règle ; ces sièges sont territoriaux.", source: "https://www.constituteproject.org/constitution/Panama_2004?lang=es"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Rapporteur spécial de l'ONU (2014, par. 9 et 33) relève l'invasion des terres de la comarca et des terres collectives, avec des affrontements violents, et l'absence de titre pour une partie des communautés restées hors de la comarca.", source: "https://docs.un.org/es/A/HRC/27/52/Add.1"}
+chronologie:
+  - {annee: 1983, evenement: "La loi 22 crée la comarca Emberá dans la province de Darién."}
+  - {annee: 1984, evenement: "Publication de la loi 22 au Journal officiel (Gaceta Oficial 19976, 17 janvier)."}
+  - {annee: 2010, evenement: "La loi 88 reconnaît les langues emberá et wounaan et fixe leurs alphabets."}
+  - {annee: 2013, evenement: "Visite du Rapporteur spécial de l'ONU James Anaya, qui rencontre des représentants emberá et wounaan."}
+  - {annee: 2014, evenement: "Rapport du Rapporteur spécial sur le Panama (A/HRC/27/52/Add.1)."}
+fiabilite:
+  verifie: ["Articles 1 à 24 de la loi 22 de 1983 (texte Legispan reproduit par l'Université technologique du Panama).", "Article 1 de la loi 88 de 2010.", "Article 147 de la Constitution.", "Population, surface, corregimientos et lieux habités : tableau INEC 2023.", "Paragraphes 2, 9, 13 et 33 du rapport A/HRC/27/52/Add.1."]
+  non_confirme: ["Date exacte de la loi 22 : la fiche Legispan indique le 8 novembre 1983, le texte porte le 20 octobre 1983 et une promulgation au 17 janvier 1984.", "Contenu et référence de la Charte organique (carta orgánica) de la comarca, adoptée par décret exécutif.", "Application à la comarca de la loi 37 de 2016 sur la consultation et le consentement."]
+sources:
+  - {titre: "Loi 22 de 1983 qui crée la comarca Emberá de Darién — Legispan, copie de l'Université technologique du Panama", url: "https://utp.ac.pa/documentos/2010/pdf/EMBERA.pdf"}
+  - {titre: "Algunas características de la división política administrativa, 2023 — INEC", url: "https://www.inec.gob.pa/archivos/P0705547520260325115152Algunas%20caract-Cartografia%20Demograf%C3%ADa%202023%20(CSE).pdf"}
+  - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones, Panama (A/HRC/27/52/Add.1) — ONU", url: "https://docs.un.org/es/A/HRC/27/52/Add.1"}
+  - {titre: "Constitution du Panama — Constitute Project", url: "https://www.constituteproject.org/constitution/Panama_2004?lang=es"}
+  - {titre: "Loi 88 de 2010 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}
+  - {titre: "The Indigenous World 2020: Panama — IWGIA", url: "https://iwgia.org/en/panama/3627-iw-2020-panama.html"}

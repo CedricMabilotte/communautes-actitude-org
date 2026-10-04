@@ -1,0 +1,67 @@
+uid: "acequias-nouveau-mexique"
+nom: "Acequias (associations communautaires d'irrigation) du Nouveau-Mexique"
+endonyme: ""
+territoire: "Canaux d'irrigation communautaires (acequias et community ditches) et terres irriguées qu'ils desservent, dans 22 des 33 comtés du Nouveau-Mexique, de la frontière du Colorado au corridor du Rio Grande"
+etats: ["États-Unis"]
+region: "ameriques"
+coord: [36.0, -105.9]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 640, unite: "acequias recensées dans la base de données de la New Mexico Acequia Association, réparties dans 22 comtés (les estimations publiées vont de 600 à environ 2 000 selon le périmètre retenu)", annee: 2018, source: "https://www.nmlegis.gov/handouts/WNR%20100218%20Item%207%20Acequia%20Association%20Presentation%20Outline.pdf"}
+surface_km2: {valeur: 405, annee: 2021, perimetre: "terres irriguées par les acequias : « plus de 100 000 acres » selon un document commun de la New Mexico Acequia Association, de la New Mexico Acequia Commission et de l'Interstate Stream Commission, qui cite une étude de la New Mexico State University (conversion : 100 000 acres ≈ 405 km²) ; valeur plancher", source: "https://www.nmlegis.gov/handouts/REOTF%20071921%20Item%203%20NMAA-NMAC-ISC%20HANDOUT.PDF"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les acequias, canaux d'irrigation gérés en commun par les détenteurs de droits d'eau (parciantes) selon un usage hérité de la période coloniale espagnole. Le chapitre 73, articles 2 et 3, des New Mexico Statutes Annotated 1978 (recueil des lois de l'État) en fait des personnes morales depuis 1895 et des subdivisions politiques de l'État depuis 1965. Chaque acequia élit trois commissaires et un mayordomo (responsable du partage de l'eau), lève des contributions et adopte ses règlements. Depuis 2004, l'acequia qui l'a prévu dans ses règlements doit approuver tout changement de point de dérivation ou d'usage d'un droit d'eau qu'elle dessert avant que l'ingénieur d'État ne statue.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "NMSA 1978, art. 73-2-11 : les acequias et community ditches sont des personnes morales pouvant ester en justice (Laws 1895, ch. 1, § 1)", nature: "loi", annee: 1895, source: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-11/"}
+  - {instrument: "NMSA 1978, art. 73-2-28 : les associations d'acequias et de canaux communautaires sont des subdivisions politiques de l'État (Laws 1965, ch. 145 ; modifié en 2001)", nature: "loi", annee: 1965, source: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-28/"}
+  - {instrument: "NMSA 1978, art. 73-2-22.1 : l'acequia peut acquérir, détenir, transférer et utiliser des biens et des droits d'eau (Laws 1987, ch. 352)", nature: "loi", annee: 1987, source: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-22-1/"}
+  - {instrument: "NMSA 1978, art. 73-2-21 (pouvoirs des commissaires et du mayordomo) et art. 72-5-24.1 (approbation des changements de droits d'eau par l'acequia ; Laws 2003, ch. 82 et ch. 135, en vigueur le 1er mars 2004)", nature: "loi", annee: 2003, source: "https://law.justia.com/codes/new-mexico/chapter-72/article-5/section-72-5-24-1/"}
+  - {instrument: "NMSA 1978, art. 73-2-55.1 : banques d'eau des acequias (Laws 2003, ch. 54 et ch. 132)", nature: "loi", annee: 2003, source: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-55-1/"}
+  - {instrument: "NMSA 1978, art. 3-27-2 B : interdiction faite aux municipalités d'exproprier l'eau et les droits d'eau des acequias (Laws 2009, ch. 269)", nature: "loi", annee: 2009, source: "https://law.justia.com/codes/new-mexico/chapter-3/article-27/section-3-27-2/"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Chaque acequia a trois commissaires et un mayordomo, détenteurs de droits sur le canal, élus tous les deux ans par les titulaires de droits d'eau à jour de leurs contributions (art. 73-2-12 et 73-2-14 NMSA 1978) ; l'acequia est une subdivision politique de l'État (art. 73-2-28, 1965).", source: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-12/"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les commissaires adoptent des règlements (bylaws, rules and regulations) qui ne doivent pas contredire les lois de l'État (art. 73-2-21 NMSA 1978) ; la Cour suprême de l'État ne reconnaît aux acequias que les pouvoirs accordés par la loi ou qui en découlent nécessairement (Snow v. Abalos, 1914, sous l'art. 73-2-11).", source: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-21/"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Le mayordomo répartit l'eau entre les membres et dirige les travaux (art. 73-2-21) ; depuis 1987, l'acequia peut acquérir et détenir des droits d'eau, qu'elle ne perd pas par prescription (art. 73-2-22.1) ; depuis 2003, elle peut créer une banque d'eau pour réallouer temporairement l'eau entre membres sans procédure devant l'ingénieur d'État (art. 73-2-55.1). Les droits d'eau des membres restent individuels et peuvent être cédés hors du canal, sous réserve de l'approbation prévue à l'art. 72-5-24.1.", source: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-22-1/"}
+  consentement: {valeur: "partiel", note: "L'ingénieur d'État ne peut approuver un changement de point de dérivation ou d'usage d'un droit d'eau desservi par une acequia sans preuve du respect des conditions fixées par celle-ci, lorsque ses règlements le prévoient ; l'acequia ne peut refuser que si le changement lui est préjudiciable ou l'est à ses membres, décide sous 120 jours (faute de quoi l'accord est réputé donné) et sa décision peut être contestée devant le tribunal de district dans les 30 jours (art. 72-5-24.1 et 73-2-21 E, en vigueur en 2004).", source: "https://law.justia.com/codes/new-mexico/chapter-72/article-5/section-72-5-24-1/"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les commissaires fixent les contributions en travail (fatiga, entretien du canal) ou en argent des titulaires de droits d'eau pour le salaire du mayordomo et l'entretien (art. 73-2-21 NMSA 1978) ; comme subdivisions politiques, les acequias ont accès aux prêts de l'Interstate Stream Commission (art. 73-2-28, 2001).", source: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-21/"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Aucune évaluation d'ensemble de l'application du régime n'a été trouvée. Le droit d'approbation des transferts est appliqué : en 2009, saisie de deux refus de transfert opposés par des acequias, la cour d'appel de l'État a jugé que ces décisions ne violaient pas la constitution de l'État et a validé le contrôle restreint du tribunal de district sur elles (Peña Blanca Partnership v. San José de Hernández Community Ditch, 2009-NMCA-016, selon le Utton Center de l'Université du Nouveau-Mexique). En 2023, l'Office of the State Engineer indiquait qu'il n'existait aucun nombre établi d'acequias en activité et qu'environ 73 % des systèmes figurant sur sa carte n'y portaient pas de nom (Source New Mexico, 8 juin 2023).", source: "https://uttoncenter.unm.edu/resources/research-resources/acequias.pdf"}
+chronologie:
+  - {annee: 1895, evenement: "Une loi territoriale fait des acequias et canaux communautaires des personnes morales dirigées par trois commissaires et un mayordomo."}
+  - {annee: 1965, evenement: "Les associations d'acequias et de canaux communautaires deviennent des subdivisions politiques de l'État."}
+  - {annee: 1987, evenement: "Les élections des commissaires et du mayordomo passent d'un rythme annuel à un rythme biennal ; les acequias peuvent acquérir et détenir des droits d'eau."}
+  - {annee: 1993, evenement: "La loi institue la New Mexico Acequia Commission, rattachée au Department of Finance and Administration."}
+  - {annee: 2003, evenement: "Lois sur les banques d'eau des acequias et sur l'approbation par l'acequia des changements de droits d'eau (en vigueur le 1er mars 2004 pour ce second volet)."}
+  - {annee: 2009, evenement: "Les municipalités ne peuvent plus exproprier l'eau ni les droits d'eau des acequias établies avant le 1er juillet 2009 (art. 3-27-2 NMSA 1978)."}
+  - {annee: 2009, evenement: "La cour d'appel de l'État juge conforme à la constitution de l'État le contrôle restreint des refus de transfert de droits d'eau opposés par deux acequias (Peña Blanca Partnership v. San José de Hernández Community Ditch)."}
+fiabilite:
+  verifie: ["Statut de subdivision politique de l'État (art. 73-2-28, 1965, modifié en 2001).", "Trois commissaires et un mayordomo élus tous les deux ans par les titulaires de droits d'eau (art. 73-2-12 et 73-2-14).", "Capacité de l'acequia à détenir des droits d'eau (art. 73-2-22.1, 1987).", "Approbation par l'acequia des changements de point de dérivation ou d'usage, délai de 120 jours, recours au tribunal de district (art. 72-5-24.1 et 73-2-21 E, 2003-2004).", "Banques d'eau des acequias (art. 73-2-55.1, 2003).", "Interdiction de l'expropriation municipale (art. 3-27-2 B, 2009) et Acequia Commission (art. 73-2-65, 1993).", "Présence dans 22 des 33 comtés (ministère de la Justice du Nouveau-Mexique)."]
+  non_confirme: ["Nombre d'acequias : 640 dans la base de la New Mexico Acequia Association (2018), 600 à 700 selon une présentation de 2021, 721 vers 1987 selon une étude de 1996, environ 2 000 selon l'Office of the State Engineer en 2023.", "Surface irriguée : « plus de 100 000 acres », chiffre arrondi sans date de relevé.", "Nombre de familles titulaires de droits d'eau (« des dizaines de milliers ») non chiffré.", "Arrêt Peña Blanca (2009) lu dans la synthèse du Utton Center, pas dans le texte de la décision."]
+sources:
+  - {titre: "NMSA 1978, art. 73-2-28 — Acequia and community ditch associations (Justia)", url: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-28/"}
+  - {titre: "NMSA 1978, art. 73-2-21 — Commissioners' powers and duties; mayordomo's duties (Justia)", url: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-21/"}
+  - {titre: "NMSA 1978, art. 73-2-12 — Officers, election (Justia)", url: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-12/"}
+  - {titre: "NMSA 1978, art. 73-2-14 — Ditch elections; votes (Justia)", url: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-14/"}
+  - {titre: "NMSA 1978, art. 73-2-11 — Community ditches made corporations (Justia)", url: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-11/"}
+  - {titre: "NMSA 1978, art. 73-2-22.1 — Acequia property and water rights (Justia)", url: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-22-1/"}
+  - {titre: "NMSA 1978, art. 73-2-55.1 — Acequia water banks (Justia)", url: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-55-1/"}
+  - {titre: "NMSA 1978, art. 73-2-65 — Acequia commission (Justia)", url: "https://law.justia.com/codes/new-mexico/chapter-73/article-2/section-73-2-65/"}
+  - {titre: "NMSA 1978, art. 72-5-24.1 — Acequias and community ditches; change of water rights (Justia)", url: "https://law.justia.com/codes/new-mexico/chapter-72/article-5/section-72-5-24-1/"}
+  - {titre: "NMSA 1978, art. 3-27-2 — Municipal condemnation (Justia)", url: "https://law.justia.com/codes/new-mexico/chapter-3/article-27/section-3-27-2/"}
+  - {titre: "Land Grants-Mercedes and Acequias — ministère de la Justice du Nouveau-Mexique", url: "https://nmdoj.gov/about-the-office/civil-affairs/land-grants-mercedes-and-acequias/"}
+  - {titre: "Acequias — Utton Transboundary Resources Center, Université du Nouveau-Mexique (Water Matters!, mise à jour 2013)", url: "https://uttoncenter.unm.edu/resources/research-resources/acequias.pdf"}
+  - {titre: "Acequias in New Mexico: Updates and Policy Recommendations — New Mexico Acequia Association, commission législative, 2018", url: "https://www.nmlegis.gov/handouts/WNR%20100218%20Item%207%20Acequia%20Association%20Presentation%20Outline.pdf"}
+  - {titre: "Supporting Acequia Infrastructure in New Mexico — NMAA, NMAC, ISC, 2021", url: "https://www.nmlegis.gov/handouts/REOTF%20071921%20Item%203%20NMAA-NMAC-ISC%20HANDOUT.PDF"}
+  - {titre: "Acequia Assistance — Interstate Stream Commission, 2025", url: "https://www.nmlegis.gov/handouts/WNR%20091125%20Item%208%20ISC%20Acequia%20Assistance.pdf"}
+  - {titre: "Disaster recovery efforts boost initiative to map acequias in the state — Source New Mexico, 2023", url: "https://sourcenm.com/2023/06/08/disaster-recovery-efforts-boost-initiative-to-map-acequias-in-the-state/"}

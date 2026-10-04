@@ -1,0 +1,63 @@
+uid: "chasse-baleine-commission-eskimo-alaska"
+nom: "Villages baleiniers d'Alaska (AEWC)"
+endonyme: ""
+territoire: "Onze villages baleiniers des côtes de la mer de Béring, du détroit de Béring, de la mer des Tchouktches et de la mer de Beaufort, en Alaska, de l'île Saint-Laurent (Gambell, Savoonga) à Kaktovik"
+etats: ["États-Unis"]
+region: "ameriques"
+coord: [68.5, -160.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 6674, annee: 2010, perimetre: "population autochtone d'Alaska des onze villages baleiniers selon le recensement de 2010, retenue pour le calcul des besoins de subsistance (rapport remis à l'AEWC, 2018, tableau 17)", source: "https://www.north-slope.org/wp-content/uploads/2022/03/Braund_AEWC16_Bowhead_Sharing_Report_5-23-18.pdf"}
+lieux: {valeur: 11, unite: "villages baleiniers entre lesquels l'AEWC répartit le quota de coups (strikes)", annee: 2026, source: "https://www.govinfo.gov/content/pkg/FR-2026-04-02/html/2026-06366.htm"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 11, annee: 2026, perimetre: "villages membres de l'AEWC : Utqiagvik (Barrow), Wainwright, Kaktovik, Nuiqsut, Point Lay, Point Hope, Kivalina, Little Diomede, Wales, Gambell, Savoonga", source: "https://www.aewc-alaska.org/our-villlages"}
+resume: >-
+  Fiche agrégée : elle couvre les onze villages baleiniers inupiat et yupik d'Alaska réunis dans la Commission eskimo baleinière d'Alaska (Alaska Eskimo Whaling Commission, AEWC), créée en 1977 après la suppression par la Commission baleinière internationale (CBI) de l'exemption de chasse aborigène pour la baleine boréale. Depuis 1981, l'AEWC applique son propre plan de gestion (Management Plan) et gère la chasse avec l'Agence nationale océanique et atmosphérique (NOAA) par des accords de coopération renouvelés, le dernier conclu en 2026 pour la période allant jusqu'à 2031. L'AEWC répartit entre les villages les coups autorisés (93 en 2026), enregistre les capitaines baleiniers et sanctionne les infractions par un mécanisme de recouvrement qui remplace, pendant la durée de l'accord, les poursuites fédérales. Le cadre juridique comprend l'exemption de subsistance des Autochtones d'Alaska du Marine Mammal Protection Act (loi sur la protection des mammifères marins), sa section 119 sur la cogestion, le Whaling Convention Act (loi d'application de la convention baleinière) et le quota de chasse aborigène fixé par la CBI.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Marine Mammal Protection Act of 1972, section 101(b), 16 U.S.C. 1371(b) : exemption pour la chasse de subsistance par les Autochtones d'Alaska résidant sur les côtes du Pacifique Nord et de l'océan Arctique", nature: "loi", annee: 1972, source: "https://www.law.cornell.edu/uscode/text/16/1371"}
+  - {instrument: "Marine Mammal Protection Act, section 119, 16 U.S.C. 1388 (Pub. L. 103-238, 1994) : accords de coopération avec les organisations autochtones d'Alaska pour la cogestion de l'usage de subsistance", nature: "loi", annee: 1994, source: "https://www.law.cornell.edu/uscode/text/16/1388"}
+  - {instrument: "Whaling Convention Act (16 U.S.C. 916 et suiv.) et règlement 50 CFR part 230 (Whaling provisions) : licences délivrées aux capitaines désignés par l'organisation baleinière autochtone, quotas répartis par celle-ci entre villages ou capitaines", nature: "loi", annee: 1949, source: "https://www.ecfr.gov/current/title-50/chapter-II/subchapter-B/part-230"}
+  - {instrument: "Accord de coopération entre la NOAA et l'AEWC, version modifiée de 2026, conclu en application du Marine Mammal Protection Act et du Whaling Convention Act (section 7), en vigueur jusqu'au 31 mars 2032 (accords antérieurs publiés par la NOAA : 1998, 2003, 2008, 2013, 2019)", nature: "loi", annee: 2026, source: "https://www.fisheries.noaa.gov/s3/2026-05/final-noaa-aewc-2026-2031-cooperative-agreement_signed.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'AEWC, « association gouvernant les chasseurs de baleines eskimo d'Alaska » selon l'accord de 2026 (section 2), est reconnue par la NOAA comme organisation baleinière autochtone (50 CFR 230.2) ; son conseil réunit un capitaine baleinier par village. Ses pouvoirs sont limités par l'accord, et la NOAA peut reprendre la gestion fédérale après préavis si l'AEWC ne remplit pas ses obligations.", source: "https://www.fisheries.noaa.gov/s3/2026-05/final-noaa-aewc-2026-2031-cooperative-agreement_signed.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le plan de gestion adopté par l'AEWC le 4 mars 1981 et modifié depuis s'impose aux capitaines enregistrés (accord de 2026, section 4(2)) ; il ne s'applique que dans la mesure où il est compatible avec l'accord (section 2) et doit réserver la viande et les produits comestibles à la consommation autochtone (section 4(4)).", source: "https://www.fisheries.noaa.gov/s3/2026-05/final-noaa-aewc-2026-2031-cooperative-agreement_signed.pdf"}
+  justice_propre: {valeur: "partiel", note: "Les infractions des capitaines enregistrés et de leurs équipages au plan de gestion, au règlement de la CBI et aux lois fédérales sur la chasse aborigène relèvent d'un mécanisme exclusif : sanctions pécuniaires civiles fixées et recouvrées par l'AEWC ; en cas de désaccord avec la NOAA, un juge administratif fédéral tranche (accord de 2026, section 5).", source: "https://www.fisheries.noaa.gov/s3/2026-05/final-noaa-aewc-2026-2031-cooperative-agreement_signed.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "L'AEWC répartit entre les villages baleiniers les coups autorisés (accord de 2026, section 4(3) ; 50 CFR 230.6) ; le total (93 coups en 2026) est négocié chaque année avec la NOAA dans la limite du quota de la CBI pour 2026-2031.", source: "https://www.govinfo.gov/content/pkg/FR-2026-04-02/html/2026-06366.htm"}
+  consentement: {valeur: "partiel", note: "La NOAA doit consulter l'AEWC sur toute action fédérale envisagée pouvant affecter la baleine boréale ou la chasse de subsistance (accord de 2026, section 9) ; il s'agit d'une consultation, sans exigence de consentement.", source: "https://www.fisheries.noaa.gov/s3/2026-05/final-noaa-aewc-2026-2031-cooperative-agreement_signed.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "La gestion conjointe est appliquée sans interruption depuis 1981 : l'accord a été renouvelé en 1998, 2003, 2008, 2013, 2019 et 2026, et la CBI a fixé le quota en 2018 pour 2019-2025, puis l'a prolongé en 2024 pour 2026-2031. Un mémoire de l'université de Cambridge (Huntington, 1989) décrit la délégation de la gestion et de l'administration du quota à l'AEWC depuis 1981. Avant 2018, les chasseurs devaient obtenir de la CBI le renouvellement du quota tous les six ans (Åman, 2024) ; depuis, la prolongation est automatique si le comité scientifique de la CBI ne s'y oppose pas et si ni les États-Unis ni la Russie ne demandent de changement (avis de la NOAA, 2026).", source: "https://www.repository.cam.ac.uk/items/0f559803-4bb0-4155-adbb-cf288b0759b7"}
+chronologie:
+  - {annee: 1977, evenement: "La CBI supprime l'exemption de chasse aborigène pour la baleine boréale ; des capitaines baleiniers fondent l'AEWC."}
+  - {annee: 1978, evenement: "La CBI reconnaît la chasse de subsistance à la baleine boréale et autorise le débarquement de 12 baleines, réparties entre neuf villages."}
+  - {annee: 1981, evenement: "L'AEWC adopte son plan de gestion (4 mars) et conclut un premier accord de coopération avec la NOAA."}
+  - {annee: 1992, evenement: "Little Diomede est reconnu comme village baleinier."}
+  - {annee: 1994, evenement: "La section 119 du Marine Mammal Protection Act autorise les accords de cogestion avec les organisations autochtones d'Alaska."}
+  - {annee: 2008, evenement: "Point Lay est reconnu comme village baleinier et reçoit son propre quota ; le nombre de villages passe à onze."}
+  - {annee: 2024, evenement: "La 69e réunion de la CBI reconduit les quotas de chasse aborigène pour la période 2026-2031."}
+  - {annee: 2026, evenement: "Nouvel accord NOAA–AEWC, signé les 30 mars et 3 avril, en vigueur jusqu'au 31 mars 2032 ; 93 coups attribués à l'AEWC pour 2026."}
+fiabilite:
+  verifie: ["Texte de l'accord NOAA–AEWC de 2026 : gestion par l'AEWC, plan de gestion du 4 mars 1981, répartition des coups entre villages, mécanisme exclusif de sanctions, consultation, échéance du 31 mars 2032.", "Liste des accords publiés par la NOAA : 1998, 2003, 2008, 2013, 2019, 2026.", "16 U.S.C. 1371(b) (exemption de subsistance) et 16 U.S.C. 1388 (accords de cogestion, Pub. L. 103-238, 1994).", "50 CFR 230.2, 230.5 et 230.6 : définition de l'organisation baleinière autochtone, licences et répartition des quotas.", "Avis de la NOAA de 2025 et 2026 : 93 coups attribués à l'AEWC, répartis entre onze villages ; quota de la CBI pour 2026-2031.", "Liste des onze villages sur le site de l'AEWC ; reconnaissance de Little Diomede (1992) et de Point Lay (2008)."]
+  non_confirme: ["Population : 6 674 Autochtones d'Alaska dans les onze villages au recensement de 2010, chiffre tiré d'un rapport commandé par l'AEWC ; aucun chiffre plus récent sur le même périmètre n'a été trouvé.", "Incorporation formelle de l'AEWC en 1981 : donnée par la seule page de la CBI ; le site de l'AEWC indique une création en 1977.", "Existence d'accords écrits entre 1981 et 1998 : la NOAA ne publie pas les textes antérieurs à 1998.", "Surface concernée : aucune délimitation des zones de chasse n'a été trouvée."]
+sources:
+  - {titre: "Cooperative Agreements Between NOAA and Alaska Eskimo Whaling Commission — NOAA Fisheries", url: "https://www.fisheries.noaa.gov/resource/document/cooperative-agreements-between-noaa-and-alaska-eskimo-whaling-commission"}
+  - {titre: "Cooperative Agreement between NOAA and the AEWC, as amended 2026", url: "https://www.fisheries.noaa.gov/s3/2026-05/final-noaa-aewc-2026-2031-cooperative-agreement_signed.pdf"}
+  - {titre: "Whaling Provisions: Aboriginal Subsistence Whaling Quotas — Federal Register, 2 avril 2026", url: "https://www.govinfo.gov/content/pkg/FR-2026-04-02/html/2026-06366.htm"}
+  - {titre: "Whaling Provisions: Aboriginal Subsistence Whaling Quotas — Federal Register, 14 janvier 2025", url: "https://www.govinfo.gov/content/pkg/FR-2025-01-14/html/2025-00554.htm"}
+  - {titre: "16 U.S.C. 1371 — Moratorium on taking and importing marine mammals (exemption des Autochtones d'Alaska) — Cornell LII", url: "https://www.law.cornell.edu/uscode/text/16/1371"}
+  - {titre: "16 U.S.C. 1388 — Marine mammal cooperative agreements in Alaska — Cornell LII", url: "https://www.law.cornell.edu/uscode/text/16/1388"}
+  - {titre: "50 CFR part 230 — Whaling provisions — eCFR", url: "https://www.ecfr.gov/current/title-50/chapter-II/subchapter-B/part-230"}
+  - {titre: "Description of the USA Aboriginal Subsistence Hunt: Alaska — Commission baleinière internationale", url: "https://iwc.int/management-and-conservation/whaling/aboriginal/usa/alaska"}
+  - {titre: "Our Villages — Alaska Eskimo Whaling Commission", url: "https://www.aewc-alaska.org/our-villlages"}
+  - {titre: "Our Story — Alaska Eskimo Whaling Commission", url: "https://www.aewc-alaska.org/our-story"}
+  - {titre: "Description of Alaskan Eskimo Bowhead Whale Subsistence Sharing Practices — Stephen R. Braund & Associates pour l'AEWC, 2018", url: "https://www.north-slope.org/wp-content/uploads/2022/03/Braund_AEWC16_Bowhead_Sharing_Report_5-23-18.pdf"}
+  - {titre: "Huntington, The Alaska Eskimo Whaling Commission: effective local management of a subsistence resource — mémoire, université de Cambridge, 1989", url: "https://www.repository.cam.ac.uk/items/0f559803-4bb0-4155-adbb-cf288b0759b7"}
+  - {titre: "Åman, On the edges of extinction: Indigenous whaling governance, the 1977 « bowhead controversy » and its legacy — Cambridge Prisms: Extinction, 2024", url: "https://www.cambridge.org/core/journals/cambridge-prisms-extinction/article/on-the-edges-of-extinction-indigenous-whaling-governance-the-1977-bowhead-controversy-and-its-legacy/F7E85DD091D768D6DF10A518DE193485"}

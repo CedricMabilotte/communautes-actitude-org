@@ -1,0 +1,66 @@
+uid: "slovenes-carinthie"
+nom: "Slovènes de Carinthie"
+endonyme: "Koroški Slovenci"
+territoire: "Carinthie méridionale (districts de Hermagor, Klagenfurt-Land, Villach-Land et Völkermarkt)"
+etats: ["Autriche"]
+region: "europe"
+coord: [46.6, 14.5]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 17953, annee: 2001, perimetre: "citoyens autrichiens ayant déclaré le slovène comme langue d'usage, Autriche entière, recensement de 2001 (dernier recensement classique)", source: "https://www.parlament.gv.at/dokument/dossiers-eu-internationales/Minderheiten-und-Volksgruppen-in-Oesterreich-und-Europa.pdf"}
+lieux: {valeur: 24, unite: "communes de Carinthie comprenant des localités à signalisation bilingue (annexe 1 de la loi sur les groupes ethniques)", annee: 2011, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 164, annee: 2011, perimetre: "localités de Carinthie où les noms de lieux officiels sont en allemand et en slovène (annexe 1 de la loi sur les groupes ethniques, révision de 2011)", source: "https://www.parlament.gv.at/aktuelles/pk/jahr_2011/pk0693"}
+resume: >-
+  Les Slovènes de Carinthie forment l'un des six groupes ethniques autochtones reconnus par l'Autriche. L'article 7 du traité d'État de Vienne de 1955 leur garantit un enseignement en slovène, l'usage du slovène comme langue officielle et des noms de lieux bilingues. La loi sur les groupes ethniques de 1976, révisée en 2011, fixe 164 localités à signalisation bilingue et les autorités devant lesquelles le slovène est langue officielle. Un conseil consultatif du groupe ethnique, placé auprès de la chancellerie fédérale, est entendu avant les textes qui le concernent.
+reconnaissance_regionale:
+  - {mecanisme: "charte_langues_regionales", detail: "À la ratification de la Charte européenne des langues régionales ou minoritaires, l'Autriche a désigné le slovène et pris des engagements de la partie III pour « le slovène dans l'aire linguistique slovène de Carinthie » (BGBl. III n° 216/2001) ; le sixième rapport d'évaluation du Comité d'experts (MIN-LANG(2026)11) a été adopté le 10 juin 2026.", annee: 2001, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001589"}
+  - {mecanisme: "conseil_europe_fcnm", detail: "L'Autriche a ratifié la Convention-cadre pour la protection des minorités nationales le 31 mars 1998 ; le Comité consultatif a adopté son cinquième avis sur l'Autriche le 8 juin 2023.", annee: 1998, source: "https://www.coe.int/en/web/minorities/austria"}
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité des droits de l'homme sur l'Autriche (CCPR/C/AUT/CO/4), § 22 : le Comité note que la décision de la Cour constitutionnelle du 13 décembre 2001 sur la signalisation topographique n'est pas appliquée en Carinthie (art. 19 (2) et 27 du Pacte).", annee: 2007, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/AUT/CO/4&l=en&t=pdf"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale sur l'Autriche (CERD/C/AUT/CO/18-20), § 3 e) : le Comité relève l'accord sur la signalisation bilingue en allemand et en slovène en Carinthie.", annee: 2012, source: "https://documents.un.org/api/symbol/access?s=CERD/C/AUT/CO/18-20&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Traité d'État pour le rétablissement d'une Autriche indépendante et démocratique (1955), art. 7, dispositions de rang constitutionnel", nature: "traite", annee: 1955, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000265"}
+  - {instrument: "Loi sur les écoles des minorités de Carinthie (Minderheiten-Schulgesetz für Kärnten, BGBl. n° 101/1959)", nature: "loi", annee: 1959, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009246"}
+  - {instrument: "Loi sur les groupes ethniques (Volksgruppengesetz, BGBl. n° 396/1976), révisée par BGBl. I n° 46/2011 et BGBl. I n° 71/2026 (publiée le 29 juillet 2026)", nature: "loi", annee: 1976, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le conseil consultatif du groupe ethnique (Volksgruppenbeirat) doit être entendu, dans un délai approprié, avant l'adoption des textes et des plans de financement qui touchent aux intérêts des groupes ethniques, loi sur les groupes ethniques, § 3 (1) ; il s'agit d'un avis, sans droit de veto.", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+  langue: {valeur: "reconnu", note: "Le slovène est admis comme langue officielle, en plus de l'allemand, devant les autorités de 14 communes, de deux autres communes pour les habitants de certaines localités, de trois tribunaux de district et de trois administrations de district de Carinthie, loi sur les groupes ethniques, § 13 et annexe 2, II (disposition de rang constitutionnel, 2011) ; à partir du 1er janvier 2027, les tribunaux de district concernés sont ceux de Klagenfurt-Ferlach (en partie) et de Völkermarkt-Bleiburg (BGBl. I n° 71/2026) ; noms de lieux bilingues dans 164 localités, § 12 et annexe 1 ; traité d'État de 1955, art. 7 (3).", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+  education: {valeur: "partiel", note: "Droit à l'enseignement élémentaire en slovène et à un nombre proportionné d'écoles secondaires, traité d'État de 1955, art. 7 (2) ; tout élève de la zone définie par la loi scolaire des minorités de Carinthie de 1959 peut recevoir l'enseignement en slovène ou l'apprendre comme matière obligatoire si ses parents le demandent, § 7 ; cette zone se limite aux communes où l'enseignement était bilingue au début de l'année scolaire 1958-1959, § 10 (1) ; les écoles relèvent de l'État fédéral et du Land, sans organe de gestion propre au groupe, § 2 et 3.", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009246"}
+  fiscalite: {valeur: "partiel", note: "L'État fédéral finance les mesures de maintien des groupes ethniques et inscrit un montant à cet effet au budget annuel ; le conseil consultatif propose chaque année l'usage des fonds, loi sur les groupes ethniques, § 8 à 10 ; aucun pouvoir fiscal.", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+  representation: {valeur: "partiel", note: "Un conseil consultatif du groupe ethnique siège auprès de la chancellerie fédérale ; ses membres sont nommés pour quatre ans par le gouvernement fédéral, la moitié sur proposition des organisations représentatives du groupe, loi sur les groupes ethniques, § 3 et 4 ; aucun siège réservé au Parlement.", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité d'experts de la Charte européenne des langues régionales ou minoritaires relève en 2026 que le slovène reste la seule langue minoritaire employée concrètement devant les tribunaux (69 affaires en 2024, 74 en 2025) et qu'il est utilisé « dans une certaine mesure » dans l'administration du Land, des districts et des communes de Carinthie. En 2007, le Comité des droits de l'homme relevait que la décision de la Cour constitutionnelle de 2001 sur les panneaux bilingues n'était pas appliquée ; le CERD a relevé en 2012 l'accord de 2011. Selon le Parlement autrichien (2026), 42,4 % des enfants des écoles primaires de la zone couverte par la loi scolaire sont inscrits à l'enseignement bilingue.", source: "https://rm.coe.int/min-lang-2026-11-6th-ecrml-evaluation-report-on-austria-fr/48802da8d9"}
+chronologie:
+  - {annee: 1955, evenement: "Traité d'État de Vienne, art. 7 : droits des minorités slovène et croate."}
+  - {annee: 1959, evenement: "Loi scolaire des minorités de Carinthie."}
+  - {annee: 1972, evenement: "Des panneaux bilingues posés en Carinthie sont arrachés (« Ortstafelsturm »)."}
+  - {annee: 1976, evenement: "Loi sur les groupes ethniques : conseils consultatifs, financement, noms de lieux, langue officielle."}
+  - {annee: 2001, evenement: "Décision de la Cour constitutionnelle du 13 décembre 2001 sur la signalisation topographique en Carinthie."}
+  - {annee: 2011, evenement: "Révision de la loi adoptée le 6 juillet 2011 : 164 localités à signalisation bilingue, dispositions de rang constitutionnel."}
+  - {annee: 2017, evenement: "La Constitution du Land de Carinthie mentionne pour la première fois le groupe ethnique slovène."}
+  - {annee: 2026, evenement: "Révision de la loi (BGBl. I n° 71/2026) : les six groupes ethniques autochtones sont nommés dans une disposition de rang constitutionnel."}
+fiabilite:
+  verifie: ["Traité d'État de 1955, art. 7 (RIS).", "Loi sur les groupes ethniques, version en vigueur : § 1, 3, 4, 8 à 10, 12, 13, annexes 1 et 2 ; 24 communes et 164 localités à l'annexe 1, II (RIS).", "Modifications de BGBl. I n° 71/2026 : § 1 (1) et annexe 2, II B et C à compter du 1er janvier 2027 (RIS).", "Loi scolaire des minorités de Carinthie, § 1 à 7 et 10 (RIS).", "Déclaration autrichienne à la Charte européenne des langues régionales ou minoritaires, engagements pour le slovène en Carinthie (RIS).", "164 localités et adoption le 6 juillet 2011 (communiqué du Parlement).", "CCPR/C/AUT/CO/4, § 22 ; CERD/C/AUT/CO/18-20, § 3 e).", "Ratification de la Convention-cadre le 31 mars 1998 et cinquième avis du 8 juin 2023 (page du Conseil de l'Europe).", "Rapport du Comité d'experts de la Charte MIN-LANG(2026)11, § 32 et 39.", "Chiffre du recensement de 2001 et taux d'inscription de 42,4 % (dossier du Parlement, 2026)."]
+  non_confirme: ["Le chiffre de population couvre toute l'Autriche, Styrie comprise ; aucun chiffre propre à la Carinthie n'a été ouvert.", "Le texte du cinquième avis du Comité consultatif de la Convention-cadre (2023) n'a pas été consulté.", "Inscription du groupe slovène dans la Constitution de Carinthie (2017) tirée du dossier du Parlement, texte non consulté."]
+sources:
+  - {titre: "Staatsvertrag von Wien (1955) — RIS", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000265"}
+  - {titre: "Volksgruppengesetz — RIS", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+  - {titre: "Minderheiten-Schulgesetz für Kärnten — RIS", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009246"}
+  - {titre: "Communiqué n° 693 du 6 juillet 2011 — Parlement autrichien", url: "https://www.parlament.gv.at/aktuelles/pk/jahr_2011/pk0693"}
+  - {titre: "Volksgruppen — Parlement autrichien", url: "https://www.parlament.gv.at/verstehen/demokratie-wahlen/volksgruppen"}
+  - {titre: "Minderheiten und Volksgruppen in Österreich und Europa — Parlement autrichien (2026)", url: "https://www.parlament.gv.at/dokument/dossiers-eu-internationales/Minderheiten-und-Volksgruppen-in-Oesterreich-und-Europa.pdf"}
+  - {titre: "Änderung des Volksgruppengesetzes, BGBl. I n° 71/2026 — RIS", url: "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_71/BGBLA_2026_I_71.html"}
+  - {titre: "Charte européenne des langues régionales ou minoritaires, déclarations de l'Autriche — RIS", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001589"}
+  - {titre: "Sixième rapport d'évaluation sur l'Autriche, MIN-LANG(2026)11 — Conseil de l'Europe", url: "https://rm.coe.int/min-lang-2026-11-6th-ecrml-evaluation-report-on-austria-fr/48802da8d9"}
+  - {titre: "CCPR/C/AUT/CO/4 (2007) — Nations unies", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/AUT/CO/4&l=en&t=pdf"}
+  - {titre: "CERD/C/AUT/CO/18-20 (2012) — Nations unies", url: "https://documents.un.org/api/symbol/access?s=CERD/C/AUT/CO/18-20&l=en&t=pdf"}
+  - {titre: "Autriche — Convention-cadre pour la protection des minorités nationales, Conseil de l'Europe", url: "https://www.coe.int/en/web/minorities/austria"}
+  - {titre: "Minderheitenschulwesen — Austria-Forum (AEIOU)", url: "https://www.aeiou.at/aeiou.encyclop.m/m661146.htm"}

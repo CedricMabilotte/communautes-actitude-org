@@ -1,0 +1,62 @@
+uid: "acadiens-francophones-nouveau-brunswick"
+nom: "Communauté acadienne et francophone du Nouveau-Brunswick"
+endonyme: ""
+territoire: "Province du Nouveau-Brunswick (nord-ouest, nord-est et sud-est surtout)"
+etats: ["Canada"]
+region: "ameriques"
+coord: [46.9, -65.6]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 234365, annee: 2021, perimetre: "résidents du Nouveau-Brunswick dont la première langue officielle parlée est le français (229 325) ou le français et l'anglais (5 040), soit 30,7 % de la population provinciale ; recensement de 2021", source: "https://www150.statcan.gc.ca/n1/pub/89-657-x/89-657-x2023015-fra.htm"}
+lieux: {valeur: 3, unite: "districts scolaires francophones (Nord-Ouest, Nord-Est, Sud), chacun dirigé par un conseil d'éducation de district élu", annee: 2026, source: "https://www2.gnb.ca/content/dam/gnb/Departments/ed/pdf/K12/carte-districts-scolaires-francophones.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Une loi provinciale de 1981 reconnaît officiellement la communauté linguistique française et la communauté linguistique anglaise, et leur droit à des institutions distinctes. Depuis 1993, l'article 16.1 de la Charte canadienne des droits et libertés inscrit dans la Constitution l'égalité de statut de ces deux communautés et leur droit à des institutions d'enseignement et culturelles distinctes. La communauté francophone, en majorité acadienne, gère trois districts scolaires de langue française par des conseils d'éducation de district (organes élus qui dirigent chaque district) ; une régie régionale de la santé fonctionne en français depuis 2010. La gestion scolaire des minorités de langue officielle des autres provinces fait l'objet de la fiche « Minorités de langue officielle ».
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Charte canadienne des droits et libertés, art. 16(2) et 16.1, article ajouté par la Modification constitutionnelle de 1993 (Nouveau-Brunswick)", nature: "constitution", annee: 1993, source: "https://laws-lois.justice.gc.ca/fra/const/page-12.html"}
+  - {instrument: "Loi reconnaissant l'égalité des deux communautés linguistiques officielles au Nouveau-Brunswick (1981, ch. O-1.1), reprise sans changement de fond dans les Lois révisées de 2011, refonte officielle des lois de la province (L.R.N.-B. 2011, ch. 198), en vigueur le 1er septembre 2011", nature: "loi", annee: 1981, source: "https://lois.gnb.ca/fr/document/cs/2011-c.198"}
+  - {instrument: "Loi sur les langues officielles du Nouveau-Brunswick (L.N.-B. 2002, ch. O-0.5)", nature: "loi", annee: 2002, source: "https://lois.gnb.ca/fr/document/cs/O-0.5"}
+  - {instrument: "Loi sur l'éducation (L.N.-B. 1997, ch. E-1.12), art. 4 (deux secteurs d'éducation distincts) et art. 36.1 à 36.9 (conseils d'éducation de district)", nature: "loi", annee: 1997, source: "https://lois.gnb.ca/fr/document/cs/E-1.12"}
+  - {instrument: "Loi sur les régies régionales de la santé (L.N.-B. 2002, ch. R-5.05), art. 18.1 ajouté en 2010", nature: "loi", annee: 2010, source: "https://lois.gnb.ca/fr/document/cs/R-5.05"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque district scolaire de langue française est dirigé par un conseil d'éducation de district dont les conseillers sont élus, Loi sur l'éducation, art. 36.2(2) ; l'élection suit la Loi sur les élections municipales, art. 36.3(3). Le ministre peut demander à un juge la dissolution d'un conseil, art. 41. La compétence se limite à l'éducation.", source: "https://lois.gnb.ca/fr/document/cs/E-1.12"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil d'éducation de district adopte un plan d'éducation triennal, qui comprend des mesures pour protéger et promouvoir la langue et la culture de la communauté linguistique du district, et élabore des politiques de district, Loi sur l'éducation, art. 36.9(1), (2) d) et (5) a) ; le plan doit être conforme au plan d'éducation provincial, art. 36.9(2), et les politiques de district doivent refléter les politiques provinciales, art. 36.9(5) a).", source: "https://lois.gnb.ca/fr/document/cs/E-1.12"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Le français et l'anglais sont les langues officielles du Nouveau-Brunswick, avec un statut égal dans les institutions de la Législature et du gouvernement, Charte canadienne, art. 16(2), 17(2), 18(2), 19(2) et 20(2) ; la Loi sur les langues officielles de 2002 en précise les obligations et institue un commissaire aux langues officielles, art. 43.", source: "https://laws-lois.justice.gc.ca/fra/const/page-12.html"}
+  education: {valeur: "reconnu", note: "La communauté linguistique française a droit à des institutions d'enseignement distinctes, Charte canadienne, art. 16.1(1) (1993) ; la Loi sur l'éducation établit deux secteurs d'éducation distincts, dont des districts scolaires de langue française sur tout le territoire de la province, art. 4(1) ; chaque secteur a sa propre division du ministère, art. 4(4).", source: "https://lois.gnb.ca/fr/document/cs/E-1.12"}
+  fiscalite: {valeur: "partiel", note: "Le conseil d'éducation de district établit et surveille le plan de dépenses de son district et le présente chaque année au ministre, Loi sur l'éducation, art. 36.9(4) ; les fonds viennent de la province et aucun pouvoir fiscal n'est prévu.", source: "https://lois.gnb.ca/fr/document/cs/E-1.12"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Sur 66 plaintes recevables reçues du 1er avril 2023 au 31 mars 2024 par le Commissariat aux langues officielles, 58 allèguent un manque de service en français et 8 un manque de service en anglais. Les trois districts francophones refusant d'appliquer la politique 713 révisée, le ministre de l'Éducation n'excluait pas, le 8 mai 2024, de demander aux tribunaux la dissolution de leurs conseils d'éducation s'ils ne retiraient pas leur propre version de cette politique de leur site (Radio-Canada). Le 17 septembre 2024, le conseil d'éducation du District scolaire francophone Sud vote en faveur d'une poursuite contre la province pour insuffisance des investissements dans ses écoles, en invoquant la Charte canadienne, la Loi sur l'éducation et la loi de 1981.", source: "https://www.legnb.ca/content/house_business/61/1/tabled_documents/2025-01-21%20Langues%20officielles%202023-2024.pdf"}
+chronologie:
+  - {annee: 1981, evenement: "Loi reconnaissant l'égalité des deux communautés linguistiques officielles (sanctionnée le 17 juillet)."}
+  - {annee: 1982, evenement: "La Charte canadienne fait du français et de l'anglais les langues officielles du Nouveau-Brunswick, art. 16(2)."}
+  - {annee: 1993, evenement: "Ajout de l'article 16.1 à la Charte : égalité des deux communautés linguistiques et droit à des institutions distinctes."}
+  - {annee: 2002, evenement: "Nouvelle Loi sur les langues officielles (sanctionnée le 7 juin), qui crée le Commissariat aux langues officielles."}
+  - {annee: 2010, evenement: "La Régie régionale de la santé A fonctionne en français, art. 18.1 de la Loi sur les régies régionales de la santé."}
+  - {annee: 2011, evenement: "La loi de 1981 est reprise dans les Lois révisées (ch. 198), en vigueur le 1er septembre."}
+  - {annee: 2024, evenement: "Le conseil d'éducation du District scolaire francophone Sud vote en faveur d'une poursuite contre la province sur les investissements dans ses écoles (17 septembre)."}
+fiabilite:
+  verifie: ["Texte des art. 16(2), 16.1, 17 à 20 et 23 de la Charte sur le site du ministère de la Justice du Canada.", "Texte de la loi de 1981 (O-1.1, abrogée le 1er septembre 2011) et de sa reprise, L.R.N.-B. 2011, ch. 198, sur lois.gnb.ca.", "Loi sur l'éducation, art. 4, 36.2, 36.3, 36.9 et 41, version à jour au 13 décembre 2023.", "Loi sur les régies régionales de la santé, art. 18.1 (2010).", "Population de première langue officielle parlée française, Statistique Canada, recensement de 2021.", "Trois districts scolaires francophones sur la carte du ministère de l'Éducation.", "La loi de 1981 n'a pas été intégrée à la Loi sur les langues officielles en 2011 : elle demeure une loi distincte (L.R.N.-B. 2011, ch. 198)."]
+  non_confirme: ["Date exacte de la Modification constitutionnelle de 1993 : non lue sur le texte officiel de la proclamation.", "Aucun document de l'ONU nommant cette communauté n'a été trouvé ; le Canada n'est pas partie aux instruments du Conseil de l'Europe.", "Suites judiciaires de la poursuite du District scolaire francophone Sud après décembre 2024 : non établies.", "Année de la carte des districts scolaires : non indiquée sur le document ; découpage en trois districts francophones constaté en 2026."]
+sources:
+  - {titre: "Charte canadienne des droits et libertés, art. 16 à 23 — Lois du Canada", url: "https://laws-lois.justice.gc.ca/fra/const/page-12.html"}
+  - {titre: "Loi reconnaissant l'égalité des deux communautés linguistiques officielles au Nouveau-Brunswick, L.R.N.-B. 2011, ch. 198", url: "https://lois.gnb.ca/fr/document/cs/2011-c.198"}
+  - {titre: "Loi reconnaissant l'égalité des deux communautés linguistiques officielles au Nouveau-Brunswick, 1981, ch. O-1.1 (abrogée)", url: "https://lois.gnb.ca/fr/document/cs/O-1.1"}
+  - {titre: "Loi sur les langues officielles, ch. O-0.5", url: "https://lois.gnb.ca/fr/document/cs/O-0.5"}
+  - {titre: "Loi sur l'éducation, ch. E-1.12", url: "https://lois.gnb.ca/fr/document/cs/E-1.12"}
+  - {titre: "Loi sur les régies régionales de la santé, ch. R-5.05", url: "https://lois.gnb.ca/fr/document/cs/R-5.05"}
+  - {titre: "Faits saillants sur la langue française au Nouveau-Brunswick en 2021 — Statistique Canada", url: "https://www150.statcan.gc.ca/n1/pub/89-657-x/89-657-x2023015-fra.htm"}
+  - {titre: "Carte des districts scolaires francophones — ministère de l'Éducation du Nouveau-Brunswick", url: "https://www2.gnb.ca/content/dam/gnb/Departments/ed/pdf/K12/carte-districts-scolaires-francophones.pdf"}
+  - {titre: "Le CED du DSFS vote en faveur d'une poursuite judiciaire contre le gouvernement du Nouveau-Brunswick — District scolaire francophone Sud, 2024", url: "https://francophonesud.nbed.nb.ca/district-scolaire/nouvelles/2628-le-ced-du-dsfs-vote-en-faveur-dune-poursuite-judiciaire-contre-le-gouvernement-du-nouveau-brunswick"}
+  - {titre: "Politique 713 : Bill Hogan n'exclut pas de dissoudre les CED des districts francophones — Radio-Canada, 8 mai 2024", url: "https://ici.radio-canada.ca/nouvelle/2071185/713-possibilite-dissolution-ced-francophone"}
+  - {titre: "Rapport annuel 2023-2024 du Commissariat aux langues officielles du Nouveau-Brunswick", url: "https://www.legnb.ca/content/house_business/61/1/tabled_documents/2025-01-21%20Langues%20officielles%202023-2024.pdf"}
+  - {titre: "Province du Nouveau-Brunswick — L'aménagement linguistique dans le monde, Université Laval", url: "https://www.axl.cefan.ulaval.ca/amnord/nbrunswick.htm"}

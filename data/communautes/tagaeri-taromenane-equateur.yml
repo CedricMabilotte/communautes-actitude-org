@@ -1,0 +1,62 @@
+uid: "tagaeri-taromenane-equateur"
+nom: "Peuples en isolement tagaeri et taromenane (zone intangible)"
+endonyme: ""
+territoire: "Zone intangible Tagaeri-Taromenane (ZITT), Parc national Yasuní et territoire waorani, provinces d'Orellana et de Pastaza"
+etats: ["Équateur"]
+region: "ameriques"
+coord: [-1.3, -76.3]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "aucun chiffre officiel trouvé ; devant la Cour interaméricaine, la Commission fait état d'un nombre limité de registres sur l'identité de ces personnes", source: ""}
+lieux: {valeur: 1, unite: "zone intangible (ZITT), entourée d'une zone tampon de 10 km", annee: 2019, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+surface_km2: {valeur: 8185, annee: 2019, perimetre: "zone intangible après l'extension de 548 km² par le décret exécutif 751 du 27 mai 2019 ; zone tampon non comprise", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Tagaeri, les Taromenane et d'autres groupes apparentés aux Waorani vivent sans contact avec la société nationale dans l'ouest de l'Amazonie équatorienne. Le décret exécutif 552 de 1999 déclare leurs terres « zone intangible » (zone fermée à perpétuité à toute activité extractive) ; le décret 2187 de 2007 la délimite et l'entoure d'une zone tampon de 10 km ; le décret 751 de 2019 la porte à 8 185 km². La Constitution de 2008 (art. 57) dit que les territoires des peuples en isolement volontaire sont de « possession ancestrale irréductible et intangible » et y interdit toute activité extractive. Le 4 septembre 2024, la Cour interaméricaine des droits de l'homme condamne l'Équateur pour violation de leurs droits à la propriété collective et à la libre détermination.
+reconnaissance_regionale:
+  - {mecanisme: "commission_interamericaine", detail: "Mesures conservatoires MC-91-06 accordées le 10 mai 2006 : protéger la vie des membres des peuples Tagaeri et Taromenane et le territoire où ils vivent, y compris en empêchant l'entrée de tiers.", annee: 2006, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Pueblos Indígenas Tagaeri y Taromenane c. Équateur (série C n° 537, 4 septembre 2024) : violation des droits à la propriété collective et à la libre détermination (art. 21.1 et 26 de la Convention américaine) ; la Cour juge la zone intangible compatible avec la protection de la propriété collective et ordonne une commission technique d'évaluation de la zone et la mise en œuvre de la consultation populaire de 2023 sur le bloc 43.", annee: 2024, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Communiqué du Rapporteur spécial James Anaya du 16 mai 2013 sur les violences entre Tagaeri-Taromenane et Waorani, rappelant le principe de non-contact.", annee: 2013, source: "https://www.ohchr.org/es/press-releases/2013/05/default-title-0"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale (CERD/C/ECU/CO/23-24, par. 14 et 15) : vulnérabilité des peuples tagaeri et taromenane face à l'extraction illégale de bois, à la pêche et à la chasse illégales ; demande d'appliquer l'article 57 de la Constitution et les mesures conservatoires de 2006.", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=CERD/C/ECU/CO/23-24&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République de l'Équateur (2008), art. 57 (alinéa sur les peuples en isolement volontaire) et art. 407", nature: "constitution", annee: 2008, source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  - {instrument: "Décret exécutif 552 (supplément du Registre officiel n° 121, 2 février 1999) créant la zone intangible", nature: "loi", annee: 1999, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+  - {instrument: "Décret exécutif 2187 (Registre officiel n° 1, 16 janvier 2007) délimitant la zone et créant la zone tampon", nature: "loi", annee: 2007, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+  - {instrument: "Décret exécutif 751 (supplément du Registre officiel n° 506, 11 juin 2019) étendant la zone ; articles 3 à 9 déclarés inconstitutionnels par la Cour constitutionnelle (arrêt 28-19-IN/22 du 19 janvier 2022)", nature: "loi", annee: 2019, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+  - {instrument: "Arrêt de la Cour interaméricaine du 4 septembre 2024, publié par la Cour constitutionnelle de l'Équateur", nature: "jurisprudence", annee: 2024, source: "https://www.corteconstitucional.gob.ec/caso-tagaeri-y-taromenane-vs-ecuador-sentencia-04-de-septiembre-2024/"}
+droits:
+  autogouvernement: {valeur: "non_applicable", note: "Peuples sans contact : aucune institution n'est en relation avec l'État ; la Constitution (art. 57) charge l'État de faire respecter leur autodétermination et leur volonté de rester isolés.", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  pouvoir_normatif: {valeur: "non_applicable", note: "", source: ""}
+  justice_propre: {valeur: "non_applicable", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les territoires des peuples en isolement volontaire sont de possession ancestrale irréductible et intangible (Constitution, art. 57) ; zone intangible créée en 1999 (décret 552), délimitée en 2007 (décret 2187) et étendue en 2019 (décret 751), sans titre de propriété ; la Cour interaméricaine (2024, par. 210) juge ce régime compatible avec la propriété collective, mais relève le retard de délimitation (par. 211) et les incursions de tiers non empêchées (par. 239), et conclut à une violation du droit à la propriété collective (par. 240).", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+  ressources: {valeur: "partiel", note: "Toute activité extractive est interdite dans ces territoires (Constitution, art. 57) ; l'article 407 permet une exception sur déclaration d'intérêt national de l'Assemblée, votée le 3 octobre 2013 pour les blocs pétroliers 31 et 43 en excluant la zone intangible, alors que les limites sud de ces blocs entrent dans la zone tampon (Cour interaméricaine, 2024, par. 221) ; le sous-sol appartient à l'État (art. 408).", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+  consentement: {valeur: "non_applicable", note: "La Cour interaméricaine (2024, par. 191) constate qu'une consultation préalable, libre et éclairée de peuples en isolement n'est pas possible ; la protection passe par le principe de non-contact.", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "non_applicable", note: "", source: ""}
+  representation: {valeur: "non_applicable", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "L'État adopte un plan de mesures conservatoires, une convention de mise en œuvre en 2008 et une station de surveillance de la zone ; la Cour interaméricaine (2024) juge ces mesures non effectives face aux entrées de bûcherons illégaux (par. 239), relève des puits pétroliers du bloc 16 dans la zone tampon (par. 299) et constate l'absence d'enquête effective sur les attaques de 2003 et 2006 (par. 471).", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+chronologie:
+  - {annee: 1999, evenement: "Décret exécutif 552 : création de la zone intangible (2 février)."}
+  - {annee: 2003, evenement: "Entre 12 et 26 Taromenane sont tués lors d'une attaque (26 mai)."}
+  - {annee: 2006, evenement: "Mesures conservatoires de la Commission interaméricaine (10 mai), après la mort de Taromenane en avril."}
+  - {annee: 2007, evenement: "Décret 2187 : délimitation de la zone et zone tampon de 10 km ; politique nationale des peuples en isolement volontaire (18 avril)."}
+  - {annee: 2008, evenement: "Constitution : territoires des peuples en isolement « irréductibles et intangibles » (art. 57)."}
+  - {annee: 2013, evenement: "Déclaration d'intérêt national de l'exploitation des blocs 31 et 43 (3 octobre) ; attaque du 30 mars : entre 30 et 50 Taromenane tués."}
+  - {annee: 2019, evenement: "Décret 751 : zone portée à 8 185 km² après la consultation populaire de 2018 (27 mai)."}
+  - {annee: 2022, evenement: "La Cour constitutionnelle déclare inconstitutionnels les articles 3 à 9 du décret 751, faute de consultation (19 janvier)."}
+  - {annee: 2023, evenement: "Consultation populaire : majorité pour laisser le pétrole du bloc 43 sous terre (20 août)."}
+  - {annee: 2024, evenement: "Arrêt de la Cour interaméricaine Tagaeri et Taromenane c. Équateur (4 septembre)."}
+fiabilite:
+  verifie: ["Texte de l'article 57 et de l'article 407 de la Constitution de 2008 (édition de l'Assemblée nationale).", "Décrets 552, 2187 et 751, surface de 8 185 km² et arrêt constitutionnel de 2022, d'après les paragraphes 109 à 114 et 499 de l'arrêt de la Cour interaméricaine.", "Paragraphes 132, 134, 137, 191, 210, 211, 221, 239, 240, 299 et 471 de l'arrêt (attaques, mesures conservatoires, consultation, propriété collective, blocs 31 et 43, enquêtes).", "Points 2, 3, 13 et 14 du dispositif de l'arrêt du 4 septembre 2024.", "Paragraphes 14 et 15 des observations finales du CERD de 2017.", "Communiqué du Rapporteur spécial du 16 mai 2013."]
+  non_confirme: ["Les textes des décrets 552, 2187 et 751 n'ont pas été consultés au Registre officiel ; leur contenu provient de l'arrêt de la Cour interaméricaine.", "Effet exact de l'arrêt constitutionnel de 2022 sur la surface étendue : seuls les articles 3 à 9 du décret 751 sont annulés.", "Aucune estimation de population officielle ou indépendante vérifiée.", "État de la mise en œuvre de la consultation de 2023 sur le bloc 43 et de la commission technique ordonnée par la Cour après 2024."]
+sources:
+  - {titre: "Corte IDH, Pueblos Indígenas Tagaeri y Taromenane vs. Ecuador, série C n° 537, 2024", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_537_esp.pdf"}
+  - {titre: "Cour constitutionnelle de l'Équateur, publication de l'arrêt Tagaeri et Taromenane", url: "https://www.corteconstitucional.gob.ec/caso-tagaeri-y-taromenane-vs-ecuador-sentencia-04-de-septiembre-2024/"}
+  - {titre: "Constitution de la République de l'Équateur — Assemblée nationale", url: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  - {titre: "CERD, observations finales sur l'Équateur (CERD/C/ECU/CO/23-24), 2017", url: "https://documents.un.org/api/symbol/access?s=CERD/C/ECU/CO/23-24&l=fr&t=pdf"}
+  - {titre: "HCDH, communiqué du Rapporteur spécial sur les droits des peuples autochtones, 16 mai 2013", url: "https://www.ohchr.org/es/press-releases/2013/05/default-title-0"}

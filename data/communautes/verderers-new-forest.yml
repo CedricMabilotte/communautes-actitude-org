@@ -1,0 +1,67 @@
+uid: "verderers-new-forest"
+nom: "Commoners de la New Forest"
+endonyme: "New Forest commoners"
+territoire: "Terres communales (commonable lands) de la New Forest, Hampshire, Angleterre : terres de la Couronne non closes, enclos forestiers et communaux adjacents"
+etats: ["Royaume-Uni"]
+region: "europe"
+coord: [50.9, -1.6]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 700, annee: 2026, perimetre: "commoners titulaires de droits attachés à leur terre ou à leur propriété (chiffre arrondi publié par l'Autorité du parc national)", source: "https://www.newforestnpa.gov.uk/protecting/people/supporting-commoning/"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les commoners (titulaires de droits communaux) de la New Forest occupent des terres auxquelles sont attachés des droits d'usage sur la forêt : pâturage des poneys, bovins et ânes, glandée des porcs (common of mast), bois de chauffage. La Cour des Verderers, reconstituée par le New Forest Act de 1877 et réorganisée par celui de 1949, compte dix membres : un verderer officiel nommé par la Couronne, cinq verderers élus par les occupants d'au moins 0,40 hectare de terre dotée de droits communaux, et quatre verderers nommés par le ministère de l'Environnement (DEFRA), la Forestry Commission, l'autorité d'urbanisme et Natural England. La Cour adopte des règlements (byelaws) confirmés par le ministre, fixe les droits de marquage des animaux et emploie les agisters (gardes chargés du bétail). Son accord est requis pour certains enclos, réseaux, parkings, aires de loisirs et échanges de terres sur la forêt.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "New Forest Act 1877 : reconstitution de la Cour des Verderers en personne morale (corporate body) chargée de réguler les droits communaux", nature: "loi", annee: 1877, source: "https://www.verderers.org.uk/about-us/"}
+  - {instrument: "New Forest Act 1949 (12, 13 & 14 Geo. 6 c. 69), art. 1 à 9 (composition, élections, cour de swainmote, byelaws et droits de marquage) et art. 12 à 19 (enclos, routes, licences et échanges soumis à l'accord des verderers)", nature: "loi", annee: 1949, source: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/contents"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La Cour des Verderers compte un verderer officiel, cinq verderers élus par les occupants d'au moins 0,40 hectare de terre dotée de droits communaux, inscrits sur un registre électoral tenu par les verderers, et quatre verderers nommés par des organismes publics (New Forest Act 1949, art. 1 à 3) ; les élus ne forment pas la majorité de la Cour.", source: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/section/1"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les verderers adoptent des byelaws sur la santé des animaux en liberté, le nombre d'animaux admis, le marquage et les droits de marquage, qui n'entrent en vigueur qu'après confirmation par arrêté du ministre (New Forest Act 1949, art. 9, qui étend le pouvoir prévu à l'art. 25 de la loi de 1877).", source: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/section/9"}
+  justice_propre: {valeur: "partiel", note: "Le New Forest Act 1949 (art. 8) fixe la composition de la cour de swainmote (formation juridictionnelle des verderers) pour les affaires judiciaires : le verderer officiel et quatre verderers désignés par le Lord Chancellor (ministre de la Justice), dont au moins trois élus ; l'étendue actuelle de cette compétence n'a pas été établie.", source: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/section/8"}
+  terres: {valeur: "partiel", note: "Les terres restent propriété de la Couronne ; les droits communaux sont attachés aux terres inscrites au registre établi en application des lois de 1851 et 1854 (New Forest Act 1949, art. 4) ; l'accord des verderers est requis pour soustraire des terres non closes aux droits communaux par échange (art. 19) et pour autoriser certains enclos, dans des plafonds de 2 203 hectares pour le bois d'œuvre (art. 12) et de 1 214 hectares pour la culture et le pâturage (art. 14).", source: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/section/19"}
+  ressources: {valeur: "partiel", note: "Les commoners exercent des droits de pâturage, de glandée des porcs, de pâturage des moutons et de bois de chauffage (estovers) ; les droits d'extraction de marne et de tourbe ne sont plus exercés ; les verderers peuvent limiter le nombre d'animaux, faire retirer de la forêt les animaux dont le comportement rend la présence inopportune et autoriser des animaux en surnombre (New Forest Act 1949, art. 9).", source: "https://www.verderers.org.uk/commoning/"}
+  consentement: {valeur: "partiel", note: "L'accord des verderers est requis avant que le ministre autorise des lignes et canalisations, des aires de loisirs, des parkings et des campings sur la forêt (New Forest Act 1949, art. 18), avant le transfert de terres à une autorité routière autre que le ministre des Transports (art. 17) et pour les échanges de terres (art. 19) ; la Cour est composée en partie de membres nommés.", source: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/section/18"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les verderers fixent par byelaw les droits de marquage dus par toute personne dont les animaux sont admis sur la forêt (New Forest Act 1949, art. 9) ; ces droits ont rapporté 241 802 livres sur l'exercice clos le 31 mars 2025, à côté de subventions et compensations versées par Forestry England (comptes audités 2024-2025).", source: "https://www.verderers.org.uk/wp-content/uploads/2025/11/Verderers_Accounts_YearEnd_31-3-25_ID8124440.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "L'Autorité du parc national, distincte de la Cour, compte environ 700 commoners titulaires de droits, 5 000 poneys lâchés sur la forêt, cinq agisters et dix verderers, et décrit la New Forest comme l'un des rares grands communaux de plaine où les droits sont encore largement exercés ; elle signale des menaces sur la pratique : fin du programme de paiements agro-environnementaux en 2028, prix du logement et des terres d'appoint, âge des commoners. Les procès-verbaux de la Cour (décembre 2021, mars 2022) relèvent 11 787 animaux pour lesquels les droits de marquage avaient été payés en 2021, contre 15 524 en 2020, une élection de verderers d'un coût supérieur à 25 000 livres et un faible nombre de votants.", source: "https://www.newforestnpa.gov.uk/protecting/people/supporting-commoning/"}
+chronologie:
+  - {annee: 1877, evenement: "Le New Forest Act reconstitue la Cour des Verderers et lui confie la régulation des droits communaux."}
+  - {annee: 1949, evenement: "Le New Forest Act fixe la composition actuelle de la Cour (cinq élus, un verderer officiel, quatre membres nommés) et étend ses pouvoirs réglementaires et d'accord préalable."}
+  - {annee: 1971, evenement: "Premier mandat ministériel (Minister's Mandate) encadrant la gestion des terres de la Couronne par la Forestry Commission."}
+  - {annee: 1979, evenement: "Conversion des seuils de surface de la loi de 1949 en hectares (S.I. 1979/836)."}
+  - {annee: 1999, evenement: "Mandat ministériel 1999-2008 : la Forestry Commission s'engage à soutenir la pratique des droits communaux."}
+  - {annee: 2003, evenement: "Lancement en septembre du Verderers' Countryside Stewardship Scheme (paiements aux commoners pour le pâturage), remplacé en mars 2012 par le Verderers Grazing Scheme, prévu jusqu'à fin février 2028."}
+  - {annee: 2024, evenement: "Élection de deux verderers le 26 novembre."}
+fiabilite:
+  verifie: ["Composition de la Cour et qualification des électeurs et des élus (New Forest Act 1949, art. 1 à 3, texte consolidé de legislation.gov.uk).", "Pouvoir d'adopter des byelaws sous confirmation ministérielle et droits de marquage (art. 9).", "Accord des verderers requis pour les licences, les transferts routiers et les échanges de terres (art. 17 à 19) ; plafonds d'enclos (art. 12 et 14).", "Formation juridictionnelle de la cour de swainmote (art. 8).", "Droits de marquage : 241 802 livres sur l'exercice 2024-2025 (comptes audités).", "Animaux pour lesquels les droits de marquage ont été payés en 2021 et 2020, coût de l'élection et faible nombre de votants (procès-verbaux de décembre 2021 et mars 2022).", "Environ 700 commoners et 5 000 poneys (page de l'Autorité du parc national, mise à jour en 2026)."]
+  non_confirme: ["Corps électoral : la page historique du site des Verderers mentionne les commoners et les électeurs des paroisses de la New Forest, alors que le texte consolidé de l'art. 3 de la loi de 1949 ne retient que les occupants de terres dotées de droits communaux.", "Compétence juridictionnelle actuelle de la cour de swainmote (art. 24 de la loi de 1877) : texte non consulté, exercice récent non documenté.", "Nombre d'électeurs inscrits et surface des terres communales : aucune source primaire trouvée ; le nombre de commoners (700) est un chiffre arrondi sans méthode publiée.", "Demande de reconnaissance des commoners comme minorité nationale au titre de la Convention-cadre du Conseil de l'Europe, soutenue par une lettre de l'Autorité du parc national : aucune suite officielle trouvée.", "Les lois de 1964 et 1970 n'ont pas été consultées."]
+sources:
+  - {titre: "New Forest Act 1949 — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/contents"}
+  - {titre: "New Forest Act 1949, art. 1 — Constitution of verderers", url: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/section/1"}
+  - {titre: "New Forest Act 1949, art. 3 — Qualification of electors", url: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/section/3"}
+  - {titre: "New Forest Act 1949, art. 8 — Courts of swainmote sitting in judicial capacity", url: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/section/8"}
+  - {titre: "New Forest Act 1949, art. 9 — Byelaws and marking fees", url: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/section/9"}
+  - {titre: "Verderers' Court (page historique) — Verderers of the New Forest", url: "https://www.verderers.org.uk/verderers-court-old/"}
+  - {titre: "About us — Verderers of the New Forest", url: "https://www.verderers.org.uk/about-us/"}
+  - {titre: "Commoning — Verderers of the New Forest", url: "https://www.verderers.org.uk/commoning/"}
+  - {titre: "Agisters — Verderers of the New Forest", url: "https://www.verderers.org.uk/agisters-intro/"}
+  - {titre: "Verderers Grazing Scheme — Verderers of the New Forest", url: "https://www.verderers.org.uk/grazing-scheme/"}
+  - {titre: "Comptes de l'exercice clos le 31 mars 2025 — Verderers of the New Forest", url: "https://www.verderers.org.uk/wp-content/uploads/2025/11/Verderers_Accounts_YearEnd_31-3-25_ID8124440.pdf"}
+  - {titre: "Procès-verbal de la Cour des Verderers, décembre 2021", url: "https://www.verderers.org.uk/wp-content/uploads/2025/01/Minutes-for-December-2021.pdf"}
+  - {titre: "Procès-verbal de la Cour des Verderers, mars 2022", url: "https://www.verderers.org.uk/wp-content/uploads/2025/01/Court-Minutes-for-MARCH-2022-FINAL.pdf"}
+  - {titre: "Minister's Mandate for the New Forest 1999-2008", url: "https://www.verderers.org.uk/wp-content/uploads/2024/11/Ministers-Mandate.pdf"}
+  - {titre: "Supporting commoning — New Forest National Park Authority", url: "https://www.newforestnpa.gov.uk/protecting/people/supporting-commoning/"}
+  - {titre: "Commoning tradition — New Forest National Park Authority", url: "https://www.newforestnpa.gov.uk/protecting/history-and-culture/commoning-tradition/"}
+  - {titre: "Minority status for Commoners — New Forest National Park Authority", url: "https://www.newforestnpa.gov.uk/protecting/people/supporting-commoning/minority-status-for-commoners/"}
+  - {titre: "New Forest Act 1949, art. 4 — Designation of lands entitled to rights of common", url: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/section/4"}
+  - {titre: "New Forest Act 1949, art. 18 — Power of Minister to grant licences", url: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/section/18"}
+  - {titre: "New Forest Act 1949, art. 19 — Exchanges of land in the Forest", url: "https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/69/section/19"}

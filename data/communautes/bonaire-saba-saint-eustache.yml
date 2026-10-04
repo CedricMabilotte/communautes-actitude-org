@@ -1,0 +1,60 @@
+uid: "bonaire-saba-saint-eustache"
+nom: "Bonaire, Saba et Saint-Eustache (corps publics)"
+endonyme: ""
+territoire: "Pays-Bas caribéens (Bonaire, Saint-Eustache, Saba)"
+etats: ["Pays-Bas"]
+region: "ameriques"
+coord: [12.2, -68.3]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 33229, annee: 2025, perimetre: "population des trois corps publics au 31 décembre 2025 (Bonaire 27 611, Saint-Eustache 3 348, Saba 2 270), Bureau central de la statistique (CBS)", source: "https://opendata.cbs.nl/ODataApi/odata/83774NED/TypedDataSet?$format=json&$filter=Perioden%20eq%20%272025JJ00%27"}
+lieux: {valeur: 3, unite: "corps publics (openbare lichamen)", annee: 2010, source: "https://wetten.overheid.nl/BWBR0028142/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Depuis le 10 octobre 2010, les îles de Bonaire (avec Klein Bonaire), Saint-Eustache et Saba forment trois « openbare lichamen » (corps publics, c'est-à-dire des communes à statut spécial) de la partie caribéenne des Pays-Bas. La Constitution néerlandaise (art. 132a) permet de créer ces corps publics par la loi et d'y adopter des règles particulières. La loi sur les corps publics (WolBES) du 17 mai 2010 dote chaque île d'un conseil insulaire élu, de 9 membres à Bonaire et de 5 à Saint-Eustache et à Saba, qui adopte des ordonnances insulaires et des impôts insulaires. La loi d'introduction permet l'usage du papiamento à Bonaire et de l'anglais à Saint-Eustache et à Saba devant les autorités locales.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité des droits de l'homme sur les Pays-Bas (CCPR/C/NLD/CO/5), § 5 et 6 : le Comité prend acte de la création des trois « municipalités spéciales » de Bonaire, Saint-Eustache et Saba en 2010 et demande d'harmoniser la protection des droits de l'homme entre les pays et municipalités du Royaume.", annee: 2019, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/NLD/CO/5&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution des Pays-Bas (Grondwet), art. 132a, version en vigueur depuis le 21 décembre 2018", nature: "constitution", annee: 2018, source: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2023-02-22_0/xml/BWBR0001840_2023-02-22_0.xml"}
+  - {instrument: "Wet openbare lichamen Bonaire, Sint Eustatius en Saba (WolBES, loi sur les corps publics), 17 mai 2010, Stb. 2010, 345", nature: "loi", annee: 2010, source: "https://wetten.overheid.nl/BWBR0028142/"}
+  - {instrument: "Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba (loi d'introduction), 17 mai 2010", nature: "loi", annee: 2010, source: "https://wetten.overheid.nl/BWBR0028063/"}
+  - {instrument: "Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba (FinBES, loi sur les finances des corps publics), 17 mai 2010, Stb. 2010, 365", nature: "loi", annee: 2010, source: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0028151/2023-01-01_0/xml/BWBR0028151_2023-01-01_0.xml"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Chaque île forme un corps public doté de la personnalité juridique, WolBES, art. 2 à 4 ; le conseil insulaire (eilandsraad) élu compte 9 membres à Bonaire et 5 à Saint-Eustache et à Saba, art. 9 ; l'exécutif (bestuurscollege) réunit le gouverneur insulaire (gezaghebber), nommé par décret royal pour six ans, et les députés insulaires, art. 36 et 73.", source: "https://wetten.overheid.nl/BWBR0028142/"}
+  pouvoir_normatif: {valeur: "partiel", note: "La réglementation des affaires propres de l'île est laissée à l'administration insulaire, WolBES, art. 136 ; le conseil adopte les ordonnances insulaires (eilandsverordeningen) et peut les assortir de peines, art. 149 et 157 ; une ordonnance cède devant la loi nationale sur le même objet et toute décision peut être annulée par décret royal, art. 215, 216 et 220.", source: "https://wetten.overheid.nl/BWBR0028142/"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le ministre concerné donne aux collèges exécutifs l'occasion de rendre un avis sur les projets de loi, de décret et d'arrêté qui leur imposent des tâches ou modifient de façon notable leurs compétences, WolBES, art. 209 ; les collèges peuvent demander une concertation, art. 208 ; aucun consentement n'est exigé.", source: "https://wetten.overheid.nl/BWBR0028142/"}
+  langue: {valeur: "partiel", note: "Chacun peut employer le papiamento devant les organes de Bonaire et l'anglais devant ceux de Saint-Eustache et de Saba, et ces organes peuvent s'en servir à l'oral, loi d'introduction, art. 4d et 4e ; les textes normatifs rédigés dans ces langues doivent aussi l'être en néerlandais, art. 4j.", source: "https://wetten.overheid.nl/BWBR0028063/"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le conseil insulaire institue, modifie ou supprime les impôts insulaires par ordonnance fiscale, FinBES, art. 40 ; seuls les impôts énumérés par la loi peuvent être levés (impôt foncier, taxe de séjour, taxe sur les véhicules, taxe portuaire…), art. 42 à 64, et aucun ne peut dépendre du revenu, du bénéfice ou du patrimoine, art. 42 ; l'État verse une dotation libre (vrije uitkering) par le fonds BES, art. 88 et 90.", source: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0028151/2023-01-01_0/xml/BWBR0028151_2023-01-01_0.xml"}
+  representation: {valeur: "partiel", note: "Les électeurs de chaque corps public élisent un collège électoral (kiescollege) qui prend part à l'élection de la Première Chambre, Constitution, art. 132a, al. 3 ; aucun siège n'est réservé aux îles aux États généraux.", source: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2023-02-22_0/xml/BWBR0001840_2023-02-22_0.xml"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "D'après la Cour des comptes néerlandaise (Algemene Rekenkamer, 2022), l'administration de Saint-Eustache a été confiée en 2018 à un commissaire du gouvernement pour « manquement grave » à ses devoirs ; le conseil insulaire réélu en 2020 n'avait pas retrouvé la maîtrise de l'administration et des finances, et le retour à une administration élue était prévu en quatre phases jusqu'en 2024-2025, sans calendrier fixé pour les deux dernières.", source: "https://www.rekenkamer.nl/actueel/nieuws/2022/05/18/geef-sint-eustatius-perspectief-op-eigen-bestuur"}
+chronologie:
+  - {annee: 2010, evenement: "Loi sur les corps publics (WolBES), loi d'introduction et loi sur les finances (FinBES) du 17 mai 2010."}
+  - {annee: 2010, evenement: "Le 10 octobre, dissolution des Antilles néerlandaises ; Bonaire, Saint-Eustache et Saba deviennent des corps publics des Pays-Bas."}
+  - {annee: 2011, evenement: "Entrée en vigueur des dispositions sur l'usage du papiamento et de l'anglais devant les autorités (loi d'introduction, art. 4d à 4j)."}
+  - {annee: 2018, evenement: "Février : loi temporaire sur le manquement aux devoirs à Saint-Eustache ; dissolution du conseil insulaire et nomination d'un commissaire du gouvernement."}
+  - {annee: 2018, evenement: "Révision de l'art. 132a de la Constitution : élection dans les corps publics d'un collège électoral pour la Première Chambre."}
+  - {annee: 2020, evenement: "Loi de rétablissement des institutions de Saint-Eustache, qui prévoit l'élection d'un nouveau conseil insulaire (art. 3)."}
+  - {annee: 2024, evenement: "Le 1er septembre, la loi de rétablissement de Saint-Eustache cesse de s'appliquer (art. 21)."}
+fiabilite:
+  verifie: ["WolBES (version du 15 septembre 2026) : art. 1 à 4, 9, 36, 73, 136, 149, 157, 207 à 211, 215, 216, 220.", "Loi d'introduction : art. 4d, 4e et 4j (Stb. 2010, 829, en vigueur au 1er janvier 2011).", "FinBES : art. 40 à 64, 88 et 90.", "Constitution, art. 132a, al. 1 à 4 (version en vigueur depuis le 21 décembre 2018).", "Loi temporaire de 2018 (art. 2 et 3) et loi de rétablissement de 2020 (art. 2, 3, 13 à 16 et 21) ; la loi cesse de s'appliquer le 1er septembre 2024 (art. 21 et registre officiel).", "Communiqué de la Cour des comptes du 18 mai 2022 sur Saint-Eustache.", "Population au 31 décembre 2025, tableau CBS 83774NED.", "CCPR/C/NLD/CO/5, § 5 et 6."]
+  non_confirme: ["Surface des îles : aucune source officielle ouverte ; valeur laissée vide.", "Statut de pays et territoire d'outre-mer associé à l'Union européenne et éventuelle application de la Charte européenne des langues régionales au papiamento : non vérifiés.", "Compétences insulaires en matière de terres domaniales, de nature, de pêche et d'enseignement : lois sectorielles BES non lues.", "Date d'insertion initiale de l'art. 132a dans la Constitution (antérieure à la version de 2018) non vérifiée.", "Référendums insulaires qui ont précédé la réforme de 2010 non vérifiés sur une source primaire."]
+sources:
+  - {titre: "Wet openbare lichamen Bonaire, Sint Eustatius en Saba — wetten.overheid.nl", url: "https://wetten.overheid.nl/BWBR0028142/"}
+  - {titre: "Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba — wetten.overheid.nl", url: "https://wetten.overheid.nl/BWBR0028063/"}
+  - {titre: "Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba — officiële overheidspublicaties", url: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0028151/2023-01-01_0/xml/BWBR0028151_2023-01-01_0.xml"}
+  - {titre: "Grondwet voor het Koninkrijk der Nederlanden — officiële overheidspublicaties", url: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001840/2023-02-22_0/xml/BWBR0001840_2023-02-22_0.xml"}
+  - {titre: "Tijdelijke wet taakverwaarlozing Sint Eustatius — officiële overheidspublicaties", url: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0040611/2018-08-01_0/xml/BWBR0040611_2018-08-01_0.xml"}
+  - {titre: "Wet herstel voorzieningen Sint Eustatius — officiële overheidspublicaties", url: "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0043889/2024-04-10_0/xml/BWBR0043889_2024-04-10_0.xml"}
+  - {titre: "Caribisch Nederland ; bevolkingsontwikkeling (83774NED) — CBS", url: "https://opendata.cbs.nl/ODataApi/odata/83774NED/TypedDataSet?$format=json&$filter=Perioden%20eq%20%272025JJ00%27"}
+  - {titre: "De Nederlandse Caraïben vijftien jaar na de staatkundige hervorming — CBS", url: "https://www.cbs.nl/nl-nl/longread/diversen/2025/de-nederlandse-caraiben-vijftien-jaar-na-de-staatskundige-hervorming/1-inleiding"}
+  - {titre: "Geef Sint-Eustatius perspectief op eigen bestuur (2022) — Algemene Rekenkamer", url: "https://www.rekenkamer.nl/actueel/nieuws/2022/05/18/geef-sint-eustatius-perspectief-op-eigen-bestuur"}
+  - {titre: "CCPR/C/NLD/CO/5 (2019) — Nations unies", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/NLD/CO/5&l=en&t=pdf"}

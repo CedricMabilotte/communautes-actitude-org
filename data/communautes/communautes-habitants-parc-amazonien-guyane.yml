@@ -1,0 +1,52 @@
+uid: "communautes-habitants-parc-amazonien-guyane"
+nom: "Communautés d'habitants du Parc amazonien de Guyane"
+endonyme: ""
+territoire: "Cœur du Parc amazonien de Guyane, communes de Camopi, Maripasoula et Papaïchton"
+etats: ["France"]
+region: "ameriques"
+coord: [3.2, -53.3]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: ["peuple_autochtone", "communaute_afrodescendante"]
+population: {valeur: null, annee: null, perimetre: "membres des communautés d'habitants identifiées par la charte du parc ; le parc annonce 20 192 habitants (Insee 2022) pour ses cinq communes, chiffre qui ne correspond pas à ce périmètre", source: ""}
+lieux: {valeur: 3, unite: "communes (Camopi, Maripasoula, Papaïchton)", annee: 2007, source: "https://aida.ineris.fr/reglementation/decret-ndeg-2007-266-270207-creant-parc-national-denomme-parc-amazonien-guyane"}
+surface_km2: {valeur: 20000, annee: 2007, perimetre: "cœur du parc (2 millions d'hectares selon l'établissement du parc), qui s'étend aussi sur Saint-Élie et Saül, communes où ces droits ne s'appliquent pas ; l'aire d'adhésion couvre 1,4 million d'hectares de plus", source: "https://www.parc-amazonien-guyane.fr/fr/le-parc-amazonien-de-guyane/un-parc-national-de-caractere"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le Parc amazonien de Guyane, parc national créé par le décret n° 2007-266 du 27 février 2007, couvre le sud de la Guyane. La loi n° 2006-436 du 14 avril 2006 (code de l'environnement, art. L. 331-15-3) et le décret reconnaissent aux « communautés d'habitants » de Camopi, Maripasoula et Papaïchton « qui tirent traditionnellement leurs moyens de subsistance de la forêt » des droits d'usage collectifs dans le cœur du parc : chasse, pêche, agriculture itinérante sur brûlis, prélèvements pour l'habitat et l'artisanat, troc et vente du surplus de chasse et de pêche entre membres et résidents du parc. Cinq représentants des autorités coutumières, désignés par le Gran Man (chef coutumier supérieur) ou, à défaut, par l'assemblée des capitaines et chefs de famille, siègent au conseil d'administration du parc. Ce régime est distinct des zones de droits d'usage collectifs du code forestier.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi n° 2006-436 du 14 avril 2006 relative aux parcs nationaux ; code de l'environnement, art. L. 331-15-3", nature: "loi", annee: 2006, source: "https://www.senat.fr/rap/l05-159/l05-159_mono.html"}
+  - {instrument: "Décret n° 2007-266 du 27 février 2007 créant le parc national dénommé « Parc amazonien de Guyane », art. 19 à 22 et 27 à 29", nature: "loi", annee: 2007, source: "https://aida.ineris.fr/reglementation/decret-ndeg-2007-266-270207-creant-parc-national-denomme-parc-amazonien-guyane"}
+  - {instrument: "Décret n° 2013-968 du 28 octobre 2013 portant approbation de la charte du Parc amazonien de Guyane", nature: "loi", annee: 2013, source: "https://aida.ineris.fr/reglementation/decret-ndeg-2013-968-281013-portant-approbation-charte-parc-amazonien-guyane"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Les communautés ne sont pas soumises à la réglementation du parc pour l'accès et la circulation, l'agriculture itinérante sur brûlis, la création de nouveaux villages et la domestication d'animaux sauvages (décret de 2007, art. 21) ; leurs droits d'usage collectifs permettent à leurs membres de prélever des végétaux pour construire des carbets (abris), de chasser et pêcher hors excursions touristiques ou expéditions professionnelles, de prélever pour l'artisanat, et de troquer ou vendre le surplus de chasse et de pêche aux seuls membres des communautés et résidents du parc (art. 22) ; ces droits portent sur le cœur du parc et leurs modalités relèvent de la charte (art. 2).", source: "https://aida.ineris.fr/reglementation/decret-ndeg-2007-266-270207-creant-parc-national-denomme-parc-amazonien-guyane"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Cinq représentants des autorités coutumières, désignés par le Gran Man concerné ou, à défaut, par l'assemblée des capitaines et chefs de famille, siègent au conseil d'administration de l'établissement public du parc, avec le président du Grand conseil coutumier des populations amérindiennes et bushinengé depuis le décret n° 2020-752 (décret de 2007, art. 27 et 28) ; le comité de vie locale peut déléguer à certains membres la compétence pour rendre des avis sur les bourgs et hameaux (art. 29) ; cette représentation se limite à l'établissement du parc.", source: "https://aida.ineris.fr/reglementation/decret-ndeg-2007-266-270207-creant-parc-national-denomme-parc-amazonien-guyane"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "En 2020, le Sénat indique que le parc travaille à des dérogations pour le prélèvement d'espèces protégées à usage local et à des plans de gestion concertés avec les populations amérindiennes et bushinengé (marronnes) ; il ne mesure pas l'application des droits d'usage.", source: "https://www.senat.fr/rap/r19-337/r19-33719.html"}
+chronologie:
+  - {annee: 1998, evenement: "Accords de Twenké (21 juin), à l'origine de la reconnaissance des droits des populations amérindiennes et bushinengé vivant dans le futur parc."}
+  - {annee: 2006, evenement: "Loi du 14 avril sur les parcs nationaux : article L. 331-15-3 du code de l'environnement propre au parc de Guyane."}
+  - {annee: 2007, evenement: "Décret du 27 février créant le Parc amazonien de Guyane et ses droits d'usage collectifs."}
+  - {annee: 2013, evenement: "Décret du 28 octobre approuvant la charte du parc."}
+fiabilite:
+  verifie: ["Articles 19, 21, 22, 27, 28 et 29 du décret n° 2007-266 (texte reproduit par AIDA-INERIS).", "Cinq communes du parc, 20 192 habitants (Insee 2022), cœur de 2 millions d'hectares et aire d'adhésion de 1,4 million d'hectares (site du parc).", "Objet de l'article L. 331-15-3 : droits d'usage collectifs des communautés d'habitants en matière de chasse, de pêche et de subsistance (rapport du Sénat n° 159, 2005-2006, sur le projet de loi).", "Approbation de la charte par le décret n° 2013-968 (texte reproduit par AIDA-INERIS).", "Démarches du parc sur les dérogations et la gestion concertée (rapport du Sénat, 2020)."]
+  non_confirme: ["Texte consolidé de l'article L. 331-15-3 sur Légifrance (accès refusé) ; seul le commentaire du projet de loi a été lu.", "Liste des communautés et des villages identifiés par la charte ; population concernée.", "Contenu des accords de Twenké (source secondaire seulement)."]
+sources:
+  - {titre: "Décret n° 2007-266 du 27 février 2007 créant le parc national dénommé « Parc amazonien de Guyane » — AIDA (INERIS)", url: "https://aida.ineris.fr/reglementation/decret-ndeg-2007-266-270207-creant-parc-national-denomme-parc-amazonien-guyane"}
+  - {titre: "Le Parc amazonien de Guyane — site de l'établissement public", url: "https://www.parc-amazonien-guyane.fr/fr/le-parc-amazonien-de-guyane"}
+  - {titre: "Pour une grande loi Guyane : 52 propositions — rapport d'information du Sénat n° 337 (2019-2020)", url: "https://www.senat.fr/rap/r19-337/r19-33719.html"}
+  - {titre: "Un Parc national de caractère — site de l'établissement public", url: "https://www.parc-amazonien-guyane.fr/fr/le-parc-amazonien-de-guyane/un-parc-national-de-caractere"}
+  - {titre: "Décret n° 2013-968 du 28 octobre 2013 portant approbation de la charte du Parc amazonien de Guyane — AIDA (INERIS)", url: "https://aida.ineris.fr/reglementation/decret-ndeg-2013-968-281013-portant-approbation-charte-parc-amazonien-guyane"}
+  - {titre: "Projet de loi relatif aux parcs nationaux — rapport du Sénat n° 159 (2005-2006)", url: "https://www.senat.fr/rap/l05-159/l05-159_mono.html"}
+  - {titre: "Parc amazonien de Guyane — Wikipédia", url: "https://fr.wikipedia.org/wiki/Parc_amazonien_de_Guyane"}

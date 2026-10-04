@@ -1,0 +1,59 @@
+uid: "fideicomiso-terre-cano-martin-pena"
+nom: "Fiducie foncière communautaire du Caño Martín Peña"
+endonyme: ""
+territoire: "District de planification spéciale du Caño Martín Peña (San Juan, Porto Rico) : Barrio Obrero (Oeste et San Ciprián), Barrio Obrero-Marina, Buena Vista Santurce, Parada 27, Las Monjas, Buena Vista-Hato Rey, Israel-Bitumul"
+etats: ["États-Unis (Porto Rico)"]
+region: "ameriques"
+coord: [18.4, -66.1]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 25000, annee: 2019, perimetre: "personnes vivant dans les huit communautés riveraines du Caño (district et péninsule de Cantera), valeur approximative", source: "https://radicalhousingjournal.org/wp-content/uploads/2019/04/02_Long-Read_Algoed-et-al_29-47.pdf"}
+lieux: {valeur: 7, unite: "communautés du district (loi 489-2004, art. 2(d)) ; la péninsule de Cantera, hors district, siège au G-8", annee: 2024, source: "https://bvirtualogp.pr.gov/ogp/Bvirtual/LeyesOrganicas/pdf/489-2004.pdf"}
+surface_km2: {valeur: 0.786, annee: 2018, perimetre: "terres détenues collectivement par la fiducie (78,6 hectares)", source: "https://www.lincolninst.edu/es/publications/working-papers/el-fideicomiso-la-tierra-del-cano-martin-pena/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le Fideicomiso de la Tierra del Caño Martín Peña (fiducie foncière communautaire) a été créé par la loi portoricaine 489 du 24 septembre 2004 pour détenir les terrains publics du district de planification spéciale du Caño Martín Peña, à San Juan. Il garde la propriété du sol ; les habitants détiennent seulement leur maison, par un droit de superficie (droit de posséder un bâtiment sur le terrain d'autrui) inscrit au registre foncier, ou par un bail de longue durée transmissible aux héritiers. Les lois 32-2009 et 70-2011 ont transféré ces terrains à des organismes publics ; la loi 104-2013 les a rendus à la fiducie, qualifiée de « privée et perpétuelle ». Son conseil de fiduciaires comprend des habitants délégués par le G-8, groupe des huit communautés riveraines du chenal ; la fiducie concerne environ 2 000 familles.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi 489 du 24 septembre 2004, Ley para el Desarrollo Integral del Distrito de Planificación Especial del Caño Martín Peña (texte d'origine)", nature: "loi", annee: 2004, source: "https://www.lexjuris.com/lexlex/leyes2004/lexl2004489.htm"}
+  - {instrument: "Loi 104 du 14 août 2013 : abrogation des lois 32-2009 et 70-2011 et restitution des terrains à la fiducie", nature: "loi", annee: 2013, source: "https://www.lexjuris.com/lexlex/Leyes2013/lexl2013104.htm"}
+  - {instrument: "Loi 489-2004 consolidée (lois 32-2009, 70-2011, 104-2013 et 116-2020), révision du 1er mai 2024, Bureau de gestion et du budget de Porto Rico", nature: "loi", annee: 2024, source: "https://bvirtualogp.pr.gov/ogp/Bvirtual/LeyesOrganicas/pdf/489-2004.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La fiducie a une personnalité juridique propre et un conseil de fiduciaires (Junta de Fiduciarios) qui « aura une représentation des résidents délégués par le G-8 » (loi 489-2004, art. 22). Selon Algoed et Hernández Torrales (2019), cette dernière ancienne présidente du conseil, celui-ci compte onze membres : six habitants du district désignés par l'assemblée des membres de la fiducie ou par le G-8, deux membres choisis par le conseil et trois représentants publics. Le règlement de la fiducie, qui fixe le mode de nomination des fiduciaires, est édicté par la Corporation du projet ENLACE (art. 22), organisme public dont cinq administrateurs, sur un minimum de onze, sont des habitants choisis sur des listes de trois noms présentées par le G-8 (art. 5).", source: "https://radicalhousingjournal.org/wp-content/uploads/2019/04/02_Long-Read_Algoed-et-al_29-47.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "La fiducie, « privée et perpétuelle », reçoit la propriété des terrains publics du district ; elle « retiendra la propriété du sol » et seul le droit sur le bâtiment peut être vendu ou transmis, ou un bail de longue durée héritable accordé ; le droit de superficie est inscrit au registre de la propriété (loi 489-2004, art. 2(h) et 22, rédaction de la loi 104-2013). La loi 104-2013 (art. 12) lui restitue les terrains transférés en 2009 et 2011.", source: "https://bvirtualogp.pr.gov/ogp/Bvirtual/LeyesOrganicas/pdf/489-2004.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "La Corporation du projet ENLACE « garantira des mécanismes de participation citoyenne » à la planification et à l'exécution du projet (loi 489-2004, art. 4) ; les options de relogement sont conçues « avec la participation active et opportune des citoyens » (art. 23). Il s'agit de participation, pas d'un consentement des communautés.", source: "https://bvirtualogp.pr.gov/ogp/Bvirtual/LeyesOrganicas/pdf/489-2004.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les fonds de la fiducie sont tenus à part et placés là où le décide le conseil de fiduciaires ; la fiducie est exonérée des impôts, taxes et droits de Porto Rico et des municipalités, et ses obligations de participation sont exonérées (loi 489-2004, art. 22, al. 2 et lettres (c) et (d)). Elle ne lève pas d'impôt.", source: "https://bvirtualogp.pr.gov/ogp/Bvirtual/LeyesOrganicas/pdf/489-2004.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les lois 32-2009 et 70-2011 ont transféré les terrains de la fiducie à des organismes publics et à la municipalité de San Juan ; la loi 104-2013 qualifie ce transfert d'« acte d'expropriation », mentionne une action en indemnisation devant les tribunaux et restitue les terrains, sauf ceux grevés d'hypothèques ou de garanties. World Habitat indique que la fiducie a permis de régulariser le lien de plus de 2 000 familles avec le terrain de leur maison. Le projet de restauration du chenal a commencé en 2024 par le débroussaillage des berges ; le dragage lui-même a été lancé en mai 2026, après plus de vingt ans d'attente selon Primera Hora.", source: "https://world-habitat.org/world-habitat-awards/winners-and-finalists/cano-martin-pena-community-land-trust/"}
+chronologie:
+  - {annee: 2002, evenement: "Le Conseil de planification de Porto Rico délimite le district de planification spéciale du Caño Martín Peña."}
+  - {annee: 2004, evenement: "Loi 489 du 24 septembre : création de la Corporation du projet ENLACE et de la fiducie foncière."}
+  - {annee: 2009, evenement: "Loi 32-2009 : transfert de terrains du district à des organismes publics et à la municipalité de San Juan, et titres individuels."}
+  - {annee: 2011, evenement: "Loi 70-2011, qui modifie la loi 32-2009."}
+  - {annee: 2013, evenement: "Loi 104 du 14 août : abrogation des lois de 2009 et 2011, restitution des terrains à la fiducie, qualifiée de privée et perpétuelle ; la durée de la Corporation du projet ENLACE passe de vingt à vingt-cinq ans."}
+  - {annee: 2015, evenement: "Prix mondial de l'habitat (World Habitat Awards) attribué à la fiducie."}
+  - {annee: 2020, evenement: "Loi 116 du 14 août 2020, dernière modification de la loi 489-2004 intégrée au texte consolidé publié en 2024."}
+  - {annee: 2024, evenement: "Début du projet de restauration de l'écosystème du chenal par le Corps des ingénieurs de l'armée des États-Unis (enlèvement de la végétation des berges)."}
+  - {annee: 2026, evenement: "Lancement du dragage du chenal, dernière phase du projet de restauration (mai)."}
+fiabilite:
+  verifie: ["Articles 2(h), 4, 5, 17, 18, 20, 21, 22 et 23 de la loi 489-2004 consolidée (révision du 1er mai 2024).", "Texte d'origine de 2004 (art. 2(d), 2(j) et 19) et exposé des motifs de la loi 104-2013.", "78,6 hectares et environ 2 000 familles (Lincoln Institute, 2018).", "Composition du conseil de fiduciaires en onze sièges (Algoed et Hernández Torrales, Radical Housing Journal, 2019).", "Début du projet de restauration en 2024 et lancement du dragage en mai 2026 (Primera Hora, 14 mai 2026).", "Prix World Habitat 2015 (site de l'organisateur).", "Exposé des motifs de la loi 104-2013 : action judiciaire en indemnisation pendante en 2013."]
+  non_confirme: ["Le règlement général de la fiducie n'a pas été consulté directement ; la composition du conseil vient d'un article dont une autrice a présidé ce conseil.", "Nombre de droits de superficie inscrits au registre de la propriété.", "Population : la loi de 2004 indique environ 30 000 habitants, l'article de 2019 environ 25 000.", "Superficie actuelle : 78,6 hectares en 2018 (Lincoln Institute) ; la fiducie indique « environ 200 cuerdas » (unité locale d'environ 0,39 hectare, soit environ 78,6 hectares), sans date.", "Issue de l'action en indemnisation mentionnée par la loi 104-2013 et sort des titres individuels accordés entre 2009 et 2013."]
+sources:
+  - {titre: "Loi 489-2004 consolidée, révision du 1er mai 2024 — Bureau de gestion et du budget de Porto Rico (OGP)", url: "https://bvirtualogp.pr.gov/ogp/Bvirtual/LeyesOrganicas/pdf/489-2004.pdf"}
+  - {titre: "Loi 489 du 24 septembre 2004, texte d'origine — LexJuris", url: "https://www.lexjuris.com/lexlex/leyes2004/lexl2004489.htm"}
+  - {titre: "Loi 104 du 14 août 2013 — LexJuris", url: "https://www.lexjuris.com/lexlex/Leyes2013/lexl2013104.htm"}
+  - {titre: "Fideicomiso de la Tierra del Caño Martín Peña — présentation", url: "https://fideicomisomartinpena.org/fideicomiso-de-la-tierra/"}
+  - {titre: "Algoed, Hernández Torrales et Rodríguez Del Valle, El Fideicomiso de la Tierra del Caño Martín Peña — Lincoln Institute of Land Policy (2018)", url: "https://www.lincolninst.edu/es/publications/working-papers/el-fideicomiso-la-tierra-del-cano-martin-pena/"}
+  - {titre: "Algoed et Hernández Torrales, Radical Housing Journal, vol. 1(1), 2019", url: "https://radicalhousingjournal.org/wp-content/uploads/2019/04/02_Long-Read_Algoed-et-al_29-47.pdf"}
+  - {titre: "Caño Martín Peña Community Land Trust — World Habitat", url: "https://world-habitat.org/world-habitat-awards/winners-and-finalists/cano-martin-pena-community-land-trust/"}
+  - {titre: "Trasfondo histórico — Fideicomiso de la Tierra del Caño Martín Peña", url: "https://fideicomisomartinpena.org/trasfondo-historico/"}
+  - {titre: "Inicia el dragado del Caño Martín Peña — Primera Hora (14 mai 2026)", url: "https://www.primerahora.com/noticias/gobierno-politica/notas/inicia-la-ultima-fase-del-dragado-del-cano-martin-pena/"}

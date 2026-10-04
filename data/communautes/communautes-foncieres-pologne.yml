@@ -1,0 +1,69 @@
+uid: "communautes-foncieres-pologne"
+nom: "Communautés foncières de Pologne"
+endonyme: "Wspólnoty gruntowe"
+territoire: "Pologne, surtout dans le sud et l'est du pays (voïvodies de Petite-Pologne et de Lublin notamment)"
+etats: ["Pologne"]
+region: "europe"
+coord: [50.6, 21.5]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 5100, unite: "communautés foncières (estimation officielle « environ 5 100 » à partir des terres inscrites comme telles au cadastre)", annee: 2015, source: "https://api.sejm.gov.pl/sejm/term7/prints/3193/3193.pdf"}
+surface_km2: {valeur: 1070, annee: 2015, perimetre: "terres inscrites au cadastre (ewidencja gruntów i budynków) comme communautés foncières : « environ 107 000 ha »", source: "https://api.sejm.gov.pl/sejm/term7/prints/3193/3193.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les wspólnoty gruntowe (communautés foncières) sont des terres agricoles, des forêts et des eaux attribuées au XIXe siècle, lors de l'affranchissement des paysans, en propriété, possession ou usage commun aux habitants d'un ou de plusieurs villages ; la loi y range aussi les communautés urbariales et les sociétés pastorales (spółki szałaśnicze). La loi du 29 juin 1963 les déclare indivisibles entre ayants droit et prévoit que ceux-ci forment une société (spółka) dotée de la personnalité juridique, d'un statut et d'organes élus, placée aujourd'hui sous la tutelle du maire de la commune. La réforme de 2015, en vigueur au 1er janvier 2016, a ouvert la régularisation des ayants droit, la transformation en copropriété ordinaire et le transfert à la commune ou à l'État des terres sans ayants droit identifiés. En 2015, l'État comptait environ 5 100 communautés sur environ 107 000 ha, dont 3 500 sans statut juridique réglé et 1 080 dotées d'une société de gestion. La Communauté forestière des ayants droit des huit villages, à Witów (Tatras), détient 3 080 ha de forêts.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi du 29 juin 1963 sur la gestion des communautés foncières (ustawa o zagospodarowaniu wspólnot gruntowych), Dz.U. 1963 n° 28 poz. 169 ; texte consolidé Dz.U. 2025 poz. 1454", nature: "loi", annee: 1963, source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1454/text.pdf"}
+  - {instrument: "Loi du 10 juillet 2015 modifiant la loi sur la gestion des communautés foncières, Dz.U. 2015 poz. 1276, en vigueur au 1er janvier 2016", nature: "loi", annee: 2015, source: "https://api.sejm.gov.pl/eli/acts/DU/2015/1276"}
+  - {instrument: "Loi du 4 avril 2025 modifiant la loi sur la gestion des communautés foncières (art. 8o, recours contre les décisions définitives), Dz.U. 2025 poz. 630, en vigueur au 29 mai 2025", nature: "loi", annee: 2025, source: "https://api.sejm.gov.pl/eli/acts/DU/2025/630"}
+  - {instrument: "Cour suprême, résolution du 23 août 1968 (III CZP 73/68) : copropriété « aux traits particuliers », non partageable, régie par ses propres règles", nature: "jurisprudence", annee: 1968, source: "https://api.sejm.gov.pl/sejm/term7/prints/3193/3193.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les ayants droit forment, à la majorité avec un quorum de la moitié, une société de gestion (art. 14) ; elle est une personne morale dès que le chef de district (starosta) approuve son statut, qui fixe ses organes (art. 15, 17 et 18) ; chaque membre a une voix quelle que soit sa part (art. 19). Limites : le maire (wójt) exerce la tutelle (art. 23) ; si aucun statut n'est présenté dans les trois mois suivant l'établissement de la liste des ayants droit, il crée une société obligatoire et en nomme les organes, et il peut nommer des personnes extérieures si les organes ne remplissent pas leur rôle (art. 25) ; il peut aussi attaquer en justice les résolutions de la société (art. 19a).", source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1454/text.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le statut fixe les droits et obligations des membres, le partage des revenus et l'accès des tiers aux terres (art. 17) ; la société adopte un règlement d'usage des terres et un plan de gestion, que le maire, ou le starosta pour les forêts, approuve et peut modifier (art. 24). Le modèle de statut est fixé par règlement ministériel (art. 15 al. 2).", source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1454/text.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les communautés ne peuvent être partagées entre ayants droit, sauf remembrement voté à la majorité absolue (art. 5) ; une part ne se cède qu'en entier, par acte notarié, à un autre ayant droit ou à un exploitant du même village ou d'un village voisin (art. 27). Limites : la commune a un droit de préemption en cas de vente (art. 26 al. 2) ; depuis 2016, un vote unanime des ayants droit, ou à défaut une décision de justice, peut transformer la communauté en copropriété ordinaire (art. 30a) ; à défaut d'ayants droit identifiés, les terres peuvent passer sans contrepartie à la commune ou, sinon, à l'État (art. 8g à 8k). La réforme de 2015 a supprimé l'accord du maire exigé jusque-là pour vendre ou échanger les terres (ancien art. 26 al. 1).", source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1454/text.pdf"}
+  ressources: {valeur: "partiel", note: "La loi couvre les terres agricoles, les forêts et les eaux (art. 1), à l'exclusion des eaux publiques (art. 2a) ; la gestion des forêts, des eaux et des gisements (graviers, sables, argiles, tourbes) suit les règles propres à chaque catégorie (art. 13 al. 2) ; pour les forêts, un plan simplifié est approuvé par le starosta après avis du chef de district des forêts de l'État (nadleśniczy) (art. 24). La société partage les revenus selon son statut (art. 17).", source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1454/text.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "La société perçoit des cotisations statutaires ; les impayés sont recouvrés par la voie de l'exécution administrative, sur titre émis par la société à partir d'un état approuvé par le maire (art. 21).", source: "https://api.sejm.gov.pl/eli/acts/DU/2025/1454/text.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon l'exposé des motifs de la réforme de 2015 (impression du Sejm n° 3193), environ 3 500 des 5 100 communautés n'avaient pas de statut juridique réglé, faute des décisions que la loi de 1963 imposait avant le 5 juillet 1964, et seules 1 080 avaient constitué une société de gestion, dont 1 073 dotées d'organes. Une enquête de l'Institut de recherche forestière (Wysocka-Fijorek et al., 2025), adressée en juillet et août 2024 aux 670 communautés dotées de forêts et d'une société recensées dans six voïvodies, n'a obtenu que 22 réponses exploitables ; 4 seulement avaient une inscription réglée au livre foncier (księga wieczysta), 3 étaient en cours de régularisation, et 9 demandaient une révision de la loi.", source: "https://www.ibles.pl/wp-content/uploads/2025/11/10.48538-lpb-2025-0013.pdf"}
+chronologie:
+  - {annee: 1819, evenement: "Des paysans de huit villages de Podhale achètent en commun, par l'intermédiaire d'un prêtre, des forêts de l'ancien domaine royal de Nowy Targ ; après des procès, ces forêts sont remises aux communes villageoises en 1867."}
+  - {annee: 1938, evenement: "La loi du 4 mai 1938 sur la mise en ordre des communautés foncières tente d'unifier leur régime ; la loi de 1963 l'abroge (art. 34)."}
+  - {annee: 1963, evenement: "La loi du 29 juin 1963, publiée le 5 juillet, interdit le partage des communautés et impose une société de gestion."}
+  - {annee: 1968, evenement: "La Cour suprême qualifie la communauté foncière de copropriété aux traits particuliers, non partageable (III CZP 73/68)."}
+  - {annee: 2016, evenement: "La loi du 10 juillet 2015 entre en vigueur le 1er janvier : régularisation des ayants droit sur demande avant le 31 décembre 2016, transformation possible en copropriété, recours en justice contre les résolutions de la société, fin de l'accord du maire pour vendre les terres."}
+  - {annee: 2025, evenement: "La loi du 4 avril 2025, en vigueur le 29 mai, modifie le régime des recours contre les décisions définitives (art. 8o) ; texte consolidé publié au Dz.U. 2025 poz. 1454."}
+fiabilite:
+  verifie:
+    - "Texte consolidé de la loi de 1963 (Dz.U. 2025 poz. 1454), art. 1, 2a, 5, 6a, 8a à 8o, 14 à 27 et 30a à 30c, lu sur le portail officiel du Journal des lois (api.sejm.gov.pl)."
+    - "Texte original de 1963 (Dz.U. 1963 n° 28 poz. 169) lu sur eli.gov.pl : art. 1, 5, 14 à 17 et tutelle de l'administration de district."
+    - "Exposé des motifs et évaluation des effets de la réglementation du projet de 2015 (impression n° 3193 de la VIIe législature) : environ 5 100 communautés, environ 107 000 ha, 3 500 sans statut réglé, 1 080 sociétés dont 1 073 dotées d'organes ; résolution III CZP 73/68 de la Cour suprême."
+    - "Dates d'entrée en vigueur (1er janvier 2016 et 29 mai 2025) lues sur l'API ELI du Sejm."
+    - "Enquête de l'Institut de recherche forestière (Leśne Prace Badawcze, 85, 2025) lue en texte intégral : 670 questionnaires envoyés en juillet-août 2024, 26 réponses dont 22 analysées, 4 communautés à livre foncier réglé, 9 demandes de révision de la loi."
+    - "Droit de préemption de la commune (art. 26 al. 2) : déjà présent avant 2015 ; la réforme de 2015 n'a abrogé que les al. 1, 3 et 4 de l'art. 26 (impression n° 3193)."
+    - "Communauté de Witów : 3 080 ha (2 230 ha dans le parc national des Tatras), huit villages (Ciche, Czarny Dunajec, Chochołów, Dzianisz, Witów, Wróblówka, Podczerwone, Koniówka), 2 090 propriétaires, statut approuvé en 1966, conseil de surveillance de 14 membres et bureau de 8 membres, achat de 1819 et remise des forêts en 1867, d'après le site de la communauté (pages d'accueil, histoire et structure)."
+  non_confirme:
+    - "Les chiffres de 5 100 communautés et 107 000 ha sont une estimation officielle de 2015 tirée du cadastre ; aucun chiffre postérieur aux régularisations de 2016-2017 et aux transferts aux communes n'a été trouvé."
+    - "Population des ayants droit et nombre de villages concernés : aucune source nationale trouvée."
+    - "Aucune liste officielle nationale des communautés n'a été trouvée : pas de tableau des sites."
+    - "Aucun document de l'ONU (CDB, registre APAC) ni du Conseil de l'Europe visant ce régime n'a été consulté. Les modifications de 2021 (Dz.U. 2021 poz. 2052) n'ont pas été analysées séparément."
+sources:
+  - {titre: "Loi du 29 juin 1963 sur la gestion des communautés foncières, texte consolidé, Dz.U. 2025 poz. 1454", url: "https://api.sejm.gov.pl/eli/acts/DU/2025/1454/text.pdf"}
+  - {titre: "Loi du 29 juin 1963, texte original, Dz.U. 1963 n° 28 poz. 169 — eli.gov.pl", url: "https://eli.gov.pl/api/acts/DU/1963/169/text.html"}
+  - {titre: "Loi du 10 juillet 2015 modifiant la loi sur la gestion des communautés foncières, Dz.U. 2015 poz. 1276 — fiche ELI", url: "https://api.sejm.gov.pl/eli/acts/DU/2015/1276"}
+  - {titre: "Loi du 4 avril 2025 modifiant la loi sur la gestion des communautés foncières, Dz.U. 2025 poz. 630 — fiche ELI", url: "https://api.sejm.gov.pl/eli/acts/DU/2025/630"}
+  - {titre: "Sejm, impression n° 3193 (VIIe législature) : projet de loi, exposé des motifs et évaluation des effets de la réglementation, 2015", url: "https://api.sejm.gov.pl/sejm/term7/prints/3193/3193.pdf"}
+  - {titre: "agropolska.pl, « Ustawa dotycząca wspólnot gruntowych wchodzi w życie », 2015", url: "https://www.agropolska.pl/prawo-i-pieniadze/ustawa-dotyczaca-wspolnot-gruntowych-wchodzi-w-zycie/"}
+  - {titre: "E. Wysocka-Fijorek et al., « Leśne wspólnoty gruntowe w Polsce: przeszkody w ich funkcjonowaniu », Leśne Prace Badawcze, 85, 2025", url: "https://www.ibles.pl/lesne-prace-badawcze-artykul/lesne-wspolnoty-gruntowe-w-polsce-przeszkody-w-ich-funkcjonowaniu/"}
+  - {titre: "Communauté forestière des ayants droit des huit villages, Witów — site officiel", url: "http://www.wspolnotalesna8wsi.pl/"}
+  - {titre: "Communauté forestière des ayants droit des huit villages, Witów — histoire", url: "http://www.wspolnotalesna8wsi.pl/informacje/historia"}
+  - {titre: "E. Wysocka-Fijorek, W. Gil, A. Głowacka, Leśne Prace Badawcze, 85, 2025 — texte intégral (PDF)", url: "https://www.ibles.pl/wp-content/uploads/2025/11/10.48538-lpb-2025-0013.pdf"}

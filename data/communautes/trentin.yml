@@ -1,0 +1,55 @@
+uid: "trentin"
+nom: "Trentins"
+endonyme: "Trentini"
+territoire: "Province autonome de Trente"
+etats: ["Italie"]
+region: "europe"
+coord: [46.1, 11.1]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 546573, annee: 2025, perimetre: "population de la province au 1er janvier (Eurostat, NUTS 3 ITH20), communes ladines, mòchènes et cimbres comprises", source: "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_r_pjanaggr3?geo=ITH20&sex=T&age=TOTAL&unit=NR&sinceTimePeriod=2023"}
+lieux: {valeur: 166, unite: "communes", annee: 2026, source: "https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.csv"}
+surface_km2: {valeur: 6207, annee: 2026, perimetre: "superficie totale de la province (Eurostat)", source: "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/reg_area3?geo=ITH20&sinceTimePeriod=2015"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La province autonome de Trente forme avec celle de Bolzano la région autonome du Trentin-Haut-Adige, l'une des cinq régions à statut spécial prévues par l'article 116 de la Constitution italienne. Son autonomie repose sur le Statut spécial adopté en 1948 et refondu par le décret présidentiel n° 670 du 31 août 1972, qui donne à la province un Conseil élu et un pouvoir législatif propre. La population est en majorité italophone ; le Statut protège en outre les Ladins du val di Fassa, les Mochènes de la vallée du Fersina et les Cimbres de Luserna (art. 102). La loi constitutionnelle n° 2 du 18 mai 2026, adoptée définitivement le 13 mai, a réformé le Statut. Les Ladins du val de Fassa, les Mòchènes et les Cimbres ont leur propre fiche (« Ladins du val de Fassa », « Mòchènes et Cimbres de Luserna »), comme les biens d'usage civique des hameaux (« Biens d'usage civique des hameaux du Trentin (ASUC) »).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République italienne, art. 116", nature: "constitution", annee: 1948, source: "https://www.constituteproject.org/constitution/Italy_2020"}
+  - {instrument: "Statut spécial du Trentin-Haut-Adige (décret présidentiel n° 670 du 31 août 1972)", nature: "statut_autonomie", annee: 1972, source: "https://www.edizionieuropee.it/LAW/HTML/19/zn41_07_086.html"}
+  - {instrument: "Loi constitutionnelle n° 2 du 31 janvier 2001 (compétence électorale et forme de gouvernement attribuées aux provinces)", nature: "statut_autonomie", annee: 2001, source: "https://www25.consiglio.provincia.tn.it/istituzione/lautonomia/peculiarita-storiche-e-giuridiche/pagine/un-po-di-storia"}
+  - {instrument: "Loi constitutionnelle n° 2 du 18 mai 2026 (réforme du Statut d'autonomie, adoptée définitivement le 13 mai 2026)", nature: "statut_autonomie", annee: 2026, source: "https://www.edizionieuropee.it/LAW/HTML/19/zn41_07_086.html"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les organes de la province sont le Conseil provincial, la Junte provinciale (gouvernement) et le président, Statut, art. 47 ; le Conseil compte trente-cinq membres élus au suffrage universel direct pour cinq ans, art. 48.", source: "https://www.edizionieuropee.it/LAW/HTML/19/zn41_07_086.html"}
+  pouvoir_normatif: {valeur: "reconnu", note: "La province édicte des lois dans les matières énumérées à l'article 8 du Statut (compétence dite primaire) et, dans les limites de l'article 5, dans celles de l'article 9 ; une loi provinciale fixe la forme de gouvernement et le mode d'élection, art. 47.", source: "https://www.edizionieuropee.it/LAW/HTML/19/zn41_07_086.html"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Aménagement du territoire et urbanisme, paysage, usi civici (droits d'usage collectifs des habitants sur certaines terres), petites propriétés agricoles et communautés familiales régies par d'anciens statuts relèvent de la loi provinciale, Statut, art. 8, n° 5 à 8.", source: "https://www.edizionieuropee.it/LAW/HTML/19/zn41_07_086.html"}
+  ressources: {valeur: "reconnu", note: "Mines, carrières, chasse, pêche, agriculture, forêts et petites et moyennes dérivations hydroélectriques relèvent de la loi provinciale, Statut, art. 8, n° 14, 15, 21 et 24 ; l'usage des eaux publiques relève de l'art. 9, n° 9 ; la loi provinciale fixe l'attribution, la durée et les redevances des concessions de grandes dérivations hydroélectriques, dont les ouvrages reviennent sans indemnité à la province à l'échéance, art. 13.", source: "https://www.edizionieuropee.it/LAW/HTML/19/zn41_07_086.html"}
+  consentement: {valeur: "reconnu", note: "Depuis la loi constitutionnelle n° 2 de 2026, les projets de modification du Statut sont soumis à l'intesa (accord) du Conseil régional et des Conseils provinciaux, à défaut de laquelle les Chambres statuent à la majorité absolue sans réduire l'autonomie acquise, Statut, art. 103 ; les décrets d'application sont pris après avis d'une commission paritaire où siègent deux membres du Conseil provincial de Trente, art. 107.", source: "https://www.edizionieuropee.it/LAW/HTML/19/zn41_07_086.html"}
+  langue: {valeur: "partiel", note: "L'italien est la langue officielle ; dans les communes où l'on parle le ladin, le mochène ou le cimbre, l'enseignement de la langue et de la culture ladine ou allemande est garanti à l'école, et la toponymie et les traditions de ces populations sont protégées, Statut, art. 102.", source: "https://www.edizionieuropee.it/LAW/HTML/19/zn41_07_086.html"}
+  education: {valeur: "partiel", note: "La province légifère sur l'école maternelle, l'aide scolaire, les bâtiments scolaires et la formation professionnelle, Statut, art. 8, n° 26 à 29, et sur l'enseignement primaire et secondaire dans les limites des principes fixés par les lois de l'État, art. 9, n° 2.", source: "https://www.edizionieuropee.it/LAW/HTML/19/zn41_07_086.html"}
+  fiscalite: {valeur: "reconnu", note: "La province peut instituer par la loi ses propres impôts et moduler les taux de certains impôts d'État, Statut, art. 73 ; elle reçoit les neuf dixièmes de la plupart des recettes fiscales de l'État perçues sur son territoire et les huit dixièmes de la TVA intérieure, art. 75.", source: "https://www.edizionieuropee.it/LAW/HTML/19/zn41_07_086.html"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Le droit de vote aux élections provinciales de Trente est subordonné à une année de résidence ininterrompue dans la province, Statut, art. 25.", source: "https://www.edizionieuropee.it/LAW/HTML/19/zn41_07_086.html"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le rapport d'Eurac Research (2025) indique que, depuis 1972, les provinces de Bolzano et de Trente gèrent presque seules les relations avec l'État et ont négocié au sein des commissions paritaires près de 200 décrets d'application et plusieurs accords financiers.", source: "https://works.eurac.edu/Autonomy-Report-South-Tyrol-2025.pdf"}
+chronologie:
+  - {annee: 1919, evenement: "Le traité de Saint-Germain attribue le Trentin et le Tyrol du Sud à l'Italie (10 septembre)."}
+  - {annee: 1948, evenement: "Premier Statut spécial (loi constitutionnelle n° 5 du 26 février) ; premières élections régionales le 28 novembre."}
+  - {annee: 1971, evenement: "Loi constitutionnelle n° 1 du 10 novembre révisant le Statut et transférant l'essentiel des compétences aux provinces."}
+  - {annee: 1972, evenement: "Texte unifié du Statut approuvé par le décret présidentiel n° 670 du 31 août."}
+  - {annee: 2001, evenement: "Loi constitutionnelle n° 2 du 31 janvier : compétence électorale et forme de gouvernement confiées aux provinces."}
+  - {annee: 2026, evenement: "Adoption définitive par le Sénat de la réforme constitutionnelle du Statut (13 mai) ; loi constitutionnelle n° 2 du 18 mai."}
+fiabilite:
+  verifie: ["Statut, art. 8, 9, 13, 25, 47, 48, 73, 75, 102, 103 et 107 (texte consolidé publié par Edizioni Europee).", "Historique des lois constitutionnelles de 1948, 1971 et 2001 (Conseil provincial de Trente).", "Population 2025 et superficie (Eurostat, NUTS 3 ITH20).", "Nombre de communes (liste ISTAT).", "Adoption de la réforme le 13 mai 2026 et extension des compétences provinciales (communiqué de la province de Bolzano).", "Le texte consolidé du Statut intègre la loi constitutionnelle n° 2 du 18 mai 2026 (notes de l'éditeur sur les art. 8, 9 et 103)."]
+  non_confirme: ["Publication de la loi constitutionnelle n° 2 du 18 mai 2026 au Journal officiel italien non consultée directement ; date et numéro tirés des notes du texte consolidé.", "Aucune juridiction propre à la province n'a été identifiée ; le tribunal régional de justice administrative (Statut, art. 90) n'a pas été rattaché à la province faute de source précise.", "Représentation au Parlement national : aucune règle de sièges réservés trouvée dans le Statut."]
+sources:
+  - {titre: "Statut spécial du Trentin-Haut-Adige, DPR 670/1972 — Edizioni Europee", url: "https://www.edizionieuropee.it/LAW/HTML/19/zn41_07_086.html"}
+  - {titre: "Constitution de l'Italie — Constitute Project", url: "https://www.constituteproject.org/constitution/Italy_2020"}
+  - {titre: "Un po' di storia — Conseil de la province autonome de Trente", url: "https://www25.consiglio.provincia.tn.it/istituzione/lautonomia/peculiarita-storiche-e-giuridiche/pagine/un-po-di-storia"}
+  - {titre: "Definitivamente approvata la riforma dello Statuto di autonomia — Province autonome de Bolzano", url: "https://news.provincia.bz.it/it/news/definitivamente-approvata-la-riforma-dello-statuto-di-autonomia"}
+  - {titre: "Autonomy Report South Tyrol 2025 — Eurac Research", url: "https://works.eurac.edu/Autonomy-Report-South-Tyrol-2025.pdf"}
+  - {titre: "Population au 1er janvier, province de Trente — Eurostat", url: "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_r_pjanaggr3?geo=ITH20&sex=T&age=TOTAL&unit=NR&sinceTimePeriod=2023"}
+  - {titre: "Elenco dei comuni italiani — ISTAT", url: "https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.csv"}

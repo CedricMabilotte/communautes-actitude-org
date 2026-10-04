@@ -1,7 +1,7 @@
 uid: "nasa-cauca-colombie"
 nom: "Nasa et resguardos du Cauca"
 endonyme: "Nasa"
-territoire: "Resguardos indigènes du département du Cauca"
+territoire: "Resguardos autochtones du département du Cauca"
 etats: ["Colombie"]
 region: "ameriques"
 coord: [2.6, -76.3]
@@ -13,7 +13,7 @@ lieux: {valeur: 56, unite: "resguardos nasa des zones du CRIC (Cauca)", annee: 2
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
-  Les Nasa vivent dans des resguardos (territoires indigènes en propriété collective) de plusieurs zones du Cauca (Tierradentro, nord, ouest), dans le sud-ouest de la Colombie. Le Conseil régional indigène du Cauca (CRIC) est fondé le 24 février 1971 à Toribío par cinq cabildos (conseils de communauté) et cinq resguardos. La Constitution de 1991 reconnaît les resguardos, les conseils indigènes et une juridiction spéciale indigène. Le décret-loi 1953 de 2014 permet aux territoires indigènes d'administrer directement des ressources publiques et un système éducatif propre.
+  Les Nasa vivent dans des resguardos (territoires autochtones en propriété collective) de plusieurs zones du Cauca (Tierradentro, nord, ouest), dans le sud-ouest de la Colombie. Le Conseil régional indigène du Cauca (CRIC) est fondé le 24 février 1971 à Toribío par cinq cabildos (conseils de communauté) et cinq resguardos. La Constitution de 1991 reconnaît les resguardos, les conseils autochtones et une juridiction spéciale autochtone. Le décret-loi 1953 de 2014 permet aux territoires autochtones d'administrer directement des ressources publiques et un système éducatif propre. Le régime général fait l'objet de la fiche « Peuples autochtones des resguardos de Colombie ».
 reconnaissance_onu:
   - {mecanisme: "oit_169", detail: "La Colombie ratifie la Convention 169 de l'OIT le 7 août 1991.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
 base_nationale:

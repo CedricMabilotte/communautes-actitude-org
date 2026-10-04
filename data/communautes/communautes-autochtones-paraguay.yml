@@ -1,0 +1,66 @@
+uid: "communautes-autochtones-paraguay"
+nom: "Communautés autochtones du Paraguay"
+endonyme: ""
+territoire: "Paraguay, région orientale et Chaco (région occidentale)"
+etats: ["Paraguay"]
+region: "ameriques"
+coord: [-23.0, -58.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 140206, annee: 2022, perimetre: "population autochtone recensée au Paraguay (19 peuples), d'après le IVe recensement national des peuples autochtones", source: "https://iwgia.org/en/paraguay.html"}
+lieux: {valeur: 557, unite: "communautés autochtones recensées, dont 494 dotées de la personnalité juridique", annee: 2022, source: "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/259/Web_Triptico%20censo%20indigena%20comunitario%20castellano.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "surface des terres communautaires titrées ; non trouvée dans une source officielle ouverte", source: ""}
+villages: {valeur: 791, annee: 2022, perimetre: "557 communautés et 234 « aldeas o barrios » (hameaux ou quartiers) recensés, deux quartiers sans recensement communautaire compris", source: "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/259/Web_Triptico%20censo%20indigena%20comunitario%20castellano.pdf"}
+resume: >-
+  Fiche agrégée. La Constitution du Paraguay de 1992 (art. 62 à 67) reconnaît les peuples autochtones comme antérieurs à l'État, leur droit d'appliquer leurs propres systèmes d'organisation et leurs normes coutumières, et la propriété communautaire de leurs terres, fournies gratuitement par l'État. La loi 904 de 1981 (statut des communautés autochtones) donne la personnalité juridique aux communautés, fait de leurs leaders leurs représentants légaux et organise l'attribution de titres indivis. Le recensement de 2022 compte 19 peuples, 557 communautés et 234 hameaux ou quartiers. La Cour interaméricaine des droits de l'homme a condamné l'État dans trois affaires de restitution de terres du Chaco (Yakye Axa, Sawhoyamaxa, Xákmok Kásek).
+reconnaissance_regionale:
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Comunidad Indígena Yakye Axa c. Paraguay du 17 juin 2005 (série C n° 125) : violation du droit de propriété (art. 21 de la Convention américaine) sur les terres ancestrales de la communauté, ainsi que des art. 4.1, 8 et 25.", annee: 2005, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_125_esp.pdf"}
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Comunidad Indígena Sawhoyamaxa c. Paraguay du 29 mars 2006 (série C n° 146) : violation des art. 3, 4.1, 8, 21 et 25 de la Convention américaine ; l'État doit remettre aux membres de la communauté leurs terres traditionnelles dans un délai de trois ans.", annee: 2006, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_146_esp.pdf"}
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Comunidad Indígena Xákmok Kásek c. Paraguay du 24 août 2010 (série C n° 214) : violation notamment des art. 3, 4 et 21 de la Convention américaine pour une revendication de 10 700 hectares.", annee: 2010, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_214_esp.pdf"}
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Le Paraguay ratifie la Convention 169 de l'OIT le 10 août 1993 ; entrée en vigueur pour le pays le 10 août 1994.", annee: 1993, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "Le Paraguay vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport de la Rapporteuse spéciale Victoria Tauli-Corpuz sur la situation des peuples autochtones au Paraguay (A/HRC/30/41/Add.1).", annee: 2015, source: "https://documents.un.org/api/symbol/access?s=A/HRC/30/41/Add.1&l=es&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République du Paraguay (1992), chapitre V, art. 62 à 67 ; art. 77 et 140", nature: "constitution", annee: 1992, source: "https://www.constituteproject.org/constitution/Paraguay_2011?lang=es"}
+  - {instrument: "Loi 904/81, statut des communautés autochtones (adoptée le 10 décembre, promulguée le 18 décembre 1981)", nature: "loi", annee: 1981, source: "https://faolex.fao.org/docs/pdf/par46743.pdf"}
+  - {instrument: "Arrêts de la Cour interaméricaine des droits de l'homme Yakye Axa (2005), Sawhoyamaxa (2006) et Xákmok Kásek (2010)", nature: "jurisprudence", annee: 2005, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_125_esp.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les peuples autochtones ont le droit d'appliquer librement leurs systèmes d'organisation politique, sociale et économique (Constitution, art. 63) ; les leaders exercent la représentation légale de la communauté et leur nomination est reconnue et inscrite par l'Institut paraguayen de l'autochtone, INDI (loi 904/81, art. 12).", source: "https://faolex.fao.org/docs/pdf/par46743.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les communautés peuvent appliquer leurs normes coutumières pour régler leur vie interne, si elles ne portent pas atteinte aux droits fondamentaux (Constitution, art. 63) ni à l'ordre public (loi 904/81, art. 5).", source: "https://www.constituteproject.org/constitution/Paraguay_2011?lang=es"}
+  justice_propre: {valeur: "partiel", note: "Pas de juridiction propre : le droit coutumier est pris en compte dans les conflits de juridiction (Constitution, art. 63) et les juges en tiennent compte dans les procès qui concernent des autochtones (loi 904/81, art. 6).", source: "https://faolex.fao.org/docs/pdf/par46743.pdf"}
+  terres: {valeur: "reconnu", note: "Propriété communautaire de la terre fournie gratuitement par l'État, insaisissable, indivisible, incessible, imprescriptible et exempte d'impôt ; déplacement interdit sans consentement exprès (Constitution, art. 64) ; titres gratuits et indivis au nom de la communauté (loi 904/81, art. 17 et 20).", source: "https://www.constituteproject.org/constitution/Paraguay_2011?lang=es"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le consentement exprès de la communauté est requis pour la déplacer hors de son habitat (Constitution, art. 64) ; la loi 904/81 (art. 14) fait exception pour raisons de sécurité nationale. Aucune règle générale de consentement préalable n'a été vérifiée dans un texte ouvert.", source: "https://faolex.fao.org/docs/pdf/par46743.pdf"}
+  langue: {valeur: "partiel", note: "Le castillan et le guarani sont langues officielles ; les langues autochtones font partie du patrimoine culturel de la Nation, sans statut officiel propre (Constitution, art. 140).", source: "https://www.constituteproject.org/constitution/Paraguay_2011?lang=es"}
+  education: {valeur: "partiel", note: "L'État respecte les particularités culturelles des peuples autochtones dans l'éducation formelle (Constitution, art. 66) ; l'enseignement initial se fait dans la langue maternelle officielle de l'élève (art. 77).", source: "https://www.constituteproject.org/constitution/Paraguay_2011?lang=es"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Les membres des peuples autochtones sont exemptés des services sociaux, civils ou militaires et des charges publiques fixées par la loi (Constitution, art. 67).", source: "https://www.constituteproject.org/constitution/Paraguay_2011?lang=es"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2015, la Rapporteuse spéciale de l'ONU constate que le cadre constitutionnel ne s'est pas traduit en mesures effectives et relève un manquement généralisé au devoir de consulter. Selon le recensement de l'INE de 2022, 90 des 557 communautés recensées n'ont pas de terre propre et 61 des 467 qui en ont une n'ont pas de titre.", source: "https://documents.un.org/api/symbol/access?s=A/HRC/30/41/Add.1&l=es&t=pdf"}
+chronologie:
+  - {annee: 1981, evenement: "Loi 904/81, statut des communautés autochtones ; création de l'INDI."}
+  - {annee: 1992, evenement: "Constitution : chapitre V sur les peuples autochtones (art. 62 à 67)."}
+  - {annee: 1993, evenement: "Ratification de la Convention 169 de l'OIT."}
+  - {annee: 2005, evenement: "Arrêt Yakye Axa de la Cour interaméricaine."}
+  - {annee: 2006, evenement: "Arrêt Sawhoyamaxa de la Cour interaméricaine."}
+  - {annee: 2007, evenement: "Vote en faveur de la DNUDPA."}
+  - {annee: 2010, evenement: "Arrêt Xákmok Kásek de la Cour interaméricaine."}
+  - {annee: 2015, evenement: "Rapport de la Rapporteuse spéciale de l'ONU sur le Paraguay."}
+  - {annee: 2022, evenement: "IVe recensement des peuples autochtones : 557 communautés, 234 hameaux ou quartiers."}
+fiabilite:
+  verifie: ["Texte des art. 63, 64, 66, 67, 77 et 140 de la Constitution (Constitute Project).", "Art. 5, 6, 7, 12, 14, 17 et 20 de la loi 904/81 (FAOLEX).", "Nombre de communautés, de hameaux ou quartiers, de communautés dotées de la personnalité juridique et de titres (INE, recensement communautaire 2022).", "Date de ratification de la Convention 169 (Collection des traités de l'ONU) et vote de la DNUDPA (Bibliothèque numérique de l'ONU).", "Dates et objet des trois arrêts de la Cour interaméricaine."]
+  non_confirme: ["Le total de 140 206 personnes vient d'IWGIA ; la somme des 19 peuples dans le dépliant de l'INE donne 136 302 personnes (périmètre différent non élucidé).", "Décret 1039/2018 (protocole de consultation et de consentement) et loi 3231/2007 (direction générale de l'éducation scolaire autochtone) : textes non ouverts, non utilisés dans la grille.", "Surface totale des terres communautaires titrées ; aucune liste officielle ouverte des communautés et de leurs titres."]
+sources:
+  - {titre: "Constitution de la République du Paraguay (1992, rév. 2011) — Constitute Project", url: "https://www.constituteproject.org/constitution/Paraguay_2011?lang=es"}
+  - {titre: "Loi 904/81, Estatuto de las Comunidades Indígenas — FAOLEX", url: "https://faolex.fao.org/docs/pdf/par46743.pdf"}
+  - {titre: "IV Censo Nacional de Población y Viviendas para Pueblos Indígenas, censo comunitario 2022 (dépliant) — INE Paraguay", url: "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/259/Web_Triptico%20censo%20indigena%20comunitario%20castellano.pdf"}
+  - {titre: "Situación de los pueblos indígenas en el Paraguay, A/HRC/30/41/Add.1 — Conseil des droits de l'homme", url: "https://documents.un.org/api/symbol/access?s=A/HRC/30/41/Add.1&l=es&t=pdf"}
+  - {titre: "Corte IDH, Comunidad Indígena Yakye Axa c. Paraguay (2005)", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_125_esp.pdf"}
+  - {titre: "Corte IDH, Comunidad Indígena Sawhoyamaxa c. Paraguay (2006)", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_146_esp.pdf"}
+  - {titre: "Corte IDH, Comunidad Indígena Xákmok Kásek c. Paraguay (2010)", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_214_esp.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote de la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}
+  - {titre: "Indigenous peoples in Paraguay — IWGIA", url: "https://iwgia.org/en/paraguay.html"}

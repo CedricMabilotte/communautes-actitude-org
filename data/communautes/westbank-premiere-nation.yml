@@ -1,0 +1,60 @@
+uid: "westbank-premiere-nation"
+nom: "Première Nation de Westbank (syilx)"
+endonyme: "syilx"
+territoire: "Terres de Westbank : cinq réserves autour de Kelowna, surtout sur la rive ouest du lac Okanagan (Colombie-Britannique)"
+etats: ["Canada"]
+region: "ameriques"
+coord: [49.9, -119.6]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 980, annee: 2026, perimetre: "Indiens inscrits rattachés à la bande n° 601 au registre fédéral (septembre 2026), toutes résidences confondues, dont 439 sur les réserves de la Nation ; la liste des membres tenue par la Nation (art. 70 de l'accord) peut différer", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=601&lang=eng"}
+lieux: {valeur: 5, unite: "réserves (Mission Creek 8, Tsinstikeptum 9 et 10, Medicine Hill 11, Medicine Creek 12)", annee: 2026, source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNReserves.aspx?BAND_NUMBER=601&lang=eng"}
+surface_km2: {valeur: 21.0, annee: 2026, perimetre: "superficie cumulée des cinq réserves inscrites au registre fédéral (2 099,5 hectares)", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNReserves.aspx?BAND_NUMBER=601&lang=eng"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Première Nation de Westbank est l'une des huit communautés de la Nation okanagan (syilx), autour de Kelowna, surtout sur la rive ouest du lac Okanagan. Son accord d'autonomie gouvernementale avec le Canada, ratifié par les membres le 24 mai 2003, a reçu force de loi par la Loi sur l'autonomie gouvernementale de la première nation de Westbank (L.C. 2004, ch. 17), en vigueur depuis le 1er avril 2005. La Loi sur les Indiens (loi fédérale qui régit les bandes et les réserves) ne s'applique plus à la Nation que dans la mesure prévue par l'accord. Le conseil, élu selon une constitution propre, légifère sur les terres de Westbank : appartenance, gestion foncière, ressources, environnement, culture et langue okanagan, éducation, ordre public.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Canada, qui avait voté contre la Déclaration en 2007, l'a ensuite appuyée ; la loi fédérale de 2021 (L.C. 2021, ch. 14) en fait une source d'interprétation du droit canadien pour les peuples autochtones au sens de l'article 35 de la Loi constitutionnelle de 1982.", annee: 2021, source: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+base_nationale:
+  - {instrument: "Loi sur l'autonomie gouvernementale de la première nation de Westbank, L.C. 2004, ch. 17", nature: "loi", annee: 2004, source: "https://laws-lois.justice.gc.ca/fra/lois/W-6.2/TexteComplet.html"}
+  - {instrument: "Accord d'autonomie gouvernementale de la première nation de Westbank (signé le 3 octobre 2003)", nature: "accord_revendication", annee: 2003, source: "https://www.wfn.ca/docs/self-government-agreement-french.pdf"}
+  - {instrument: "Constitution de la Première Nation de Westbank (prévue aux art. 42 à 45 de l'accord, ratifiée avec lui en 2003, en vigueur le 1er avril 2005)", nature: "statut_autonomie", annee: 2005, source: "https://www.wfn.ca/self-government-laws.htm"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "L'accord reconnaît à la Nation la capacité de se gouverner et d'agir par son conseil (art. 20 et 21) ; la constitution prévoit l'élection démocratique du conseil par les membres (art. 43 b).", source: "https://www.wfn.ca/docs/self-government-agreement-english.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le conseil adopte des lois de Westbank dans les domaines des parties VII à XXIII de l'accord ; l'accord a force de loi et l'emporte sur les lois fédérales incompatibles (loi de 2004, art. 3 et 5) ; la Loi sur les textes réglementaires ne s'applique pas aux lois de Westbank (art. 8).", source: "https://laws-lois.justice.gc.ca/fra/lois/W-6.2/TexteComplet.html"}
+  justice_propre: {valeur: "partiel", note: "Les lois de Westbank peuvent créer des tribunaux et organismes administratifs (art. 47 de l'accord) ; les infractions sont jugées par la Cour provinciale de Colombie-Britannique (art. 201) et le contrôle judiciaire relève de la Cour suprême de la province (art. 48).", source: "https://www.wfn.ca/docs/self-government-agreement-english.pdf"}
+  terres: {valeur: "reconnu", note: "Le titre reste à la Couronne fédérale, mais la Nation exerce les droits d'un propriétaire sur les terres de Westbank (art. 87 et 89) ; ces terres ne peuvent être aliénées que par échange approuvé par les membres (art. 92), sous réserve d'une expropriation fédérale autorisée par le gouverneur en conseil pour un besoin public fédéral (art. 111 à 114).", source: "https://www.wfn.ca/docs/self-government-agreement-english.pdf"}
+  ressources: {valeur: "partiel", note: "Compétence sur les ressources renouvelables (faune, chasse, forêts) et non renouvelables (pétrole, gaz, gravier, pierre) des terres de Westbank (art. 135 et 138), à l'exclusion du poisson et de son habitat, des minéraux (or, argent et autres minéraux utiles) et de l'uranium ; l'eau seulement dans la mesure des droits reconnus (art. 136).", source: "https://www.wfn.ca/docs/self-government-agreement-english.pdf"}
+  consentement: {valeur: "partiel", note: "Pour un projet soumis à l'évaluation environnementale fédérale et susceptible d'effets environnementaux négatifs importants sur les terres de Westbank, le Canada doit informer et consulter la Nation (art. 172 b) ; en cas d'examen public, la Nation propose un membre de la commission (art. 172 a). Sur ses terres, la Nation conduit sa propre évaluation environnementale (art. 169).", source: "https://www.wfn.ca/docs/self-government-agreement-english.pdf"}
+  langue: {valeur: "partiel", note: "Compétence sur l'usage, la préservation et la promotion de la langue okanagan (nqilxʷcn) et l'agrément de son enseignement sur les terres de Westbank (art. 175 d et e) ; aucun statut de langue officielle dans l'accord.", source: "https://www.wfn.ca/docs/self-government-agreement-english.pdf"}
+  education: {valeur: "partiel", note: "Compétence sur l'enseignement de la maternelle au secondaire pour les membres sur les terres de Westbank (art. 186), avec préséance sur le droit fédéral en cas de conflit (art. 190).", source: "https://www.wfn.ca/docs/self-government-agreement-english.pdf"}
+  fiscalite: {valeur: "partiel", note: "La Nation lève l'impôt foncier sur les terres de Westbank par des règlements pris en vertu de l'article 83 de la Loi sur les Indiens, maintenu par l'art. 275 de l'accord ; tout autre impôt direct dépend d'accords à négocier avec le Canada (art. 260).", source: "https://www.wfn.ca/docs/self-government-agreement-english.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "La Nation a compétence sur l'appartenance à la Nation (art. 70), avec préséance sur le droit fédéral (art. 77) ; l'inscription au registre des Indiens reste fédérale (art. 73).", source: "https://www.wfn.ca/docs/self-government-agreement-english.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "La Commission de la fiscalité des premières nations (organisme fédéral) relève en 2017 que l'impôt foncier de la Nation est passé de 750 000 dollars en 1990 à près de 14 millions prévus pour 2017-2018, avec plus de 400 entreprises sur les terres de Westbank depuis l'accord de 2005 ; la Nation publie plus de trente lois en vigueur (utilisation des sols, lotissement, construction, biens familiaux, accès à l'information) ; la province liste des accords forestiers de consultation et de partage des revenus signés en 2017, 2021 et 2024.", source: "https://fntc.ca/first-nations/westbank-first-nation/"}
+chronologie:
+  - {annee: 1963, evenement: "Séparation d'avec la bande indienne d'Okanagan (18 octobre) ; les réserves Tsinstikeptum 9 et 10 et Mission Creek 8 sont attribuées à la bande de Westbank."}
+  - {annee: 1973, evenement: "Déclaration de la bande de Westbank au sens de la Loi sur les Indiens (décret C.P. 1973-3571)."}
+  - {annee: 2003, evenement: "Ratification de l'accord et de la constitution par les membres (24 mai) ; signature de l'accord avec le Canada (3 octobre)."}
+  - {annee: 2004, evenement: "Sanction de la Loi sur l'autonomie gouvernementale de la première nation de Westbank (6 mai)."}
+  - {annee: 2005, evenement: "Entrée en vigueur de la loi et de l'accord (1er avril)."}
+  - {annee: 2009, evenement: "La Nation suspend sa participation au processus des traités de la Colombie-Britannique (étape 4)."}
+fiabilite:
+  verifie: ["Articles 1 à 15 de la loi fédérale (version codifiée à jour du 21 septembre 2026).", "Articles 20 à 22, 42 à 48, 70 à 77, 87 à 92, 135 à 140, 172, 175, 186 à 190, 201, 260 et 275 de l'accord (texte anglais publié par la Nation).", "Population inscrite (septembre 2026) et liste des cinq réserves avec leur superficie (registre fédéral).", "Liste des lois en vigueur et régime d'impôt foncier (site de la Nation).", "Recettes de l'impôt foncier 1990 et 2017-2018 (Commission de la fiscalité des premières nations).", "Vote de 2007 et ralliement ultérieur du Canada à la Déclaration (DAES de l'ONU) ; préambule et art. 4 de la loi de 2021."]
+  non_confirme: ["Date d'adoption exacte de la constitution, distincte de sa ratification de 2003.", "Le site de la Nation annonce 5 340 acres (environ 21,6 km²), contre 2 099,5 hectares au registre fédéral.", "Le passage éventuel de l'impôt foncier au régime de la Loi sur la gestion financière des premières nations (art. 8.1 de la loi) n'a pas été vérifié."]
+sources:
+  - {titre: "Loi sur l'autonomie gouvernementale de la première nation de Westbank, L.C. 2004, ch. 17 — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/W-6.2/TexteComplet.html"}
+  - {titre: "Accord d'autonomie gouvernementale de la première nation de Westbank (version française) — Première Nation de Westbank", url: "https://www.wfn.ca/docs/self-government-agreement-french.pdf"}
+  - {titre: "Westbank First Nation Self-Government Agreement (version anglaise) — Première Nation de Westbank", url: "https://www.wfn.ca/docs/self-government-agreement-english.pdf"}
+  - {titre: "Self-Government & Laws — Première Nation de Westbank", url: "https://www.wfn.ca/self-government-laws.htm"}
+  - {titre: "Laws — Première Nation de Westbank", url: "https://www.wfn.ca/laws.htm"}
+  - {titre: "Population inscrite, Westbank First Nation (bande n° 601) — Relations Couronne-Autochtones", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=601&lang=eng"}
+  - {titre: "Réserves de la Westbank First Nation (bande n° 601) — Relations Couronne-Autochtones", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNReserves.aspx?BAND_NUMBER=601&lang=eng"}
+  - {titre: "Westbank First Nation — Province de Colombie-Britannique", url: "https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/consulting-with-first-nations/first-nations-negotiations/first-nations-a-z-listing/westbank-first-nation"}
+  - {titre: "History & Territory — Première Nation de Westbank", url: "https://www.wfn.ca/history-territory.htm"}
+  - {titre: "Westbank First Nation: Using Property Tax Revenues to Build a Vibrant Future — Commission de la fiscalité des premières nations (2017)", url: "https://fntc.ca/first-nations/westbank-first-nation/"}
+  - {titre: "Déclaration des Nations Unies sur les droits des peuples autochtones — DAES, Nations unies", url: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+  - {titre: "Loi sur la Déclaration des Nations Unies sur les droits des peuples autochtones, L.C. 2021, ch. 14 — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/U-2.2/page-1.html"}

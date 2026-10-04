@@ -1,0 +1,66 @@
+uid: "terres-communales-guatemala"
+nom: "Terres communales du Guatemala"
+endonyme: ""
+territoire: "Terres en propriété, possession ou tenure de communautés autochtones ou paysannes, déclarées communales par le Registre d'information cadastrale dans les zones déclarées en processus cadastral ou cadastrées (déclarations attestées notamment en Izabal, Alta Verapaz, Zacapa et Petén)"
+etats: ["Guatemala"]
+region: "ameriques"
+coord: [15.6, -90.3]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: ["communaute_locale"]
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 40, unite: "terres communales reconnues et déclarées administrativement par le RIC depuis 2009 (total cumulé au 2025 ; 32 au 2023)", annee: 2025, source: "https://portal.ric.gob.gt/sites/default/files/2026-02/3.%20POA%202026%20RIC_CR.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution guatémaltèque de 1985 (art. 67) protège les terres des communautés autochtones et les autres formes de tenure communale, et dispose que les communautés qui administrent leurs terres de manière traditionnelle maintiennent ce système. La loi du Registre d'information cadastrale (décret 41-2005) définit les terres communales comme les terres en propriété, possession ou tenure de communautés autochtones ou paysannes « en tant qu'entités collectives » (art. 23 y) et charge le Registre (RIC) de les déclarer par voie administrative au cours du cadastre (art. 65). Le règlement spécifique de 2009 (résolution 123-001-2009) fixe la procédure : demande de la communauté, consultation, relevé du polygone, avis juridique, résolution. Selon son plan opérationnel annuel 2026, le RIC a reconnu et déclaré 40 terres communales au 2025 ; les bénéficiaires comprennent des communautés mayas et des communautés paysannes métisses (rapport d'activité 2022 du RIC).
+reconnaissance_regionale:
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Communauté autochtone maya q'eqchi' Agua Caliente c. Guatemala (série C n° 488, 16 mai 2023) : la Cour décrit le régime des terres communales de la loi du RIC (§ 93), juge la copropriété attribuée à 104 personnes inadaptée à la propriété collective (§ 218), ordonne d'engager dans les six mois les mesures pour offrir à la communauté un titre communautaire ou collectif (point 5) et d'adopter des mesures législatives pour la sécurité juridique de la propriété communautaire autochtone (point 9).", annee: 2023, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_488_esp.pdf"}
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Convention OIT 169 ratifiée par le Guatemala en 1996 (rapport A/HRC/39/17/Add.3, § 15) ; la loi du RIC (art. 65) et le règlement de 2009 (considérants, art. 15 et 36) imposent de s'y conformer pour la déclaration des terres communales.", annee: 1996, source: "https://documents.un.org/api/symbol/access?s=A/HRC/39/17/Add.3&l=fr&t=pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport de la Rapporteuse spéciale sur les droits des peuples autochtones sur sa visite au Guatemala (A/HRC/39/17/Add.3), § 20, 32 et 33 : loi du Registre d'information cadastrale, absence de mécanismes adéquats de reconnaissance des terres communales.", annee: 2018, source: "https://documents.un.org/api/symbol/access?s=A/HRC/39/17/Add.3&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution politique de la République du Guatemala (1985, réformée en 1993), art. 66 à 68", nature: "constitution", annee: 1985, source: "https://www.constituteproject.org/constitution/Guatemala_1993?lang=es"}
+  - {instrument: "Loi du Registre d'information cadastrale (décret 41-2005), art. 23 y, 33 b, 41, 65 et 66", nature: "loi", annee: 2005, source: "https://portal.ric.gob.gt/sites/default/files/2019-09/ley-del-ric-version-con-portada_0.pdf"}
+  - {instrument: "Règlement spécifique de reconnaissance et de déclaration des terres communales (résolution du Conseil directif du RIC 123-001-2009, publiée le 29 juillet 2009)", nature: "loi", annee: 2009, source: "https://portal.ric.gob.gt/sites/default/files/2024-09/Reglamento%20de%20Tierras%20Comunales_6.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les communautés qui administrent traditionnellement leurs terres « maintiendront ce système » (Constitution, art. 67) ; le règlement de 2009 fait de l'administration propre de la terre une condition de la déclaration (art. 3) et admet les représentants désignés selon les formes traditionnelles de la communauté (art. 4) ; aucune institution n'est créée par le régime.", source: "https://portal.ric.gob.gt/sites/default/files/2024-09/Reglamento%20de%20Tierras%20Comunales_6.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le règlement de 2009 définit les communautés autochtones comme régies par « leurs propres normes » (art. 2 c) et exige une administration de la terre selon des normes propres, écrites ou non (art. 3 c) ; la portée de ces normes se limite à l'administration des terres.", source: "https://portal.ric.gob.gt/sites/default/files/2024-09/Reglamento%20de%20Tierras%20Comunales_6.pdf"}
+  justice_propre: {valeur: "partiel", note: "Dans la phase de conciliation des litiges de limites, le RIC doit appliquer aux controverses entre populations autochtones les méthodes de résolution proposées par les parties et qu'elles utilisent traditionnellement, et les autorités communautaires peuvent intervenir comme médiatrices à la demande d'une partie (loi du RIC, art. 41) ; le règlement de 2009 renvoie à cet article pour les conflits sur une terre à déclarer communale (art. 17) ; la portée se limite au cadastre.", source: "https://portal.ric.gob.gt/sites/default/files/2019-09/ley-del-ric-version-con-portada_0.pdf"}
+  terres: {valeur: "partiel", note: "Le RIC « reconnaîtra et fera la déclaration administrative » (acte de l'administration, sans jugement) de terre communale et lève le polygone complet (loi du RIC, art. 65 ; règlement de 2009, art. 26 et 27) ; un expert cité par la Cour interaméricaine en 2023 relève que la loi ne prévoit pas l'inscription des terres communales au Registre de la propriété (arrêt Agua Caliente, note 223).", source: "https://portal.ric.gob.gt/sites/default/files/2019-09/ley-del-ric-version-con-portada_0.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Avant le relevé cadastral, le RIC consulte les membres de la communauté pour qu'ils confirment leur demande de déclaration (règlement de 2009, art. 2 e, 15 et 16) ; cette consultation porte sur la procédure de déclaration elle-même.", source: "https://portal.ric.gob.gt/sites/default/files/2024-09/Reglamento%20de%20Tierras%20Comunales_6.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La Rapporteuse spéciale sur les droits des peuples autochtones constate en 2018 qu'il n'existe pas de mécanismes adéquats de reconnaissance des terres communales (A/HRC/39/17/Add.3, § 33) ; en 2023, la Cour interaméricaine ordonne au Guatemala d'adopter des mesures législatives pour la propriété communautaire autochtone ; le RIC compte 32 terres communales déclarées au 2023 et 40 au 2025 (plans opérationnels annuels 2024 et 2026).", source: "https://documents.un.org/api/symbol/access?s=A/HRC/39/17/Add.3&l=fr&t=pdf"}
+chronologie:
+  - {annee: 1985, evenement: "La Constitution protège les terres des communautés autochtones et les formes de tenure communale (art. 67)."}
+  - {annee: 1996, evenement: "Le Guatemala ratifie la Convention OIT 169."}
+  - {annee: 2005, evenement: "Loi du Registre d'information cadastrale (décret 41-2005) : définition des terres communales et déclaration administrative par le RIC."}
+  - {annee: 2009, evenement: "Le Conseil directif du RIC adopte le règlement spécifique de reconnaissance et de déclaration des terres communales (résolution 123-001-2009)."}
+  - {annee: 2018, evenement: "Rapport de la Rapporteuse spéciale des Nations unies sur sa visite au Guatemala."}
+  - {annee: 2022, evenement: "Le RIC remet 5 déclarations administratives de terres communales (Izabal, Zacapa, Alta Verapaz, Petén)."}
+  - {annee: 2023, evenement: "Arrêt de la Cour interaméricaine dans l'affaire Agua Caliente : obligation d'offrir un titre collectif à la communauté maya q'eqchi'."}
+  - {annee: 2024, evenement: "Notification de la déclaration de terre communale de la communauté autochtone Santa Rosa Balandra, El Estor (bulletin RIC 54-2024)."}
+  - {annee: 2025, evenement: "Remise de la reconnaissance administrative à Santa Rosa Balandra (mars) et à la coopérative Bethel, Las Cruces, Petén (mai)."}
+fiabilite:
+  verifie: ["Articles 23 y, 33 b, 41, 65 et 66 de la loi du RIC (décret 41-2005), texte publié par le RIC.", "Articles 1 à 4, 15 à 17, 20, 26 à 28 et 30 du règlement de 2009 (résolution 123-001-2009), version scannée publiée par le RIC.", "Articles 66 à 68 de la Constitution (Constitute Project).", "Points 5 et 9 du dispositif et § 93 et 218 de l'arrêt Agua Caliente (série C n° 488).", "Paragraphes 15, 20, 32 et 33 du rapport A/HRC/39/17/Add.3.", "Bulletins du RIC sur Santa Rosa Balandra (2024, 2025), El Mirador Río Balandra (programmée pour 2025) et la coopérative Bethel (2025).", "Totaux cumulés de 32 (2023) et 40 (2025) terres communales déclarées, plans opérationnels annuels 2024 et 2026 du RIC ; 5 déclarations en 2022, rapport d'activité 2022 du RIC."]
+  non_confirme: ["Liste nominative des 40 terres communales déclarées : aucun registre public trouvé, aucun tableau des sites n'est joint.", "Titres de terres communales maya ch'orti' (Zacapa, Chiquimula) annoncés en octobre 2025 : source non ouverte, mécanisme juridique non précisé.", "Exécution de l'arrêt Agua Caliente : aucune résolution de supervision consultée ; le titre collectif ne paraît pas délivré.", "Surface et population couvertes par les déclarations."]
+sources:
+  - {titre: "Loi du Registre d'information cadastrale (décret 41-2005) — RIC", url: "https://portal.ric.gob.gt/sites/default/files/2019-09/ley-del-ric-version-con-portada_0.pdf"}
+  - {titre: "Reglamento específico para reconocimiento y declaración de tierras comunales (résolution 123-001-2009) — RIC", url: "https://portal.ric.gob.gt/sites/default/files/2024-09/Reglamento%20de%20Tierras%20Comunales_6.pdf"}
+  - {titre: "Constitution politique de la République du Guatemala — Constitute Project", url: "https://www.constituteproject.org/constitution/Guatemala_1993?lang=es"}
+  - {titre: "Plan operativo anual 2026 del RIC (section 4.2.2, Tierras comunales) — RIC", url: "https://portal.ric.gob.gt/sites/default/files/2026-02/3.%20POA%202026%20RIC_CR.pdf"}
+  - {titre: "Plan operativo anual 2024 del RIC (section 4.2.2, Tierras comunales) — SEGEPLAN", url: "https://siplan.segeplan.gob.gt/documentos/5300_65000_Plan%20Operativo%20Anual%20POA%202024%20RIC_final.pdf"}
+  - {titre: "Memoria de labores 2022 (section 3.2, Tierras comunales) — RIC", url: "https://portal.ric.gob.gt/sites/default/files/2023-02/Memoria%20Labores%202022_compressed_compressed.pdf"}
+  - {titre: "Boletín informativo 54-RIC-2024, Tierras comunales (Santa Rosa Balandra) — RIC", url: "https://portal.ric.gob.gt/node/946"}
+  - {titre: "Boletín 14-2025, Entrega de reconocimiento administrativo de tierras comunales — RIC", url: "https://portal.ric.gob.gt/node/1063"}
+  - {titre: "Boletín 18-2025, Entrega del polígono y reconocimiento tierra comunal a cooperativa Bethel — RIC", url: "https://portal.ric.gob.gt/node/1073"}
+  - {titre: "Boletín 10-2025, Taller de socialización en El Mirador Río Balandra — RIC", url: "https://portal.ric.gob.gt/node/1035"}
+  - {titre: "Cour interaméricaine des droits de l'homme, Communauté autochtone maya q'eqchi' Agua Caliente c. Guatemala, série C n° 488, 16 mai 2023", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_488_esp.pdf"}
+  - {titre: "Rapport de la Rapporteuse spéciale sur les droits des peuples autochtones sur sa visite au Guatemala, A/HRC/39/17/Add.3 (2018) — Nations unies", url: "https://documents.un.org/api/symbol/access?s=A/HRC/39/17/Add.3&l=fr&t=pdf"}
+  - {titre: "Caso Comunidad Indígena Maya Q'eqchi' Agua Caliente vs. Guatemala — Nim Ajpu, Sentencias de pueblos indígenas", url: "https://nimajpu.org/sentencias/caso-comunidad-indigena-maya-qeqchi-agua-caliente-vs-guatemala/"}

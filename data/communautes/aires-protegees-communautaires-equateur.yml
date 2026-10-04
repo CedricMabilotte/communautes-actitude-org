@@ -1,0 +1,71 @@
+uid: "aires-protegees-communautaires-equateur"
+nom: "Aires protégées communautaires de l'Équateur"
+endonyme: ""
+territoire: "Sous-système communautaire du Système national d'aires protégées (SNAP)"
+etats: ["Équateur"]
+region: "ameriques"
+coord: [-3.3, -78.9]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 2, unite: "aires protégées communautaires du Système national d'aires protégées", annee: 2022, source: "https://www.ambienteyenergia.gob.ec/ambiente/ecuador-celebra-su-sistema-nacional-de-areas-protegidas/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les comunas (communes rurales à propriété collective), communautés, peuples et nationalités dont l'aire a été déclarée aire protégée du sous-système communautaire du Système national d'aires protégées. La Constitution de 2008 (art. 405) crée ce sous-système à côté des sous-systèmes de l'État, des collectivités territoriales et des propriétaires privés ; le Code organique de l'environnement de 2017 (art. 45) confie à la communauté titulaire l'administration des activités prévues par le plan de gestion de l'aire, élaboré avec l'accompagnement de l'autorité environnementale nationale. La première aire, Tambillo (1 954,65 ha, canton de Gualaquiza, Morona Santiago), a été déclarée par l'accord ministériel 038 du 12 avril 2018 et est gérée par la coopérative de développement de la communauté de Jima (Azuay) ; la deuxième, celle de la comuna Marcos Pérez de Castilla (8 604,7 ha, cantons d'Oña, Azuay, et de Yacuambi, Zamora Chinchipe), a été déclarée par l'accord ministériel 036 publié au Registro Oficial (journal officiel) le 10 mai 2019. Le ministère de l'Environnement comptait deux aires protégées communautaires en 2022.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Sixième rapport national de l'Équateur à la Convention sur la diversité biologique (2019) : déclaration de la première aire protégée communautaire, Tambillo (1 954,65 ha, accord ministériel 038 du 12 avril 2018), administrée par la coopérative de développement Jima ; méthode d'évaluation de l'efficacité de gestion encore à adapter au sous-système communautaire", annee: 2019, source: "https://www.cbd.int/doc/world/ec/ec-nr-06-es.pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République de l'Équateur (2008), art. 405 (Système national d'aires protégées et ses quatre sous-systèmes), art. 57 et 60 (droits collectifs, comunas)", nature: "constitution", annee: 2008, source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  - {instrument: "Code organique de l'environnement (Código Orgánico del Ambiente), art. 37, 45 et 48 (Registro Oficial, supplément n° 983, 12 avril 2017 ; en vigueur douze mois après sa publication)", nature: "loi_organique", annee: 2017, source: "https://faolex.fao.org/docs/pdf/ecu167116.pdf"}
+  - {instrument: "Règlement du Code organique de l'environnement, décret exécutif n° 752, art. 150, 151 et 155 (Registro Oficial, supplément n° 507, 12 juin 2019)", nature: "loi", annee: 2019, source: "https://faolex.fao.org/docs/pdf/ecu196276.pdf"}
+  - {instrument: "Accord ministériel n° 038 du 12 avril 2018 portant déclaration de l'aire protégée communautaire Tambillo", nature: "loi", annee: 2018, source: "https://www.cbd.int/doc/world/ec/ec-nr-06-es.pdf"}
+  - {instrument: "Accord ministériel n° 036 portant déclaration de l'aire protégée communautaire Marcos Pérez de Castilla (Registro Oficial n° 485, 10 mai 2019)", nature: "loi", annee: 2019, source: "https://vlex.ec/vid/036-declarese-area-protegida-791492953"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'administration des activités prévues par le plan de gestion de chaque aire revient à la comuna, communauté, peuple ou nationalité titulaire ; l'autorité environnementale nationale fixe les mécanismes de cette administration et accompagne l'élaboration du plan ; la déclaration suit une demande de la communauté, selon des critères fixés par cette autorité (Code organique de l'environnement de 2017, art. 45).", source: "https://faolex.fao.org/docs/pdf/ecu167116.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le sous-système se compose des aires protégées des comunas, communautés, peuples et nationalités déclarées par l'autorité environnementale (Code de 2017, art. 45) ; les propriétaires et possesseurs antérieurs à la déclaration gardent leurs droits sur leurs terres, sous réserve des restrictions constitutionnelles au fractionnement des terres communautaires, mais la déclaration impose des limitations d'usage et de jouissance et interdit le fractionnement de l'aire (art. 37). La Constitution de 2008 rend les terres communautaires des comunas, communautés, peuples et nationalités autochtones inaliénables, insaisissables et indivisibles (art. 57, al. 4) et reconnaît les comunas à propriété collective de la terre (art. 60).", source: "https://faolex.fao.org/docs/pdf/ecu167116.pdf"}
+  ressources: {valeur: "partiel", note: "Les comunas, communautés, peuples et nationalités situés dans une aire protégée peuvent exploiter les ressources naturelles de façon durable selon leurs usages traditionnels, pour l'artisanat ancestral et la subsistance, dans le respect du plan de gestion, de la catégorie, du zonage et des politiques de l'autorité environnementale nationale (Code de 2017, art. 48).", source: "https://faolex.fao.org/docs/pdf/ecu167116.pdf"}
+  consentement: {valeur: "partiel", note: "Toute décision ou autorisation de l'État pouvant affecter l'environnement doit être soumise à la consultation de la communauté ; en cas d'opposition majoritaire, l'instance administrative supérieure décide par une résolution motivée, sans droit de veto pour la communauté (Constitution de 2008, art. 398).", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon Mongabay (juillet 2019), deux aires existaient, Tambillo et Marcos Pérez de Castilla ; les communautés surveillent et contrôlent l'aire et doivent trouver elles-mêmes son financement ; le plan de gestion de l'aire Marcos Pérez de Castilla était alors en cours d'élaboration. Le sixième rapport national à la Convention sur la diversité biologique (2019) indique que la méthode d'évaluation de l'efficacité de gestion reste à adapter au sous-système communautaire.", source: "http://es.mongabay.com/2019/07/areas-comunitarias-de-ecuador-marco-perez-de-castilla/"}
+chronologie:
+  - {annee: 1999, evenement: "Tambillo est classée forêt et végétation protectrices (bosque protector) de propriété privée."}
+  - {annee: 2008, evenement: "Constitution (art. 405) : le Système national d'aires protégées comprend un sous-système communautaire."}
+  - {annee: 2017, evenement: "Code organique de l'environnement (12 avril) : composition et administration du sous-système communautaire (art. 45)."}
+  - {annee: 2018, evenement: "Accord ministériel 038 (12 avril) : Tambillo, 1 954,65 ha, première aire protégée communautaire."}
+  - {annee: 2019, evenement: "Accord ministériel 036 : aire protégée communautaire de la comuna Marcos Pérez de Castilla (8 604,7 ha, Oña et Yacuambi), présentée le 26 avril et publiée au Registro Oficial le 10 mai."}
+  - {annee: 2019, evenement: "Règlement du Code organique de l'environnement (décret exécutif 752, 12 juin) : registre national des aires protégées avec une section du sous-système communautaire (art. 155)."}
+fiabilite:
+  verifie:
+    - "Constitution de 2008, art. 57, 60, 398 et 405 (édition de poche de l'Assemblée nationale)."
+    - "Code organique de l'environnement de 2017, art. 37, 45 et 48 (Registro Oficial, supplément 983, via FAOLEX)."
+    - "Règlement du Code, art. 150, 151 et 155 (décret exécutif 752, version compilée publiée par FAOLEX)."
+    - "Tambillo : accord ministériel 038 du 12 avril 2018, 1 954,65 ha, coopérative de développement Jima, vingt familles (sixième rapport national à la CDB)."
+    - "Comuna Marcos Pérez de Castilla : présentation le 26 avril 2019, 8 604,7 ha, canton d'Oña, deuxième aire du sous-système (El Oriente) ; accord ministériel 036, Registro Oficial n° 485 du 10 mai 2019, qui ajoute les paroisses 28 de Mayo et Tutupali du canton de Yacuambi (vLex)."
+    - "Localisation de Tambillo : paroisse de San Miguel de Cuyes, canton de Gualaquiza (Morona Santiago), à 40 minutes de Jima ; les vingt familles titulaires sont de la paroisse de Jima (Azuay) (El Oriente, 4 mai 2018)."
+    - "Deux aires protégées communautaires dans le Système national d'aires protégées en juillet 2022 (ministère de l'Environnement, de l'Eau et de la Transition écologique)."
+    - "Titre collectif de la comuna Marcos Pérez de Castilla obtenu en 2017 ; les communautés assurent la surveillance et le financement de l'aire (Mongabay, 29 juillet 2019)."
+  non_confirme:
+    - "Aires déclarées après juillet 2022 : registre national des aires protégées non consulté ; le tableau reprend les deux aires documentées."
+    - "Le même rapport à la CDB donne 1 954,65 ha et 1 964 ha pour Tambillo, et date la déclaration d'avril et de mai 2018."
+    - "Date de signature de l'accord ministériel 036 : non lue sur le texte."
+    - "Accord ministériel fixant les critères de demande de déclaration (Code de 2017, art. 45 ; règlement, art. 151) : non identifié."
+sources:
+  - {titre: "Constitución de la República del Ecuador (2008) — Asamblea Nacional", url: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  - {titre: "Código Orgánico del Ambiente, Registro Oficial supl. 983 (12 avril 2017) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ecu167116.pdf"}
+  - {titre: "Reglamento al Código Orgánico del Ambiente, décret exécutif 752 (2019) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ecu196276.pdf"}
+  - {titre: "Sexto Informe Nacional para el Convenio sobre la Diversidad Biológica — Ecuador (2019)", url: "https://www.cbd.int/doc/world/ec/ec-nr-06-es.pdf"}
+  - {titre: "Ecuador tiene la primera Área Protegida Comunitaria — El Oriente (4 mai 2018)", url: "https://www.eloriente.com/articulo/ecuador-tiene-la-primera-aacuterea-protegida-comunitaria/9444"}
+  - {titre: "Acuerdo 036 : déclaration de l'aire protégée communautaire Marcos Pérez de Castilla, Registro Oficial n° 485 (10 mai 2019) — vLex", url: "https://vlex.ec/vid/036-declarese-area-protegida-791492953"}
+  - {titre: "Ecuador celebra su Sistema Nacional de Áreas Protegidas — ministère de l'Environnement, de l'Eau et de la Transition écologique (18 juillet 2022)", url: "https://www.ambienteyenergia.gob.ec/ambiente/ecuador-celebra-su-sistema-nacional-de-areas-protegidas/"}
+  - {titre: "Dos siglos de lucha comunitaria para proteger bosques y páramos en Ecuador — Mongabay (29 juillet 2019)", url: "http://es.mongabay.com/2019/07/areas-comunitarias-de-ecuador-marco-perez-de-castilla/"}
+  - {titre: "Se presentó la segunda Área Protegida Comunitaria del Ecuador en Oña — El Oriente (26 avril 2019)", url: "https://www.eloriente.com/articulo/se-presento-la-segunda-area-protegida-comunitaria-del-ecuador-en-ona/11610"}

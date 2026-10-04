@@ -1,0 +1,51 @@
+uid: "communaux-bygdeallmenninger-norvege"
+nom: "Communaux villageois de Norvège"
+endonyme: "Bygdeallmenninger"
+territoire: "Communaux de forêt et de montagne (utmark, terres non cultivées) du Sud de la Norvège, détenus par les exploitations agricoles qui y ont des droits d'usage"
+etats: ["Norvège"]
+region: "europe"
+coord: [61.2, 10.5]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "communaux villageois (bygdeallmenninger)", annee: null, source: ""}
+surface_km2: {valeur: 7500, annee: 2026, perimetre: "ensemble des communaux villageois (7,5 millions de dekar, dont 2 millions de dekar de forêt productive)", source: "https://snl.no/bygdeallmenningsloven"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communaux villageois (bygdeallmenninger), terres communes dont la propriété appartient à au moins la moitié des exploitations agricoles qui y exercent de longue date des droits d'usage (loi n° 59 du 19 juin 1992, § 1-1). Chaque communal est administré par un conseil (allmenningsstyre) de trois à sept membres élu par et parmi les propriétaires et les ayants droit, qui adopte des règles d'usage (bruksregler) approuvées par le ministère de l'Agriculture et de l'Alimentation. Les droits d'usage portent sur le bois, le pâturage, les alpages d'été (seter), la chasse et la pêche ; ils restent attachés à l'exploitation et ne peuvent être vendus séparément. Selon le Store norske leksikon (encyclopédie nationale), il existe un peu plus de cinquante communaux villageois, qui couvrent 7,5 millions de dekar (7 500 km²).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi sur les communaux villageois (lov om bygdeallmenninger, LOV-1992-06-19-59), en vigueur le 1er janvier 1993, dernière modification par la loi LOV-2019-05-24-18 selon le texte consolidé au 24 juin 2022", nature: "loi", annee: 1992, source: "https://faolex.fao.org/docs/pdf/nor210509.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "L'administration de chaque communal revient au conseil du communal (allmenningsstyre), de trois à sept membres (§ 3-1), élu pour quatre ans par et parmi les propriétaires et les ayants droit inscrits au registre des droits d'usage (§ 2-5, 4-1 et 4-5), sauf les sièges que les salariés peuvent exiger dans les communaux de plus de trente salariés (§ 3-1) ; il tranche toutes les questions de gestion et de droits d'usage, et ses décisions ne sont pas susceptibles de recours administratif (§ 3-2). Une assemblée annuelle (årsmøte) des propriétaires et ayants droit élit le conseil ; le ministère peut y assister sans droit de vote (§ 3-13 et 3-14).", source: "https://faolex.fao.org/docs/pdf/nor210509.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le conseil rédige les règles d'usage (bruksregler) sur la gestion, le pâturage, la chasse et la pêche (§ 3-7) ; elles lient le conseil, les propriétaires et les ayants droit après approbation du ministère, qui peut refuser des dispositions ou en fixer d'office (§ 3-8). Le conseil peut aussi restreindre l'exercice des droits d'usage pour préserver la capacité de production du communal, ou pour la protection du milieu naturel et les loisirs de plein air (friluftsliv) (§ 2-8). Les infractions à la loi, aux règles approuvées et aux injonctions du conseil sont punies d'amendes ; le conseil peut engager les poursuites (§ 9-3).", source: "https://faolex.fao.org/docs/pdf/nor210509.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "La propriété du sol appartient à au moins la moitié des exploitations ayant droit d'usage (§ 1-1). Le sol du communal ne peut être ni vendu ni donné à bail, sauf parcelles pour mise en culture, activités liées au communal, projets d'utilité publique locale ou terrains à bâtir (§ 1-2), et ne peut être hypothéqué (§ 1-3) ; le droit d'usage ne peut être séparé de l'exploitation (§ 2-3).", source: "https://faolex.fao.org/docs/pdf/nor210509.pdf"}
+  ressources: {valeur: "reconnu", note: "Les exploitations ayant droit d'usage disposent du bois pour leurs besoins agricoles (§ 5-1), du pâturage pour le cheptel qui peut être hiverné sur l'exploitation (§ 6-1) et du droit d'obtenir un alpage d'été (seter) (§ 6-4) ; les ayants droit et leur ménage ont la chasse, sauf cervidés et castor régis par les règles d'usage (§ 7-1 et 7-6), et la pêche à l'hameçon (§ 8-1 et 8-2). L'usage est limité aux besoins de l'exploitation agricole et réduit à proportion si la production du communal ne suffit pas (§ 2-2).", source: "https://faolex.fao.org/docs/pdf/nor210509.pdf"}
+  consentement: {valeur: "partiel", note: "Après une décision d'expropriation, la cession de terres du communal hors des cas prévus n'est possible que si elle ne restreint pas de façon notable les droits d'usage, ou avec l'accord des propriétaires des exploitations dont le droit est notablement restreint (§ 1-2, al. 3) ; la fusion de communaux exige une majorité des deux tiers dans chacun (§ 1-5) et le passage à l'exploitation forestière commune un vote des ayants droit à la même majorité (§ 5-4). Les projets de règles d'usage sont soumis à l'examen des propriétaires et ayants droit pendant quatre semaines (§ 3-8).", source: "https://faolex.fao.org/docs/pdf/nor210509.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Chaque communal a une caisse propre (allmenningskasse) et tient ses comptes (§ 3-10) ; le conseil fixe le prix des permis de chasse et de pêche, versé à la caisse (§ 7-7 et 8-8), et peut imposer aux ayants droit une redevance sur le bois attribué (§ 5-3). L'excédent est affecté par le conseil selon des priorités fixées par la loi ; une distribution en espèces exige l'accord du ministère (§ 3-12).", source: "https://faolex.fao.org/docs/pdf/nor210509.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Un document de travail de l'Université norvégienne des sciences de la vie (Berge, 2018) décrit le passage des communaux à une gestion forestière professionnelle, les droits en bois des ayants droit étant remplis par une remise sur le prix du bois ; il relève la baisse du nombre d'exploitations actives, dont les ressources non utilisées reviennent aux autres ayants droit dans les communaux villageois, et des obligations de conservation de forêt ancienne et, au nord d'Oslo, d'usage récréatif (Oslomarka).", source: "https://www.nmbu.no/download/file/fid/40390"}
+chronologie:
+  - {annee: 1752, evenement: "Une ordonnance du 29 avril sur le Solør et l'Østerdalen emploie pour la première fois l'expression « communaux des villages » (bøygdernes almindinger)."}
+  - {annee: 1857, evenement: "La loi du 12 octobre sur les forêts communales (lov indeholdende Bestemmelser om Almindingsskove) distingue communaux d'État, communaux villageois et communaux privés, et impose aux communaux villageois une gestion locale."}
+  - {annee: 1863, evenement: "La loi sur la gestion forestière rétablit l'interdiction de vendre les communaux du roi ; depuis, les terres grevées de droits d'usage des communaux d'État et des communaux villageois ne peuvent être vendues, sauf exceptions."}
+  - {annee: 1985, evenement: "Rapport public NOU 1985:32 sur la révision de la législation des communaux."}
+  - {annee: 1992, evenement: "Adoption de la loi n° 59 du 19 juin sur les communaux villageois."}
+  - {annee: 1993, evenement: "Entrée en vigueur de la loi le 1er janvier."}
+  - {annee: 2019, evenement: "Dernière modification de la loi (LOV-2019-05-24-18, en vigueur le 1er juillet)."}
+fiabilite:
+  verifie: ["Texte consolidé de la loi n° 59 du 19 juin 1992 (version Lovdata du 24 juin 2022 publiée par FAOLEX), § 1-1 à 9-5.", "Définition, origine au XVIIIe siècle, nombre (« un peu plus de cinquante ») et surface (7,5 millions de dekar) : Store norske leksikon, article sur la loi (mis à jour le 27 avril 2026).", "Distinction des trois types de communaux en 1857 et interdiction de vente de 1863 : Berge, 2018."]
+  non_confirme: ["Nombre exact de communaux villageois : aucune liste officielle consultée ; le Store norske leksikon indique « un peu plus de cinquante », l'article de Wikipédia en norvégien « Skogbruk i Norge » en indique 40 avec 15 000 ayants droit, en citant une page de l'association des communaux consultée en 2011 et hors ligne depuis ; aucun tableau des sites n'est joint.", "Surface : Berge (2018) donne 0,55 million d'hectares (5 500 km²), contre 7 500 km² dans le Store norske leksikon ; l'origine et l'année des deux chiffres ne sont pas précisées.", "Nombre d'ayants droit et population concernée : aucune source primaire trouvée.", "Le site de Lovdata et celui de l'association des communaux (Norsk Allmenningsforbund) n'ont pas pu être consultés directement ; une modification de la loi postérieure à juin 2022 n'est pas exclue."]
+sources:
+  - {titre: "Lov om bygdeallmenninger (LOV-1992-06-19-59), texte consolidé — FAOLEX", url: "https://faolex.fao.org/docs/pdf/nor210509.pdf"}
+  - {titre: "Eriksen, « bygdeallmenningsloven », Store norske leksikon", url: "https://snl.no/bygdeallmenningsloven"}
+  - {titre: "Eriksen, « bygdeallmenning », Store norske leksikon", url: "https://snl.no/bygdeallmenning"}
+  - {titre: "Falkanger, « allmenning », Store norske leksikon", url: "https://snl.no/allmenning"}
+  - {titre: "Berge, « Understanding Norwegian Commons », Centre for Land Tenure Studies Working Paper 10/18, Université norvégienne des sciences de la vie, 2018", url: "https://www.nmbu.no/download/file/fid/40390"}

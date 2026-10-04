@@ -1,0 +1,58 @@
+uid: "mennonites-paraguay"
+nom: "Mennonites du Paraguay (colonies du Chaco et de l'Est)"
+endonyme: "Mennoniten"
+territoire: "Colonies mennonites du Chaco central (Menno, Fernheim, Neuland…) et de la Région orientale (Friesland, Volendam…)"
+etats: ["Paraguay"]
+region: "ameriques"
+coord: [-22.3, -60.0]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: null, unite: "colonies", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 100, annee: 2022, perimetre: "villages (aldeas) de la seule colonie Menno : « más de 100 aldeas »", source: "https://www.abc.com.py/edicion-impresa/suplementos/comercial/95-anos-colonia-menno/2022/06/27/la-ley-514-hizo-realidad-la-inmigracion-menonita/"}
+resume: >-
+  Minorité religieuse germanophone issue de migrations venues du Canada (1926-1927), d'Union soviétique et d'Europe à partir de 1930. La loi 514 du 26 juillet 1921 accorde aux membres de la communauté dite « mennonite » la liberté de culte, l'exemption du service militaire, le droit de fonder et d'administrer leurs écoles en allemand et l'administration des successions et des biens des veuves et des orphelins par une institution propre (Waisenamt, « office des orphelins »). La loi 914 de 1927 étend ce régime aux autres communautés non combattantes et aux communautés religieuses d'origine américaine ou européenne qui s'installent dans le Chaco, ces dernières sans l'exemption du service militaire. La loi 514 mentionne des « autorités compétentes » des colonies, reconnues par les colons (art. 2 et 6).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi n° 514 du 26 juillet 1921 (droits et privilèges de la communauté mennonite)", nature: "loi", annee: 1921, source: "https://menonitica.org/lex/gesetz-nr-514/"}
+  - {instrument: "Loi n° 914 du 25 août 1927 (extension aux communautés non combattantes et religieuses installées dans le Chaco)", nature: "loi", annee: 1927, source: "https://menonitica.org/lex/gesetz-nr-514/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi 514 (art. 1, points 3 et 4) confie à des institutions de la communauté l'administration des successions et l'assurance mutuelle contre l'incendie ; ses articles 2 et 6 mentionnent les « autorités compétentes » des colonies, reconnues par les colons, sans leur attribuer de compétence générale.", source: "https://menonitica.org/lex/gesetz-nr-514/"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "reconnu", note: "La loi 514 (art. 1, point 2) reconnaît le droit de fonder, d'administrer et d'entretenir des écoles et d'y enseigner l'allemand sans restriction.", source: "https://menonitica.org/lex/gesetz-nr-514/"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "La loi 514 (art. 1, point 3) attribue la gestion des successions, en particulier des biens des veuves et des orphelins, à l'office des orphelins (Waisenamt) de la communauté, selon ses propres règles ; l'article 5 charge les juges de désigner cet office comme tuteur des membres incapables.", source: "https://menonitica.org/lex/gesetz-nr-514/"}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Le maintien de la loi 514 est affirmé par des sources mennonites : la Global Anabaptist Mennonite Encyclopedia Online (article de 1990 : privilèges « remained intact ») et le site Menonitica (« bis heute voll gültig », toujours pleinement en vigueur). Aucune source indépendante consultée n'établit son application actuelle.", source: "https://menonitica.org/lex/gesetz-nr-514/"}
+chronologie:
+  - {annee: 1921, evenement: "Loi 514 du 26 juillet sur les droits et privilèges des membres de la communauté mennonite."}
+  - {annee: 1927, evenement: "Arrivée de 1 745 mennonites du Canada (décembre 1926 - novembre 1927), fondation de la colonie Menno ; loi 914 du 25 août étendant le régime."}
+  - {annee: 1930, evenement: "Fondation de la colonie Fernheim par des mennonites venus d'Union soviétique ; décret 43.561 de 1932 étendant le régime à ce groupe."}
+  - {annee: 1937, evenement: "Fondation de la colonie Friesland dans la Région orientale."}
+  - {annee: 1947, evenement: "Arrivée d'environ 4 500 mennonites d'Europe (1947-1948) ; fondation des colonies Neuland (Chaco) et Volendam (Région orientale), qui comptent 2 389 et 1 172 habitants en 1948."}
+fiabilite:
+  verifie:
+    - "Contenu des articles 1 à 4 de la loi 514 (texte allemand publié par Menonitica)."
+    - "Date de la loi 514 (26 juillet 1921) et de la loi 914 (25 août 1927)."
+    - "Arrivée de 1 745 mennonites du Canada en 1926-1927 et plus de 100 villages dans la colonie Menno (ABC Color, 2022)."
+  non_confirme:
+    - "Texte officiel espagnol de la loi 514 non retrouvé dans la base de la Bibliothèque du Congrès (BACN)."
+    - "Maintien en vigueur de la loi affirmé par des sources mennonites ; aucune décision de justice, source gouvernementale ou source indépendante consultée ne l'établit."
+    - "Administration des colonies par des associations civiles et des coopératives : non confirmée par une source consultée citée ici."
+    - "Population totale, nombre de colonies et surface : aucun chiffre officiel consulté ; les estimations de presse divergent (environ 40 000 personnes selon RCC en 2023, environ 67 000 selon Huella del Sur en 2026)."
+    - "Les articles 3 (exonérations fiscales et douanières pour dix ans) et 4 (immigration) étaient temporaires ou ne portent pas sur un droit collectif durable."
+sources:
+  - {titre: "Gesetz Nr. 514 — Menonitica (texte allemand de la loi 514, loi 914 et décret 43.561)", url: "https://menonitica.org/lex/gesetz-nr-514/"}
+  - {titre: "La Ley 514 hizo realidad la inmigración menonita — ABC Color, 27 juin 2022", url: "https://www.abc.com.py/edicion-impresa/suplementos/comercial/95-anos-colonia-menno/2022/06/27/la-ley-514-hizo-realidad-la-inmigracion-menonita/"}
+  - {titre: "Paraguay — Global Anabaptist Mennonite Encyclopedia Online", url: "https://gameo.org/index.php?title=Paraguay"}
+  - {titre: "¡Una ley histórica! Senadores conmemoraron los 102 años de la « Ley de los Menonitas » — RCC, 2023", url: "https://rcc.com.py/nacionales/una-ley-historica-senadores-conmemoraron-los-102-anos-de-la-ley-de-los-menonitas/"}
+  - {titre: "Las colonias menonitas del Chaco paraguayo — Huella del Sur, 7 août 2026", url: "https://huelladelsur.ar/2026/08/07/las-colonias-menonitas-del-chaco-paraguayo-de-piadosos-colonos-a-participes-del-agro-negocio/"}

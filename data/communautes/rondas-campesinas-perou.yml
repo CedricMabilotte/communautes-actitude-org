@@ -1,0 +1,56 @@
+uid: "rondas-campesinas-perou"
+nom: "Rondes paysannes du Pérou"
+endonyme: ""
+territoire: "Zones rurales du Pérou, en particulier Cajamarca et le nord des Andes"
+etats: ["Pérou"]
+region: "ameriques"
+coord: [-6.6, -78.6]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "ronderos et ronderas inscrits aux registres (padrones) des rondes ; aucun total officiel trouvé", source: ""}
+lieux: {valeur: null, unite: "rondes paysannes et rondes communales inscrites aux Registres publics", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "ensemble des ressorts territoriaux des rondes ; non trouvé dans une source officielle", source: ""}
+villages: {valeur: null, annee: null, perimetre: "hameaux (caseríos) et communautés où une ronde est constituée ; total non relevé", source: ""}
+resume: >-
+  Fiche agrégée. Les rondes paysannes (rondas campesinas, comités de surveillance villageois) sont des organisations de ruraux nées le 29 décembre 1976 au hameau de Cuyumalca (province de Chota, Cajamarca) pour lutter contre le vol de bétail, puis étendues aux Andes du nord et à d'autres régions. La Constitution de 1993 (art. 149) les associe aux fonctions juridictionnelles des communautés paysannes et natives ; la loi 27908 de 2003 leur donne la personnalité juridique comme forme autonome et démocratique d'organisation communale, avec des fonctions de sécurité, de conciliation extrajudiciaire (règlement à l'amiable hors tribunal) et de règlement des conflits sur leur territoire. Le règlement de 2003 admet des rondes hors des communautés, dans les hameaux, ce qui en fait un sujet collectif distinct des communautés paysannes, qui ont leur propre fiche. Le recensement de 2017 compte 2 327 communautés paysannes dotées d'une ronde ; le nombre total de rondes, y compris hors communautés, n'est pas publié.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution politique du Pérou (1993), art. 149", nature: "constitution", annee: 1993, source: "https://cdn.www.gob.pe/uploads/document/file/198518/Constitucion_Politica_del_Peru_1993.pdf?v=1594239946"}
+  - {instrument: "Loi 27908, loi des rondes paysannes (2003)", nature: "loi", annee: 2003, source: "https://www.justiciaviva.org.pe/acceso_justicia/justicia_comunal/1.pdf"}
+  - {instrument: "Décret suprême 025-2003-JUS, règlement de la loi des rondes paysannes (2003)", nature: "loi", annee: 2003, source: "https://www.justiciaviva.org.pe/acceso_justicia/justicia_comunal/2.pdf"}
+  - {instrument: "Loi 24656, loi générale des communautés paysannes (1987), art. 18 k", nature: "loi", annee: 1987, source: "https://centroderecursos.cultura.pe/sites/default/files/rb/pdf/ley%20general%20de%20comunidades%20campesinas.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi 27908 (2003) reconnaît la personnalité juridique des rondes comme forme autonome et démocratique d'organisation communale (art. 1) ; selon le règlement de 2003, l'assemblée générale adopte le statut (art. 7) et le bureau (junta directiva) a un mandat de deux ans (art. 15). Dans une communauté paysanne ou native, la ronde se forme à l'initiative exclusive de la communauté (art. 2 de la loi).", source: "https://www.justiciaviva.org.pe/acceso_justicia/justicia_comunal/2.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Chaque ronde élabore son statut en assemblée générale « en exerçant son autonomie » (règlement de 2003, art. 7) ; dans l'exercice du droit coutumier, ses membres ont droit au respect de leur culture et de leurs coutumes, dans le respect des droits fondamentaux (art. 4).", source: "https://www.justiciaviva.org.pe/acceso_justicia/justicia_comunal/2.pdf"}
+  justice_propre: {valeur: "partiel", note: "Les autorités des communautés exercent des fonctions juridictionnelles avec l'appui des rondes (Constitution, art. 149) ; la loi 27908 autorise les rondes à régler à l'amiable, selon leurs coutumes, les conflits nés de faits survenus sur leur territoire (art. 1 et 7) et impose à la justice ordinaire de se coordonner avec elles en respectant leur autonomie (art. 9). Le règlement limite la conciliation à la possession, à l'usufruit de la propriété communale, aux biens et à l'usage des ressources communales (art. 13).", source: "https://www.justiciaviva.org.pe/acceso_justicia/justicia_comunal/1.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "La loi 27908 donne aux rondes un droit de participation, de contrôle et de surveillance des programmes et projets de développement mis en œuvre dans leur ressort (art. 6) et leur applique les droits des peuples autochtones « en ce qui leur correspond et les favorise » (art. 1) ; aucune obligation de consultation préalable propre aux rondes n'est inscrite.", source: "https://www.justiciaviva.org.pe/acceso_justicia/justicia_comunal/1.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La revue Ideele (n° 273) relève la participation des rondes aux conflits liés au projet minier Conga et au barrage Chadín II, des poursuites contre leurs dirigeants et 19 paysans blessés par la police le 29 novembre 2011 lors du conflit de Conga.", source: "https://revistaideele.com/ideele/content/las-rondas-campesinas-garantes-de-la-justicia-ambiental-frente-las-pol%C3%ADticas-extractivistas"}
+chronologie:
+  - {annee: 1976, evenement: "Première ronde paysanne à Cuyumalca (province de Chota, Cajamarca), le 29 décembre."}
+  - {annee: 1986, evenement: "Loi 24571 : première reconnaissance légale des rondes paysannes."}
+  - {annee: 1987, evenement: "Loi 24656 : l'assemblée d'une communauté paysanne peut constituer une ronde (art. 18 k)."}
+  - {annee: 1993, evenement: "Constitution : art. 149 sur la juridiction des communautés avec l'appui des rondes."}
+  - {annee: 2003, evenement: "Loi 27908 des rondes paysannes, qui abroge la loi 24571, puis règlement (décret suprême 025-2003-JUS) du 29 décembre."}
+  - {annee: 2017, evenement: "Recensement des communautés paysannes : 2 327 communautés déclarent une ronde."}
+fiabilite:
+  verifie: ["Article 149 de la Constitution de 1993 (texte publié par l'État).", "Articles 1 à 9 et dispositions finales de la loi 27908 (texte reproduit par Justicia Viva) : personnalité juridique, conciliation, coordination avec la justice ordinaire, abrogation de la loi 24571, 29 décembre jour des rondes.", "Articles 2, 4, 5, 7, 8, 13 et 15 du règlement approuvé par le décret suprême 025-2003-JUS (texte reproduit par Justicia Viva), dont la formation de rondes dans les hameaux hors communautés (art. 5).", "Article 18 k de la loi 24656.", "2 327 communautés paysannes dotées d'une ronde (INEI, recensement 2017, tome 1).", "Origine à Cuyumalca en 1976 et loi 24571 de novembre 1986 (O. Starn, IEP, 1991)."]
+  non_confirme: ["Nombre total de rondes inscrites aux Registres publics (SUNARP) et nombre de ronderos : la revue Ideele cite environ 250 000 ronderos et 8 000 comités sans source ni date ; non retenu.", "Accord plénier 1-2009/CJ-116 de la Cour suprême sur la juridiction des rondes : texte non consulté.", "Aucun document onusien ou régional nommant les rondes n'a été consulté.", "Liste officielle des rondes par site : aucune liste ouverte trouvée, d'où l'absence de tableau.", "Texte de la loi 27908 lu sur une reproduction (Justicia Viva) ; la copie du Congrès est un scan illisible.", "Statut personnel : l'inscription au registre des membres (padrón, règlement art. 8) relève de l'adhésion à une organisation et ne constitue pas un statut civil propre ; valeur non retenue."]
+sources:
+  - {titre: "Constitution politique du Pérou (1993) — gob.pe", url: "https://cdn.www.gob.pe/uploads/document/file/198518/Constitucion_Politica_del_Peru_1993.pdf?v=1594239946"}
+  - {titre: "Loi 27908, loi des rondes paysannes — Justicia Viva", url: "https://www.justiciaviva.org.pe/acceso_justicia/justicia_comunal/1.pdf"}
+  - {titre: "Décret suprême 025-2003-JUS, règlement de la loi des rondes paysannes — Justicia Viva", url: "https://www.justiciaviva.org.pe/acceso_justicia/justicia_comunal/2.pdf"}
+  - {titre: "Loi 24656, loi générale des communautés paysannes — ministère de la Culture", url: "https://centroderecursos.cultura.pe/sites/default/files/rb/pdf/ley%20general%20de%20comunidades%20campesinas.pdf"}
+  - {titre: "I Censo de Comunidades Campesinas 2017, tome 1 — INEI", url: "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1599/TOMO_01.pdf"}
+  - {titre: "Orin Starn, « Con los llanques todo barro » : reflexiones sobre rondas campesinas, protesta rural y nuevos movimientos sociales — IEP, 1991", url: "https://repositorio.iep.org.pe/server/api/core/bitstreams/08d7fabe-b418-43d9-a817-cb56506f1c3f/content"}
+  - {titre: "Raquel Neyra, Las rondas campesinas : garantes de la justicia ambiental — Ideele n° 273", url: "https://revistaideele.com/ideele/content/las-rondas-campesinas-garantes-de-la-justicia-ambiental-frente-las-pol%C3%ADticas-extractivistas"}
+  - {titre: "Central única nationale des rondes paysannes (CUNARC-P) — base de données des peuples autochtones, ministère de la Culture", url: "https://bdpi.cultura.gob.pe/organizaciones/central-unica-nacional-de-rondas-campesinas-del-peru-cunarc-p"}

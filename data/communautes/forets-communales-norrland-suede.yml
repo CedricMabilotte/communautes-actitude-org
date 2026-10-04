@@ -1,0 +1,54 @@
+uid: "forets-communales-norrland-suede"
+nom: "Forêts communes du Norrland et de Dalécarlie"
+endonyme: "Allmänningsskogar och besparingsskogar"
+territoire: "Forêts mises en réserve lors du remembrement (storskifte) dans les comtés de Dalécarlie et de Gävleborg, ou lors du partage des terres entre la Couronne et les paysans (avvittring) dans les comtés de Västerbotten et de Norrbotten"
+etats: ["Suède"]
+region: "europe"
+coord: [64.6, 16.7]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 33, unite: "forêts communales (allmänningsskogar et besparingsskogar) étudiées par Holmgren (Université suédoise des sciences agricoles)", annee: 2006, source: "https://pub.epsilon.slu.se/1131/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les forêts communales régies par la loi (1952:167) sur les forêts communales du Norrland et de Dalécarlie. Ces forêts ont été mises en réserve au XIXe siècle lors du remembrement (storskifte) en Dalécarlie et dans le Gävleborg, sous le nom de besparingsskogar (« forêts d'épargne »), ou lors du partage des terres entre la Couronne et les paysans (avvittring) dans le Västerbotten et le Norrbotten, sous le nom d'allmänningar (communaux). Elles appartiennent en commun aux propriétaires des immeubles pour lesquels elles ont été constituées ; la part est attachée à l'immeuble et ne peut être cédée seule. Chaque forêt est administrée par un conseil (allmänningsstyrelse) élu par l'assemblée des copropriétaires (allmänningsstämma), selon un règlement que fixe le conseil d'administration du comté (länsstyrelse, représentation de l'État dans le comté).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi (1952:167) sur les forêts communales du Norrland et de Dalécarlie (lag om allmänningsskogar i Norrland och Dalarna), en vigueur le 1er janvier 1954, modifiée en dernier lieu par la loi (2005:1210)", nature: "loi", annee: 1952, source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1952167-om-allmanningsskogar-i-norrland-och_sfs-1952-167/"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque forêt est administrée par un conseil (allmänningsstyrelse) élu par les copropriétaires, qui exerce leur pouvoir de décision hors des questions réservées à l'assemblée (allmänningsstämma) ; le règlement peut prévoir qu'un ou plusieurs membres sont nommés par le conseil d'administration du comté (§ 7). L'assemblée ordinaire se tient au moins une fois par an ; l'élection des membres du conseil et des réviseurs aux comptes n'a lieu qu'en assemblée ordinaire (§ 35) ; chaque copropriétaire vote selon sa part, et nul ne vote pour plus d'un dixième des parts représentées (§ 31 et 32).", source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1952167-om-allmanningsskogar-i-norrland-och_sfs-1952-167/"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les copropriétaires rédigent le projet de règlement (reglemente) de leur forêt ; le conseil d'administration du comté l'examine, peut le modifier et le fixe (§ 39), et peut aussi le modifier d'office après avoir entendu les copropriétaires (§ 40).", source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1952167-om-allmanningsskogar-i-norrland-och_sfs-1952-167/"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "La forêt appartient aux propriétaires des immeubles pour lesquels elle a été constituée (§ 2) ; la part ne peut être cédée qu'avec l'immeuble (§ 4). La forêt doit être maintenue sans diminution, ne peut être hypothéquée ni saisie, sauf créances privilégiées (§ 5) ; une vente de terrain exige une décision des copropriétaires et un avantage notable pour eux ou des motifs particuliers (§ 8).", source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1952167-om-allmanningsskogar-i-norrland-och_sfs-1952-167/"}
+  ressources: {valeur: "reconnu", note: "Le droit des copropriétaires sur la forêt s'exerce pour le compte commun des copropriétaires ou de la population locale (§ 6). Le revenu net peut servir à payer les impôts fonciers des immeubles copropriétaires, à soutenir l'agriculture des paroisses concernées ou à d'autres fins utiles aux copropriétaires ou à la population de ces paroisses (§ 18) ; les revenus en capital vont à l'amélioration ou à l'agrandissement de la forêt (§ 21).", source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1952167-om-allmanningsskogar-i-norrland-och_sfs-1952-167/"}
+  consentement: {valeur: "partiel", note: "Le conseil d'administration du comté doit entendre les copropriétaires avant de modifier d'office leur règlement (§ 40) ou de fixer les règles des fonds de Venjan, Lima et Transtrand (§ 7, 2e alinéa). La vente de terrains de la forêt relève de la décision des copropriétaires (§ 8), de même que l'achat de terres pour l'agrandir (§ 9) ; l'affectation d'un fonds à une autre fin exige les deux tiers des parts et l'accord du conseil d'administration du comté (§ 19). La loi mentionne l'expropriation et ses indemnités sans exiger l'accord des copropriétaires (§ 17).", source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1952167-om-allmanningsskogar-i-norrland-och_sfs-1952-167/"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les copropriétaires décident de l'usage du revenu net et peuvent le placer en fonds (§ 18 et 19), et ne sont pas tenus de financer les dépenses de la forêt sur leurs propres deniers (§ 6) ; le conseil d'administration du comté fixe les règles d'emploi des revenus en capital (§ 21) et peut fixer celles des fonds de Venjan, Lima et Transtrand (§ 7, 2e alinéa).", source: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1952167-om-allmanningsskogar-i-norrland-och_sfs-1952-167/"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Une thèse de l'Université suédoise des sciences agricoles (Holmgren, 2009) a étudié les 33 forêts communales : exploitation limitée dans celles du Västerbotten et du Norrbotten, fortes disparités entre forêts, influence directe de l'État sur leur gestion. La forêt d'épargne de Svärdsjö et Svartnäs (environ 6 000 hectares, environ 800 copropriétaires) publie ses statuts, la composition de son conseil et ses assemblées, et verse une aide aux projets locaux (bygdepeng) liée à ses revenus éoliens.", source: "https://pub.epsilon.slu.se/2173/"}
+chronologie:
+  - {annee: 1861, evenement: "Le 9 novembre, une décision royale met en réserve deux massifs forestiers pour les besoins communs des propriétaires fonciers de Svärdsjö et d'Enviken, lors du remembrement de 1849-1864."}
+  - {annee: 1868, evenement: "Élection du premier conseil de la forêt commune de Svärdsjö et Enviken."}
+  - {annee: 1938, evenement: "Loi du 17 juin (1938:297) sur les forêts communales du Norrland et de Dalécarlie."}
+  - {annee: 1952, evenement: "Adoption de la loi (1952:167) le 18 avril, qui abroge celle de 1938."}
+  - {annee: 1954, evenement: "Entrée en vigueur de la loi le 1er janvier."}
+  - {annee: 1990, evenement: "Les questions que les règlements réservaient au gouvernement passent au conseil d'administration du comté (loi 1990:91)."}
+  - {annee: 2000, evenement: "La loi (2000:231) abroge les § 10 à 16 et assouplit les règles de vente et d'achat de terres."}
+  - {annee: 2005, evenement: "Dernière modification de la loi (2005:1210)."}
+fiabilite:
+  verifie: ["Texte consolidé de la loi (1952:167) sur le site du Riksdag (parlement suédois), modifiée jusqu'à la loi (2005:1210) : § 1 à 46 et dispositions transitoires.", "Le § 2 précise que la loi ne modifie pas les droits sur la forêt reconnus par ailleurs aux Sámis.", "Historique de 1861 et 1868, surface et nombre de copropriétaires de la forêt de Svärdsjö et Svartnäs : site de cette forêt.", "Mention de « all 33 forest commons » : résumés des travaux de Holmgren (2006 et 2009) dans le dépôt de l'Université suédoise des sciences agricoles.", "Aide aux projets locaux (bygdepeng) présentée « med koppling till vår vindkraft » (liée à l'éolien) et fermage de 23 éoliennes du parc de Jädraås depuis 2013 : page éolien de la forêt de Svärdsjö et Svartnäs."]
+  non_confirme: ["Le nombre de 33 vient des résumés des travaux de Holmgren ; il n'a pas été confirmé qu'il couvre toutes les forêts d'épargne de Dalécarlie et du Gävleborg. Aucune liste officielle des forêts n'a été trouvée ; aucun tableau des sites n'est joint.", "Surface totale, nombre total de copropriétaires et population concernée : aucune source trouvée.", "Aucun document de l'ONU ou d'un organe régional visant ce régime n'a été trouvé."]
+sources:
+  - {titre: "Lag (1952:167) om allmänningsskogar i Norrland och Dalarna — Riksdagen", url: "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1952167-om-allmanningsskogar-i-norrland-och_sfs-1952-167/"}
+  - {titre: "Holmgren, « Forest commons in boreal Sweden: influences on forest condition, management and the local economy », Université suédoise des sciences agricoles, 2006", url: "https://pub.epsilon.slu.se/1131/"}
+  - {titre: "Holmgren, « Forest commons in boreal Sweden: aims and outcomes on forest condition and rural development », thèse, Université suédoise des sciences agricoles, 2009", url: "https://pub.epsilon.slu.se/2173/"}
+  - {titre: "Svärdsjö Svartnäs Besparingsskog — présentation", url: "https://www.svardsjobesparingsskog.se/"}
+  - {titre: "Svärdsjö Svartnäs Besparingsskog — historique", url: "https://www.svardsjobesparingsskog.se/om-oss/historia"}
+  - {titre: "Svärdsjö Svartnäs Besparingsskog — éolien", url: "https://www.svardsjobesparingsskog.se/verksamhet/vindkraft/"}
+  - {titre: "« Besparingsskog », Wikipédia en suédois", url: "https://sv.wikipedia.org/wiki/Besparingsskog"}

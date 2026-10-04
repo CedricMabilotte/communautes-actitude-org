@@ -1,0 +1,60 @@
+uid: "sercq"
+nom: "Sercq (Sark)"
+endonyme: ""
+territoire: "Île de Sercq et île de Brecqhou (bailliage de Guernesey)"
+etats: ["Royaume-Uni"]
+region: "europe"
+coord: [49.4, -2.4]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 562, annee: 2022, perimetre: "population résidente de Sercq au recensement du 27 avril 2022 (67 résidents absents inclus, 59 visiteurs de passage exclus)", source: "https://img1.wsimg.com/blobby/go/5ff82f30-38d7-4ae5-98f1-e93b4ee65820/downloads/ITEM%2000%20-%20P%26F%20Census%202022%20Report%20CENSUS%20REPORT.pdf?ver=1735639335352"}
+lieux: {valeur: 2, unite: "îles (Sercq et Brecqhou)", annee: 2025, source: "https://researchbriefings.files.parliament.uk/documents/CBP-8611/CBP-8611.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Sercq est l'une des trois juridictions du bailliage de Guernesey, avec Guernesey et Aurigny ; elle comprend l'île de Brecqhou. Le fief a été concédé à Helier de Carteret en 1563 et confirmé par Élisabeth Ire en 1565. Jusqu'en janvier 2009, le parlement local, les Chief Pleas (« Chefs Plaids »), réunissait le seigneur, le sénéchal (juge de l'île), les 40 tenanciers et 12 députés élus. Depuis la Reform (Sark) Law, 2008 (loi de réforme), les Chief Pleas sont composés de conseillers élus ; ils légifèrent en matière civile, tandis que les États de délibération (parlement de Guernesey) légifèrent pour Sercq en matière pénale.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Lettres patentes d'Élisabeth Ire concédant le fief de Sercq à Helier de Carteret", nature: "statut_autonomie", annee: 1565, source: "https://supremecourt.uk/uploads/uksc_2013_0155_judgment_fe5c3aa710.pdf"}
+  - {instrument: "Reform (Sark) Law, 2008 (loi de réforme : Chief Pleas élus, Cour du sénéchal)", nature: "statut_autonomie", annee: 2008, source: "https://www.guernseyroyalcourt.gg/article/3424/Parliament---The-Chief-Pleas"}
+  - {instrument: "Reform (Sark) (Amendment) (No 2) Law, 2010 (séparation des fonctions de président des Chief Pleas et de juge)", nature: "loi", annee: 2010, source: "https://supremecourt.uk/uploads/uksc_2013_0155_judgment_fe5c3aa710.pdf"}
+  - {instrument: "Direct Taxes (Sark) Law, 2002 (loi sur les impôts directs)", nature: "loi", annee: 2002, source: "https://img1.wsimg.com/blobby/go/5ff82f30-38d7-4ae5-98f1-e93b4ee65820/downloads/448c00e8-92f6-42e6-8b05-cecf625c813f/The%20Direct%20Taxes%20(Sark)%20Law%2C%202002.pdf?ver=1790844625396"}
+  - {instrument: "R (Barclay) v Secretary of State for Justice [2014] UKSC 54 (Cour suprême du Royaume-Uni)", nature: "jurisprudence", annee: 2014, source: "https://supremecourt.uk/uploads/uksc_2013_0155_judgment_fe5c3aa710.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Depuis janvier 2009, les Chief Pleas, parlement de l'île, sont composés de conseillers élus pour quatre ans (28 selon la Reform (Sark) Law, 2008) ; le seigneur y siège sans droit de vote.", source: "https://www.guernseyroyalcourt.gg/article/3424/Parliament---The-Chief-Pleas"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les Chief Pleas légifèrent en matière civile sans intervention des États de délibération de Guernesey ; le droit pénal applicable à Sercq est adopté par les États de délibération de Guernesey.", source: "https://www.guernseyroyalcourt.gg/article/3424/Parliament---The-Chief-Pleas"}
+  justice_propre: {valeur: "reconnu", note: "La Cour du sénéchal, organisée par la Reform (Sark) Law, 2008, a une compétence civile illimitée et une compétence pénale limitée (un mois d'emprisonnement, amende de niveau 4) ; appel devant la Cour royale de Guernesey.", source: "https://www.guernseyroyalcourt.gg/article/4135/Court-of-the-Seneschal"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Selon la Cour suprême du Royaume-Uni (2014), le parlement de Guernesey légifère pour Sercq en matière pénale sans consentement des Chief Pleas et dans les autres matières avec leur consentement ; le Parlement britannique garde en droit un pouvoir de légiférer sans consentement.", source: "https://supremecourt.uk/uploads/uksc_2013_0155_judgment_fe5c3aa710.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "Les Chief Pleas fixent par ordonnance un impôt foncier et un impôt sur le capital personnel, Direct Taxes (Sark) Law, 2002, art. 1 ; le tribunal fiscal de Sercq (Sark Tax Tribunal, annexe 3) tranche les litiges d'assiette.", source: "https://img1.wsimg.com/blobby/go/5ff82f30-38d7-4ae5-98f1-e93b4ee65820/downloads/448c00e8-92f6-42e6-8b05-cecf625c813f/The%20Direct%20Taxes%20(Sark)%20Law%2C%202002.pdf?ver=1790844625396"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "La Cour suprême du Royaume-Uni décrit en 2014 les Chief Pleas comme législateur et exécutif de l'île et la Cour du sénéchal comme juridiction de première instance ; elle a jugé que les tribunaux du Royaume-Uni ont en principe compétence pour contrôler l'ordre en conseil qui donne la sanction royale à une loi de Sercq, mais qu'ils ne devaient pas l'exercer dans cette affaire, le contrôle relevant des tribunaux des îles.", source: "https://supremecourt.uk/uploads/uksc_2013_0155_judgment_fe5c3aa710.pdf"}
+chronologie:
+  - {annee: 1565, evenement: "Élisabeth Ire confirme la concession du fief de Sercq à Helier de Carteret, accordée en 1563, avec l'obligation d'entretenir 40 hommes armés."}
+  - {annee: 1675, evenement: "La Couronne crée la charge de sénéchal, juge de l'île."}
+  - {annee: 1922, evenement: "Douze députés élus rejoignent les Chief Pleas, jusque-là composés du seigneur, du sénéchal et des 40 tenanciers."}
+  - {annee: 2008, evenement: "La Reform (Sark) Law, 2008, adoptée par les Chief Pleas en 2006, reçoit la sanction royale."}
+  - {annee: 2009, evenement: "En janvier, les tenanciers et les députés perdent leurs sièges au profit des conseillers élus."}
+  - {annee: 2010, evenement: "Après un arrêt de la Cour d'appel d'Angleterre (2008) sur la Convention européenne des droits de l'homme, une loi sépare la présidence des Chief Pleas de la fonction de juge du sénéchal ; elle reçoit la sanction royale le 12 octobre 2011."}
+  - {annee: 2014, evenement: "Arrêt R (Barclay) v Secretary of State for Justice de la Cour suprême du Royaume-Uni sur le contrôle des lois de Sercq."}
+  - {annee: 2022, evenement: "Premier recensement propre à l'île depuis cinquante ans : 562 résidents."}
+fiabilite:
+  verifie: ["Compétence civile des Chief Pleas et compétence pénale des États de délibération (Cour royale de Guernesey).", "Composition antérieure (seigneur, sénéchal, 40 tenanciers, 12 députés) et réforme de 2008 (Cour royale ; Cour suprême, 2014, § 22).", "Compétences de la Cour du sénéchal et voies d'appel (Cour royale de Guernesey ; Cour suprême, 2014, § 20).", "Séparation des rôles du sénéchal par la loi de 2010 (Cour suprême, 2014, § 24).", "Sercq comprend Brecqhou et forme une juridiction distincte au sein du bailliage (Bibliothèque de la Chambre des communes, CBP-8611).", "Population résidente de 562 au 27 avril 2022 (rapport de recensement des Chief Pleas).", "Impôt foncier, impôt sur le capital personnel et tribunal fiscal (Direct Taxes (Sark) Law, 2002, texte consolidé publié par les Chief Pleas, art. 1 et annexe 3).", "Lettres patentes de 1565 et création de la charge de sénéchal en 1675 (Cour suprême, 2014, § 19-20)."]
+  non_confirme: ["Le texte consolidé de la Reform (Sark) Law, 2008 n'a pas pu être ouvert ; la liste des conseillers publiée par les Chief Pleas en 2026 compte 18 sièges (17 noms et un siège vacant) contre 28 prévus en 2008, sans que le texte modificatif ait été trouvé.", "Date de création de la charge de sénéchal : la Cour suprême indique 1675 ; la Cour royale de Guernesey mentionne un ordre en conseil de 1672 confiant sa nomination à la Cour royale, puis de 1685 la confiant au seigneur.", "Surface de l'île : aucune valeur officielle ouverte.", "Statut du français et du sercquiais dans les institutions non vérifié sur un texte.", "Compétence des Chief Pleas en matière d'éducation (un comité de l'éducation figure sur la liste officielle) non vérifiée sur un texte.", "Régime foncier des 40 tenements et droits du seigneur après 2008 non vérifiés sur un texte en vigueur."]
+sources:
+  - {titre: "Parliament — The Chief Pleas — Cour royale de Guernesey", url: "https://www.guernseyroyalcourt.gg/article/3424/Parliament---The-Chief-Pleas"}
+  - {titre: "Court of the Seneschal — Cour royale de Guernesey", url: "https://www.guernseyroyalcourt.gg/article/4135/Court-of-the-Seneschal"}
+  - {titre: "Historic Review — Cour royale de Guernesey", url: "https://www.guernseyroyalcourt.gg/article/1957/Historic-Review"}
+  - {titre: "The Crown Dependencies (CBP-8611) — Bibliothèque de la Chambre des communes", url: "https://researchbriefings.files.parliament.uk/documents/CBP-8611/CBP-8611.pdf"}
+  - {titre: "R (Barclay) v Secretary of State for Justice [2014] UKSC 54 — Cour suprême du Royaume-Uni", url: "https://supremecourt.uk/uploads/uksc_2013_0155_judgment_fe5c3aa710.pdf"}
+  - {titre: "Report on the 2022 Sark Census — Chief Pleas", url: "https://img1.wsimg.com/blobby/go/5ff82f30-38d7-4ae5-98f1-e93b4ee65820/downloads/ITEM%2000%20-%20P%26F%20Census%202022%20Report%20CENSUS%20REPORT.pdf?ver=1735639335352"}
+  - {titre: "Conseillers & Committees — Chief Pleas de Sercq", url: "https://sarkgov.co.uk/conseillers-%26-committees-1"}
+  - {titre: "Tax Reform — Chief Pleas de Sercq", url: "https://sarkgov.co.uk/tax-reform"}
+  - {titre: "The Direct Taxes (Sark) Law, 2002, texte consolidé — Chief Pleas de Sercq", url: "https://img1.wsimg.com/blobby/go/5ff82f30-38d7-4ae5-98f1-e93b4ee65820/downloads/448c00e8-92f6-42e6-8b05-cecf625c813f/The%20Direct%20Taxes%20(Sark)%20Law%2C%202002.pdf?ver=1790844625396"}

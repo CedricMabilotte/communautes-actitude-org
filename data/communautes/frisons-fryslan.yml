@@ -1,0 +1,54 @@
+uid: "frisons-fryslan"
+nom: "Frisons de Fryslân"
+endonyme: "Friezen"
+territoire: "Province de Fryslân (Frise), nord des Pays-Bas"
+etats: ["Pays-Bas"]
+region: "europe"
+coord: [53.1, 5.8]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 665208, annee: 2026, perimetre: "habitants de la province de Fryslân, tous groupes confondus (aucun recensement ethnique aux Pays-Bas)", source: "https://allecijfers.nl/provincie/fryslan/"}
+lieux: {valeur: 18, unite: "communes (gemeenten) de la province", annee: 2026, source: "https://allecijfers.nl/provincie/fryslan/"}
+surface_km2: {valeur: 3340, annee: 2025, perimetre: "surface terrestre de la province (334 011 ha) ; 5 753 km² eaux comprises", source: "https://allecijfers.nl/provincie/fryslan/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Frisons sont la seule minorité nationale à laquelle les Pays-Bas appliquent la Convention-cadre du Conseil de l'Europe, ratifiée en 2005. La loi sur l'usage de la langue frisonne (Wet gebruik Friese taal), en vigueur depuis le 1er janvier 2014, fait du frison et du néerlandais les deux langues officielles de la province de Fryslân. Toute personne peut employer le frison avec les administrations établies dans la province et, si elle y réside, devant le tribunal de Noord-Nederland et la cour d'appel d'Arnhem-Leeuwarden. L'État et la province concluent des accords administratifs périodiques sur la langue et la culture frisonnes ; l'assemblée provinciale fixe, sous réserve d'approbation du ministre, les objectifs d'enseignement du frison à l'école primaire.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Convention-cadre ratifiée le 16 février 2005, en vigueur le 1er juin 2005. Quatrième avis du Comité consultatif (adopté le 3 avril 2023) : les autorités appliquent la Convention exclusivement aux personnes appartenant à la minorité nationale frisonne de la province de Fryslân (§ 8 et § 29).", annee: 2023, source: "https://rm.coe.int/4th-op-netherlands-en/1680ac509f"}
+  - {mecanisme: "charte_langues_regionales", detail: "Charte européenne des langues régionales ou minoritaires en vigueur pour les Pays-Bas depuis le 1er mars 1998 ; le frison relève de la partie III. Sixième rapport périodique des Pays-Bas (2015-2018), juin 2019.", annee: 2019, source: "https://rm.coe.int/netherlandspr6-nl/1680950079"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi sur l'usage de la langue frisonne (Wet gebruik Friese taal), BWBR0034047, en vigueur le 1er janvier 2014", nature: "loi", annee: 2014, source: "https://wetten.overheid.nl/BWBR0034047/"}
+  - {instrument: "Loi sur l'enseignement primaire (Wet op het primair onderwijs), art. 9, al. 8, 9 et 16 ; compétence provinciale sur les objectifs d'enseignement du frison depuis 2014", nature: "loi", annee: 2014, source: "https://wetten.overheid.nl/BWBR0003420/"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "Le néerlandais et le frison sont les langues officielles de la province de Fryslân (Wet gebruik Friese taal, art. 2) ; toute personne peut employer le frison avec les administrations établies dans la province (art. 3) et, si elle réside dans la province, à l'audience du tribunal de Noord-Nederland et de la cour d'appel d'Arnhem-Leeuwarden (art. 11) ; un Organe pour la langue frisonne de cinq membres, établi à Leeuwarden, promeut l'égalité des deux langues (art. 18 à 20).", source: "https://wetten.overheid.nl/BWBR0034047/"}
+  education: {valeur: "partiel", note: "Les écoles primaires de la province enseignent aussi le frison ; les États provinciaux (Provinciale Staten, assemblée de la province) fixent par règlement les objectifs fondamentaux (kerndoelen) du frison, sous réserve d'approbation du ministre, et la députation provinciale accorde les dérogations ; le frison peut servir de langue d'enseignement, Wet op het primair onderwijs, art. 9, al. 8, 9 et 16.", source: "https://wetten.overheid.nl/BWBR0003420/"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité consultatif de la Convention-cadre relève en 2023 un manque persistant d'enseignants qualifiés et un enseignement du frison limité, dans la plupart des cas, à la première année du secondaire (§ 11), des difficultés dans les procédures pénales faute de juges, greffiers et procureurs maîtrisant le frison et d'interprètes (§ 12), et une radiodiffusion publique en frison qui n'est garantie ni par la loi sur les médias ni par la loi sur l'usage du frison, ce qui fragilise le diffuseur régional Omrop Fryslân (§ 13).", source: "https://rm.coe.int/4th-op-netherlands-en/1680ac509f"}
+chronologie:
+  - {annee: 1995, evenement: "Les Pays-Bas signent la Convention-cadre pour la protection des minorités nationales (1er février)."}
+  - {annee: 1998, evenement: "La Charte européenne des langues régionales ou minoritaires entre en vigueur pour les Pays-Bas (1er mars), le frison relevant de la partie III."}
+  - {annee: 2005, evenement: "Ratification de la Convention-cadre (16 février), en vigueur le 1er juin ; elle est appliquée aux Frisons."}
+  - {annee: 2014, evenement: "Entrée en vigueur de la loi sur l'usage de la langue frisonne (1er janvier) ; la province reçoit la compétence de fixer les objectifs d'enseignement du frison."}
+  - {annee: 2019, evenement: "Entrée en vigueur de l'accord administratif État-province sur la langue et la culture frisonnes 2019-2023 (1er janvier)."}
+  - {annee: 2023, evenement: "Quatrième avis du Comité consultatif de la Convention-cadre sur les Pays-Bas (3 avril)."}
+fiabilite:
+  verifie: ["Wet gebruik Friese taal, art. 2, 2a, 3, 5, 11, 18 à 20 (wetten.overheid.nl, version en vigueur depuis le 1er janvier 2024).", "Wet op het primair onderwijs, art. 9, al. 8, 9 et 16 (wetten.overheid.nl).", "Dates de signature, ratification et entrée en vigueur de la Convention-cadre (page Pays-Bas du Conseil de l'Europe).", "Quatrième avis du Comité consultatif sur les Pays-Bas, § 8, 11 à 13 et 29.", "Sixième rapport des Pays-Bas sur la Charte : entrée en vigueur de la loi au 1er janvier 2014, compétence provinciale sur les objectifs d'enseignement depuis 2014, accord 2019-2023."]
+  non_confirme: ["Population, nombre de communes et surface : agrégateur indépendant reprenant les données du CBS, sans consultation directe de StatLine.", "Nombre de locuteurs : le sixième rapport sur la Charte cite l'atlas linguistique de 2015 (85 % des habitants comprennent bien le frison, près de 70 % le parlent bien) ; non repris en chiffre de population.", "Accord administratif postérieur à 2023 : non consulté.", "Endonyme « Friezen » : forme néerlandaise et frisonne usuelle, non vérifiée sur une source frisonne.", "Nombre de villages et localités de la province : aucune source officielle ouverte.", "Législation antérieure à 2014 sur l'usage du frison en justice et dans l'administration : non consultée."]
+sources:
+  - {titre: "Wet gebruik Friese taal — wetten.overheid.nl", url: "https://wetten.overheid.nl/BWBR0034047/"}
+  - {titre: "Wet op het primair onderwijs — wetten.overheid.nl", url: "https://wetten.overheid.nl/BWBR0003420/"}
+  - {titre: "Fourth Opinion on the Netherlands — Comité consultatif de la Convention-cadre, Conseil de l'Europe (2023)", url: "https://rm.coe.int/4th-op-netherlands-en/1680ac509f"}
+  - {titre: "Zesde rapportage van Nederland, Charte européenne des langues régionales ou minoritaires (2019)", url: "https://rm.coe.int/netherlandspr6-nl/1680950079"}
+  - {titre: "Netherlands — Convention-cadre pour la protection des minorités nationales, Conseil de l'Europe", url: "https://www.coe.int/en/web/minorities/netherlands"}
+  - {titre: "Provincie Fryslân — AlleCijfers.nl (données CBS)", url: "https://allecijfers.nl/provincie/fryslan/"}

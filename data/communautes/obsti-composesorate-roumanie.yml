@@ -1,0 +1,63 @@
+uid: "obsti-composesorate-roumanie"
+nom: "Obști et composesorate de Roumanie"
+endonyme: "Obști și composesorate"
+territoire: "Carpates roumaines : Valachie, Moldavie et Transylvanie (dont les départements de Brașov, Sibiu, Covasna, Harghita, Hunedoara, Arad, Sălaj, Maramureș et Bihor)"
+etats: ["Roumanie"]
+region: "europe"
+coord: [45.9, 25.0]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 400000, annee: 2017, perimetre: "membres ayants droit des communs forestiers et pastoraux (« plus de 400 000 »), estimation de l'auteur à partir d'enquêtes menées en 2016-2017 dans 330 communs ; environ 30 % en moyenne ont quitté les villages", source: "https://thecommonsjournal.org/articles/10.18352/ijc.805"}
+lieux: {valeur: 1500, unite: "communs forestiers et pastoraux (obști, composesorate et autres formes associatives), chiffre arrondi « environ 1 500 »", annee: 2018, source: "https://thecommonsjournal.org/articles/10.18352/ijc.805"}
+surface_km2: {valeur: 8730, annee: 2014, perimetre: "forêts seulement (873 000 ha, 14 % de la surface forestière du pays), chiffre de la Cour des comptes de Roumanie (2014) repris par Vasile (2018) ; le ministère des Forêts donne 788 694 ha pour 2015 ; s'y ajoutent environ 3 300 km² de pâturages, estimation de la même source (environ 3 000 km² selon Sorea et al., 2022)", source: "https://thecommonsjournal.org/articles/10.18352/ijc.805"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les obști (communautés de copropriétaires de forêts et de pâturages : obști de moșneni en Valachie, obști de răzeși en Moldavie) et les composesorate (leur équivalent en Transylvanie) sont des propriétés communes de villages, détenues en indivision par des ayants droit qui en héritent des parts. Formalisées au XIXe siècle et par le Code forestier de 1910, elles ont été placées sous propriété d'État de 1948 à 1989. La loi n° 1/2000 leur restitue leurs forêts et pâturages sous un seul titre de propriété, leur rend la personnalité juridique sur décision du tribunal et interdit toute aliénation des terres comme des parts hors de l'association. Le Code forestier de 2024 (loi n° 331/2024) les qualifie de personnes morales dont la propriété est « garantie, indivisible et inaliénable ». Selon une estimation publiée en 2018, environ 1 500 communs détiennent 873 000 ha de forêts, gérées sous le régime forestier de l'État.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi n° 1/2000 sur la reconstitution du droit de propriété sur les terres agricoles et forestières, art. 26 à 28 (restitution aux formes associatives : obști de moșneni, obști de răzeși, composesorate, forêts des anciens régiments frontaliers, forêts urbariales), modifiée par l'ordonnance d'urgence n° 102/2001", nature: "loi", annee: 2000, source: "https://legeaz.net/legea-1-2000/art-28"}
+  - {instrument: "Loi n° 247/2005 sur la réforme dans les domaines de la propriété et de la justice (restitution intégrale des surfaces aux formes associatives, art. 26 al. 2 de la loi n° 1/2000 modifié)", nature: "loi", annee: 2005, source: "https://legeaz.net/legea-1-2000/art-26"}
+  - {instrument: "Loi n° 331/2024 portant Code forestier, art. 8 (formes associatives spéciales de propriété du fonds forestier), publiée au Monitorul Oficial n° 7 du 9 janvier 2025 ; abroge le Code forestier de 2008 (loi n° 46/2008)", nature: "loi", annee: 2024, source: "https://legeaz.net/monitorul-oficial-7-2025/codul-silvic"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les ayants droit se reconstituent dans leurs formes associatives d'origine ; un comité ad hoc présente au tribunal un statut fixant les organes de direction, et la décision du tribunal rend à l'association sa personnalité juridique (loi n° 1/2000, art. 28 al. 1 à 4) ; le Code forestier de 2024 les déclare personnes morales et impose de notifier au district forestier (ocol silvic) tout changement des organes de représentation (art. 8 al. 1 et 3). L'assemblée générale des membres décide, avec un conseil de cinq membres, un président et une commission de contrôle (Sorea et al., 2022). Limite : la gestion forestière relève d'un district forestier sous contrat obligatoire.", source: "https://legeaz.net/legea-1-2000/art-28"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'administration et l'exploitation des forêts restituées se font selon les statuts des formes associatives admis par le droit roumain entre 1921 et 1946, dans la mesure où ils ne contredisent pas la législation en vigueur (loi n° 1/2000, art. 27) ; le statut fixe les droits et obligations des membres, les responsabilités et les sanctions (art. 28 al. 3). Ces statuts n'obligent que les membres.", source: "https://legeaz.net/legea-1-2000/art-27"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Un seul titre de propriété au nom de l'obște ou du composesorat et restitution de toute la surface détenue avant 1948 (loi n° 1/2000, art. 26 al. 1 et 2, version issue de la loi n° 247/2005) ; les forêts restent en propriété indivise, les membres ne peuvent céder leurs parts à des personnes extérieures et les terres ne peuvent être aliénées en aucune manière (art. 28 al. 5 à 7) ; le Code forestier de 2024 qualifie cette propriété de « garantie, indivisible et inaliénable » (art. 8 al. 2). En cas de dissolution, les terres passent dans la propriété publique des conseils locaux du lieu (art. 28 al. 8).", source: "https://legeaz.net/legea-1-2000/art-28"}
+  ressources: {valeur: "partiel", note: "L'association, propriétaire privé de forêts, récolte le bois selon le plan d'aménagement forestier (amenajament silvic), obligatoire au-delà de 10 ha (Code forestier de 2024, art. 23 al. 2, art. 25 al. 2 et art. 63) ; elle doit conclure un contrat avec un district forestier (ocol silvic) : garde et services minimaux dans tous les cas, administration ou services techniques pour exercer ses droits de récolte (art. 26 al. 1 à 3), et respecter le régime forestier (art. 23 al. 1).", source: "https://legeaz.net/monitorul-oficial-7-2025/codul-silvic"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon M. Vasile (International Journal of the Commons, 2018), environ 1 500 communs ont été reconstitués après 2000 ; sur 40 communs du département de Hunedoara interrogés en 2016, 67 % avaient des procès liés à la restitution et 20 % n'avaient pu récupérer de grandes surfaces réclamées ; les communs de moins de 100 ha ne peuvent obtenir de plan d'aménagement propre. Sorea et al. (2022) relèvent que plus de la moitié des communs étaient en procès avec des autorités en 2018, le coût des plans d'aménagement et des contrats obligatoires avec les districts forestiers, la dispersion des droits par héritage qui gêne la participation aux assemblées, et l'éviction des jeunes des décisions.", source: "https://thecommonsjournal.org/articles/10.18352/ijc.805"}
+chronologie:
+  - {annee: 1871, evenement: "En Transylvanie austro-hongroise, la loi 53/1871 répartit les communs en quotes-parts indivises par foyer."}
+  - {annee: 1910, evenement: "Le Code forestier roumain formalise les droits sur les communs de Valachie et reconnaît les communautés d'ayants droit comme personnes morales."}
+  - {annee: 1948, evenement: "Les forêts et pâturages communs passent sous propriété et gestion de l'État."}
+  - {annee: 2000, evenement: "La loi n° 1/2000 restitue les forêts aux formes associatives et leur rend la personnalité juridique."}
+  - {annee: 2001, evenement: "L'ordonnance d'urgence n° 102/2001 limite les demandes à 20 ha par ayant droit."}
+  - {annee: 2005, evenement: "La loi n° 247/2005 prévoit la restitution intégrale des surfaces."}
+  - {annee: 2008, evenement: "Adoption du Code forestier (loi n° 46/2008)."}
+  - {annee: 2025, evenement: "Le nouveau Code forestier (loi n° 331/2024), publié le 9 janvier, abroge celui de 2008 et qualifie la propriété des formes associatives de garantie, indivisible et inaliénable (art. 8)."}
+fiabilite:
+  verifie:
+    - "Loi n° 1/2000, art. 26, 27 et 28, lus dans la version consolidée de legeaz.net (modifications de l'ordonnance d'urgence n° 102/2001 et de la loi n° 247/2005) : titre de propriété commun, restitution intégrale, statut, personnalité juridique par décision du tribunal, indivision, interdiction d'aliéner terres et parts, retour à la commune en cas de dissolution."
+    - "Loi n° 331/2024 portant Code forestier (Monitorul Oficial n° 7 du 9 janvier 2025), art. 8, 23, 25, 26, 63 et 167 (abrogation de la loi n° 46/2008), lus sur legeaz.net."
+    - "Vasile (2018) : environ 1 500 communs, 873 000 ha de forêts (14 % du pays), environ 330 000 ha de pâturages (estimation), plus de 400 000 ayants droit (estimation) ; enquête 2015-2017 sur 330 communs ; 40 communs de Hunedoara interrogés en 2016 ; chiffre forestier tiré d'un rapport de la Cour des comptes de 2014."
+    - "Sorea, Roșculeț et Rățulea (2022) : 873 000 ha, environ 300 000 ha de pâturages, organes (assemblée générale, conseil de cinq membres, président élu parmi eux, commission de contrôle de trois membres), plus de la moitié des communs en procès en 2018, départements concernés (Arad, Hunedoara, Brașov, Sibiu, Covasna, Harghita, Sălaj, Maramureș, Bihor)."
+  non_confirme:
+    - "Site officiel legislatie.just.ro inaccessible : textes lus sur un site de consolidation privé ; la version de la loi n° 1/2000 n'intègre que les modifications de 2001 et 2005 (le Code de 2024 renvoie à l'art. 27 pour l'inaliénabilité, que cette version place à l'art. 28)."
+    - "Date d'entrée en vigueur du Code forestier de 2024 non vérifiée. Contenu du Code forestier de 2008 sur les formes associatives non vérifié."
+    - "Nombre de composesorate dans les départements de Harghita et Covasna : aucune source chiffrée consultée. Aucune liste officielle des communs trouvée : pas de tableau des sites."
+    - "Aucun document de l'ONU (CDB, registre APAC) ni du Conseil de l'Europe visant nommément ce régime n'a été consulté."
+sources:
+  - {titre: "Loi n° 1/2000, art. 26 — legeaz.net", url: "https://legeaz.net/legea-1-2000/art-26"}
+  - {titre: "Loi n° 1/2000, art. 27 — legeaz.net", url: "https://legeaz.net/legea-1-2000/art-27"}
+  - {titre: "Loi n° 1/2000, art. 28 — legeaz.net", url: "https://legeaz.net/legea-1-2000/art-28"}
+  - {titre: "Loi n° 331/2024 portant Code forestier (Monitorul Oficial n° 7/2025) — legeaz.net", url: "https://legeaz.net/monitorul-oficial-7-2025/codul-silvic"}
+  - {titre: "M. Vasile, « Formalizing commons, registering rights », International Journal of the Commons, 12(1), 2018", url: "https://thecommonsjournal.org/articles/10.18352/ijc.805"}
+  - {titre: "D. Sorea, G. Roșculeț, G. G. Rățulea, « The Compossessorates in the Olt Land (Romania) as Sustainable Commons », Land, 11(2), 292, 2022", url: "https://www.mdpi.com/2073-445X/11/2/292"}

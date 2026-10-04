@@ -1,0 +1,56 @@
+uid: "kalinago-dominique"
+nom: "Kalinago du territoire kalinago"
+endonyme: "Kalinago"
+territoire: "Territoire kalinago (ancienne Carib Reserve), paroisse de Saint-David, côte atlantique de la Dominique"
+etats: ["Dominique"]
+region: "ameriques"
+coord: [15.5, -61.3]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2112, annee: 2011, perimetre: "habitants du territoire kalinago (recensement de 2011, cité par le plan pour les peuples autochtones de la Banque mondiale)", source: "https://documents1.worldbank.org/curated/en/728761557895947404/pdf/Dominica-Housing-Recovery-Project-Indigenous-Peoples-Plan.pdf"}
+lieux: {valeur: 1, unite: "territoire détenu en commun par le Conseil kalinago", annee: 2021, source: "https://documents1.worldbank.org/curated/en/728761557895947404/pdf/Dominica-Housing-Recovery-Project-Indigenous-Peoples-Plan.pdf"}
+surface_km2: {valeur: 15.3, annee: 2021, perimetre: "territoire kalinago, 3 782,03 acres convertis en km² ; la loi de 1978 indique « 3 700 acres plus ou moins »", source: "https://documents1.worldbank.org/curated/en/728761557895947404/pdf/Dominica-Housing-Recovery-Project-Indigenous-Peoples-Plan.pdf"}
+villages: {valeur: 8, annee: 2021, perimetre: "hameaux du territoire : Sineku, Gaulette River, Mahaut River, St. Cyr, Salybia, Crayfish River, Battaca (Bataka), Touna Concorde", source: "https://documents1.worldbank.org/curated/en/728761557895947404/pdf/Dominica-Housing-Recovery-Project-Indigenous-Peoples-Plan.pdf"}
+resume: >-
+  Les Kalinago vivent sur un territoire de 3 782 acres (environ 15 km²) de la côte atlantique de la Dominique, délimité en 1903 par l'administration coloniale. La loi n° 22 de 1978 (Carib Reserve Act, chapitre 25:90) crée un conseil élu, composé d'un chef et de six membres, qui détient les terres au nom des habitants, les attribue et peut lever une taxe foncière. Les terres ne peuvent être vendues, échangées ni hypothéquées sans approbation gouvernementale, et les non-résidents ne peuvent pas en acquérir. Un amendement du 12 mars 2015 remplace l'appellation « Carib Reserve » par « Kalinago Territory ».
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La Dominique ratifie la Convention n° 169 de l'OIT le 25 juin 2002 (entrée en vigueur le 25 juin 2003).", annee: 2002, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "La Dominique vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Carib Reserve Act, loi n° 22 de 1978 (chapitre 25:90 des lois de la Dominique), modifiée en 1980, 1984 et 1990", nature: "loi", annee: 1978, source: "https://faolex.fao.org/docs/pdf/dmi86947.pdf"}
+  - {instrument: "Amendement du 12 mars 2015 renommant la loi Kalinago Territory Act", nature: "loi", annee: 2015, source: "https://documents1.worldbank.org/curated/en/728761557895947404/pdf/Dominica-Housing-Recovery-Project-Indigenous-Peoples-Plan.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Conseil de sept membres élus (le chef et six conseillers), personne morale et organe de gouvernement local du territoire (art. 3 et 14 de la loi de 1978) ; mandat d'environ cinq ans (art. 52) ; le ministre peut dissoudre le Conseil par arrêté avant chaque élection générale (art. 14(5)) ou en cas de manquement persistant ou d'abus de pouvoir (art. 91).", source: "https://faolex.fao.org/docs/pdf/dmi86947.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le Conseil adopte des règlements (by-laws) applicables dans le territoire, notamment sur l'occupation et l'usage des terres (art. 29) ; ils n'entrent en vigueur qu'après approbation du Cabinet et le ministre peut les faire révoquer.", source: "https://faolex.fao.org/docs/pdf/dmi86947.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Les terres sont concédées au Conseil « pour et au nom des habitants » (art. 43), qui en a la garde et les attribue aux résidents (art. 47) ; vente, échange ou hypothèque soumis à approbation gouvernementale (art. 45) ; les non-résidents ne peuvent pas en acquérir (art. 46). Le gouvernement garde la responsabilité de l'aménagement (art. 48).", source: "https://faolex.fao.org/docs/pdf/dmi86947.pdf"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le Conseil fixe deux fois par an une taxe sur les terres et les maisons plafonnée à 1 % (art. 104) et perçoit redevances et amendes versées au fonds du territoire (art. 29 et 94) ; l'extension de la taxe hors du territoire exige l'accord du ministre (art. 104) et les redevances fixées par règlement suivent l'approbation du Cabinet (art. 29).", source: "https://faolex.fao.org/docs/pdf/dmi86947.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Droit de résidence dans le territoire pour toute personne qui y est née, dont au moins un parent est kalinago, ou qui y réside légalement depuis douze ans (art. 51) ; le Conseil peut interdire aux non-résidents d'y travailler ou d'y cultiver des terres (art. 49).", source: "https://faolex.fao.org/docs/pdf/dmi86947.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Minority Rights Group décrit un chef et un conseil de six membres élus pour cinq ans par les résidents de plus de 18 ans, des permis de construire délivrés par le Conseil, et des empiètements d'agriculteurs là où les limites fixées en 1903 ne sont toujours pas tracées sur le terrain ; en 2021, le plan pour les peuples autochtones de la Banque mondiale décrit le Conseil comme seul responsable de l'attribution des terres.", source: "https://minorityrights.org/communities/caribs/"}
+chronologie:
+  - {annee: 1903, evenement: "L'administration coloniale britannique délimite la Carib Reserve (avis officiel du 4 juillet 1903)."}
+  - {annee: 1978, evenement: "Loi n° 22 de 1978 (Carib Reserve Act) : création du Conseil élu et concession des terres au Conseil (entrée en vigueur le 30 mars)."}
+  - {annee: 1989, evenement: "Arrêté de dissolution du Conseil pris en vertu de l'article 14(5) de la loi (S.R.O. 26/1989)."}
+  - {annee: 1994, evenement: "Nouvel arrêté de dissolution du Conseil (S.R.O. 37/1994) ; le président et le secrétaire sortants exercent les pouvoirs du Conseil jusqu'à l'élection suivante."}
+  - {annee: 2002, evenement: "Ratification de la Convention n° 169 de l'OIT par la Dominique."}
+  - {annee: 2007, evenement: "La Dominique vote pour la Déclaration des Nations unies sur les droits des peuples autochtones."}
+  - {annee: 2015, evenement: "Amendement du 12 mars : la loi devient Kalinago Territory Act."}
+fiabilite:
+  verifie: ["Composition du Conseil, concession des terres, restrictions foncières, règlements, taxe foncière et droit de résidence : texte consolidé de la loi (chapitre 25:90, version 1991, copie FAOLEX), articles 3, 14, 29, 41 à 52, 91, 94 et 104.", "Population de 2011, surface de 3 782,03 acres et liste des huit hameaux : plan pour les peuples autochtones de la Banque mondiale (révision 3, février 2021).", "Ratification de la Convention n° 169 (25 juin 2002) et vote « oui » de la Dominique sur la résolution 61/295 : sources des Nations unies.", "Dissolution de 1994 (S.R.O. 37/1994) : notice ECOLEX."]
+  non_confirme: ["Texte de l'amendement du 12 mars 2015 : non consulté directement, date reprise du document de la Banque mondiale.", "Article 45 partiellement illisible dans la copie numérisée : l'autorité qui approuve les cessions de terres n'a pas pu être lue avec certitude.", "Minority Rights Group avance environ 4 000 Kalinago dans le pays (page pays) et environ 3 400 habitants du territoire (page communauté), chiffres non datés qui diffèrent du recensement de 2011.", "Le plan de la Banque mondiale donne 2 112 habitants, mais sa ventilation par sexe (1 209 hommes, 948 femmes) totalise 2 157.", "Motif des dissolutions de 1989 et 1994 (renouvellement électoral ou sanction) non établi."]
+sources:
+  - {titre: "Carib Reserve Act, chapitre 25:90, version consolidée de 1991 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/dmi86947.pdf"}
+  - {titre: "Dominica Housing Recovery Project — Indigenous Peoples Plan, Banque mondiale, révision 2021", url: "https://documents1.worldbank.org/curated/en/728761557895947404/pdf/Dominica-Housing-Recovery-Project-Indigenous-Peoples-Plan.pdf"}
+  - {titre: "Dominica — Minority Rights Group", url: "https://minorityrights.org/country/dominica/"}
+  - {titre: "Caribs in Dominica — Minority Rights Group", url: "https://minorityrights.org/communities/caribs/"}
+  - {titre: "Carib Reserve Council (Dissolution) Order, S.R.O. 37/1994 — ECOLEX", url: "https://www.ecolex.org/details/legislation/carib-reserve-council-dissolution-order-sro-no-37-of-1994-lex-faoc086950/"}
+  - {titre: "Convention n° 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

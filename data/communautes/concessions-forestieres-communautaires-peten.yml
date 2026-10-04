@@ -1,0 +1,75 @@
+uid: "concessions-forestieres-communautaires-peten"
+nom: "Concessions forestières communautaires de la réserve de biosphère maya"
+endonyme: ""
+territoire: "Zone à usages multiples (Zona de Usos Múltiples) de la réserve de biosphère maya, département du Petén"
+etats: ["Guatemala"]
+region: "ameriques"
+coord: [17.4, -89.8]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 10000, annee: 2021, perimetre: "bénéficiaires directs des concessions, ordre de grandeur donné lors de la remise des prorogations (« cerca de 10,000 beneficiarios directos », 50 000 bénéficiaires indirects)", source: "https://www.alianzamesoamericana.org/concesiones-comunitarias-de-peten-firman-prorroga-de-25-anos-y-adjudicacion-de-dos-nuevas-unidades-de-manejo/"}
+lieux: {valeur: 11, unite: "concessions communautaires sous contrat en août 2022 (9 actives et 2 nouveaux contrats de 30 ans), sur 13 concessions de la zone à usages multiples (les 2 autres sont industrielles)", annee: 2022, source: "https://agn.gt/impulsan-modelo-de-manejo-forestal-sostenible-en-la-reserva-de-la-biosfera-maya-en-peten/"}
+surface_km2: {valeur: 4008, annee: 2019, perimetre: "12 unités de gestion attribuées à des communautés de 1994 à 2002 (400 829 ha), y compris les 3 dont le contrat a été annulé ou suspendu ; sans les 2 unités attribuées en 2022 (71 000 ha)", source: "https://acofop.org/wp-content/uploads/2026/07/1-Conservacion-y-desarrollo-basado-en-la.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les organisations communautaires à qui le Conseil national des aires protégées (CONAP) attribue par contrat une unité de gestion forestière dans la zone à usages multiples de la réserve de biosphère maya, au nord du Guatemala. La loi sur les aires protégées (décret 4-89, art. 19) autorise le CONAP à accorder des concessions d'exploitation ; la réserve est créée par le décret 5-90 et les « Normes d'octroi des concessions » de 1998 fixent la procédure, les droits et les obligations. La concession donne un droit exclusif d'exploitation du bois et des produits forestiers non ligneux, pour la durée fixée au contrat (25 ans pour les premiers contrats, 30 ans pour ceux de 2022), selon un plan de gestion approuvé par le CONAP ; la terre reste propriété de l'État et ne peut être acquise par le concessionnaire. De 1994 à 2002, 12 concessions communautaires et 2 concessions industrielles ont été attribuées ; trois contrats communautaires ont été suspendus ou annulés en 2009, huit ont été prorogés de 25 ans en 2021 et 2022, et deux nouvelles unités ont été concédées en 2022.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "accord_sous_egide", detail: "Accord sur les aspects socio-économiques et la situation agraire du 6 mai 1996, conclu dans le processus de paix guatémaltèque sous médiation et vérification de l'ONU (MINUGUA) et transmis par le Secrétaire général (A/50/956) : le gouvernement s'engage à avoir attribué d'ici 1999 à des paysans organisés 100 000 hectares en concessions de gestion des ressources naturelles dans les zones à usages multiples (§ 34 f). Le CONAP rattache les concessions de la réserve à cet accord (communiqué d'octobre 2021).", annee: 1996, source: "https://documents.un.org/api/symbol/access?s=A/50/956&l=es&t=pdf"}
+  - {mecanisme: "cdb_8j", detail: "Quatrième rapport national du Guatemala à la Convention sur la diversité biologique (CONAP, 2009) : il présente les concessions forestières de la réserve de biosphère maya comme un exemple d'usage durable et signale la résiliation de 3 contrats sur 14 (San Miguel, La Colorada, La Pasadita).", annee: 2009, source: "https://www.cbd.int/doc/world/gt/gt-nr-04-es.pdf"}
+base_nationale:
+  - {instrument: "Loi sur les aires protégées (décret 4-89 du Congrès), art. 19 (concessions) et art. 69, 70 et 72, réformée par le décret 110-96", nature: "loi", annee: 1989, source: "https://faolex.fao.org/docs/pdf/gua60538.pdf"}
+  - {instrument: "Décret 5-90 du Congrès déclarant aire protégée la « Réserve maya » du Petén, catégorie réserve de biosphère, avec zone à usages multiples", nature: "loi", annee: 1990, source: "https://faolex.fao.org/docs/pdf/gua201211.pdf"}
+  - {instrument: "Accord sur les aspects socio-économiques et la situation agraire, § 34 f", nature: "accord_paix", annee: 1996, source: "https://documents.un.org/api/symbol/access?s=A/50/956&l=es&t=pdf"}
+  - {instrument: "Normes d'octroi des concessions d'exploitation et de gestion des ressources naturelles renouvelables dans la zone à usages multiples de la réserve de biosphère maya (acte du CONAP 15-98, résolution du 4 septembre 1998, Diario de Centro América du 30 juillet 1999)", nature: "loi", annee: 1998, source: "https://faolex.fao.org/docs/pdf/gua17249.pdf"}
+  - {instrument: "Accord interne du CONAP n° 242/2019 du 10 septembre 2019, mise à jour des Normes (prorogation des contrats, art. 40 à 52)", nature: "loi", annee: 2019, source: "https://faolex.fao.org/docs/pdf/gua205303.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La concession communautaire n'est attribuée qu'à une communauté organisée en association ou en comité, dotée d'un conseil de direction (junta directiva) attesté par le maire (Normes de 1998, art. 9 B et 22 B). Le CONAP supervise l'exploitation, peut sanctionner, suspendre ou résilier le contrat (art. 11, 35 à 39).", source: "https://faolex.fao.org/docs/pdf/gua17249.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le concessionnaire exploite à titre exclusif les biens et services couverts par la concession (Normes de 1998, art. 13 a) sur une unité de gestion délimitée, pour la durée fixée au contrat (art. 19 e), prorogeable à sa demande (art. 41, réécrit par l'accord interne 242/2019) ; l'unité ne peut faire l'objet d'aucun titre ni d'aucune procédure d'acquisition en propriété (art. 15 a) et reste sous l'administration du CONAP (art. 6 a).", source: "https://faolex.fao.org/docs/pdf/gua17249.pdf"}
+  ressources: {valeur: "partiel", note: "Dans les unités attribuées à des communautés, l'exploitation des produits forestiers ligneux et non ligneux et l'usage agricole prévu au plan de gestion sont permis (Normes de 1998, art. 7), à titre exclusif (art. 13 a), sous réserve d'une certification forestière obtenue dans les trois ans (art. 14 k) ; le CONAP garde la main sur les services environnementaux et les ressources non renouvelables (art. 7).", source: "https://faolex.fao.org/docs/pdf/gua17249.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon une étude de l'Institut de recherche sur l'environnement naturel et la société (IARNA) de l'université Rafael Landívar (2014), sur les 12 concessions communautaires, celles de San Miguel La Palotada et de La Pasadita ont été suspendues en 2009 et celle de La Colorada suspendue avec expulsion de la communauté ; Cruce a La Colorada, mise en demeure en 2010, est restée active. Le quatrième rapport du Guatemala à la CDB (2009) attribue l'annulation de ces trois contrats à des manquements et à la vente illégale de terres de l'État, et la perte de forêt à l'avancée de grandes exploitations d'élevage. En août 2022, le CONAP comptait 9 concessions communautaires actives et en a attribué 2 nouvelles.", source: "https://infoiarna.url.edu.gt/wp-content/uploads/2019/04/articulo-Concesiones-forestales-en-Guatemala.pdf"}
+chronologie:
+  - {annee: 1989, evenement: "Loi sur les aires protégées (décret 4-89) : création du CONAP, qui peut accorder des concessions d'exploitation (art. 19)."}
+  - {annee: 1990, evenement: "Décret 5-90 : création de la réserve de biosphère maya et de sa zone à usages multiples."}
+  - {annee: 1994, evenement: "Premières normes de concession (acte 5-94 du 1er mars) et premier contrat, attribué à San Miguel La Palotada."}
+  - {annee: 1996, evenement: "Accord de paix sur les aspects socio-économiques : objectif de 100 000 ha de concessions à des paysans organisés d'ici 1999."}
+  - {annee: 1997, evenement: "Fondation de l'Association des communautés forestières du Petén (ACOFOP) ; concessions de Carmelita et La Pasadita."}
+  - {annee: 1998, evenement: "Normes d'octroi des concessions dans la zone à usages multiples (acte 15-98 du 18 août, résolution du 4 septembre) ; concession de Río Chanchich (Impulsores Suchitecos)."}
+  - {annee: 1999, evenement: "Deux concessions industrielles : La Gloria et Paxbán."}
+  - {annee: 2000, evenement: "Concessions de San Andrés, Chosquitán (Laborantes del Bosque) et Uaxactún."}
+  - {annee: 2001, evenement: "Concessions de Las Ventanas (Árbol Verde), Cruce a La Colorada et La Colorada."}
+  - {annee: 2002, evenement: "Concessions de La Unión (Custodios de la Selva) et Yaloch (El Esfuerzo) : 12 concessions communautaires."}
+  - {annee: 2009, evenement: "Contrats de San Miguel La Palotada, La Pasadita et La Colorada suspendus ; la communauté de La Colorada est expulsée."}
+  - {annee: 2015, evenement: "Deuxième mise à jour du plan directeur de la réserve : San Miguel classée comme concession annulée, La Pasadita comme plan de gestion suspendu."}
+  - {annee: 2019, evenement: "Accord interne 242/2019 : procédure de prorogation des contrats de concession."}
+  - {annee: 2021, evenement: "Prorogation de 25 ans de Carmelita, Río Chanchich, Las Ventanas, San Andrés et Chosquitán ; le CONAP approuve l'attribution de La Colorada-Molino et San Bartolo."}
+  - {annee: 2022, evenement: "Prorogation de 25 ans de La Unión, Yaloch et Uaxactún ; contrats de 30 ans pour San Bartolo (45 091 ha) et La Colorada-Molino (25 909 ha)."}
+fiabilite:
+  verifie: ["Art. 19 du décret 4-89 et art. 6 du décret 5-90 (textes FAOLEX).", "Normes de 1998 (Diario de Centro América du 30 juillet 1999), art. 6 à 45, dont art. 7, 9, 13, 14 k, 15 a, 19 e, 22, 35 à 41 et 44.", "Accord interne 242/2019 (Diario de Centro América du 12 septembre 2019), art. 40 à 43.", "§ 34 f de l'accord du 6 mai 1996 (A/50/956).", "Annulation de 3 contrats sur 14 et liste des 14 unités (organisation, surface, année) : quatrième rapport national à la CDB (CONAP, 2009), cuadro 12.", "Liste des 12 unités communautaires, surfaces, années et état des contrats : IARNA (2014), tableau II 6.1 ; mêmes valeurs que le rapport à la CDB.", "Unités concédées et unités annulées ou suspendues en 2015 : plan directeur, tome II (CONAP, 2015), section D.6.", "Prorogations de 2021 et 2022, 9 concessions communautaires actives et 2 industrielles, nouveaux contrats de 30 ans : Agence guatémaltèque d'information (AGN), 11 août 2022.", "Prorogation de 3 unités le 23 octobre 2021, 10 000 bénéficiaires directs : communiqué republié par l'AMPB.", "Prorogation de 25 ans de l'unité Uaxactún (83 558 ha), 6 octobre 2022 : page du CONAP."]
+  non_confirme: ["Le communiqué d'octobre 2021 compte 10 concessions communautaires sur 12, l'AGN en août 2022 en compte 9 sur 11 : l'écart tient probablement à La Pasadita, dont le plan de gestion est suspendu.", "Dionisio (2019) date de 2000 l'attribution d'Árbol Verde et des deux concessions industrielles ; le rapport à la CDB et l'IARNA donnent 2001 pour Las Ventanas et 1999 pour La Gloria et Paxbán : la fiche suit ces deux sources.", "Surface de Las Ventanas : 64 793 ha (CDB 2009, IARNA 2014), 64 973,37 ha (communiqué de 2021).", "Titulaires des unités San Bartolo et La Colorada-Molino : non trouvés.", "Surface de 486 546,80 ha avancée par l'ACOFOP comme surface administrée par les organisations communautaires : proche du total des 11 concessions actives, industrielles comprises (488 000 ha selon l'AGN) ; non retenue.", "Situation de Cruce a La Colorada après 2014 : non vérifiée.", "Texte de l'acte 15-98 et des contrats types : non consultés."]
+sources:
+  - {titre: "Ley de Áreas Protegidas, decreto 4-89 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gua60538.pdf"}
+  - {titre: "Decreto 5-90, Reserva Maya — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gua201211.pdf"}
+  - {titre: "Normas para el otorgamiento de concesiones de aprovechamiento y manejo de recursos naturales renovables en la Zona de Uso Múltiple de la Reserva de la Biosfera Maya (1998) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gua17249.pdf"}
+  - {titre: "Acuerdo interno 242/2019, actualización de las Normas — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gua205303.pdf"}
+  - {titre: "Acuerdo sobre aspectos socioeconómicos y situación agraria (1996), document des Nations unies A/50/956", url: "https://documents.un.org/api/symbol/access?s=A/50/956&l=es&t=pdf"}
+  - {titre: "CONAP, IV Informe nacional de cumplimiento a los acuerdos del Convenio sobre la Diversidad Biológica (2009)", url: "https://www.cbd.int/doc/world/gt/gt-nr-04-es.pdf"}
+  - {titre: "CONAP, Plan Maestro de la Reserva de la Biosfera Maya, segunda actualización, tomo II (2015) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gua206960.pdf"}
+  - {titre: "CONAP, Plan Maestro de la Reserva de la Biosfera Maya, segunda actualización, tomo I (2015) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gua206959.pdf"}
+  - {titre: "Dionisio, S., Conservación y desarrollo basado en la comunidad : las concesiones forestales comunitarias en Petén, Guatemala, Revista Yu'am 3(5), 2019", url: "https://acofop.org/wp-content/uploads/2026/07/1-Conservacion-y-desarrollo-basado-en-la.pdf"}
+  - {titre: "Concesiones comunitarias de Petén firman prórroga de 25 años y adjudicación de dos nuevas Unidades de Manejo — AMPB, 23 octobre 2021", url: "https://www.alianzamesoamericana.org/concesiones-comunitarias-de-peten-firman-prorroga-de-25-anos-y-adjudicacion-de-dos-nuevas-unidades-de-manejo/"}
+  - {titre: "ACOFOP, Manejo forestal", url: "https://acofop.org/manejo-forestal-3/"}
+  - {titre: "ACOFOP, Nuestra historia", url: "https://acofop.org/nuestra-historia/"}
+  - {titre: "Reyes Rodas, R., Kent, J., Ammour, T., Gálvez, J., Challenges and opportunities of sustainable forest management through community forestry concessions in the Maya Biosphere Reserve, IARNA-URL, 2014", url: "https://infoiarna.url.edu.gt/wp-content/uploads/2019/04/articulo-Concesiones-forestales-en-Guatemala.pdf"}
+  - {titre: "Impulsan modelo de manejo forestal sostenible en la Reserva de la Biosfera Maya, en Petén — AGN, 11 août 2022", url: "https://agn.gt/impulsan-modelo-de-manejo-forestal-sostenible-en-la-reserva-de-la-biosfera-maya-en-peten/"}
+  - {titre: "CONAP, Prórroga a la Unidad de Manejo Uaxactún por 25 años más (6 octobre 2022)", url: "https://conap.gob.gt/prorroga-a-la-unidad-de-manejo-uaxactun-por-25-anos-mas-%EF%BF%BC/"}

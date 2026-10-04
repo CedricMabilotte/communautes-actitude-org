@@ -1,0 +1,56 @@
+uid: "italiens-istrie-croatie"
+nom: "Communauté nationale italienne de Croatie"
+endonyme: "Comunità nazionale italiana"
+territoire: "Région d'Istrie (Istarska županija / Regione Istriana) et localités d'implantation en Croatie"
+etats: ["Croatie"]
+region: "europe"
+coord: [45.2, 13.9]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 13763, annee: 2021, perimetre: "personnes déclarées de nationalité italienne en Croatie, recensement de 2021 (dont 9 784 dans la région d'Istrie et 2 368 dans le comitat de Primorje-Gorski Kotar)", source: "https://podaci.dzs.hr/media/v0ajvwgi/popis_2021-stanovnistvo_po_gradovima_opcinama.xlsx"}
+lieux: {valeur: 18, unite: "villes et communes de la région d'Istrie où l'italien est d'usage officiel égal (17 par leur statut, Grožnjan au titre du seuil d'un tiers)", annee: 2021, source: "https://rm.coe.int/croatiapr7-en/1680aa5f42"}
+surface_km2: {valeur: 2820, annee: 2024, perimetre: "région d'Istrie (comté), dont le statut établit le bilinguisme croate-italien", source: "https://www.istra-istria.hr/en/region-of-istria/general-information/geographic-data/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La communauté nationale italienne vit surtout dans la région d'Istrie, en Croatie, et à Rijeka. Le statut de la région d'Istrie de 2003 place le croate et l'italien en usage officiel égal et réserve à la communauté italienne la présidence ou une vice-présidence de l'assemblée régionale. La loi constitutionnelle de 2002 sur les droits des minorités nationales garantit l'enseignement dans la langue de la minorité, des conseils de minorité élus et une représentation au Sabor (Parlement), où la minorité italienne élit un député. Ce régime est distinct de celui de la communauté italienne de Slovénie.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur la Croatie (adopté le 1er février 2021), § 76 : programmes opérationnels propres aux Italiens, parmi d'autres minorités.", annee: 2021, source: "https://rm.coe.int/5th-op-croatia-fr/1680a2cb4a"}
+  - {mecanisme: "charte_langues_regionales", detail: "Le même avis (note 79) indique que la Croatie applique la Charte européenne des langues régionales ou minoritaires à l'italien.", annee: 2021, source: "https://rm.coe.int/5th-op-croatia-en/1680a2cb49"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi constitutionnelle sur les droits des minorités nationales (13 décembre 2002)", nature: "loi_organique", annee: 2002, source: "https://aceproject.org/ero-en/regions/europe/HR/croatia-constitutional-act-on-the-rights-of"}
+  - {instrument: "Statut de la région d'Istrie (19 mai 2003), art. 6, 24 à 31, 39 et 61", nature: "statut_autonomie", annee: 2003, source: "https://www.istra-istria.hr/en/region-of-istria/general-information/statute/"}
+  - {instrument: "Loi sur l'élection des députés au Sabor, art. 17 (siège de la minorité italienne, modifiée NN 19/15)", nature: "loi", annee: 2015, source: "https://www.zakon.hr/z/355/Zakon-o-izboru-zastupnika-u-Hrvatski-sabor"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les membres des minorités élisent des conseils de minorité nationale (10 membres en commune, 15 en ville, 25 en comté) qui proposent des mesures aux collectivités et des candidats aux fonctions publiques, loi constitutionnelle de 2002, art. 23, 24 et 31 ; rôle consultatif.", source: "https://aceproject.org/ero-en/regions/europe/HR/croatia-constitutional-act-on-the-rights-of"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Un comité permanent de l'assemblée régionale, à majorité de conseillers issus de la communauté italienne, exerce un droit de « consensus » (accord) sur les questions qui la concernent et peut faire reporter un point de 90 jours, statut de la région d'Istrie, art. 31.", source: "https://www.istra-istria.hr/en/region-of-istria/general-information/statute/"}
+  langue: {valeur: "reconnu", note: "Le croate et l'italien sont en usage officiel égal dans les organes de la région et devant son administration, statut de 2003, art. 6, 24 à 29 ; usage officiel d'une langue minoritaire dans les collectivités où la minorité forme au moins un tiers de la population, loi constitutionnelle de 2002, art. 12.", source: "https://www.istra-istria.hr/en/region-of-istria/general-information/statute/"}
+  education: {valeur: "reconnu", note: "Droit à l'éducation et à la scolarité dans la langue de la minorité, dans des établissements propres, loi constitutionnelle de 2002, art. 11 ; statut de la région d'Istrie, art. 27.", source: "https://aceproject.org/ero-en/regions/europe/HR/croatia-constitutional-act-on-the-rights-of"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Les membres de la minorité nationale italienne élisent un député au Sabor dans la circonscription spéciale des minorités, loi sur l'élection des députés, art. 17 (modifiée NN 19/15) ; la loi constitutionnelle de 2002 (art. 19) garantit cinq à huit députés aux minorités. Au niveau régional, au moins quatre conseillers et la présidence ou une vice-présidence de l'assemblée reviennent à la communauté italienne, statut de 2003, art. 39.", source: "https://www.zakon.hr/z/355/Zakon-o-izboru-zastupnika-u-Hrvatski-sabor"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité consultatif de la Convention-cadre du Conseil de l'Europe relève en 2021 que tous les conseils de minorité régionaux et locaux ne sont pas effectifs, leur pouvoir d'intervention étant trop limité et peu clair (§ 9), et note l'adoption en 2017 de programmes opérationnels propres à la minorité italienne (§ 76 et 78).", source: "https://rm.coe.int/5th-op-croatia-en/1680a2cb49"}
+chronologie:
+  - {annee: 1992, evenement: "Premier député élu par la minorité italienne au Sabor."}
+  - {annee: 2002, evenement: "Loi constitutionnelle sur les droits des minorités nationales (13 décembre)."}
+  - {annee: 2003, evenement: "Statut de la région d'Istrie (19 mai) : usage officiel égal du croate et de l'italien."}
+  - {annee: 2021, evenement: "Cinquième avis du Comité consultatif de la Convention-cadre sur la Croatie."}
+fiabilite:
+  verifie: ["Statut de la région d'Istrie, art. 6, 24 à 31, 39 et 61 (site de la région).", "Loi constitutionnelle de 2002, art. 11, 12, 19, 23, 24 et 31 (ACE Project).", "Siège de la minorité italienne au Sabor, loi électorale, art. 17 (zakon.hr).", "Population : 13 763 en Croatie, 9 784 en Istrie, 2 368 en Primorje-Gorski Kotar (tableau du recensement 2021, Bureau croate de statistique) ; Grožnjan : 35,82 % d'Italiens.", "Usage officiel de l'italien : 7 villes et 10 communes par leur statut, plus Grožnjan (septième rapport de la Croatie sur la Charte, 2022).", "Surface de la région : 2 820 km² (site de la région).", "Cinquième avis du Comité consultatif, § 9, § 76 et note 79."]
+  non_confirme: ["Le texte du statut consulté (version anglaise de 2003) peut ne pas intégrer des modifications ultérieures, notamment sur le nombre de conseillers, ou une décision de la Cour constitutionnelle sur ses dispositions linguistiques.", "Siège italien au Sabor occupé depuis 1992 : source secondaire (Wikipedia) ; la version de la loi constitutionnelle consultée est celle de 2002, modifiée depuis.", "Effectivité de l'enseignement en italien (nombre d'écoles et d'élèves) non établie sur une source indépendante."]
+sources:
+  - {titre: "Statute of the Istrian Region — Région d'Istrie", url: "https://www.istra-istria.hr/en/region-of-istria/general-information/statute/"}
+  - {titre: "Geographic data — Région d'Istrie", url: "https://www.istra-istria.hr/en/region-of-istria/general-information/geographic-data/"}
+  - {titre: "Constitutional Act on the Rights of National Minorities (2002) — ACE Project", url: "https://aceproject.org/ero-en/regions/europe/HR/croatia-constitutional-act-on-the-rights-of"}
+  - {titre: "Cinquième avis sur la Croatie (2021) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/5th-op-croatia-fr/1680a2cb4a"}
+  - {titre: "Fifth Opinion on Croatia (2021) — Advisory Committee on the Framework Convention, Council of Europe", url: "https://rm.coe.int/5th-op-croatia-en/1680a2cb49"}
+  - {titre: "Recensement 2021, population par nationalité, villes et communes — Bureau croate de statistique (DZS)", url: "https://podaci.dzs.hr/media/v0ajvwgi/popis_2021-stanovnistvo_po_gradovima_opcinama.xlsx"}
+  - {titre: "Zakon o izboru zastupnika u Hrvatski sabor — zakon.hr", url: "https://www.zakon.hr/z/355/Zakon-o-izboru-zastupnika-u-Hrvatski-sabor"}
+  - {titre: "Septième rapport périodique de la Croatie, Charte européenne des langues régionales ou minoritaires (2022) — Conseil de l'Europe", url: "https://rm.coe.int/croatiapr7-en/1680aa5f42"}
+  - {titre: "Italians of Croatia — Wikipedia", url: "https://en.wikipedia.org/wiki/Italians_of_Croatia"}

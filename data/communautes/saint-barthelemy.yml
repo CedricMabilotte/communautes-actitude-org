@@ -1,0 +1,56 @@
+uid: "saint-barthelemy"
+nom: "Saint-Barthélemy"
+endonyme: ""
+territoire: "Île de Saint-Barthélemy et îlets (Petites Antilles)"
+etats: ["France"]
+region: "ameriques"
+coord: [17.9, -62.8]
+type: "collectivite_autonome"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 10660, annee: 2023, perimetre: "population municipale de référence de la collectivité au 1er janvier 2023, en vigueur au 1er janvier 2026 (Insee)", source: "https://www.insee.fr/fr/statistiques/8680667?sommaire=8681011"}
+lieux: {valeur: 1, unite: "collectivité d'outre-mer (une île et ses îlets)", annee: 2007, source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+surface_km2: {valeur: 24, annee: 2006, perimetre: "superficie du territoire indiquée par le rapport du Sénat (île et îlets)", source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+villages: {valeur: 40, annee: 2024, perimetre: "quartiers répartis entre deux paroisses (Sous le Vent et Au Vent)", source: "https://fr.wikipedia.org/wiki/Saint-Barth%C3%A9lemy_(Antilles_fran%C3%A7aises)"}
+resume: >-
+  Saint-Barthélemy est une île des Petites Antilles, détachée de la Guadeloupe et érigée en collectivité d'outre-mer (art. 74 de la Constitution) le 15 juillet 2007 par la loi organique n° 2007-223 du 21 février 2007, après une consultation où 95,51 % des suffrages exprimés ont approuvé le changement. La collectivité est dotée de l'autonomie : son conseil territorial fixe des règles de niveau législatif en matière d'impôts, d'urbanisme, de transports, de domaine, d'environnement, d'accès au travail des étrangers, d'énergie et de tourisme, sous le contrôle du Conseil d'État. Le sujet collectif est la population de l'île ; aucune désignation ethnique n'est retenue par le droit. Depuis le 1er janvier 2012, l'île est un pays et territoire d'outre-mer (PTOM, territoire associé à l'Union européenne sans en faire partie).
+reconnaissance_regionale:
+  - {mecanisme: "union_europeenne", detail: "Décision 2010/718/UE du Conseil européen du 29 octobre 2010 modifiant le statut de l'île de Saint-Barthélemy à l'égard de l'Union européenne : à compter du 1er janvier 2012, l'île cesse d'être une région ultrapériphérique (région soumise au droit de l'Union avec adaptations) et accède au statut de pays et territoire d'outre-mer.", annee: 2010, source: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32010D0718"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution française, art. 74 (collectivités d'outre-mer dotées de l'autonomie)", nature: "constitution", annee: 2003, source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+  - {instrument: "Loi organique n° 2007-223 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à l'outre-mer (CGCT, art. LO 6211-1 et suivants)", nature: "loi_organique", annee: 2007, source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+  - {instrument: "Conseil constitutionnel, décision n° 2007-547 DC du 15 février 2007", nature: "jurisprudence", annee: 2007, source: "https://www.conseil-constitutionnel.fr/decision/2007/2007547DC.htm"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La loi organique de 2007 institue un conseil territorial de 19 membres élus, un président et un conseil exécutif élus par le conseil, et un conseil économique, social et culturel consultatif (CGCT, art. LO 6221-1 et s., LO 6223-1 à LO 6223-3).", source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+  pouvoir_normatif: {valeur: "reconnu", note: "L'article LO 6214-3 du CGCT confie à la collectivité la fixation des règles de niveau législatif ou réglementaire en matière d'impôts et cadastre, urbanisme et logement, circulation et transport routiers, desserte maritime et ports, domaine, environnement, accès au travail des étrangers, énergie, tourisme et services publics de la collectivité ; ces actes relèvent d'un contrôle propre du Conseil d'État.", source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "L'article LO 6214-7 du CGCT permet à la collectivité de soumettre à déclaration les transferts entre vifs de propriétés foncières et d'exercer un droit de préemption (droit d'acheter en priorité) pour préserver la cohésion sociale, le droit au logement et les espaces naturels ; le Conseil constitutionnel a exigé que la durée de résidence ouvrant exemption n'excède pas la mesure strictement nécessaire (décision 2007-547 DC).", source: "https://www.conseil-constitutionnel.fr/decision/2007/2007547DC.htm"}
+  ressources: {valeur: "partiel", note: "La loi organique de 2007 rend la collectivité compétente pour réglementer l'exploration et l'exploitation des ressources naturelles des eaux intérieures, du sol, du sous-sol et des eaux de la mer territoriale et de la zone économique exclusive, dans le respect des engagements internationaux et des compétences de l'État.", source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+  consentement: {valeur: "partiel", note: "L'article LO 6213-3 du CGCT impose la consultation du conseil territorial sur les projets et propositions de loi, d'ordonnance ou de décret comportant des dispositions particulières à Saint-Barthélemy et sur les engagements internationaux touchant ses compétences ; l'avis ne lie pas l'État.", source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "La collectivité fixe les impôts, droits et taxes et perçoit le produit des impositions qu'elle établit (CGCT, art. LO 6214-3, I, 1°) ; l'État peut instituer des taxes liées à ses missions de sécurité aérienne et de communications électroniques (art. LO 6214-4, III).", source: "https://www.conseil-constitutionnel.fr/decision/2007/2007547DC.htm"}
+  representation: {valeur: "reconnu", note: "La loi organique de 2007 crée un siège de sénateur propre à Saint-Barthélemy.", source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+  statut_personnel: {valeur: "partiel", note: "L'article LO 6214-4 du CGCT soumet l'accès au régime fiscal local à une résidence d'au moins cinq ans sur l'île pour les personnes physiques, et à une condition équivalente pour les personnes morales ; ce statut de résidence est limité à la fiscalité.", source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le conseil territorial issu du scrutin de mars 2022 a élu son président le 3 avril 2022 par 13 voix sur 19, puis les membres du conseil exécutif.", source: "https://www.journaldesaintbarth.com/actualites/conseil-territorial/xavier-ledee-nouveau-president-de-la-collectivite-202204071514.html"}
+chronologie:
+  - {annee: 1784, evenement: "La France cède l'île à la Suède."}
+  - {annee: 1878, evenement: "Rétrocession de l'île à la France, rattachée ensuite à la Guadeloupe."}
+  - {annee: 2003, evenement: "Consultation du 7 décembre : 95,51 % des suffrages exprimés approuvent la création d'une collectivité d'outre-mer."}
+  - {annee: 2007, evenement: "Loi organique n° 2007-223 du 21 février ; la collectivité d'outre-mer est installée le 15 juillet."}
+  - {annee: 2010, evenement: "Décision 2010/718/UE du Conseil européen sur le changement de statut à l'égard de l'Union."}
+  - {annee: 2012, evenement: "L'île devient pays et territoire d'outre-mer de l'Union européenne au 1er janvier."}
+  - {annee: 2022, evenement: "Élection du conseil territorial."}
+fiabilite:
+  verifie: ["Liste des matières de l'article LO 6214-3, condition de résidence de cinq ans, compétences sur les ressources marines, consultation obligatoire et création d'un siège de sénateur (rapport de la commission des lois du Sénat sur le projet de loi organique).", "Droit de préemption foncière et perception du produit des impôts (décision 2007-547 DC du Conseil constitutionnel).", "Résultats de la consultation de 2003 (rapport du Sénat, source ministère de l'outre-mer).", "Population légale 2023 (Insee).", "Décision 2010/718/UE et date d'effet du 1er janvier 2012 (EUR-Lex, Journal officiel L 325 du 9 décembre 2010).", "Liste finale des matières de compétence normative, dont la protection des espaces boisés (DROM-COM).", "Élection du président du conseil territorial le 3 avril 2022 (Journal de Saint-Barth)."]
+  non_confirme: ["Texte consolidé du CGCT (Légifrance inaccessible) : rédaction finale des articles LO 6214-4 et LO 6214-7 et des compétences sur les ressources marines après navette parlementaire.", "Nombre de quartiers (40) tiré d'une source encyclopédique, sans liste administrative ouverte.", "Superficie : le rapport du Sénat donne 24 km², d'autres sources donnent 21 ou 25 km² selon que les îlets sont comptés."]
+sources:
+  - {titre: "Sénat — Rapport sur le projet de loi organique portant dispositions statutaires et institutionnelles relatives à l'outre-mer (n° 25, 2006-2007)", url: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+  - {titre: "Conseil constitutionnel — Décision n° 2007-547 DC du 15 février 2007", url: "https://www.conseil-constitutionnel.fr/decision/2007/2007547DC.htm"}
+  - {titre: "DROM-COM — Les compétences particulières de Saint-Barthélemy", url: "https://www.drom-com.fr/categories/particularites-11322/articles/les-competences-particulieres-de-saint-barthelemy-82.htm"}
+  - {titre: "Insee — Populations légales 2023 de Saint-Barthélemy", url: "https://www.insee.fr/fr/statistiques/8680667?sommaire=8681011"}
+  - {titre: "EUR-Lex — Décision 2010/718/UE du Conseil européen du 29 octobre 2010", url: "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32010D0718"}
+  - {titre: "Journal de Saint-Barth — Xavier Lédée, nouveau président de la Collectivité (7 avril 2022)", url: "https://www.journaldesaintbarth.com/actualites/conseil-territorial/xavier-ledee-nouveau-president-de-la-collectivite-202204071514.html"}
+  - {titre: "Wikipédia — Saint-Barthélemy (Antilles françaises)", url: "https://fr.wikipedia.org/wiki/Saint-Barth%C3%A9lemy_(Antilles_fran%C3%A7aises)"}

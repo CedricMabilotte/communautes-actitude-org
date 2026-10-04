@@ -1,0 +1,58 @@
+uid: "terres-collectives-autochtones-panama"
+nom: "Terres collectives autochtones hors comarcas (loi 72 de 2008)"
+endonyme: ""
+territoire: "Terres collectives titrées ou demandées hors des comarcas (provinces de Darién, de Panamá et de Bocas del Toro notamment)"
+etats: ["Panama"]
+region: "ameriques"
+coord: [8.4, -78.2]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 25, unite: "territoires autochtones hors comarcas dont l'État a admis l'existence aux fins de titrage en 2019", annee: 2019, source: "https://www.iwgia.org/images/yearbook/2020/IWGIA_The_Indigenous_World_2020.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi 72 du 23 décembre 2008 fixe une procédure d'adjudication gratuite (attribution sans paiement) de la propriété collective des terres traditionnellement occupées par les peuples autochtones vivant hors des cinq comarcas (divisions territoriales autochtones à statut spécial). Les autorités traditionnelles déposent la demande auprès de la Direction nationale de la réforme agraire, qui délivre un titre collectif qui ne peut être ni prescrit, ni cédé, ni saisi, ni aliéné. L'Autorité nationale d'administration des terres (ANATI) remet les premiers titres le 6 juin 2012 à deux communautés wounaan, Puerto Lara et Caña Blanca, pour 1 382 ha. Les communautés concernées sont notamment emberá, wounaan, ngäbe, bribri, guna et naso ; en 2019, l'État admet l'existence de 25 territoires à titrer. Chaque comarca a sa propre fiche.
+reconnaissance_regionale:
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Peuples Kuna de Madungandí et Emberá de Bayano c. Panama (série C n° 284), par. 158 à 160 : la Cour constate que la loi 72 de 2008, réglementée par le décret exécutif 223 de 2010, établit une procédure de titrage collectif et que l'État n'a pas violé l'article 2 de la Convention américaine pour la législation en vigueur ; elle retient une violation de l'article 2 pour l'absence de normes avant 2008 (point résolutif 5), relève le titre collectif de Piriatí Emberá du 30 avril 2014 (par. 83) et ordonne de titrer les terres d'Ipetí Emberá (point résolutif 12).", annee: 2014, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_284_esp.pdf"}
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Panama vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport du Rapporteur spécial James Anaya sur le Panama (A/HRC/27/52/Add.1), par. 16, 34 à 37 et 52 : description de la loi 72 et des demandes en attente ; recommandation e) de faire avancer les demandes bribri, emberá et wounaan.", annee: 2014, source: "https://docs.un.org/es/A/HRC/27/52/Add.1"}
+base_nationale:
+  - {instrument: "Constitution politique du Panama (1972, révisée en 2004), art. 127", nature: "constitution", annee: 1972, source: "https://www.constituteproject.org/constitution/Panama_2004?lang=es"}
+  - {instrument: "Loi 72 du 23 décembre 2008 sur la procédure spéciale d'adjudication de la propriété collective des terres des peuples autochtones situés hors des comarcas (Gaceta Oficial 26193)", nature: "loi", annee: 2008, source: "https://faolex.fao.org/docs/pdf/pan95794.pdf"}
+  - {instrument: "Loi 88 du 22 novembre 2010 sur les langues et alphabets des peuples autochtones et l’éducation interculturelle bilingue (Gaceta Oficial 26669-A)", nature: "loi", annee: 2010, source: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi 72 de 2008 (art. 5) confie la demande aux autorités traditionnelles, qui représentent la communauté titulaire ; l'article 15 charge l'exécutif de reconnaître par décret l'organisation et les autorités traditionnelles des titulaires et la coordination avec les autorités nationales.", source: "https://faolex.fao.org/docs/pdf/pan95794.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "La loi 72 de 2008 (art. 4 et 9) fait reconnaître par l'État les terres traditionnellement occupées et délivrer un titre de propriété collective imprescriptible, incessible, insaisissable et inaliénable ; l'article 10 maintient les titres privés et droits de possession certifiés antérieurs.", source: "https://faolex.fao.org/docs/pdf/pan95794.pdf"}
+  ressources: {valeur: "partiel", note: "La loi 72 de 2008 (art. 13) charge l'Autorité nationale de l'environnement de coordonner avec les autorités traditionnelles l'exécution d'un plan d'usage durable des ressources naturelles et de développement communautaire, seulement lorsque les terres sont situées dans le système national des aires protégées.", source: "https://faolex.fao.org/docs/pdf/pan95794.pdf"}
+  consentement: {valeur: "partiel", note: "La loi 72 de 2008 (art. 14) oblige les entités publiques et privées à coordonner avec les autorités traditionnelles leurs plans et projets sur ces terres « a fin de garantizar el consentimiento libre, previo e informado » (afin de garantir le consentement libre, préalable et éclairé), sans procédure fixée.", source: "https://faolex.fao.org/docs/pdf/pan95794.pdf"}
+  langue: {valeur: "partiel", note: "La loi 88 de 2010 reconnaît les langues ngäbe, buglé, kuna, emberá, wounaan, naso tjërdi et bribri (art. 1) et en fixe les alphabets (art. 2) ; l'article 4 prévoit leur enseignement parallèlement à l'espagnol dans les terres collectives, sans statut de langue officielle.", source: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  education: {valeur: "partiel", note: "La loi 88 de 2010 (art. 7 et 9) étend aux terres collectives l'éducation interculturelle bilingue, développée par le ministère de l'Éducation, avec une participation des congrès et conseils généraux autochtones aux alphabets et à l'usage des langues (art. 3 et 5) ; selon IWGIA, ses règlements d'application restaient à adopter en 2019.", source: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Rapporteur spécial de l'ONU (2014, par. 32 à 36) estime à plus de 100 les communautés autochtones sans titre et relève des retards dus aux revendications de colons et l'invasion des terres en attente de titre ; selon IWGIA (2020), le ministère de l'Environnement refusait sous le gouvernement précédent d'autoriser le titrage des terres collectives chevauchant des aires protégées, jusqu'à la résolution DM-0612-2019 du 29 novembre 2019, qui fixe les critères d'une exception pour les 25 territoires demandeurs.", source: "https://docs.un.org/es/A/HRC/27/52/Add.1"}
+chronologie:
+  - {annee: 2008, evenement: "Loi 72 du 23 décembre sur l'adjudication de la propriété collective des terres autochtones hors comarcas, publiée le 30 décembre (Gaceta Oficial 26193)."}
+  - {annee: 2010, evenement: "Le décret exécutif 223 réglemente la procédure de la loi 72. Loi 88 du 22 novembre sur les langues et l'éducation interculturelle bilingue."}
+  - {annee: 2011, evenement: "Après cinq jours de blocage de la route panaméricaine par des Emberá et des Wounaan, accord avec l'Autorité nationale d'administration des terres (ANATI) sur la poursuite des titrages."}
+  - {annee: 2012, evenement: "L'ANATI remet le 6 juin les premiers titres collectifs aux communautés wounaan de Puerto Lara et Caña Blanca (1 382 ha)."}
+  - {annee: 2014, evenement: "Titre collectif de Piriatí Emberá (30 avril) ; rapport du Rapporteur spécial de l'ONU ; arrêt de la Cour interaméricaine du 14 octobre."}
+  - {annee: 2019, evenement: "L'État admet l'existence de 25 territoires autochtones à titrer ; résolution DM-0612-2019 du ministère de l'Environnement sur les terres chevauchant des aires protégées."}
+fiabilite:
+  verifie: ["Articles 1 à 19 de la loi 72 de 2008 (texte de la Gaceta Oficial 26193, FAOLEX).", "Remise des premiers titres le 6 juin 2012 à Puerto Lara et Caña Blanca, 1 382 ha (Bureau régional du HCDH pour l'Amérique centrale).", "Paragraphes 9, 16, 32 à 37 et 52 du rapport A/HRC/27/52/Add.1.", "Paragraphes 80 à 83 et 158 à 160 et points résolutifs 4, 5 et 12 de l'arrêt de la Cour interaméricaine (série C n° 284), dont le décret exécutif 223 de 2010.", "25 territoires reconnus aux fins de titrage en 2019 et résolution DM-0612-2019 du 29 novembre 2019 (IWGIA, The Indigenous World 2020, chapitre Panama).", "Articles 1 à 9 de la loi 88 de 2010 (Gaceta Oficial 26669-A)."]
+  non_confirme: ["Nombre total de titres collectifs délivrés depuis 2012, surface titrée et population concernée : aucune liste officielle consultée.", "Adoption du décret exécutif prévu à l'article 15 de la loi 72 sur la reconnaissance des autorités traditionnelles.", "Application aux terres collectives de la loi 37 de 2016 sur la consultation et le consentement préalables."]
+sources:
+  - {titre: "Loi 72 du 23 décembre 2008 — Gaceta Oficial 26193, FAOLEX", url: "https://faolex.fao.org/docs/pdf/pan95794.pdf"}
+  - {titre: "Por primera vez son entregados títulos de propiedad colectiva de tierras indígenas en Panamá — Bureau régional du HCDH pour l'Amérique centrale (2012)", url: "https://www.oacnudh.org/por-primera-son-entregados-titulos-de-propiedad-colectiva-de-tierras-indigenas-en-panama/"}
+  - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones, Panama (A/HRC/27/52/Add.1) — ONU", url: "https://docs.un.org/es/A/HRC/27/52/Add.1"}
+  - {titre: "Arrêt Peuples Kuna de Madungandí et Emberá de Bayano c. Panama, série C n° 284 — Cour interaméricaine des droits de l'homme", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_284_esp.pdf"}
+  - {titre: "The Indigenous World 2020, chapitre Panama — IWGIA", url: "https://www.iwgia.org/images/yearbook/2020/IWGIA_The_Indigenous_World_2020.pdf"}
+  - {titre: "Constitution du Panama — Constitute Project", url: "https://www.constituteproject.org/constitution/Panama_2004?lang=es"}
+  - {titre: "Loi 88 de 2010 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/pan164765.pdf"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

@@ -1,0 +1,76 @@
+uid: "qom-wichi-moqoit-chaco"
+nom: "Qom, Wichí et Moqoit de la province du Chaco"
+endonyme: "Qom, Wichí, Moqoit"
+territoire: "Province du Chaco (Argentine), en particulier les départements General Güemes, Libertador General San Martín, San Fernando et 25 de Mayo"
+etats: ["Argentine"]
+region: "ameriques"
+coord: [-26.4, -60.4]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 53798, annee: 2022, perimetre: "personnes vivant en logement particulier dans la province du Chaco qui se reconnaissent autochtones ou descendantes d'un peuple autochtone ou originaire, tous peuples confondus (recensement de 2022, INDEC, tableau 1.4)", source: "https://www.indec.gob.ar/ftp/cuadros/poblacion/censo2022_poblacion_indigena.pdf"}
+lieux: {valeur: 111, unite: "communautés qom (76), wichí (19) et moqoit (16) de la province du Chaco figurant sur la liste officielle du ministère de l'Intérieur, dont 100 dotées de la personnalité juridique et 40 au relevé territorial terminé", annee: 2025, source: "http://datos.mininterior.gob.ar/dataset/6a702e6f-3292-44fe-804f-16b8dee008c1/resource/3c2137d5-46d3-40cf-9e01-ee406746b27a/download/listado-de-comunidades-indigenas-20251112.csv"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les peuples qom (toba), wichí et moqoit (mocoví) forment le sujet collectif du régime autochtone de la province du Chaco, distinct du régime national argentin. La loi provinciale 3258 de 1987, aujourd'hui loi 562-W, organise la personnalité juridique des communautés, l'attribution gratuite de terres insaisissables et inaliénables, l'éducation bilingue et biculturelle, et crée l'Institut de l'aborigène chaquien (Instituto del Aborigen Chaqueño, IDACH), dont le président, le vice-président et les vocaux de chaque peuple sont élus au suffrage direct. La Constitution provinciale de 1994 (art. 37) reconnaît la propriété communautaire des terres traditionnelles et des réserves. Depuis la loi 6604 de 2010 (loi 1848-W), le qom, le wichí et le moqoit sont langues officielles de la province avec le castillan.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "L'Argentine ratifie la Convention 169 de l'OIT en 2000, date rappelée par le Rapporteur spécial dans son rapport de 2012.", annee: 2000, source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+  - {mecanisme: "dnudpa", detail: "L'Argentine vote pour la Déclaration des Nations unies sur les droits des peuples autochtones en 2007, vote rappelé par le Rapporteur spécial dans son rapport de 2012.", annee: 2007, source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport de James Anaya sur l'Argentine (A/HRC/21/47/Add.2) : il range le Chaco parmi les provinces dotées d'une norme constitutionnelle autochtone, situe les peuples toba et wichí dans la province et relève l'action du Défenseur du peuple de la Nation devant la Cour suprême en 2007 sur la situation des Toba de la région d'El Impenetrable (§ 70).", annee: 2012, source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+base_nationale:
+  - {instrument: "Constitution de la province du Chaco (1957, réformée en 1994), art. 37 (peuples autochtones)", nature: "constitution", annee: 1994, source: "https://legislaturachaco.gob.ar/uploads/files/constitucion-provincia-chaco-696a4e880a0cc612213072.pdf"}
+  - {instrument: "Loi provinciale 3258 de 1987 sur les communautés aborigènes, créant l'IDACH, consolidée comme loi 562-W", nature: "loi", annee: 1987, source: "https://digesto.legislaturachaco.gob.ar/Documentos/Documento/GetDocumentoFisico?nombreArchivo=L.562.W.pdf"}
+  - {instrument: "Loi provinciale 6604 de 2010, consolidée comme loi 1848-W : qom, moqoit et wichí langues officielles de la province", nature: "loi", annee: 2010, source: "https://digesto.legislaturachaco.gob.ar/Documentos/Documento/GetDocumentoFisico?nombreArchivo=L.1848.W.pdf"}
+  - {instrument: "Constitution de la Nation argentine, art. 75, alinéa 17 (1994) : compétence concurrente des provinces en matière autochtone", nature: "constitution", annee: 1994, source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/804/norma.htm"}
+  - {instrument: "Loi nationale 23.302 de 1985 sur la politique autochtone et l'appui aux communautés aborigènes", nature: "loi", annee: 1985, source: "https://www.argentina.gob.ar/normativa/nacional/norma-23790/texto"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi 3258 de 1987 (loi 562-W, art. 28 et 29) confie la direction de l'IDACH, organisme provincial autonome (entidad autárquica, établissement public doté de la personnalité juridique), à un directoire dont le président et le vice-président sont élus au suffrage direct et dont les deux vocaux titulaires et deux suppléants de chaque peuple sont élus par ce peuple ; l'IDACH relève du ministère de Gouvernement et son budget est voté par la province (art. 25 et 39). La Constitution provinciale (art. 37, 1994) promeut le rôle des peuples « a través de sus propias instituciones » (par leurs propres institutions).", source: "https://digesto.legislaturachaco.gob.ar/Documentos/Documento/GetDocumentoFisico?nombreArchivo=L.562.W.pdf"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "La Constitution provinciale (art. 37, 1994) reconnaît la propriété communautaire immédiate des terres occupées traditionnellement et des terres attribuées en réserve, et prévoit la remise gratuite d'autres terres, insaisissables, imprescriptibles, indivisibles et non transmissibles à des tiers. La loi 562-W (ex-loi 3258, art. 8, 9, 11 et 13) organise l'attribution gratuite de terres en propriété communautaire ou individuelle, interdit leur saisie, leur vente et leur exploitation par des personnes extérieures à la communauté. Le décret 116/91 (art. 1 et 6) reconnaît comme réserve aborigène 150 000 hectares de la colonie Teuco et ordonne un titre de propriété communautaire au profit des associations communautaires, après relevé topographique.", source: "https://legislaturachaco.gob.ar/uploads/files/constitucion-provincia-chaco-696a4e880a0cc612213072.pdf"}
+  ressources: {valeur: "partiel", note: "La Constitution provinciale (art. 37, b, 1994) assure la participation des peuples autochtones à la protection, la préservation et la récupération des ressources naturelles ; elle ne leur en donne pas la maîtrise.", source: "https://legislaturachaco.gob.ar/uploads/files/constitucion-provincia-chaco-696a4e880a0cc612213072.pdf"}
+  consentement: {valeur: "partiel", note: "La Constitution provinciale (art. 37, b, 1994) assure la participation aux « demás intereses que los afecten » (autres intérêts qui les concernent), la loi 562-W ne prévoit pas de procédure de consultation préalable ; l'Argentine a ratifié la Convention 169 de l'OIT en 2000.", source: "https://legislaturachaco.gob.ar/uploads/files/constitucion-provincia-chaco-696a4e880a0cc612213072.pdf"}
+  langue: {valeur: "reconnu", note: "La loi 6604 de 2010 (loi 1848-W, art. 1, 4 et 5) déclare le qom, le moqoit et le wichí langues officielles de la province avec le castillan, donne aux membres des trois peuples le droit d'utiliser leur langue dans l'administration provinciale et impose la traduction des panneaux des organismes publics ; l'art. 3 crée un Conseil provincial consultatif des langues autochtones avec un représentant de l'IDACH par langue ; la Chambre des députés désigne ses représentants au Conseil en 2016 et en 2022 (résolutions 1208/16 et 967/22, publiées au digesto avec la loi).", source: "https://digesto.legislaturachaco.gob.ar/Documentos/Documento/GetDocumentoFisico?nombreArchivo=L.1848.W.pdf"}
+  education: {valeur: "partiel", note: "La loi 562-W (ex-loi 3258, art. 15 à 17) donne aux Qom, Wichí et Moqoit le droit d'étudier leur langue dans le primaire et le secondaire, prescrit un enseignement bilingue et biculturel dans les écoles qui les accueillent et prévoit la formation d'enseignants autochtones ; la Constitution provinciale (art. 37, a) garantit l'éducation bilingue et interculturelle. L'art. 17 charge le Conseil de l'éducation de la province de programmer ces actions.", source: "https://digesto.legislaturachaco.gob.ar/Documentos/Documento/GetDocumentoFisico?nombreArchivo=L.562.W.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Les élections du directoire de l'IDACH ont lieu : élections convoquées pour le 5 octobre 2014, scrutin du 18 juillet 2021 après un report lié à la pandémie, nouvelle élection convoquée pour le 23 mars 2025 (loi 4053-W de 2024). En 2012, le Rapporteur spécial des Nations unies cite le chiffre de l'UNICEF selon lequel 66,5 % des ménages autochtones du Chaco ont des besoins de base non satisfaits (§ 73) ; il rappelle que la Cour suprême, saisie en 2007 par le Défenseur du peuple de la Nation sur la situation des Toba d'El Impenetrable, a ordonné aux gouvernements national et provincial d'assurer l'assistance sanitaire et alimentaire (§ 70).", source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+chronologie:
+  - {annee: 1987, evenement: "La loi provinciale 3258 organise les droits des communautés qom, wichí et moqoit et crée l'IDACH."}
+  - {annee: 1991, evenement: "Le décret 116/91 reconnaît le droit des communautés sur 150 000 hectares de la colonie Teuco, délimités à partir de la confluence des rivières Teuco et Bermejito."}
+  - {annee: 1994, evenement: "La réforme de la Constitution provinciale introduit l'art. 37 sur les peuples autochtones."}
+  - {annee: 2010, evenement: "La loi 6604 fait du qom, du moqoit et du wichí des langues officielles de la province."}
+  - {annee: 2014, evenement: "Élection du directoire de l'IDACH convoquée pour le 5 octobre (décret 761/14)."}
+  - {annee: 2021, evenement: "Élection du directoire de l'IDACH le 18 juillet, après un report lié à la pandémie."}
+  - {annee: 2025, evenement: "Élection du directoire de l'IDACH convoquée pour le 23 mars (loi 4053-W)."}
+fiabilite:
+  verifie:
+    - "Texte original de la loi 3258 de 1987 (Legisalud) et texte consolidé de la loi 562-W (digesto de la Chambre des députés du Chaco), dont les art. 28 à 30 sur l'élection du directoire de l'IDACH."
+    - "Art. 37 de la Constitution provinciale (texte publié par la Chambre des députés du Chaco)."
+    - "Art. 1 à 7 de la loi 1848-W (ex-loi 6604), sanctionnée le 14 juillet 2010."
+    - "111 communautés qom, wichí et moqoit au Chaco dans la liste officielle de 2025, dont 100 dotées de la personnalité juridique."
+    - "53 798 personnes se reconnaissent autochtones au Chaco au recensement de 2022 (INDEC)."
+    - "Loi 4053-W de 2024 : scrutin de l'IDACH du 18 juillet 2021 et convocation pour le 23 mars 2025 (digesto du Chaco)."
+    - "Décret 116/91 (colonie Teuco), texte publié par le digesto du Chaco."
+    - "Rapport A/HRC/21/47/Add.2 : § 17 (OIT 169 ratifiée en 2000), § 19 (Chaco), § 70 (El Impenetrable), § 73 (66,5 %, chiffre UNICEF)."
+  non_confirme:
+    - "Tenue et résultats de l'élection du 23 mars 2025 : aucune source ouverte."
+    - "Surface totale des terres titrées au profit des communautés : aucune source officielle ouverte ; seul le chiffre de 150 000 hectares du décret 116/91 (colonie Teuco) est connu, sans titre vérifié."
+    - "Population propre aux trois peuples dans la province : le recensement de 2022 ne donne que des parts nationales par peuple (40,8 % des Qom et 9,2 % des Wichí du pays vivent au Chaco)."
+    - "Numéros des lois provinciales de report de l'élection de 2020 et d'adhésion à la loi nationale 26.160 : non ouverts."
+    - "Régime des écoles publiques de gestion sociale autochtone (résolution 786/11 du ministère de l'Éducation, annexée à la loi 562-W) : non examiné."
+    - "Composition exacte du corps électoral de l'IDACH (registre électoral autochtone) : la loi renvoie à la réglementation, non ouverte."
+sources:
+  - {titre: "Loi 3258 de la province du Chaco (1987), texte original — Legisalud, ministère de la Santé", url: "https://e-legis-ar.msal.gov.ar/htdocs/legisalud/migration/pdf/27520.pdf"}
+  - {titre: "Loi 562-W (ex-loi 3258), texte consolidé — digesto de la Chambre des députés du Chaco", url: "https://digesto.legislaturachaco.gob.ar/Documentos/Documento/GetDocumentoFisico?nombreArchivo=L.562.W.pdf"}
+  - {titre: "Loi 1848-W (ex-loi 6604), langues officielles — digesto de la Chambre des députés du Chaco", url: "https://digesto.legislaturachaco.gob.ar/Documentos/Documento/GetDocumentoFisico?nombreArchivo=L.1848.W.pdf"}
+  - {titre: "Loi 4053-W, élections de l'IDACH — digesto de la Chambre des députés du Chaco", url: "https://digesto.legislaturachaco.gob.ar/Documentos/Documento/GetDocumentoFisico?nombreArchivo=L.4053.W.pdf"}
+  - {titre: "Décret 116/91, colonie Teuco — digesto de la Chambre des députés du Chaco", url: "https://digesto.legislaturachaco.gob.ar/Documentos/Documento/GetDocumentoFisico?nombreArchivo=D.0116-91.pdf"}
+  - {titre: "Constitution de la province du Chaco — Chambre des députés du Chaco", url: "https://legislaturachaco.gob.ar/uploads/files/constitucion-provincia-chaco-696a4e880a0cc612213072.pdf"}
+  - {titre: "Recensement 2022, population autochtone — INDEC", url: "https://www.indec.gob.ar/ftp/cuadros/poblacion/censo2022_poblacion_indigena.pdf"}
+  - {titre: "Liste des communautés autochtones avec personnalité juridique ou relevé territorial, 2025 — ministère de l'Intérieur", url: "http://datos.mininterior.gob.ar/dataset/6a702e6f-3292-44fe-804f-16b8dee008c1/resource/3c2137d5-46d3-40cf-9e01-ee406746b27a/download/listado-de-comunidades-indigenas-20251112.csv"}
+  - {titre: "Rapport du Rapporteur spécial sur la situation des peuples autochtones en Argentine, A/HRC/21/47/Add.2 (2012)", url: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}

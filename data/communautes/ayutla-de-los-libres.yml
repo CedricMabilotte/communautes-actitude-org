@@ -1,0 +1,68 @@
+uid: "ayutla-de-los-libres"
+nom: "Ayutla de los Libres (Ñuu Savi, Me'phaa et métis)"
+endonyme: ""
+territoire: "Commune d'Ayutla de los Libres, région Costa Chica, État du Guerrero"
+etats: ["Mexique"]
+region: "ameriques"
+coord: [17.0, -99.1]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 69123, annee: 2020, perimetre: "population de la commune d'Ayutla de los Libres dans ses limites de 2020 (recensement INEGI), avant la séparation de 37 localités érigées en commune de Ñuu Savi (décret 861 de 2021), toutes appartenances confondues", source: "https://gaia.inegi.org.mx/wscatgeo/v2/mgem/12/012"}
+lieux: {valeur: 110, unite: "communautés, délégations et quartiers (colonias) de la commune énumérés par les lignes directrices de l'élection", annee: 2024, source: "https://www.iepcgro.mx/principal/uploads/normativa_interna/lineamientos_eleccion_ayutla_2024.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 91, annee: 2020, perimetre: "localités du catalogue INEGI de la commune (limites postérieures à 2021) ayant au moins un habitant au recensement 2020 ; 112 localités au catalogue, dont 20 sans habitant et une sans donnée", source: "https://gaia.inegi.org.mx/wscatgeo/v2/localidades/12/012"}
+resume: >-
+  Ayutla de los Libres est une commune de la Costa Chica du Guerrero, habitée par des Ñuu Savi (Mixtèques), des Me'phaa (Tlapanèques) et des métis. En 2014, des communautés demandent l'élection des autorités municipales selon leurs systèmes normatifs (règles propres, dits « us et coutumes ») ; le Tribunal électoral fédéral ordonne en 2015 de vérifier ces systèmes et de consulter la population. Depuis le 15 juillet 2018, la commune est gouvernée sans partis politiques par un Conseil municipal communautaire (Concejo Municipal Comunitario) élu par une assemblée de représentants des communautés et quartiers (140 localités en 2017). Le Conseil a été renouvelé en 2021 et en 2024. En 2021, 37 communautés ñuu savi sont séparées d'Ayutla pour former la commune de Ñuu Savi.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Le rapport de la Rapporteuse spéciale sur sa visite au Mexique (A/HRC/39/17/Add.2, § 51) cite Ayutla de los Libres : le Tribunal électoral fédéral a validé la consultation et permis l'élection des autorités locales selon les us et coutumes en 2018.", annee: 2018, source: "https://documents.un.org/api/symbol/access?s=A/HRC/39/17/Add.2&l=en&t=pdf"}
+  - {mecanisme: "oit_169", detail: "Le Mexique ratifie la Convention 169 de l'OIT le 5 septembre 1990.", annee: 1990, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "Le Mexique vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Constitution politique des États-Unis mexicains, art. 2 (réformé le 30 septembre 2024)", nature: "constitution", annee: 2024, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  - {instrument: "Constitution politique de l'État libre et souverain du Guerrero, art. 8 à 11", nature: "constitution", annee: 2014, source: "https://www.iepcgro.mx/principal/uploads/publicaciones/memoria_ayutla_2021.pdf"}
+  - {instrument: "Loi 701 de reconnaissance, droits et culture des peuples et communautés autochtones de l'État du Guerrero, art. 5, 10, 12 et 26", nature: "loi", annee: 2011, source: "https://www.iepcgro.mx/principal/uploads/publicaciones/memoria_ayutla_2021.pdf"}
+  - {instrument: "Tribunal électoral du pouvoir judiciaire de la Fédération, chambre régionale de Mexico, SDF-JDC-545/2015", nature: "jurisprudence", annee: 2015, source: "https://www.te.gob.mx/sentenciasHTML/convertir/expediente/SDF-JDC-0545-2015"}
+  - {instrument: "Tribunal électoral du pouvoir judiciaire de la Fédération, chambre supérieure, SUP-REC-22355/2024", nature: "jurisprudence", annee: 2024, source: "https://www.iepcgro.mx/principal/uploads/snp/sentencias/SUP_REC_22355_2024.pdf"}
+  - {instrument: "Loi générale des droits linguistiques (LGDLPI), art. 4", nature: "loi", annee: 2003, source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Sur le fondement de l'art. 2 de la Constitution fédérale, des art. 8 et 9 de la Constitution du Guerrero et de l'art. 26 de la loi 701, l'Institut électoral du Guerrero organise l'élection du Conseil municipal communautaire (18 conseillers, 6 par zone ñuu savi, me'phaa et métisse, et 3 coordinateurs) par une assemblée de représentants, selon les lignes directrices de 2024.", source: "https://www.iepcgro.mx/principal/uploads/normativa_interna/lineamientos_eleccion_ayutla_2024.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La Constitution fédérale (art. 2 A I et II, réforme de 2024) reconnaît l'application de systèmes normatifs propres, dans le respect de la Constitution et des droits humains ; la chambre supérieure du Tribunal électoral (SUP-REC-22355/2024) annule la validation de l'élection de 2024, tenue en deux assemblées séparées, parce que les règles du système normatif fixées dans les lignes directrices n'avaient pas été appliquées.", source: "https://www.iepcgro.mx/principal/uploads/snp/sentencias/SUP_REC_22355_2024.pdf"}
+  justice_propre: {valeur: "partiel", note: "La Constitution fédérale (art. 2 A II, réforme de 2024) confie la juridiction autochtone aux autorités communautaires selon leurs systèmes normatifs, dans le cadre de l'ordre juridique en vigueur ; la loi fixe les cas de validation par les juges.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "La Constitution fédérale (art. 2 A IX) accorde l'usage préférentiel des ressources naturelles des lieux habités, sauf les domaines stratégiques et les droits acquis par des tiers.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  consentement: {valeur: "partiel", note: "La Constitution fédérale (art. 2 A XIII, 2024) impose une consultation visant le consentement ou l'accord ; le changement de mode d'élection d'Ayutla a été précédé de la consultation d'octobre 2015, ordonnée par la décision SDF-JDC-545/2015, puis de celle de juin 2017 sur le modèle d'élection.", source: "https://www.iepcgro.mx/principal/uploads/publicaciones/memoria_ayutla_2021.pdf"}
+  langue: {valeur: "partiel", note: "La loi générale des droits linguistiques (art. 4, 2003) fait des langues autochtones reconnues par la loi, dont relèvent le tu'un savi et le me'phaa, des langues nationales ayant la même validité que l'espagnol.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"}
+  education: {valeur: "partiel", note: "La Constitution fédérale (art. 2 A VI, réforme de 2024) prévoit la participation des peuples à la construction des modèles éducatifs.", source: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  fiscalite: {valeur: "partiel", note: "Le Conseil municipal communautaire gère le budget de la commune, avec une coordination chargée du trésor (lignes directrices de 2024) ; la Constitution fédérale (art. 2 B II, 2024) prévoit des dotations budgétaires administrées directement par les peuples et communautés.", source: "https://www.iepcgro.mx/principal/uploads/normativa_interna/lineamientos_eleccion_ayutla_2024.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Conseil municipal communautaire est élu en 2018, 2021 et 2024 ; l'élection de 2024, scindée en deux assemblées le 28 juillet, est tranchée par la chambre supérieure du Tribunal électoral le 16 octobre 2024, puis une nouvelle assemblée de représentants élit le Conseil 2024-2027 le 27 octobre 2024 (Quadratín Guerrero, 28 octobre 2024).", source: "https://www.iepcgro.mx/principal/uploads/snp/sentencias/SUP_REC_22355_2024.pdf"}
+chronologie:
+  - {annee: 2011, evenement: "Loi 701 du Guerrero sur les droits des peuples et communautés autochtones ; reconnaissance légale de la police communautaire."}
+  - {annee: 2014, evenement: "Demande d'élection selon les systèmes normatifs propres déposée auprès de l'Institut électoral du Guerrero (26 juin)."}
+  - {annee: 2015, evenement: "Décision SDF-JDC-545/2015 (25 juin) ; expertise anthropologique de l'Université autonome du Guerrero (août) ; première consultation favorable (19 octobre)."}
+  - {annee: 2017, evenement: "Deuxième consultation (10 et 11 juin) : choix de l'élection par une assemblée de représentants."}
+  - {annee: 2018, evenement: "Première élection du Conseil municipal communautaire par une assemblée de 280 représentants (15 juillet)."}
+  - {annee: 2021, evenement: "Deuxième élection du Conseil en assemblée (30 mai) : 279 représentants et 142 autorités locales présents."}
+  - {annee: 2021, evenement: "Décret 861 : 37 localités ñuu savi sont séparées d'Ayutla pour former la commune de Ñuu Savi (361,94 km², 34,34 % du territoire communal)."}
+  - {annee: 2024, evenement: "Assemblée scindée (28 juillet) ; décision SUP-REC-22355/2024 (16 octobre) ; élection du Conseil 2024-2027 (27 octobre)."}
+fiabilite:
+  verifie: ["Population communale au recensement INEGI 2020 (69 123).", "Dates du processus 2014-2021 et 140 localités en 2017 (mémoire de l'Institut électoral du Guerrero, 2021).", "Séparation de 37 localités vers la commune de Ñuu Savi (décret 861 de 2021) et liste des 110 localités en 2024 (lignes directrices 2024).", "Composition du Conseil et mode d'élection (lignes directrices 2024).", "Décisions SDF-JDC-545/2015 et SUP-REC-22355/2024.", "Mention d'Ayutla dans le rapport A/HRC/39/17/Add.2, § 51."]
+  non_confirme: ["Texte de la loi 701 et de la Constitution du Guerrero non consulté directement ; articles cités d'après les documents de l'Institut électoral.", "Régime foncier des communautés de la commune (biens communaux, ejidos).", "Surface de la commune après 2021 (seule la surface séparée, 361,94 km², est publiée).", "Population de la commune dans ses limites postérieures à 2021 (les lignes directrices de 2024 donnent une estimation de 52 223 habitants).", "Montant du budget géré par le Conseil."]
+sources:
+  - {titre: "Memoria del proceso electivo en el municipio de Ayutla de los Libres, 2021 — Institut électoral et de participation citoyenne du Guerrero", url: "https://www.iepcgro.mx/principal/uploads/publicaciones/memoria_ayutla_2021.pdf"}
+  - {titre: "Lineamientos para la elección en Ayutla de los Libres 2024 — Institut électoral et de participation citoyenne du Guerrero", url: "https://www.iepcgro.mx/principal/uploads/normativa_interna/lineamientos_eleccion_ayutla_2024.pdf"}
+  - {titre: "Dictamen pericial antropológico, Ayutla de los Libres, 2015 — Université autonome du Guerrero", url: "https://www.iepcgro.mx/principal/uploads/cult_dem/sisnomint/dictamen_ayutla_de_los_libres.pdf"}
+  - {titre: "SDF-JDC-545/2015 — Tribunal électoral du pouvoir judiciaire de la Fédération", url: "https://www.te.gob.mx/sentenciasHTML/convertir/expediente/SDF-JDC-0545-2015"}
+  - {titre: "SUP-REC-22355/2024 — Tribunal électoral du pouvoir judiciaire de la Fédération", url: "https://www.iepcgro.mx/principal/uploads/snp/sentencias/SUP_REC_22355_2024.pdf"}
+  - {titre: "Rapport de la Rapporteuse spéciale sur les droits des peuples autochtones, visite au Mexique (A/HRC/39/17/Add.2), 2018", url: "https://documents.un.org/api/symbol/access?s=A/HRC/39/17/Add.2&l=en&t=pdf"}
+  - {titre: "Tabares Merino, « Del H. Ayuntamiento a la Honorable Casa de los Pueblos: Concejo Municipal Comunitario de Ayutla de los Libres », Alteridades, 2022", url: "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-70172022000200059"}
+  - {titre: "« Eligen autoridades de Ayutla a su nuevo Concejo Municipal Comunitario », Quadratín Guerrero, 28 octobre 2024", url: "https://guerrero.quadratin.com.mx/eligen-autoridades-de-ayutla-a-su-nuevo-concejo-municipal-comunitario/"}
+  - {titre: "Constitution politique des États-Unis mexicains — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}
+  - {titre: "Loi générale des droits linguistiques — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf"}
+  - {titre: "Recensement 2020, commune d'Ayutla de los Libres — INEGI", url: "https://gaia.inegi.org.mx/wscatgeo/v2/mgem/12/012"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

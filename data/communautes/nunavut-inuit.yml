@@ -4,7 +4,7 @@ endonyme: "Nunavummiut"
 territoire: "Nunavut"
 etats: ["Canada"]
 region: "ameriques"
-coord: [70.0, -90.0]
+coord: [64.3, -96.0]
 type: "peuple_autochtone"
 base: "territoriale"
 types_secondaires: []

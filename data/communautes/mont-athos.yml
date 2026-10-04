@@ -1,0 +1,62 @@
+uid: "mont-athos"
+nom: "Communauté monastique du mont Athos"
+endonyme: "Άγιον Όρος (Agion Oros)"
+territoire: "Péninsule de l'Athos au-delà de Megali Vigla (Chalcidique, Macédoine centrale), partagée entre vingt monastères"
+etats: ["Grèce"]
+region: "europe"
+coord: [40.3, 24.2]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1746, annee: 2021, perimetre: "population résidente de l'Agion Oros (autogouverné), recensement de 2021 ; 1 811 en 2011, aucune femme", source: "https://elstat-outsourcers.statistics.gr/Census2022_GR.pdf"}
+lieux: {valeur: 20, unite: "monastères", annee: 2019, source: "https://www.constituteproject.org/constitution/Greece_2019"}
+surface_km2: {valeur: 330.4, annee: 1988, perimetre: "superficie du bien inscrit au patrimoine mondial (33 042,3 ha), qui couvre la péninsule", source: "https://whc.unesco.org/en/list/454/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La péninsule de l'Athos, au nord de la Grèce, est une « partie autogouvernée de l'État grec » selon l'article 105 de la Constitution de 1975. Son territoire est partagé entre vingt monastères orthodoxes, qui l'administrent par la Sainte Communauté (Hiera Koinotis, assemblée de leurs représentants), sous la juridiction spirituelle du Patriarcat œcuménique de Constantinople et la surveillance administrative de l'État, exercée par un gouverneur. La Charte constitutive (statut interne de la péninsule) votée par les monastères en 1924 et ratifiée par le décret législatif du 10 septembre 1926 fixe le régime. Les moines acquièrent la nationalité grecque à leur admission ; la résidence est réservée aux orthodoxes et l'entrée est soumise à autorisation.
+reconnaissance_regionale:
+  - {mecanisme: "union_europeenne", detail: "Déclaration commune n° 4 annexée à l'acte final du traité d'adhésion de la Grèce aux Communautés européennes (1979) : la Communauté tient compte du statut spécial de l'Athos, fondé sur l'article 105 de la Constitution, dans l'application et l'élaboration du droit communautaire, notamment en matière de douanes, d'exemptions fiscales et de droit de séjour ; ce statut y est dit justifié par des considérations spirituelles et religieuses.", annee: 1979, source: "https://athos.guide/en/athos-charter/holy-mountain-and-european-union"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République hellénique, art. 105 (régime de l'Agion Oros)", nature: "constitution", annee: 1975, source: "https://www.constituteproject.org/constitution/Greece_2019"}
+  - {instrument: "Charte constitutive du mont Athos, votée par la double synaxe extraordinaire (assemblée des représentants des vingt monastères)", nature: "statut_autonomie", annee: 1924, source: "https://athos.guide/en/athos-charter/charter-of-1924"}
+  - {instrument: "Décret législatif du 10/16 septembre 1926 portant ratification de la Charte constitutive du mont Athos", nature: "loi", annee: 1926, source: "https://athos.guide/en/athos-charter/charter-approval"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "L'Athos est gouverné par ses vingt monastères ; l'administration est exercée par leurs représentants réunis en Sainte Communauté, Constitution, art. 105 ; aucune modification du système administratif ni du nombre des monastères n'est permise.", source: "https://www.constituteproject.org/constitution/Greece_2019"}
+  pouvoir_normatif: {valeur: "partiel", note: "La synaxe extraordinaire des vingt higoumènes (supérieurs des monastères), réunie deux fois par an à Karyes, vote des dispositions réglementaires conformes à la Charte, communiquées au gouverneur et ratifiées par le ministre compétent, décret législatif de 1926, art. 6 ; la Charte elle-même est rédigée et votée par les vingt monastères puis ratifiée par le Patriarcat œcuménique et le Parlement, Constitution, art. 105, et le décret ne la ratifie que dans la mesure où elle ne contredit pas ses propres dispositions, décret, art. 1.", source: "https://athos.guide/en/athos-charter/chapter-3-extraordinary-assembly-rights"}
+  justice_propre: {valeur: "partiel", note: "La loi fixe le pouvoir judiciaire des autorités monastiques et de la Sainte Communauté, Constitution, art. 105 ; synaxe et gérontie (conseil des anciens) de chaque monastère, Sainte Communauté et, en appel, Patriarcat œcuménique jugent les infractions ecclésiastiques et disciplinaires, les contraventions de police et de douane et les litiges de bornage, décret législatif de 1926, art. 7 et 9 ; les infractions au code pénal autres que les contraventions relèvent des tribunaux de Thessalonique, art. 7.", source: "https://athos.guide/en/athos-charter/chapter-4-dispensing-justice"}
+  terres: {valeur: "reconnu", note: "Toute la péninsule est répartie entre les vingt monastères et son territoire est exempt d'expropriation, Constitution, art. 105 ; les biens immobiliers des monastères sont inaliénables, Charte, art. 181, et leurs dépendances (skites et kellia : ermitages et cellules) sont inaliénables et imprescriptibles, Charte, art. 126.", source: "https://athos.guide/en/athos-charter/property-in-athos"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "La Charte est rédigée et votée par les vingt monastères, Constitution, art. 105 ; selon le dossier du patrimoine mondial, la programmation et l'exécution des travaux sur un monastère requièrent son consentement et celui de la Sainte Communauté.", source: "https://whc.unesco.org/en/list/454/"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "La loi fixe les privilèges douaniers et fiscaux de l'Athos, Constitution, art. 105 ; le décret législatif de 1926, art. 2, exonère les produits et les revenus fonciers de l'Athos, les transferts et revenus des biens situés sur la péninsule, exempte du droit de timbre les contrats de transfert de droits immobiliers établis par les autorités monastiques ou la Sainte Communauté, et autorise des importations en franchise dans une limite par moine ; aucun pouvoir d'imposer propre n'est prévu.", source: "https://athos.guide/en/athos-charter/chapter-1-privileges-and-tax-exemptions"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Toute personne menant la vie monastique sur l'Athos acquiert la nationalité grecque sans autre formalité dès son admission comme novice ou moine, et la résidence y est interdite aux « hétérodoxes ou schismatiques », Constitution, art. 105 ; la nationalité acquise à ce titre peut être retirée à l'étranger qui quitte son monastère et la Sainte Communauté, Code de la nationalité, loi 3284/2004, art. 17.", source: "https://athos.guide/en/athos-charter/obtaining-greek-citizenship"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le dossier du patrimoine mondial de l'UNESCO décrit un système autoadministré relevant du droit constitutionnel grec, dans lequel la gestion est exercée par les représentants des monastères réunis en Sainte Communauté, la souveraineté de l'État restant intacte.", source: "https://whc.unesco.org/en/list/454/"}
+chronologie:
+  - {annee: 1924, evenement: "La double synaxe extraordinaire (assemblée des représentants) des vingt monastères vote le 10 mai la Charte constitutive du mont Athos."}
+  - {annee: 1926, evenement: "Le décret législatif du 10 septembre, publié le 16, ratifie et complète la Charte ; la Constitution de 1925-1926 inclut pour la première fois des dispositions sur l'Athos."}
+  - {annee: 1927, evenement: "La Constitution de 1927 reprend le régime de l'Athos (art. 109 à 112)."}
+  - {annee: 1975, evenement: "L'article 105 de la Constitution fait de l'Athos une partie autogouvernée de l'État grec."}
+  - {annee: 1979, evenement: "Déclaration commune sur le mont Athos annexée à l'acte d'adhésion de la Grèce aux Communautés européennes, effective au 1er janvier 1981."}
+  - {annee: 1988, evenement: "Inscription du mont Athos sur la liste du patrimoine mondial de l'UNESCO."}
+  - {annee: 2021, evenement: "Le recensement de l'Autorité statistique hellénique compte 1 746 résidents, contre 1 811 en 2011."}
+fiabilite:
+  verifie: ["Texte de l'article 105 de la Constitution (version révisée en 2019, Constitute Project).", "Population résidente 2011 et 2021 de l'Agion Oros (Autorité statistique hellénique, ELSTAT, résultats publiés le 17 mars 2023).", "Superficie du bien du patrimoine mondial, 33 042,3 ha, et description du régime de gestion (UNESCO).", "Articles 1, 2, 6, 7 et 9 du décret législatif de 1926 et articles de la Charte cités, d'après la traduction anglaise publiée par athos.guide."]
+  non_confirme: ["Le texte de la déclaration commune de 1979 n'a pas été consulté sur EUR-Lex (JO L 291 du 19 novembre 1979) ; il est repris d'une source secondaire.", "Les textes de la Charte de 1924 et du décret de 1926 n'ont été consultés que dans une traduction anglaise non officielle publiée par athos.guide, site non officiel, sans accès au Journal officiel grec ; la même source signale un débat doctrinal sur la hiérarchie entre la Charte et le décret.", "Nombre de localités habitées (Karyes, Dafni, skites, kellia) non relevé sur une source officielle.", "Aucun document d'un mécanisme onusien de la liste du cadre nommant le régime n'a été trouvé ; l'inscription au patrimoine mondial n'en fait pas partie.", "Effectivité appuyée sur le dossier UNESCO, sans rapport indépendant récent consulté."]
+sources:
+  - {titre: "Constitution de la Grèce (2019), art. 105 — Constitute Project", url: "https://www.constituteproject.org/constitution/Greece_2019"}
+  - {titre: "Article 105 de la Constitution grecque — athos.guide", url: "https://athos.guide/en/athos-charter/constitution-about-athos"}
+  - {titre: "La Charte constitutive de 1924 et le décret législatif de 1926 — athos.guide", url: "https://athos.guide/en/athos-charter/charter-of-1924"}
+  - {titre: "Décret législatif du 10 septembre 1926, article 1 (ratification de la Charte) — athos.guide", url: "https://athos.guide/en/athos-charter/charter-approval"}
+  - {titre: "Décret législatif du 10 septembre 1926, prérogatives de la synaxe extraordinaire — athos.guide", url: "https://athos.guide/en/athos-charter/chapter-3-extraordinary-assembly-rights"}
+  - {titre: "Décret législatif du 10 septembre 1926, privilèges et exemptions fiscales — athos.guide", url: "https://athos.guide/en/athos-charter/chapter-1-privileges-and-tax-exemptions"}
+  - {titre: "Décret législatif du 10 septembre 1926, administration de la justice — athos.guide", url: "https://athos.guide/en/athos-charter/chapter-4-dispensing-justice"}
+  - {titre: "Propriété sur l'Athos — athos.guide", url: "https://athos.guide/en/athos-charter/property-in-athos"}
+  - {titre: "Acquisition de la nationalité grecque — athos.guide", url: "https://athos.guide/en/athos-charter/obtaining-greek-citizenship"}
+  - {titre: "Restrictions de résidence — athos.guide", url: "https://athos.guide/en/athos-charter/restrictions-on-the-rights-of-residents"}
+  - {titre: "L'Athos et l'Union européenne — athos.guide", url: "https://athos.guide/en/athos-charter/holy-mountain-and-european-union"}
+  - {titre: "Mont Athos — Centre du patrimoine mondial de l'UNESCO", url: "https://whc.unesco.org/en/list/454/"}
+  - {titre: "Résultats du recensement de la population 2021 — Autorité statistique hellénique (ELSTAT)", url: "https://elstat-outsourcers.statistics.gr/Census2022_GR.pdf"}

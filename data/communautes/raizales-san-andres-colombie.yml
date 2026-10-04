@@ -1,0 +1,72 @@
+uid: "raizales-san-andres-colombie"
+nom: "Raizales de San Andrés et Providencia"
+endonyme: ""
+territoire: "Département archipel de San Andrés, Providencia et Santa Catalina"
+etats: ["Colombie"]
+region: "ameriques"
+coord: [12.6, -81.7]
+type: "communaute_afrodescendante"
+base: "mixte"
+types_secondaires: ["minorite_nationale"]
+population: {valeur: 25515, annee: 2018, perimetre: "personnes se déclarant raizales de l'archipel dans l'ensemble de la Colombie au recensement de 2018 (30 565 en 2005) ; le Comité pour l'élimination de la discrimination raciale juge ce recensement sous-dénombré", source: "https://www.dane.gov.co/files/investigaciones/boletines/grupos-etnicos/presentacion-grupos-etnicos-poblacion-NARP-2019.pdf"}
+lieux: {valeur: 5, unite: "communautés dont la loi 47 de 1993 (art. 9) garantit la représentation à l'assemblée départementale : North End, La Loma, San Luis, Providencia, Santa Catalina", annee: 1993, source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0047_1993.html"}
+surface_km2: {valeur: 70, annee: 1993, perimetre: "terres émergées de l'archipel, chiffre de l'arrêt C-530 de 1993 cité dans l'arrêt T-183 de 2017", source: "https://www.corteconstitucional.gov.co/relatoria/2017/t-183-17.htm"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Raizales sont la population native de l'archipel colombien de San Andrés, Providencia et Santa Catalina, dans la mer des Caraïbes, de langue créole à base anglaise (Creole ou Kriol). L'article 310 de la Constitution de 1991 dote l'archipel d'un régime spécial qui permet de limiter la circulation et la résidence pour protéger l'identité culturelle des communautés natives ; le décret-loi 2762 de 1991 crée à cette fin un office de contrôle de la circulation et de la résidence (OCCRE). La loi 47 de 1993 fait de l'anglais une langue officielle de l'archipel ; depuis la loi 2471 de 2025, le Creole ou Kriol, « langue maternelle du peuple ethnique raizal », l'est aussi. La Cour constitutionnelle qualifie les Raizales de groupe ethnique depuis 1994 et leur reconnaît le droit à la consultation préalable.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La Colombie ratifie la Convention 169 de l'OIT le 7 août 1991 ; l'arrêt T-800 de 2014 de la Cour constitutionnelle s'y réfère pour ordonner la consultation de la communauté raizal de Providencia.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "organe_traite", detail: "Le Comité pour l'élimination de la discrimination raciale nomme la population raizal parmi celles que le recensement de 2018 a mal dénombrées et demande des données fiables à son sujet (CERD/C/COL/CO/17-19, par. 4 et 5).", annee: 2020, source: "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CERD%2FC%2FCOL%2FCO%2F17-19&Lang=en"}
+base_nationale:
+  - {instrument: "Constitution politique de la Colombie (1991), art. 310 (régime spécial de l'archipel)", nature: "constitution", annee: 1991, source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr010.html"}
+  - {instrument: "Constitution politique de la Colombie (1991), art. transitoire 42 (réglementation provisoire de la densité de population de l'archipel par décret)", nature: "constitution", annee: 1991, source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr014.html"}
+  - {instrument: "Constitution politique de la Colombie, art. 176 modifié par l'acte législatif 2 de 2015 (siège de la communauté raizal à la Chambre des représentants)", nature: "constitution", annee: 2015, source: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr005.html"}
+  - {instrument: "Décret-loi 2762 du 13 décembre 1991 sur le contrôle de la densité de population de l'archipel", nature: "loi", annee: 1991, source: "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2762_1991.html"}
+  - {instrument: "Loi 47 de 1993, statut spécial du département archipel", nature: "loi", annee: 1993, source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0047_1993.html"}
+  - {instrument: "Loi 2471 du 4 juillet 2025 (Creole ou Kriol langue officielle, enseignement de l'« afroraizalidad »)", nature: "loi", annee: 2025, source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2471_2025.html"}
+  - {instrument: "Cour constitutionnelle, arrêt T-800 de 2014 (consultation préalable de la communauté raizal de Providencia)", nature: "jurisprudence", annee: 2014, source: "https://www.corteconstitucional.gov.co/relatoria/2014/T-800-14.htm"}
+  - {instrument: "Cour constitutionnelle, arrêt T-183 de 2017 (régime spécial et langue)", nature: "jurisprudence", annee: 2017, source: "https://www.corteconstitucional.gov.co/relatoria/2017/t-183-17.htm"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "L'arrêt T-800 de 2014 de la Cour constitutionnelle reconnaît à la communauté raizal de Providencia le droit fondamental à la consultation préalable et ordonne la suspension d'un projet hôtelier autorisé sans consultation ; il s'agit d'une consultation, pas d'un consentement.", source: "https://www.corteconstitucional.gov.co/relatoria/2014/T-800-14.htm"}
+  langue: {valeur: "reconnu", note: "La loi 47 de 1993 (art. 42, modifié par l'art. 2 de la loi 2471 de 2025) rend officiels dans l'archipel le Creole ou Kriol, l'espagnol et l'anglais ; les textes publics sur l'archipel sont publiés en espagnol et en anglais (art. 44) et les employés publics en contact avec le public doivent parler ces langues (art. 45 ; loi 2471 de 2025, art. 8). La loi 2471 de 2025 laisse douze mois au gouvernement pour sa réglementation (art. 7).", source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2471_2025.html"}
+  education: {valeur: "partiel", note: "La loi 47 de 1993 (art. 43) impose un enseignement bilingue espagnol-anglais dans l'archipel ; la loi 2471 de 2025 (art. 1, 4 et 5) le rend multilingue avec le Creole ou Kriol et crée une matière obligatoire sur l'« afroraizalidad » (histoire et culture raizales), dans le cadre du système éducatif national.", source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2471_2025.html"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "conteste", note: "La Constitution (art. 176, acte législatif 2 de 2015) attribue un siège supplémentaire à la Chambre des représentants à la communauté raizal, « de conformidad con la ley » (selon la loi) ; faute de loi d'application, ce siège n'a pas été pourvu aux élections de 2018 et de 2022, et le projet de loi 501 de 2025 a été classé le 22 juin 2026. Au niveau départemental, la loi 47 de 1993 (art. 9) garantit la représentation de North End, La Loma, San Luis, Providencia et Santa Catalina à l'assemblée départementale ; le décret-loi 2762 de 1991 (art. 25) réserve trois sièges du conseil de l'OCCRE à des représentants élus des communautés natives.", source: "https://www.elnuevosiglo.com.co/politica/comunidad-raizal-no-pierde-las-esperanza-de-que-el-congreso-reglamente-su-curul"}
+  statut_personnel: {valeur: "reconnu", note: "Le décret-loi 2762 de 1991 (art. 2 et 3) réserve le droit de résidence permanente dans l'archipel aux personnes nées sur place d'un parent domicilié, aux enfants de natifs et à des cas limités ; les natifs ne peuvent perdre ce statut (art. 6) ; l'OCCRE (office de contrôle de la circulation et de la résidence) le délivre et le retire aux autres (art. 24 et 26) ; l'article 310 de la Constitution autorise ces limites pour protéger l'identité culturelle des communautés natives.", source: "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2762_1991.html"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2017, la Cour constitutionnelle relève que la surpopulation que le régime de résidence devait résorber persiste (59 573 habitants en 2005, 77 759 projetés pour 2017) ; en 2020, le Comité pour l'élimination de la discrimination raciale juge que le recensement de 2018 ne rend pas compte de la population afrocolombienne, noire, palenquera et raizal. Le siège raizal à la Chambre des représentants, prévu depuis 2015, reste vacant faute de loi.", source: "https://www.corteconstitucional.gov.co/relatoria/2017/t-183-17.htm"}
+chronologie:
+  - {annee: 1991, evenement: "L'article 310 de la Constitution crée le régime spécial de l'archipel ; le décret-loi 2762 limite la circulation et la résidence et crée l'OCCRE (13 décembre)."}
+  - {annee: 1993, evenement: "Arrêt C-530 de la Cour constitutionnelle, qui valide le décret-loi 2762 ; loi 47 sur le statut spécial du département archipel (anglais langue officielle, enseignement bilingue)."}
+  - {annee: 1994, evenement: "Arrêt C-086 : la Cour constitutionnelle qualifie la population raizal de « grupo étnico perfectamente definido » (groupe ethnique défini)."}
+  - {annee: 2014, evenement: "Arrêt T-800 : la Cour constitutionnelle ordonne la consultation préalable de la communauté raizal de Providencia sur un projet hôtelier."}
+  - {annee: 2015, evenement: "L'acte législatif 2 modifie l'article 176 de la Constitution et prévoit un siège de représentant pour la communauté raizal."}
+  - {annee: 2017, evenement: "Arrêt T-183 : la Cour constitutionnelle rappelle les finalités du régime spécial, dont la survie du peuple raizal."}
+  - {annee: 2025, evenement: "La loi 2471 fait du Creole ou Kriol une langue officielle de l'archipel et crée l'enseignement de l'« afroraizalidad »."}
+  - {annee: 2026, evenement: "Le projet de loi 501 de 2025, qui devait organiser l'élection du représentant raizal, est classé le 22 juin."}
+fiabilite:
+  verifie: ["Articles 176, 310 et transitoire 42 de la Constitution (texte du Secrétariat du Sénat).", "Articles 1 à 6, 11 et 22 à 26 du décret-loi 2762 de 1991.", "Articles 9, 33, 42 (version de 2025), 43, 44, 45 et 47 de la loi 47 de 1993.", "Articles 1 à 9 de la loi 2471 de 2025.", "Arrêt T-800 de 2014 : consultation préalable ordonnée, référence à la Convention 169 de l'OIT et à l'arrêt C-053 de 1999 (territoire de la communauté native = îles, cayes et îlots de l'archipel).", "Arrêt T-183 de 2017 : citation de l'arrêt C-086 de 1994 et de l'arrêt C-530 de 1993 (70 km² pour l'archipel), population de 2005 et projection pour 2017.", "CERD/C/COL/CO/17-19, par. 4 et 5.", "DANE, recensement de 2018 : 25 515 personnes se déclarant raizales (30 565 en 2005).", "Projet de loi 501 de 2025 (Chambre) sur le siège raizal, classé le 22 juin 2026 (site de la Chambre des représentants)."]
+  non_confirme: ["Absence du siège raizal aux élections législatives de 2026 : seulement déduite du classement du projet de loi 501 de 2025 et d'une tribune d'avril 2026.", "Découpage effectif des circonscriptions de l'assemblée départementale prévu par l'article 9 de la loi 47 de 1993.", "Existence d'un droit collectif sur les terres au-delà des restrictions à la vente d'immeubles permises par l'article 310 ; nombre de villages ou secteurs habités.", "Composition actuelle du conseil de l'OCCRE après les réformes administratives postérieures à 1991."]
+sources:
+  - {titre: "Constitution politique de la Colombie, art. 310 — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr010.html"}
+  - {titre: "Constitution politique de la Colombie, art. transitoire 42 — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr014.html"}
+  - {titre: "Constitution politique de la Colombie, art. 176 — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr005.html"}
+  - {titre: "Décret-loi 2762 de 1991 — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/decreto_2762_1991.html"}
+  - {titre: "Loi 47 de 1993 (art. 1 à 43) — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0047_1993.html"}
+  - {titre: "Loi 47 de 1993 (art. 44 et suivants) — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0047_1993_pr001.html"}
+  - {titre: "Loi 47 de 1993, texte d'origine — ministère des Affaires étrangères", url: "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/pdf/ley_0047_1993.pdf"}
+  - {titre: "Loi 2471 de 2025 — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2471_2025.html"}
+  - {titre: "Arrêt T-800 de 2014 — Cour constitutionnelle", url: "https://www.corteconstitucional.gov.co/relatoria/2014/T-800-14.htm"}
+  - {titre: "Arrêt T-183 de 2017 — Cour constitutionnelle", url: "https://www.corteconstitucional.gov.co/relatoria/2017/t-183-17.htm"}
+  - {titre: "Observations finales du CERD sur la Colombie (CERD/C/COL/CO/17-19), 2020", url: "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CERD%2FC%2FCOL%2FCO%2F17-19&Lang=en"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Población negra, afrocolombiana, raizal y palenquera, recensement de 2018 — DANE", url: "https://www.dane.gov.co/files/investigaciones/boletines/grupos-etnicos/presentacion-grupos-etnicos-poblacion-NARP-2019.pdf"}
+  - {titre: "Curul raizal adicional en la Cámara de Representantes (projet de loi 501 de 2025) — Chambre des représentants", url: "https://www.camara.gov.co/curul-raizal-adicional-en-la-camara-de-representantes/"}
+  - {titre: "Comunidad raizal mantiene la esperanza de que reglamenten su curul en el Congreso — El Nuevo Siglo, 17 novembre 2025", url: "https://www.elnuevosiglo.com.co/politica/comunidad-raizal-no-pierde-las-esperanza-de-que-el-congreso-reglamente-su-curul"}
+  - {titre: "Una curul sin voz: la omisión legislativa frente al pueblo raizal — Ámbito Jurídico, avril 2026", url: "https://www.ambitojuridico.com/noticias/derecho-publico/una-curul-sin-voz-la-omision-legislativa-frente-al-pueblo-raizal"}

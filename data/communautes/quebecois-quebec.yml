@@ -1,0 +1,69 @@
+uid: "quebecois-quebec"
+nom: "Nation québécoise"
+endonyme: "Québécoises et Québécois"
+territoire: "Province de Québec"
+etats: ["Canada"]
+region: "ameriques"
+coord: [52.9, -72.0]
+type: "minorite_nationale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 9056044, annee: 2024, perimetre: "population totale du Québec au 1er juillet 2024 (estimation provisoire de l'Institut de la statistique du Québec)", source: "https://statistique.quebec.ca/fr/fichier/le-quebec-chiffres-en-main-edition-2025.pdf"}
+lieux: {valeur: 1123, unite: "municipalités locales", annee: 2026, source: "https://www.quebec.ca/gouvernement/portrait-quebec/geographie-territoire"}
+surface_km2: {valeur: 1667712, annee: 2025, perimetre: "superficie totale du Québec, terre (78 %) et eau (22 %)", source: "https://statistique.quebec.ca/fr/fichier/le-quebec-chiffres-en-main-edition-2025.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Depuis 2022, la Loi constitutionnelle de 1867 contient deux articles ajoutés par une loi québécoise : « Les Québécoises et les Québécois forment une nation » et « Le français est la seule langue officielle du Québec » (art. 90Q.1 et 90Q.2). La nation exerce son autogouvernement par l'Assemblée nationale et le gouvernement du Québec, dans le partage des compétences de la fédération canadienne. Dans le Renvoi relatif à la sécession du Québec (avis rendu en 1998 par la Cour suprême à la demande du gouvernement fédéral), la Cour a jugé que ni la Constitution ni le droit international ne donnent au Québec un droit de sécession unilatérale, mais qu'une majorité claire en réponse à une question claire obligerait les autres parties de la fédération à négocier. La Loi 99 de 2000 affirme le droit du peuple québécois à disposer de lui-même ; la Loi sur la clarté de 2000 encadre, au niveau fédéral, l'examen de la question et de la majorité.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi constitutionnelle de 1867, art. 71, 90Q.1, 90Q.2, 92, 92A, 93, 93A et 133", nature: "constitution", annee: 1867, source: "https://laws-lois.justice.gc.ca/fra/const/page-2.html"}
+  - {instrument: "Loi sur la langue officielle et commune du Québec, le français (L.Q. 2022, c. 14), ajout des art. 90Q.1 et 90Q.2", nature: "loi", annee: 2022, source: "https://laws-lois.justice.gc.ca/fra/const/endnotes.html"}
+  - {instrument: "Renvoi relatif à la sécession du Québec, [1998] 2 R.C.S. 217", nature: "jurisprudence", annee: 1998, source: "https://juricaf.org/arret/CANADA-COURSUPREME-19980820-19982RCS217"}
+  - {instrument: "Loi sur l'exercice des droits fondamentaux et des prérogatives du peuple québécois et de l'État du Québec (RLRQ, c. E-20.2, « Loi 99 »)", nature: "loi", annee: 2000, source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/E-20.2"}
+  - {instrument: "Loi de clarification (Loi sur la clarté, L.C. 2000, ch. 26)", nature: "loi", annee: 2000, source: "https://laws-lois.justice.gc.ca/fra/lois/C-31.8/TexteComplet.html"}
+  - {instrument: "Charte de la langue française (RLRQ, c. C-11)", nature: "loi", annee: 1977, source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-11"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Législature du Québec instituée par la Loi constitutionnelle de 1867, art. 71 ; depuis la loi québécoise de 1968 (S.Q. 1968, ch. 9), elle se compose du lieutenant-gouverneur et de l'Assemblée nationale.", source: "https://laws-lois.justice.gc.ca/fra/const/page-2.html"}
+  pouvoir_normatif: {valeur: "reconnu", note: "La législature a une compétence législative exclusive sur les matières de l'art. 92 de la Loi constitutionnelle de 1867, dont « la propriété et les droits civils dans la province » (par. 13), base du droit civil québécois.", source: "https://laws-lois.justice.gc.ca/fra/const/page-3.html"}
+  justice_propre: {valeur: "partiel", note: "La province légifère sur l'administration de la justice et l'organisation des tribunaux, Loi constitutionnelle de 1867, art. 92 par. 14 ; les juges des cours supérieures sont nommés par le gouverneur général, art. 96.", source: "https://laws-lois.justice.gc.ca/fra/const/page-3.html"}
+  terres: {valeur: "partiel", note: "Les terres, mines et minéraux appartenant à la province lors de l'union lui appartiennent, Loi constitutionnelle de 1867, art. 109 ; la province administre et vend les terres publiques, art. 92 par. 5 ; il s'agit d'une propriété de l'État provincial, pas d'un titre collectif.", source: "https://laws-lois.justice.gc.ca/fra/const/page-3.html"}
+  ressources: {valeur: "reconnu", note: "Compétence exclusive sur la prospection, l'exploitation et la gestion des ressources naturelles non renouvelables, des ressources forestières et de la production d'énergie électrique, Loi constitutionnelle de 1867, art. 92A.", source: "https://laws-lois.justice.gc.ca/fra/const/page-3.html"}
+  consentement: {valeur: "partiel", note: "Un ministre fédéral ne peut déposer une résolution de modification constitutionnelle relevant de la formule générale sans le consentement préalable d'une majorité de provinces comprenant le Québec, Loi concernant les modifications constitutionnelles (1996), art. 1 ; ce droit de veto est législatif et ne figure pas dans la Constitution.", source: "https://laws-lois.justice.gc.ca/fra/lois/C-36.7/page-1.html"}
+  langue: {valeur: "reconnu", note: "« Le français est la seule langue officielle du Québec. Il est aussi la langue commune de la nation québécoise », Loi constitutionnelle de 1867, art. 90Q.2 (2022) ; Charte de la langue française, art. 1.", source: "https://laws-lois.justice.gc.ca/fra/const/page-2.html"}
+  education: {valeur: "reconnu", note: "Compétence législative exclusive sur l'éducation, Loi constitutionnelle de 1867, art. 93 ; les garanties confessionnelles des par. (1) à (4) ne s'appliquent plus au Québec depuis 1997, art. 93A.", source: "https://laws-lois.justice.gc.ca/fra/const/page-3.html"}
+  fiscalite: {valeur: "reconnu", note: "La législature peut lever des impôts directs dans la province pour des objets provinciaux et emprunter sur le crédit de la province, Loi constitutionnelle de 1867, art. 92 par. 2 et 3.", source: "https://laws-lois.justice.gc.ca/fra/const/page-3.html"}
+  representation: {valeur: "reconnu", note: "Le Québec forme une des quatre divisions du Sénat, avec 24 sénateurs, Loi constitutionnelle de 1867, art. 22 ; au moins trois des juges de la Cour suprême sont choisis parmi les juges ou les avocats du Québec, Loi sur la Cour suprême, art. 6.", source: "https://laws-lois.justice.gc.ca/fra/const/page-1.html"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "partiel", note: "La Cour suprême (1998) exclut un droit de sécession unilatérale mais juge qu'une majorité claire en réponse à une question claire ferait naître l'obligation de négocier ; la Loi 99 (2000), art. 1 à 4, affirme ce droit et fixe la majorité à 50 % des votes valides plus un ; la Loi sur la clarté (2000) confie à la Chambre des communes l'examen de la question et de la majorité.", source: "https://juricaf.org/arret/CANADA-COURSUPREME-19980820-19982RCS217"}
+effectivite: {valeur: "effective", note: "Les institutions du Québec exercent leurs compétences ; en avril 2021, la Cour d'appel du Québec a rejeté l'appel visant six articles de la Loi 99, dont la règle des 50 % plus un, tout en retirant du jugement de première instance le paragraphe qui déclarait ces articles conformes à la Constitution, selon Le Devoir.", source: "https://www.ledevoir.com/politique/quebec/598542/la-loi-99-sur-l-autodetermination-du-quebec-validee-par-la-cour-d-appel"}
+chronologie:
+  - {annee: 1867, evenement: "Loi constitutionnelle de 1867 : création de la province de Québec et de sa législature."}
+  - {annee: 1968, evenement: "Abolition du Conseil législatif ; la chambre élue devient l'Assemblée nationale."}
+  - {annee: 1977, evenement: "Charte de la langue française."}
+  - {annee: 1996, evenement: "Loi fédérale concernant les modifications constitutionnelles : consentement préalable du Québec requis."}
+  - {annee: 1997, evenement: "Modification constitutionnelle (Québec) : ajout de l'art. 93A, fin des garanties confessionnelles scolaires."}
+  - {annee: 1998, evenement: "Renvoi relatif à la sécession du Québec (20 août)."}
+  - {annee: 2000, evenement: "Loi sur la clarté (fédérale) et Loi 99 (québécoise)."}
+  - {annee: 2021, evenement: "La Cour d'appel du Québec rejette l'appel contre six articles de la Loi 99 (affaire Henderson)."}
+  - {annee: 2022, evenement: "Ajout des art. 90Q.1 et 90Q.2 à la Loi constitutionnelle de 1867 par la loi québécoise L.Q. 2022, c. 14."}
+  - {annee: 2025, evenement: "Dépôt du projet de loi n° 1, Loi constitutionnelle de 2025 sur le Québec (9 octobre)."}
+fiabilite:
+  verifie: ["Art. 22, 71, 90Q.1, 90Q.2, 92, 92A, 93, 93A, 96, 109 et 133 de la Loi constitutionnelle de 1867 et notes de fin 35, 51 et 113 (site de Justice Canada).", "Loi 99, art. 1 à 13 (LégisQuébec).", "Loi sur la clarté, préambule et art. 1 à 3 (Justice Canada).", "Renvoi relatif à la sécession du Québec, sommaire et motifs (Juricaf).", "Charte de la langue française, art. 1.", "Loi sur la Cour suprême, art. 6 ; Loi concernant les modifications constitutionnelles, art. 1.", "Population 2024, superficie (ISQ, Le Québec chiffres en main 2025) ; 1 123 municipalités locales (Québec.ca, 2026)."]
+  non_confirme: ["Justice Canada indique que les art. 90Q.1 et 90Q.2 « visent à modifier » la constitution de la province en vertu de l'art. 45 de la Loi constitutionnelle de 1982 ; leur portée juridique n'a pas été tranchée par un tribunal dans les sources consultées.", "Projet de loi n° 1 (Loi constitutionnelle de 2025 sur le Québec) : réinscrit le 6 mai 2026, dernière séance d'étude détaillée le 10 juin 2026 ; la 3e session de la 43e législature a pris fin le 27 août 2026 sans adoption du projet.", "Arrêt de la Cour d'appel de 2021 (Henderson) connu par un article de presse, texte de l'arrêt non ouvert ; résultats des référendums de 1980 et 1995 non vérifiés sur une source officielle.", "Les nations autochtones du Québec ont leurs propres fiches ; la Cour suprême (1998) n'a pas tranché si le peuple québécois englobe toute la population de la province."]
+sources:
+  - {titre: "Loi constitutionnelle de 1867, art. 1 à 50 — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/const/page-1.html"}
+  - {titre: "Loi constitutionnelle de 1867, art. 51 à 90S — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/const/page-2.html"}
+  - {titre: "Loi constitutionnelle de 1867, art. 91 à 116 — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/const/page-3.html"}
+  - {titre: "Loi constitutionnelle de 1867, art. 117 à 147 — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/const/page-4.html"}
+  - {titre: "Lois constitutionnelles, notes de fin — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/const/endnotes.html"}
+  - {titre: "Renvoi relatif à la sécession du Québec, texte intégral — Juricaf", url: "https://juricaf.org/arret/CANADA-COURSUPREME-19980820-19982RCS217"}
+  - {titre: "Loi sur l'exercice des droits fondamentaux et des prérogatives du peuple québécois et de l'État du Québec — LégisQuébec", url: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/E-20.2"}
+  - {titre: "Loi de clarification (L.C. 2000, ch. 26) — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/C-31.8/TexteComplet.html"}
+  - {titre: "Charte de la langue française — LégisQuébec", url: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-11"}
+  - {titre: "Loi concernant les modifications constitutionnelles — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/C-36.7/page-1.html"}
+  - {titre: "Loi sur la Cour suprême — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/S-26/page-1.html"}
+  - {titre: "Le Québec chiffres en main, édition 2025 — Institut de la statistique du Québec", url: "https://statistique.quebec.ca/fr/fichier/le-quebec-chiffres-en-main-edition-2025.pdf"}
+  - {titre: "Géographie du territoire québécois et portraits régionaux — Québec.ca", url: "https://www.quebec.ca/gouvernement/portrait-quebec/geographie-territoire"}
+  - {titre: "Projet de loi n° 1, Loi constitutionnelle de 2025 sur le Québec — Assemblée nationale", url: "https://www.assnat.qc.ca/fr/travaux-parlementaires/projets-loi/projet-loi-1-43-2.html"}
+  - {titre: "La loi sur l'autodétermination du Québec est constitutionnelle — Le Devoir, 10 avril 2021", url: "https://www.ledevoir.com/politique/quebec/598542/la-loi-99-sur-l-autodetermination-du-quebec-validee-par-la-cour-d-appel"}

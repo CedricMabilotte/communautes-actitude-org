@@ -1,0 +1,57 @@
+uid: "entites-traditionnelles-concejos-navarre"
+nom: "Concejos de Navarre"
+endonyme: ""
+territoire: "Communauté forale de Navarre : concejos de 60 communes composées, Bardenas Reales, vallées d'Aezkoa, de Roncal et de Salazar, sierra d'Aralar"
+etats: ["Espagne"]
+region: "europe"
+coord: [42.8, -1.6]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 40025, annee: 2025, perimetre: "habitants des 329 concejos dont la population est renseignée dans la couche officielle IDENA (15 polygones sur 344 sans donnée) ; entités traditionnelles non comptées", source: "https://idena.navarra.es/ogc/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=IDENA:DIADMI_Pol_Concejo&propertyName=MUNICIPIO,CONCEJO,HABIT2025,GEOM_AREA&outputFormat=application/json"}
+lieux: {valeur: 349, unite: "entités : 344 concejos (polygones de la couche officielle IDENA) et 5 corporations traditionnelles nommées par la loi forale 6/1990", annee: 2026, source: "https://idena.navarra.es/ogc/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=IDENA:DIADMI_Pol_Concejo&propertyName=MUNICIPIO,CONCEJO,HABIT2025,GEOM_AREA&outputFormat=application/json"}
+surface_km2: {valeur: 2087, annee: 2026, perimetre: "somme des surfaces des 344 polygones de concejos de la couche IDENA ; les 418 km² des Bardenas Reales et les terres des autres corporations traditionnelles ne sont pas comptés", source: "https://idena.navarra.es/ogc/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=IDENA:DIADMI_Pol_Concejo&propertyName=MUNICIPIO,CONCEJO,HABIT2025,GEOM_AREA&outputFormat=application/json"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  En Navarre, la loi forale 6/1990 du 2 juillet, de l'administration locale, reconnaît comme entités locales, à côté des communes, les concejos et les corporations traditionnelles titulaires ou gestionnaires de biens communaux. Un concejo est une entité dotée de la personnalité juridique, située dans le territoire d'une commune, qui administre son patrimoine et les bienes comunales (biens communaux, dont la jouissance revient à l'ensemble des habitants). Il est gouverné par un président et une junta (conseil) élus, ou par un concejo abierto (assemblée de tous les habitants inscrits) quand il compte moins de 50 habitants. La loi nomme cinq corporations traditionnelles : la Communauté des Bardenas Reales, la Communauté de la vallée d'Aezkoa, la Mancomunidad (groupement) de la vallée de Roncal, l'Universidad (corporation) de la vallée de Salazar et l'Union d'Aralar, régies par leurs propres règlements, ordonnances et concordes.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi organique 13/1982 du 10 août, de réintégration et d'amélioration du régime foral de Navarre (LORAFNA), art. 46 et 50", nature: "loi_organique", annee: 1982, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  - {instrument: "Loi forale 6/1990 du 2 juillet, de l'administration locale de Navarre, art. 3, 37 à 45, 97 à 100 et 139 à 156", nature: "loi", annee: 1990, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19817"}
+  - {instrument: "Loi forale 4/2019 du 4 février, de réforme de l'administration locale de Navarre", nature: "loi", annee: 2019, source: "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2642"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le concejo est gouverné par un président et une junta élus au scrutin majoritaire par les résidents inscrits sur les listes électorales, à la date des élections municipales, ou par un concejo abierto sous 50 habitants, loi forale 6/1990, art. 38 ; les corporations traditionnelles suivent leurs propres règlements, ordonnances, conventions, sentences ou concordes, art. 45.1.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19817"}
+  pouvoir_normatif: {valeur: "partiel", note: "La junta ou le concejo abierto approuve les ordonnances et règle l'usage des biens communaux, loi forale 6/1990, art. 41.1 ; le concejo dispose des prérogatives d'une commune dans le seul champ de ses compétences, art. 37.1 et 39.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19817"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Les biens communaux sont inaliénables, imprescriptibles, insaisissables et non imposables, loi forale 6/1990, art. 100 ; leur administration, leur disposition et le régime de leur usage reviennent aux entités locales, art. 139 ; toute aliénation au-delà de petites parcelles exige une loi forale, art. 140.5.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19817"}
+  ressources: {valeur: "partiel", note: "Le concejo règle l'aprovechamiento (droit d'usage : culture, pâturage, bois) de ses biens, loi forale 6/1990, art. 39.1.a ; la loi fixe les bénéficiaires (habitants résidant au moins neuf mois par an), la taille des lots et le plafond des redevances, art. 142 à 156.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19817"}
+  consentement: {valeur: "partiel", note: "La commune doit assurer au concejo un droit de participation aux décisions qui touchent ses intérêts, par un organe consultatif, loi forale 6/1990, art. 39.4 (rédaction de 2019) ; l'opposition écrite de la majorité des habitants, ou celle de la commune, arrête la procédure de création d'un concejo, art. 43.1.5ª.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19817"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "La junta ou le concejo abierto vote le budget, loi forale 6/1990, art. 41.1.b, et garde la décision sur les taxes, contributions spéciales et autres ressources du concejo même quand celui-ci confie sa gestion administrative à la commune, art. 42 bis.1.a ; le pouvoir fiscal des corporations traditionnelles est limité aux taxes, prix publics et contributions spéciales, art. 45.2.a.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19817"}
+  representation: {valeur: "partiel", note: "La Commission forale du régime local, organe consultatif entre le Gouvernement de Navarre et les entités locales, compte quinze représentants des communes, concejos et comarques, avec une représentation garantie pour chaque type d'entité, loi forale 6/1990, art. 64 et 65.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19817"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon l'encyclopédie Wikipédia en espagnol, qui reprend les relevés de l'Institut de statistique de Navarre, 89 concejos sont supprimés fin 1990 en application de la loi forale 6/1990 et 9 en 1991 ; leur nombre passe de 388 en 1991 à 345 au 1er janvier 2024. Le préambule de la loi forale 4/2019 crée une gestion partagée avec la commune pour les concejos dont les moyens ne permettent pas d'assurer seuls les tâches minimales, et ajoute comme cause d'extinction l'absence de candidats à deux élections successives.", source: "https://es.wikipedia.org/wiki/Concejo_(Navarra)"}
+chronologie:
+  - {annee: 882, evenement: "Selon la Communauté des Bardenas Reales, le roi Sancho García accorde à la vallée de Roncal ses droits de cojouissance sur les Bardenas."}
+  - {annee: 1841, evenement: "Ley Paccionada (loi pactée) du 16 août, base des compétences de la Navarre en matière d'administration locale."}
+  - {annee: 1982, evenement: "La LORAFNA attribue à la Navarre l'administration locale et le contrôle des communes, concejos et entités locales, art. 46."}
+  - {annee: 1990, evenement: "Loi forale 6/1990 du 2 juillet, de l'administration locale de Navarre, en vigueur le 1er octobre."}
+  - {annee: 2004, evenement: "Loi forale 11/2004 : modification des articles 37, 38, 44 et 45."}
+  - {annee: 2014, evenement: "Loi forale 23/2014 : nouvelle rédaction de l'article 3.1."}
+  - {annee: 2019, evenement: "Loi forale 4/2019 : concejo abierto volontaire, motion de censure, auzolan (travail collectif), organe de participation concejil, gestion partagée avec la commune."}
+fiabilite:
+  verifie: ["Loi forale 6/1990, art. 3, 37 à 45, 64, 65, 97 à 100, 139 à 156 (BOE, texte consolidé).", "Loi forale 4/2019, préambule et article 1 (BOE).", "LORAFNA, art. 46 et 50 (BOE).", "344 polygones de concejos, population 2025 et surfaces (couche DIADMI_Pol_Concejo, IDENA, version du 6 août 2026).", "Surface de 41 845 ha des Bardenas Reales et liste des entités congozantes, c'est-à-dire cojouissantes (site de la Communauté des Bardenas Reales)."]
+  non_confirme: ["15 polygones de la couche DIADMI_Pol_Concejo n'ont ni nom ni population ; 14 ont été nommés par la couche cadastrale CATAST_Pol_Concejo, un (code 1440101, Larraun) reste sans nom et ne figure pas dans le tableau.", "Le nombre total des « autres corporations traditionnelles » visées par l'art. 3.1.c n'a pas été trouvé sur une source officielle.", "Les juntas de las facerías (pâturages indivis entre plusieurs entités) n'ont pas été examinées.", "Le nombre de concejos réellement gérés en régime partagé avec la commune (art. 42 bis) n'a pas été trouvé.", "La couche IDENA compte 344 polygones de concejos ; Wikipédia en espagnol, d'après les padrones (registres municipaux de population) de l'Institut de statistique de Navarre, en compte 345 au 1er janvier 2024 ; l'écart n'a pas été expliqué.", "La surface de 41 845 ha est donnée par la Communauté des Bardenas Reales pour le parc naturel et réserve de biosphère ; la coïncidence exacte avec le territoire de la Communauté n'a pas été vérifiée.", "Le nombre de concejos sans candidature aux élections concejiles de 2023 n'a pas été examiné."]
+sources:
+  - {titre: "Loi forale 6/1990, de l'administration locale de Navarre — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-19817"}
+  - {titre: "Loi forale 4/2019, de réforme de l'administration locale de Navarre — BOE", url: "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2642"}
+  - {titre: "Loi organique 13/1982, de réintégration et d'amélioration du régime foral de Navarre — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  - {titre: "Couche des concejos de Navarre (DIADMI_Pol_Concejo) — IDENA, Gouvernement de Navarre", url: "https://idena.navarra.es/ogc/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=IDENA:DIADMI_Pol_Concejo&propertyName=MUNICIPIO,CONCEJO,HABIT2025,GEOM_AREA&outputFormat=application/json"}
+  - {titre: "Couche cadastrale des concejos (CATAST_Pol_Concejo) — IDENA, Gouvernement de Navarre", url: "https://idena.navarra.es/ogc/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=IDENA:CATAST_Pol_Concejo&propertyName=MUNICIPIO,CONCEJO,GEOM_AREA&outputFormat=application/json"}
+  - {titre: "Concejo (Navarra) — Wikipédia en espagnol", url: "https://es.wikipedia.org/wiki/Concejo_(Navarra)"}
+  - {titre: "Situation géographique — Communauté des Bardenas Reales", url: "https://bardenasreales.es/situacion-geografica/"}
+  - {titre: "Entités congozantes — Communauté des Bardenas Reales", url: "https://bardenasreales.es/comunidad/entidades-congozantes/"}
+  - {titre: "Organisation — Communauté des Bardenas Reales", url: "https://bardenasreales.es/comunidad/organizacion/"}

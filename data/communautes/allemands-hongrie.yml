@@ -1,0 +1,58 @@
+uid: "allemands-hongrie"
+nom: "Allemands de Hongrie"
+endonyme: "Ungarndeutsche"
+territoire: "Hongrie (autogouvernements locaux, territoriaux et national)"
+etats: ["Hongrie"]
+region: "europe"
+coord: [46.6, 18.5]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 142551, annee: 2022, perimetre: "personnes déclarant appartenir à la nationalité allemande au recensement (appartenance, langue maternelle ou langue familiale)", source: "https://nemzetisegek.hu/2023/10/04/a-nepszamlalas-adataibol/"}
+lieux: {valeur: 406, unite: "autogouvernements locaux allemands élus", annee: 2019, source: "https://webassets.eurac.edu/31538/1661962535-hungary-2022.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "autonomie non territoriale", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Allemands de Hongrie (Ungarndeutsche) sont l'une des treize nationalités reconnues en Hongrie. La Loi fondamentale de 2011 leur reconnaît le droit de créer des autogouvernements locaux et nationaux (art. XXIX), organisés par la loi CLXXIX de 2011 sur les droits des nationalités. Les électeurs inscrits sur la liste allemande élisent 406 autogouvernements locaux (2019), 15 autogouvernements territoriaux (2019) et l'Autogouvernement national des Allemands de Hongrie (LdU), qui peut gérer des établissements scolaires et culturels. La liste allemande a obtenu un mandat préférentiel (siège attribué avec un quart des voix normalement requises) à l'Assemblée nationale en 2018 et en 2022, mais aucun siège en 2026.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième rapport de la Hongrie au titre de la Convention-cadre (2019) : il présente les chiffres du recensement de 2011 pour la nationalité allemande, les organisations allemandes et les droits de consentement des autogouvernements de nationalité prévus par la loi CLXXIX de 2011.", annee: 2019, source: "https://rm.coe.int/5th-sr-hungary-en/168092522f"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi fondamentale de la Hongrie (2011), art. 2 al. 2 et art. XXIX", nature: "constitution", annee: 2011, source: "https://www.constituteproject.org/constitution/Hungary_2016"}
+  - {instrument: "Loi CLXXIX de 2011 sur les droits des nationalités", nature: "loi", annee: 2011, source: "https://webassets.eurac.edu/31538/1661962535-hungary-2022.pdf"}
+  - {instrument: "Loi CCIII de 2011 sur l'élection des membres de l'Assemblée nationale (mandat préférentiel des nationalités)", nature: "loi", annee: 2011, source: "https://rm.coe.int/5th-sr-hungary-en/168092522f"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les nationalités ont le droit de créer des autogouvernements locaux et nationaux, Loi fondamentale, art. XXIX, al. 2 ; la loi CLXXIX de 2011 organise l'élection des autogouvernements locaux, territoriaux et nationaux ; en 2019, 406 autogouvernements locaux et 15 territoriaux allemands (Eurac Research).", source: "https://www.constituteproject.org/constitution/Hungary_2016"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "reconnu", note: "Les autogouvernements des nationalités donnent leur avis et leur consentement sur les questions d'éducation, de culture et d'usage de la langue qui concernent leur communauté, loi CLXXIX de 2011, selon le rapport de la Hongrie au Conseil de l'Europe (2019).", source: "https://rm.coe.int/5th-sr-hungary-en/168092522f"}
+  langue: {valeur: "partiel", note: "Droit d'utiliser sa langue maternelle et de recevoir un enseignement dans cette langue, Loi fondamentale, art. XXIX, al. 1 ; aucun statut de langue officielle territoriale.", source: "https://www.constituteproject.org/constitution/Hungary_2016"}
+  education: {valeur: "partiel", note: "La loi CLXXIX de 2011 permet aux autogouvernements de nationalité de gérer leurs propres établissements scolaires et culturels ; les autres écoles municipales ont été reprises par l'État (Eurac Research, 2022). La LdU gère le théâtre Deutsche Bühne Ungarn de Szekszárd avec le conseil du comitat de Tolna depuis 2004.", source: "https://webassets.eurac.edu/31538/1661962535-hungary-2022.pdf"}
+  fiscalite: {valeur: "partiel", note: "Les autogouvernements des nationalités reçoivent un financement de l'État, dont les règles ont été inscrites dans la loi au 1er janvier 2017, selon le rapport de la Hongrie au Conseil de l'Europe (2019) ; aucun pouvoir fiscal.", source: "https://rm.coe.int/5th-sr-hungary-en/168092522f"}
+  representation: {valeur: "partiel", note: "La participation des nationalités à l'Assemblée nationale est réglée par une loi cardinale (loi adoptée à la majorité des deux tiers), Loi fondamentale, art. 2, al. 2 ; la loi CCIII de 2011 accorde un mandat préférentiel à une liste de nationalité qui atteint un seuil réduit : la liste allemande l'a obtenu en 2018 et en 2022 (un député sur 199), pas en 2026 (0,30 % des voix de liste).", source: "https://de.wikipedia.org/wiki/Landesselbstverwaltung_der_Ungarndeutschen"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le nombre d'autogouvernements locaux allemands est resté à 406 entre 2014 et 2019 ; l'étude d'Eurac Research relève, pour l'ensemble des nationalités, une bureaucratisation et une centralisation qui font souvent agir ces organes comme des agences publiques spécialisées. Aucune évaluation propre à l'exercice des droits de consentement par les autogouvernements allemands n'a été trouvée.", source: "https://webassets.eurac.edu/31538/1661962535-hungary-2022.pdf"}
+chronologie:
+  - {annee: 1946, evenement: "Début des expulsions de la population allemande de Hongrie (1946-1948)."}
+  - {annee: 1993, evenement: "Loi LXXVII sur les droits des minorités nationales et ethniques."}
+  - {annee: 1995, evenement: "Élection de l'Autogouvernement national des Allemands de Hongrie (LdU) le 11 mars, après les premières élections des autogouvernements locaux de décembre 1994."}
+  - {annee: 2011, evenement: "Loi fondamentale (art. XXIX), loi CLXXIX sur les droits des nationalités et loi CCIII sur l'élection de l'Assemblée nationale."}
+  - {annee: 2014, evenement: "Un porte-parole de la nationalité allemande, sans droit de vote, entre à l'Assemblée nationale."}
+  - {annee: 2018, evenement: "La liste allemande obtient le mandat préférentiel : un député à l'Assemblée nationale."}
+  - {annee: 2019, evenement: "Élection de 406 autogouvernements locaux allemands."}
+  - {annee: 2022, evenement: "La liste allemande obtient de nouveau le mandat préférentiel."}
+  - {annee: 2026, evenement: "La liste allemande recueille 0,30 % des voix de liste et n'obtient pas de mandat préférentiel."}
+fiabilite:
+  verifie: ["Loi fondamentale, art. 2 al. 2 et art. XXIX (Constitute Project).", "Cinquième rapport de la Hongrie à la Convention-cadre (2019).", "406 autogouvernements locaux allemands en 2014 et 2019 (Eurac Research).", "142 551 personnes de nationalité allemande au recensement de 2022 (nemzetisegek.hu).", "Mandat préférentiel allemand en 2018 (Eurac Research) et 2022, aucun siège en 2026 (Wikipédia).", "15 autogouvernements territoriaux allemands en 2019 (Eurac Research, tableau 4).", "Cogestion du théâtre Deutsche Bühne Ungarn par la LdU et le comitat de Tolna depuis 2004 (Wikipédia)."]
+  non_confirme: ["Texte de la loi CLXXIX de 2011 non consulté directement ; contenu tiré du rapport de l'État et d'Eurac Research.", "Nombre d'autogouvernements locaux allemands élus en 2024 non trouvé.", "Liste des établissements scolaires gérés par la LdU non trouvée, site de la LdU inaccessible.", "Résultat de 2026 tiré de Wikipédia, non vérifié sur le site du Bureau électoral national.", "Ratification de la Charte européenne des langues régionales ou minoritaires pour l'allemand non vérifiée."]
+sources:
+  - {titre: "Loi fondamentale de la Hongrie — Constitute Project", url: "https://www.constituteproject.org/constitution/Hungary_2016"}
+  - {titre: "Fifth Report submitted by Hungary, Convention-cadre — Conseil de l'Europe", url: "https://rm.coe.int/5th-sr-hungary-en/168092522f"}
+  - {titre: "The Minority Self-Governments in Hungary, B. Dobos (2022) — Eurac Research", url: "https://webassets.eurac.edu/31538/1661962535-hungary-2022.pdf"}
+  - {titre: "A népszámlálás adataiból — nemzetisegek.hu", url: "https://nemzetisegek.hu/2023/10/04/a-nepszamlalas-adataibol/"}
+  - {titre: "Landesselbstverwaltung der Ungarndeutschen — Wikipédia (de)", url: "https://de.wikipedia.org/wiki/Landesselbstverwaltung_der_Ungarndeutschen"}
+  - {titre: "Ungarndeutsche — Wikipédia (de)", url: "https://de.wikipedia.org/wiki/Ungarndeutsche"}
+  - {titre: "Deutsche Bühne Ungarn — Wikipédia (de)", url: "https://de.wikipedia.org/wiki/Deutsche_B%C3%BChne_Ungarn"}

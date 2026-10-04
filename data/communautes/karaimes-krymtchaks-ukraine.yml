@@ -1,0 +1,50 @@
+uid: "karaimes-krymtchaks-ukraine"
+nom: "Karaïmes et Krymtchaks de Crimée"
+endonyme: "Qrımqaraylar ; Qrımçahlar"
+territoire: "Péninsule de Crimée (République autonome de Crimée et Sébastopol)"
+etats: ["Ukraine"]
+region: "europe"
+coord: [44.7, 33.9]
+type: "peuple_autochtone"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 1602, annee: 2001, perimetre: "Karaïmes (1 196) et Krymtchaks (406) recensés dans toute l'Ukraine, Crimée comprise (recensement ukrainien de 2001)", source: "https://uk.wikipedia.org/wiki/Корінні_народи_України"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Karaïmes et les Krymtchaks sont deux peuples de langue turcique formés en Crimée. La Loi sur les peuples autochtones de l'Ukraine du 1er juillet 2021 les nomme, avec les Tatars de Crimée, comme peuples autochtones de l'Ukraine (art. 1, al. 2). La loi leur reconnaît un droit à l'autodétermination au sein de l'Ukraine et à l'autonomie interne (самоврядування, « s'administrer soi-même ») dans leurs affaires propres, exercé par des organes représentatifs qui n'acquièrent leurs droits qu'après une décision du Conseil des ministres (gouvernement). En janvier 2026, ces organes représentatifs étaient encore en cours de constitution. Depuis 2014, la péninsule est sous contrôle russe ; l'Assemblée générale des Nations unies a affirmé l'intégrité territoriale de l'Ukraine (résolution 68/262 du 27 mars 2014). Les Tatars de Crimée ont leur propre fiche (« Tatars de Crimée »).
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "La Verkhovna Rada (Parlement) déclare soutenir la Déclaration des Nations unies sur les droits des peuples autochtones, résolution n° 1140-VII du 20 mars 2014, point 4 ; la loi de 2021 vise la Déclaration dans son préambule, nomme les Karaïmes et les Krymtchaks comme peuples autochtones de l'Ukraine (art. 1, al. 2) et leur reconnaît le plein exercice des droits énoncés notamment dans cette Déclaration (art. 3, al. 1).", annee: 2021, source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+base_nationale:
+  - {instrument: "Résolution de la Verkhovna Rada n° 1140-VII du 20 mars 2014 sur la garantie des droits du peuple tatar de Crimée (point 4 : soutien à la Déclaration des Nations unies ; point 8 : nomme les Karaïmes et les Krymtchaks parmi les habitants de Crimée)", nature: "loi", annee: 2014, source: "https://zakon.rada.gov.ua/laws/show/1140-18"}
+  - {instrument: "Loi n° 1616-IX du 1er juillet 2021 sur les peuples autochtones de l'Ukraine (version du 31 mars 2023)", nature: "loi", annee: 2021, source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Droit à l'autonomie (самоврядування) dans les affaires internes, y compris pour fixer la manière de créer des organes représentatifs, loi de 2021, art. 2, al. 2 ; ces organes n'acquièrent leurs droits qu'après une décision du Conseil des ministres fixant leur statut juridique, art. 8, al. 1 ; aucun organe karaïme ou krymtchak n'avait ce statut en janvier 2026.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Les organes représentatifs interagissent avec les autorités sur l'usage des terres, eaux et forêts de Crimée, loi de 2021, art. 7, al. 2 ; le droit à une part des recettes tirées des ressources naturelles, art. 7, al. 3, n'entrera en vigueur qu'après le retour de la Crimée sous juridiction ukrainienne, art. 11.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  consentement: {valeur: "partiel", note: "Participation aux programmes publics qui les concernent sur la base du consentement libre, préalable et éclairé, loi de 2021, art. 7, al. 1 ; consultation des organes représentatifs avant les actes de l'exécutif sur la langue, la culture, l'éducation et les médias, art. 8, al. 2 ; aucune consultation n'a lieu tant qu'un peuple n'a pas d'organe représentatif doté du statut, art. 8, al. 4.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  langue: {valeur: "partiel", note: "L'État garantit la possibilité d'apprendre les langues des peuples autochtones et l'étude, la préservation et le développement de celles qui sont menacées de disparition, loi de 2021, art. 5, al. 3 et 4 ; le karaïme et le krymtchak n'ont pas de statut de langue officielle.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  education: {valeur: "partiel", note: "Les peuples autochtones peuvent créer leurs propres établissements d'enseignement, y compris avec enseignement dans leur langue, dans le cadre de la loi sur l'éducation, loi de 2021, art. 5, al. 1.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  fiscalite: {valeur: "partiel", note: "L'activité des organes représentatifs est financée par le budget de l'État au titre d'un programme budgétaire distinct, loi de 2021, art. 9, al. 2 ; aucun pouvoir fiscal.", source: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La reconnaissance comme peuples autochtones est en vigueur depuis le 23 juillet 2021 ; le 15 janvier 2026, Denys Tchystikov, représentant permanent adjoint du président de l'Ukraine dans la République autonome de Crimée, indiquait que la constitution des organes représentatifs karaïmes et krymtchaks en était à un stade initial et qu'un dialogue suppose d'abord leur reconnaissance officielle ; sans organe doté du statut, la loi exclut les consultations (art. 8, al. 4).", source: "https://mezha.net/eng/bukvy/crimean-karaites-and-krymchaks-to-establish-representative-bodies-for-rights-protection/"}
+chronologie:
+  - {annee: 2001, evenement: "Recensement ukrainien : 1 196 Karaïmes et 406 Krymtchaks en Ukraine."}
+  - {annee: 2014, evenement: "La Russie prend le contrôle de la Crimée ; l'Assemblée générale des Nations unies affirme l'intégrité territoriale de l'Ukraine (résolution 68/262, 27 mars)."}
+  - {annee: 2021, evenement: "Loi sur les peuples autochtones de l'Ukraine (1er juillet), entrée en vigueur le 23 juillet : les Karaïmes et les Krymtchaks sont nommés peuples autochtones."}
+  - {annee: 2023, evenement: "Version en vigueur de la loi au 31 mars, après la loi n° 2849-IX du 13 décembre 2022 qui abroge l'art. 11, al. 2."}
+  - {annee: 2026, evenement: "Travaux de constitution d'organes représentatifs karaïmes et krymtchaks, encore à un stade initial (janvier)."}
+fiabilite:
+  verifie: ["Loi 1616-IX (2021), art. 1 à 11, version du 31 mars 2023 (texte officiel ukrainien) : art. 1, al. 2 nomme « кримські татари, караїми, кримчаки ».", "Art. 8, al. 4 : pas de consultation sans organe représentatif doté du statut.", "Art. 7, al. 4 : réservation et attribution de parcelles aux membres des peuples autochtones qui reviennent en Crimée ; aucune propriété ni maîtrise collective des terres, d'où « terres » non établi.", "Résolution 1140-VII (2014), points 4 et 8 (texte officiel ukrainien).", "Constitution d'organes représentatifs à un stade initial en janvier 2026 (Mezha, 15 janvier 2026)."]
+  non_confirme: ["Population : chiffres du recensement de 2001 relevés dans une source secondaire ; la table officielle du recensement n'a pas été ouverte ; aucun chiffre postérieur vérifié.", "Nom des futurs organes représentatifs et éventuelle décision du Conseil des ministres sur leur statut : non trouvés.", "Aucun document d'un organe de l'ONU ni du Conseil de l'Europe nommant ces deux peuples n'a été vérifié.", "Situation des communautés karaïmes et krymtchakes en Crimée sous occupation : non documentée ici."]
+sources:
+  - {titre: "Loi sur les peuples autochtones de l'Ukraine (1616-IX) — Verkhovna Rada", url: "https://zakon.rada.gov.ua/laws/show/1616-20"}
+  - {titre: "Résolution 1140-VII du 20 mars 2014 — Verkhovna Rada", url: "https://zakon.rada.gov.ua/laws/show/1140-18"}
+  - {titre: "Crimean Karaites and Krymchaks to establish representative bodies — Mezha (2026)", url: "https://mezha.net/eng/bukvy/crimean-karaites-and-krymchaks-to-establish-representative-bodies-for-rights-protection/"}
+  - {titre: "Корінні народи України — Wikipedia (uk)", url: "https://uk.wikipedia.org/wiki/Корінні_народи_України"}

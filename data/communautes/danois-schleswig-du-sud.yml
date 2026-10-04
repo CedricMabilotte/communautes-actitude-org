@@ -1,0 +1,66 @@
+uid: "danois-schleswig-du-sud"
+nom: "Danois du Schleswig du Sud"
+endonyme: "Danske sydslesvigere / dansk mindretal i Sydslesvig"
+territoire: "Schleswig du Sud (Sydslesvig) : Flensbourg, arrondissements de Schleswig-Flensbourg et de Frise-du-Nord, nord de l'arrondissement de Rendsburg-Eckernförde (Schleswig-Holstein)"
+etats: ["Allemagne"]
+region: "europe"
+coord: [54.6, 9.4]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 50000, annee: 2022, perimetre: "personnes de nationalité allemande qui se déclarent membres de la minorité danoise, estimation du Land (aucun recensement par appartenance nationale en Allemagne) ; s'y ajoutent environ 6 000 ressortissants danois vivant dans le Land", source: "https://www.schleswig-holstein.de/DE/fachinhalte/M/minderheiten/minderheiten_daenen.html"}
+lieux: {valeur: 50, unite: "écoles de l'association scolaire danoise (40 écoles primaires et 10 écoles communes du secondaire)", annee: 2022, source: "https://www.schleswig-holstein.de/DE/fachinhalte/M/minderheiten/minderheiten_daenen.html"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La minorité danoise vit dans la partie du Schleswig restée allemande après les plébiscites de 1920, au nord du Land de Schleswig-Holstein. La Constitution du Land (art. 6) lui reconnaît un droit à la protection et à la promotion et déclare libre l'appartenance à une minorité nationale. L'association scolaire danoise (Dansk Skoleforening for Sydslesvig) gère ses propres écoles et jardins d'enfants, que le Land finance par élève au même niveau que les écoles publiques (Constitution, art. 12, al. 5). Le parti de la minorité, le SSW (Südschleswigscher Wählerverband, Association des électeurs du Schleswig du Sud), est dispensé du seuil de 5 % aux élections du Landtag (Parlement du Land) et du Bundestag.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième avis du Comité consultatif de la Convention-cadre sur l'Allemagne (adopté le 3 février 2022) : § 33, l'Allemagne n'applique la Convention qu'aux Danois, aux Frisons, aux Sintis et Roms et aux Sorabes ; § 34, les droits s'appliquent aux personnes qui s'identifient comme danoises quelle que soit leur nationalité ; § 9, amélioration des conditions d'emploi du danois auprès des autorités du Schleswig-Holstein.", annee: 2022, source: "https://rm.coe.int/5th-op-germany-fr/1680a6e00b"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Déclarations de Bonn-Copenhague du 29 mars 1955 : déclaration du gouvernement fédéral sur les droits de la minorité danoise (libre appartenance, écoles et jardins d'enfants) et pendant danois sur la minorité allemande", nature: "traite", annee: 1955, source: "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/307069/die-bonn-kopenhagener-erklaerungen-modell-fuer-den-umgang-mit-minderheiten/"}
+  - {instrument: "Constitution du Land de Schleswig-Holstein, art. 6 (minorités nationales et groupes ethniques) et art. 12, al. 5 (financement des écoles de la minorité danoise)", nature: "constitution", annee: 1990, source: "https://www.landtag.ltsh.de/parlament/minderheitenpolitik/"}
+  - {instrument: "Loi scolaire du Schleswig-Holstein (Schulgesetz), § 124 : écoles de la minorité danoise", nature: "loi", annee: 2007, source: "https://rm.coe.int/5th-state-report-germany-english-language-version/16809232ba"}
+  - {instrument: "Loi électorale fédérale (Bundeswahlgesetz), § 4, al. 2, phrase 3 : le seuil de 5 % ne s'applique pas aux listes des partis des minorités nationales ; § 20, al. 2, et § 27, al. 1 : dispense de signatures", nature: "loi", annee: 2023, source: "https://www.gesetze-im-internet.de/bwahlg/__4.html"}
+  - {instrument: "Loi électorale du Land de Schleswig-Holstein (Landeswahlgesetz) : les listes de la minorité danoise (SSW) sont dispensées du seuil de 5 % aux élections du Landtag, dispense introduite en 1955 dans le sillage des déclarations de Bonn-Copenhague", nature: "loi", annee: 1955, source: "https://www.wahlrecht.de/landtage/schleswig-holstein.htm"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Aucune assemblée publique propre ; l'association scolaire danoise, association de droit privé, gère le réseau des écoles et jardins d'enfants de la minorité, écoles de substitution (Ersatzschulen) que la loi scolaire du Land, § 124, al. 1, rattache à l'autonomie culturelle de la minorité.", source: "https://rm.coe.int/5th-state-report-germany-english-language-version/16809232ba"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "reconnu", note: "Les écoles de la minorité danoise sont financées au même niveau que les écoles publiques, Constitution du Land, art. 12, al. 5 ; la loi scolaire, § 124, al. 2, leur accorde par élève 100 % du coût d'un élève de l'école publique, contre 82 % pour les autres écoles privées.", source: "https://rm.coe.int/5th-state-report-germany-english-language-version/16809232ba"}
+  fiscalite: {valeur: "partiel", note: "Aucun pouvoir fiscal ; financement public garanti des écoles par élève (Constitution du Land, art. 12, al. 5 ; loi scolaire, § 124) : selon la prévision des comptes 2024 de l'association scolaire, le Land a versé 48,35 millions d'euros pour le fonctionnement des écoles de 5 787 élèves ; des subventions danoises (Sydslesvigudvalget, commission du Schleswig du Sud) complètent ce financement.", source: "https://www.skoleforeningen.org/media/ruqn2w23/skoleforeningens-oekonomi-infomateriale-2025-version6mar25.pdf"}
+  representation: {valeur: "partiel", note: "Aucun siège réservé ; le seuil de 5 % ne s'applique pas aux listes des partis des minorités nationales aux élections du Bundestag, loi électorale fédérale, § 4, al. 2, phrase 3, ni aux listes de la minorité danoise aux élections du Landtag, loi électorale du Land ; le SSW a obtenu 4 sièges au Landtag en 2022 et 1 siège au Bundestag en 2021 et en 2025.", source: "https://www.gesetze-im-internet.de/bwahlg/__4.html"}
+  statut_personnel: {valeur: "partiel", note: "« L'appartenance à une minorité nationale est libre ; elle ne dispense pas des obligations générales des citoyens », Constitution du Land, art. 6, al. 1 ; principe repris des déclarations de Bonn-Copenhague de 1955 ; aucun statut civil propre.", source: "https://www.landtag.ltsh.de/parlament/minderheitenpolitik/"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Comité consultatif de la Convention-cadre relève en 2022 que les Danois se disent satisfaits de la façon dont leur minorité est tolérée (§ 107) et que les conditions juridiques et financières d'emploi du danois auprès des autorités du Schleswig-Holstein se sont améliorées (§ 9) ; il note que le financement fédéral était resté en 2020 à peu près au niveau de 2014 (§ 93).", source: "https://rm.coe.int/5th-op-germany-fr/1680a6e00b"}
+chronologie:
+  - {annee: 1920, evenement: "Plébiscites de février et mars ; le Schleswig du Nord est rattaché au Danemark, le Schleswig du Sud reste allemand."}
+  - {annee: 1949, evenement: "Déclaration de Kiel du gouvernement du Schleswig-Holstein sur les droits de la minorité danoise."}
+  - {annee: 1952, evenement: "La Cour constitutionnelle fédérale déclare inadmissible le seuil électoral de 7,5 % adopté pour le Landtag."}
+  - {annee: 1955, evenement: "Déclarations de Bonn-Copenhague (29 mars) ; le SSW est dispensé du seuil de 5 % aux élections du Landtag."}
+  - {annee: 1990, evenement: "Nouvelle Constitution du Land : obligation de protection et de promotion de la minorité danoise (art. 5 de l'époque, aujourd'hui art. 6)."}
+  - {annee: 2013, evenement: "Un recours électoral contre la dispense du seuil de 5 % accordée au SSW échoue devant la Cour constitutionnelle du Land."}
+  - {annee: 2021, evenement: "Le SSW obtient un siège au Bundestag."}
+  - {annee: 2022, evenement: "Le SSW obtient 5,7 % des voix et 4 sièges au Landtag ; cinquième avis du Comité consultatif de la Convention-cadre sur l'Allemagne."}
+  - {annee: 2025, evenement: "Le SSW conserve un siège au Bundestag."}
+fiabilite:
+  verifie: ["Loi électorale fédérale, § 4, al. 2, phrase 3, § 20, al. 2, et § 27, al. 1 (gesetze-im-internet.de).", "Constitution du Land, art. 6 : texte cité par le Landtag du Schleswig-Holstein.", "Constitution du Land, art. 12, al. 5, et loi scolaire, § 124 : cités par le cinquième rapport étatique de l'Allemagne (2019).", "Subvention du Land 2024 (48,35 millions d'euros, 5 787 élèves) : document financier 2025 de l'association scolaire danoise.", "Effectifs, 50 écoles et environ 5 700 élèves, 56 jardins d'enfants : portail du Land.", "Cinquième avis du Comité consultatif sur l'Allemagne, § 9, 33, 34, 93 et 107.", "Siège au Bundestag 2021 et 2025 : résultats officiels de la Bundeswahlleiterin.", "Landtag 2022 : 5,7 % et 4 sièges (wahlrecht.de) ; quatre députés SSW selon le Landtag."]
+  non_confirme: ["Texte officiel de la loi électorale du Land et de la loi scolaire (§ 124) non consulté directement : portail juridique du Land inaccessible ; article de la loi électorale du Land non vérifié ; § 124 repris du rapport étatique.", "Texte officiel de la déclaration de Bonn de 1955 non consulté ; contenu repris de la Bundeszentrale für politische Bildung.", "Chiffre de population (environ 50 000) et nombre d'écoles : estimation sans recensement ; année 2022 = dernière mise à jour du portail du Land, pas date de comptage.", "Nombre d'écoles : 50 selon le portail du Land, 46 selon d'autres décomptes.", "Engagements de l'Allemagne pour le danois au titre de la Charte européenne des langues régionales ou minoritaires, organes consultatifs (Landtag, ministère fédéral de l'Intérieur) et usage du danois devant l'administration : textes non consultés.", "Aucun document d'un organe de l'ONU nommant la minorité n'a été consulté.", "Recours de 2013 devant la Cour constitutionnelle du Land et décision fédérale de 1952 : repris de la Bundeszentrale für politische Bildung, dates exactes non vérifiées."]
+sources:
+  - {titre: "Die dänische Minderheit — portail du Land de Schleswig-Holstein", url: "https://www.schleswig-holstein.de/DE/fachinhalte/M/minderheiten/minderheiten_daenen.html"}
+  - {titre: "Minderheitenpolitik — Landtag du Schleswig-Holstein", url: "https://www.landtag.ltsh.de/parlament/minderheitenpolitik/"}
+  - {titre: "Dänische Minderheit — Landtag du Schleswig-Holstein", url: "https://www.landtag.ltsh.de/parlament/daenische-minderheit/"}
+  - {titre: "Bundeswahlgesetz, § 4 — gesetze-im-internet.de", url: "https://www.gesetze-im-internet.de/bwahlg/__4.html"}
+  - {titre: "Die Bonn-Kopenhagener Erklärungen — Bundeszentrale für politische Bildung", url: "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/307069/die-bonn-kopenhagener-erklaerungen-modell-fuer-den-umgang-mit-minderheiten/"}
+  - {titre: "Wahlrecht Schleswig-Holstein — wahlrecht.de", url: "https://www.wahlrecht.de/landtage/schleswig-holstein.htm"}
+  - {titre: "Cinquième avis sur l'Allemagne — Comité consultatif de la Convention-cadre, Conseil de l'Europe (2022)", url: "https://rm.coe.int/5th-op-germany-fr/1680a6e00b"}
+  - {titre: "Fifth State Report, Germany — Convention-cadre, Conseil de l'Europe (2019)", url: "https://rm.coe.int/5th-state-report-germany-english-language-version/16809232ba"}
+  - {titre: "Skoleforeningens økonomi, infomateriale 2025 — Dansk Skoleforening for Sydslesvig", url: "https://www.skoleforeningen.org/media/ruqn2w23/skoleforeningens-oekonomi-infomateriale-2025-version6mar25.pdf"}
+  - {titre: "Bundestagswahl 2025, résultats — Die Bundeswahlleiterin", url: "https://www.bundeswahlleiterin.de/bundestagswahlen/2025/ergebnisse/bund-99.html"}
+  - {titre: "Bundestagswahl 2021, résultats — Die Bundeswahlleiterin", url: "https://www.bundeswahlleiterin.de/bundestagswahlen/2021/ergebnisse/bund-99.html"}
+  - {titre: "Landtagswahlen in Schleswig-Holstein, résultats — wahlrecht.de", url: "https://www.wahlrecht.de/ergebnisse/schleswig-holstein.htm"}
+  - {titre: "Die dänische Minderheit — Minderheitensekretariat", url: "https://www.minderheitensekretariat.de/wen-vertreten-wir/die-daenische-minderheit/"}

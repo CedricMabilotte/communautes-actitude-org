@@ -1,0 +1,78 @@
+uid: "reserves-etat-nations-reconnues-par-les-etats"
+nom: "Nations à réserve d'État (Connecticut, Virginie)"
+endonyme: ""
+territoire: "Réserves d'État de Kent, North Stonington, Trumbull et Colchester (Connecticut) et réserve Mattaponi du comté de King William (Virginie)"
+etats: ["États-Unis"]
+region: "ameriques"
+coord: [41.6, -72.9]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 5, unite: "réserves d'État de nations non reconnues au niveau fédéral (4 au Connecticut, 1 en Virginie)", annee: 2025, source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-63/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée limitée au Connecticut et à la Virginie, deux États fédérés qui reconnaissent des nations autochtones et leur réservent des terres, en dehors de la reconnaissance fédérale. Au Connecticut, la loi de 1989 (P.A. 89-368) déclare les Schaghticoke, les Paucatuck Eastern Pequot et les Golden Hill Paugussett « entités autonomes » : elles fixent leurs membres, leur forme de gouvernement et la résidence sur des réserves que l'État détient en fiducie (trust, propriété gérée pour leur compte) à perpétuité. En Virginie, la réserve Mattaponi, dont le statut remonte au traité de Middle Plantation (1677) et que l'Assemblée générale a séparée de la réserve Pamunkey en 1894, est détenue par l'État au profit de la nation, qui en a l'usage. Les Mashantucket Pequot, Mohegan et Pamunkey, reconnus aussi au niveau fédéral, relèvent de la fiche des nations reconnues par l'État fédéral.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "rapporteur_special", detail: "Rapport de mission aux États-Unis de James Anaya (A/HRC/21/47/Add.1) : certains groupes autochtones non reconnus par l'État fédéral ont obtenu une reconnaissance au niveau des États fédérés (§ 3) ; seule la reconnaissance fédérale rend leurs pouvoirs d'autogouvernement effectifs dans l'ordre juridique des États-Unis (§ 56).", annee: 2012, source: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}
+base_nationale:
+  - {instrument: "Connecticut General Statutes § 47-59a (P.A. 89-368, 1989) : nations autochtones « entités autonomes »", nature: "loi", annee: 1989, source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-59a/"}
+  - {instrument: "Connecticut General Statutes § 47-60 : terres de réserve détenues en fiducie par l'État à perpétuité", nature: "loi", annee: 1989, source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-60/"}
+  - {instrument: "Connecticut General Statutes § 47-63 et § 47-64 : liste des réserves, résidence et baux", nature: "loi", annee: 1961, source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-63/"}
+  - {instrument: "Connecticut General Statutes § 47-66i et § 47-66j : choix des dirigeants, règles d'appartenance et règlement des différends", nature: "loi", annee: 1989, source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-66j/"}
+  - {instrument: "Connecticut General Statutes § 47-59b : Conseil des affaires autochtones (Indian Affairs Council)", nature: "loi", annee: 1989, source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-59b/"}
+  - {instrument: "Traité de Middle Plantation (1677) entre la colonie de Virginie et les nations autochtones", nature: "traite", annee: 1677, source: "https://www.virginiaplaces.org/nativeamerican/reservation.html"}
+  - {instrument: "Code de Virginie § 29.1-301 (I) : chasse, piégeage et pêche sans permis pour les personnes résidant sur une réserve et pour les membres des nations reconnues par la Virginie", nature: "loi", annee: null, source: "https://law.lis.virginia.gov/vacode/title29.1/chapter3/section29.1-301/"}
+  - {instrument: "Cour suprême de Virginie, Alliance to Save the Mattaponi v. Commonwealth (2005)", nature: "jurisprudence", annee: 2005, source: "https://www.sct.narf.org/documents/mattaponi/mattaponi_petition.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Au Connecticut, les nations reconnues sont des « entités autonomes » qui déterminent leur forme de gouvernement et désignent leurs dirigeants selon leur usage (§ 47-59a, 1989) ; le mode de désignation est déposé auprès du gouverneur (§ 47-66i). En Virginie, aucun texte équivalent n'a été trouvé.", source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-59a/"}
+  pouvoir_normatif: {valeur: "partiel", note: "Au Connecticut, les nations réglementent le commerce sur la réserve (§ 47-59a), et fixent leurs règles d'appartenance et de gouvernement (§ 47-66j) ; les règlements de chasse et de pêche sur la réserve relèvent du Conseil des affaires autochtones de l'État (§ 47-65a) et la gestion des terres et des bâtiments du commissaire à l'Énergie et à l'Environnement (§ 47-65).", source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-66j/"}
+  justice_propre: {valeur: "partiel", note: "Au Connecticut, les différends sur l'appartenance et sur le choix des dirigeants se règlent selon l'usage de la nation ou par un conseil désigné par les parties ; sa décision est définitive sur le fond, avec appel devant la Cour supérieure de l'État limité au respect des règles déposées (§ 47-66i et § 47-66j, 1989).", source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-66j/"}
+  terres: {valeur: "partiel", note: "Au Connecticut, les terres de réserve sont détenues en fiducie par l'État à perpétuité et la nation y exerce tous les droits du propriétaire sauf celui d'aliéner (§ 47-60) ; elle peut louer pour 25 ans au plus (§ 47-64). En Virginie, un avis du procureur général de 1977 retient que l'État détient la propriété des réserves Pamunkey et Mattaponi en fiducie au profit des nations, qui en ont l'usage.", source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-60/"}
+  ressources: {valeur: "partiel", note: "Au Connecticut, les membres chassent, piègent et pêchent sans permis sur la réserve de leur nation, dans le respect des règlements du Conseil des affaires autochtones et des limites fixées par la loi (§ 47-65a). En Virginie, aucun permis de chasse, de piégeage ou de pêche n'est exigé d'une personne résidant sur une réserve ni d'un membre d'une nation reconnue par l'État résidant en Virginie (§ 29.1-301 I) ; la Cour suprême de Virginie a jugé en 2005 que le traité de 1677 relève du droit de l'État et que l'État bénéficie de l'immunité.", source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-65a/"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Au Connecticut, chaque nation reconnue désigne un membre du Conseil des affaires autochtones, organe consultatif de l'État qui examine les règlements et rend un rapport annuel au gouverneur et à l'Assemblée générale (§ 47-59b) ; il ne s'agit pas de sièges au parlement de l'État.", source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-59b/"}
+  statut_personnel: {valeur: "reconnu", note: "Au Connecticut, chaque nation détermine ses membres et qui peut résider sur la réserve (§ 47-59a, § 47-64) ; le dirigeant dépose chaque année les règles d'appartenance et la liste des membres auprès du gouverneur (§ 47-66j).", source: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-64/"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le service de l'environnement du Connecticut gère les terres et les bâtiments de réserve (§ 47-65). En 2009, une émission de l'université Wesleyan rapporte que les autorités de l'État, invoquant un conflit de direction, ne sont pas intervenues contre des travaux non autorisés sur la réserve Schaghticoke. La reconnaissance fédérale des Eastern Pequot (2002) et des Schaghticoke (2004) a été annulée en 2005.", source: "https://indigenouspolitics.site.wesleyan.edu/?p=29"}
+chronologie:
+  - {annee: 1677, evenement: "Traité de Middle Plantation : les réserves Pamunkey et Mattaponi de Virginie en tirent leur statut."}
+  - {annee: 1683, evenement: "Terres de North Stonington attribuées aux Eastern Pequot."}
+  - {annee: 1894, evenement: "L'Assemblée générale de Virginie crée une réserve Mattaponi distincte de la réserve Pamunkey."}
+  - {annee: 1961, evenement: "Loi du Connecticut (P.A. 304) définissant les réserves de l'État."}
+  - {annee: 1983, evenement: "L'Assemblée générale de Virginie réaffirme la reconnaissance des Pamunkey et des Mattaponi."}
+  - {annee: 1989, evenement: "Loi du Connecticut P.A. 89-368 : nations reconnues comme « entités autonomes », terres en fiducie à perpétuité, règles d'appartenance et de choix des dirigeants."}
+  - {annee: 2005, evenement: "Annulation de la reconnaissance fédérale des Eastern Pequot et des Schaghticoke ; la Cour suprême de Virginie juge que le traité de 1677 relève du droit de l'État."}
+  - {annee: 2015, evenement: "Reconnaissance fédérale des Pamunkey."}
+  - {annee: 2024, evenement: "La nation Mattaponi dépose une demande de reconnaissance fédérale."}
+  - {annee: 2025, evenement: "La nation Schaghticoke demande l'autorisation de déposer une nouvelle demande de reconnaissance fédérale."}
+fiabilite:
+  verifie: ["Textes des § 47-59a, 47-59b, 47-60, 47-63, 47-64, 47-65a, 47-66i et 47-66j des Connecticut General Statutes (Justia, éditions 2024-2025).", "Surfaces des réserves Golden Hill Paugussett (0,25 acre à Trumbull, 106 acres à Colchester) et Schaghticoke (environ 300 acres) d'après le service de l'environnement du Connecticut.", "Décision du 14 octobre 2005 refusant la reconnaissance fédérale des Schaghticoke (Federal Register).", "Exemption de permis de chasse, de piégeage et de pêche (Code de Virginie § 29.1-301 I), non limitée aux terres de réserve.", "Décision de la Cour suprême de Virginie de 2005 (621 S.E.2d 78) sur le traité de 1677 et l'immunité de l'État, d'après la requête de la nation Mattaponi à la Cour suprême des États-Unis.", "Rapport du Rapporteur spécial de 2012, § 3 et 56."]
+  non_confirme: ["Surface de la réserve Eastern Pequot de North Stonington : aucune source officielle ouverte.", "Surface de la réserve Mattaponi : 250 acres selon un média de 2024, 125 acres plus des ajouts en 2019 et 2026 selon un site documentaire ; chiffre non retenu au total.", "Propriété de la réserve Mattaponi par l'État : avis du procureur général de Virginie de 1977 connu par son intitulé, cité dans la requête de la nation Mattaponi, texte de l'avis non ouvert ; un média de 2024 écrit au contraire que la nation possède la terre de réserve.", "D'autres États fédérés ont des réserves d'État de nations non reconnues au niveau fédéral (réserve Poospatuck des Unkechaug dans l'État de New York) ; elles ne sont pas couvertes par cette fiche.", "Population totale des nations concernées : seul le chiffre de 380 membres Mattaponi (2024) a été trouvé.", "L'avis 03-018 du procureur général de Virginie exonère d'impôts de l'État les activités des membres sur les réserves ; aucun pouvoir fiscal propre n'est établi."]
+sources:
+  - {titre: "Connecticut General Statutes § 47-59a — Justia", url: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-59a/"}
+  - {titre: "Connecticut General Statutes § 47-59b — Justia", url: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-59b/"}
+  - {titre: "Connecticut General Statutes § 47-60 — Justia", url: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-60/"}
+  - {titre: "Connecticut General Statutes § 47-63 — Justia", url: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-63/"}
+  - {titre: "Connecticut General Statutes § 47-64 — Justia", url: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-64/"}
+  - {titre: "Connecticut General Statutes § 47-65a — Justia", url: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-65a/"}
+  - {titre: "Connecticut General Statutes § 47-66i — Justia", url: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-66i/"}
+  - {titre: "Connecticut General Statutes § 47-66j — Justia", url: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-66j/"}
+  - {titre: "Tribal Affairs — Connecticut Department of Energy and Environmental Protection", url: "https://portal.ct.gov/deep/environmental-justice/tribal-affairs"}
+  - {titre: "Reconsidered Final Determination To Decline To Acknowledge the Schaghticoke Tribal Nation — Federal Register, 14 octobre 2005", url: "https://www.bia.gov/sites/default/files/dup/assets/as-ia/ofa/petition/079_schagh_CT/079_rfd_fr.pdf"}
+  - {titre: "Schaghticoke Tribal Nation, demande d'autorisation de nouvelle demande (2025) — Bureau of Indian Affairs", url: "https://www.bia.gov/sites/default/files/media_document/25_09_25_final_schaghticoke_request_for_authorization_to_re-petition_508.pdf"}
+  - {titre: "Code of Virginia § 29.1-301", url: "https://law.lis.virginia.gov/vacode/title29.1/chapter3/section29.1-301/"}
+  - {titre: "Avis 03-018 du procureur général de Virginie — Virginia Tax", url: "https://www.tax.virginia.gov/laws-rules-decisions/attorney-generals-opinion/03-018"}
+  - {titre: "Mattaponi Indian Tribe, requête à la Cour suprême des États-Unis (n° 05A668) — NARF", url: "https://www.sct.narf.org/documents/mattaponi/mattaponi_petition.pdf"}
+  - {titre: "Indigenous Politics: From Native New England and Beyond, saison 2009 — Université Wesleyan", url: "https://indigenouspolitics.site.wesleyan.edu/?p=29"}
+  - {titre: "Connecticut General Statutes § 47-65 — Justia", url: "https://law.justia.com/codes/connecticut/title-47/chapter-824/section-47-65/"}
+  - {titre: "Native American Reservations in Virginia — Virginia Places", url: "https://www.virginiaplaces.org/nativeamerican/reservation.html"}
+  - {titre: "Mattaponi Reservation on the Middle Peninsula — Virginia Places", url: "https://www.virginiaplaces.org/nativeamerican/resmatta.html"}
+  - {titre: "State Recognition of Native American Tribes in Virginia — Virginia Places", url: "https://www.virginiaplaces.org/nativeamerican/recognitionstate.html"}
+  - {titre: "Honoring a centuries-old treaty, the Mattaponi tribe looks to the future — WHRO, 2024", url: "https://www.whro.org/virginia-center-for-investigative-journalism/2024-11-26/vcij-mattaponi"}
+  - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones, mission aux États-Unis (A/HRC/21/47/Add.1)", url: "https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/RegularSession/Session21/A-HRC-21-47-Add1_en.pdf"}

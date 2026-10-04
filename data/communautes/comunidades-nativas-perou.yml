@@ -1,6 +1,6 @@
 uid: "comunidades-nativas-perou"
 nom: "Communautés natives d'Amazonie péruvienne"
-endonyme: "Comunidades nativas"
+endonyme: ""
 territoire: "Amazonie péruvienne"
 etats: ["Pérou"]
 region: "ameriques"
@@ -13,7 +13,7 @@ lieux: {valeur: 2703, unite: "communautés natives recensées, rattachées à 44
 surface_km2: {valeur: null, annee: null, perimetre: "surface titrée des communautés natives ; non trouvée dans une source officielle ouverte", source: ""}
 villages: {valeur: 2703, annee: 2017, perimetre: "communautés natives recensées en 2017 (recensement des communautés autochtones de l'Amazonie), rattachées à 44 peuples", source: "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1598/TOMO_01.pdf"}
 resume: >-
-  Fiche agrégée. La Constitution péruvienne de 1993 donne aux « comunidades campesinas y nativas » une existence légale et la personnalité juridique ; elles sont autonomes dans leur organisation, le travail communal, l'usage et la libre disposition de leurs terres. Leurs autorités peuvent exercer des fonctions juridictionnelles selon le droit coutumier. Le recensement de 2017 compte 2 703 communautés natives amazoniennes appartenant à 44 peuples ; 77,1 % des communautés reconnues ont un titre de propriété. Les communautés paysannes andines, régies par les mêmes articles, feront l'objet d'une fiche distincte.
+  Fiche agrégée. La Constitution péruvienne de 1993 donne aux « comunidades campesinas y nativas » une existence légale et la personnalité juridique ; elles sont autonomes dans leur organisation, le travail communal, l'usage et la libre disposition de leurs terres. Leurs autorités peuvent exercer des fonctions juridictionnelles selon le droit coutumier. Le recensement de 2017 compte 2 703 communautés natives amazoniennes appartenant à 44 peuples ; 77,1 % des communautés reconnues ont un titre de propriété. Les communautés paysannes andines, régies par les mêmes articles, et les réserves communales cogérées par des communautés natives ont leur propre fiche (« Communautés paysannes du Pérou », « Réserves communales du Pérou »).
 reconnaissance_regionale: []
 reconnaissance_onu:
   - {mecanisme: "oit_169", detail: "Le Pérou ratifie la Convention 169 de l'OIT le 2 février 1994 ; la loi 29785 de 2011 organise la consultation préalable qu'elle prévoit.", annee: 1994, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}

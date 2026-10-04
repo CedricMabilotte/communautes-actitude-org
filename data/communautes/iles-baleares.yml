@@ -1,0 +1,57 @@
+uid: "iles-baleares"
+nom: "Îles Baléares"
+endonyme: "Illes Balears"
+territoire: "Communauté autonome des Illes Balears : îles de Majorque, Minorque, Ibiza, Formentera et Cabrera, îles mineures adjacentes"
+etats: ["Espagne"]
+region: "europe"
+coord: [39.6, 2.9]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: ["minorite_nationale"]
+population: {valeur: 1249844, annee: 2025, perimetre: "personnes résidant dans la Communauté autonome au 1er janvier (Statistique continue de la population, INE)", source: "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/56940?nult=1"}
+lieux: {valeur: 4, unite: "îles dotées d'un consell insular (conseil insulaire) : Majorque, Minorque, Ibiza, Formentera", annee: 2007, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233"}
+surface_km2: {valeur: 4992, annee: 2025, perimetre: "Communauté autonome (4 991,7 km²), Institut géographique national, révision du 23 octobre 2025", source: "https://www.ign.es/resources/ane/Informacion_Geografica_Destacada/IGN_INFOGEO_CCAA.xlsx"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Archipel de la Méditerranée occidentale, les îles Baléares forment une Communauté autonome espagnole depuis le Statut de 1983. Le Statut réformé en 2007 (loi organique 1/2007) désigne Majorque, Minorque, Ibiza et Formentera comme une « nationalité historique » qui exerce le droit à l'autogouvernement. Le Parlement vote les lois, y compris sur le droit civil propre des îles ; Majorque, Minorque, Ibiza et Formentera ont chacune leur consell insular, institution de gouvernement de l'île. Le catalan est langue propre et co-officielle avec le castillan.
+reconnaissance_regionale:
+  - {mecanisme: "charte_langues_regionales", detail: "La Charte européenne des langues régionales ou minoritaires couvre le catalan dans la Communauté autonome des Îles Baléares ; rapport du Comité d'experts publié le 24 septembre 2024.", annee: 2024, source: "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/-/spain-s-system-to-protect-regional-and-minority-languages-is-well-developed-but-gaps-persist-in-justice-healthcare-and-public-administration-1"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution espagnole de 1978, art. 69.3 et 141.4", nature: "constitution", annee: 1978, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"}
+  - {instrument: "Statut d'autonomie des îles Baléares (loi organique 2/1983 du 25 février)", nature: "statut_autonomie", annee: 1983, source: "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-6316"}
+  - {instrument: "Loi organique 1/2007 du 28 février portant réforme du Statut d'autonomie des Illes Balears", nature: "statut_autonomie", annee: 2007, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233"}
+  - {instrument: "Réforme de l'article 69.3 de la Constitution du 19 mai 2026 (sénateur propre pour Formentera)", nature: "constitution", annee: 2026, source: "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10881"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le système institutionnel comprend le Parlement, le Gouvernement, le Président et les consells insulars de Majorque, Minorque, Ibiza et Formentera, Statut de 2007, art. 39 ; les consells insulars sont les institutions de gouvernement, d'administration et de représentation de chaque île, art. 61.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le Parlement exerce la potestad legislativa (pouvoir de faire la loi), Statut de 2007, art. 40 et 48 ; compétence exclusive pour conserver, modifier et développer le droit civil propre des Illes Balears, art. 30.27 ; les consells insulars exercent le pouvoir réglementaire dans leurs compétences propres, art. 72.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233"}
+  justice_propre: {valeur: "partiel", note: "Le Tribunal supérieur de justice des Illes Balears, juridiction de l'État, est l'organe où culmine l'organisation judiciaire dans l'archipel, Statut de 2007, art. 93 ; il juge à tous les degrés, cassation comprise, les affaires de droit civil propre, art. 94.1 a.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Compétence exclusive sur le régime des eaux et les aménagements hydrauliques, Statut de 2007, art. 30.8, sur les forêts et pâturages, art. 30.9, et sur la pêche dans les eaux intérieures, art. 30.22 ; développement législatif du régime minier et énergétique dans le cadre de la législation de base de l'État, art. 31.15.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233"}
+  consentement: {valeur: "reconnu", note: "Toute réforme du Statut exige l'approbation du Parlement aux deux tiers, puis une loi organique des Cortes ; le Parlement peut retirer la proposition pendant son examen à Madrid, Statut de 2007, art. 139.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233"}
+  langue: {valeur: "reconnu", note: "Le catalan, langue propre des Illes Balears, est officiel avec le castillan, Statut de 2007, art. 4 ; les variantes insulaires du catalan sont étudiées et protégées, art. 35.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233"}
+  education: {valeur: "reconnu", note: "Compétence exclusive sur l'enseignement du catalan, Statut de 2007, art. 35 ; développement législatif et exécution de l'enseignement à tous les niveaux, compétence exclusive sur la création et l'organisation des établissements publics non universitaires, art. 36.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233"}
+  fiscalite: {valeur: "partiel", note: "Impôts propres établis par loi du Parlement, part des impôts de l'État cédés avec capacité normative (taux, exonérations, déductions) dans les limites de la loi organique de financement, Statut de 2007, art. 129 ; une loi de l'État fixe un régime spécial lié à l'insularité, disposition additionnelle sixième.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233"}
+  representation: {valeur: "partiel", note: "Chaque île dotée d'un consell insular forme une circonscription pour l'élection du Sénat : trois sénateurs pour Majorque, un pour Minorque, Ibiza et Formentera, Constitution, art. 69.3 dans sa rédaction issue de la réforme du 19 mai 2026 ; les circonscriptions distinctes d'Ibiza et de Formentera s'appliquent à partir des premières élections sénatoriales qui suivent la réforme, disposition transitoire de la réforme.", source: "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10881"}
+  statut_personnel: {valeur: "partiel", note: "La condition politique de citoyen de la Communauté est attribuée aux Espagnols ayant leur domicile administratif dans une commune des îles, Statut de 2007, art. 9.1 ; les étrangers domiciliés aux îles qui acquièrent la nationalité espagnole relèvent du droit civil des Illes Balears, sauf choix contraire, art. 9.3.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Comité d'experts de la Charte, qui suit le catalan dans la Communauté autonome des Îles Baléares, constate en 2024 un système de protection des langues régionales développé en Espagne, avec des lacunes dans la justice, la santé et l'administration de l'État.", source: "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/-/spain-s-system-to-protect-regional-and-minority-languages-is-well-developed-but-gaps-persist-in-justice-healthcare-and-public-administration-1"}
+chronologie:
+  - {annee: 1978, evenement: "La Constitution prévoit l'administration propre des îles par des cabildos ou consells (art. 141.4) et une circonscription sénatoriale par île ou groupe d'îles doté d'un cabildo ou consell (art. 69.3) ; Ibiza et Formentera n'en forment qu'une."}
+  - {annee: 1983, evenement: "Loi organique 2/1983 portant Statut d'autonomie des îles Baléares."}
+  - {annee: 1999, evenement: "Loi organique 3/1999 portant réforme du Statut."}
+  - {annee: 2007, evenement: "Loi organique 1/2007 portant réforme du Statut, en vigueur le 2 mars 2007 ; Formentera obtient un consell insular propre, distinct de celui d'Ibiza."}
+  - {annee: 2022, evenement: "Loi organique 1/2022 supprimant le privilège de juridiction des députés et des membres du Gouvernement."}
+  - {annee: 2026, evenement: "Réforme de l'article 69.3 de la Constitution : Formentera élira son propre sénateur à partir des premières élections sénatoriales qui suivent la réforme."}
+fiabilite:
+  verifie: ["Statut de 2007, art. 1, 2, 4, 8, 9, 30, 31, 35, 36, 39, 40, 41, 48, 61, 70, 72, 93, 94, 129, 139, dispositions additionnelles cinquième et sixième, disposition transitoire huitième (BOE, texte consolidé).", "Constitution, art. 69.3 (rédaction de 1978 et réforme du 19 mai 2026 et sa disposition transitoire) et 141.4 (BOE).", "Loi organique 1/2022 (BOE).", "Population au 1er janvier 2025 (INE) et surface (IGN, révision 2025).", "Rapport de la Charte publié le 24 septembre 2024 (Conseil de l'Europe)."]
+  non_confirme: ["Aucun document onusien nommant le régime des Baléares n'a été trouvé.", "Compilation du droit civil des Baléares (décret législatif 79/1990) et loi 30/1998 sur le régime spécial des Baléares : non consultées.", "Nombre de localités habitées non relevé sur source officielle ; nombre de communes non retenu faute de liste consultée."]
+sources:
+  - {titre: "Loi organique 1/2007, réforme du Statut d'autonomie des Illes Balears — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-4233"}
+  - {titre: "Loi organique 2/1983, Statut d'autonomie des îles Baléares — BOE", url: "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-6316"}
+  - {titre: "Loi organique 1/2022, réforme du Statut (suppression du privilège de juridiction) — BOE", url: "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2050"}
+  - {titre: "Constitution espagnole de 1978 — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"}
+  - {titre: "Réforme de l'article 69.3 de la Constitution du 19 mai 2026 — BOE", url: "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10881"}
+  - {titre: "Rapport sur l'Espagne, Charte européenne des langues régionales ou minoritaires — Conseil de l'Europe", url: "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/-/spain-s-system-to-protect-regional-and-minority-languages-is-well-developed-but-gaps-persist-in-justice-healthcare-and-public-administration-1"}
+  - {titre: "Statistique continue de la population, par province — INE", url: "https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/56940?nult=1"}
+  - {titre: "Données géographiques des communautés autonomes — Institut géographique national (IGN)", url: "https://www.ign.es/resources/ane/Informacion_Geografica_Destacada/IGN_INFOGEO_CCAA.xlsx"}

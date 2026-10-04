@@ -1,0 +1,60 @@
+uid: "navarre-communaute-forale"
+nom: "Navarre"
+endonyme: "Comunidad Foral de Navarra / Nafarroako Foru Komunitatea"
+territoire: "Navarre (merindades historiques de Pampelune, Estella, Tudela, Sangüesa et Olite)"
+etats: ["Espagne"]
+region: "europe"
+coord: [42.7, -1.6]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 683500, annee: 2025, perimetre: "population inscrite au registre municipal (padrón) au 1er janvier, chiffres officiels", source: "https://www.ine.es/jaxiT3/Tabla.htm?t=2884"}
+lieux: {valeur: 272, unite: "communes (municipios)", annee: 2025, source: "https://www.ine.es/jaxiT3/Tabla.htm?t=2884"}
+surface_km2: {valeur: 10392, annee: 2025, perimetre: "territoire de la Communauté forale (10 392,16 km², Institut géographique national, révision du 23 octobre 2025)", source: "https://www.ign.es/resources/ane/Informacion_Geografica_Destacada/IGN_INFOGEO_CCAA.xlsx"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi organique 13/1982 du 10 août, dite « Amejoramiento » (réintégration et amélioration du régime foral), fait de la Navarre une Communauté forale « avec un régime, une autonomie et des institutions propres ». Le régime foral désigne l'ordre juridique hérité des fueros (chartes et droits historiques) de l'ancien royaume, que la Constitution de 1978 protège dans sa disposition additionnelle première. Le Parlement de Navarre vote les lois forales et le budget. La Navarre lève ses propres impôts et verse à l'État une contribution fixée par un Convenio Económico (accord économique) négocié entre les deux parties. Les concejos et les corporations traditionnelles de Navarre ont leur propre fiche (« Concejos de Navarre »).
+reconnaissance_regionale:
+  - {mecanisme: "charte_langues_regionales", detail: "La Charte européenne des langues régionales ou minoritaires couvre le basque dans la Communauté forale de Navarre ; rapport du Comité d'experts publié le 24 septembre 2024.", annee: 2024, source: "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/-/spain-s-system-to-protect-regional-and-minority-languages-is-well-developed-but-gaps-persist-in-justice-healthcare-and-public-administration-1"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution espagnole, disposition additionnelle première (droits historiques des territoires foraux)", nature: "constitution", annee: 1978, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"}
+  - {instrument: "Loi organique 13/1982 du 10 août, de réintégration et d'amélioration du régime foral de Navarre (LORAFNA)", nature: "loi_organique", annee: 1982, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  - {instrument: "Loi organique 7/2010 du 27 octobre, modifiant la LORAFNA", nature: "loi_organique", annee: 2010, source: "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16435"}
+  - {instrument: "Loi 28/1990 du 26 décembre, portant approbation du Convenio Económico entre l'État et la Communauté forale de Navarre", nature: "loi", annee: 1990, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-31117"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les institutions forales sont le Parlement ou Cortes de Navarre, le Gouvernement de Navarre ou Diputación Foral et le Président, LORAFNA, art. 10 ; le Parlement est élu au suffrage universel direct pour quatre ans, art. 15.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le Parlement représente le peuple navarrais et exerce la potestad legislativa (pouvoir de faire des lois), LORAFNA, art. 11 ; ses normes portent le nom de leyes forales (lois forales), art. 20 ; compétence exclusive sur le droit civil foral, art. 48.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  justice_propre: {valeur: "partiel", note: "Les juridictions situées en Navarre, qui relèvent du pouvoir judiciaire de l'État, jugent à toutes les instances, y compris en cassation, les affaires de droit civil foral de Navarre, LORAFNA, art. 61.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  terres: {valeur: "partiel", note: "Compétence exclusive sur les montes (terres boisées et pastorales) appartenant à la Communauté forale, aux communes, aux concejos et autres entités de Navarre, et sur les pâturages, LORAFNA, art. 50.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  ressources: {valeur: "partiel", note: "Compétence exclusive sur l'agriculture, la chasse, la pêche fluviale et les aprovechamientos hidráulicos (usages de l'eau) quand les eaux coulent entièrement en Navarre, LORAFNA, art. 44 et 50 ; pour le régime minier et énergétique, la Navarre n'exerce que le développement législatif et l'exécution de la législation de base de l'État, art. 57.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  consentement: {valeur: "reconnu", note: "L'Amejoramiento ne peut être modifié unilatéralement ; toute réforme est proposée d'un commun accord par la Diputación Foral et le Gouvernement de l'Espagne, puis approuvée par le Parlement de Navarre et les Cortes Generales (Parlement espagnol), LORAFNA, art. 71.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  langue: {valeur: "partiel", note: "Le castillan est la langue officielle de la Navarre ; le basque (vascuence) est aussi langue officielle dans les zones bascophones fixées par une loi forale, LORAFNA, art. 9.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  education: {valeur: "reconnu", note: "La réglementation et l'administration de l'enseignement dans toute son extension relèvent de la compétence pleine de la Navarre, sous réserve des lois organiques et des compétences de l'État sur les diplômes, LORAFNA, art. 47.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  fiscalite: {valeur: "reconnu", note: "La Navarre peut maintenir, établir et régler son propre régime fiscal ; l'activité fiscale et financière suit le Convenio Económico, qui fixe la contribution de la Navarre aux charges générales de l'État, LORAFNA, art. 45 ; loi 28/1990, art. 1.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  representation: {valeur: "partiel", note: "Le Parlement de Navarre désigne les sénateurs revenant à la Navarre en tant que Communauté forale, LORAFNA, art. 12.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  statut_personnel: {valeur: "reconnu", note: "La condition politique de Navarrais est attribuée aux Espagnols domiciliés dans une commune de Navarre ; la condition civile forale de Navarrais est régie par la Compilation du droit civil foral (Fuero Nuevo), LORAFNA, art. 5.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Comité européen des régions range la Navarre, avec le Pays basque, parmi les communautés à régime foral, qui disposent d'une pleine autonomie fiscale hors droits de douane, à condition que la pression fiscale effective ne soit pas inférieure à celle du reste de l'Espagne. Le Comité d'experts de la Charte européenne des langues (rapport adopté le 18 juin 2024, § 12 et 14) relève que le basque n'est officiel que dans la zone bascophone, l'une des trois zones linguistiques de la Navarre, et demande de lever les obstacles nés de cette division.", source: "https://portal.cor.europa.eu/divisionpowers/Pages/Spain-Fiscal-Powers.aspx"}
+chronologie:
+  - {annee: 1839, evenement: "Loi du 25 octobre confirmant les fueros de la Navarre, citée par l'article 2 de la LORAFNA."}
+  - {annee: 1841, evenement: "Ley Paccionada (loi pactée) du 16 août, citée par l'article 2 de la LORAFNA."}
+  - {annee: 1978, evenement: "La Constitution protège les droits historiques des territoires foraux (disposition additionnelle première)."}
+  - {annee: 1982, evenement: "Loi organique 13/1982 du 10 août (LORAFNA), en vigueur le 16 août."}
+  - {annee: 1990, evenement: "Loi 28/1990 portant approbation du Convenio Económico."}
+  - {annee: 2010, evenement: "Loi organique 7/2010 : réforme des institutions, création des décrets-lois foraux, du Défenseur du peuple de Navarre et inscription de la Chambre des comptes."}
+  - {annee: 2022, evenement: "Loi 22/2022 adaptant le Convenio Económico."}
+fiabilite:
+  verifie: ["LORAFNA, art. 1, 2, 4, 5, 9, 10, 11, 12, 15, 20, 44, 45, 47, 48, 50, 56, 61, 71 et dispositions additionnelles (BOE, texte consolidé).", "Constitution, disposition additionnelle première et disposition transitoire quatrième (BOE).", "Loi 28/1990, art. 1, et loi 22/2022, préambule (BOE).", "Population au 1er janvier 2025 et nombre de communes (INE, tableau 2884).", "Surface (Institut géographique national, tableau des communautés autonomes, révision 2025).", "Autonomie fiscale des communautés à régime foral (Comité européen des régions).", "Zones linguistiques et observations du Comité d'experts, rapport adopté le 18 juin 2024, § 12 et 14 (Conseil de l'Europe).", "Mention de la Navarre dans le rapport de la Charte publié le 24 septembre 2024 (Conseil de l'Europe)."]
+  non_confirme: ["La disposition transitoire quatrième de la Constitution permet une incorporation de la Navarre au régime autonome basque après initiative du Parlement et référendum ; elle ne prévoit pas d'indépendance et n'a pas été classée comme autodétermination externe.", "La disposition additionnelle première de la LORAFNA dit que l'acceptation du régime n'implique pas la renonciation à d'autres droits originaires et historiques ; sa portée juridique est débattue.", "Les concejos et entités locales traditionnelles relèvent d'une autre fiche.", "Justice propre classée partiel : les juridictions de Navarre appartiennent au pouvoir judiciaire de l'État ; la Navarre exerce les attributions du Gouvernement de l'État en matière d'administration de la justice, LORAFNA, art. 60."]
+sources:
+  - {titre: "Loi organique 13/1982, de réintégration et d'amélioration du régime foral de Navarre — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20824"}
+  - {titre: "Constitution espagnole — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"}
+  - {titre: "Loi organique 7/2010 modifiant la LORAFNA — BOE", url: "https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16435"}
+  - {titre: "Loi 28/1990, Convenio Económico entre l'État et la Communauté forale de Navarre — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1990-31117"}
+  - {titre: "Loi 22/2022 modifiant le Convenio Económico — BOE", url: "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17101"}
+  - {titre: "Population par commune, Navarre — INE", url: "https://www.ine.es/jaxiT3/Tabla.htm?t=2884"}
+  - {titre: "Rapport sur l'Espagne, Charte européenne des langues régionales ou minoritaires — Conseil de l'Europe", url: "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/-/spain-s-system-to-protect-regional-and-minority-languages-is-well-developed-but-gaps-persist-in-justice-healthcare-and-public-administration-1"}
+  - {titre: "Données géographiques des communautés autonomes — Institut géographique national (IGN)", url: "https://www.ign.es/resources/ane/Informacion_Geografica_Destacada/IGN_INFOGEO_CCAA.xlsx"}
+  - {titre: "Division des pouvoirs, Espagne, pouvoirs fiscaux — Comité européen des régions", url: "https://portal.cor.europa.eu/divisionpowers/Pages/Spain-Fiscal-Powers.aspx"}
+  - {titre: "Sixième rapport d'évaluation sur l'Espagne, Charte européenne des langues régionales ou minoritaires — Conseil de l'Europe", url: "https://rm.coe.int/spainecrml6-en/1680b1b32d"}

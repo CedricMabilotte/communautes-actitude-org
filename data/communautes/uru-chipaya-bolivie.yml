@@ -1,0 +1,59 @@
+uid: "uru-chipaya-bolivie"
+nom: "Nation originaire Uru Chipaya"
+endonyme: ""
+territoire: "Gouvernement autonome de la nation originaire Uru Chipaya (ancienne commune de Chipaya), province de Sabaya, département d'Oruro"
+etats: ["Bolivie"]
+region: "ameriques"
+coord: [-19.0, -68.1]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2003, annee: 2012, perimetre: "habitants de la commune de Chipaya, territoire de l'autonomie (recensement de 2012)", source: "https://fuentedirecta.oep.org.bo/autonomia-indigena-uru-chipaya/"}
+lieux: {valeur: 4, unite: "ayllus (Aransaya, Manasaya, Wistrullani, Ayparavi)", annee: 2016, source: "https://web.oep.org.bo/wp-content/uploads/2016/12/uru_chipaya.pdf"}
+surface_km2: {valeur: 1669, annee: 2007, perimetre: "superficie demandée lors de la procédure d'assainissement foncier engagée en 2007 pour le titre collectif de territoire « indígena originario campesino » (166 947,08 ha), et non surface titrée", source: "https://fuentedirecta.oep.org.bo/autonomia-indigena-uru-chipaya/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La nation originaire Uru Chipaya vit sur le territoire de l'ancienne commune de Chipaya, à l'ouest du département d'Oruro. Le 6 décembre 2009, 91,7 % des votants choisissent de convertir la commune en « autonomía indígena originaria campesina » (AIOC, collectivité territoriale autochtone prévue par la Constitution de 2009). Le Tribunal constitutionnel plurinational déclare le statut conforme le 27 mars 2015 et le référendum du 20 novembre 2016 l'approuve avec 77,4 % des voix. Les autorités des trois organes du gouvernement autonome sont désignées selon les normes et procédures propres entre avril et juillet 2017 ; les organes législatif et exécutif sont renouvelés en novembre 2021.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La Bolivie ratifie la Convention 169 de l'OIT le 11 décembre 1991.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "La Bolivie vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Constitution politique de l'État plurinational de Bolivie (2009), art. 5, 30, 190, 289, 290 et 304", nature: "constitution", annee: 2009, source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {instrument: "Statut du gouvernement autonome de la nation originaire Uru Chipaya (déclaration constitutionnelle du 27 mars 2015, référendum du 20 novembre 2016)", nature: "statut_autonomie", annee: 2016, source: "https://web.oep.org.bo/wp-content/uploads/2016/12/uru_chipaya.pdf"}
+  - {instrument: "Loi 026 du régime électoral, art. 57 et 61", nature: "loi", annee: 2010, source: "https://web.oep.org.bo/wp-content/uploads/2019/07/LEY_026.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Constitution (art. 289 et 290) définit l'AIOC comme autogouvernement selon les normes et institutions propres ; le statut (art. 25 à 44) crée une assemblée de tous les habitants (Chawkh Parla), un organe législatif de huit membres (Laymis Parla) et un organe exécutif (Lanqśñi paqh mä eph).", source: "https://web.oep.org.bo/wp-content/uploads/2016/12/uru_chipaya.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le statut (art. 37 a) donne au Laymis Parla le pouvoir d'adopter, modifier et abroger des lois dans le champ des compétences de l'autonomie ; la Constitution (art. 304) fixe ces compétences.", source: "https://web.oep.org.bo/wp-content/uploads/2016/12/uru_chipaya.pdf"}
+  justice_propre: {valeur: "reconnu", note: "La Constitution (art. 190 et 304.I.8) reconnaît la juridiction « indígena originaria campesina » (justice coutumière) ; le statut (art. 50 et 51) l'organise en trois niveaux : communauté, assemblée d'ayllu, Chawkh Parla en dernier ressort.", source: "https://web.oep.org.bo/wp-content/uploads/2016/12/uru_chipaya.pdf"}
+  terres: {valeur: "partiel", note: "La Constitution (art. 30.II.6) reconnaît le droit au titre collectif des terres ; le statut (art. 15 e) garantit l'accès à la terre ancestrale ; le titre collectif sur le territoire est demandé, sans titre confirmé par une source ouverte.", source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  ressources: {valeur: "partiel", note: "La Constitution (art. 304.I.3) donne la gestion des ressources renouvelables et le statut (art. 15 c et d) celle de la faune, de la flore et de l'eau ; les ressources non renouvelables restent à l'État, avec participation aux bénéfices (art. 30.II.16).", source: "https://web.oep.org.bo/wp-content/uploads/2016/12/uru_chipaya.pdf"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 30.II.15) impose une consultation préalable obligatoire, de bonne foi et concertée, sur l'exploitation des ressources non renouvelables ; le statut (art. 21) prévoit une consultation préalable et informée des communautés et des ayllus sur l'exploitation des ressources stratégiques ; aucun des deux textes n'exige le consentement.", source: "https://web.oep.org.bo/wp-content/uploads/2016/12/uru_chipaya.pdf"}
+  langue: {valeur: "reconnu", note: "La Constitution (art. 5) fait de l'uru-chipaya une langue officielle de l'État ; le statut (art. 9) fait de l'uru chipaya et du castillan les langues officielles du gouvernement autonome.", source: "https://web.oep.org.bo/wp-content/uploads/2016/12/uru_chipaya.pdf"}
+  education: {valeur: "partiel", note: "Le statut (art. 67) prévoit une éducation fondée sur la langue et la culture uru chipaya, dans le cadre du système éducatif plurinational et de la loi d'éducation Avelino Siñani et Elizardo Pérez.", source: "https://web.oep.org.bo/wp-content/uploads/2016/12/uru_chipaya.pdf"}
+  fiscalite: {valeur: "partiel", note: "La Constitution (art. 304.I.12 à 14) permet de créer des taxes, d'administrer les impôts de sa compétence et d'adopter son budget ; le statut (art. 37 g et h, art. 57) prévoit des lois fiscales propres et liste les transferts de l'État.", source: "https://web.oep.org.bo/wp-content/uploads/2016/12/uru_chipaya.pdf"}
+  representation: {valeur: "partiel", note: "La loi 026 de 2010 (art. 57 et 61) crée dans le département d'Oruro une circonscription spéciale autochtone partagée entre Chipaya et Murato, qui élit un député.", source: "https://web.oep.org.bo/wp-content/uploads/2019/07/LEY_026.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Une étude de l'Eurac Research (2020) compte Uru Chipaya parmi les trois AIOC dotées d'un gouvernement en fonctionnement ; l'Organe électoral plurinational a supervisé le renouvellement des autorités en novembre 2021.", source: "https://webassets.eurac.edu/31538/1664189807-bolivia-2020.pdf"}
+chronologie:
+  - {annee: 2009, evenement: "Référendum du 6 décembre : 91,7 % des votants choisissent la conversion de la commune en autonomie."}
+  - {annee: 2011, evenement: "Le statut, premier statut d'autonomie achevé, est remis au président de l'État."}
+  - {annee: 2015, evenement: "Le Tribunal constitutionnel plurinational déclare le statut conforme à la Constitution (27 mars)."}
+  - {annee: 2016, evenement: "Le statut est approuvé par référendum avec 77,4 % des voix (20 novembre)."}
+  - {annee: 2017, evenement: "Désignation de la plus haute autorité (6 avril), des membres territoriaux du Laymis Parla dans les quatre ayllus (à partir du 15 juillet) et de l'autorité exécutive (22 juillet)."}
+  - {annee: 2021, evenement: "Renouvellement des membres territoriaux du Laymis Parla (8 au 13 novembre) et de l'autorité exécutive (14 novembre) selon les normes et procédures propres."}
+fiabilite:
+  verifie: ["Articles 5, 30, 190, 289 et 304 de la Constitution de 2009.", "Articles 9, 15, 21, 24 à 44, 50, 51, 57 et 67 du statut, et date de la déclaration constitutionnelle (page de titre).", "Article 57 de la loi 026 de 2010 (circonscription spéciale Chipaya et Murato).", "Résultats des référendums de 2009 et 2016 et calendrier des désignations de 2017 (Organe électoral plurinational)."]
+  non_confirme: ["Existence d'un titre collectif de territoire (TIOC) et surface titrée : seule la superficie demandée est publiée.", "Population issue du recensement de 2024.", "Nombre de villages ou de hameaux habités dans les quatre ayllus."]
+sources:
+  - {titre: "Constitution de Bolivie (2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {titre: "Statut du gouvernement autonome de la nation originaire Uru Chipaya — Organe électoral plurinational", url: "https://web.oep.org.bo/wp-content/uploads/2016/12/uru_chipaya.pdf"}
+  - {titre: "Autonomía indígena Uru Chipaya — Fuente Directa, Organe électoral plurinational", url: "https://fuentedirecta.oep.org.bo/autonomia-indigena-uru-chipaya/"}
+  - {titre: "La nación Uru Chipaya elige a Zacarías Huarachi como autoridad ejecutiva — Organe électoral plurinational, 2017", url: "https://fuentedirecta.oep.org.bo/noticia/la-nacion-uru-chipaya-elige-a-zacarias-huarachi-como-autoridad-ejecutiva-y-conforma-sus-tres-organos-de-gobierno/"}
+  - {titre: "Nación Uru Chipaya elige a su nueva autoridad ejecutiva — Organe électoral plurinational, 2021", url: "https://fuentedirecta.oep.org.bo/noticia/nacion-uru-chipaya-elige-a-su-nueva-autoridad-ejecutiva-mediante-normas-y-procedimientos-propios/"}
+  - {titre: "Loi 026 du régime électoral — Organe électoral plurinational", url: "https://web.oep.org.bo/wp-content/uploads/2019/07/LEY_026.pdf"}
+  - {titre: "Alderman et Tomaselli, « Indigenous Originary Peasant Autonomy in Bolivia », Eurac Research, 2020", url: "https://webassets.eurac.edu/31538/1664189807-bolivia-2020.pdf"}
+  - {titre: "Tockman, « The Hegemony of Representation », Journal of Politics in Latin America, 2017", url: "https://d-nb.info/1139360698/34"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

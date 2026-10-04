@@ -1,0 +1,72 @@
+uid: "haida-nation"
+nom: "Nation haïda (Haida Gwaii)"
+endonyme: ""
+territoire: "Haida Gwaii (Colombie-Britannique)"
+etats: ["Canada"]
+region: "ameriques"
+coord: [53.3, -132.1]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 5182, annee: 2026, perimetre: "membres inscrits au registre fédéral des deux bandes haïdas (Old Massett Village Council : 3 357 ; Skidegate : 1 825), septembre 2026, toutes résidences confondues ; la citoyenneté haïda définie par la constitution de la Nation n'est pas comptée", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=669&lang=eng"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: 10000, annee: 2024, perimetre: "Haida Gwaii, environ 1 million d'hectares selon la province (archipel de plus de 200 îles)", source: "https://news.gov.bc.ca/releases/2024IRR0027-000768"}
+villages: {valeur: 2, annee: 2024, perimetre: "villages haïdas de Haida Gwaii dotés d'un conseil de bande : Old Massett et Skidegate", source: "https://www.rcaanc-cirnac.gc.ca/eng/1733348293891/1733348316005"}
+resume: >-
+  La Nation haïda vit sur l'archipel de Haida Gwaii, au large de la côte nord de la Colombie-Britannique. Son gouvernement, le Conseil de la Nation haïda, est reconnu par une loi provinciale de 2023 et par une loi fédérale de 2024. La Colombie-Britannique reconnaît par la loi depuis 2024 le titre ancestral haïda (droit collectif sur la terre issu de l'occupation antérieure) sur l'ensemble de l'archipel ; la Cour suprême de la province l'a déclaré par consentement des parties en septembre 2025. Gwaii Haanas, au sud de l'archipel, est cogéré avec le Canada depuis 1993.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Devant le Comité permanent des affaires autochtones et du Nord de la Chambre des communes (INAN), le gouvernement du Canada présente le projet de loi S-16, devenu la Loi sur la reconnaissance de la Nation haïda (L.C. 2024, ch. 29), comme conforme à ses obligations au titre de la Loi sur la Déclaration des Nations unies sur les droits des peuples autochtones (2021).", annee: 2024, source: "https://www.rcaanc-cirnac.gc.ca/eng/1733348293891/1733348316005"}
+  - {mecanisme: "rapporteur_special", detail: "Le rapport du Rapporteur spécial sur la situation au Canada (A/HRC/27/52/Add.2) cite l'arrêt Nation haïda c. Colombie-Britannique (2004) comme fondement de l'obligation de consulter.", annee: 2014, source: "https://undocs.org/A/HRC/27/52/Add.2"}
+base_nationale:
+  - {instrument: "Loi sur la reconnaissance de la Nation haïda, L.C. 2024, ch. 29", nature: "loi", annee: 2024, source: "https://laws-lois.justice.gc.ca/fra/lois/H-0.3/page-1.html"}
+  - {instrument: "Haida Nation Recognition Act, S.B.C. 2023, ch. 24, modifiée par la Haida Nation Recognition Amendment Act, 2024", nature: "loi", annee: 2023, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/23024"}
+  - {instrument: "Gaayhllxid • Gíihlagalgang « Rising Tide » Haida Title Lands Agreement (Colombie-Britannique, 14 avril 2024)", nature: "accord_revendication", annee: 2024, source: "https://www2.gov.bc.ca/assets/gov/environment/natural-resource-stewardship/consulting-with-first-nations/agreements/draft_haida_title_lands_agreement_27march2024_bilateral.pdf"}
+  - {instrument: "Council of the Haida Nation v. British Columbia, 2025 BCSC 1806 (déclaration de titre par consentement)", nature: "jurisprudence", annee: 2025, source: "https://cassels.com/insights/bc-supreme-court-confirms-aboriginal-title-over-haida-gwaii/"}
+  - {instrument: "Haida Gwaii Reconciliation Act, S.B.C. 2010, ch. 17", nature: "loi", annee: 2010, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/10017_01"}
+  - {instrument: "Nation haïda c. Colombie-Britannique (Ministre des Forêts), 2004 CSC 73", nature: "jurisprudence", annee: 2004, source: "https://juricaf.org/arret/CANADA-COURSUPREME-20041118-2004CSC73"}
+  - {instrument: "Accord de Gwaii Haanas entre le Canada et le Conseil de la Nation haïda", nature: "accord_revendication", annee: 1993, source: "https://parks.canada.ca/pn-np/bc/gwaiihaanas/info/histoire-history"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le Canada reconnaît le Conseil de la Nation haïda comme gouvernement autorisé à agir pour la Nation (L.C. 2024, ch. 29, art. 3 b) et 4) ; la loi provinciale de 2023 le reconnaît comme gouvernement de la Nation haïda (art. 1).", source: "https://laws-lois.justice.gc.ca/fra/lois/H-0.3/page-1.html"}
+  pouvoir_normatif: {valeur: "partiel", note: "La loi provinciale prend acte de « lois de la Nation haïda » à concilier avec le droit provincial (S.B.C. 2023, ch. 24, art. 4.4(1)) ; à titre provisoire, les lois provinciales sur les terres publiques continuent de s'appliquer aux terres de titre haïda (art. 4.4(2)). L'accord « Rising Tide » de 2024 fixe à cette conciliation une transition estimée à deux ans (annexe A).", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/23024"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "La loi provinciale reconnaît le titre ancestral haïda sur les terres de Haida Gwaii (S.B.C. 2023, ch. 24, art. 4.1, ajouté en 2024) ; la Cour suprême de la Colombie-Britannique l'a déclaré sur les terres de l'archipel le 5 septembre 2025 ; les propriétés privées en fief simple (pleine propriété) sont maintenues.", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/23024"}
+  ressources: {valeur: "partiel", note: "Le Conseil de gestion de Haida Gwaii (deux membres nommés par la Nation haïda, deux par la province, un président nommé par les deux) fixe la possibilité annuelle de coupe (volume de bois récoltable chaque année) et approuve les plans de gestion des aires protégées (S.B.C. 2010, ch. 17, art. 3, 5 et 6) ; ses compétences excluent les réserves, les municipalités et les terres privées (art. 1).", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/10017_01"}
+  consentement: {valeur: "partiel", note: "L'arrêt Nation haïda c. Colombie-Britannique (2004 CSC 73) impose à l'État l'obligation de consulter et d'accommoder (adapter la mesure) un peuple autochtone dont les droits sont revendiqués ; selon l'arrêt (par. 48), ce processus ne donne pas de droit de veto tant que la revendication n'est pas établie.", source: "https://juricaf.org/arret/CANADA-COURSUPREME-20041118-2004CSC73"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "La loi fédérale définit la Nation haïda comme la collectivité des citoyens haïdas visés à l'article 2 de la constitution de la Nation (L.C. 2024, ch. 29, art. 2) ; l'inscription au registre des Indiens reste fédérale.", source: "https://laws-lois.justice.gc.ca/fra/lois/H-0.3/page-1.html"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le titre est reconnu par la province et déclaré par la cour en 2025, mais la déclaration est suspendue 24 mois à l'égard du Canada pour certains parcs nationaux, aires de conservation et lieux patrimoniaux, les intérêts fonciers fédéraux et les réserves au sens de la Loi sur les Indiens ; les droits marins et les dommages pour atteinte au titre restent à juger.", source: "https://cassels.com/insights/bc-supreme-court-confirms-aboriginal-title-over-haida-gwaii/"}
+chronologie:
+  - {annee: 1974, evenement: "Création du Conseil de la Nation haïda (7 décembre)."}
+  - {annee: 1985, evenement: "Le Conseil désigne Gwaii Haanas site patrimonial haïda."}
+  - {annee: 1993, evenement: "Accord de Gwaii Haanas avec le Canada : cogestion par le Conseil de gestion de l'archipel."}
+  - {annee: 2002, evenement: "La Nation engage une action en reconnaissance de titre ancestral."}
+  - {annee: 2004, evenement: "Arrêt Nation haïda c. Colombie-Britannique de la Cour suprême du Canada sur l'obligation de consulter."}
+  - {annee: 2010, evenement: "Haida Gwaii Reconciliation Act : Conseil de gestion paritaire, l'archipel prend officiellement le nom de Haida Gwaii ; accord marin de Gwaii Haanas."}
+  - {annee: 2023, evenement: "Accord de reconnaissance tripartite (18 juillet) ; loi provinciale reconnaissant le Conseil de la Nation haïda."}
+  - {annee: 2024, evenement: "Accord « Rising Tide » (14 avril) ; loi provinciale de reconnaissance du titre (sanction 16 mai, en vigueur 5 juillet) ; loi fédérale de reconnaissance (sanction 7 novembre) ; accord fédéral « Big Tide » (4 décembre)."}
+  - {annee: 2025, evenement: "Déclaration du titre ancestral haïda sur les terres de Haida Gwaii par la Cour suprême de la Colombie-Britannique, par consentement (5 septembre)."}
+fiabilite:
+  verifie: ["Articles 2 à 5 de la loi fédérale L.C. 2024, ch. 29 (version codifiée, sanction 7 novembre 2024).", "Articles 1, 2 et 4.1 de la loi provinciale S.B.C. 2023, ch. 24.", "Composition et attributions du Conseil de gestion de Haida Gwaii (S.B.C. 2010, ch. 17).", "Paragraphe 48 de l'arrêt 2004 CSC 73 (absence de droit de veto).", "Annexe A de l'accord « Rising Tide » (transition estimée à deux ans).", "Population inscrite des bandes 669 et 670 (registre fédéral, septembre 2026)."]
+  non_confirme: ["Clauses de l'accord « Rising Tide » lues dans la version provisoire du 27 mars 2024 publiée par la province.", "Portée exacte de la déclaration judiciaire de 2025 lue dans un résumé de cabinet d'avocats, non dans le jugement.", "État d'adoption de la loi fédérale de mise en œuvre de l'accord « Big Tide », exigée avant le 5 septembre 2027.", "Surface de 10 000 km², arrondie par la province."]
+sources:
+  - {titre: "Loi sur la reconnaissance de la Nation haïda, L.C. 2024, ch. 29 — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/H-0.3/page-1.html"}
+  - {titre: "Haida Nation Recognition Act, S.B.C. 2023, ch. 24 — BC Laws", url: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/23024"}
+  - {titre: "Historic Haida Aboriginal title legislation receives royal assent — Gouvernement de la Colombie-Britannique, 16 mai 2024", url: "https://news.gov.bc.ca/releases/2024IRR0027-000768"}
+  - {titre: "Haida Aboriginal title agreement, legislation effective date — Gouvernement de la Colombie-Britannique", url: "https://news.gov.bc.ca/releases/2024IRR0033-000976"}
+  - {titre: "Gíihlagalgang « Rising Tide » Haida Title Lands Agreement (version du 27 mars 2024)", url: "https://www2.gov.bc.ca/assets/gov/environment/natural-resource-stewardship/consulting-with-first-nations/agreements/draft_haida_title_lands_agreement_27march2024_bilateral.pdf"}
+  - {titre: "The Haida Nation and Canada announce a first-of-its-kind agreement — Premier ministre du Canada, 17 février 2025", url: "https://www.pm.gc.ca/en/news/news-releases/2025/02/17/haida-nation-and-canada-announce-first-its-kind-agreement-recognizing"}
+  - {titre: "BC Supreme Court Confirms Aboriginal Title Over Haida Gwaii — Cassels", url: "https://cassels.com/insights/bc-supreme-court-confirms-aboriginal-title-over-haida-gwaii/"}
+  - {titre: "Haida Gwaii Reconciliation Act, S.B.C. 2010, ch. 17 — BC Laws", url: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/10017_01"}
+  - {titre: "Nation haïda c. Colombie-Britannique (Ministre des Forêts), 2004 CSC 73 — Juricaf", url: "https://juricaf.org/arret/CANADA-COURSUPREME-20041118-2004CSC73"}
+  - {titre: "Historique de l'établissement de Gwaii Haanas — Parcs Canada", url: "https://parks.canada.ca/pn-np/bc/gwaiihaanas/info/histoire-history"}
+  - {titre: "Comparution devant le Comité permanent des affaires autochtones et du Nord (INAN), projet de loi S-16 — Relations Couronne-Autochtones", url: "https://www.rcaanc-cirnac.gc.ca/eng/1733348293891/1733348316005"}
+  - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones : la situation au Canada, A/HRC/27/52/Add.2", url: "https://undocs.org/A/HRC/27/52/Add.2"}
+  - {titre: "Population inscrite, Old Massett Village Council (bande 669)", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=669&lang=eng"}
+  - {titre: "Population inscrite, Skidegate (bande 670)", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=670&lang=eng"}
+  - {titre: "Constitution de la Nation haïda — Conseil de la Nation haïda", url: "https://www.haidanation.ca/about/haida-constitution"}
+  - {titre: "Council of the Haida Nation — Wikipedia", url: "https://en.wikipedia.org/wiki/Council_of_the_Haida_Nation"}

@@ -1,0 +1,64 @@
+uid: "rrom-colombie"
+nom: "Peuple rrom (kumpañy) de Colombie"
+endonyme: "Rrom"
+territoire: "Kumpañy de Bogotá et des départements de Norte de Santander, Santander, Antioquia, Córdoba, Sucre, Valle del Cauca, Atlántico, Tolima et Nariño"
+etats: ["Colombie"]
+region: "ameriques"
+coord: [4.6, -74.1]
+type: "peuple_tribal"
+base: "personnelle"
+types_secondaires: ["minorite_nationale"]
+population: {valeur: 2649, annee: 2018, perimetre: "personnes qui se déclarent gitanes ou rrom au recensement national de la population et du logement", source: "https://www.dane.gov.co/files/investigaciones/boletines/grupos-etnicos/comunicado-grupos-etnicos-poblacion-gitana-rrom-2019.pdf"}
+lieux: {valeur: 11, unite: "kumpañy identifiées au recensement", annee: 2018, source: "https://www.dane.gov.co/files/investigaciones/boletines/grupos-etnicos/comunicado-grupos-etnicos-poblacion-gitana-rrom-2019.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "régime non territorial", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Rrom de Colombie vivent regroupés en kumpañy (ensembles de familles alliées qui résident ou voyagent ensemble), surtout en ville. Le décret 2957 du 6 août 2010 les reconnaît comme groupe ethnique doté de ses propres institutions, organise le registre des kumpañy et de leurs représentants élus et crée une Commission nationale de dialogue avec le Gouvernement. En 2015, la Cour constitutionnelle a jugé que la Kriss (tribunal des anciens, les Seré Romengue), qui applique la Kriss Romaní (système de normes propre au groupe), peut trancher les différends internes. Le régime est personnel : il ne délimite aucun territoire.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La Colombie ratifie la Convention 169 de l'OIT le 7 août 1991 ; le décret 2957 de 2010 (considérant 3) et l'arrêt T-026 de 2015 de la Cour constitutionnelle rangent les Rrom parmi les peuples tribaux visés par la Convention.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale sur la Colombie (CERD/C/COL/CO/17-19, 22 janvier 2020), § 4-5 : participation des Roms au recensement de 2018 et recommandation d'associer les populations roms à la méthode du prochain recensement.", annee: 2020, source: "https://docs.un.org/en/CERD/C/COL/CO/17-19"}
+base_nationale:
+  - {instrument: "Décret 2957 de 2010, cadre normatif de protection intégrale des droits du groupe ethnique rom ou gitan (compilé aux art. 2.5.2.1.1 et suivants du Decreto Único Reglamentario 1066 de 2015)", nature: "loi", annee: 2010, source: "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/pdf/decreto_2957_2010.pdf"}
+  - {instrument: "Décret-loi 4634 de 2011 sur l'assistance, la réparation intégrale et la restitution des terres aux victimes du peuple rrom", nature: "loi", annee: 2011, source: "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/decreto_4634_2011.htm"}
+  - {instrument: "Loi 1381 de 2010 sur les langues natives", nature: "loi", annee: 2010, source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1381_2010.html"}
+  - {instrument: "Cour constitutionnelle, arrêt T-026 de 2015 (Kriss Romaní et autonomie du peuple rom)", nature: "jurisprudence", annee: 2015, source: "https://www.corteconstitucional.gov.co/relatoria/2015/T-026-15.htm"}
+  - {instrument: "Cour constitutionnelle, arrêt C-359 de 2013 (le peuple rrom, groupe ethnique de la Nation)", nature: "jurisprudence", annee: 2013, source: "https://www.corteconstitucional.gov.co/relatoria/2013/C-359-13.htm"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le décret 2957 de 2010 définit les Seré Romengue (chefs de famille étendue) comme ceux qui détiennent l'autorité (art. 4) et charge le ministère de l'Intérieur de tenir le registre des kumpañy et de leurs représentants élus selon leur procédure interne (art. 8-9) ; le décret-loi 4634 de 2011 (art. 44) garantit le droit d'élire ces autorités. Aucun organe de gouvernement doté de compétences propres.", source: "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/pdf/decreto_2957_2010.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le décret 2957 de 2010 (art. 4) définit la Kriss Romaní comme le système de normes que les membres du groupe doivent respecter ; l'arrêt T-026 de 2015 admet qu'elle s'applique aux affaires internes, dans les limites de la Constitution.", source: "https://www.corteconstitucional.gov.co/relatoria/2015/T-026-15.htm"}
+  justice_propre: {valeur: "partiel", note: "Le décret 2957 de 2010 (art. 4) définit la Kriss comme le tribunal des anciens qui tranche les différends ; l'arrêt T-026 de 2015 juge que nier sa validité pour les conflits internes porterait atteinte au pluralisme, et le décret-loi 4634 de 2011, dans son champ (réparation des victimes), impose à l'autorité qui l'applique de tenir compte de la Kriss Romaní (art. 18) et de respecter ses institutions (art. 26). Aucune juridiction spéciale n'est créée, à la différence de l'article 246 de la Constitution pour les peuples autochtones.", source: "https://www.corteconstitucional.gov.co/relatoria/2015/T-026-15.htm"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "reconnu", note: "Le décret-loi 4634 de 2011 a fait l'objet d'une consultation préalable (consulta previa : obligation de consulter le groupe avant une mesure qui le touche) au sein de la Commission nationale de dialogue et garantit ce droit dans son champ d'application (art. 32) ; le décret 2957 de 2010 impose la concertation des priorités de santé avec les kumpañy (art. 20) et fait de la Commission nationale de dialogue l'instance de concertation avec le Gouvernement (art. 10-12).", source: "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/decreto_4634_2011.htm"}
+  langue: {valeur: "partiel", note: "La loi 1381 de 2010 range le romani parmi les langues natives de Colombie (art. 1) et garantit aux communautés rom le droit d'utiliser le castillan et le romani (art. 5). Le romani n'a pas de statut officiel.", source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1381_2010.html"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Limité aux réparations : le décret-loi 4634 de 2011 verse les indemnisations collectives dans des fonds communautaires gérés par les autorités et organisations rrom (art. 76) et autorise chaque kumpania à gérer ces ressources par ses représentants (art. 78). Aucun pouvoir fiscal ni budget propre permanent.", source: "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/decreto_4634_2011.htm"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le rapport final de la Commission de la vérité (2022) indique que la Commission nationale de dialogue a été consultée en 2018-2019 et que le ministère de la Justice a adopté un protocole de reconnaissance de la Kriss Romaní ; il relève aussi l'absence de lieux et de procédures adaptés à la Kriss dans ses rapports avec la justice ordinaire, et l'atteinte portée à ce système par les assassinats de Seré Romengue pendant le conflit armé.", source: "https://www.defensoria.gov.co/documents/20123/3846272/CEV_ETNICO_DIGITAL_2022.pdf"}
+chronologie:
+  - {annee: 1991, evenement: "La loi 21 approuve la Convention 169 de l'OIT, ratifiée le 7 août."}
+  - {annee: 2005, evenement: "Le recensement général compte 4 857 personnes se déclarant rrom."}
+  - {annee: 2010, evenement: "La loi 1381 inclut le romani parmi les langues natives ; le décret 2957 fixe le cadre des droits du groupe ethnique rom."}
+  - {annee: 2011, evenement: "Le décret-loi 4634, consulté avec les kumpañy, organise la réparation des victimes rrom du conflit armé."}
+  - {annee: 2013, evenement: "L'arrêt C-359 de la Cour constitutionnelle impose de prendre en compte le peuple rrom dans les priorités de logement social."}
+  - {annee: 2015, evenement: "L'arrêt T-026 de la Cour constitutionnelle reconnaît la Kriss Romaní comme mode de règlement des différends internes ; le décret 1066 compile le décret 2957."}
+  - {annee: 2018, evenement: "Le recensement national identifie 2 649 personnes rrom et 11 kumpañy."}
+  - {annee: 2019, evenement: "La Commission nationale de dialogue est consultée sur la méthode de la Commission de la vérité pour le peuple rrom."}
+  - {annee: 2022, evenement: "Le rapport final de la Commission de la vérité consacre une partie aux dommages subis par le peuple rrom et par la Kriss Romaní."}
+fiabilite:
+  verifie: ["Texte du décret 2957 de 2010 (art. 4, 5, 8-12, 19-20) lu sur le normogramme du ministère des Affaires étrangères.", "Décret-loi 4634 de 2011 : considérants sur la consultation préalable, art. 18, 26, 32, 44 et 76.", "Loi 1381 de 2010, art. 1 et 5.", "Arrêt T-026 de 2015 : motifs 3.4.6 et dispositif.", "Chiffres du recensement 2018 (2 649 personnes, 11 kumpañy) dans le communiqué du DANE du 16 octobre 2019.", "Mention des Roms aux § 4-5 des observations finales CERD/C/COL/CO/17-19.", "Rapport final de la Commission de la vérité, tome « Resistir no es aguantar » (2022) : consultation de la Commission nationale de dialogue (2018-2019), protocole de reconnaissance de la Kriss Romaní, obstacles d'accès à la justice."]
+  non_confirme: ["Nombre de kumpañy inscrites au registre du ministère de l'Intérieur à ce jour (le décret de 2010 cite neuf départements et Bogotá ; le recensement en identifie 11).", "Fonctionnement de la Commission nationale de dialogue après 2019 et suite donnée aux fonds communautaires de réparation.", "Existence de mesures éducatives propres au-delà de l'orientation générale de l'art. 14 du décret 2957."]
+sources:
+  - {titre: "Décret 2957 de 2010 — Normogramme du ministère des Affaires étrangères de Colombie", url: "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/pdf/decreto_2957_2010.pdf"}
+  - {titre: "Décret-loi 4634 de 2011 — Normogramme du ministère des Affaires étrangères de Colombie", url: "https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/decreto_4634_2011.htm"}
+  - {titre: "Loi 1381 de 2010 sur les langues natives — Secrétariat du Sénat", url: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1381_2010.html"}
+  - {titre: "Cour constitutionnelle, arrêt T-026 de 2015", url: "https://www.corteconstitucional.gov.co/relatoria/2015/T-026-15.htm"}
+  - {titre: "Cour constitutionnelle, arrêt C-359 de 2013", url: "https://www.corteconstitucional.gov.co/relatoria/2013/C-359-13.htm"}
+  - {titre: "DANE — Communiqué sur la population gitane ou rrom, recensement 2018 (16 octobre 2019)", url: "https://www.dane.gov.co/files/investigaciones/boletines/grupos-etnicos/comunicado-grupos-etnicos-poblacion-gitana-rrom-2019.pdf"}
+  - {titre: "CERD — Observations finales concernant la Colombie (CERD/C/COL/CO/17-19, 2020)", url: "https://docs.un.org/en/CERD/C/COL/CO/17-19"}
+  - {titre: "Commission de la vérité — Rapport final, « Resistir no es aguantar. Violencias y daños contra los pueblos étnicos de Colombia » (2022)", url: "https://www.defensoria.gov.co/documents/20123/3846272/CEV_ETNICO_DIGITAL_2022.pdf"}
+  - {titre: "Ministère de l'Intérieur — Direction des affaires autochtones, rrom et minorités", url: "https://www.mininterior.gov.co/direccion-de-asuntos-indigenas-rom-y-minorias/"}
+  - {titre: "Convention 169 de l'OIT — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}

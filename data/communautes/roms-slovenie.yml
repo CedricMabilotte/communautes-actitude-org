@@ -1,0 +1,59 @@
+uid: "roms-slovenie"
+nom: "Communauté rom de Slovénie"
+endonyme: "Roma"
+territoire: "Prekmurje, Dolenjska, Bela krajina et Posavje (20 communes d'implantation historique)"
+etats: ["Slovénie"]
+region: "europe"
+coord: [46.1, 15.4]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 3246, annee: 2002, perimetre: "personnes déclarées roms au recensement de 2002 ; les interlocuteurs du Comité consultatif de la Convention-cadre estiment la population à environ 12 000 personnes", source: "https://rm.coe.int/fourth-opinion-on-slovenia-adopted-on-21-june-2017/16807843c7"}
+lieux: {valeur: 20, unite: "communes où la communauté rom vit de manière autochtone (historique) et élit un conseiller municipal", annee: 2024, source: "https://www.gov.si/teme/romska-skupnost/"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 130, annee: 2013, perimetre: "établissements roms informels recensés par les autorités fin 2013, dont environ 55 % régularisés (avis du Comité consultatif de la Convention-cadre de 2017, § 9 et 34)", source: "https://rm.coe.int/fourth-opinion-on-slovenia-adopted-on-21-june-2017/16807843c7"}
+resume: >-
+  L'article 65 de la Constitution slovène de 1991 renvoie à la loi le statut et les droits spéciaux de la communauté rom. La loi de 2007 sur la communauté rom (ZRomS-1) crée le Conseil de la communauté rom de la République de Slovénie, personne de droit public de 21 membres qui représente la communauté auprès de l'État et dont l'avis préalable est obligatoire pour les textes qui la concernent. Dans 20 communes du Prekmurje, de la Dolenjska, de la Bela krajina et du Posavje, la loi sur l'autonomie locale garantit un conseiller municipal rom et un organe municipal de suivi. Les Roms installés hors de ces communes, dits « non autochtones », n'ont pas de siège garanti.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Quatrième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur la Slovénie, adopté le 21 juin 2017 : examen de la loi de 2007, du Conseil de la communauté rom et des conseillers municipaux roms (§ 4, 8, 24-25).", annee: 2017, source: "https://rm.coe.int/fourth-opinion-on-slovenia-adopted-on-21-june-2017/16807843c7"}
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale (CERD/C/SVN/CO/8-11), § 6-7 et 10-11 : le Comité vise la distinction entre Roms « autochtones » et « non autochtones » et recommande de revoir la composition et les fonctions du Conseil de la communauté rom.", annee: 2016, source: "https://documents.un.org/doc/undoc/gen/g16/003/44/pdf/g1600344.pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République de Slovénie (1991), art. 65", nature: "constitution", annee: 1991, source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
+  - {instrument: "Loi sur la communauté rom en République de Slovénie (ZRomS-1), Uradni list RS n° 33/2007", nature: "loi", annee: 2007, source: "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2007-01-1762"}
+  - {instrument: "Loi sur l'autonomie locale (ZLS, 1993 ; texte consolidé Uradni list RS n° 94/2007), art. 39 et 101.a : représentant rom au conseil municipal dans les zones d'implantation autochtone et liste des 20 communes", nature: "loi", annee: 1993, source: "https://zakonodaja.com/zakon/zls/39-clen"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Le Conseil de la communauté rom de la République de Slovénie, personne de droit public, représente la communauté auprès de l'État ; 14 de ses 21 membres sont désignés par l'Union des Roms de Slovénie et 7 élus par les conseillers municipaux roms, ZRomS-1 (2007), art. 9 et 10 ; ses fonctions sont consultatives.", source: "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2007-01-1762"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Les organes de l'État, les titulaires de prérogatives publiques et les communes doivent recueillir l'avis préalable du Conseil avant d'adopter des textes généraux relatifs à la situation de la communauté rom, ZRomS-1 (2007), art. 12, al. 2 ; l'avis ne lie pas l'autorité.", source: "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2007-01-1762"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le fonctionnement du Conseil est financé par le budget de l'État et les fonds communaux consacrés à la communauté rom sont couverts par le budget de l'État selon la loi sur le financement des communes, ZRomS-1 (2007), art. 13 à 15 ; aucun pouvoir fiscal.", source: "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2007-01-1762"}
+  representation: {valeur: "partiel", note: "La loi sur l'autonomie locale garantit aux Roms au moins un représentant au conseil municipal là où la communauté est implantée de manière autochtone (art. 39) et énumère 20 communes tenues de l'assurer (art. 101.a) ; la ZRomS-1 (2007), art. 7, y impose un organe municipal de suivi ; aucun siège réservé à l'Assemblée nationale.", source: "https://www.gov.si/teme/romska-skupnost/"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité pour l'élimination de la discrimination raciale relève en 2016 que le Conseil de la communauté rom ne fonctionne pas de manière effective et que les Roms installés hors des communes d'implantation autochtone ne sont pas représentés de manière effective dans les conseils municipaux (CERD/C/SVN/CO/8-11, § 10) ; le Comité consultatif de la Convention-cadre juge en 2017 le Conseil non représentatif de l'ensemble de la communauté (§ 8).", source: "https://documents.un.org/doc/undoc/gen/g16/003/44/pdf/g1600344.pdf"}
+chronologie:
+  - {annee: 1991, evenement: "Constitution de la Slovénie : l'article 65 renvoie à la loi le statut et les droits spéciaux de la communauté rom."}
+  - {annee: 1993, evenement: "Loi sur l'autonomie locale."}
+  - {annee: 2002, evenement: "Élections locales : échéance fixée par l'article 101.a de la loi sur l'autonomie locale pour garantir un représentant rom au conseil municipal de 20 communes."}
+  - {annee: 2007, evenement: "Loi sur la communauté rom (ZRomS-1), adoptée le 30 mars et publiée le 13 avril : création du Conseil de la communauté rom de la République de Slovénie."}
+  - {annee: 2016, evenement: "Observations finales du Comité pour l'élimination de la discrimination raciale sur la Slovénie."}
+  - {annee: 2017, evenement: "Quatrième avis du Comité consultatif de la Convention-cadre sur la Slovénie."}
+  - {annee: 2020, evenement: "Loi sur la réduction des coûts des communes : financement dédié de l'État aux communes ayant des établissements roms enregistrés."}
+  - {annee: 2021, evenement: "Programme national de mesures du gouvernement pour les Roms 2021-2030, adopté le 23 décembre."}
+fiabilite:
+  verifie: ["Texte de la ZRomS-1 au Journal officiel (Uradni list RS n° 33/2007), art. 1 à 17.", "Constitution, art. 65 (Constitute Project).", "Liste des 20 communes d'implantation autochtone (site du gouvernement slovène ; loi sur l'autonomie locale, art. 101.a).", "Loi sur l'autonomie locale, art. 39 (texte consolidé 94/2007, zakonodaja.com).", "CERD/C/SVN/CO/8-11, § 6-7 et 10-11.", "Quatrième avis du Comité consultatif de la Convention-cadre (2017), § 8, 9, 12 (note), 34."]
+  non_confirme: ["Loi sur l'autonomie locale consultée dans le texte consolidé de 2007 reproduit par zakonodaja.com, non sur le portail officiel PISRS ; la date de l'amendement qui a introduit le conseiller rom n'est pas vérifiée.", "Modifications éventuelles de la ZRomS-1 après 2007 non vérifiées sur PISRS.", "Loi de 2020 sur la réduction des coûts des communes (financement fixé à 3,5 % de la dépense appropriée de la commune) connue seulement par l'article de Sluga, Bogataj et Drobež (2023).", "Population réelle : 3 246 personnes au recensement de 2002, environ 12 000 selon les estimations citées par le Conseil de l'Europe ; aucun chiffre récent officiel."]
+sources:
+  - {titre: "Zakon o romski skupnosti v Republiki Sloveniji (ZRomS-1) — Uradni list RS 33/2007", url: "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2007-01-1762"}
+  - {titre: "Constitution de la Slovénie — Constitute Project", url: "https://www.constituteproject.org/constitution/Slovenia_2021"}
+  - {titre: "Zakon o lokalni samoupravi (ZLS), art. 39 — zakonodaja.com", url: "https://zakonodaja.com/zakon/zls/39-clen"}
+  - {titre: "Zakon o lokalni samoupravi (ZLS), art. 101.a — zakonodaja.com", url: "https://zakonodaja.com/zakon/zls/101a-clen"}
+  - {titre: "Romska skupnost — Gouvernement de la République de Slovénie (GOV.SI)", url: "https://www.gov.si/teme/romska-skupnost/"}
+  - {titre: "CERD/C/SVN/CO/8-11 (2016) — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g16/003/44/pdf/g1600344.pdf"}
+  - {titre: "Fourth Opinion on Slovenia (2017) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/fourth-opinion-on-slovenia-adopted-on-21-june-2017/16807843c7"}
+  - {titre: "Sluga, Bogataj, Drobež, « Legal Framework for Social Infrastructure for Social Integration of the Roma and Their Preferences: Case of Slovenia », Laws, 2023", url: "https://www.mdpi.com/2075-471X/12/4/67"}

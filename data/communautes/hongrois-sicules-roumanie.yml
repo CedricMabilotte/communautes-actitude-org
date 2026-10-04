@@ -1,0 +1,58 @@
+uid: "hongrois-sicules-roumanie"
+nom: "Hongrois de Roumanie"
+endonyme: "Romániai magyarok ; székelyek"
+territoire: "Roumanie, surtout la Transylvanie ; Pays sicule (départements de Harghita, Covasna et partie de Mureș)"
+etats: ["Roumanie"]
+region: "europe"
+coord: [46.4, 25.6]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 1002151, annee: 2021, perimetre: "population résidente déclarant l'ethnie hongroise au recensement du 1er décembre 2021, Roumanie entière (tableau 2.02.1)", source: "https://www.recensamantromania.ro/wp-content/uploads/2023/06/Tabel-2.02.1-si-Tabel-2.02.2.xlsx"}
+lieux: {valeur: 283, unite: "municipes, villes et communes où les personnes d'ethnie hongroise forment plus de 20 % de la population résidente (décompte sur le tableau 2.02.2 du recensement de 2021, sur 3 181 unités administratives)", annee: 2021, source: "https://www.recensamantromania.ro/wp-content/uploads/2023/06/Tabel-2.02.1-si-Tabel-2.02.2.xlsx"}
+surface_km2: {valeur: null, annee: null, perimetre: "le Pays sicule n'a pas de limites légales", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Hongrois forment la principale minorité nationale de Roumanie : 1 002 151 personnes au recensement de 2021, majoritaires dans les départements de Harghita (232 157 sur 291 950 habitants) et de Covasna (133 444 sur 200 042). Les Sicules (Székelyek), groupe historique de langue hongroise, vivent dans l'est de la Transylvanie, au Pays sicule (Székelyföld). La Constitution de 1991, révisée en 2003, garantit l'enseignement dans la langue maternelle (art. 32) et l'usage de la langue minoritaire devant l'administration locale là où la minorité est « significative » (art. 120) ; le Code administratif de 2019 (art. 94) fixe ce seuil à plus de 20 % des habitants. Il n'existe pas d'autonomie territoriale : la Région autonome hongroise créée en 1952 a été supprimée en 1968, et le projet de loi sur l'autonomie du Pays sicule déposé en 2020 n'est pas devenu loi. Les sièges réservés aux autres minorités sont décrits dans la fiche « Minorités nationales de Roumanie ».
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Suivi de la Roumanie au titre de la Convention-cadre pour la protection des minorités nationales (ratifiée le 11 mai 1995) ; cinquième avis du Comité consultatif adopté le 3 avril 2023, qui cite les 1 002 151 Hongrois recensés et critique le seuil de 20 % du Code administratif ; résolution du Comité des ministres du 31 octobre 2023.", annee: 2023, source: "https://rm.coe.int/5th-op-romania-en/1680ac3917"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la Roumanie (1991, révisée en 2003), art. 6, 32 al. 3, 62 al. 2, 120 al. 2 et 128", nature: "constitution", annee: 2003, source: "https://www.constituteproject.org/constitution/Romania_2003"}
+  - {instrument: "Code administratif (ordonnance d'urgence du gouvernement n° 57/2019), art. 94 : usage des langues minoritaires dans l'administration publique locale là où une minorité dépasse 20 % des habitants au dernier recensement ; art. 604 : maintien de ces droits jusqu'au recensement suivant", nature: "loi", annee: 2019, source: "https://rm.coe.int/6th-sr-romania-en/1680b4d5c4"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Usage oral et écrit de la langue minoritaire devant les autorités administratives locales dans les unités territoriales où la minorité est « significative », Constitution, art. 120 al. 2 ; seuil de plus de 20 % des habitants fixé par le Code administratif de 2019 (art. 94) ; droit de s'exprimer dans sa langue devant les tribunaux, art. 128 ; le hongrois n'est pas langue officielle.", source: "https://www.constituteproject.org/constitution/Romania_2003"}
+  education: {valeur: "partiel", note: "Droit des membres des minorités d'apprendre leur langue maternelle et d'être instruits dans cette langue, selon des modalités fixées par la loi, Constitution, art. 32 al. 3.", source: "https://www.constituteproject.org/constitution/Romania_2003"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Une organisation de citoyens appartenant à une minorité nationale qui n'atteint pas le nombre de voix nécessaire a droit à un siège de député, Constitution, art. 62 al. 2 ; la minorité hongroise n'y recourt pas : l'Union démocrate magyare de Roumanie (UDMR) franchit le seuil ordinaire de 5 % et obtient 21 députés et 9 sénateurs en 2020.", source: "https://odihr.osce.org/sites/default/files/f/documents/3/3/484562.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité consultatif de la Convention-cadre relève en 2023 que le Code administratif de 2019 ne garantit plus le maintien des droits linguistiques au-delà du recensement suivant là où la minorité passe sous 20 %, et demande d'interpréter ce seuil avec souplesse ; il signale les tensions de 2020 autour d'un projet de loi sur l'autonomie administrative du Pays sicule et les litiges sur les blasons de Covasna, Harghita et Mureș (cinquième avis, § 2, 49, 50 et 110).", source: "https://rm.coe.int/5th-op-romania-en/1680ac3917"}
+chronologie:
+  - {annee: 1952, evenement: "Création d'une Région autonome hongroise dans l'est de la Transylvanie ; ses pouvoirs restent nominaux."}
+  - {annee: 1968, evenement: "Réforme territoriale : la région est supprimée et remplacée par des départements."}
+  - {annee: 1991, evenement: "Constitution de la Roumanie : droits des minorités nationales à l'identité, à l'enseignement dans la langue maternelle et à la représentation parlementaire."}
+  - {annee: 1995, evenement: "Ratification de la Convention-cadre pour la protection des minorités nationales (11 mai)."}
+  - {annee: 2003, evenement: "Révision constitutionnelle : usage des langues minoritaires devant l'administration locale (art. 120) et les tribunaux (art. 128)."}
+  - {annee: 2019, evenement: "Code administratif (ordonnance d'urgence 57/2019) : seuil de plus de 20 % (art. 94)."}
+  - {annee: 2020, evenement: "Un projet de loi de l'UDMR sur l'autonomie du Pays sicule est adopté tacitement par la Chambre des députés en avril, faute de débat dans le délai de 45 jours ; il n'est pas devenu loi."}
+  - {annee: 2023, evenement: "Cinquième avis du Comité consultatif de la Convention-cadre sur la Roumanie (3 avril)."}
+fiabilite:
+  verifie: ["Constitution, art. 6, 32 al. 3, 62 al. 2, 120 al. 2 et 128 (Constitute Project, version anglaise).", "1 002 151 Hongrois sur 19 053 815 résidents au recensement de 2021 ; Harghita 232 157 sur 291 950, Covasna 133 444 sur 200 042 (Institut national de la statistique, tableau 2.02.1).", "283 unités administratives sur 3 181 avec plus de 20 % de Hongrois : décompte fait sur le tableau officiel 2.02.2 (dont 61 en Harghita, 52 en Mureș, 38 en Covasna, 38 en Satu Mare) ; aucune unité n'est exactement à 20 %.", "Code administratif, art. 94 (seuil de plus de 20 %) et 604, cités par le sixième rapport de l'État au Conseil de l'Europe (2025).", "Dates de suivi de la Convention-cadre et cinquième avis, § 2, 49, 50 et 110 (Conseil de l'Europe).", "UDMR : 21 sièges de députés et 9 de sénateurs en 2020 (OSCE/BIDDH).", "Région autonome hongroise 1952-1968 (Minority Rights Group).", "Adoption tacite du projet d'autonomie par la Chambre des députés en avril 2020 (Balkan Insight)."]
+  non_confirme: ["Texte officiel du Code administratif non consulté directement : contenu des art. 94 et 604 tiré du sixième rapport de l'État.", "Rejet du projet d'autonomie par le Sénat (date et vote) : non lu sur une source ouverte.", "Changement de nom de la région en 1960 (Région autonome Mureș-hongroise) : non vérifié sur une source retenue.", "Traitement de l'identité sicule au recensement de 2021 comme sous-catégorie de l'ethnie hongroise : non vérifié sur la nomenclature officielle.", "Ratification de la Charte européenne des langues régionales ou minoritaires et couverture du hongrois : non vérifiées ; nombre d'élèves scolarisés en hongrois : non trouvé."]
+sources:
+  - {titre: "Constitution de la Roumanie (2003) — Constitute Project", url: "https://www.constituteproject.org/constitution/Romania_2003"}
+  - {titre: "Recensement de 2021, résultats définitifs, caractéristiques ethnoculturelles — Institut national de la statistique", url: "https://www.recensamantromania.ro/rezultate-rpl-2021/rezultate-definitive-caracteristici-etno-culturale-demografice/"}
+  - {titre: "Tableaux 2.02.1 et 2.02.2, population résidente par ethnie, 2021 — Institut national de la statistique", url: "https://www.recensamantromania.ro/wp-content/uploads/2023/06/Tabel-2.02.1-si-Tabel-2.02.2.xlsx"}
+  - {titre: "Cinquième avis sur la Roumanie, Comité consultatif de la Convention-cadre — Conseil de l'Europe", url: "https://rm.coe.int/5th-op-romania-en/1680ac3917"}
+  - {titre: "Sixième rapport de la Roumanie au titre de la Convention-cadre (2025) — Conseil de l'Europe", url: "https://rm.coe.int/6th-sr-romania-en/1680b4d5c4"}
+  - {titre: "Roumanie, suivi de la Convention-cadre — Conseil de l'Europe", url: "https://www.coe.int/en/web/minorities/romania"}
+  - {titre: "Romania, Parliamentary Elections, 6 December 2020 : Final Report — OSCE/BIDDH", url: "https://odihr.osce.org/sites/default/files/f/documents/3/3/484562.pdf"}
+  - {titre: "Romania — Minority Rights Group", url: "https://minorityrights.org/country/romania/"}
+  - {titre: "Romanian Opposition 'Giving Transylvania to Hungarians', President Claims — Balkan Insight (2020)", url: "https://balkaninsight.com/2020/04/29/romanian-opposition-giving-transylvania-to-hungarians-president-claims/"}

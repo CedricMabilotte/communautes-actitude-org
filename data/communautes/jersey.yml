@@ -1,0 +1,74 @@
+uid: "jersey"
+nom: "Jersiais"
+endonyme: ""
+territoire: "Bailliage de Jersey (dépendance de la Couronne)"
+etats: ["Royaume-Uni"]
+region: "europe"
+coord: [49.2, -2.1]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 103267, annee: 2021, perimetre: "population résidente au recensement du 21 mars 2021", source: "https://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/R%20CensusFinalReport%2020221213%20SJ.pdf"}
+lieux: {valeur: 12, unite: "paroisses", annee: 2021, source: "https://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/R%20CensusFinalReport%2020221213%20SJ.pdf"}
+surface_km2: {valeur: 120, annee: 2023, perimetre: "surface totale de l'île, terres gagnées sur la mer à Saint-Hélier comprises", source: "https://www.gov.je/Environment/LandHabitats/pages/sizelandcover.aspx"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Jersey est une île de la Manche, au large du Cotentin, qui forme avec Guernesey et l'île de Man les dépendances de la Couronne (« Crown Dependencies ») : elles relèvent du souverain britannique sans faire partie du Royaume-Uni. L'île est gouvernée par les États de Jersey, assemblée dont seuls les 49 membres élus votent, et par un Conseil des ministres responsable devant elle (States of Jersey Law 2005). Elle a sa législation, sa fiscalité et ses tribunaux, dont la Cour royale, et ne contribue pas au budget britannique. Le Royaume-Uni conserve la défense et les relations internationales.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité des droits de l'homme sur les dépendances de la Couronne de Jersey, Guernesey et l'île de Man (CCPR/C/79/Add.119), adoptées le 23 mars 2000 : examen distinct des rapports qui les concernent, le Comité salue des mesures prises à Jersey (§ 5 et 7) et adresse des recommandations aux autorités de Jersey (§ 12, 13 et 16).", annee: 2000, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/79/Add.119&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "States of Jersey Law 2005 (loi sur les États de Jersey), version au 16 juillet 2026", nature: "statut_autonomie", annee: 2005, source: "https://www.jerseylaw.je/laws/current/l_8_2005"}
+  - {instrument: "Royal Court (Jersey) Law 1948 (loi sur la Cour royale)", nature: "loi", annee: 1948, source: "https://www.jerseylaw.je/laws/current/l_8_1948"}
+  - {instrument: "Income Tax (Jersey) Law 1961 (loi sur l'impôt sur le revenu)", nature: "loi", annee: 1961, source: "https://www.jerseylaw.je/laws/current/l_29_1961"}
+  - {instrument: "Sea Fisheries (Jersey) Law 1994 (loi sur la pêche en mer)", nature: "loi", annee: 1994, source: "https://www.jerseylaw.je/laws/current/l_19_1994"}
+  - {instrument: "Education (Jersey) Law 1999 (loi sur l'éducation)", nature: "loi", annee: 1999, source: "https://www.jerseylaw.je/laws/current/l_27_1999"}
+  - {instrument: "Control of Housing and Work (Residential and Employment Status) (Jersey) Regulations 2025 (règlement sur les statuts de résidence et d'emploi)", nature: "loi", annee: 2025, source: "https://www.jerseylaw.je/laws/current/ro_16_2025"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les États de Jersey comprennent 9 sénateurs, les connétables des 12 paroisses et 28 députés élus, ainsi que des membres non élus (bailli, lieutenant-gouverneur, doyen, procureur général, solliciteur général) ; seuls les membres élus votent, States of Jersey Law 2005, art. 2 ; les États choisissent parmi les élus le ministre en chef et les ministres, art. 18 et 19.", source: "https://www.jerseylaw.je/laws/current/l_8_2005"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Les États adoptent les lois de l'île dans les domaines internes, dont l'impôt (Income Tax (Jersey) Law 1961), la pêche et l'éducation ; la sanction royale (« Royal Assent », approbation du souverain) des lois de Jersey est donnée par le Roi en Conseil privé, et le Parlement britannique ne légifère pas pour l'île en matière fiscale ou interne sans son accord, par convention et non par texte (note CBP-8611, 2025, sections 1.4 et 3.1).", source: "https://researchbriefings.files.parliament.uk/documents/CBP-8611/CBP-8611.pdf"}
+  justice_propre: {valeur: "reconnu", note: "La Cour royale siège avec le bailli, seul juge du droit, et des jurés-justiciers (« Jurats », juges des faits) désignés par un collège électoral, Royal Court (Jersey) Law 1948, art. 1 et 15 ; l'appel va à la Cour d'appel de Jersey, puis, avec autorisation, au Roi en Conseil (Comité judiciaire du Conseil privé), Court of Appeal (Jersey) Law 1961, art. 1 et 14.", source: "https://www.jerseylaw.je/laws/current/l_8_1948"}
+  terres: {valeur: "partiel", note: "En mai 2015, la Couronne a accepté de transférer au public de Jersey ses titres sur l'estran et les fonds marins qui n'étaient pas déjà propriété publique ; les récifs des Écréhous et des Minquiers au-dessus des plus hautes marées de vives-eaux restent à la Couronne ; l'administration des plages relevait déjà des États.", source: "https://www.londonoffice.gov.je/news/foreshore-seabed-ownership-transferred-public-jersey/"}
+  ressources: {valeur: "reconnu", note: "Les États réglementent la pêche en mer et peuvent soumettre à licence toute pêche dans la mer territoriale de Jersey, quel que soit le port d'immatriculation du navire, Sea Fisheries (Jersey) Law 1994, art. 1, 2 et 12.", source: "https://www.jerseylaw.je/laws/current/l_19_1994"}
+  consentement: {valeur: "partiel", note: "Tout projet d'appliquer directement à Jersey une loi du Parlement britannique ou de l'y étendre par ordonnance en Conseil (« Order in Council ») est soumis aux États pour avis, States of Jersey Law 2005, art. 31 ; le Royaume-Uni s'engage à ne pas agir sur le plan international au nom de Jersey sans consultation préalable, cadre de 2007 ; l'exigence d'accord reste une convention.", source: "https://www.jerseylaw.je/laws/current/l_8_2005"}
+  langue: {valeur: "partiel", note: "L'anglais et le français sont langues officielles des États ; le 12 février 2019, les États ont adopté le jèrriais (langue normande de l'île) comme langue officielle de l'assemblée et décidé son usage sur la signalétique et les en-têtes officiels (P.143/2018) ; aucune loi linguistique n'a été trouvée.", source: "https://www.statesassembly.je/news/states-agree-to-promote-jerriais"}
+  education: {valeur: "reconnu", note: "Le ministre de Jersey assure à chaque enfant d'âge scolaire une éducation à plein temps, art. 11, et fixe le programme de Jersey (« Jersey Curriculum ») après consultation d'un conseil des programmes, Education (Jersey) Law 1999, art. 16.", source: "https://www.jerseylaw.je/laws/current/l_27_1999"}
+  fiscalite: {valeur: "reconnu", note: "L'impôt sur le revenu est établi par la loi de Jersey, Income Tax (Jersey) Law 1961, art. 1 ; les dépendances de la Couronne ne reçoivent pas de subventions du Royaume-Uni et ne contribuent pas à son budget, leurs habitants ne paient pas l'impôt britannique (note CBP-8611, 2025).", source: "https://www.jerseylaw.je/laws/current/l_29_1961"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Le statut « Entitled » (« ayant droit ») est accordé après 10 ans continus de résidence ordinaire dans l'île, Control of Housing and Work (Residential and Employment Status) (Jersey) Regulations 2025, règl. 4 ; il permet tout travail, règl. 22, et l'achat d'un logement, annexe 2 ; règlement en vigueur depuis le 14 septembre 2026.", source: "https://www.jerseylaw.je/laws/current/ro_16_2025"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "La note de la Bibliothèque de la Chambre des communes (CBP-8611, 12 septembre 2025) décrit les dépendances de la Couronne comme autonomes ; en 2018, le Parlement britannique n'a pas étendu aux dépendances de la Couronne l'obligation de registres publics des bénéficiaires effectifs (Sanctions and Anti-Money Laundering Act 2018, art. 51), en raison de leur statut constitutionnel distinct ; en 2019, leurs ministres en chef ont soutenu que Westminster ne pouvait leur imposer une loi sans leur accord (section 3.4).", source: "https://researchbriefings.files.parliament.uk/documents/CBP-8611/CBP-8611.pdf"}
+chronologie:
+  - {annee: 1948, evenement: "Loi sur la Cour royale (Royal Court (Jersey) Law 1948)."}
+  - {annee: 1961, evenement: "Loi sur l'impôt sur le revenu (Income Tax (Jersey) Law 1961)."}
+  - {annee: 1973, evenement: "Rapport de la Commission royale sur la Constitution : le Parlement britannique garde, aux yeux des tribunaux, un pouvoir supérieur de légiférer pour les îles."}
+  - {annee: 1994, evenement: "Loi sur la pêche en mer (Sea Fisheries (Jersey) Law 1994)."}
+  - {annee: 2000, evenement: "Le Comité des droits de l'homme de l'ONU adopte ses observations finales sur les dépendances de la Couronne (CCPR/C/79/Add.119)."}
+  - {annee: 2005, evenement: "Loi sur les États de Jersey : gouvernement ministériel responsable devant l'assemblée."}
+  - {annee: 2007, evenement: "Le 1er mai, signature du cadre pour le développement de l'identité internationale de Jersey avec le gouvernement britannique."}
+  - {annee: 2015, evenement: "La Couronne accepte de transférer au public de Jersey ses titres sur l'estran et les fonds marins."}
+  - {annee: 2019, evenement: "Le 12 février, les États adoptent le jèrriais comme langue officielle de l'assemblée."}
+  - {annee: 2020, evenement: "Le 31 décembre, fin de l'application du protocole n° 3 qui liait Jersey à l'Union européenne."}
+  - {annee: 2022, evenement: "Suppression des sièges de sénateurs ; l'assemblée compte 37 députés et 12 connétables."}
+  - {annee: 2025, evenement: "Le 11 septembre, les États votent le rétablissement de 9 sénateurs (Elections (Senators) (Jersey) Amendment Law 2025)."}
+  - {annee: 2026, evenement: "Le 7 juin, élections générales avec 9 sénateurs, 28 députés et 12 connétables."}
+fiabilite:
+  verifie: ["States of Jersey Law 2005, version au 16 juillet 2026 : art. 2 (composition, vote réservé aux élus), art. 3, 18, 19 et 31.", "Site des États : 49 membres élus (9 sénateurs, 28 députés, 12 connétables) et membres non votants.", "CCPR/C/79/Add.119, § 1, 5, 7, 12, 13, 16 et 19 (§ 5 et 7 : mesures saluées ; § 12, 13 et 16 : recommandations).", "Note CBP-8611 (12 septembre 2025) : défense et relations internationales au Royaume-Uni, absence de contribution budgétaire, sanction royale en Conseil privé, convention de non-législation, registres des bénéficiaires effectifs (section 3.4), fin du protocole n° 3.", "Cadre de 2007 sur l'identité internationale : principes de gouvernement par une assemblée élue et de consultation préalable.", "Recensement 2021 : 103 267 habitants, 12 paroisses ; surface de 120 km² (gov.je).", "Règlement de 2025, règl. 4 : statut « Entitled » après 10 ans de résidence.", "Sea Fisheries (Jersey) Law 1994, art. 1, 2 et 12 ; Education (Jersey) Law 1999, art. 11 et 16 ; Royal Court (Jersey) Law 1948, art. 1 et 15 ; Court of Appeal (Jersey) Law 1961, art. 14 (appel au Roi en Conseil avec autorisation).", "Annonce du 25 mai 2015 : accord de la Couronne pour le transfert de l'estran et des fonds marins."]
+  non_confirme: ["Aucun texte ne prévoit de procédure d'indépendance ; la note CBP-8611 cite seulement l'« indépendance essentielle » des îles évoquée par une commission parlementaire en 2010.", "Extension à Jersey de la Convention-cadre pour la protection des minorités nationales et de la Charte des langues régionales non vérifiée ; l'avis du Comité consultatif de 2016 sur le Royaume-Uni ne mentionne pas Jersey.", "Le statut officiel du français et du jèrriais repose sur des décisions de l'assemblée ; aucune loi linguistique n'a été consultée.", "Le texte de l'Income Tax (Jersey) Law 1961 consulté ne fixe pas le taux ; il renvoie à une décision annuelle.", "Endonyme des habitants en jèrriais non vérifié sur une source."]
+sources:
+  - {titre: "States of Jersey Law 2005 — Jersey Legal Information Board", url: "https://www.jerseylaw.je/laws/current/l_8_2005"}
+  - {titre: "The Crown Dependencies (CBP-8611) — House of Commons Library", url: "https://researchbriefings.files.parliament.uk/documents/CBP-8611/CBP-8611.pdf"}
+  - {titre: "CCPR/C/79/Add.119 (2000) — Nations unies", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/79/Add.119&l=en&t=pdf"}
+  - {titre: "About the States Assembly — États de Jersey", url: "https://www.statesassembly.je/about-the-states-assembly"}
+  - {titre: "Re-instating senators — Policy Centre Jersey", url: "https://www.policy.je/papers/re-instating-senators/"}
+  - {titre: "Framework for developing the international identity of Jersey (2007) — Gouvernement de Jersey", url: "https://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/R%20InternationalIdentityFramework%2020070502.pdf"}
+  - {titre: "Royal Court (Jersey) Law 1948 — Jersey Legal Information Board", url: "https://www.jerseylaw.je/laws/current/l_8_1948"}
+  - {titre: "Court of Appeal (Jersey) Law 1961 — Jersey Legal Information Board", url: "https://www.jerseylaw.je/laws/current/l_17_1961"}
+  - {titre: "Income Tax (Jersey) Law 1961 — Jersey Legal Information Board", url: "https://www.jerseylaw.je/laws/current/l_29_1961"}
+  - {titre: "Sea Fisheries (Jersey) Law 1994 — Jersey Legal Information Board", url: "https://www.jerseylaw.je/laws/current/l_19_1994"}
+  - {titre: "Education (Jersey) Law 1999 — Jersey Legal Information Board", url: "https://www.jerseylaw.je/laws/current/l_27_1999"}
+  - {titre: "Control of Housing and Work (Residential and Employment Status) (Jersey) Regulations 2025 — Jersey Legal Information Board", url: "https://www.jerseylaw.je/laws/current/ro_16_2025"}
+  - {titre: "Foreshore and seabed ownership transferred to Public of Jersey — Jersey London Office", url: "https://www.londonoffice.gov.je/news/foreshore-seabed-ownership-transferred-public-jersey/"}
+  - {titre: "States agree to promote Jèrriais — États de Jersey", url: "https://www.statesassembly.je/news/states-agree-to-promote-jerriais"}
+  - {titre: "Report on the 2021 Jersey Census — Statistics Jersey", url: "https://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/R%20CensusFinalReport%2020221213%20SJ.pdf"}
+  - {titre: "Size and land cover of Jersey — Gouvernement de Jersey", url: "https://www.gov.je/Environment/LandHabitats/pages/sizelandcover.aspx"}

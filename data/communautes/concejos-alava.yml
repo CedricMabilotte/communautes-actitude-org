@@ -1,0 +1,62 @@
+uid: "concejos-alava"
+nom: "Concejos d'Álava"
+endonyme: "Arabako kontzejuak / Concejos del Territorio Histórico de Álava"
+territoire: "Territoire historique d'Álava (Araba), Communauté autonome du Pays basque"
+etats: ["Espagne"]
+region: "europe"
+coord: [42.8, -2.7]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 37736, annee: 2025, perimetre: "somme des habitants des 333 concejos au 1er septembre 2025, selon l'annexe de l'Orden Foral 513/2025 (chiffres par concejo établis pour les élections du 23 novembre 2025)", source: "https://www.araba.eus/botha/Boletines/2025/119/2025_119_03012_C.pdf"}
+lieux: {valeur: 333, unite: "concejos (entités locales de rang inférieur à la commune)", annee: 2026, source: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les 333 concejos du territoire historique d'Álava, au sud du Pays basque espagnol. Le concejo est une entité locale territoriale dotée de la personnalité juridique, qui administre un village ou un groupe de maisons à l'intérieur d'une commune ; il gère ses biens communaux (montes, c'est-à-dire forêts et pâturages, terres de culture, bois de chauffage). Il fonctionne en concejo abierto (assemblée de tous les habitants majeurs inscrits au registre municipal) ou en concejo cerrado (gouvernement par une junta administrativa élue au suffrage direct). Le régime est fixé par les Juntas Generales (assemblée du territoire) : Norma Foral 11/1995, remplacée par la Norma Foral 17/2026 du 10 juillet 2026.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi 7/1985 du 2 avril, réglant les bases du régime local, disposition additionnelle deuxième (régime foral basque : les territoires historiques garantissent les particularités historiques de leurs entités locales)", nature: "loi", annee: 1985, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"}
+  - {instrument: "Loi 2/2016 du 7 avril, des institutions locales d'Euskadi, art. 2 et 12 (les concejos sont des entités locales ; leur existence est garantie dès lors que les normes forales, c'est-à-dire les lois du territoire historique, la prévoient)", nature: "loi", annee: 2016, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2016-4171"}
+  - {instrument: "Norma Foral 17/2026 du 10 juillet, des concejos du territoire historique d'Álava (BOTHA n° 84 du 24 juillet 2026), qui abroge la Norma Foral 11/1995 du 20 mars et la Norma Foral du 30 juillet 1984 sur l'élection des regidores et vocales", nature: "loi", annee: 2026, source: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le concejo est une entité locale territoriale avec personnalité juridique et « pleine autonomie » pour gérer ses intérêts (Norma Foral 17/2026, art. 1) ; il est gouverné par l'assemblée vecinale (assemblée des habitants) ou par une junta administrativa élue au suffrage universel direct et secret pour quatre ans (art. 9 et 25).", source: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Pouvoir réglementaire et d'auto-organisation (Norma Foral 17/2026, art. 6 b) : le concejo adopte des ordenanzas, c'est-à-dire des règlements locaux (art. 29 b), et exerce un pouvoir de sanction fondé sur ses propres ordenanzas (art. 6 h et 29 p) ; il n'a pas de pouvoir législatif.", source: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le concejo est propriétaire de ses biens communaux, dont l'usage revient aux habitants (Norma Foral 17/2026, art. 59) ; il défend, délimite et récupère d'office ses biens (art. 6 d) ; toute vente, cession, hypothèque ou échange d'un bien dont la valeur dépasse 30 % des recettes ordinaires de l'année précédente exige l'autorisation de la Diputación Foral, le gouvernement du territoire (art. 7.2).", source: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
+  ressources: {valeur: "partiel", note: "Police des montes, des chemins ruraux et des sources, administration du patrimoine forestier (Norma Foral 17/2026, art. 7.1 b et c) ; attribution des usages communaux (pâturages, roturos ou terres défrichées, suertes foguerales ou lots de bois de chauffage) aux foyers résidents, dans le cadre de la Norma Foral de Montes (art. 61).", source: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
+  consentement: {valeur: "partiel", note: "Droit de participer à toute procédure d'urbanisme qui touche son territoire et d'en être informé (Norma Foral 17/2026, art. 6 e) ; droit d'être informé des décisions de la commune sur ses affaires (art. 63 bis) ; aucun accord préalable du concejo n'est exigé.", source: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Pouvoir fiscal et financier sans droit de créer des impôts propres (Norma Foral 17/2026, art. 6 g) : taxes, contributions spéciales, majorations temporaires de l'impôt foncier, recettes des biens communaux, dotations de la Diputación Foral (art. 53 et 55 bis) ; tout emprunt exige l'autorisation de la Diputación Foral (art. 54.2).", source: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "La Norma Foral 17/2026 distingue les vecinos (habitants inscrits au registre municipal, qui votent) des moradores (personnes qui disposent d'un logement dans le concejo sans y être inscrites, et qui ont voix sans vote aux assemblées) (art. 2.3) ; l'accès aux usages communaux exige une inscription d'un an pour le bois de chauffage et de deux ans pour les pâturages et roturos (art. 3 et 61).", source: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "Seules des sources officielles ont été consultées. L'édit de la Junta electoral (commission électorale) du territoire du 29 octobre 2025 range plus de 270 des 333 concejos parmi ceux sans candidature ou sans candidats en nombre suffisant ; la Norma Foral 17/2026 permet aux électeurs de voter pour toute personne vecina éligible même sans candidature (art. 16.3) et vise dans son exposé des motifs des « situations de blocage » des juntas administrativas. Le résultat des élections du 23 novembre 2025 et le nombre de comisiones gestoras (commissions de gestion nommées par la Diputación Foral) n'ont pas été trouvés.", source: "https://www.araba.eus/botha/Boletines/2025/123/2025_123_03110_C.pdf"}
+chronologie:
+  - {annee: 1984, evenement: "Norma Foral du 30 juillet sur l'élection des regidores et vocales des concejos, qui adapte le système électoral coutumier à la Constitution."}
+  - {annee: 1995, evenement: "Norma Foral 11/1995 du 20 mars : statut juridique des concejos, qui refond leurs normes coutumières non écrites."}
+  - {annee: 2016, evenement: "Loi basque 2/2016 des institutions locales : l'existence des concejos d'Álava est garantie dès lors que les normes forales la prévoient (art. 12)."}
+  - {annee: 2025, evenement: "Élections des juntas administrativas le 23 novembre ; l'Orden Foral 513/2025 fixe la population et le nombre d'élus de chaque concejo."}
+  - {annee: 2026, evenement: "Les Juntas Generales adoptent le 10 juillet la Norma Foral 17/2026, publiée au BOTHA le 24 juillet et en vigueur le lendemain ; elle abroge les normes de 1984 et 1995."}
+fiabilite:
+  verifie:
+    - "Référence exacte : Norma Foral 17/2026, de 10 de julio, de Concejos del Territorio Histórico de Álava, BOTHA n° 84 du 24 juillet 2026, annonce 2026-02184 ; entrée en vigueur le lendemain de la publication (disposition finale)."
+    - "333 entités concejiles (exposé des motifs de la Norma Foral 17/2026) ; l'annexe de l'Orden Foral 513/2025 liste 333 concejos dans 34 communes."
+    - "Abrogation expresse de la Norma Foral 11/1995 et de la Norma Foral du 30 juillet 1984 (dispositions abrogatoires deuxième et cinquième)."
+    - "Articles 2 et 12 de la loi basque 2/2016 et disposition additionnelle deuxième de la loi 7/1985, lus sur le BOE."
+  non_confirme:
+    - "Le chiffre de population est la somme, faite pour cette fiche, des 333 chiffres de l'Orden Foral 513/2025 ; la source ne publie pas de total."
+    - "Le nombre de concejos sans candidature en 2025 est tiré d'un comptage de l'édit du 29 octobre 2025 ; les électeurs pouvant voter pour tout vecino éligible (Norma Foral 17/2026, art. 16.3), l'absence de candidature ne permet pas à elle seule de conclure à l'absence de junta administrativa ; aucune source indépendante (presse, étude universitaire) sur le fonctionnement des concejos n'a été ouverte."
+    - "Aucune surface totale des concejos ni des biens communaux n'a été trouvée dans une source officielle."
+    - "La Charte européenne de l'autonomie locale (Conseil de l'Europe) n'a pas été vérifiée pour une mention nommée des concejos d'Álava."
+    - "Les décrets d'application prévus (plafond des indemnités de présence des élus, dont les fonctions restent gratuites selon l'art. 27 ; Órgano de Observación del Buen Gobierno) doivent paraître dans les douze mois suivant l'entrée en vigueur ; ils n'ont pas été recherchés."
+sources:
+  - {titre: "Norma Foral 17/2026, de 10 de julio, de Concejos del Territorio Histórico de Álava — BOTHA n° 84, 24 juillet 2026", url: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
+  - {titre: "Orden Foral 513/2025 : population et nombre d'élus de chaque concejo — BOTHA n° 119, 20 octobre 2025", url: "https://www.araba.eus/botha/Boletines/2025/119/2025_119_03012_C.pdf"}
+  - {titre: "Junta electoral du territoire historique d'Álava : candidatures et concejos sans candidature — BOTHA n° 123, 29 octobre 2025", url: "https://www.araba.eus/botha/Boletines/2025/123/2025_123_03110_C.pdf"}
+  - {titre: "Loi 2/2016 du 7 avril, des institutions locales d'Euskadi — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2016-4171"}
+  - {titre: "Loi 7/1985 du 2 avril, réglant les bases du régime local — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"}
+  - {titre: "El Parlamento alavés unifica y renueva la normativa que regula los concejos alaveses — Radio Llodio, 13 juillet 2026", url: "https://radiollodio.com/2026/07/13/el-parlamento-alaves-unifica-y-renueva-la-normativa-que-regula-los-concejos-alaveses/"}
+  - {titre: "El Parlamento alavés unifica y renueva la normativa que regula los concejos alaveses — Asociación de Concejos de Álava (ACOA-AKE), juillet 2026", url: "https://acoa-ake.org/el-parlamento-alaves-unifica-y-renueva-la-normativa-que-regula-los-concejos-alaveses/"}

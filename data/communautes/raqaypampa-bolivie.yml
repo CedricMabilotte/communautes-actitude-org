@@ -1,0 +1,58 @@
+uid: "raqaypampa-bolivie"
+nom: "Quechua de Raqaypampa"
+endonyme: "Raqaypampa"
+territoire: "Territoire indigène originaire paysan de Raqaypampa (TIOC-R), province de Mizque, département de Cochabamba"
+etats: ["Bolivie"]
+region: "ameriques"
+coord: [-18.2, -65.4]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 43, unite: "syndicats agraires communaux, regroupés en cinq sous-centrales (Raqaypampa, Laguna Grande, Molinero, Santiago, Salvia)", annee: 2015, source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Raqaypampa est un territoire quechua des hauteurs du sud-est de la province de Mizque (Cochabamba), titré en 2004 comme terre communautaire d'origine (TCO, propriété collective d'un peuple autochtone). La loi 813 de 2016 crée l'unité territoriale « Territoire indigène originaire paysan de Raqaypampa » sur les limites de ce titre ; l'autonomie indigène originaire paysanne (AIOC, collectivité territoriale autochtone prévue par la Constitution de 2009) s'y constitue par la voie du territoire et non par la conversion d'une commune. Le statut est déclaré conforme à la Constitution en 2015 et approuvé par référendum le 20 novembre 2016. Le gouvernement repose sur l'Assemblée générale des communautés, un Conseil de gestion territoriale de cinq membres et une Autorité administrative autonomique ; les secondes autorités, élues le 19 juin 2022, reçoivent leurs lettres de créance le 5 janvier 2023.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "La Bolivie ratifie la Convention 169 de l'OIT le 11 décembre 1991.", annee: 1991, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "La Bolivie vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Constitution politique de l'État plurinational de Bolivie (2009), art. 5, 30, 190, 289, 293, 304 et disposition transitoire septième", nature: "constitution", annee: 2009, source: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {instrument: "Loi 813 du 12 juillet 2016 portant création de l'unité territoriale « Territoire indigène originaire paysan de Raqaypampa »", nature: "loi", annee: 2016, source: "https://www.lexivox.org/norms/BO-L-N813.html"}
+  - {instrument: "Statut de l'autonomie indigène originaire paysanne de Raqaypampa (déclaration de constitutionnalité 0122/2015)", nature: "statut_autonomie", annee: 2016, source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Constitution (art. 289 et 293.I) prévoit l'autonomie fondée sur un territoire consolidé ; le statut (art. 16 à 24) crée l'Assemblée générale des communautés, le Conseil de gestion territoriale de cinq membres élus pour cinq ans et l'Autorité administrative autonomique.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le statut (art. 6, 17.I et 46) attribue à l'Assemblée générale des communautés une faculté législative et prévoit des lois de l'autonomie pour chaque compétence exclusive ; l'art. 44.I déclare cette faculté intransférable.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
+  justice_propre: {valeur: "reconnu", note: "La Constitution (art. 190) reconnaît la juridiction indigène originaire paysanne ; le statut (art. 31 à 37) l'organise en trois instances (syndicat, sous-centrale, centrale), sous le seul contrôle du Tribunal constitutionnel plurinational.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
+  terres: {valeur: "reconnu", note: "La loi 813 de 2016 (art. 2) consolide le territoire sur la base du titre exécutoire TCO-NAL 000065 du 10 décembre 2004 ; le statut (art. 54.III) déclare ce territoire propriété du peuple de Raqaypampa, collective, inaliénable, insaisissable et imprescriptible.", source: "https://www.lexivox.org/norms/BO-L-N813.html"}
+  ressources: {valeur: "partiel", note: "Le statut (art. 14.17 et 45.3) garantit l'usage exclusif et la gestion des ressources renouvelables, comme la Constitution (art. 30.II.17) ; pour les ressources non renouvelables du sous-sol, il prévoit la consultation préalable et une part des bénéfices (art. 59.II).", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 30.II.15) impose une consultation préalable obligatoire sans exiger le consentement ; le statut (art. 14.1) prévoit le consentement préalable, libre et éclairé pour les mesures des autorités de Raqaypampa seulement.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
+  langue: {valeur: "reconnu", note: "La Constitution (art. 5) fait du quechua une langue officielle de l'État ; le statut (art. 12) fait du quechua et du castillan les langues d'usage préférentiel sur le territoire.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
+  education: {valeur: "partiel", note: "Le statut (art. 48.2 et 69) fait de l'éducation une compétence concurrente exercée dans le cadre des lois de l'État, avec contrôle par les conseils éducatifs communaux, intercommunaux et régional (Conseil régional éducatif des hauteurs, CREA).", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
+  fiscalite: {valeur: "partiel", note: "Le statut (art. 11.2, 50 et 51) prévoit la création de taxes et contributions, l'administration des impôts attribués (Constitution, art. 304.I.12 et 13) et des transferts automatiques de l'État.", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Des autorités sont élues en juin 2017 et forment un premier gouvernement en 2018 ; les autorités de la période 2023-2028, élues le 19 juin 2022 en assemblée générale des communautés, reçoivent leurs lettres de créance du Tribunal électoral départemental le 5 janvier 2023, puis sont installées à Raqaypampa (Eju, 2023).", source: "https://eju.tv/2023/01/12-hitos-en-la-autonomia-de-los-pueblos-indigenas-en-cochabamba/"}
+chronologie:
+  - {annee: 2004, evenement: "Titre exécutoire TCO-NAL 000065 du territoire de Raqaypampa (10 décembre)."}
+  - {annee: 2015, evenement: "Déclaration de constitutionnalité 0122/2015 du statut (17 juin)."}
+  - {annee: 2016, evenement: "Loi 813 portant création de l'unité territoriale du TIOC de Raqaypampa (12 juillet)."}
+  - {annee: 2016, evenement: "Approbation du statut par référendum (20 novembre)."}
+  - {annee: 2017, evenement: "Élection des premières autorités de l'autonomie (juin)."}
+  - {annee: 2018, evenement: "Entrée en fonction du premier gouvernement autonome."}
+  - {annee: 2023, evenement: "Remise des lettres de créance aux secondes autorités (5 janvier), élues le 19 juin 2022, puis installation."}
+fiabilite:
+  verifie: ["Articles 2, 6, 11, 12, 14, 16 à 24, 31 à 37, 44, 46, 48, 50, 51, 54, 59, 60 et 69 du statut de Raqaypampa et mention de la déclaration de constitutionnalité 0122/2015.", "Articles 1 à 5 de la loi 813 de 2016 (objet, consolidation sur le titre TCO-NAL 000065, limites).", "Articles 5, 30.II.15 et 17, 190, 289, 293, 304.I.12 et 13 et disposition transitoire septième de la Constitution de 2009.", "Dates du référendum (20 novembre 2016), des élections de 2017 et 2022 et de la remise des lettres de créance (5 janvier 2023) dans Eju, 2023."]
+  non_confirme: ["Résultat chiffré du référendum du 20 novembre 2016.", "Population et surface du territoire : aucune source ouverte trouvée.", "Présence d'un siège de la circonscription spéciale indigène de Cochabamba pour Raqaypampa."]
+sources:
+  - {titre: "Statut de l'autonomie indigène originaire paysanne de Raqaypampa — Service étatique des autonomies (SEA)", url: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
+  - {titre: "Statuts des gouvernements AIOC — Service étatique des autonomies (SEA)", url: "https://www.sea.gob.bo/desarrollo-normativo-autonomico/estatutos-autonomicos-y-cartas-organicas/estatutos-gaioc.html"}
+  - {titre: "Loi 813 du 12 juillet 2016 — LexiVox", url: "https://www.lexivox.org/norms/BO-L-N813.html"}
+  - {titre: "Constitution de Bolivie (2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
+  - {titre: "« 12 hitos en la autonomía de los pueblos indígenas en Cochabamba » — Eju, 2023", url: "https://eju.tv/2023/01/12-hitos-en-la-autonomia-de-los-pueblos-indigenas-en-cochabamba/"}
+  - {titre: "Le Sénat approuve le projet de loi de création de l'unité territoriale de Raqaypampa — Biodiversidad en América Latina, 2016", url: "https://www.biodiversidadla.org/Articulos/Bolivia-El-Senado-aprueba-proyecto-de-ley-de-creacion-de-unidad-territorial-de-Raqaypampa"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

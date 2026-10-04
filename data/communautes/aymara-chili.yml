@@ -1,0 +1,54 @@
+uid: "aymara-chili"
+nom: "Aymaras du Chili"
+endonyme: "Aymara"
+territoire: "Altiplano et vallées andines du nord du Chili (régions d'Arica et Parinacota et de Tarapacá) et population urbaine des villes côtières du nord"
+etats: ["Chili"]
+region: "ameriques"
+coord: [-19.0, -69.4]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 178637, annee: 2024, perimetre: "personnes qui sont ou se considèrent comme appartenant au peuple aymara, ensemble du Chili (recensement de 2024, INE)", source: "https://censo2024.ine.gob.cl/wp-content/uploads/2025/12/sintesis_resultados_censo2024.pdf"}
+lieux: {valeur: null, unite: "", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Aymaras forment le deuxième peuple autochtone du Chili par le nombre : le recensement de 2024 compte 178 637 personnes, soit 8,5 % de la population autochtone du pays, dont 70 270 dans la région d'Arica et Parinacota et 55 266 dans celle de Tarapacá. La loi 19.253 de 1993 (Ley Indígena, loi sur les autochtones) les nomme parmi les principales ethnies autochtones reconnues (art. 1) et leur consacre, avec les Atacameños et les autres communautés du nord, un paragraphe de dispositions particulières (art. 62 à 65). Elle protège trois formes de propriété dans les communautés andines du nord, dont des terres patrimoniales détenues par plusieurs communautés (pâturages, zones humides d'altitude appelées bofedales), et fait des eaux situées sur les terres d'une communauté la propriété de celle-ci, sous réserve des droits inscrits par des tiers. Le Chili ratifie la Convention 169 de l'OIT en 2008.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Le Chili ratifie la Convention 169 de l'OIT le 15 septembre 2008, date rappelée par le Rapporteur spécial dans son rapport de 2009.", annee: 2008, source: "https://documents.un.org/doc/undoc/gen/g09/162/37/pdf/g0916237.pdf"}
+  - {mecanisme: "dnudpa", detail: "Le Chili vote pour la Déclaration des Nations unies sur les droits des peuples autochtones le 13 septembre 2007.", annee: 2007, source: "https://press.un.org/en/2007/ga10612.doc.htm"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport de James Anaya sur la situation des peuples autochtones au Chili (A/HRC/12/34/Add.6), qui cite le peuple aymara parmi ceux dont les terres sont touchées par l'appropriation de l'eau, des minerais et des ressources géothermiques par des entreprises (par. 36).", annee: 2009, source: "https://documents.un.org/doc/undoc/gen/g09/162/37/pdf/g0916237.pdf"}
+base_nationale:
+  - {instrument: "Loi 19.253 de 1993 établissant des normes sur la protection, la promotion et le développement des autochtones, créant la Corporation nationale de développement autochtone (CONADI), art. 1, 9, 10, 12, 13, 26, 28, 32, 34, 41, 54 et 62 à 65, et art. 3 transitoire", nature: "loi", annee: 1993, source: "https://faolex.fao.org/docs/pdf/chi51605.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi 19.253 (art. 9 et 10) donne la personnalité juridique à toute communauté autochtone (comunidad indígena) qui adopte ses statuts et élit sa direction en assemblée, avec au moins dix membres majeurs ; aucune institution aymara n'exerce de compétence publique.", source: "https://faolex.fao.org/docs/pdf/chi51605.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "La loi 19.253 (art. 54) dispose que la coutume invoquée en justice entre membres d'un même peuple constitue du droit, si elle n'est pas incompatible avec la Constitution ; elle peut être prouvée par un rapport d'expertise que la CONADI rend à la demande du tribunal. Les communautés n'édictent pas de normes.", source: "https://faolex.fao.org/docs/pdf/chi51605.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La loi 19.253 (art. 63) impose à la CONADI, lors de la régularisation des titres (saneamiento, mise en ordre juridique de la propriété), de préserver trois formes de propriété : terres individuelles, terres de la communauté et terres patrimoniales de plusieurs communautés (pâturages, bofedales, collines, prairies humides) ; l'art. 13 rend les terres autochtones inaliénables hors du même peuple et interdit la location des terres communautaires.", source: "https://faolex.fao.org/docs/pdf/chi51605.pdf"}
+  ressources: {valeur: "partiel", note: "La loi 19.253 (art. 64) fait des eaux situées sur les terres d'une communauté aymara ou atacameña (rivières, canaux, puits, sources) sa propriété, sans préjudice des droits inscrits par des tiers selon le Code des eaux, et interdit de nouveaux droits sur les eaux qui alimentent les terres de plusieurs communautés sans garantir d'abord leur approvisionnement ; l'art. 3 transitoire prévoit une convention CONADI–Direction générale des eaux pour rétablir les droits d'eau ancestraux.", source: "https://faolex.fao.org/docs/pdf/chi51605.pdf"}
+  consentement: {valeur: "partiel", note: "La loi 19.253 (art. 34) oblige les services de l'État à écouter et à prendre en compte l'avis des organisations autochtones sur les questions qui les concernent ; la Convention 169 (art. 6), ratifiée en 2008, impose la consultation.", source: "https://faolex.fao.org/docs/pdf/chi51605.pdf"}
+  langue: {valeur: "partiel", note: "La loi 19.253 (art. 28 a) prévoit l'usage et la conservation des langues autochtones aux côtés de l'espagnol dans les zones de forte densité autochtone, sans statut officiel.", source: "https://faolex.fao.org/docs/pdf/chi51605.pdf"}
+  education: {valeur: "partiel", note: "La loi 19.253 (art. 32) charge la CONADI de développer un système d'éducation interculturelle bilingue dans les zones de forte densité autochtone, en coordination avec les services de l'État.", source: "https://faolex.fao.org/docs/pdf/chi51605.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "La loi 19.253 (art. 41 d) réserve un siège aymara, sur huit représentants autochtones, au conseil national de la CONADI ; le président de la République le désigne sur proposition des communautés et associations.", source: "https://faolex.fao.org/docs/pdf/chi51605.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2009, le Rapporteur spécial fait état d'informations concordantes selon lesquelles le Code des eaux réformé en 2005 et le droit minier favorisent l'appropriation de l'eau par des entreprises, au détriment des terres traditionnelles de plusieurs peuples, dont les Aymaras ; dans le nord, des projets miniers entraînent la perte de droits d'eau et l'assèchement de terres et de ressources utilisées par des communautés (par. 36). En 2022, le CERD (Comité pour l'élimination de la discrimination raciale) demande au Chili d'accélérer l'application de la loi 19.253 et l'établissement d'un cadastre historique des ressources foncières et hydriques autochtones (CERD/C/CHL/CO/22-23, par. 29 c).", source: "https://documents.un.org/doc/undoc/gen/g09/162/37/pdf/g0916237.pdf"}
+chronologie:
+  - {annee: 1993, evenement: "Publication de la loi 19.253 (5 octobre) : paragraphe propre aux Aymaras et Atacameños (art. 62 à 65), plan de régularisation des titres de propriété aymaras et atacameños sur trois ans."}
+  - {annee: 2007, evenement: "Le Chili vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (13 septembre)."}
+  - {annee: 2008, evenement: "Ratification de la Convention 169 de l'OIT (15 septembre)."}
+  - {annee: 2009, evenement: "Rapport du Rapporteur spécial James Anaya sur les peuples autochtones au Chili, qui traite de l'eau dans le nord du pays."}
+  - {annee: 2020, evenement: "La loi 21.273 modifie l'article 64 de la loi 19.253 (17 octobre)."}
+  - {annee: 2024, evenement: "Le recensement compte 178 637 personnes appartenant au peuple aymara."}
+fiabilite:
+  verifie: ["Texte consolidé de la loi 19.253 (version du 17 octobre 2020) : art. 1, 9, 10, 13, 26, 28, 32, 34, 41 d, 54, 62 à 65 et art. 3 transitoire.", "Population aymara du recensement de 2024 (178 637, 8,5 % de la population autochtone ; 70 270 en Arica et Parinacota, 55 266 en Tarapacá), synthèse de l'INE.", "Ratification de la Convention 169 le 15 septembre 2008 et par. 36 du rapport A/HRC/12/34/Add.6.", "Vote du Chili pour la Déclaration de 2007 (communiqué GA/10612).", "Par. 28 et 29 c des observations finales du CERD de 2022 (CERD/C/CHL/CO/22-23), qui visent l'ensemble des peuples autochtones sans nommer les Aymaras."]
+  non_confirme: ["Aires de développement autochtone (art. 26 de la loi 19.253) Jiwasa Oraje (région de Tarapacá) et Alto Andino Arica-Parinacota : décrets de création, communes et surfaces non ouverts, sites de la CONADI et de la Bibliothèque du Congrès inaccessibles.", "Nombre de communautés aymaras inscrites au registre de la CONADI et surface des terres régularisées : aucun chiffre trouvé.", "Décisions de la Cour suprême sur les droits d'eau de communautés aymaras : non vérifiées.", "Texte du décret suprême 66 de 2013 sur la consultation, non ouvert."]
+sources:
+  - {titre: "Loi 19.253 (texte consolidé au 17 octobre 2020) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/chi51605.pdf"}
+  - {titre: "Síntesis de resultados Censo 2024 — INE", url: "https://censo2024.ine.gob.cl/wp-content/uploads/2025/12/sintesis_resultados_censo2024.pdf"}
+  - {titre: "A/HRC/12/34/Add.6, rapport du Rapporteur spécial James Anaya sur le Chili (2009)", url: "https://documents.un.org/doc/undoc/gen/g09/162/37/pdf/g0916237.pdf"}
+  - {titre: "Communiqué GA/10612 sur l'adoption de la Déclaration (2007) — ONU", url: "https://press.un.org/en/2007/ga10612.doc.htm"}
+  - {titre: "CERD/C/CHL/CO/22-23, observations finales du CERD sur le Chili (2022)", url: "https://documents.un.org/doc/undoc/gen/g22/486/73/pdf/g2248673.pdf"}
+  - {titre: "Chile — Minority Rights Group", url: "https://minorityrights.org/country/chile/"}

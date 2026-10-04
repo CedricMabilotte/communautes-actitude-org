@@ -1,0 +1,55 @@
+uid: "minorites-nationales-albanie"
+nom: "Minorités nationales d'Albanie"
+endonyme: ""
+territoire: "Albanie (ensemble du territoire)"
+etats: ["Albanie"]
+region: "europe"
+coord: [41.2, 20.0]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 3, unite: "municipalités où l'accès aux droits des minorités est effectif de fait (Comité consultatif de la Convention-cadre, 2023)", annee: 2023, source: "https://rm.coe.int/5th-op-albania-en/1680acf90e"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi n° 96/2017 sur la protection des minorités nationales, approuvée le 13 octobre 2017, reconnaît neuf minorités nationales : Grecs, Macédoniens, Aroumains, Roms, Égyptiens, Monténégrins, Bosniaques, Serbes et Bulgares (art. 3). Elle prévoit l'enseignement de la langue minoritaire, l'usage de cette langue dans les relations officielles des unités locales où la minorité dépasse 20 % de la population, et un Comité des minorités nationales placé auprès du Premier ministre, avec un représentant par minorité, qui gère un fonds financé par le budget de l'État. Les droits collectifs sont linguistiques, scolaires et consultatifs ; la loi ne crée ni assemblée élue ni territoire propre. En 2023, le Comité consultatif de la Convention-cadre relève que trois règlements d'application ne sont pas adoptés et que l'accès aux droits reste de fait limité à trois municipalités.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Convention-cadre pour la protection des minorités nationales ratifiée le 28 septembre 1999 (entrée en vigueur le 1er janvier 2000) ; cinquième avis du Comité consultatif adopté le 6 juin 2023 : trois règlements d'application de la loi n° 96/2017 restent en attente, seuil de 20 % jugé problématique, accès aux droits limité de fait à trois municipalités.", annee: 2023, source: "https://rm.coe.int/5th-op-albania-fr/1680ad1519"}
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale (CERD/C/ALB/CO/9-12), § 4 : le Comité salue la loi n° 96/2017 et la reconnaissance de neuf groupes minoritaires (grec, macédonien, aroumain, rom, égyptien, monténégrin, bosniaque, serbe, bulgare) ; § 11-14 : règlements d'application à adopter, recomposition du Comité d'État pour les minorités et création d'un fonds pour les minorités nationales.", annee: 2018, source: "https://documents.un.org/api/symbol/access?s=CERD/C/ALB/CO/9-12&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République d'Albanie (1998, révisée), art. 20", nature: "constitution", annee: 1998, source: "https://www.constituteproject.org/constitution/Albania_2016"}
+  - {instrument: "Loi n° 96/2017 sur la protection des minorités nationales en République d'Albanie", nature: "loi", annee: 2017, source: "https://rm.coe.int/law-on-protection-of-national-minorities-in-albania-english/1680a0c256"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Loi n° 96/2017, art. 19 : le Comité des minorités nationales formule des recommandations sur la législation et la politique relatives aux minorités ; art. 17, al. 3 : les accords internationaux sur la protection des minorités sont soumis à la consultation du Comité avant leur approbation de principe par le Conseil des ministres. Avis consultatif, sans consentement requis.", source: "https://rm.coe.int/law-on-protection-of-national-minorities-in-albania-english/1680a0c256"}
+  langue: {valeur: "partiel", note: "Loi n° 96/2017, art. 15 : usage de la langue minoritaire pour le nom et le prénom ; dans les unités de gouvernement local où la minorité dépasse 20 % de la population, les organes locaux créent, « dans la mesure du possible », les conditions de l'usage de cette langue dans leurs relations avec les membres de la minorité, et les noms des unités administratives, des rues et les indications topographiques peuvent figurer dans la langue de la minorité à côté de l'albanais. L'albanais reste la seule langue officielle (Constitution, art. 14). Le règlement d'application sur l'usage des langues n'était pas adopté en 2023.", source: "https://rm.coe.int/law-on-protection-of-national-minorities-in-albania-english/1680a0c256"}
+  education: {valeur: "partiel", note: "Constitution, art. 20 : droit d'étudier et d'être enseigné dans la langue maternelle ; loi n° 96/2017, art. 13 : enseignement de la langue minoritaire dans les unités où la minorité réside traditionnellement ou en nombre substantiel, s'il existe une demande suffisante, selon la législation scolaire.", source: "https://rm.coe.int/law-on-protection-of-national-minorities-in-albania-english/1680a0c256"}
+  fiscalite: {valeur: "partiel", note: "Loi n° 96/2017, art. 21 : Fonds pour les minorités nationales, financé par le budget de l'État et administré par le Comité des minorités nationales, pour des projets de protection des droits des minorités. Aucun pouvoir fiscal.", source: "https://rm.coe.int/law-on-protection-of-national-minorities-in-albania-english/1680a0c256"}
+  representation: {valeur: "partiel", note: "Loi n° 96/2017, art. 18 et 20 : Comité des minorités nationales, institution centrale placée auprès du Premier ministre, où chaque minorité reconnue a droit à un représentant, nommé par arrêté du Premier ministre sur proposition des associations de la minorité, pour quatre ans. Organe consultatif ; aucun siège réservé au Parlement.", source: "https://rm.coe.int/law-on-protection-of-national-minorities-in-albania-english/1680a0c256"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le cinquième avis du Comité consultatif (2023), trois règlements d'application (procédure de reconnaissance, usage des langues avec les autorités, collecte de données et auto-identification) ne sont pas adoptés ; le seuil de 20 % et l'absence de données fiables limitent l'accès aux droits, de fait restreint à trois municipalités, plus une quatrième pour l'enseignement ; le président et le vice-président du Comité des minorités nationales sont nommés par le Premier ministre et des représentants des minorités le décrivent comme « la voix du gouvernement au sein des minorités ».", source: "https://rm.coe.int/5th-op-albania-fr/1680ad1519"}
+chronologie:
+  - {annee: 1998, evenement: "Adoption de la Constitution ; l'article 20 garantit les droits des personnes appartenant aux minorités nationales."}
+  - {annee: 1999, evenement: "L'Albanie ratifie la Convention-cadre pour la protection des minorités nationales (entrée en vigueur le 1er janvier 2000)."}
+  - {annee: 2017, evenement: "Loi n° 96/2017 approuvée le 13 octobre : neuf minorités nationales reconnues, Comité des minorités nationales et Fonds pour les minorités nationales."}
+  - {annee: 2018, evenement: "Le Comité pour l'élimination de la discrimination raciale salue la loi et demande l'adoption des règlements d'application."}
+  - {annee: 2023, evenement: "Cinquième avis du Comité consultatif (6 juin) : trois règlements d'application toujours en attente ; recensement de la population en automne."}
+fiabilite:
+  verifie: ["Loi n° 96/2017 (traduction anglaise publiée par le Conseil de l'Europe) : art. 3 (neuf minorités), 13, 15 (seuil de 20 %), 17 al. 3 (consultation du Comité sur les accords internationaux), 18-20 (Comité, un représentant par minorité, mandat de quatre ans), 21 (Fonds), 24 (entrée en vigueur quinze jours après publication au Journal officiel).", "Quatrième avis du Comité consultatif (11 octobre 2018), § 5 : Finiq, Dropull et Pustec sont les trois unités de gouvernement local où une langue minoritaire est en usage officiel.", "Constitution, art. 14 et 20 (Constitute Project).", "CERD/C/ALB/CO/9-12 (11 décembre 2018), § 4 et 11-14.", "Ratification de la Convention-cadre le 28 septembre 1999 et dates des avis du Comité consultatif (page Albanie du Conseil de l'Europe).", "Cinquième avis du Comité consultatif (2023), § 9-12 et 35 : seuil de 20 %, trois municipalités, Comité perçu comme voix du gouvernement, trois règlements en attente."]
+  non_confirme: ["Identité des trois municipalités visées par le cinquième avis (2023) : celui-ci ne les nomme pas ; le quatrième avis (2018) cite Finiq, Dropull et Pustec.", "Adoption éventuelle des règlements d'application après juin 2023 non vérifiée.", "Résultats du recensement de 2023 par appartenance ethnique non consultés (tableaux de l'INSTAT inaccessibles) ; aucun chiffre de population retenu.", "Montant du Fonds pour les minorités nationales non trouvé.", "Date exacte de publication au Journal officiel non vérifiée ; Minority Rights Group indique une entrée en vigueur en novembre 2017."]
+sources:
+  - {titre: "Law Nr. 96/2017 on the Protection of National Minorities in the Republic of Albania — Conseil de l'Europe", url: "https://rm.coe.int/law-on-protection-of-national-minorities-in-albania-english/1680a0c256"}
+  - {titre: "Constitution de l'Albanie — Constitute Project", url: "https://www.constituteproject.org/constitution/Albania_2016"}
+  - {titre: "CERD/C/ALB/CO/9-12 (2018) — Nations unies", url: "https://documents.un.org/api/symbol/access?s=CERD/C/ALB/CO/9-12&l=en&t=pdf"}
+  - {titre: "Cinquième avis sur l'Albanie — Comité consultatif de la Convention-cadre (2023)", url: "https://rm.coe.int/5th-op-albania-fr/1680ad1519"}
+  - {titre: "Fifth Opinion on Albania — Comité consultatif de la Convention-cadre (2023, version anglaise)", url: "https://rm.coe.int/5th-op-albania-en/1680acf90e"}
+  - {titre: "Fourth Opinion on Albania — Comité consultatif de la Convention-cadre (2018)", url: "https://rm.coe.int/4th-op-albania-en-/168093903b"}
+  - {titre: "Albania — Conseil de l'Europe, minorités nationales", url: "https://www.coe.int/en/web/minorities/albania"}
+  - {titre: "Albania — Minority Rights Group", url: "https://minorityrights.org/country/albania/"}

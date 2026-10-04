@@ -1,0 +1,54 @@
+uid: "saint-martin-partie-francaise"
+nom: "Saint-Martin (partie française)"
+endonyme: ""
+territoire: "Partie nord de l'île de Saint-Martin et îlets (Petites Antilles)"
+etats: ["France"]
+region: "ameriques"
+coord: [18.1, -63.1]
+type: "collectivite_autonome"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 31160, annee: 2023, perimetre: "population municipale de la collectivité au 1er janvier 2023, en vigueur au 1er janvier 2026 (Insee)", source: "https://www.insee.fr/fr/statistiques/8680667?sommaire=8681011"}
+lieux: {valeur: 1, unite: "collectivité d'outre-mer (partie nord d'une île partagée avec Sint Maarten)", annee: 2007, source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+surface_km2: {valeur: 56, annee: 2006, perimetre: "partie française de l'île, selon le rapport du Sénat (l'île entière : 90 km²)", source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La partie nord de l'île de Saint-Martin, dans les Petites Antilles, a été détachée de la Guadeloupe et érigée en collectivité d'outre-mer (art. 74 de la Constitution) le 15 juillet 2007 par la loi organique n° 2007-223 du 21 février 2007, après une consultation du 7 décembre 2003 où 76,17 % des suffrages exprimés ont approuvé le changement. Un conseil territorial de 23 membres élus fixe les règles applicables en matière d'impôts et taxes, de circulation et de transports routiers, de ports, de voirie et de domaine, d'accès au travail des étrangers, de tourisme et de services publics de la collectivité, puis, à compter de 2012, d'urbanisme, d'habitation, de logement et d'énergie. Le sujet collectif est la population de la collectivité ; aucune désignation ethnique n'est retenue par le droit. La partie sud de l'île forme Sint Maarten, pays du Royaume des Pays-Bas ; la partie française reste une région ultrapériphérique (territoire intégré à l'Union européenne avec adaptations).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution française, art. 74 (collectivités d'outre-mer dotées de l'autonomie)", nature: "constitution", annee: 2003, source: "https://www.senat.fr/rap/l06-025-1/l06-025-152.html"}
+  - {instrument: "Loi organique n° 2007-223 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à l'outre-mer (CGCT, art. LO 6311-1 et suivants)", nature: "loi_organique", annee: 2007, source: "https://www.senat.fr/rap/l06-025-1/l06-025-152.html"}
+  - {instrument: "Conseil constitutionnel, décision n° 2007-547 DC du 15 février 2007", nature: "jurisprudence", annee: 2007, source: "https://www.conseil-constitutionnel.fr/decision/2007/2007547DC.htm"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La loi organique de 2007 institue un conseil territorial de 23 membres élus pour cinq ans, un président et un conseil exécutif élus par ce conseil.", source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+  pouvoir_normatif: {valeur: "reconnu", note: "La loi organique du 21 février 2007 (CGCT, art. LO 6314-3) confie au conseil territorial la fixation des règles en matière d'impôts, droits et taxes, de circulation routière et de transports routiers, de desserte maritime et de ports, de voirie et de domaine, d'accès au travail des étrangers, de tourisme et de création des services publics de la collectivité, puis, à compter du 1er janvier 2012, d'urbanisme, d'habitation, de logement et d'énergie.", source: "https://www.senat.fr/rap/l09-055/l09-0551.html"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "L'article LO 6314-7 du CGCT permet à la collectivité de soumettre à déclaration les transferts entre vifs de propriétés foncières et d'exercer un droit de préemption (droit d'acheter en priorité) pour préserver la cohésion sociale et le droit au logement ; le Conseil constitutionnel a exigé que la durée de résidence retenue n'excède pas la mesure strictement nécessaire (décision 2007-547 DC, considérants 60 et 61).", source: "https://www.conseil-constitutionnel.fr/decision/2007/2007547DC.htm"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "La loi organique de 2007 (CGCT, art. LO 6313-3) impose la consultation du conseil territorial sur les projets de loi, d'ordonnance et de décret qui introduisent, modifient ou suppriment des dispositions particulières à la collectivité, dans un délai d'un mois réduit à quinze jours en cas d'urgence ; l'avis ne lie pas l'État.", source: "https://www.senat.fr/rap/l09-055/l09-0551.html"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "La collectivité dispose de son propre code général des impôts, fixe les impôts, droits et taxes et perçoit le produit des impositions qu'elle établit (CGCT, art. LO 6314-3 ; décision 2007-547 DC, considérant 23) ; l'assiette, le contrôle et le recouvrement restent assurés par des agents de l'État.", source: "https://www.impots-saint-martin.fr/fr/38-impots-et-taxes.html"}
+  representation: {valeur: "reconnu", note: "La loi organique de 2007 crée un siège de sénateur propre à Saint-Martin.", source: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+  statut_personnel: {valeur: "partiel", note: "L'article LO 6314-4 du CGCT ne reconnaît le domicile fiscal à Saint-Martin aux personnes venant d'un département de métropole ou d'outre-mer qu'après cinq ans de résidence ; ce statut de résidence est limité à la fiscalité.", source: "https://www.impots-saint-martin.fr/fr/38-impots-et-taxes.html"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Un rapport du Sénat de 2009 constate que la collectivité exerce toutes les compétences transférées depuis la première réunion du conseil territorial le 15 juillet 2007 et qu'elle a adopté ses propres règles fiscales dès le 21 novembre 2007, tout en relevant des difficultés de recouvrement de l'impôt ; le conseil territorial a été renouvelé en 2012, 2017 et 2022.", source: "https://www.senat.fr/rap/l09-055/l09-0551.html"}
+chronologie:
+  - {annee: 2003, evenement: "Consultation du 7 décembre : 76,17 % des suffrages exprimés approuvent la création d'une collectivité d'outre-mer, avec 44,2 % de participation."}
+  - {annee: 2007, evenement: "Loi organique n° 2007-223 du 21 février ; première réunion du conseil territorial le 15 juillet ; premières délibérations fiscales le 21 novembre."}
+  - {annee: 2012, evenement: "Élection du conseil territorial ; transfert des compétences en urbanisme, habitation, logement et énergie prévu par la loi organique."}
+  - {annee: 2017, evenement: "Élection du conseil territorial."}
+  - {annee: 2022, evenement: "Élection du conseil territorial ; élection de son président le 3 avril."}
+fiabilite:
+  verifie: ["Liste des matières de l'article LO 6314-3 dans sa rédaction adoptée, transferts au 1er janvier 2012, consultation obligatoire et délai de quinze jours en urgence (LO 6313-3), exercice des compétences depuis le 15 juillet 2007 et délibérations fiscales de 2007 (rapport n° 55 du Sénat, 2009).", "Condition de résidence de cinq ans (LO 6314-4), consultation obligatoire du conseil territorial (rapport de la commission des lois du Sénat, commentaire des articles relatifs à Saint-Martin).", "Résultats de la consultation de 2003, 23 membres du conseil territorial, création d'un siège de sénateur, superficie de 56 km² (rapport du Sénat).", "Perception du produit des impôts et droit de préemption foncière (décision 2007-547 DC).", "Code général des impôts propre et maintien des agents de l'État pour l'assiette et le recouvrement (service des impôts de Saint-Martin).", "Population municipale 2023 (Insee)."]
+  non_confirme: ["Texte consolidé du CGCT (Légifrance inaccessible) : rédaction en vigueur des articles LO 6314-3, LO 6314-4 et LO 6314-7 ; le cadastre figure dans la liste du projet de 2006 mais pas dans celle du rapport de 2009.", "Compétence sur les ressources naturelles marines : non trouvée dans les sources ouvertes pour Saint-Martin.", "Superficie : le rapport du Sénat donne 56 km², une source encyclopédique donne 53 km² ; le nombre de quartiers n'a pas été trouvé dans une source administrative."]
+sources:
+  - {titre: "Sénat — Rapport sur le projet de loi organique portant dispositions statutaires et institutionnelles relatives à l'outre-mer (n° 25, 2006-2007), articles relatifs à Saint-Martin", url: "https://www.senat.fr/rap/l06-025-1/l06-025-152.html"}
+  - {titre: "Sénat — Rapport n° 55 (2009-2010) sur la proposition de loi organique modifiant le livre III de la sixième partie du CGCT relatif à Saint-Martin", url: "https://www.senat.fr/rap/l09-055/l09-0551.html"}
+  - {titre: "Sénat — Rapport n° 25 (2006-2007), version intégrale", url: "https://www.senat.fr/rap/l06-025-1/l06-025-1_mono.html"}
+  - {titre: "Conseil constitutionnel — Décision n° 2007-547 DC du 15 février 2007", url: "https://www.conseil-constitutionnel.fr/decision/2007/2007547DC.htm"}
+  - {titre: "Service des impôts de Saint-Martin — Impôts et taxes", url: "https://www.impots-saint-martin.fr/fr/38-impots-et-taxes.html"}
+  - {titre: "Insee — Populations légales 2023 des collectivités d'outre-mer", url: "https://www.insee.fr/fr/statistiques/8680667?sommaire=8681011"}
+  - {titre: "Wikipédia — Conseil territorial de Saint-Martin", url: "https://fr.wikipedia.org/wiki/Conseil_territorial_de_Saint-Martin"}
+  - {titre: "Wikipédia — Saint-Martin (Antilles françaises)", url: "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_fran%C3%A7aises)"}

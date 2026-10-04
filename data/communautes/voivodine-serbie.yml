@@ -1,0 +1,52 @@
+uid: "voivodine-serbie"
+nom: "Province autonome de Voïvodine"
+endonyme: "Аутономна покрајина Војводина / Autonomna pokrajina Vojvodina"
+territoire: "Province autonome de Voïvodine, au nord de la Serbie : Bačka, Banat et Srem, 45 villes et municipalités"
+etats: ["Serbie"]
+region: "europe"
+coord: [45.4, 20.0]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 1740230, annee: 2022, perimetre: "population recensée dans la région statistique de Voïvodine, dont le territoire est celui de la province", source: "https://publikacije.stat.gov.rs/G2023/PdfE/G20234001.pdf"}
+lieux: {valeur: 45, unite: "villes et municipalités (unités d'autonomie locale)", annee: 2024, source: "https://publikacije.stat.gov.rs/G2025/Pdf/G202513052.pdf"}
+surface_km2: {valeur: 21614, annee: 2024, perimetre: "superficie de la région de Voïvodine", source: "https://publikacije.stat.gov.rs/G2025/Pdf/G202513052.pdf"}
+villages: {valeur: 467, annee: 2024, perimetre: "naselja (localités statistiques) de la région de Voïvodine", source: "https://publikacije.stat.gov.rs/G2025/Pdf/G202513052.pdf"}
+resume: >-
+  La Voïvodine est l'une des deux provinces autonomes que la Constitution serbe de 2006 définit comme des collectivités territoriales autonomes où les citoyens exercent le droit à l'autonomie provinciale (art. 182). Son Statut du 22 mai 2014, adopté avec l'accord préalable de l'Assemblée nationale, institue une Assemblée de 120 députés élus au suffrage direct et un gouvernement provincial. La Constitution fixe son budget à au moins 7 % de celui de la République. Le hongrois, le slovaque, le croate, le roumain et le ruthène sont en usage officiel dans les organes provinciaux à côté du serbe ; la Serbie reste un État unitaire où seul le Parlement national adopte des lois. Les conseils nationaux des minorités, sans territoire propre, ont leur fiche (« Hongrois de Serbie », « Minorités nationales de Serbie »).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de la République de Serbie, art. 12, 107 et 182 à 187", nature: "constitution", annee: 2006, source: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  - {instrument: "Statut de la Province autonome de Voïvodine du 22 mai 2014 (Journal officiel de la PA de Voïvodine n° 20/2014)", nature: "statut_autonomie", annee: 2014, source: "https://www.skupstinavojvodine.gov.rs/Strana.aspx?s=statut&j=EN"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "L'Assemblée de la province, organe suprême, compte 120 députés élus au suffrage direct et à bulletin secret ; elle élit le gouvernement provincial, organe exécutif, Statut de 2014, art. 30 à 32, 44 et 46 ; la Constitution laisse à la province le soin de régler l'élection, l'organisation et le travail de ses organes, art. 183.", source: "https://www.skupstinavojvodine.gov.rs/Strana.aspx?s=statut&j=EN"}
+  pouvoir_normatif: {valeur: "partiel", note: "La province adopte son Statut, acte suprême soumis à l'accord préalable de l'Assemblée nationale, et des décisions et actes généraux dans ses compétences, Constitution, art. 185 ; le gouvernement de la République peut saisir la Cour constitutionnelle d'une décision provinciale avant son entrée en vigueur, art. 186 ; la province ne fait pas de lois.", source: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La province gère ses biens publics selon la loi, Constitution, art. 183 ; les terres agricoles ne peuvent changer d'affectation que dans les cas fixés par la loi et par une décision de l'Assemblée provinciale, Statut, art. 12 ; l'aménagement du territoire et les plans régionaux relèvent de la province, art. 27.", source: "https://www.skupstinavojvodine.gov.rs/Strana.aspx?s=statut&j=EN"}
+  ressources: {valeur: "partiel", note: "La province règle, conformément à la loi, les questions d'intérêt provincial en matière d'eau, de forêts, de chasse, de pêche et de stations thermales, Constitution, art. 183, et Statut, art. 27, points 3 et 4.", source: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  consentement: {valeur: "partiel", note: "Le territoire de la province ne peut être modifié sans le consentement de ses citoyens exprimé par référendum, Constitution, art. 182 ; aucune autre obligation de consulter la province n'a été trouvée.", source: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  langue: {valeur: "reconnu", note: "Outre le serbe et l'alphabet cyrillique, le hongrois, le slovaque, le croate, le roumain et le ruthène et leurs alphabets sont en usage officiel dans les organes de la province, conformément à la loi, Statut de 2014, art. 24.", source: "https://www.skupstinavojvodine.gov.rs/Strana.aspx?s=statut&j=EN"}
+  education: {valeur: "partiel", note: "La province règle, conformément à la loi, les questions d'intérêt provincial dans l'enseignement préscolaire, primaire, secondaire et supérieur et assure l'enseignement en langue maternelle aux personnes appartenant aux minorités nationales, Statut, art. 27, point 9, et Constitution, art. 183.", source: "https://www.skupstinavojvodine.gov.rs/Strana.aspx?s=statut&j=EN"}
+  fiscalite: {valeur: "partiel", note: "Le budget de la Voïvodine est au moins égal à 7 % du budget de la République, dont trois septièmes pour l'investissement, Constitution, art. 184, et Statut, art. 57 ; la nature et le montant de ses recettes propres et sa part des recettes de la République sont fixés par la loi, Statut, art. 58.", source: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Une étude de Beretka et Székely publiée en 2016 sur le portail World Autonomies relève que la Serbie reste un État unitaire doté d'un seul ordre juridique, que les possibilités de la province de régler une question autrement que le reste de l'État sont « très limitées » et qu'une décision de la Cour constitutionnelle de 2013 a marqué un nouveau recul après les lois « omnibus » de 2002 et 2009 et le Statut de 2009.", source: "https://www.world-autonomies.info/territorial-autonomies/serbia"}
+chronologie:
+  - {annee: 1974, evenement: "La Constitution yougoslave donne aux provinces de Voïvodine et du Kosovo des pouvoirs législatif, exécutif et judiciaire, dont une cour constitutionnelle."}
+  - {annee: 1990, evenement: "La Constitution serbe de 1990 transfère au gouvernement central les compétences provinciales."}
+  - {annee: 2002, evenement: "Une loi dite « omnibus » restitue à la province une partie de ses compétences."}
+  - {annee: 2006, evenement: "La nouvelle Constitution serbe consacre la Province autonome de Voïvodine et fixe son budget minimal à 7 % du budget de la République (art. 182 à 187)."}
+  - {annee: 2009, evenement: "Adoption d'un Statut de la province et d'une seconde loi « omnibus » sur ses compétences."}
+  - {annee: 2013, evenement: "La Cour constitutionnelle annule une partie du Statut de 2009."}
+  - {annee: 2014, evenement: "L'Assemblée provinciale adopte le 22 mai un nouveau Statut, après accord de l'Assemblée nationale (JO APV n° 20/2014)."}
+fiabilite:
+  verifie: ["Constitution de 2006, art. 12, 107 et 182 à 187 (texte anglais, Constitute Project).", "Statut de 2014, art. 1, 2, 10 à 12, 16, 22 à 24, 27, 29 à 32, 44, 46, 56 à 58, 62 et 63 (texte anglais publié par l'Assemblée provinciale).", "Population 2022 : 1 740 230 habitants, dont 1 190 785 Serbes et 182 321 Hongrois (Office statistique de la République de Serbie, recensement 2022, livre 1).", "Superficie 21 614 km², 467 localités et 45 villes et municipalités en 2024 (Office statistique, « Municipalités et régions de la République de Serbie », 2025, tableau 1.1 ; total recalculé à partir des 45 lignes)."]
+  non_confirme: ["Le texte de la décision de la Cour constitutionnelle de 2013 (affaire IUo-360/2009) n'a pas été lu ; sa portée est rapportée d'après Beretka et Székely (2016).", "Respect effectif du plancher budgétaire de 7 % : aucune source de contrôle consultée.", "Aucun document onusien ni du Conseil de l'Europe nommant le régime d'autonomie provinciale n'a été trouvé.", "Le mode de scrutin de l'Assemblée provinciale (loi provinciale sur l'élection des députés) et les élections récentes n'ont pas été vérifiés.", "Le Statut prévoit des représentations de la province auprès des missions diplomatiques serbes (art. 16) ; leur existence n'a pas été vérifiée."]
+sources:
+  - {titre: "Statut de la Province autonome de Voïvodine (2014), texte anglais — Assemblée de la PA de Voïvodine", url: "https://www.skupstinavojvodine.gov.rs/Strana.aspx?s=statut&j=EN"}
+  - {titre: "Constitution de la République de Serbie (2006) — Constitute Project", url: "https://www.constituteproject.org/constitution/Serbia_2006"}
+  - {titre: "Recensement 2022, appartenance nationale par municipalités et villes — Office statistique de la République de Serbie", url: "https://publikacije.stat.gov.rs/G2023/PdfE/G20234001.pdf"}
+  - {titre: "Municipalités et régions de la République de Serbie, 2025 — Office statistique de la République de Serbie", url: "https://publikacije.stat.gov.rs/G2025/Pdf/G202513052.pdf"}
+  - {titre: "The National Councils of National Minorities in Serbia (Beretka et Székely, 2016) — World Autonomies", url: "https://www.world-autonomies.info/territorial-autonomies/serbia"}

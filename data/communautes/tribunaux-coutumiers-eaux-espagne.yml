@@ -1,0 +1,75 @@
+uid: "tribunaux-coutumiers-eaux-espagne"
+nom: "Communautés d'irrigants des tribunaux des eaux (Espagne)"
+endonyme: ""
+territoire: "Plaines irriguées (huertas) de Valence et d'Aldaia (Communauté valencienne), Vega Media du Segura (Région de Murcie) et Vega Baja du Segura autour d'Orihuela (province d'Alicante)"
+etats: ["Espagne"]
+region: "europe"
+coord: [38.8, -0.8]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 35004, annee: 2009, perimetre: "membres des neuf communautés d'irrigants représentées au Tribunal des Eaux de Valence (11 691) et de l'assemblée des propriétaires de la Huerta de Murcie relevant du Conseil des Hommes Bons (23 313) ; les irrigants d'Orihuela (plus de 1 500 selon la loi organique 10/2021) et d'Aldaia ne sont pas comptés", source: "https://ich.unesco.org/fr/RL/les-tribunaux-dirrigants-du-bassin-mediterraneen-espagnol-le-conseil-des-sages-de-la-plaine-de-murcie-et-le-tribunal-des-eaux-de-la-plaine-de-valence-00171"}
+lieux: {valeur: 4, unite: "tribunaux coutumiers et traditionnels reconnus par la loi organique du pouvoir judiciaire", annee: 2021, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les quatre juridictions d'irrigants auxquelles la loi organique 6/1985 du pouvoir judiciaire, article 19, reconnaît le caractère de « tribunal coutumier et traditionnel » : le Tribunal des Eaux de la Vega de Valence (1985), le Conseil des Hommes Bons de Murcie (1999), le Juzgado Privativo de Aguas (tribunal particulier des eaux) d'Orihuela et le Tribunal du Comuner du Rollet de Gràcia d'Aldaia (2021). Ces tribunaux sont composés d'irrigants élus ou tirés au sort au sein des communautés de canaux (acequias) ; ils jugent oralement, sans avocat ni appel ordinaire, les infractions aux ordonnances d'irrigation et les litiges entre usagers de l'eau. La Constitution de 1978, article 125, prévoit la participation des citoyens à la justice dans ces tribunaux ; le Tribunal constitutionnel a jugé en 2004 que le Conseil des Hommes Bons exerce une juridiction véritable, limitée aux compétences que lui donnent la législation des eaux et les ordonnances de la Huerta. Les communautés d'irrigants elles-mêmes sont des corporations de droit public qui adoptent leurs ordonnances et élisent leurs organes sous la tutelle des confédérations hydrographiques.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution espagnole de 1978, article 125 (participation des citoyens à l'administration de la justice dans les tribunaux coutumiers et traditionnels)", nature: "constitution", annee: 1978, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a125"}
+  - {instrument: "Loi organique 6/1985 du 1er juillet 1985 du pouvoir judiciaire, article 19.2 et 19.3 (Tribunal des Eaux de la Vega de Valence)", nature: "loi_organique", annee: 1985, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666"}
+  - {instrument: "Loi organique 13/1999 du 14 mai 1999 : ajout de l'article 19.4 (Conseil des Hommes Bons de Murcie)", nature: "loi_organique", annee: 1999, source: "https://www.boe.es/buscar/doc.php?id=BOE-A-1999-10902"}
+  - {instrument: "Loi organique 10/2021 du 14 décembre 2021 : ajout de l'article 19.5 (Juzgado Privativo de Aguas d'Orihuela et Pueblos de su Marco) et 19.6 (Tribunal du Comuner du Rollet de Gràcia de l'Horta d'Aldaia)", nature: "loi_organique", annee: 2021, source: "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20629"}
+  - {instrument: "Texte refondu de la loi sur les eaux (décret législatif royal 1/2001), articles 81 à 85 (communautés d'usagers, jurys d'irrigation, maintien des tribunaux d'irrigation traditionnels)", nature: "loi", annee: 2001, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276"}
+  - {instrument: "Statut d'autonomie de la Communauté valencienne (loi organique 5/1982, réformée par la loi organique 1/2006), article 36.1.3ª (la Generalitat concourt à l'organisation des tribunaux coutumiers, en particulier du Tribunal des Eaux)", nature: "statut_autonomie", annee: 2006, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-17235"}
+  - {instrument: "Statut d'autonomie de la Région de Murcie (loi organique 4/1982), article 8 dans sa rédaction de la loi organique 1/1998 (attention au droit coutumier et aux tribunaux coutumiers des eaux)", nature: "statut_autonomie", annee: 1998, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-15031"}
+  - {instrument: "Arrêt du Tribunal constitutionnel 113/2004 du 12 juillet 2004 (nature juridictionnelle du Conseil des Hommes Bons)", nature: "jurisprudence", annee: 2004, source: "https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/5118"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Toute communauté d'usagers a une assemblée générale (junta general) de tous les usagers, organe souverain, une junta de gobierno (conseil de direction) élue par elle et un ou plusieurs jurys (texte refondu de la loi sur les eaux, art. 84) ; elle est une corporation de droit public rattachée à l'organisme de bassin, qui veille au respect de ses ordonnances (art. 82.1), et ses décisions sont attaquables en recours hiérarchique devant cet organisme (art. 84.5).", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les statuts et ordonnances sont rédigés et adoptés par les usagers eux-mêmes et règlent l'exploitation des ouvrages « en régime d'autonomie interne » ; ils sont soumis à l'approbation de l'organisme de bassin, qui ne peut les refuser ni les modifier sans avis du Conseil d'État (texte refondu de la loi sur les eaux, art. 81.1) ; les régimes fixés par des ordonnances déjà approuvées restent en vigueur tant que les usagers ne les modifient pas (art. 85).", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276"}
+  justice_propre: {valeur: "reconnu", note: "La loi organique du pouvoir judiciaire, art. 19.3 à 19.6, reconnaît le caractère de tribunal coutumier et traditionnel au Tribunal des Eaux de Valence (1985), au Conseil des Hommes Bons de Murcie (1999), au Juzgado Privativo de Aguas d'Orihuela et au Tribunal du Comuner du Rollet de Gràcia d'Aldaia (2021), en application de la Constitution, art. 125 ; l'arrêt 113/2004 du Tribunal constitutionnel juge que le Conseil des Hommes Bons « ejerce verdadera jurisdicción » (exerce une juridiction véritable) dans le cercle des compétences fixé par la législation des eaux et les ordonnances.", source: "https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/5118"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "La junta de gobierno de chaque communauté édicte les dispositions sur la répartition des eaux « en respectant les droits acquis et les coutumes locales » (texte refondu de la loi sur les eaux, art. 84.4 b) et la communauté exploite les ouvrages hydrauliques en autonomie interne (art. 81.1) ; l'eau reste dans le domaine public hydraulique et l'organisme de bassin peut suspendre son usage si les travaux qu'il ordonne ne sont pas faits (art. 83.3).", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Les ordonnances obligent tous les titulaires à contribuer aux frais communs d'exploitation, de conservation et d'amélioration (texte refondu de la loi sur les eaux, art. 82.2) ; la communauté recouvre ses créances, y compris les amendes et indemnités prononcées par les tribunaux ou jurys d'irrigation, par la voie administrative d'exécution forcée (vía de apremio) et peut couper l'eau jusqu'au paiement (art. 83.4).", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "L'arrêt 113/2004 du Tribunal constitutionnel relève que, depuis l'entrée en vigueur de la loi organique 13/1999, le Tribunal supérieur de justice de Murcie (arrêt du 30 mai 2003) refuse de réviser les décisions du Conseil des Hommes Bons, qualifiées de « auténticos fallos » (jugements véritables), et rejette le recours d'amparo (recours en protection des droits fondamentaux) formé contre une sentence de ce Conseil de 2001 ; la fiche de l'UNESCO (2009) décrit les tribunaux de Valence et de Murcie comme en activité. Aucune source indépendante n'a été trouvée sur l'activité des tribunaux d'Orihuela et d'Aldaia.", source: "https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/5118"}
+chronologie:
+  - {annee: 1848, evenement: "Le décret royal du 27 octobre maintient, par exception au principe d'unité de juridiction, les tribunaux des eaux de Valence et de Murcie (arrêt 113/2004 du Tribunal constitutionnel)."}
+  - {annee: 1849, evenement: "Ordonnances et coutumes de la Huerta de Murcie, approuvées par ordre royal du 30 août : le Conseil des Hommes Bons y reçoit ce nom (arrêt 113/2004 du Tribunal constitutionnel)."}
+  - {annee: 1978, evenement: "La Constitution, article 125, prévoit la participation des citoyens à la justice dans les tribunaux coutumiers et traditionnels."}
+  - {annee: 1985, evenement: "Loi organique 6/1985 du pouvoir judiciaire, article 19.3 : le Tribunal des Eaux de la Vega de Valence est tribunal coutumier et traditionnel."}
+  - {annee: 1999, evenement: "Loi organique 13/1999 du 14 mai : reconnaissance du Conseil des Hommes Bons de Murcie (article 19.4)."}
+  - {annee: 2004, evenement: "Arrêt 113/2004 du Tribunal constitutionnel (12 juillet) : le Conseil des Hommes Bons est un organe de nature juridictionnelle."}
+  - {annee: 2009, evenement: "Inscription des tribunaux d'irrigants de Murcie et de Valence sur la Liste représentative du patrimoine culturel immatériel de l'UNESCO (décision 4.COM 13.70)."}
+  - {annee: 2021, evenement: "Loi organique 10/2021 du 14 décembre : reconnaissance du Juzgado Privativo de Aguas d'Orihuela et du Tribunal du Comuner du Rollet de Gràcia d'Aldaia (article 19.5 et 19.6)."}
+fiabilite:
+  verifie:
+    - "Texte consolidé de l'article 19 de la loi organique 6/1985 (apartados 3 à 6) et textes des lois organiques 13/1999 et 10/2021, sur le BOE."
+    - "Articles 81 à 85 du texte refondu de la loi sur les eaux, article 36.1.3ª du Statut valencien et article 8 du Statut de Murcie, textes consolidés du BOE."
+    - "Arrêt 113/2004 du Tribunal constitutionnel, fondements juridiques 4 et 5, sur le site du Tribunal constitutionnel."
+    - "Effectifs de 2009 (11 691 membres pour Valence, 23 313 pour Murcie ; huit syndics, sept membres) : fiche de l'UNESCO."
+    - "Élection des syndics de Valence par les membres de chaque communauté et élection bisannuelle du président parmi les syndics, audience du jeudi à midi devant la cathédrale, en valencien, sans recours : site du Tribunal des Eaux. Composition du Conseil des Hommes Bons (président de la Junta de Hacendados, cinq procureurs tirés au sort) : règlement de 2008 publié par le Conseil."
+  non_confirme:
+    - "Rythme des audiences du Conseil des Hommes Bons : le règlement de 2008 (art. 3) dit chaque jeudi, la page « Funcionamiento » dit le premier jeudi du mois."
+    - "Superficie irriguée actuelle non établie : le site du Tribunal des Eaux cite 17 000 hectares pour la Vega de Valence dans un récit historique, sans date ; celle d'Orihuela est donnée comme « plus de 7 000 hectares » (préambule de la loi organique 10/2021) ; Murcie et Aldaia non trouvées."
+    - "Fonctionnement effectif du Tribunal du Comuner du Rollet de Gràcia d'Aldaia, dont la loi organique 10/2021 évoque la « récupération » : aucune source sur ses audiences."
+    - "Effectifs d'irrigants postérieurs à 2009 non trouvés ; le total de 35 004 additionne deux chiffres de la même source et ne couvre pas Orihuela ni Aldaia."
+sources:
+  - {titre: "Loi organique 6/1985 du pouvoir judiciaire, texte consolidé — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666"}
+  - {titre: "Loi organique 13/1999 du 14 mai 1999 — BOE", url: "https://www.boe.es/buscar/doc.php?id=BOE-A-1999-10902"}
+  - {titre: "Loi organique 10/2021 du 14 décembre 2021 — BOE", url: "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20629"}
+  - {titre: "Constitution espagnole, texte consolidé (article 125) — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a125"}
+  - {titre: "Texte refondu de la loi sur les eaux (décret législatif royal 1/2001) — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14276"}
+  - {titre: "Statut d'autonomie de la Communauté valencienne — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-17235"}
+  - {titre: "Statut d'autonomie de la Région de Murcie — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-15031"}
+  - {titre: "Arrêt 113/2004 du Tribunal constitutionnel", url: "https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/5118"}
+  - {titre: "Les tribunaux d'irrigants du bassin méditerranéen espagnol — UNESCO, patrimoine culturel immatériel (2009)", url: "https://ich.unesco.org/fr/RL/les-tribunaux-dirrigants-du-bassin-mediterraneen-espagnol-le-conseil-des-sages-de-la-plaine-de-murcie-et-le-tribunal-des-eaux-de-la-plaine-de-valence-00171"}
+  - {titre: "Tribunal de les Aigües de València — fonctionnement", url: "https://tribunaldelasaguas.org/funcionamiento/"}
+  - {titre: "Tribunal de les Aigües de València — histoire", url: "https://tribunaldelasaguas.org/historia/"}
+  - {titre: "Consejo de Hombres Buenos de la Huerta de Murcia — fonctionnement et règlement", url: "https://www.elconsejodehombresbuenos.es/funcionamiento/"}

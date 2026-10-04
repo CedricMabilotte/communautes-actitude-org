@@ -1,0 +1,59 @@
+uid: "minorite-allemande-danemark"
+nom: "Allemands du Jutland du Sud"
+endonyme: "Nordschleswiger / Deutsche Minderheit in Nordschleswig"
+territoire: "Jutland du Sud (Schleswig du Nord) : communes d'Aabenraa, Haderslev, Sønderborg et Tønder"
+etats: ["Danemark"]
+region: "europe"
+coord: [55.0, 9.3]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 15000, annee: 2024, perimetre: "personnes appartenant à la minorité allemande, chiffre non officiel (aucun recensement par appartenance nationale au Danemark) ; environ 15 000 selon le Comité consultatif de la Convention-cadre, d'après des chiffres non officiels publiés par des organisations de la minorité ou de la société civile", source: "https://rm.coe.int/6th-op-denmark-fr/1680b05cf0"}
+lieux: {valeur: 4, unite: "communes visées par les règles de représentation (Aabenraa, Haderslev, Sønderborg, Tønder)", annee: 2005, source: "https://www.retsinformation.dk/eli/lta/2005/869"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La minorité allemande du Jutland du Sud, ou Nordschleswiger, vit dans la partie du Schleswig rattachée au Danemark en 1920. C'est la seule minorité nationale à laquelle le Danemark applique la Convention-cadre du Conseil de l'Europe, selon sa déclaration du 22 septembre 1997. La déclaration du gouvernement danois de 1955, pendant de la déclaration allemande sur la minorité danoise (déclarations de Bonn-Copenhague), garantit la liberté de se déclarer allemand et le droit d'ouvrir des écoles et des jardins d'enfants. La loi sur les écoles libres fait de l'allemand la langue d'enseignement des écoles de la minorité et confie à leur association, le Deutscher Schul- und Sprachverein für Nordschleswig, la répartition des subventions de l'État. Dans quatre communes, un arrêté de 2005 prévoit un membre adjoint sans droit de vote ou une commission consultative lorsque le parti de la minorité n'obtient aucun siège mais atteint un seuil de voix.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Sixième avis du Comité consultatif sur le Danemark (adopté le 7 février 2024) : § 21, la Convention-cadre s'applique à la seule minorité allemande du Jutland du Sud/Schleswig du Nord ; § 3, le Danemark « continue d'assurer un niveau de protection élevé » à ses membres ; recommandations prioritaires : faciliter la signalisation bilingue dans le Jutland du Sud/Schleswig du Nord et ajuster le soutien financier aux écoles de langue allemande à leurs besoins croissants.", annee: 2024, source: "https://rm.coe.int/6th-op-denmark-fr/1680b05cf0"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Déclaration du gouvernement danois sur les droits généraux de la minorité allemande (Bekendtgørelse angående det tyske mindretals almindelige rettigheder, BKI nr. 24 du 7 juin 1955), approuvée par le Folketing (Parlement danois) le 19 avril 1955 ; pendant de la déclaration de Bonn sur la minorité danoise", nature: "traite", annee: 1955, source: "https://www.retsinformation.dk/eli/ltc/1955/24"}
+  - {instrument: "Loi sur les écoles libres et les écoles primaires privées (lov om friskoler og private grundskoler), LBK nr. 700 du 13 août 2026, § 2, § 11 et § 14", nature: "loi", annee: 2026, source: "https://www.retsinformation.dk/eli/lta/2026/700"}
+  - {instrument: "Loi sur l'administration communale (lov om kommunernes styrelse), LBK nr. 13 du 5 janvier 2026, § 5, al. 3 et 4, et § 17, al. 5", nature: "loi", annee: 2026, source: "https://www.retsinformation.dk/eli/lta/2026/13"}
+  - {instrument: "Arrêté sur la représentation de la minorité allemande du Jutland du Sud dans les communes de Haderslev, Sønderborg, Tønder et Aabenraa (BEK nr. 869 du 16 septembre 2005)", nature: "loi", annee: 2005, source: "https://www.retsinformation.dk/eli/lta/2005/869"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Aucune assemblée publique propre ; la loi sur les écoles libres (LBK 700/2026, § 11, al. 4, et § 14) charge l'association scolaire de la minorité, le Deutscher Schul- und Sprachverein für Nordschleswig, de répartir les subventions de l'État entre les écoles allemandes, avec application de la loi sur la procédure administrative et de la loi sur l'accès aux documents.", source: "https://www.retsinformation.dk/eli/lta/2026/700"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Dans les quatre communes, si le parti de la minorité n'obtient ni siège ni membre adjoint mais au moins 10 % des voix correspondant au plus petit quotient ayant donné un siège, le conseil municipal crée une commission consultative présidée par le maire, dont au moins deux membres sont désignés par le parti ; elle peut rendre un avis sur toute question communale qui concerne la minorité, arrêté 869/2005, § 6 à 9.", source: "https://www.retsinformation.dk/eli/lta/2005/869"}
+  langue: {valeur: "partiel", note: "Les membres de la minorité ne peuvent être empêchés d'employer la langue de leur choix ; l'usage de l'allemand devant les tribunaux et l'administration suit les règles fixées par la loi, déclaration de 1955, point II.2 ; l'allemand n'a pas de statut officiel.", source: "https://www.retsinformation.dk/eli/ltc/1955/24"}
+  education: {valeur: "reconnu", note: "La minorité peut créer écoles et jardins d'enfants, déclaration de 1955, point II.3 ; dans les écoles de la minorité, la langue d'enseignement est l'allemand, loi sur les écoles libres (LBK 700/2026), § 2, al. 3, et ces écoles sont dispensées des seuils d'effectifs, § 2, al. 5.", source: "https://www.retsinformation.dk/eli/lta/2026/700"}
+  fiscalite: {valeur: "partiel", note: "L'État verse aux écoles de la minorité une subvention spéciale et une subvention complémentaire fixées chaque année par la loi de finances, que l'association scolaire de la minorité répartit, loi sur les écoles libres (LBK 700/2026), § 11, al. 1, n° 6, et § 14 ; aucun pouvoir fiscal.", source: "https://www.retsinformation.dk/eli/lta/2026/700"}
+  representation: {valeur: "partiel", note: "Garantie au niveau communal seulement : si le parti de la minorité n'obtient aucun siège mais au moins 25 % du plus petit quotient ayant donné un siège, le candidat de sa liste qui aurait été élu devient membre adjoint (tilforordnet) du conseil municipal et d'une commission permanente, sans droit de vote, arrêté 869/2005, § 2 et 5, pris pour la loi sur l'administration communale, § 5, al. 4.", source: "https://www.retsinformation.dk/eli/lta/2005/869"}
+  statut_personnel: {valeur: "partiel", note: "L'appartenance à la nationalité et à la culture allemandes est libre et ne peut être ni contestée ni vérifiée par les autorités, déclaration de 1955, point II.1 ; aucun statut civil propre.", source: "https://www.retsinformation.dk/eli/ltc/1955/24"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le Comité consultatif de la Convention-cadre écrit en 2024 que le Danemark « continue d'assurer un niveau de protection élevé » aux membres de la minorité allemande ; il demande de faciliter la signalisation bilingue et d'ajuster le soutien financier aux écoles de langue allemande à leurs besoins croissants.", source: "https://rm.coe.int/6th-op-denmark-fr/1680b05cf0"}
+chronologie:
+  - {annee: 1920, evenement: "Plébiscites de février et mars ; le Schleswig du Nord est rattaché au Danemark."}
+  - {annee: 1955, evenement: "Déclarations de Bonn-Copenhague ; la déclaration danoise sur les droits de la minorité allemande est approuvée par le Folketing (Parlement danois) le 19 avril."}
+  - {annee: 1965, evenement: "Création du comité de contact pour la minorité allemande, présidé par le ministre de la Culture, avec des membres du Folketing."}
+  - {annee: 1983, evenement: "Ouverture du secrétariat de la minorité allemande à Copenhague, liaison avec le Folketing et le ministère de la Culture."}
+  - {annee: 1997, evenement: "Déclaration de ratification de la Convention-cadre (22 septembre) : la Convention s'applique à la minorité allemande du Jutland du Sud."}
+  - {annee: 2005, evenement: "Arrêté du 16 septembre sur la représentation de la minorité dans les nouvelles communes de Haderslev, Sønderborg, Tønder et Aabenraa."}
+  - {annee: 2024, evenement: "Sixième avis du Comité consultatif de la Convention-cadre sur le Danemark."}
+fiabilite:
+  verifie: ["Texte de la déclaration de 1955, points I et II (Retsinformation, BKI 24/1955).", "Loi sur les écoles libres, LBK 700/2026, § 2, 11 et 14 (Retsinformation).", "Loi sur l'administration communale, LBK 13/2026, § 5, al. 3 et 4, et § 17, al. 5 (Retsinformation).", "Arrêté 869/2005, § 1 à 15, toujours en vigueur (Retsinformation).", "Sixième avis du Comité consultatif sur le Danemark, § 3 et 21.", "Comité de contact (1965) et secrétariat de Copenhague (1983) : sixième rapport étatique du Danemark (2023)."]
+  non_confirme: ["Population : chiffres non officiels (environ 15 000 selon le Comité consultatif en 2024 ; 12 000 à 15 000 selon la brochure INFO 2023 de la minorité ; 10 000 à 15 000 selon denmark.dk ; 15 000 à 20 000 selon la minorité, citée par Minority Rights Group).", "Nombre d'établissements : 19 jardins d'enfants, 14 écoles et 1 lycée selon la minorité (2023), chiffre non recoupé par une source publique.", "Base légale du lycée allemand d'Aabenraa et des jardins d'enfants : textes non consultés.", "Engagements du Danemark au titre de la Charte européenne des langues régionales ou minoritaires : documents non consultés.", "Évolution annoncée du comité de contact vers une commission du Folketing : statut actuel non vérifié.", "Aucun document d'un organe de l'ONU nommant la minorité n'a été consulté."]
+sources:
+  - {titre: "Bekendtgørelse angående det tyske mindretals almindelige rettigheder (1955) — Retsinformation", url: "https://www.retsinformation.dk/eli/ltc/1955/24"}
+  - {titre: "Lov om friskoler og private grundskoler m.v., LBK nr. 700 du 13/08/2026 — Retsinformation", url: "https://www.retsinformation.dk/eli/lta/2026/700"}
+  - {titre: "Lov om kommunernes styrelse, LBK nr. 13 du 05/01/2026 — Retsinformation", url: "https://www.retsinformation.dk/eli/lta/2026/13"}
+  - {titre: "Bekendtgørelse om fremme af det tyske mindretal i Sønderjyllands repræsentation (2005) — Retsinformation", url: "https://www.retsinformation.dk/eli/lta/2005/869"}
+  - {titre: "Sixième avis sur le Danemark — Comité consultatif de la Convention-cadre, Conseil de l'Europe (2024)", url: "https://rm.coe.int/6th-op-denmark-fr/1680b05cf0"}
+  - {titre: "Sixth State Report, Denmark — Convention-cadre, Conseil de l'Europe (2023)", url: "https://rm.coe.int/6th-sr-denmark-en/1680aac52f"}
+  - {titre: "Die deutsche Minderheit in Dänemark, INFO 2023 (version anglaise) — Bund Deutscher Nordschleswiger", url: "https://nordschleswig.dk/wp-content/uploads/2023/04/INFO2023-English.pdf"}
+  - {titre: "The German minority — denmark.dk, ministère des Affaires étrangères du Danemark", url: "https://denmark.dk/people-and-culture/history/the-german-minority"}
+  - {titre: "Germans of South Jutland — Minority Rights Group", url: "https://minorityrights.org/communities/germans-of-south-jutland/"}

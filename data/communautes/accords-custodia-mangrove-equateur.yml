@@ -1,0 +1,79 @@
+uid: "accords-custodia-mangrove-equateur"
+nom: "Accords de garde de la mangrove (Équateur)"
+endonyme: ""
+territoire: "Mangroves de la côte Pacifique : provinces d'Esmeraldas, de Manabí, de Santa Elena, du Guayas et d'El Oro"
+etats: ["Équateur"]
+region: "ameriques"
+coord: [-2.5, -80.0]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 68, unite: "accords d'usage durable et de garde en vigueur", annee: 2024, source: "https://www.expreso.ec/actualidad/politica/ambiente-entrego-acuerdos-sostenible-custodia-manglar-guayas-199662.html"}
+surface_km2: {valeur: 770, annee: 2024, perimetre: "surface de mangrove sous accord, donnée par le ministère de l'Environnement comme 77 000 ha (mai 2024)", source: "https://www.expreso.ec/actualidad/politica/ambiente-entrego-acuerdos-sostenible-custodia-manglar-guayas-199662.html"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les associations, coopératives et communes d'usagers ancestraux et traditionnels de la mangrove qui détiennent un accord d'usage durable et de garde (custodia : surveillance et protection d'une zone confiée). La mangrove est un bien de l'État hors commerce ; le Code organique de l'environnement de 2017 (art. 103) permet aux communes, communautés, peuples et nationalités ancestraux d'en demander la garde et l'usage durable, avec l'exploitation et la commercialisation exclusives des poissons, mollusques et crustacés. L'autorité environnementale accorde chaque accord pour dix ans renouvelables, sur un polygone délimité, après approbation d'un plan de gestion et d'un règlement intérieur de l'organisation. Le régime existe depuis l'accord ministériel 172 de 2000 ; le ministère comptait 68 accords et environ 77 000 ha en mai 2024.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Sixième rapport national de l'Équateur à la Convention sur la diversité biologique (évaluation du 7 décembre 2018, objectif national 12.2) : il présente les accords d'usage durable et de garde de la mangrove passés avec des organisations de pêcheurs, artisans et ramasseurs de coquillages, usagers ancestraux et traditionnels, et compte 52 accords couvrant 68 208,09 ha.", annee: 2018, source: "https://www.cbd.int/doc/world/ec/ec-nr-06-es.pdf"}
+base_nationale:
+  - {instrument: "Code organique de l'environnement (Código Orgánico del Ambiente), art. 99, 103 et 104 (Registro Oficial, supplément n° 983, 12 avril 2017)", nature: "loi_organique", annee: 2017, source: "https://faolex.fao.org/docs/pdf/ecu167116.pdf"}
+  - {instrument: "Règlement du Code organique de l'environnement, décret exécutif n° 752, art. 263 à 271 (Registro Oficial, supplément n° 507, 12 juin 2019)", nature: "loi", annee: 2019, source: "https://faolex.fao.org/docs/pdf/ecu196276.pdf"}
+  - {instrument: "Accord ministériel n° 129 du 11 août 2010, procédure d'approbation et de concession des accords d'usage durable et de garde de la mangrove en faveur des communautés ancestrales et des usagers traditionnels (Registro Oficial n° 283, 21 septembre 2010)", nature: "loi", annee: 2010, source: "https://faolex.fao.org/docs/pdf/ecu155378.pdf"}
+  - {instrument: "Accord ministériel n° 144 du 9 août 2011 modifiant l'accord ministériel n° 129 (plan de gestion, contrôles)", nature: "loi", annee: 2011, source: "https://faolex.fao.org/docs/pdf/ecu155379.pdf"}
+  - {instrument: "Accord ministériel n° 198 du 9 juillet 2014, manuel opérationnel de l'incitation Socio Manglar (Registro Oficial n° 319, 26 août 2014)", nature: "loi", annee: 2014, source: "https://faolex.fao.org/docs/pdf/ecu155391.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'accord est accordé à une organisation d'usagers traditionnels dotée de la personnalité juridique (commune, association, coopérative), qui présente la nomination de sa direction, un règlement intérieur et la liste des bénéficiaires, chacun déclarant par signature accepter ce règlement (règlement du Code organique de l'environnement de 2019, art. 265 et 267) ; l'autorité environnementale évalue le plan de gestion et la capacité de gestion de l'organisation (art. 268) et peut révoquer l'accord (art. 270 et 271).", source: "https://faolex.fao.org/docs/pdf/ecu196276.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le règlement intérieur de l'organisation fixe les règles d'usage de la zone et les sanctions que l'organisation applique aux contrevenants (règlement du Code organique de l'environnement de 2019, art. 267 e ; déjà accord ministériel 129 de 2010, art. 4) ; toute modification du plan de gestion exige l'approbation de l'autorité (accord SPN-AUSCEM-2021-005, art. 5 et 7 b).", source: "https://faolex.fao.org/docs/pdf/ecu196276.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La mangrove reste un bien de l'État hors commerce, insusceptible de possession ou d'appropriation (Code organique de l'environnement de 2017, art. 103) ; l'accord confie l'usage et la garde d'un polygone délimité par coordonnées, pour dix ans renouvelables (règlement de 2019, art. 265), sans cession, fractionnement ni aliénation possibles (accord ministériel 129 de 2010, art. 8 ; clause reprise dans l'accord SPN-AUSCEM-2021-005, art. 4).", source: "https://faolex.fao.org/docs/pdf/ecu211996.pdf"}
+  ressources: {valeur: "partiel", note: "Le bénéficiaire a le droit d'exploiter de façon durable et exclusive les ressources de la zone (accord ministériel 129 de 2010, art. 8 d) ; le Code organique de l'environnement (art. 103) vise l'exploitation et la commercialisation exclusives des poissons, mollusques et crustacés ; les activités sont limitées à des usages non destructeurs et au plan de gestion approuvé (règlement de 2019, art. 266).", source: "https://faolex.fao.org/docs/pdf/ecu167116.pdf"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "L'incitation Socio Manglar verse aux titulaires d'accords une part fixe selon la surface (7 000 à 15 000 dollars par an) et une part variable de 3 dollars par hectare et par an, affectées à un plan d'investissement participatif présenté par l'organisation (accord ministériel 198 de 2014) ; ce versement dépend de l'adhésion au programme et n'est pas un pouvoir fiscal.", source: "https://faolex.fao.org/docs/pdf/ecu155391.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le sixième rapport national à la CDB (2018) attribue aux organisations titulaires d'accords une part de l'arrêt du déboisement et de la hausse de la couverture de mangrove (148 430 ha en 2006, 161 835 ha en 2017) ; un document de coopération technique de la Banque interaméricaine de développement (EC-T1370) indique que, dans les cinq concessions visées par le projet (578 familles, 18 691 ha), 23 % de la surface recevait l'incitation Socio Manglar.", source: "https://ewsdata.rightsindevelopment.org/files/documents/70/IADB-EC-T1370.pdf"}
+chronologie:
+  - {annee: 2000, evenement: "Accord ministériel 172 (Registro Oficial n° 365, 20 janvier) : instructions pour l'octroi des accords d'usage durable de la mangrove aux communautés ancestrales et usagers traditionnels."}
+  - {annee: 2010, evenement: "Accord ministériel 129 (11 août) : procédure d'approbation, durée de dix ans renouvelable, droit d'usage exclusif, obligations de garde et causes de résiliation."}
+  - {annee: 2011, evenement: "Accord ministériel 144 : allègement du contenu du plan de gestion et suppression des évaluations externes obligatoires."}
+  - {annee: 2014, evenement: "Accord ministériel 198 (9 juillet) : création du volet Socio Manglar du programme d'incitations Socio Bosque, avec un objectif de 100 000 ha sous accord."}
+  - {annee: 2017, evenement: "Code organique de l'environnement (12 avril) : la garde et l'usage durable de la mangrove par les communes, communautés, peuples et nationalités ancestraux passent dans la loi (art. 103)."}
+  - {annee: 2018, evenement: "Le sixième rapport national à la CDB compte 52 accords couvrant 68 208,09 ha."}
+  - {annee: 2019, evenement: "Règlement du Code organique de l'environnement (décret exécutif 752, 12 juin) : principes, conditions de demande et causes de révocation des accords (art. 263 à 271)."}
+  - {annee: 2021, evenement: "Accord SPN-AUSCEM-2021-005 : renouvellement de l'accord de l'association « Isla Bellavista » (226,86 ha, province d'El Oro) ; il exclut les « autres activités productives » à la suite de l'arrêt 22-18-IN/21 de la Cour constitutionnelle."}
+  - {annee: 2024, evenement: "Le ministère de l'Environnement remet cinq nouveaux accords dans le Guayas (plus de 9 000 ha) et annonce 68 accords en vigueur pour environ 77 000 ha."}
+  - {annee: 2025, evenement: "Accord SMCO-AUSCEM-2025-005 (16 décembre) en faveur de la coopérative de pêcheurs artisans « Manglares Porteño » (925,58 ha, province du Guayas), accordé par le ministère de l'Environnement et de l'Énergie issu de la fusion de 2025."}
+fiabilite:
+  verifie:
+    - "Texte de l'accord ministériel 129 de 2010 (art. 1 à 16 et dispositions transitoires), Registro Oficial n° 283."
+    - "Texte de l'accord ministériel 144 modifiant l'accord 129."
+    - "Code organique de l'environnement de 2017, art. 99, 103 et 104."
+    - "Règlement du Code organique de l'environnement, art. 263 à 271, dans la version compilée publiée par FAOLEX."
+    - "Accord SPN-AUSCEM-2021-005 (Registro Oficial n° 8, 22 février 2022) : durée de dix ans, activités permises, interdiction de cession."
+    - "Accord SMCO-AUSCEM-2025-005 (Registro Oficial n° 223, 11 février 2026) : le régime est appliqué en 2025 sur la base du règlement de 2019 (art. 267 et 268)."
+    - "Date de l'accord ministériel 144 (9 août 2011), citée dans l'accord ministériel 198 de 2014."
+    - "Numéro de l'arrêt de la Cour constitutionnelle (22-18-IN/21), cité avec son dispositif dans les accords de 2021 et de 2025."
+    - "Mention des accords et chiffres de 2018 dans le sixième rapport national à la CDB."
+  non_confirme:
+    - "Chiffres de 2024 (68 accords, 77 000 ha) : repris d'un article de presse citant le ministère, sans liste officielle publiée des accords ni des surfaces par site ; aucun tableau des sites n'est donc joint."
+    - "Nombre total de bénéficiaires et de familles : aucun chiffre agrégé trouvé."
+    - "Publication au Registro Oficial de l'accord ministériel 144 : non trouvée."
+    - "Vigueur actuelle des accords ministériels 129 et 144 : les accords de 2021 et de 2025 se fondent sur le règlement de 2019 et ne les citent pas ; aucune abrogation trouvée."
+    - "Arrêt 22-18-IN/21 de la Cour constitutionnelle : texte de l'arrêt non ouvert."
+    - "Répartition des compétences : le Code (art. 103) mentionne une concession par le ministère chargé de la pêche, alors que le règlement de 2019 (art. 263 et 264) confie les accords de garde à l'autorité environnementale et les concessions de pêche à l'autorité de la pêche."
+sources:
+  - {titre: "Accord ministériel n° 129 de 2010 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ecu155378.pdf"}
+  - {titre: "Accord ministériel n° 144 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ecu155379.pdf"}
+  - {titre: "Code organique de l'environnement (2017) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ecu167116.pdf"}
+  - {titre: "Règlement du Code organique de l'environnement (décret 752, 2019) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ecu196276.pdf"}
+  - {titre: "Accord ministériel n° 198 de 2014, Socio Manglar — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ecu155391.pdf"}
+  - {titre: "Accord SPN-AUSCEM-2021-005, association « Isla Bellavista » — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ecu211996.pdf"}
+  - {titre: "Accord SMCO-AUSCEM-2025-005, coopérative « Manglares Porteño » — Registro Oficial n° 223 (11 février 2026)", url: "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiMjJiMjNhMzUtZmViNi00YzM4LThiYmYtZWE0NjMwNzU5NDU4LnBkZiJ9"}
+  - {titre: "Sixième rapport national de l'Équateur à la Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/ec/ec-nr-06-es.pdf"}
+  - {titre: "Ambiente entregó acuerdos de uso sostenible y custodia de manglar en Guayas — Expreso (mai 2024)", url: "https://www.expreso.ec/actualidad/politica/ambiente-entrego-acuerdos-sostenible-custodia-manglar-guayas-199662.html"}
+  - {titre: "Banque interaméricaine de développement, coopération technique EC-T1370", url: "https://ewsdata.rightsindevelopment.org/files/documents/70/IADB-EC-T1370.pdf"}

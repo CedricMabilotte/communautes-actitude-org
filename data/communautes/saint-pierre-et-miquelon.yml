@@ -1,0 +1,55 @@
+uid: "saint-pierre-et-miquelon"
+nom: "Saint-Pierre-et-Miquelon"
+endonyme: ""
+territoire: "Archipel de Saint-Pierre-et-Miquelon (îles de Saint-Pierre, Miquelon-Langlade et îlots), au sud de Terre-Neuve"
+etats: ["France"]
+region: "ameriques"
+coord: [46.9, -56.3]
+type: "collectivite_autonome"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 5790, annee: 2023, perimetre: "population légale de la collectivité au 1er janvier 2023, en vigueur au 1er janvier 2026 (Insee)", source: "https://www.insee.fr/fr/statistiques/8680667?sommaire=8681011"}
+lieux: {valeur: 2, unite: "communes (Saint-Pierre, Miquelon-Langlade)", annee: 2024, source: "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon"}
+surface_km2: {valeur: 242, annee: 2024, perimetre: "superficie terrestre de l'archipel", source: "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon"}
+villages: {valeur: 2, annee: 2024, perimetre: "localités habitées en permanence (Saint-Pierre, Miquelon) ; l'île aux Marins n'est plus habitée à l'année", source: "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon"}
+resume: >-
+  Saint-Pierre-et-Miquelon est un archipel français de l'Atlantique Nord, situé au sud de l'île de Terre-Neuve (Canada). Département d'outre-mer en 1976, puis « collectivité territoriale de la République française » par la loi du 11 juin 1985, il est régi depuis la loi organique n° 2007-223 du 21 février 2007 par l'article 74 de la Constitution (collectivité d'outre-mer). Son conseil territorial de 19 membres fixe les règles en matière d'impôts, droits et taxes, de cadastre, de régime douanier et d'urbanisme, et la collectivité fixe la redevance due par les titulaires de concessions d'hydrocarbures dans la zone économique exclusive. Le sujet collectif est la population de l'archipel ; aucune désignation ethnique n'est retenue par le droit. À l'égard de l'Union européenne, l'archipel est un pays et territoire d'outre-mer (PTOM, territoire associé sans en faire partie).
+reconnaissance_regionale:
+  - {mecanisme: "union_europeenne", detail: "Décision (UE) 2021/1764 du Conseil du 5 octobre 2021 relative à l'association des pays et territoires d'outre-mer à l'Union européenne ; l'article 9, paragraphe 4, dispose que Saint-Pierre-et-Miquelon est considéré comme un PTOM isolé.", annee: 2021, source: "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32021D1764"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution française, art. 74 (collectivités d'outre-mer)", nature: "constitution", annee: 2003, source: "https://www.senat.fr/rap/l06-025-1/l06-025-160.html"}
+  - {instrument: "Loi organique n° 2007-223 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à l'outre-mer (CGCT, art. LO 6411-1 et suivants)", nature: "loi_organique", annee: 2007, source: "https://www.senat.fr/rap/l06-025-1/l06-025-160.html"}
+  - {instrument: "Loi n° 85-595 du 11 juin 1985 relative au statut de l'archipel de Saint-Pierre-et-Miquelon", nature: "statut_autonomie", annee: 1985, source: "https://www.senat.fr/rap/l06-025-1/l06-025-160.html"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Depuis la loi organique du 21 février 2007 (CGCT, art. LO 6411-1), la collectivité est administrée par un conseil territorial de 19 membres élus pour cinq ans (15 sièges pour Saint-Pierre, 4 pour Miquelon-Langlade), qui élit un conseil exécutif de huit membres.", source: "https://www.senat.fr/rap/r10-308/r10-30817.html"}
+  pouvoir_normatif: {valeur: "reconnu", note: "L'article LO 6414-1 du CGCT confie à la collectivité la fixation des règles applicables en matière d'impôts, droits et taxes, de cadastre, de régime douanier (à l'exclusion des prohibitions à l'importation et à l'exportation) et d'urbanisme, construction, habitation et logement.", source: "https://www.senat.fr/rap/l06-025-1/l06-025-160.html"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "L'article LO 6414-3 du CGCT donne à la collectivité la compétence pour fixer l'assiette, le taux et les modalités de recouvrement de la redevance due par les titulaires de concessions de mines et d'hydrocarbures dans la zone économique exclusive (espace maritime sous juridiction française) ; l'exploration, l'exploitation et la délivrance des titres miniers relèvent de l'État, qui peut en concéder l'exercice à la collectivité par un cahier des charges approuvé par décret en Conseil d'État.", source: "https://www.senat.fr/rap/l06-025-1/l06-025-160.html"}
+  consentement: {valeur: "partiel", note: "L'article LO 6413-3 du CGCT impose la consultation du conseil territorial sur les projets et propositions de loi, d'ordonnance ou de décret comportant des dispositions particulières à l'archipel et sur certains traités ou accords avant leur ratification ; la collectivité rend un avis.", source: "https://www.senat.fr/rap/l06-025-1/l06-025-160.html"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "reconnu", note: "La collectivité fixe les règles en matière d'impôts, droits et taxes et de régime douanier (CGCT, art. LO 6414-1) ; la collectivité institue des impôts ou taxes au bénéfice des deux communes, dont le conseil municipal fixe le taux (art. LO 6414-6).", source: "https://www.senat.fr/rap/l06-025-1/l06-025-160.html"}
+  representation: {valeur: "reconnu", note: "L'article LO 6411-2 du CGCT dispose que la collectivité est représentée au Parlement et au Conseil économique et social dans les conditions prévues par les lois organiques.", source: "https://www.senat.fr/rap/l06-025-1/l06-025-160.html"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le conseil territorial a été renouvelé au second tour du 27 mars 2022 : 19 sièges pourvus (15 pour la liste arrivée en tête, 4 pour la seconde), puis élection du président par 15 voix sur 19.", source: "https://outremers360.com/bassin-atlantique-appli/bernard-briand-elu-president-du-conseil-territorial-de-saint-pierre-et-miquelon"}
+chronologie:
+  - {annee: 1976, evenement: "L'archipel devient département d'outre-mer."}
+  - {annee: 1985, evenement: "Loi du 11 juin : collectivité territoriale à statut particulier."}
+  - {annee: 2003, evenement: "Révision constitutionnelle : l'archipel relève de l'article 74 (collectivité d'outre-mer)."}
+  - {annee: 2006, evenement: "Consultation du 5 octobre sur les compétences d'urbanisme déléguées aux communes : 61,7 % de suffrages favorables à Saint-Pierre, 74,4 % à Miquelon-Langlade."}
+  - {annee: 2007, evenement: "Loi organique n° 2007-223 du 21 février fixant le statut actuel (CGCT, art. LO 6411-1 et s.)."}
+  - {annee: 2022, evenement: "Élection du conseil territorial (second tour le 27 mars)."}
+fiabilite:
+  verifie: ["Statut de collectivité de l'article 74 (LO 6411-1), représentation au Parlement (LO 6411-2), consultation (LO 6413-3), matières de l'article LO 6414-1, redevance sur les hydrocarbures (LO 6414-3), impôts communaux (LO 6414-6) et consultation de 2006 (rapport de la commission des lois du Sénat).", "Population légale 2023 (Insee).", "Qualification de PTOM isolé (décision (UE) 2021/1764, art. 9).", "Conseil territorial de 19 membres élus pour cinq ans, répartition 15/4, conseil exécutif et institution d'impôts au bénéfice des communes par la collectivité (rapport d'information du Sénat n° 308, 2011).", "Renouvellement du conseil territorial en mars 2022 (presse ultramarine)."]
+  non_confirme: ["Texte consolidé du CGCT (Légifrance non consulté) : rédaction finale des articles après navette parlementaire.", "Superficie, localités habitées et représentation parlementaire (un député, un sénateur) tirées d'une source encyclopédique.", "Absence de condition de résidence ou de statut local : non recherchée sur texte consolidé."]
+sources:
+  - {titre: "Sénat — Rapport sur le projet de loi organique portant dispositions statutaires et institutionnelles relatives à l'outre-mer (n° 25, 2006-2007), Saint-Pierre-et-Miquelon", url: "https://www.senat.fr/rap/l06-025-1/l06-025-160.html"}
+  - {titre: "Insee — Populations des collectivités d'outre-mer en 2023", url: "https://www.insee.fr/fr/statistiques/8680667?sommaire=8681011"}
+  - {titre: "EUR-Lex — Décision (UE) 2021/1764 du Conseil du 5 octobre 2021 (association des PTOM)", url: "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32021D1764"}
+  - {titre: "Sénat — Rapport d'information n° 308 (2010-2011), « Saint-Pierre-et-Miquelon : trois préfets plus tard, penser l'avenir pour éviter le naufrage », chapitre sur le statut", url: "https://www.senat.fr/rap/r10-308/r10-30817.html"}
+  - {titre: "Outremers360 — Territoriales 2022 : élection du président du conseil territorial de Saint-Pierre-et-Miquelon", url: "https://outremers360.com/bassin-atlantique-appli/bernard-briand-elu-president-du-conseil-territorial-de-saint-pierre-et-miquelon"}
+  - {titre: "Collectivité territoriale de Saint-Pierre-et-Miquelon", url: "https://www.spm-ct975.fr/"}
+  - {titre: "Wikipédia — Saint-Pierre-et-Miquelon", url: "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon"}

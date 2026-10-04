@@ -1,0 +1,70 @@
+uid: "porto-rico"
+nom: "Porto Rico (État libre associé)"
+endonyme: "Puerto Rico"
+territoire: "Île de Porto Rico et îles adjacentes (Vieques, Culebra, Mona)"
+etats: ["États-Unis"]
+region: "ameriques"
+coord: [18.2, -66.5]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 3285874, annee: 2020, perimetre: "population de Porto Rico au recensement des États-Unis", source: "https://www2.census.gov/geo/maps/DC2020/Profiles20/2020_State_Profile_Puerto_Rico.pdf"}
+lieux: {valeur: 78, unite: "municipios (communes)", annee: 2010, source: "https://www2.census.gov/geo/pdfs/reference/guidestloc/pr_gslcg.pdf"}
+surface_km2: {valeur: 8868, annee: 2010, perimetre: "terres émergées (3 423,8 milles carrés selon le Bureau du recensement)", source: "https://www2.census.gov/geo/pdfs/reference/guidestloc/pr_gslcg.pdf"}
+villages: {valeur: 253, annee: 2010, perimetre: "localités désignées par le recensement : 79 « zonas urbanas » (chefs-lieux de municipio) et 174 « comunidades »", source: "https://www2.census.gov/geo/pdfs/reference/guidestloc/pr_gslcg.pdf"}
+resume: >-
+  Territoire des États-Unis organisé depuis 1952 en « Estado Libre Asociado » (État libre associé), sous une Constitution adoptée par la population en vertu de la loi fédérale du 3 juillet 1950 (Public Law 600), votée « en forme de pacte ». La Constitution déclare que le pouvoir politique « emana del pueblo » et institue des pouvoirs législatif, exécutif et judiciaire propres. En 1953, l'Assemblée générale de l'ONU met fin à la communication de renseignements au titre de l'article 73 e de la Charte ; le Comité spécial de la décolonisation adopte depuis 1972 des résolutions qui réaffirment le droit du peuple portoricain à l'autodétermination et à l'indépendance. Depuis 2016, un conseil de supervision financière nommé par le président des États-Unis contrôle le budget du territoire.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Comité des droits de l'homme, observations finales sur le cinquième rapport des États-Unis (CCPR/C/USA/CO/5, par. 4) : regrette le manque d'informations sur l'application du Pacte au niveau territorial, notamment à Porto Rico", annee: 2023, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/USA/CO/5&l=fr&t=pdf"}
+  - {mecanisme: "organe_traite", detail: "Comité pour l'élimination de la discrimination raciale, observations finales (CERD/C/USA/CO/10-12, par. 4) : manque d'informations sur l'exercice des droits par les personnes résidant à Porto Rico et dans les autres territoires", annee: 2022, source: "https://documents.un.org/api/symbol/access?s=CERD/C/USA/CO/10-12&l=fr&t=pdf"}
+base_nationale:
+  - {instrument: "Loi fédérale du 3 juillet 1950 (Public Law 600, 81e Congrès), 48 U.S.C. § 731b, adoptée « in the nature of a compact » (en forme de pacte)", nature: "loi", annee: 1950, source: "https://www.law.cornell.edu/uscode/text/48/731b"}
+  - {instrument: "Constitución del Estado Libre Asociado de Puerto Rico", nature: "constitution", annee: 1952, source: "https://welcome.topuertorico.org/constitu-es.shtml"}
+  - {instrument: "Ley Núm. 1 de 28 de enero de 1993 (langues officielles)", nature: "loi", annee: 1993, source: "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2-ingles/1-1993.pdf"}
+  - {instrument: "Ley Núm. 165-2020 « Ley para Implementar la Petición de Estadidad del Plebiscito de 2020 »", nature: "loi", annee: 2020, source: "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/165-2020.pdf"}
+  - {instrument: "Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA), Public Law 114-187", nature: "loi", annee: 2016, source: "https://www.law.cornell.edu/uscode/text/48/2128"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le pouvoir politique « emana del pueblo » et s'exerce « dentro de los términos del convenio » avec les États-Unis ; gouvernement républicain à trois pouvoirs (Constitution de 1952, art. I, § 1 et 2) ; Assemblée législative de deux chambres élues (art. III, § 1).", source: "https://welcome.topuertorico.org/constitu-es.shtml"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'Assemblée législative adopte les lois du territoire (Constitution, art. III) ; toute révision constitutionnelle doit rester compatible avec la Constitution des États-Unis, la loi des relations fédérales et la Public Law 600 (art. VII, § 3) ; ni le gouverneur ni l'Assemblée législative ne peuvent adopter ou appliquer une norme qui compromettrait les objectifs de PROMESA, selon l'appréciation du conseil de supervision financière (48 U.S.C. § 2128).", source: "https://welcome.topuertorico.org/constitu-es.shtml"}
+  justice_propre: {valeur: "reconnu", note: "Pouvoir judiciaire exercé par un Tribunal Supremo (Cour suprême), tribunal de dernière instance à Porto Rico, et par les tribunaux créés par la loi en un système unifié (Constitution, art. V, § 1 à 3).", source: "https://welcome.topuertorico.org/constitu-es.shtml"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "La conservation, le développement et l'exploitation des ressources naturelles sont une politique publique de l'État libre associé (Constitution, art. VI, § 19).", source: "https://welcome.topuertorico.org/constitu-es.shtml"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "reconnu", note: "L'espagnol et l'anglais sont langues officielles du gouvernement de Porto Rico (Ley Núm. 1 de 1993, section 1) ; la loi rappelle que l'enseignement se fait en espagnol, l'anglais étant enseigné comme seconde langue.", source: "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2-ingles/1-1993.pdf"}
+  education: {valeur: "reconnu", note: "La Constitution institue un système d'instruction publique gratuit et non confessionnel aux niveaux primaire et secondaire (art. II, § 5).", source: "https://welcome.topuertorico.org/constitu-es.shtml"}
+  fiscalite: {valeur: "partiel", note: "Le pouvoir d'établir et de percevoir des impôts appartient à l'État libre associé et « nunca será rendido o suspendido » (Constitution, art. VI, § 2) ; depuis 2016, le gouverneur et l'Assemblée législative ne peuvent exercer aucun contrôle sur le conseil de supervision financière créé par PROMESA (48 U.S.C. § 2128).", source: "https://welcome.topuertorico.org/constitu-es.shtml"}
+  representation: {valeur: "partiel", note: "Les électeurs de Porto Rico élisent pour quatre ans un commissaire résident auprès des États-Unis, reconnu officiellement par tous les départements du gouvernement fédéral (48 U.S.C. § 891) ; le Bureau du recensement le décrit comme un commissaire sans droit de vote, élu par l'ensemble du territoire.", source: "https://www.law.cornell.edu/uscode/text/48/891"}
+  statut_personnel: {valeur: "partiel", note: "La Constitution exige des membres de l'Assemblée législative qu'ils soient citoyens « de los Estados Unidos y de Puerto Rico » (art. III, § 5) ; le préambule mentionne « nuestra ciudadanía de los Estados Unidos de América ».", source: "https://welcome.topuertorico.org/constitu-es.shtml"}
+  autodetermination_externe: {valeur: "partiel", note: "La Ley 165-2020 (art. 2.1) autorise le gouverneur à convoquer par décret une votation « para resolver el estatus político futuro de Puerto Rico » ; le plébiscite du 5 novembre 2024, convoqué sur cette base par l'ordre exécutif OE-2024-016 du 1er juillet 2024, proposait l'État fédéré, la souveraineté en libre association et l'indépendance ; le résultat certifié est transmis au président et au Congrès des États-Unis avec un préambule fixé par la loi qui le présente comme une demande adressée à ces derniers pour qu'ils « reparen el agravio » (réparent le préjudice) de la condition territoriale (art. 5.10).", source: "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/165-2020.pdf"}
+effectivite: {valeur: "partielle", note: "La Cour suprême des États-Unis (Puerto Rico v. Sánchez Valle, 9 juin 2016) décrit Porto Rico comme une démocratie constitutionnelle « exercising local self-rule » (exerçant l'autogouvernement local), mais juge que la source ultime de son pouvoir de poursuite pénale reste le Congrès, qui a autorisé et approuvé la Constitution de 1952 ; depuis la loi PROMESA de 2016, le conseil de supervision financière nommé par le président des États-Unis échappe à tout contrôle du gouverneur et de l'Assemblée législative (48 U.S.C. § 2128).", source: "https://www.law.cornell.edu/supremecourt/text/15-108"}
+chronologie:
+  - {annee: 1898, evenement: "Intervention des États-Unis à Porto Rico (25 juillet)."}
+  - {annee: 1950, evenement: "Public Law 600 du 81e Congrès, adoptée en forme de pacte, autorisant Porto Rico à se doter d'une constitution."}
+  - {annee: 1952, evenement: "Entrée en vigueur de la Constitution de l'Estado Libre Asociado (25 juillet)."}
+  - {annee: 1953, evenement: "Résolution 748 (VIII) de l'Assemblée générale : fin de la communication de renseignements au titre de l'article 73 e de la Charte."}
+  - {annee: 1972, evenement: "Première résolution du Comité spécial de la décolonisation sur la question de Porto Rico."}
+  - {annee: 2016, evenement: "Arrêt Puerto Rico v. Sánchez Valle (9 juin) ; loi PROMESA créant le conseil de supervision financière (30 juin)."}
+  - {annee: 2020, evenement: "Ley 165-2020 autorisant le gouverneur à convoquer des votes sur le statut."}
+  - {annee: 2024, evenement: "Ordre exécutif OE-2024-016 (1er juillet) convoquant un plébiscite sur le statut en vertu de la Ley 165-2020."}
+  - {annee: 2024, evenement: "Plébiscite du 5 novembre : État fédéré 58,61 %, libre association 29,57 %, indépendance 11,82 % des votes valides (certifié le 17 janvier 2025)."}
+  - {annee: 2025, evenement: "Projet de résolution A/AC.109/2025/L.7 du Comité spécial réaffirmant le droit inaliénable du peuple portoricain à l'autodétermination et à l'indépendance."}
+fiabilite:
+  verifie: ["Constitution de 1952, art. I § 1 et 2, II § 5, III § 1 et 5, V § 1 à 3, VI § 2 et 19, VII § 3 (texte espagnol).", "48 U.S.C. § 731b (« in the nature of a compact »), § 891 et § 2128 (Cornell LII).", "Résolution 748 (VIII) de 1953 et projet A/AC.109/2025/L.7 (texte français).", "Ley 1-1993, section 1 ; Ley 165-2020, art. 2.1 et 5.10.", "Puerto Rico v. Sánchez Valle (2016) : résumé et opinion de la Cour (Cornell LII).", "Résultats du plébiscite de 2024 tels que rapportés par Primera Hora (certification du 17 janvier 2025).", "Paragraphes 4 de CCPR/C/USA/CO/5 et de CERD/C/USA/CO/10-12.", "Population 2020 et découpage en 78 municipios et 253 localités du recensement ; commissaire résident « non-voting » (guide du recensement).", "Ordre exécutif OE-2024-016 : convocation fondée sur la Ley 165-2020 (texte numérisé, lu par reconnaissance de caractères)."]
+  non_confirme: ["Certification officielle de la Comisión Estatal de Elecciones sur le plébiscite de 2024 : document non ouvert, chiffres relevés dans la presse.", "Portée juridique des plébiscites sur le statut à l'égard du Congrès des États-Unis : non vérifiée sur texte.", "Adoption définitive du projet A/AC.109/2025/L.7 : non vérifiée.", "Effet de la décision Ramírez de Ferrer v. Mari Brás (1997) sur une citoyenneté portoricaine distincte : non vérifié sur texte.", "Partage des compétences sur les ressources naturelles et les eaux côtières avec l'État fédéral : non vérifié.", "Le découpage en localités et la surface datent du guide du recensement de 2010."]
+sources:
+  - {titre: "Constitución del Estado Libre Asociado de Puerto Rico (1952)", url: "https://welcome.topuertorico.org/constitu-es.shtml"}
+  - {titre: "48 U.S.C. § 731b — Public Law 600 (1950), Cornell LII", url: "https://www.law.cornell.edu/uscode/text/48/731b"}
+  - {titre: "48 U.S.C. § 2128 — PROMESA, autonomie du conseil de supervision, Cornell LII", url: "https://www.law.cornell.edu/uscode/text/48/2128"}
+  - {titre: "48 U.S.C. § 891 — commissaire résident, Cornell LII", url: "https://www.law.cornell.edu/uscode/text/48/891"}
+  - {titre: "Puerto Rico v. Sánchez Valle (2016), Cornell LII", url: "https://www.law.cornell.edu/supremecourt/text/15-108"}
+  - {titre: "Ley Núm. 165-2020 — Oficina de Gerencia y Presupuesto de Porto Rico", url: "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/165-2020.pdf"}
+  - {titre: "Puerto Rico Official Languages Act (Ley 1-1993)", url: "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2-ingles/1-1993.pdf"}
+  - {titre: "Résolution 748 (VIII) de l'Assemblée générale (1953)", url: "https://documents.un.org/api/symbol/access?s=A/RES/748(VIII)&l=fr&t=pdf"}
+  - {titre: "A/AC.109/2025/L.7 — Comité spécial de la décolonisation, Porto Rico", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2025/L.7&l=fr&t=pdf"}
+  - {titre: "Comité des droits de l'homme, CCPR/C/USA/CO/5 (2023)", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/USA/CO/5&l=fr&t=pdf"}
+  - {titre: "Comité pour l'élimination de la discrimination raciale, CERD/C/USA/CO/10-12 (2022)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/USA/CO/10-12&l=fr&t=pdf"}
+  - {titre: "Bureau du recensement des États-Unis — profil 2020 de Porto Rico", url: "https://www2.census.gov/geo/maps/DC2020/Profiles20/2020_State_Profile_Puerto_Rico.pdf"}
+  - {titre: "Bureau du recensement — Guide to State and Local Census Geography, Puerto Rico", url: "https://www2.census.gov/geo/pdfs/reference/guidestloc/pr_gslcg.pdf"}
+  - {titre: "Orden Ejecutiva OE-2024-016 du gouverneur de Porto Rico (1er juillet 2024)", url: "https://docs.pr.gov/files/Estado/OrdenesEjecutivas/2024/OE-2024-016.pdf"}
+  - {titre: "Primera Hora — la CEE certifie les résultats du plébiscite de 2024", url: "https://www.primerahora.com/noticias/gobierno-politica/notas/cee-certifica-a-la-estadidad-como-la-formula-ganadora-del-plebiscito/"}

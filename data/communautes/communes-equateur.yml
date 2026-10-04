@@ -1,0 +1,55 @@
+uid: "communes-equateur"
+nom: "Communes (comunas) de l'Équateur"
+endonyme: ""
+territoire: "Établissements ruraux constitués en communes avec personnalité juridique, dans la Sierra, sur la Côte et en Amazonie"
+etats: ["Équateur"]
+region: "ameriques"
+coord: [-1.5, -78.5]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: ["peuple_autochtone", "communaute_afrodescendante"]
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 1426, unite: "communes juridiquement constituées (catastre de 1987)", annee: 1987, source: "https://historia396.cl/index.php/historia396/article/view/858"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La loi d'organisation et de régime des communes (Registre officiel n° 558, 6 août 1937, codifiée en 2004) permet à tout établissement d'au moins cinquante habitants d'obtenir la personnalité juridique de commune (comuna), administrée par un cabildo (conseil) de cinq membres élu chaque année, et protège ses biens collectifs. La Constitution de 2008 reconnaît « les communes qui ont la propriété collective de la terre, comme une forme ancestrale d'organisation territoriale » (art. 60) et leur garantit les droits collectifs de l'article 57, dont la propriété inaliénable des terres communautaires. La loi organique des terres rurales et territoires ancestraux de 2016 (art. 3, 23 et 77 à 83) organise l'adjudication (attribution du titre) gratuite de ces terres par l'autorité agraire et confie leur administration aux instances de la commune. Le régime concerne des communes autochtones, afroéquatoriennes, montubias et paysannes métisses ; un catastre (registre) publié en 1987 recense 1 426 communes enregistrées depuis les années 1930, dont 166 sans date d'enregistrement.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi d'organisation et de régime des communes (Registre officiel n° 558, 6 août 1937)", nature: "loi", annee: 1937, source: "https://historia396.cl/index.php/historia396/article/view/858"}
+  - {instrument: "Codification de la loi d'organisation et de régime des communes (loi n° 2004-04, supplément du Registre officiel n° 315, 16 avril 2004), art. 1, 3 à 5, 7 à 9, 11 à 14 et 17", nature: "loi", annee: 2004, source: "https://faolex.fao.org/docs/pdf/ecu67418.pdf"}
+  - {instrument: "Constitution de la République de l'Équateur (2008), art. 56, 57, 60 et 248", nature: "constitution", annee: 2008, source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  - {instrument: "Loi organique des terres rurales et territoires ancestraux (supplément du Registre officiel n° 711, 14 mars 2016, réformée le 25 mars 2022), art. 3, 23 et 77 à 83", nature: "loi_organique", annee: 2016, source: "https://faolex.fao.org/Docs/Pdf/Ecu166211.Pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque commune est représentée par un cabildo (conseil) de cinq membres (président, vice-président, trésorier, syndic, secrétaire) élu en décembre pour un an par l'assemblée des habitants inscrits (loi des communes, art. 8, 11 et 12) ; la commune dépend administrativement du ministère de l'Agriculture, qui approuve le règlement électoral du cabildo, peut désigner un autre cabildo en cas de vacance ou de dissensions et révoquer un de ses membres (art. 4, 12, 13 et 14) ; la loi de 2016 (art. 23) confie aux autorités propres l'administration et le contrôle social du territoire.", source: "https://faolex.fao.org/docs/pdf/ecu67418.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le cabildo édicte des dispositions et peut « réformer librement » les usages et coutumes relatifs à l'administration, à l'usage et à la jouissance des biens communs (loi des communes, art. 7 et 17 a) ; les pratiques de droit propre sur l'accès à la terre constituent des normes d'administration interne (loi de 2016, art. 81 d) ; la portée se limite aux biens communs.", source: "https://faolex.fao.org/docs/pdf/ecu67418.pdf"}
+  justice_propre: {valeur: "partiel", note: "Les conflits sur la possession, l'usage et l'usufruit des terres communautaires sont résolus selon les pratiques, coutumes et procédures propres de la commune ; les conflits entre communes sur la légalisation des terres passent par la médiation, puis par le juge (loi de 2016, art. 83).", source: "https://faolex.fao.org/Docs/Pdf/Ecu166211.Pdf"}
+  terres: {valeur: "reconnu", note: "Propriété imprescriptible, inaliénable, insaisissable et indivisible des terres communautaires, exemptée de taxes (Constitution, art. 57.4 et 60) ; adjudication gratuite et à perpétuité, titre au nom de l'entité collective de la commune (loi de 2016, art. 3, 23 et 85 f).", source: "https://faolex.fao.org/Docs/Pdf/Ecu166211.Pdf"}
+  ressources: {valeur: "partiel", note: "Participation à l'usage, à l'usufruit, à l'administration et à la conservation des ressources naturelles renouvelables des terres (Constitution, art. 57.6 ; loi de 2016, art. 78 d et 81 c) ; les ressources non renouvelables restent à l'État.", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  consentement: {valeur: "partiel", note: "Consultation préalable, libre et informée sur la prospection et l'exploitation de ressources non renouvelables situées sur leurs terres (Constitution, art. 57.7) ; sans consentement, il est procédé « conformément à la Constitution et à la loi ».", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le cabildo peut fixer une cotisation obligatoire pour les membres et une contribution pour l'usage des biens collectifs, après approbation du ministre de l'Agriculture (loi des communes, art. 17 h) ; les terres communautaires sont exemptées de taxes et d'impôts (Constitution, art. 57.4).", source: "https://faolex.fao.org/docs/pdf/ecu67418.pdf"}
+  representation: {valeur: "partiel", note: "La Constitution (art. 248) reconnaît les communes comme unités de base de participation dans les gouvernements autonomes décentralisés et dans le système national de planification ; aucun siège réservé n'est prévu.", source: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Une étude de 2021 sur les quinze communes enregistrées du canton de San Lorenzo (Esmeraldas) relève des divisions de territoires communaux malgré l'interdiction légale, la présence d'entreprises de palmier à huile, de mineurs et de colons, et l'absence du registre des habitants exigé par l'article 9 de la loi des communes.", source: "https://www.redalyc.org/journal/280/28069360019/html/"}
+chronologie:
+  - {annee: 1937, evenement: "Publication de la loi d'organisation et de régime des communes (Registre officiel n° 558, 6 août)."}
+  - {annee: 1964, evenement: "Jusqu'à cette date, 931 enregistrements de communes concernent des communautés situées hors des haciendas (grands domaines)."}
+  - {annee: 1987, evenement: "Publication d'un catastre des communes légalement constituées : 1 426 communes enregistrées depuis les années 1930, dont 1 116 dans la Sierra, 305 sur la Côte, 5 en Amazonie et 166 sans date."}
+  - {annee: 2004, evenement: "Codification de la loi des communes par le Congrès national (loi n° 2004-04, 16 avril)."}
+  - {annee: 2008, evenement: "La Constitution reconnaît les communes à propriété collective comme forme ancestrale d'organisation territoriale (art. 60)."}
+  - {annee: 2016, evenement: "Loi organique des terres rurales et territoires ancestraux (14 mars) : adjudication gratuite des terres communales."}
+  - {annee: 2022, evenement: "Réforme de la loi de 2016 (Registre officiel n° 29, deuxième supplément, 25 mars)."}
+fiabilite:
+  verifie: ["Articles 56, 57, 60, 171 et 248 de la Constitution de 2008 (édition de l'Assemblée nationale).", "Articles 3, 23, 77 à 83 et 85 de la loi organique de 2016 (texte publié par la FAO, dernière réforme du 25 mars 2022).", "Date et numéro du Registre officiel de la loi de 1937 et tableau des communes enregistrées de 1930 à 1960 (Jácome Calvache, Historia 396, 2025, d'après Wray, Guerrero et Ruiz, 1987).", "Articles 1, 3 à 5, 7 à 9, 11 à 14 et 17 de la codification de 2004 (texte publié au Registre officiel, édition FAOLEX).", "Dans le canton de Santa Elena se trouvent la plupart des territoires collectifs de la province, administrés par 68 communes qui couvrent 90 % du territoire provincial (Álvarez Litben, 2016, d'après l'INEC 2010)."]
+  non_confirme: ["Nombre actuel de communes inscrites au ministère de l'Agriculture : aucun registre public trouvé ; le chiffre de 1 426 date du catastre de 1987 ; aucun tableau des sites n'est joint.", "La codification de 2004 (art. 17 f) admet le fractionnement des terres communales sur décision des deux tiers de l'assemblée générale, sauf páramos (prairies d'altitude) et terres boisées ; son articulation avec l'indivisibilité posée par la Constitution de 2008 n'est pas documentée.", "Population et surface couvertes par les communes : aucune source nationale trouvée.", "État d'un projet de loi organique des communes annoncé comme « en cours de réforme » en 2016."]
+sources:
+  - {titre: "Constitution de la République de l'Équateur — Assemblée nationale", url: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
+  - {titre: "Codificación de la Ley de Organización y Régimen de las Comunas (2004) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ecu67418.pdf"}
+  - {titre: "Ley Orgánica de Tierras Rurales y Territorios Ancestrales (2016) — FAOLEX", url: "https://faolex.fao.org/Docs/Pdf/Ecu166211.Pdf"}
+  - {titre: "Egas Moreno, Nazareno Véliz, Cifuentes Quiñónez, « Afectaciones sobre las propiedades colectivas en las comunas ancestrales de Ecuador », Revista de Ciencias Sociales, vol. XXVII, n° 4, 2021 — Redalyc", url: "https://www.redalyc.org/journal/280/28069360019/html/"}
+  - {titre: "Jácome Calvache, « Indigenismo y reconocimiento jurídico de las comunas indígenas en Ecuador, primera mitad del siglo XX », Historia 396, vol. 15, n° 1, 2025", url: "https://historia396.cl/index.php/historia396/article/view/858"}
+  - {titre: "Álvarez Litben, « La importancia de tener nombre : identidad y derechos territoriales para las comunas de Santa Elena, Ecuador », Revista de Antropología Experimental, n° 16, 2016", url: "https://revistaselectronicas.ujaen.es/index.php/rae/article/view/2896"}

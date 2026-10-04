@@ -1,0 +1,66 @@
+uid: "aires-marines-peche-responsable-costa-rica"
+nom: "Aires marines de pêche responsable du Costa Rica"
+endonyme: ""
+territoire: "Eaux côtières du Pacifique (golfe de Nicoya, côte de Guanacaste, Pacifique central, golfe Dulce) et de la côte caraïbe nord (Barra del Colorado)"
+etats: ["Costa Rica"]
+region: "ameriques"
+coord: [9.9, -85.0]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 13, unite: "aires marines de pêche responsable créées par accord de la Junta Directiva de l'INCOPESCA", annee: 2026, source: "https://www.incopesca.go.cr/pesca/ampr.aspx"}
+surface_km2: {valeur: 1500, annee: 2020, perimetre: "surface marine cumulée des aires, donnée par l'INCOPESCA comme « plus de 1 500 km² »", source: "https://www.incopesca.go.cr/pesca/pesca_responsable/03-informacion_de_areas_marinas_de_pesca_responsable.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les organisations de pêcheurs artisanaux qui ont obtenu la création d'une aire marine de pêche responsable (AMPR). Le décret exécutif 35502-MAG (La Gaceta n° 191 du 1er octobre 2009) permet à l'Institut costaricien de la pêche et de l'aquaculture (INCOPESCA) de créer ces aires, en donnant la priorité à celles que proposent des organisations de pêcheurs inscrites à son registre. Chaque aire est délimitée par des coordonnées et régie par un plan d'aménagement des pêches (Plan de Ordenamiento Pesquero : zonage, engins autorisés, zones de fermeture) établi par zonage participatif et approuvé par la Junta Directiva (conseil d'administration) de l'INCOPESCA ; une commission de suivi associe l'INCOPESCA et des représentants des pêcheurs. La pêche dans l'aire reste ouverte à tout pêcheur titulaire d'une licence qui respecte le plan (art. 6). L'INCOPESCA recense 13 aires créées entre 2009 et 2021.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "cdb_8j", detail: "Cinquième rapport national du Costa Rica à la Convention sur la diversité biologique (avril 2014) : il cite les aires marines de pêche responsable créées par accord de la Junta Directiva de l'INCOPESCA parmi les nouvelles modalités de gestion des ressources halieutiques et les compare aux aires marines protégées (tableau 16).", annee: 2014, source: "https://www.cbd.int/doc/world/cr/cr-nr-05-es.pdf"}
+base_nationale:
+  - {instrument: "Décret exécutif 35502-MAG, Reglamento para el establecimiento de las Áreas Marinas de Pesca Responsable (La Gaceta n° 191 du 1er octobre 2009)", nature: "loi", annee: 2009, source: "https://www.incopesca.go.cr/pesca/pesca_responsable/01-reglamento_areas_marinas_pesca_responsable.pdf"}
+  - {instrument: "Accords de création de la Junta Directiva de l'INCOPESCA (AJDIP/315-2009 à AJDIP/255-2021), un par aire", nature: "loi", annee: 2009, source: "https://www.incopesca.go.cr/pesca/ampr.aspx"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'INCOPESCA crée les aires et donne la priorité à celles que propose une organisation de pêcheurs dotée de la personnalité juridique et inscrite à son registre (décret 35502-MAG, art. 1 d et 2) ; une commission de suivi nommée par la présidence exécutive de l'INCOPESCA comprend un représentant titulaire et un suppléant désignés par la communauté de pêcheurs, la coordination revenant aux deux représentants de l'INCOPESCA (art. 11) ; l'INCOPESCA promeut au sein des organisations des comités de surveillance formés de pêcheurs, qui appuient le Service national des garde-côtes (art. 7 et 8).", source: "https://www.incopesca.go.cr/pesca/pesca_responsable/01-reglamento_areas_marinas_pesca_responsable.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "L'organisation élabore un code d'éthique pour la pêche responsable qui devient obligatoire pour ses membres une fois approuvé (décret 35502-MAG, art. 5 b) ; les règles de l'aire (zones, engins, fermetures) sont fixées par zonage participatif en consensus avec les pêcheurs mais adoptées par la Junta Directiva de l'INCOPESCA (art. 1 f, 3 et 10).", source: "https://www.incopesca.go.cr/pesca/pesca_responsable/01-reglamento_areas_marinas_pesca_responsable.pdf"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Chaque plan d'aménagement des pêches fixe les engins et méthodes autorisés et les zones de fermeture totale ou partielle de l'aire (décret 35502-MAG, art. 10) ; l'accès n'est pas réservé aux membres de l'organisation : tout pêcheur titulaire d'une licence peut pêcher dans l'aire s'il respecte le plan (art. 6).", source: "https://www.incopesca.go.cr/pesca/pesca_responsable/01-reglamento_areas_marinas_pesca_responsable.pdf"}
+  consentement: {valeur: "partiel", note: "Le zonage participatif (zonificación participativa) est défini comme l'aménagement de la pêche réalisé en consensus avec les pêcheurs des organisations ayant un intérêt légitime (décret 35502-MAG, art. 1 f) ; le texte ne prévoit pas de consentement de l'organisation aux autres décisions de l'INCOPESCA sur l'aire.", source: "https://www.incopesca.go.cr/pesca/pesca_responsable/01-reglamento_areas_marinas_pesca_responsable.pdf"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Une analyse juridique du Consortium TICCA (2024) relève que les 13 aires fonctionnent en pratique comme une gouvernance partagée mais ne sont reconnues que par décret exécutif et non par une loi, que les pêcheurs de l'aire de Dominicalito n'ont pas de sécurité juridique sur l'espace marin et côtier qu'ils occupent, et qu'à Barra del Colorado l'accès à la pêche à la crevette passe par des licences de recherche.", source: "https://www.iccaconsortium.org/wp-content/uploads/2024/10/analisis-legal-de-los-territorios-de-vida-marino-costeros-en-mesoamerica.pdf"}
+chronologie:
+  - {annee: 2008, evenement: "La Junta Directiva de l'INCOPESCA adopte le règlement AJDIP/138-2008 sur l'établissement des aires marines de pêche responsable (4 avril)."}
+  - {annee: 2009, evenement: "Publication du décret exécutif 35502-MAG (La Gaceta n° 191, 1er octobre) ; création de l'aire de Palito, île de Chira (accord AJDIP/315-2009, La Gaceta du 20 novembre)."}
+  - {annee: 2010, evenement: "Création de l'aire du golfe Dulce (accord AJDIP/191-2010, 11 juin)."}
+  - {annee: 2011, evenement: "Création de l'aire de Tárcoles (accord AJDIP/193-2011, 27 mai)."}
+  - {annee: 2012, evenement: "Création des aires de Puerto Níspero et d'Isla Caballo ; extension de l'aire de Palito vers Montero (accord AJDIP/154-2012)."}
+  - {annee: 2013, evenement: "Création des aires de San Juanillo et d'Isla Venado."}
+  - {annee: 2014, evenement: "Création des aires de Paquera-Tambor et de Costa de Pájaros."}
+  - {annee: 2018, evenement: "Création de l'aire de Dominicalito (accord AJDIP/219-2018)."}
+  - {annee: 2019, evenement: "Création de l'aire de Barra del Colorado, première sur la côte caraïbe, à la demande de deux associations de pêcheurs et de pêcheuses (accord AJDIP/549-2019)."}
+  - {annee: 2021, evenement: "Création des aires 201 (accord AJDIP/224-2021) et Papagayo (accord AJDIP/255-2021)."}
+fiabilite:
+  verifie:
+    - "Texte du décret 35502-MAG (art. 1 à 16) dans la version publiée par l'INCOPESCA."
+    - "Liste des 13 aires et accords de création, lus sur les pages de l'INCOPESCA (consultées en octobre 2026)."
+    - "Surfaces de Puerto Níspero (2,6 km²), d'Isla Caballo (1,48 km²) et de Costa de Pájaros (1 056 ha) lues dans les accords de création."
+    - "Mention des aires dans le cinquième rapport national à la CDB (2014), tableau 16."
+  non_confirme:
+    - "Composition de la commission de suivi : le décret (art. 11) prévoit des représentants de l'INCOPESCA et un représentant de la communauté de pêcheurs ; la présentation de l'INCOPESCA (2020) indique un représentant de l'INCOPESCA, un du SINAC (système national des aires de conservation) et deux des pêcheurs, sans citer le texte qui aurait modifié l'article 11."
+    - "Surface totale : chiffre arrondi « plus de 1 500 km² » de 2020, antérieur à la création des aires 201 et Papagayo."
+    - "Nombre de pêcheurs et d'organisations membres : aucun chiffre agrégé trouvé."
+    - "Fonctionnement actuel des commissions de suivi et remise des rapports semestriels prévus à l'article 13."
+sources:
+  - {titre: "Áreas Marinas de Pesca Responsable — INCOPESCA", url: "https://www.incopesca.go.cr/pesca/ampr.aspx"}
+  - {titre: "Décret exécutif 35502-MAG, Reglamento para el establecimiento de las Áreas Marinas de Pesca Responsable — INCOPESCA", url: "https://www.incopesca.go.cr/pesca/pesca_responsable/01-reglamento_areas_marinas_pesca_responsable.pdf"}
+  - {titre: "Información de Áreas Marinas de Pesca Responsable (présentation) — INCOPESCA", url: "https://www.incopesca.go.cr/pesca/pesca_responsable/03-informacion_de_areas_marinas_de_pesca_responsable.pdf"}
+  - {titre: "Límites de las Áreas Marinas de Pesca Responsable (tableur) — INCOPESCA", url: "https://www.incopesca.go.cr/pesca/pesca_responsable/04-limites_areas_marinas_pesca_responsable_costa_rica.xlsx"}
+  - {titre: "Accord AJDIP/191-2010, création de l'AMPR du golfe Dulce — INCOPESCA", url: "https://www.incopesca.go.cr/pesca/pesca_responsable/AMPR%20Golfo%20Dulce/archivos/AJDIP-191-2010-aprueba-creacion-ampr-Golfo-Dulce.pdf"}
+  - {titre: "V Informe Nacional al Convenio sobre la Diversidad Biológica, Costa Rica (2014) — CDB", url: "https://www.cbd.int/doc/world/cr/cr-nr-05-es.pdf"}
+  - {titre: "Análisis legal de los territorios de vida marino-costeros en Mesoamérica — Consortium TICCA (2024)", url: "https://www.iccaconsortium.org/wp-content/uploads/2024/10/analisis-legal-de-los-territorios-de-vida-marino-costeros-en-mesoamerica.pdf"}

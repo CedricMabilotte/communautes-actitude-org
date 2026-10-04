@@ -1,0 +1,51 @@
+uid: "sections-de-commune-france"
+nom: "Sections de commune (France)"
+endonyme: "Sectionnaires"
+territoire: "Sections de commune, surtout dans le Massif central (Haute-Loire, Puy-de-Dôme, Cantal, Aveyron)"
+etats: ["France"]
+region: "europe"
+coord: [45.2, 3.0]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 26792, unite: "sections de commune (recensement rapide du ministère de l'Intérieur)", annee: 1999, source: "https://www.senat.fr/rap/l12-013/l12-013.html"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les sections de commune, parties d'une commune qui possèdent « à titre permanent et exclusif des biens ou des droits distincts de ceux de la commune » (Code général des collectivités territoriales, art. L. 2411-1). La section est une personne morale de droit public (une entité publique dotée de la personnalité juridique) ; ses membres sont les habitants qui ont leur domicile réel et fixe sur son territoire et ont la jouissance en nature des biens : bois, pâturages, terres agricoles. La plupart de ces biens proviennent de titres de propriété antérieurs à 1789. Le régime a été réformé par la loi n° 2013-428 du 27 mai 2013, qui interdit la création de nouvelles sections ; le recensement de 1999 en comptait 26 792, concentrées dans le Massif central.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Code général des collectivités territoriales, art. L. 2411-1 à L. 2412-2 (biens et droits des sections de commune)", nature: "loi", annee: 2013, source: "https://www.collectivites-locales.gouv.fr/connaitre-les-acteurs-et-les-institutions/structures-territoriales/les-communes/le-territoire-communal/ladministration-des-sections-de-communes"}
+  - {instrument: "Loi n° 2013-428 du 27 mai 2013 modernisant le régime des sections de commune", nature: "loi", annee: 2013, source: "https://www.senat.fr/leg/tas12-143.html"}
+  - {instrument: "Conseil constitutionnel, décision n° 2011-118 QPC du 8 avril 2011, M. Lucien M. (biens des sections de commune)", nature: "jurisprudence", annee: 2011, source: "https://www.conseil-constitutionnel.fr/decision/2011/2011118QPC.htm"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Une commission syndicale, composée du maire et de membres élus par les électeurs de la section, peut être constituée à la demande de la moitié des électeurs ou du conseil municipal (CGCT, art. L. 2411-3) ; elle n'est pas constituée s'il y a moins de vingt électeurs ou si les revenus cadastraux annuels sont inférieurs à 2 000 euros (art. L. 2411-5). Sans commission, le conseil municipal exerce ses prérogatives.", source: "https://www.collectivites-locales.gouv.fr/connaitre-les-acteurs-et-les-institutions/structures-territoriales/les-communes/le-territoire-communal/ladministration-des-sections-de-communes"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La section, personne morale de droit public, possède les biens à titre permanent et exclusif (CGCT, art. L. 2411-1) ; ses membres n'en sont pas propriétaires et n'ont qu'un droit de jouissance (Conseil constitutionnel, décision n° 2011-118 QPC). Le préfet peut prononcer le transfert des biens à la commune (art. L. 2411-11, L. 2411-12-1, L. 2411-12-2), et la loi de 2013 interdit la création de nouvelles sections.", source: "https://www.conseil-constitutionnel.fr/decision/2011/2011118QPC.htm"}
+  ressources: {valeur: "partiel", note: "Les membres ont la jouissance des biens dont les fruits sont perçus en nature, « à l'exclusion de tout revenu en espèces » ; les terres agricoles ou pastorales sont attribuées par bail ou convention en priorité aux exploitants domiciliés et exploitant sur le territoire de la section (CGCT, art. L. 2411-10, rédaction de 2013).", source: "https://www.senat.fr/leg/tas12-143.html"}
+  consentement: {valeur: "partiel", note: "Quand elle existe, la commission syndicale délibère sur la vente, l'échange, la location de plus de neuf ans, le changement d'usage des biens et les actions en justice (CGCT, art. L. 2411-6) ; elle est consultée sur la délibération du conseil municipal qui demande le transfert des biens à la commune pour un objectif d'intérêt général (art. L. 2411-12-2).", source: "https://www.collectivites-locales.gouv.fr/connaitre-les-acteurs-et-les-institutions/structures-territoriales/les-communes/le-territoire-communal/ladministration-des-sections-de-communes"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Quand une commission syndicale est constituée, le budget de la section est un budget annexe de la commune, que le conseil municipal peut modifier (CGCT, art. L. 2412-1) ; les revenus en espèces y figurent et les membres ne peuvent pas les percevoir (art. L. 2411-10). La section acquitte les taxes foncières sur ses biens (Code général des impôts, art. 1401).", source: "https://www.collectivites-locales.gouv.fr/connaitre-les-acteurs-et-les-institutions/structures-territoriales/les-communes/le-territoire-communal/ladministration-des-sections-de-communes"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le rapport du Sénat de 2012 relève qu'en 2003 seules 200 commissions syndicales étaient connues des services de l'État, pour 26 792 sections recensées en 1999 : dans la plupart des sections, les organes de la commune administrent les biens. Il indique que le tribunal administratif de Clermont-Ferrand traite 40 à 50 dossiers par an sur ces biens. Selon Jean-François Joye, juriste (2021), les affaires des sections échappent de plus en plus à leurs membres.", source: "https://www.senat.fr/rap/l12-013/l12-013.html"}
+chronologie:
+  - {annee: 1999, evenement: "Recensement rapide du ministère de l'Intérieur : 26 792 sections de commune."}
+  - {annee: 2011, evenement: "Décision n° 2011-118 QPC du Conseil constitutionnel : les membres n'ont qu'un droit de jouissance ; le transfert des biens à la commune prévu par l'art. L. 2411-12-1 est conforme à la Constitution."}
+  - {annee: 2012, evenement: "Dépôt au Sénat de la proposition de loi de Jacques Mézard modernisant le régime des sections de commune (25 mai)."}
+  - {annee: 2013, evenement: "Loi n° 2013-428 du 27 mai 2013 : définition des membres par le domicile, seuils de constitution de la commission syndicale, interdiction des revenus en espèces et de la création de nouvelles sections."}
+fiabilite:
+  verifie: ["Définition de la section, rôle de la commission syndicale, seuils de l'art. L. 2411-5, compétences de l'art. L. 2411-6 et fiscalité : fiche de la Direction générale des collectivités locales.", "Rédaction de 2013 des art. L. 2411-1, L. 2411-3, L. 2411-5, L. 2411-10 et L. 2411-12-2 : texte adopté définitivement par le Sénat le 24 mai 2013.", "Nombre de sections en 1999 (26 792), 200 commissions syndicales connues en 2003, répartition des biens (forêts 66,1 %, pâturages 22,7 %, terres cultivées 2,9 %), concentration en Haute-Loire (2 872), Puy-de-Dôme (2 315), Cantal (2 270), Aveyron (1 790) d'après le groupe de travail Lemoine (2003), 40 à 50 dossiers par an au tribunal administratif de Clermont-Ferrand : rapport de Pierre-Yves Collombat au Sénat (2012).", "Résumé du chapitre de Jean-François Joye (2021) lu sur la notice HAL ; le texte intégral n'a pas été ouvert.", "Qualification de la section et des droits des membres : décision n° 2011-118 QPC."]
+  non_confirme: ["Nombre actuel de sections : aucun recensement postérieur à 1999 n'a été trouvé ; les transferts à la commune réduisent ce nombre depuis 2013.", "Surface totale des biens sectionaux : non trouvée ; le rapport du Sénat donne seulement près de 74 000 hectares de forêt sectionale pour la région Auvergne.", "Nombre de membres (population) : aucune source.", "Aucune liste officielle des sections n'a été trouvée : pas de tableau par site.", "Les textes du code ont été lus via le Sénat et la DGCL, Légifrance n'étant pas accessible ; la rédaction en vigueur après 2013 n'a pas été contrôlée."]
+sources:
+  - {titre: "L'administration des sections de communes — Direction générale des collectivités locales", url: "https://www.collectivites-locales.gouv.fr/connaitre-les-acteurs-et-les-institutions/structures-territoriales/les-communes/le-territoire-communal/ladministration-des-sections-de-communes"}
+  - {titre: "Dossier législatif : proposition de loi modernisant le régime des sections de commune — Sénat", url: "https://www.senat.fr/dossier-legislatif/ppl11-564.html"}
+  - {titre: "Rapport de Pierre-Yves Collombat, commission des lois, première lecture (2012) — Sénat", url: "https://www.senat.fr/rap/l12-013/l12-013.html"}
+  - {titre: "Texte adopté définitivement le 24 mai 2013 — Sénat", url: "https://www.senat.fr/leg/tas12-143.html"}
+  - {titre: "Décision n° 2011-118 QPC du 8 avril 2011 — Conseil constitutionnel", url: "https://www.conseil-constitutionnel.fr/decision/2011/2011118QPC.htm"}
+  - {titre: "Jean-François Joye, « Le profil juridique contemporain des communaux (et des sections de commune en particulier) », 2021 — HAL", url: "https://univ-smb.hal.science/hal-03504658v1"}

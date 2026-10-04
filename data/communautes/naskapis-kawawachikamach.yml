@@ -1,0 +1,60 @@
+uid: "naskapis-kawawachikamach"
+nom: "Naskapis de Kawawachikamach"
+endonyme: "Iyiyuch"
+territoire: "Kawawachikamach (près de Schefferville, Québec)"
+etats: ["Canada"]
+region: "ameriques"
+coord: [54.9, -66.8]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 825, annee: 2026, perimetre: "population inscrite de la Nation naskapie de Kawawachikamach au registre fédéral, septembre 2026 (dont 716 sur ses propres terres)", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=081&lang=fra"}
+lieux: {valeur: 1, unite: "terre de catégorie IA-N", annee: 2026, source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNReserves.aspx?BAND_NUMBER=081&lang=fra"}
+surface_km2: {valeur: 49.93, annee: 2026, perimetre: "terre Kawawachikamach n° 06085 (catégorie IA-N) selon la liste fédérale des terres de la Première Nation ; terres de catégorie IB-N et II-N non comptées", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNReserves.aspx?BAND_NUMBER=081&lang=fra"}
+villages: {valeur: 1, annee: 2026, perimetre: "village de Kawawachikamach, « seul village naskapi du Québec »", source: "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/profil-des-nations/naskapis"}
+resume: >-
+  Les Naskapis vivent à Kawawachikamach, à une quinzaine de kilomètres de Schefferville, dans le nord-est du Québec. La Convention du Nord-Est québécois de 1978 leur attribue des terres de catégorie IA-N et des droits exclusifs de chasse, de pêche et de piégeage. La loi fédérale de 1984 (S.C. 1984, ch. 18) fait de la bande une administration locale dotée de la personnalité morale, soustraite à la Loi sur les Indiens, qui administre ses terres. Depuis la loi de 2018 sur la gouvernance crie, ce texte s'intitule Loi sur les Naskapis et la Commission crie-naskapie et ne vise plus les Cris.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Canada, qui avait voté contre la Déclaration en 2007, l'a ensuite appuyée ; la loi fédérale de 2021 (L.C. 2021, ch. 14) en fait une source d'interprétation du droit canadien.", annee: 2021, source: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+base_nationale:
+  - {instrument: "Convention du Nord-Est québécois (1978), traité moderne au sens de l'art. 35 de la Loi constitutionnelle de 1982", nature: "accord_revendication", annee: 1978, source: "https://naskapi.ca/nation/land/"}
+  - {instrument: "Loi sur les Naskapis et la Commission crie-naskapie (S.C. 1984, ch. 18), anciennement Loi sur les Cris et les Naskapis du Québec", nature: "loi", annee: 1984, source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.7/page-1.html"}
+  - {instrument: "Loi sur l'accord concernant la gouvernance de la nation crie d'Eeyou Istchee (L.C. 2018, ch. 4), qui modifie et renomme la loi de 1984", nature: "loi", annee: 2018, source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.75/page-1.html"}
+  - {instrument: "Loi sur le régime des terres dans les territoires de la Baie-James et du Nouveau-Québec (RLRQ, c. R-13.1), art. 7.1 à 7.3 (corporation foncière naskapie)", nature: "loi", annee: 1978, source: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/R-13.1"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "La Nation naskapie de Kawawachikamach est une administration locale dotée de la personnalité morale (art. 14) qui agit par un conseil élu, chef et conseillers (art. 25 à 29, partie II) ; la Loi sur les Indiens ne s'applique à la bande et aux terres de catégorie IA-N que pour déterminer qui est Indien (art. 5), S.C. 1984, ch. 18.", source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.7/page-1.html"}
+  pouvoir_normatif: {valeur: "partiel", note: "La bande prend des règlements administratifs (normes locales) sur ses terres de catégorie IA-N et leurs habitants : administration, santé, ordre public, zonage (art. 45 et 47), chasse, pêche, piégeage et protection de la faune (art. 48) ; ce pouvoir est limité aux matières locales énumérées, S.C. 1984, ch. 18.", source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.7/page-1.html"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le Québec conserve la nue-propriété (propriété sans jouissance) des terres de catégorie IA-N ; la bande en a l'usage et le bénéfice exclusifs avec les droits d'administration, de régie et de contrôle d'un propriétaire (art. 109) ; elle ne peut les céder qu'au Québec (art. 142), qui peut les exproprier pour des ouvrages publics (art. 120), S.C. 1984, ch. 18.", source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.7/page-1.html"}
+  ressources: {valeur: "partiel", note: "La bande a l'usage exclusif des ressources naturelles des terres de catégorie IA-N (art. 109 (2)), la propriété des dépôts de stéatite (art. 110) et le droit exclusif d'exploiter les forêts sous permis provincial (art. 111) ; le Québec conserve les droits miniers et tréfonciers (droits sur le sous-sol), art. 113 (1), S.C. 1984, ch. 18.", source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.7/page-1.html"}
+  consentement: {valeur: "partiel", note: "L'octroi et l'exercice de droits miniers et tréfonciers sur les terres de catégorie IA-N sont subordonnés au consentement de la bande et à son indemnisation, approuvés par les électeurs (art. 113 (2) et (4)) ; ce consentement ne vise pas le prolongement d'un gisement voisin déjà concédé (art. 113 (3)), S.C. 1984, ch. 18.", source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.7/page-1.html"}
+  langue: {valeur: "partiel", note: "Le conseil peut siéger en naskapi (art. 31) et les règlements administratifs peuvent avoir une version naskapie qui fait également foi (art. 32), S.C. 1984, ch. 18 ; le naskapi n'est pas langue officielle du Québec.", source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.7/page-1.html"}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "La bande peut lever des taxes à des fins locales sur les intérêts dans ses terres de catégorie IA-N et sur leurs occupants, sans impôt sur le revenu, sous réserve des règlements fédéraux (art. 45 (1) h) et (4)) ; les biens d'un Indien ou de la bande situés sur ces terres sont exemptés des autres taxes (art. 188), S.C. 1984, ch. 18.", source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.7/page-1.html"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Statut de bénéficiaire naskapi défini par renvoi au chapitre 3 de la Convention du Nord-Est québécois (art. 2) ; droit de résider sur les terres de catégorie IA-N réservé aux membres, à leurs conjoints et à leur famille, sauf autorisation de la bande (art. 101 et 103), S.C. 1984, ch. 18.", source: "https://laws-lois.justice.gc.ca/fra/lois/C-45.7/page-1.html"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le chef et les conseillers sont élus selon le régime électoral de la loi (mandat 2024-2027, Services aux Autochtones Canada) ; la Nation indique négocier avec le Canada un accord d'autonomie gouvernementale pour remplacer un régime qu'elle décrit comme « imposé ».", source: "https://naskapi.ca/nation/governance/"}
+chronologie:
+  - {annee: 1956, evenement: "Les Naskapis s'installent près de Schefferville, aux côtés des Innus de Matimekosh."}
+  - {annee: 1978, evenement: "Signature de la Convention du Nord-Est québécois."}
+  - {annee: 1984, evenement: "Loi sur les Cris et les Naskapis du Québec, en vigueur le 3 juillet ; la bande devient une administration locale dotée de la personnalité morale."}
+  - {annee: 1999, evenement: "La bande prend le nom de Nation naskapie de Kawawachikamach."}
+  - {annee: 2009, evenement: "Entente de partenariat économique et communautaire de 25 ans avec le Québec, signée le 19 octobre."}
+  - {annee: 2018, evenement: "La loi sur la gouvernance crie retire les Cris de la loi de 1984, renommée Loi sur les Naskapis et la Commission crie-naskapie."}
+fiabilite:
+  verifie: ["S.C. 1984, ch. 18, préambule et art. 1, 2, 5, 14, 25 à 32, 45, 47, 48, 101, 103, 109 à 113, 120, 142, 165 et 188, version à jour au 21 septembre 2026 (Justice Canada).", "Population inscrite (825, septembre 2026), terre n° 06085 et conseil élu 2024-2027 (Services aux Autochtones Canada).", "Loi R-13.1, art. 7.1 à 7.3 sur la corporation foncière naskapie (LégisQuébec, consultation indirecte).", "Profil de la nation naskapie (gouvernement du Québec)."]
+  non_confirme: ["Texte de la Convention du Nord-Est québécois non consulté ; superficies des terres de catégorie IB-N et II-N non vérifiées sur une source officielle.", "Chiffres de population divergents : 825 inscrits (fédéral), environ 1 612 Naskapis dont 993 au village (Québec), environ 1 056 membres (Nation).", "Statut de l'école Jimmy Sandy Memorial School et de la police naskapie (partie XVI de la loi abrogée en 2018 et 2026) non vérifiés.", "Aucun document d'un organe de l'ONU nommant les Naskapis n'a été consulté."]
+sources:
+  - {titre: "Loi sur les Naskapis et la Commission crie-naskapie (S.C. 1984, ch. 18) — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/C-45.7/page-1.html"}
+  - {titre: "Loi sur l'accord concernant la gouvernance de la nation crie d'Eeyou Istchee (L.C. 2018, ch. 4) — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/C-45.75/page-1.html"}
+  - {titre: "Loi sur le régime des terres dans les territoires de la Baie-James et du Nouveau-Québec — LégisQuébec", url: "https://www.legisquebec.gouv.qc.ca/fr/document/lc/R-13.1"}
+  - {titre: "Profils des Premières Nations : population inscrite, Nation naskapie de Kawawachikamach — Services aux Autochtones Canada", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=081&lang=fra"}
+  - {titre: "Profils des Premières Nations : terres, Nation naskapie de Kawawachikamach — Services aux Autochtones Canada", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNReserves.aspx?BAND_NUMBER=081&lang=fra"}
+  - {titre: "Profils des Premières Nations : gouvernance, Nation naskapie de Kawawachikamach — Services aux Autochtones Canada", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNGovernance.aspx?BAND_NUMBER=081&lang=fra"}
+  - {titre: "Profil des nations : Naskapis — Gouvernement du Québec", url: "https://www.quebec.ca/gouvernement/portrait-quebec/premieres-nations-inuits/profil-des-nations/naskapis"}
+  - {titre: "Land — Nation naskapie de Kawawachikamach", url: "https://naskapi.ca/nation/land/"}
+  - {titre: "Governance — Nation naskapie de Kawawachikamach", url: "https://naskapi.ca/nation/governance/"}
+  - {titre: "Déclaration des Nations Unies sur les droits des peuples autochtones — ONU DESA", url: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
+  - {titre: "Loi sur la Déclaration des Nations Unies sur les droits des peuples autochtones (L.C. 2021, ch. 14) — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/U-2.2/page-1.html"}

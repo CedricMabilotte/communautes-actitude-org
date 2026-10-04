@@ -8,12 +8,12 @@ coord: [41.8, 1.5]
 type: "minorite_nationale"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: 8210710, annee: 2026, perimetre: "population de la Catalogne (chiffre provisoire de l'Idescat)", source: "https://www.idescat.cat/indicadors/?id=aec&n=15223&lang=es"}
+population: {valeur: 8210710, annee: 2026, perimetre: "population de la Catalogne, Aran compris (chiffre provisoire de l'Idescat)", source: "https://www.idescat.cat/indicadors/?id=aec&n=15223&lang=es"}
 lieux: {valeur: null, unite: "municipis", annee: null, source: ""}
 surface_km2: {valeur: 32108, annee: 2026, perimetre: "Catalogne (32 107,98 km²)", source: "https://www.idescat.cat/pub/?id=inddt&n=396"}
 villages: {valeur: 3796, annee: 2025, perimetre: "entités singulières de population (entitats singulars) habitées au 1er janvier 2025, sur 3 910 recensées au nomenclátor statistique de Catalogne", source: "https://analisi.transparenciacatalunya.cat/Demografia/Nomencl-tor-estad-stic-d-entitats-i-nuclis-de-pobl/tssr-jqsj"}
 resume: >-
-  Le Statut d'autonomie de 2006 (loi organique 6/2006) définit la Catalogne comme une nationalité qui exerce son autogouvernement en Communauté autonome. Le Parlement « représente le peuple de Catalogne » et vote les lois et le budget. Le catalan est langue propre et officielle avec le castillan ; l'aranais (occitan) est officiel en Catalogne et le Val d'Aran a un statut d'entité territoriale singulière. Le Tribunal constitutionnel a réduit la portée de plusieurs articles en 2010 et annulé en 2017 la loi catalane sur le référendum d'autodétermination.
+  Le Statut d'autonomie de 2006 (loi organique 6/2006) définit la Catalogne comme une nationalité qui exerce son autogouvernement en Communauté autonome. Le Parlement « représente le peuple de Catalogne » et vote les lois et le budget. Le catalan est langue propre et officielle avec le castillan ; l'aranais (occitan) est officiel en Catalogne et le Val d'Aran a un statut d'entité territoriale singulière. Le Tribunal constitutionnel a réduit la portée de plusieurs articles en 2010 et annulé en 2017 la loi catalane sur le référendum d'autodétermination. Les Aranais ont leur propre fiche (« Aranais du Val d'Aran »).
 reconnaissance_regionale:
   - {mecanisme: "charte_langues_regionales", detail: "La Charte européenne des langues régionales ou minoritaires couvre le catalan (Catalogne, Baléares, Communauté valencienne) et l'aranais ; rapport du Comité d'experts publié le 24 septembre 2024.", annee: 2024, source: "https://www.coe.int/en/web/european-charter-regional-or-minority-languages/-/spain-s-system-to-protect-regional-and-minority-languages-is-well-developed-but-gaps-persist-in-justice-healthcare-and-public-administration-1"}
 reconnaissance_onu: []

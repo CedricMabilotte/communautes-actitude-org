@@ -1,0 +1,55 @@
+uid: "fundos-fechos-de-pasto-bahia"
+nom: "Communautés de fundo et fecho de pasto (Bahia)"
+endonyme: ""
+territoire: "Terres publiques de l'État de Bahia dans la caatinga et le cerrado (semi-aride)"
+etats: ["Brésil"]
+region: "ameriques"
+coord: [-10.5, -40.5]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 777, unite: "communautés certifiées par la SEPROMI (liste officielle de décembre 2022)", annee: 2022, source: "https://www.ba.gov.br/sepromi/sites/site-sepromi/files/migracao_2024/arquivos/File/comunidadesfundoefechodepastocertificadasok.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les communautés de fundo et fecho de pasto (« fonds » et « enclos » de pâturage) élèvent surtout des chèvres sur des pâturages de caatinga d'usage commun, dans le semi-aride de Bahia. La Constitution de l'État de Bahia de 1989 (art. 178) permet de leur concéder l'usage des terres publiques. La loi de l'État 12.910 du 11 octobre 2013 organise leur certification par le secrétariat à la Promotion de l'égalité raciale (SEPROMI) et la signature, avec leur association, d'un contrat de concession de droit réel d'usage (droit d'usage de longue durée sur une terre qui reste propriété de l'État) de 90 ans, inaliénable. La SEPROMI avait certifié 777 communautés en décembre 2022. Le Tribunal fédéral suprême a annulé en 2023 la date limite du 31 décembre 2018 fixée pour demander cette certification.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution de l'État de Bahia du 5 octobre 1989, art. 178, parágrafo único (concession de droit réel d'usage aux associations dans les zones de fundos de pastos ou fechos)", nature: "constitution", annee: 1989, source: "https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-05-de-outubro-de-1989"}
+  - {instrument: "Loi de l'État de Bahia 12.910 du 11 octobre 2013 sur la régularisation foncière des terres publiques occupées par les communautés de quilombos et de fundos ou fechos de pastos, art. 2 à 7", nature: "loi", annee: 2013, source: "https://www.legislabahia.ba.gov.br/documentos/lei-no-12910-de-11-de-outubro-de-2013"}
+  - {instrument: "Décret fédéral 8.750 du 9 mai 2016 instituant le Conseil national des peuples et communautés traditionnels, art. 4, § 2, XXIV", nature: "loi", annee: 2016, source: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8750.htm"}
+  - {instrument: "Tribunal fédéral suprême, ADI 5.783 (inconstitutionnalité de l'art. 3, § 2, de la loi 12.910)", nature: "jurisprudence", annee: 2023, source: "https://www.migalhas.com.br/quentes/393170/stf-invalida-prazo-para-regularizacao-fundiaria-de-comunidades-na-ba"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi 12.910 de 2013 (art. 3) confie le contrat à une association communautaire composée de tous les occupants réels ; elle ne crée pas d'institution publique propre.", source: "https://www.legislabahia.ba.gov.br/documentos/lei-no-12910-de-11-de-outubro-de-2013"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La loi 12.910 de 2013 (art. 2 et 3) autorise une concession de droit réel d'usage (droit d'usage de longue durée, l'État restant propriétaire) sur les terres publiques occupées collectivement, pour 90 ans renouvelables, inaliénable, insaisissable et imprescriptible ; l'art. 178 de la Constitution de Bahia interdit le transfert de propriété et l'art. 3, § 3, de la loi prévoit la résiliation en cas de détournement d'usage.", source: "https://www.legislabahia.ba.gov.br/documentos/lei-no-12910-de-11-de-outubro-de-2013"}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "La loi 12.910 de 2013 (art. 5) assure aux communautés la participation à toutes les phases de la procédure administrative de régularisation ; aucun consentement n'est requis pour d'autres projets.", source: "https://www.legislabahia.ba.gov.br/documentos/lei-no-12910-de-11-de-outubro-de-2013"}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Le décret fédéral 8.750 de 2016 (art. 4, § 2, XXIV) réserve un siège aux « comunidades de fundos e fechos de pasto » au Conseil national des peuples et communautés traditionnels, organe consultatif.", source: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8750.htm"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La SEPROMI a certifié 777 communautés entre 2014 et 2022, mais le nombre de contrats de concession signés n'est pas publié ; Brasil de Fato (2022) rapporte que des territoires couverts par ces contrats sont occupés par des projets miniers, et le Tribunal fédéral suprême a annulé le 6 septembre 2023 la date limite de 2018 pour demander la certification.", source: "https://www.brasildefato.com.br/2022/03/23/voce-sabe-o-que-sao-as-comunidades-de-fundo-e-fecho-de-pasto/"}
+chronologie:
+  - {annee: 1989, evenement: "La Constitution de l'État de Bahia (art. 178) prévoit la concession de droit réel d'usage aux associations des zones de fundos de pastos ou fechos."}
+  - {annee: 2013, evenement: "La loi de l'État 12.910 du 11 octobre organise la certification et la concession de droit réel d'usage pour 90 ans."}
+  - {annee: 2016, evenement: "Le décret fédéral 8.750 réserve un siège aux communautés de fundos et fechos de pasto au Conseil national des peuples et communautés traditionnels."}
+  - {annee: 2018, evenement: "Expiration, le 31 décembre, du délai fixé par l'art. 3, § 2, de la loi 12.910 pour demander la certification."}
+  - {annee: 2023, evenement: "Le Tribunal fédéral suprême déclare inconstitutionnel ce délai (ADI 5.783, 6 septembre)."}
+fiabilite:
+  verifie: ["Texte de la loi de l'État de Bahia 12.910 de 2013, art. 1 à 12 (portail officiel legislabahia).", "Art. 178, parágrafo único, de la Constitution de l'État de Bahia de 1989.", "Art. 4, § 2, XXIV, du décret fédéral 8.750 de 2016.", "Décision du Tribunal fédéral suprême du 6 septembre 2023 annulant l'art. 3, § 2, de la loi 12.910 (source de presse juridique).", "Liste officielle des communautés certifiées par la SEPROMI (PDF de décembre 2022) : 777 lignes numérotées, certifications publiées de 2014 à 2022, 716 « Fundo de Pasto » et 61 « Fecho de Pasto »."]
+  non_confirme: ["Nombre de contrats de concession de droit réel d'usage effectivement signés.", "Nombre de communautés certifiées après décembre 2022.", "Population : selon la requête du ministère public rapportée par la presse juridique, environ 11 431 familles (données officielles) ou 17 758 familles dans 42 communes (Articulação Estadual de Fundos e Fechos de Pasto) ; une estimation fondée sur des organisations sociales (Gaivizzo et al., 2019) cite plus de 500 communautés, 20 000 familles, 52 communes et environ 1,2 million d'hectares ; Brasil de Fato (2022) cite plus de mille communautés.", "Le Tribunal fédéral suprême s'est appuyé sur l'art. 13 de la Convention 169 de l'OIT ; aucun document de l'OIT ou de l'ONU visant ces communautés n'a été trouvé."]
+sources:
+  - {titre: "Loi de l'État de Bahia 12.910 du 11 octobre 2013 — portail de législation de Bahia", url: "https://www.legislabahia.ba.gov.br/documentos/lei-no-12910-de-11-de-outubro-de-2013"}
+  - {titre: "Constitution de l'État de Bahia de 1989 — portail de législation de Bahia", url: "https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-05-de-outubro-de-1989"}
+  - {titre: "Décret 8.750 de 2016 — Planalto", url: "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8750.htm"}
+  - {titre: "STF invalida prazo para regularização fundiária de comunidades na BA — Migalhas (2023)", url: "https://www.migalhas.com.br/quentes/393170/stf-invalida-prazo-para-regularizacao-fundiaria-de-comunidades-na-ba"}
+  - {titre: "Gaivizzo et al., Resiliência à mudança climática em Comunidades de Fundo de Pasto na região semiárida do Estado da Bahia, Brasil — Sociedade & Natureza, 2019", url: "https://seer.ufu.br/index.php/sociedadenatureza/article/view/46331"}
+  - {titre: "Superintendência de Políticas para Povos e Comunidades Tradicionais — SEPROMI", url: "https://www.ba.gov.br/sepromi/4129/superintendencia-de-politicas-para-povos-e-comunidades-tradicionais"}
+  - {titre: "Comunidades Tradicionais de Fundo e Fecho de Pasto Certificadas pela SEPROMI — liste officielle (2022)", url: "https://www.ba.gov.br/sepromi/sites/site-sepromi/files/migracao_2024/arquivos/File/comunidadesfundoefechodepastocertificadasok.pdf"}
+  - {titre: "Você sabe o que são as Comunidades de Fundo e Fecho de Pasto? — Brasil de Fato (2022)", url: "https://www.brasildefato.com.br/2022/03/23/voce-sabe-o-que-sao-as-comunidades-de-fundo-e-fecho-de-pasto/"}

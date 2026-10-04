@@ -1,0 +1,77 @@
+uid: "accords-decision-dripa-colombie-britannique"
+nom: "Accords de décision conjointe de la Colombie-Britannique"
+endonyme: ""
+territoire: "Zones visées par les accords conclus au titre de l'article 7 de la loi provinciale sur la Déclaration des Nations unies : territoire tahltan (nord-ouest), licence de ferme forestière 37 dans le territoire 'Namgis (nord de l'île de Vancouver), territoire simpcw (nord-est de Kamloops)"
+etats: ["Canada"]
+region: "ameriques"
+coord: [54.0, -125.0]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 4, unite: "accords conclus au titre de l'article 7 (Tahltan Central Government : 2 ; 'Namgis First Nation : 1 ; Simpcw First Nation : 1)", annee: 2026, source: "https://www2.gov.bc.ca/gov/content/governments/indigenous-people/new-relationship/united-nations-declaration-on-the-rights-of-indigenous-peoples/making-decisions-together"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les premières nations qui ont conclu avec la province un accord au titre de l'article 7 de la Declaration on the Rights of Indigenous Peoples Act (SBC 2019, ch. 44), loi qui reprend en annexe la Déclaration des Nations unies sur les droits des peuples autochtones. L'article 7 permet au Conseil des ministres d'autoriser un ministre à conclure avec un corps dirigeant autochtone (Indigenous governing body : entité autorisée à agir au nom d'un peuple titulaire de droits reconnus par l'article 35 de la Loi constitutionnelle de 1982) un accord qui prévoit l'exercice conjoint d'un pouvoir de décision conféré par la loi (statutory power of decision) ou le consentement préalable de ce corps dirigeant avant son exercice. L'accord n'entre en vigueur qu'après publication dans la Gazette de la Colombie-Britannique (journal officiel provincial). À la fin de juillet 2026, quatre accords sont conclus : deux accords de consentement avec le gouvernement central tahltan (mines Eskay Creek, 2022, et Red Chris, 2023), un accord de décision conjointe avec la Première Nation 'Namgis sur la planification forestière (2025) et un accord de consentement avec la Première Nation simpcw pour le projet de mine Yellowhead Copper (2026).
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "dnudpa", detail: "Le Canada a appuyé la Déclaration en 2010 (A/HRC/54/31/Add.2, par. 6) ; la loi de la Colombie-Britannique de 2019 en reproduit le texte en annexe et a pour objet d'en affirmer l'application au droit provincial (art. 2).", annee: 2019, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport du Rapporteur spécial sur les droits des peuples autochtones sur sa visite au Canada (A/HRC/54/31/Add.2, par. 13) : il cite la loi de 2019 de la Colombie-Britannique, antérieure à la loi fédérale, et son plan d'action de mars 2022.", annee: 2023, source: "https://documents.un.org/doc/undoc/gen/g23/139/13/pdf/g2313913.pdf"}
+base_nationale:
+  - {instrument: "Declaration on the Rights of Indigenous Peoples Act (SBC 2019, ch. 44), art. 1, 6 et 7", nature: "loi", annee: 2019, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044"}
+  - {instrument: "Environmental Assessment Act (SBC 2018, ch. 51), art. 7 (consentement requis d'une nation autochtone)", nature: "loi", annee: 2018, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18051"}
+  - {instrument: "Décret 307/2022 : approbation de l'accord Eskay Creek avec le Tahltan Central Government", nature: "accord_revendication", annee: 2022, source: "https://www.bclaws.gov.bc.ca/civix/document/id/oic/oic_cur/0307_2022"}
+  - {instrument: "Décret 600/2023 : approbation de l'accord Red Chris avec le Tahltan Central Government", nature: "accord_revendication", annee: 2023, source: "https://www.bclaws.gov.bc.ca/civix/document/id/oic/oic_cur/0600_2023"}
+  - {instrument: "Décret 596/2025 : approbation de l'accord de décision conjointe avec la Première Nation 'Namgis (Forest and Range Practices Act, art. 2.51 à 2.54)", nature: "accord_revendication", annee: 2025, source: "https://www.bclaws.gov.bc.ca/civix/document/id/oic/oic_cur/0596_2025"}
+  - {instrument: "Required Consent (Simpcw First Nation — Reviewable Mine Projects) Regulation (B.C. Reg. 133/2026)", nature: "loi", annee: 2026, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/133_2026"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La loi de 2019 reconnaît comme partie à l'accord le corps dirigeant autochtone, entité autorisée à agir au nom d'un peuple titulaire de droits de l'article 35 (art. 1(1) et 7(1)) ; chaque première nation désigne ses propres décideurs (accord 'Namgis, art. 6.2) ; l'accord n'existe que si le Conseil des ministres autorise sa négociation (art. 7(1)).", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "L'accord 'Namgis (décret 596/2025) fait exercer conjointement par le ministre des Forêts ou le forestier en chef et la Première Nation 'Namgis les pouvoirs du Forest and Range Practices Act (loi sur les pratiques forestières) relatifs aux plans d'aménagement du paysage forestier et aux plans d'opérations forestières (art. 2.51 à 2.54) dans la zone de l'annexe B de l'accord, qui correspond à la licence de ferme forestière 37 selon le rapport annuel de la province ; les accords tahltans et simpcw portent sur l'autorisation de projets miniers.", source: "https://www.bclaws.gov.bc.ca/civix/document/id/oic/oic_cur/0596_2025"}
+  consentement: {valeur: "partiel", note: "L'article 7(1)(b) de la loi de 2019 permet un accord exigeant le consentement du corps dirigeant autochtone avant une décision provinciale ; l'article 7 de l'Environmental Assessment Act interdit qu'un projet soumis à évaluation se réalise sans ce consentement dans la zone d'un accord prescrit par décret (ex. B.C. Reg. 133/2026 pour la Première Nation simpcw) ; la portée se limite aux projets nommés dans chaque accord et chaque accord dépend d'une autorisation du Conseil des ministres.", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18051"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le gouvernement central tahltan a mené sa propre évaluation et donné son consentement au projet Eskay Creek le 11 janvier 2026 (sous 38 conditions) et au projet Red Chris le 22 mai 2026, après quoi la province a délivré le certificat d'évaluation environnementale d'Eskay Creek et, pour Red Chris, approuvé en juin 2026 une modification du certificat existant (page provinciale « Making Decisions Together ») ; aucune décision prise au titre de l'accord 'Namgis n'a été trouvée ; l'accord simpcw de juillet 2026 n'a pas encore donné lieu à une décision.", source: "https://www.bennettjones.com/Insights/Blogs/2026/09/BC-Signs-DRIPA-Consent-Agreement-Requiring-Simpcw-Consent-for-Yellowhead-Copper-Project"}
+chronologie:
+  - {annee: 2019, evenement: "Sanction de la Declaration on the Rights of Indigenous Peoples Act (28 novembre)."}
+  - {annee: 2021, evenement: "Décret 348/2021 : mandat de négocier les accords Eskay Creek et Red Chris avec le gouvernement central tahltan."}
+  - {annee: 2022, evenement: "Premier accord de consentement au titre de l'article 7 : projet Eskay Creek (décret 307/2022, 6 juin)."}
+  - {annee: 2023, evenement: "Deuxième accord avec le gouvernement central tahltan : mine Red Chris (décret 600/2023, 1er novembre) ; mandat de négocier pour le projet Galore Creek (décret 602/2023)."}
+  - {annee: 2025, evenement: "Abrogation du mandat de négociation avec la Nation shíshálh sur les quais (décret 159/2025) ; mandat de négocier avec le gouvernement national tŝilhqot'in (décret 283/2025) ; accord de décision conjointe avec la Première Nation 'Namgis (décret 596/2025, 15 décembre)."}
+  - {annee: 2025, evenement: "Décembre : la Cour d'appel de la Colombie-Britannique juge, dans l'affaire Gitxaała, que les obligations de la province au titre de la loi (aligner le droit provincial sur la Déclaration des Nations unies) sont juridiquement opposables."}
+  - {annee: 2026, evenement: "Avril : après l'arrêt Gitxaała, le premier ministre renonce à modifier ou suspendre la loi au printemps et renvoie les changements à la session d'automne ; la province, dans son rapport annuel 2025-2026, mentionne des critiques sur le faible nombre d'accords des articles 6 et 7."}
+  - {annee: 2026, evenement: "Consentements tahltans pour Eskay Creek (11 janvier) et Red Chris (22 mai) ; accord de consentement avec la Première Nation simpcw (15 juillet), prescrit par le B.C. Reg. 133/2026 (20 juillet)."}
+  - {annee: 2026, evenement: "Septembre : élections provinciales anticipées convoquées pour le 24 octobre, ce qui réduit ou supprime la session d'automne où la modification de la loi devait être présentée."}
+fiabilite:
+  verifie:
+    - "Articles 1, 2, 6 et 7 de la loi de 2019, version consolidée au 22 septembre 2026 (article 7 non modifié)."
+    - "Article 7 de l'Environmental Assessment Act, version consolidée au 22 septembre 2026."
+    - "Décrets 307/2022 (Eskay Creek, à environ 80 km au nord-ouest de Stewart), 600/2023, 596/2025 et 73/2026 (mandat limité à la négociation) (texte lu) ; texte du B.C. Reg. 133/2026 (accord simpcw daté du 15 juillet 2026)."
+    - "Liste des décrets de l'article 7 sur la page provinciale « Making Decisions Together » (mise à jour du 17 juillet 2026)."
+    - "Paragraphes 6 et 13 du rapport A/HRC/54/31/Add.2."
+    - "Accord 'Namgis limité à la licence de ferme forestière 37 : rapport annuel provincial, action 2.04."
+  non_confirme:
+    - "Dates des consentements tahltans de 2026 lues dans une note de cabinet d'avocats, non dans les décisions tahltanes."
+    - "Date de publication à la Gazette de l'accord simpcw et entrée en vigueur effective de l'accord 'Namgis (au plus tôt le 12 janvier 2026 selon l'accord)."
+    - "Issue de la modification de la loi, retardée par les élections du 24 octobre 2026, et effet sur l'article 7."
+    - "Décret autorisant la conclusion de l'accord simpcw : le décret 73/2026 limite le mandat à la négociation, et l'autorisation de conclure n'a pas été trouvée (seul le décret 349/2026, qui prescrit l'accord, est publié)."
+    - "Population des premières nations parties et surfaces des zones visées : aucun chiffre agrégé trouvé."
+    - "L'accord Galore Creek (mandat de 2023) et l'accord tŝilhqot'in (mandat de 2025) ne figurent pas parmi les accords conclus sur la page provinciale."
+sources:
+  - {titre: "Declaration on the Rights of Indigenous Peoples Act (SBC 2019, ch. 44) — BC Laws", url: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044"}
+  - {titre: "Making Decisions Together — Gouvernement de la Colombie-Britannique", url: "https://www2.gov.bc.ca/gov/content/governments/indigenous-people/new-relationship/united-nations-declaration-on-the-rights-of-indigenous-peoples/making-decisions-together"}
+  - {titre: "Action 2.04, rapport annuel de la Declaration Act — Gouvernement de la Colombie-Britannique", url: "https://declaration.gov.bc.ca/actions/2-04/"}
+  - {titre: "Environmental Assessment Act (SBC 2018, ch. 51) — BC Laws", url: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18051"}
+  - {titre: "Required Consent (Simpcw First Nation — Reviewable Mine Projects) Regulation, B.C. Reg. 133/2026 — BC Laws", url: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/133_2026"}
+  - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones, visite au Canada, A/HRC/54/31/Add.2 (2023)", url: "https://documents.un.org/doc/undoc/gen/g23/139/13/pdf/g2313913.pdf"}
+  - {titre: "British Columbia and Tahltan Nation enter into consent-based decision-making agreement — Osler", url: "https://www.osler.com/en/insights/updates/british-columbia-and-tahltan-nation-enter-into-landmark-consent-based-decision-making-agreement/"}
+  - {titre: "BC Signs DRIPA Agreement Requiring Simpcw Consent for Yellowhead Copper Project — Bennett Jones", url: "https://www.bennettjones.com/Insights/Blogs/2026/09/BC-Signs-DRIPA-Consent-Agreement-Requiring-Simpcw-Consent-for-Yellowhead-Copper-Project"}
+  - {titre: "B.C.'s DRIPA drama, explained — The Narwhal", url: "https://thenarwhal.ca/bc-declaration-act-explainer/"}
+  - {titre: "B.C. snap election — The Narwhal (22 septembre 2026)", url: "https://thenarwhal.ca/bc-snap-election-david-eby/"}

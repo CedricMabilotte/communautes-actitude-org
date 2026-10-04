@@ -1,0 +1,72 @@
+uid: "croates-burgenland"
+nom: "Croates du Burgenland"
+endonyme: "Gradišćanski Hrvati"
+territoire: "Burgenland (communes désignées)"
+etats: ["Autriche"]
+region: "europe"
+coord: [47.6, 16.5]
+type: "minorite_nationale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 35000, annee: null, perimetre: "estimation du Land de Burgenland (« environ 35 000 personnes »), sans année de référence indiquée", source: "https://www.burgenland.at/verwaltung/land-burgenland/die-volksgruppen-des-burgenlandes/"}
+lieux: {valeur: 28, unite: "communes", annee: 2026, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 47, annee: 2026, perimetre: "localités et parties de communes dotées d'une signalisation bilingue allemand-croate (Volksgruppengesetz, annexe 1, I.A)", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+resume: >-
+  Les Croates du Burgenland sont une des six minorités (« Volksgruppen », groupes ethniques) que l'Autriche reconnaît nommément ; le Land estime leur nombre à environ 35 000 personnes.
+  L'article 7 du traité d'État de 1955 leur garantit l'enseignement primaire en croate, l'usage du croate comme langue officielle et une signalisation bilingue dans les districts concernés.
+  Le Volksgruppengesetz (loi sur les groupes ethniques) de 1976 met en œuvre ces garanties dans 28 communes du Burgenland et institue un conseil consultatif auprès de la Chancellerie fédérale.
+  La loi de 1994 sur les écoles des minorités du Burgenland organise l'enseignement en croate et bilingue.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Convention-cadre pour la protection des minorités nationales en vigueur pour l'Autriche depuis le 1er juillet 1998 (BGBl. III n° 120/1998) ; cinquième avis du Comité consultatif adopté le 8 juin 2023, qui cite l'article 7 du traité d'État pour le croate au Burgenland, la loi scolaire des minorités du Burgenland et une émission hebdomadaire de 30 minutes en croate sur l'ORF (radio-télévision publique) au Burgenland.", annee: 2023, source: "https://rm.coe.int/5th-op-austria-fr/1680acfc2f"}
+  - {mecanisme: "charte_langues_regionales", detail: "Charte européenne des langues régionales ou minoritaires ratifiée par l'Autriche le 28 juin 2001 ; le croate du Burgenland relève des parties II et III. Sixième rapport d'évaluation du Comité d'experts, 2026.", annee: 2026, source: "https://rm.coe.int/min-lang-2026-11-6th-ecrml-evaluation-report-on-austria-fr/48802da8d9"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Traité d'État pour le rétablissement d'une Autriche indépendante et démocratique (BGBl. 152/1955), article 7", nature: "traite", annee: 1955, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000265"}
+  - {instrument: "Loi fédérale sur le statut juridique des groupes ethniques en Autriche (Volksgruppengesetz, BGBl. 396/1976), modifiée en dernier lieu par BGBl. I 71/2026", nature: "loi", annee: 1976, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+  - {instrument: "Loi sur les écoles des minorités du Burgenland (Minderheiten-Schulgesetz für das Burgenland, BGBl. 641/1994)", nature: "loi", annee: 1994, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009948"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Le conseil consultatif du groupe ethnique (Volksgruppenbeirat), placé auprès de la Chancellerie fédérale, doit être entendu, dans un délai approprié, avant l'adoption de textes et de planifications générales de subventions qui touchent les intérêts du groupe, Volksgruppengesetz, § 3 al. 1 ; il rend un avis, sans droit de veto ; ses membres sont nommés par le gouvernement fédéral, § 4.", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+  langue: {valeur: "reconnu", note: "Le croate est langue officielle à côté de l'allemand dans les districts concernés, traité d'État de 1955, art. 7 § 3 ; il l'est auprès des autorités de 27 communes, de six tribunaux de district et de six administrations de district, Volksgruppengesetz, § 13 et annexe 2 ; signalisation bilingue dans 28 communes, § 12 et annexe 1 (disposition constitutionnelle).", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+  education: {valeur: "partiel", note: "Droit à l'enseignement en croate ou à l'apprentissage du croate dans les écoles désignées, loi de 1994 sur les écoles des minorités du Burgenland, § 1 (disposition constitutionnelle) ; écoles primaires en croate ou bilingues, § 3 ; les parents peuvent refuser l'enseignement en croate, § 1 al. 2 ; écoles publiques sans gestion propre.", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009948"}
+  fiscalite: {valeur: "partiel", note: "L'État fédéral doit financer les mesures de maintien des groupes ethniques et inscrire un montant à son budget annuel, Volksgruppengesetz, § 8 ; le conseil consultatif propose chaque année l'usage des fonds, § 10 ; aucun pouvoir fiscal.", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité d'experts de la Charte constate en 2026 que le croate du Burgenland n'est pas employé dans la pratique devant les tribunaux et que seules cinq des 28 communes qu'il compte comme communes où le croate est langue officielle publient des informations dans les deux langues ; il relève un manque d'enseignants au niveau préscolaire.", source: "https://rm.coe.int/min-lang-2026-11-6th-ecrml-evaluation-report-on-austria-fr/48802da8d9"}
+chronologie:
+  - {annee: 1955, evenement: "Le traité d'État (art. 7) garantit des droits aux minorités croate et slovène de Carinthie, du Burgenland et de Styrie."}
+  - {annee: 1976, evenement: "Adoption du Volksgruppengesetz (loi sur les groupes ethniques)."}
+  - {annee: 1994, evenement: "Loi sur les écoles des minorités du Burgenland."}
+  - {annee: 1998, evenement: "Entrée en vigueur de la Convention-cadre pour la protection des minorités nationales pour l'Autriche."}
+  - {annee: 2001, evenement: "Ratification de la Charte européenne des langues régionales ou minoritaires ; le croate du Burgenland relève de la partie III."}
+  - {annee: 2011, evenement: "Modification du Volksgruppengesetz (BGBl. I 46/2011) ; les listes de communes à signalisation bilingue et à langue officielle figurent dans ses annexes."}
+  - {annee: 2026, evenement: "Modification du Volksgruppengesetz (BGBl. I 71/2026) : une disposition constitutionnelle nomme les six groupes ethniques reconnus, dont le groupe croate."}
+fiabilite:
+  verifie:
+    - "Texte de l'article 7 du traité d'État de 1955 (RIS)."
+    - "Volksgruppengesetz en vigueur : § 1 al. 1 (groupe croate nommé), § 3 (conseil consultatif), § 8 (financement), § 12 et § 13, annexe 1 (28 communes, 47 localités) et annexe 2 (27 communes, six tribunaux et six administrations de district) (RIS)."
+    - "Loi de 1994 sur les écoles des minorités du Burgenland, § 1 et § 3 (RIS)."
+    - "Estimation d'environ 35 000 personnes publiée par le Land de Burgenland."
+    - "Insertion des annexes 1 et 2 du Volksgruppengesetz par BGBl. I 46/2011, § 24 al. 7 (RIS)."
+    - "Ratification de la Convention-cadre le 31 mars 1998, entrée en vigueur pour l'Autriche le 1er juillet 1998 (RIS, BGBl. III n° 120/1998)."
+    - "Sixième rapport d'évaluation de la Charte (adopté le 10 juin 2026) : croate du Burgenland non employé devant les tribunaux, cinq communes sur 28 avec informations bilingues, manque d'enseignants au préscolaire."
+  non_confirme:
+    - "Le chiffre de 35 000 n'a pas d'année de référence ; le recensement de 2001 comptait 19 374 locuteurs du croate du Burgenland dans le Land et 2 456 à Vienne, selon Minority Rights Group."
+    - "Le Comité d'experts de la Charte parle de 28 communes où le croate est langue officielle ; l'annexe 2 du Volksgruppengesetz en compte 27 (les 28 communes de l'annexe 1 moins Markt Neuhodis)."
+    - "Surface des communes concernées non trouvée."
+sources:
+  - {titre: "Volksgruppengesetz, version en vigueur — RIS (Autriche)", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
+  - {titre: "Traité d'État de 1955 — RIS (Autriche)", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000265"}
+  - {titre: "Minderheiten-Schulgesetz für das Burgenland — RIS (Autriche)", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009948"}
+  - {titre: "Die Volksgruppen des Burgenlandes — Land Burgenland", url: "https://www.burgenland.at/verwaltung/land-burgenland/die-volksgruppen-des-burgenlandes/"}
+  - {titre: "Volksgruppen — Parlement autrichien", url: "https://www.parlament.gv.at/verstehen/demokratie-wahlen/volksgruppen"}
+  - {titre: "Rahmenübereinkommen zum Schutz nationaler Minderheiten, BGBl. III n° 120/1998 — RIS (Autriche)", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10006067"}
+  - {titre: "Cinquième avis sur l'Autriche, Comité consultatif de la Convention-cadre — Conseil de l'Europe", url: "https://rm.coe.int/5th-op-austria-fr/1680acfc2f"}
+  - {titre: "Sixième rapport d'évaluation sur l'Autriche, Charte européenne des langues régionales ou minoritaires — Conseil de l'Europe", url: "https://rm.coe.int/min-lang-2026-11-6th-ecrml-evaluation-report-on-austria-fr/48802da8d9"}
+  - {titre: "Croats of Burgenland — Minority Rights Group", url: "https://minorityrights.org/communities/croats-of-burgenland/"}

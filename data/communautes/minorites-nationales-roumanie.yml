@@ -1,0 +1,64 @@
+uid: "minorites-nationales-roumanie"
+nom: "Minorités nationales de Roumanie"
+endonyme: ""
+territoire: "Roumanie (ensemble du territoire)"
+etats: ["Roumanie"]
+region: "europe"
+coord: [45.9, 25.0]
+type: "minorite_nationale"
+base: "personnelle"
+types_secondaires: []
+population: {valeur: 696714, annee: 2021, perimetre: "somme des six minorités les plus nombreuses après les Hongrois au recensement de 2021 (chiffres provisoires de décembre 2022) : Roms (569 477), Ukrainiens (45 835), Allemands (22 907), Turcs (20 945), Russes lipovènes (19 394), Tatars (18 156) ; Hongrois (1 002 151) exclus, fiche propre ; les treize autres minorités ne sont pas comptées", source: "https://rm.coe.int/5th-op-romania-fr/1680ac3918"}
+lieux: {valeur: 18, unite: "sièges de députés réservés aux organisations des minorités nationales (législature élue en 2020)", annee: 2020, source: "https://odihr.osce.org/sites/default/files/f/documents/3/3/484562.pdf"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution roumaine de 1991, révisée en 2003, garantit aux membres des minorités nationales le droit de préserver leur identité (art. 6) et d'être instruits dans leur langue maternelle (art. 32). Son article 62 attribue un siège de député à l'organisation de chaque minorité qui n'atteint pas le seuil électoral ; la loi électorale de 2015 fixe ce seuil spécial à 5 % du nombre moyen de voix nécessaire pour un mandat. Vingt minorités sont reconnues par leur présence au Conseil des minorités nationales, organe consultatif du gouvernement ; l'appartenance au Conseil, le statut de minorité et l'accès aux sièges réservés sont liés. En 2020, 18 sièges étaient pourvus ainsi : la minorité hongroise est représentée par un parti qui franchit le seuil ordinaire, et les Slovaques et les Tchèques présentent une organisation commune. Là où une minorité dépasse 20 % des habitants d'une commune, sa langue peut être employée devant l'administration locale (Code administratif de 2019, art. 94). Les Hongrois ont leur propre fiche (« Hongrois de Roumanie »).
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Convention-cadre pour la protection des minorités nationales ratifiée le 11 mai 1995, en vigueur le 1er février 1998 ; cinquième avis du Comité consultatif adopté le 3 avril 2023 : il relève la faible représentation des Roms au Parlement, les défaillances de la procédure d'inscription des associations aux élections et les risques que le seuil de 20 % fait peser sur les droits linguistiques après le recensement.", annee: 2023, source: "https://rm.coe.int/5th-op-romania-fr/1680ac3918"}
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale (CERD/C/ROU/CO/16-19), § 9 et 19 : le Comité demande à être informé du sort du projet de loi sur les minorités nationales ; il relève que les personnes appartenant aux minorités nationales, en particulier les Roms, ne peuvent pas toujours s'exprimer dans leur langue à tous les stades de la procédure faute d'interprètes, et recommande d'appliquer la loi n° 304/2004 sur l'organisation judiciaire, qui leur reconnaît le droit de s'exprimer dans leur langue maternelle devant les tribunaux.", annee: 2010, source: "https://documents.un.org/api/symbol/access?s=CERD/C/ROU/CO/16-19&l=en&t=pdf"}
+base_nationale:
+  - {instrument: "Constitution de la Roumanie (1991, révisée en 2003), art. 6, 32 al. 3, 62 al. 2, 120 al. 2 et 128", nature: "constitution", annee: 2003, source: "https://www.constituteproject.org/constitution/Romania_2003"}
+  - {instrument: "Loi n° 208/2015 sur l'élection du Sénat et de la Chambre des députés (sièges des organisations des minorités nationales, seuil spécial de 5 % du nombre moyen de voix par mandat)", nature: "loi", annee: 2015, source: "https://odihr.osce.org/sites/default/files/f/documents/3/3/484562.pdf"}
+  - {instrument: "Code administratif (ordonnance d'urgence n° 57/2019), art. 94 : usage de la langue maternelle devant l'administration locale là où une minorité dépasse 20 % des habitants", nature: "loi", annee: 2019, source: "https://rm.coe.int/6th-sr-romania-en/1680b4d5c4"}
+  - {instrument: "Loi n° 304/2004 sur l'organisation judiciaire (usage de la langue maternelle devant les tribunaux)", nature: "loi", annee: 2004, source: "https://documents.un.org/api/symbol/access?s=CERD/C/ROU/CO/16-19&l=en&t=pdf"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "partiel", note: "Le roumain est la seule langue officielle (Constitution, art. 13). L'article 120 al. 2 (révision de 2003) prévoit l'usage oral et écrit de la langue d'une minorité devant l'administration locale là où elle est « significative » ; le Code administratif de 2019 (art. 94) fixe ce seuil à plus de 20 % des habitants au dernier recensement. L'article 128 garantit l'usage de la langue maternelle devant les tribunaux.", source: "https://www.constituteproject.org/constitution/Romania_2003"}
+  education: {valeur: "partiel", note: "Constitution, art. 32 al. 3 : le droit d'apprendre sa langue maternelle et d'être instruit dans cette langue est garanti, selon des modalités fixées par la loi ; le Comité consultatif de la Convention-cadre relève en 2023 un enseignement dans 12 langues minoritaires, avec un manque d'enseignants pour plusieurs d'entre elles.", source: "https://rm.coe.int/5th-op-romania-fr/1680ac3918"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Constitution, art. 62 al. 2 : les organisations des citoyens appartenant aux minorités nationales qui n'obtiennent pas le nombre de voix requis ont droit chacune à un siège de député ; la loi n° 208/2015 fixe le seuil spécial à 5 % du nombre moyen de voix nécessaire pour un mandat (moins de 800 voix en 2020) ; 18 sièges pourvus en 2020.", source: "https://odihr.osce.org/sites/default/files/f/documents/3/3/484562.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Aux élections de 2020, toutes les organisations membres du Conseil ont atteint le seuil spécial et conservé leur siège. Selon l'OSCE/BIDDH (2021), l'appartenance au Conseil des minorités nationales, le statut de minorité et l'accès aux sièges sont liés : les organisations absentes du Conseil doivent remplir six conditions et réunir des signatures égales à 15 % de leur minorité, conditions en partie contraires aux engagements de l'OSCE ; en 2016 les Tatars ont perdu leur siège, leur place au Conseil et leur statut, retrouvés en 2020. Le Comité consultatif de la Convention-cadre (2023) relève la faible représentation des Roms et l'absence de garantie de maintien des droits linguistiques sous le seuil de 20 % ; les autorités y présentent les droits des minorités comme des droits individuels.", source: "https://rm.coe.int/5th-op-romania-fr/1680ac3918"}
+chronologie:
+  - {annee: 1991, evenement: "Adoption de la Constitution : droit à l'identité (art. 6) et siège de député pour l'organisation de chaque minorité qui n'atteint pas le seuil électoral."}
+  - {annee: 1993, evenement: "Création du Conseil des minorités nationales, organe consultatif du gouvernement."}
+  - {annee: 1995, evenement: "La Roumanie ratifie la Convention-cadre pour la protection des minorités nationales (en vigueur le 1er février 1998)."}
+  - {annee: 2003, evenement: "Révision constitutionnelle : usage des langues minoritaires devant l'administration locale (art. 120 al. 2) et devant les tribunaux (art. 128)."}
+  - {annee: 2010, evenement: "Observations finales du CERD sur la Roumanie ; le projet de loi sur le statut des minorités nationales est toujours en examen au Parlement."}
+  - {annee: 2015, evenement: "Loi n° 208/2015 sur l'élection du Parlement, qui reprend le seuil spécial des organisations des minorités."}
+  - {annee: 2016, evenement: "Les listes de l'organisation tatare sont rejetées ; les Tatars perdent leur siège et leur place au Conseil."}
+  - {annee: 2019, evenement: "Code administratif : seuil de 20 % pour l'usage des langues minoritaires devant l'administration locale (art. 94)."}
+  - {annee: 2020, evenement: "Élections législatives : 57 candidats pour 18 sièges réservés ; les Tatars retrouvent leur siège et leur place au Conseil."}
+  - {annee: 2021, evenement: "Recensement : 1 002 151 Hongrois et 569 477 Roms (chiffres provisoires)."}
+  - {annee: 2023, evenement: "Cinquième avis du Comité consultatif de la Convention-cadre sur la Roumanie."}
+  - {annee: 2025, evenement: "La Roumanie remet son sixième rapport au titre de la Convention-cadre (18 mars)."}
+fiabilite:
+  verifie: ["Constitution, art. 6, 13, 32 al. 3, 62 al. 2, 120 al. 2 et 128 (Constitute Project).", "Rapport final de l'OSCE/BIDDH sur les élections du 6 décembre 2020 : 18 sièges, 57 candidats, seuil de 5 % du nombre moyen de voix, liste des vingt minorités du Conseil, cas des Tatars en 2016 et 2020 ; l'annexe des résultats montre une Union démocratique des Slovaques et des Tchèques de Roumanie commune aux deux minorités, ce qui, avec la minorité hongroise, explique l'écart entre vingt minorités et 18 sièges.", "Sixième rapport de l'État (2025) : Code administratif, art. 94 (seuil de 20 %), 195 et 604 ; l'art. 604 maintient les droits linguistiques jusqu'au recensement suivant quand la proportion passe sous 20 %.", "CERD/C/ROU/CO/16-19 (13 septembre 2010), § 9 et 19.", "Ratification de la Convention-cadre le 11 mai 1995, entrée en vigueur le 1er février 1998, cinquième avis adopté le 3 avril 2023, sixième rapport reçu le 18 mars 2025 (Conseil de l'Europe).", "Cinquième avis du Comité consultatif : vingt minorités au Conseil, enseignement dans 12 langues, seuil de 20 %, chiffres provisoires du recensement."]
+  non_confirme: ["Texte de la loi n° 208/2015 et de l'article 94 du Code administratif non consulté directement ; leur contenu est tiré de l'OSCE/BIDDH et du sixième rapport de l'État au Conseil de l'Europe.", "Nombre de sièges réservés dans la législature élue en décembre 2024 non vérifié.", "Numéro de la loi électorale (208/2015) non lu sur le texte : l'OSCE/BIDDH cite la « loi de 2015 pour l'élection du Sénat et de la Chambre des députés ».", "Date de création du Conseil des minorités nationales (1993) tirée de Minority Rights Group seulement.", "Chiffres définitifs du recensement de 2021 et effectif total des vingt minorités non vérifiés sur le site de l'Institut national de la statistique.", "Ratification de la Charte européenne des langues régionales ou minoritaires mentionnée par le CERD en 2010, date et langues couvertes non vérifiées.", "Nombre de communes où une minorité dépasse le seuil de 20 % non trouvé."]
+sources:
+  - {titre: "Constitution de la Roumanie (1991, révisée en 2003) — Constitute Project", url: "https://www.constituteproject.org/constitution/Romania_2003"}
+  - {titre: "Romania, Parliamentary Elections, 6 December 2020 : Final Report — OSCE/BIDDH", url: "https://odihr.osce.org/sites/default/files/f/documents/3/3/484562.pdf"}
+  - {titre: "Romania, Presidential and Parliamentary Elections 2024 : Needs Assessment Mission Report — OSCE/BIDDH", url: "https://odihr.osce.org/sites/default/files/f/documents/d/9/576663.pdf"}
+  - {titre: "CERD/C/ROU/CO/16-19 (2010) — Nations unies", url: "https://documents.un.org/api/symbol/access?s=CERD/C/ROU/CO/16-19&l=en&t=pdf"}
+  - {titre: "Cinquième avis sur la Roumanie — Comité consultatif de la Convention-cadre (2023)", url: "https://rm.coe.int/5th-op-romania-fr/1680ac3918"}
+  - {titre: "Sixth State Report submitted by Romania — Conseil de l'Europe (2025)", url: "https://rm.coe.int/6th-sr-romania-en/1680b4d5c4"}
+  - {titre: "Romania — Conseil de l'Europe, minorités nationales", url: "https://www.coe.int/en/web/minorities/romania"}
+  - {titre: "Romania — Minority Rights Group", url: "https://minorityrights.org/country/romania/"}

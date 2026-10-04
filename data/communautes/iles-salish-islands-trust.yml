@@ -1,0 +1,60 @@
+uid: "iles-salish-islands-trust"
+nom: "Îles de la mer des Salish (Islands Trust)"
+endonyme: ""
+territoire: "Îles du sud du détroit de Géorgie, de Howe Sound et du détroit de Haro, entre l'île de Vancouver et le continent (Colombie-Britannique)"
+etats: ["Canada"]
+region: "ameriques"
+coord: [48.9, -123.4]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: ["communaute_locale"]
+population: {valeur: 30510, annee: 2021, perimetre: "population totale de la zone du Trust au recensement de 2021 (profil établi par l'Islands Trust à partir des données de Statistique Canada) ; les propriétaires non résidents ne sont pas comptés", source: "https://islandstrust.bc.ca/document/islands-trust-area-census-profile-2021/"}
+lieux: {valeur: 13, unite: "12 zones de fiducie locales (local trust areas) nommées à l'annexe B de la loi, plus la municipalité de Bowen Island ; les îles hors de ces zones relèvent du comité exécutif", annee: 2026, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96239_01"}
+surface_km2: {valeur: 5200, annee: 2026, perimetre: "superficie de la zone du Trust donnée par sa page de présentation non datée (13 îles principales et 450 îles plus petites), sans répartition entre terres et eaux ; l'annexe A de la loi définit la zone par les terres des îles", source: "https://islandstrust.bc.ca/about-us/overview-of-islands-trust/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  L'Islands Trust est un organe de gouvernement local à objet spécial (special purpose government) créé en 1974 par la Colombie-Britannique pour les îles situées entre l'île de Vancouver et le continent. Sa loi (Islands Trust Act, RSBC 1996, ch. 239) lui donne pour objet de « préserver et protéger » la zone, ses agréments et son environnement, au bénéfice de ses résidents et de la province. Dans chacune des 12 zones de fiducie locales, les électeurs élisent 2 administrateurs (trustees) qui forment, avec un membre du comité exécutif, un comité local chargé de l'aménagement du territoire à la place du district régional. Le conseil du Trust réunit ces 24 élus et 2 représentants de la municipalité de Bowen Island ; les réserves au sens de la Loi sur les Indiens et, si le traité le prévoit, les terres des Premières Nations signataires de traités sont exclues de la zone.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Islands Trust Act (RSBC 1996, ch. 239), loi de Colombie-Britannique adoptée en 1974, modifiée notamment en 1977, 1989, 2000, 2002 et 2021", nature: "loi", annee: 1974, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96239_01"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque zone de fiducie locale élit 2 administrateurs (art. 6) qui siègent au comité local avec un membre du comité exécutif nommé par la présidence du conseil (art. 23) ; le district régional ne peut ni exercer ces compétences ni adopter un règlement contraire à ceux du comité local (art. 35-36) ; le conseil peut toutefois recevoir des instructions du ministre ou du lieutenant-gouverneur en conseil (art. 8(1)(f)), et l'inspecteur des municipalités peut ouvrir une enquête (art. 51).", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96239_01"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les comités locaux ont les pouvoirs d'un district régional en matière d'aménagement, de zonage et de lotissement (Islands Trust Act, art. 29) ; leurs règlements n'ont d'effet qu'après approbation du comité exécutif ou du conseil du Trust, doivent respecter la déclaration de politique du Trust (trust policy statement, art. 15), et ceux qui adoptent ou modifient un plan d'urbanisme (official community plan) exigent l'approbation du ministre (art. 27), comme certains règlements de zonage (art. 56) ; le Trust doit aussi approuver les règlements d'urbanisme de la municipalité de Bowen Island (art. 38).", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96239_01"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Les comités locaux exercent les pouvoirs du district régional sur l'extraction et le dépôt de sable, de gravier et de terre (Islands Trust Act, art. 29(1)(a)(ii)) ; l'Islands Trust Conservancy (organe de conservation du Trust) peut acquérir et détenir des terres pour l'objet du Trust (art. 41) ; la loi ne confère pas d'autre compétence sur les ressources naturelles.", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96239_01"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le conseil adopte chaque année un budget par règlement, soumis à l'approbation du ministre (art. 14) ; les coûts sont recouvrés par un impôt foncier (property value tax, impôt sur la valeur des biens) que le ministre des Finances ou la municipalité de Bowen Island prélève dans la zone du Trust sur réquisition du ministre (art. 47-49) ; dans les zones qu'il désigne par règlement avec le consentement du district régional, le conseil peut accorder des exonérations d'impôt foncier aux terrains grevés d'un engagement de protection (covenant, art. 219 du Land Title Act) en faveur d'un organe du Trust (art. 49.1-49.8) ; les comités locaux ne peuvent pas emprunter (art. 24(3)).", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96239_01"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Le conseil, le comité exécutif et les comités locaux du Trust siègent et exercent leurs compétences ; par une lettre datée du 28 avril 2025, le ministre du Logement et des Affaires municipales a refusé la révision du mandat et de la gouvernance demandée par le conseil en octobre 2024, en rappelant que l'aménagement du territoire pour « préserver et protéger » la zone est la responsabilité centrale du Trust (Gulf Islands Driftwood, 21 mai 2025).", source: "https://gulfislandsdriftwood.com/province-turns-down-trust-review-request-again/"}
+chronologie:
+  - {annee: 1974, evenement: "La Colombie-Britannique crée l'Islands Trust par l'Islands Trust Act."}
+  - {annee: 1977, evenement: "La loi confie au Trust la compétence d'aménagement du territoire."}
+  - {annee: 1987, evenement: "Création du fonds du Trust, habilité à recevoir des dons de terres et d'argent."}
+  - {annee: 1989, evenement: "Création du conseil du fonds, obligation d'adopter une déclaration de politique, outils de protection du patrimoine."}
+  - {annee: 1994, evenement: "Le conseil du Trust adopte sa déclaration de politique."}
+  - {annee: 2000, evenement: "La loi permet des accords de protocole avec les Premières Nations."}
+  - {annee: 2002, evenement: "Programme d'exonération fiscale pour la protection des espaces naturels."}
+  - {annee: 2018, evenement: "Le conseil du fonds (Trust Fund Board) prend le nom d'Islands Trust Conservancy."}
+  - {annee: 2019, evenement: "Le conseil adopte une déclaration de réconciliation et déclare l'urgence climatique."}
+  - {annee: 2021, evenement: "Modification de l'article 3 : les Premières Nations sont ajoutées aux partenaires de coopération du Trust."}
+  - {annee: 2022, evenement: "Le conseil demande une révision provinciale du mandat, de la gouvernance et de la structure du Trust ; la province ne donne pas suite."}
+  - {annee: 2023, evenement: "Le conseil publie une déclaration sur la portée de l'article 3 de la loi (objet du Trust)."}
+  - {annee: 2025, evenement: "Le ministre refuse la révision demandée en octobre 2024 ; le conseil débat en séance publique de sa déclaration de 2023 ; un avis juridique sur l'article 3, dont il avait décidé la publication en décembre 2024, est rendu public."}
+fiabilite:
+  verifie: ["Objet du Trust (art. 3), organisation (art. 4), élection de 2 administrateurs par zone (art. 6), 2 administrateurs municipaux (art. 7), composition des comités locaux (art. 23), approbation des règlements (art. 15, 16, 22, 27, 38, 56), pouvoirs d'aménagement (art. 29), primauté sur les districts régionaux (art. 35-36), budget et impôt foncier (art. 14, 47-49), pouvoirs réglementaires du gouvernement (art. 53-54), annexes A et B : texte consolidé à jour au 22 septembre 2026 sur BC Laws.", "Surface de 5 200 km², 13 îles principales et 450 îles plus petites : page de présentation de l'Islands Trust.", "Population de 30 510 habitants en 2021 : profil de recensement de la zone du Trust publié par l'Islands Trust.", "Étapes 1974 à 2021 : chronologie publiée par l'Islands Trust.", "Déclaration du conseil sur l'article 3 (septembre 2023, débattue en séance publique le 6 mai 2025) : site de l'Islands Trust.", "Refus ministériel (lettre du 28 avril 2025) et refus antérieur de la demande de 2022 : article de presse du Gulf Islands Driftwood (21 mai 2025)."]
+  non_confirme: ["Lettre du ministre du 28 avril 2025 : connue par la presse locale, texte non consulté.", "Surface : chiffre arrondi par le Trust, sans année de référence.", "Aucun document de l'ONU ou d'un mécanisme régional visant ce régime n'a été trouvé.", "Le sujet collectif est l'ensemble des électeurs des zones de fiducie locales ; la loi ne leur attribue ni statut personnel ni propriété collective des terres."]
+sources:
+  - {titre: "Islands Trust Act, RSBC 1996, ch. 239 — BC Laws", url: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96239_01"}
+  - {titre: "Islands Trust, Overview of Islands Trust", url: "https://islandstrust.bc.ca/about-us/overview-of-islands-trust/"}
+  - {titre: "Islands Trust, Islands Trust Act", url: "https://islandstrust.bc.ca/about-us/islands-trust-act/"}
+  - {titre: "Islands Trust, Islands Trust Timeline", url: "https://islandstrust.bc.ca/about-us/islands-trust-timeline/"}
+  - {titre: "Islands Trust, Council Statement on the Scope and Meaning of Section 3 of the Islands Trust Act (2025)", url: "https://islandstrust.bc.ca/islands-trust-council-statement-on-the-scope-and-meaning-of-section-3-of-the-islands-trust-act-object-clause/"}
+  - {titre: "Gulf Islands Driftwood, Trust Council chair makes Islands Trust review request (15 juillet 2022)", url: "https://gulfislandsdriftwood.com/trust-council-chair-makes-islands-trust-review-request/"}
+  - {titre: "Gulf Islands Driftwood, Province turns down Trust review request – again (21 mai 2025)", url: "https://gulfislandsdriftwood.com/province-turns-down-trust-review-request-again/"}
+  - {titre: "Islands Trust, Islands Trust Area 2021 Census Profile", url: "https://islandstrust.bc.ca/document/islands-trust-area-census-profile-2021/"}

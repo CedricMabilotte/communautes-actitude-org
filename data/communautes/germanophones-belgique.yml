@@ -13,7 +13,7 @@ lieux: {valeur: 9, unite: "communes", annee: 2024, source: "https://www.coe.int/
 surface_km2: {valeur: 854, annee: 2024, perimetre: "région de langue allemande", source: "https://www.coe.int/fr/web/portal/belgianchairmanship-germanspeakingcommunity"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
-  La Constitution belge compte trois communautés, dont la Communauté germanophone (art. 2), et quatre régions linguistiques, dont la région de langue allemande (art. 4). La Communauté a un parlement et un gouvernement propres. Son parlement adopte des décrets (lois fédérées) en matière culturelle, d'enseignement, de matières personnalisables (santé, aide sociale, famille) et d'emploi des langues dans l'enseignement (art. 130). Elle exerce aussi des compétences transférées par la Région wallonne (art. 139).
+  La Constitution belge compte trois communautés, dont la Communauté germanophone (art. 2), et quatre régions linguistiques, dont la région de langue allemande (art. 4). La Communauté a un parlement et un gouvernement propres. Son parlement adopte des décrets (lois fédérées) en matière culturelle, d'enseignement, de matières personnalisables (santé, aide sociale, famille) et d'emploi des langues dans l'enseignement (art. 130). Elle exerce aussi des compétences transférées par la Région wallonne (art. 139). Les communautés flamande et française ont leur propre fiche (« Flamands », « Francophones de Belgique »).
 reconnaissance_regionale: []
 reconnaissance_onu: []
 base_nationale:

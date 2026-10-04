@@ -433,7 +433,7 @@ cas:
       - {titre: "Cour suprême de Norvège, HR-2021-1975-S (Fosen)", url: "https://www.domstol.no/en/supremecourt/rulings/2021/supreme-court-civil-cases/hr-2021-1975-s/"}
 
   - id: "montes-vecinales-galice"
-    atlas_uid: "galiciens-galice"
+    atlas_uid: "montes-vecinales-mano-comun-espagne"
     communaute: "Communautés de voisins (comuneiros) de Galice"
     etats: ["Espagne"]
     entite: "Montes vecinales en mano común"
@@ -452,7 +452,7 @@ cas:
       - {titre: "BOE — Statut d'autonomie de la Galice", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1981-9564"}
 
   - id: "regole-ampezzo"
-    atlas_uid: ""
+    atlas_uid: "regole-venetie"
     communaute: "Regolieri d'Ampezzo et domaines collectifs italiens"
     etats: ["Italie"]
     entite: "Bois et pâturages des Regole d'Ampezzo (Cortina) ; domaines collectifs"
@@ -472,7 +472,7 @@ cas:
       - {titre: "Conseil régional de Calabre — texte de la loi 168/2017", url: "https://www.consiglioregionale.calabria.it/upload/istruttoria/legge%20168%20del%202017.pdf"}
 
   - id: "ecosse-crofting-rachat"
-    atlas_uid: "ecossais-ecosse"
+    atlas_uid: "terres-communautaires-ecosse"
     communaute: "Communautés locales et communautés de crofters d'Écosse"
     etats: ["Royaume-Uni"]
     entite: "Terres acquises par les communautés ; terres de croft et pâturages communs"
@@ -491,7 +491,7 @@ cas:
       - {titre: "Gouvernement écossais — Community ownership in Scotland 2023", url: "https://www.gov.scot/publications/community-ownership-in-scotland-2023/"}
 
   - id: "sections-de-commune-france"
-    atlas_uid: ""
+    atlas_uid: "sections-de-commune-france"
     communaute: "Membres des sections de commune"
     etats: ["France"]
     entite: "Biens sectionaux"

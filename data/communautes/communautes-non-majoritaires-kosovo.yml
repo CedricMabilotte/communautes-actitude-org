@@ -1,0 +1,57 @@
+uid: "communautes-non-majoritaires-kosovo"
+nom: "Communautés non majoritaires du Kosovo"
+endonyme: ""
+territoire: "Kosovo entier ; présence plus forte dans les communes de Prizren, Mamusha, Dragash, Peja, Gjakova et Fushë Kosovë"
+etats: ["Kosovo"]
+region: "europe"
+coord: [42.6, 20.9]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 90918, annee: 2024, perimetre: "somme des personnes déclarant l'une des six appartenances au recensement de 2024 : Bosniaques 26 841, Turcs 19 419, Roms 8 730, Ashkalis 16 207, Égyptiens 10 581, Goranis 9 140 ; série sans estimation ; communauté serbe exclue", source: "https://askdata.rks-gov.net/api/v1/en/ASKdata/Census%20population/1_Demographic_Characteristics/census2024_05.px"}
+lieux: {valeur: null, unite: "communes", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "régime surtout personnel, sans territoire délimité", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  La Constitution du Kosovo de 2008 reconnaît des « communautés » (groupes nationaux, ethniques, linguistiques ou religieux présents de longue date sur le territoire) et leur attribue des droits propres (art. 57 à 62). Elle garantit à l'Assemblée un nombre minimal de sièges aux communautés rom, ashkali, égyptienne, bosniaque, turque et gorani, soit dix sièges au total (art. 64), et soumet certaines lois, dites d'intérêt vital, à la majorité de l'ensemble des députés des sièges garantis aux communautés non majoritaires, communauté serbe comprise (art. 81). Le turc, le bosnien et le romani sont langues officielles au niveau municipal (art. 5). La loi de 2008 sur l'autonomie locale prévoit un comité des communautés dans chaque commune et un vice-président de l'assemblée municipale pour les communautés là où elles atteignent 10 % des habitants. Cette fiche regroupe les six communautés autres que la communauté serbe. Le Kosovo a déclaré son indépendance en 2008 ; la Serbie ne la reconnaît pas et la résolution 1244 (1999) du Conseil de sécurité reste en vigueur.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur le Kosovo, adopté le 16 février 2023 ; le Kosovo n'étant pas partie, l'avis est adopté en application de l'accord entre la MINUK et le Conseil de l'Europe. Résumé, § 1 : cadre juridique « solide » ; § 7 : mise en œuvre de la législation linguistique insuffisante.", annee: 2023, source: "https://rm.coe.int/5th-op-kosovo-en/1680ab6a79"}
+reconnaissance_onu:
+  - {mecanisme: "mission_onu", detail: "Règlement de la Mission d'administration intérimaire des Nations unies au Kosovo (MINUK) n° 2001/9 du 15 mai 2001, Cadre constitutionnel, section 9.1.3 : 20 sièges réservés aux communautés non albanaises, dont 10 aux autres communautés que la communauté serbe (Roms, Ashkalis et Égyptiens 4, Bosniaques 3, Turcs 2, Goranis 1).", annee: 2001, source: "https://unmik.unmissions.org/sites/default/files/regulations/02english/E2001regs/RE2001_09.pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République du Kosovo (2008, révisée en 2016), art. 5, 57 à 62, 64, 78, 81 et 96", nature: "constitution", annee: 2008, source: "https://www.constituteproject.org/constitution/Kosovo_2016"}
+  - {instrument: "Loi n° 03/L-040 sur l'autonomie locale (Journal officiel n° 28, 4 juin 2008), art. 53 à 55 et 61", nature: "loi", annee: 2008, source: "https://mapl.rks-gov.net/wp-content/uploads/2017/10/Law-On-Local-Self-Government.pdf"}
+  - {instrument: "Loi n° 03/L-047 sur la protection et la promotion des droits des communautés et de leurs membres (Journal officiel n° 28, 4 juin 2008), modifiée par les lois n° 04/L-020 (2011) et 04/L-115 (2012)", nature: "loi", annee: 2008, source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2531"}
+  - {instrument: "Loi n° 02/L-37 sur l'usage des langues (Journal officiel n° 10, 1er mars 2007)", nature: "loi", annee: 2007, source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2440"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Les lois d'intérêt vital (limites et compétences des communes, droits des communautés, usage des langues, élections locales, patrimoine culturel, liberté religieuse, éducation, symboles) exigent la majorité des députés et la majorité des députés des sièges garantis aux communautés non majoritaires, communauté serbe comprise, Constitution, art. 81 ; le Conseil consultatif des communautés, placé auprès du président, peut commenter tôt les projets du gouvernement, art. 60 ; le vice-président municipal pour les communautés peut saisir la Cour constitutionnelle d'un acte municipal contraire à leurs droits, art. 62.", source: "https://www.constituteproject.org/constitution/Kosovo_2016"}
+  langue: {valeur: "partiel", note: "Le turc, le bosnien et le romani ont le statut de langues officielles au niveau municipal, Constitution, art. 5, al. 2 ; une langue est officielle dans une commune où la communauté atteint 5 % de la population et le turc l'est à Prizren, et « en usage officiel » au-delà de 3 % ou par tradition, loi n° 02/L-37, art. 2.3 et 2.4.", source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2440"}
+  education: {valeur: "partiel", note: "Enseignement public préscolaire, primaire et secondaire dans la langue de la communauté, avec des seuils d'ouverture de classes plus bas que la norme, et droit de créer des établissements privés pouvant recevoir des fonds publics, Constitution, art. 59, al. 3 et 4 ; loi n° 03/L-047, art. 8.1 ; pas de système éducatif géré par les communautés.", source: "https://www.constituteproject.org/constitution/Kosovo_2016"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Sièges minimaux garantis à l'Assemblée de 120 membres : Roms 1, Ashkalis 1, Égyptiens 1, plus 1 siège à celle des trois qui obtient le plus de voix, Bosniaques 3, Turcs 2, Goranis 1, Constitution, art. 64, al. 2 ; au moins un ministre et deux vice-ministres issus d'une communauté non majoritaire autre que serbe, art. 96 ; un tiers du Comité des droits et intérêts des communautés, art. 78 ; vice-président de l'assemblée municipale et vice-maire pour les communautés dans les communes où elles atteignent 10 %, loi n° 03/L-040, art. 54 et 61.", source: "https://www.constituteproject.org/constitution/Kosovo_2016"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2023, le Comité consultatif du Conseil de l'Europe juge la mise en œuvre de la législation linguistique insuffisante et demande davantage de moyens et d'engagement politique (résumé, § 7) ; il note que les effets de la stratégie 2017-2021 pour les Roms et les Ashkalis n'ont pas été évalués et que la stratégie 2022-2026, adoptée en juillet 2022, reste à appliquer pleinement (§ 5).", source: "https://rm.coe.int/5th-op-kosovo-en/1680ab6a79"}
+chronologie:
+  - {annee: 2001, evenement: "Règlement MINUK n° 2001/9 (Cadre constitutionnel) : 10 sièges réservés à l'Assemblée aux communautés autres que serbe et albanaise."}
+  - {annee: 2007, evenement: "Loi n° 02/L-37 sur l'usage des langues (1er mars)."}
+  - {annee: 2008, evenement: "Constitution du Kosovo ; lois n° 03/L-040 sur l'autonomie locale et n° 03/L-047 sur les droits des communautés (Journal officiel du 4 juin)."}
+  - {annee: 2012, evenement: "Amendements constitutionnels (Journal officiel du 7 septembre) : suppression des dispositions transitoires, dont l'art. 148 sur l'Assemblée ; modification de l'art. 81."}
+  - {annee: 2023, evenement: "Cinquième avis du Comité consultatif de la Convention-cadre sur le Kosovo (16 février)."}
+  - {annee: 2024, evenement: "Recensement de la population : 90 918 personnes déclarent l'une des six appartenances."}
+fiabilite:
+  verifie: ["Constitution, texte anglais de Constitute Project (art. 5, 57 à 62, 64, 78, 81, 96 ; amendements de 2012).", "Loi n° 03/L-040, texte anglais du ministère de l'Administration du pouvoir local (art. 53 à 55 et 61).", "Loi n° 02/L-37, art. 2, et loi n° 03/L-047, art. 1.4, 8, 11 et 12, textes albanais du Journal officiel.", "Règlement MINUK n° 2001/9, section 9.1.3.", "Chiffres du recensement de 2024 par appartenance (Agence de statistique du Kosovo, tableau census2024_05)."]
+  non_confirme: ["Liste officielle des communes où le turc, le bosnien ou le romani est langue officielle ou en usage officiel non obtenue (site du Commissaire aux langues inaccessible) ; aucun tableau des sites.", "Nombre de communes dotées d'un vice-président de l'assemblée municipale pour les communautés non trouvé.", "Section du cinquième avis consacrée à l'article 15 (participation) non lue ; représentation effective des Roms, Ashkalis et Égyptiens par les sièges garantis non vérifiée.", "Une seconde série du recensement « avec estimation » compte 27 152 Bosniaques au lieu de 26 841."]
+sources:
+  - {titre: "Constitution du Kosovo (2008, rév. 2016) — Constitute Project", url: "https://www.constituteproject.org/constitution/Kosovo_2016"}
+  - {titre: "Law No. 03/L-040 on Local Self-Government — ministère de l'Administration du pouvoir local", url: "https://mapl.rks-gov.net/wp-content/uploads/2017/10/Law-On-Local-Self-Government.pdf"}
+  - {titre: "Ligji nr. 03/L-047 për mbrojtjen dhe promovimin e të drejtave të komuniteteve — Journal officiel du Kosovo", url: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2531"}
+  - {titre: "Ligji nr. 02/L-37 për përdorimin e gjuhëve — Journal officiel du Kosovo", url: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2440"}
+  - {titre: "UNMIK Regulation No. 2001/9 on a Constitutional Framework for Provisional Self-Government in Kosovo — MINUK", url: "https://unmik.unmissions.org/sites/default/files/regulations/02english/E2001regs/RE2001_09.pdf"}
+  - {titre: "Fifth Opinion on Kosovo (2023) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/5th-op-kosovo-en/1680ab6a79"}
+  - {titre: "Population by ethnicity and sex at country and municipal level, 2011 and 2024 — Agence de statistique du Kosovo", url: "https://askdata.rks-gov.net/api/v1/en/ASKdata/Census%20population/1_Demographic_Characteristics/census2024_05.px"}

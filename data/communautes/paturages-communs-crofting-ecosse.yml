@@ -1,0 +1,78 @@
+uid: "paturages-communs-crofting-ecosse"
+nom: "Crofters des pâturages communs (Écosse)"
+endonyme: ""
+territoire: "Pâturages communs des comtés de crofting (Highlands, îles et une partie de l'ouest de l'Écosse)"
+etats: ["Royaume-Uni"]
+region: "europe"
+coord: [57.6, -5.5]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 1000, unite: "pâturages communs (« plus de 1 000 » selon la Crofting Commission)", annee: 2026, source: "https://www.crofting.scotland.gov.uk/common-grazings/"}
+surface_km2: {valeur: 5000, annee: 2026, perimetre: "pâturages communs ; la Crofting Commission indique « plus de 500 000 hectares », valeur minimale", source: "https://www.crofting.scotland.gov.uk/common-grazings/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les pâturages communs (common grazings), terres de colline partagées par les crofters (petits exploitants agricoles locataires sous un régime légal propre) d'un même township (hameau agricole) en Écosse. Le Crofters (Scotland) Act 1993, sections 47 à 52, permet aux crofters partageants de nommer en assemblée publique un comité des pâturages (grazings committee) pour trois ans, chargé d'entretenir et d'améliorer le pâturage et d'édicter des règlements confirmés par la Crofting Commission, l'autorité publique de régulation. La Crofting Commission recense plus de 1 000 pâturages communs couvrant plus de 500 000 hectares. Le Land Reform (Scotland) Act 2003, partie 3, ouvre aux communautés de crofters un droit d'achat des terres de crofting, dont les pâturages communs non répartis, sous réserve d'un vote majoritaire et de l'approbation des ministres écossais. Les droits d'achat communautaires sont décrits dans la fiche « Communautés propriétaires de terres (Écosse) ».
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Crofters (Scotland) Act 1993, sections 47 à 52 (comités des pâturages, devoirs, règlements, usages forestiers et autres usages, pouvoirs de la Commission)", nature: "loi", annee: 1993, source: "https://www.legislation.gov.uk/ukpga/1993/44/section/47"}
+  - {instrument: "Land Reform (Scotland) Act 2003, partie 3 : droit d'achat des communautés de crofters (section 68 : terres de crofting éligibles, dont les pâturages communs non répartis)", nature: "loi", annee: 2003, source: "https://www.legislation.gov.uk/asp/2003/2/section/68"}
+  - {instrument: "Crofting Reform (Scotland) Act 2010 : composition de la Crofting Commission (annexe 1), registre public des crofts et des pâturages communs, rapport quinquennal des comités", nature: "loi", annee: 2010, source: "https://www.legislation.gov.uk/asp/2010/14/schedule/1"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les crofters partageant un pâturage commun peuvent nommer, en assemblée publique ayant fait l'objet d'une annonce publique, un comité des pâturages dont ils fixent le nombre de membres, crofters ou non, pour trois ans, membres rééligibles (Crofters (Scotland) Act 1993, section 47) ; à défaut, la Crofting Commission nomme un comité ou un grazings constable (gardien des pâturages), et elle peut révoquer les membres qui ne remplissent pas leurs devoirs (section 47(8)).", source: "https://www.legislation.gov.uk/ukpga/1993/44/section/47"}
+  pouvoir_normatif: {valeur: "partiel", note: "Le comité doit établir et faire appliquer des règlements des pâturages communs sur la gestion et l'usage du pâturage (section 48(1)(c)) ; ces règlements fixent notamment le nombre et la nature du bétail que chaque crofter peut y mettre et la répartition des frais, prennent effet après confirmation par la Crofting Commission et priment sur les clauses contraires des baux (section 49).", source: "https://www.legislation.gov.uk/ukpga/1993/44/section/49"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Les crofters détiennent une part d'usage du pâturage commun, dont la Commission peut répartir des portions pour usage exclusif (section 52) ; la propriété reste au propriétaire foncier, mais une communauté de crofters peut acheter les terres de crofting éligibles, dont les pâturages communs non répartis (Land Reform (Scotland) Act 2003, section 68), avec l'accord de la majorité de la communauté et l'approbation des ministres écossais.", source: "https://www.legislation.gov.uk/asp/2003/2/section/68"}
+  ressources: {valeur: "partiel", note: "Le comité entretient et améliore le pâturage et ses équipements (section 48(1)) ; le comité ou un crofter peut proposer d'en affecter une partie aux boisements, avec l'approbation de la Commission et le consentement du propriétaire (section 50), ou à d'autres usages, votés à la majorité simple des voix exprimées en assemblée des crofters (une voix par part) puis soumis à l'approbation de la Commission (section 50B) ; les règlements peuvent porter sur la tourbe et le goémon (section 49) ; le droit d'achat de 2003 inclut les pêcheries de saumon et les droits miniers, hors pétrole, charbon, gaz, or et argent (section 68).", source: "https://www.legislation.gov.uk/ukpga/1993/44/section/50B"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le comité recouvre auprès des crofters la rémunération de son secrétaire (grazings clerk) (section 47(9)) ; les règlements prévoient le recouvrement des frais d'entretien et de travaux et la levée auprès des crofters, dans les proportions qu'ils fixent, des sommes nécessaires aux devoirs du comité (section 49(2)) ; le comité peut se procurer des fonds, par emprunt ou autrement, sur vote de la majorité de ses membres, pour mettre en œuvre un projet approuvé (section 48(6A)).", source: "https://www.legislation.gov.uk/ukpga/1993/44/section/48"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Selon le plan national de développement du crofting du gouvernement écossais (18 mars 2021), 495 comités des pâturages étaient en fonction en 2020 (418 en 2019), pour plus de 1 000 pâturages communs ; la Crofting Commission signale des pâturages communs sans règlement confirmé. La Scottish Crofting Federation, organisation des crofters, a dénoncé en avril 2016 la révocation par la Commission d'au moins deux comités sur l'île de Lewis.", source: "https://www.crofting.org/crofting_grazings_put_in_jeopardy/"}
+chronologie:
+  - {annee: 1886, evenement: "Première loi sur les crofters (Crofters Holdings (Scotland) Act), qui ouvre une série de lois sur la sécurité de tenure des crofters."}
+  - {annee: 1993, evenement: "Le Crofters (Scotland) Act codifie les lois sur le crofting, dont le régime des comités des pâturages (sections 47 à 52)."}
+  - {annee: 2003, evenement: "Le Land Reform (Scotland) Act crée le droit d'achat des communautés de crofters (partie 3)."}
+  - {annee: 2010, evenement: "Le Crofting Reform (Scotland) Act modifie le régime des pâturages communs, crée un registre public des crofts et des pâturages communs et un rapport quinquennal des comités."}
+  - {annee: 2012, evenement: "La Crofting Commission, en majorité élue, est créée le 1er avril en application de la loi de 2010."}
+  - {annee: 2021, evenement: "Plan national de développement du crofting du gouvernement écossais."}
+fiabilite:
+  verifie:
+    - "Nomination du comité par les crofters partageants, mandat de trois ans, pouvoirs de la Commission : section 47 de la loi de 1993 (legislation.gov.uk)."
+    - "Devoirs d'entretien, d'amélioration et d'établissement des règlements : section 48 ; contenu et confirmation des règlements : section 49."
+    - "Autres usages votés par les crofters et approuvés par la Commission : section 50B ; répartition et sanctions : section 52."
+    - "Terres éligibles au droit d'achat des communautés de crofters, dont les pâturages communs non répartis : section 68 de la loi de 2003."
+    - "Plus de 1 000 pâturages communs et plus de 500 000 hectares : page de la Crofting Commission."
+    - "Composition de la Commission : de cinq à neuf membres, dont au plus six élus et en majorité élus (loi de 2010, annexe 1) ; création le 1er avril 2012 (page « About Us » de la Commission)."
+    - "495 comités des pâturages en fonction en 2020, 418 en 2019 : plan national de développement du crofting (2021), chapitre sur le rôle de la Commission."
+    - "Vote majoritaire de la communauté et des crofters, approbation des ministres pour le droit d'achat de la partie 3 : note d'orientation de 2009."
+    - "Révocation d'au moins deux comités sur Lewis en 2016 : Scottish Crofting Federation."
+  non_confirme:
+    - "Les chiffres de la Crofting Commission sont des minimums (« plus de ») sans date de référence ; l'année retenue est celle de la consultation."
+    - "Nombre de comités des pâturages en fonction après 2020 : aucune source publique trouvée."
+    - "Le registre des crofts (Registers of Scotland) compte 335 pâturages communs enregistrés ; ce registre ne propose pas de liste téléchargeable, d'où l'absence de tableau des sites."
+    - "Caractère forcé du droit d'achat de la partie 3 (sans accord du propriétaire) : non lu directement dans le texte consulté ; la note d'orientation de 2009 mentionne le vote majoritaire et l'approbation des ministres."
+    - "Électorat de la Crofting Commission (crofters) : non lu dans la loi, qui renvoie à des règlements ; aucun document onusien ou régional visant le régime n'a été trouvé."
+sources:
+  - {titre: "Crofting Commission — Common grazings", url: "https://www.crofting.scotland.gov.uk/common-grazings/"}
+  - {titre: "Crofters (Scotland) Act 1993, section 47 — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukpga/1993/44/section/47"}
+  - {titre: "Crofters (Scotland) Act 1993, section 48 — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukpga/1993/44/section/48"}
+  - {titre: "Crofters (Scotland) Act 1993, section 49 — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukpga/1993/44/section/49"}
+  - {titre: "Crofters (Scotland) Act 1993, section 50B — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukpga/1993/44/section/50B"}
+  - {titre: "Crofters (Scotland) Act 1993, section 52 — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukpga/1993/44/section/52"}
+  - {titre: "Land Reform (Scotland) Act 2003, section 68 — legislation.gov.uk", url: "https://www.legislation.gov.uk/asp/2003/2/section/68"}
+  - {titre: "Crofting Reform (Scotland) Act 2010, annexe 1 — legislation.gov.uk", url: "https://www.legislation.gov.uk/asp/2010/14/schedule/1"}
+  - {titre: "Gouvernement écossais — Crofting community right to buy under Part 3 of the Land Reform (Scotland) Act 2003 (2009)", url: "https://www.gov.scot/publications/crofting-community-right-buy-under-part-3-land-reform-scotland/"}
+  - {titre: "Gouvernement écossais — National Development Plan for Crofting (2021)", url: "https://www.gov.scot/publications/national-development-plan-crofting/"}
+  - {titre: "Gouvernement écossais — National Development Plan for Crofting (2021), rôle de la Crofting Commission", url: "https://www.gov.scot/publications/national-development-plan-crofting/pages/5/"}
+  - {titre: "Crofting Commission — About Us", url: "https://www.crofting.scotland.gov.uk/about-us/"}
+  - {titre: "Scottish Crofting Federation — Crofting grazings put in jeopardy (2016)", url: "https://www.crofting.org/crofting_grazings_put_in_jeopardy/"}
+  - {titre: "Crofters (Scotland) Act 1993, section 50 — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukpga/1993/44/section/50"}
+  - {titre: "Crofting Commission — Common grazings regulations", url: "https://www.crofting.scotland.gov.uk/common-grazings/common-grazings-regulations/"}
+  - {titre: "Registers of Scotland — Crofting Register", url: "https://www.crofts.ros.gov.uk/register/home"}
+  - {titre: "Scottish Crofting Federation — About crofting", url: "https://www.crofting.org/about-scf/about-crofting/"}

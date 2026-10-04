@@ -1,0 +1,64 @@
+uid: "canaries"
+nom: "Canaries"
+endonyme: "Canarias / Pueblo canario"
+territoire: "Communauté autonome de Canarias : sept îles dotées d'un cabildo, conseil insulaire (El Hierro, Fuerteventura, Gran Canaria, La Gomera, Lanzarote, La Palma, Tenerife), île de La Graciosa et îlots, eaux canariennes"
+etats: ["Espagne"]
+region: "europe"
+coord: [28.3, -15.8]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2258866, annee: 2025, perimetre: "personnes résidant dans la Communauté autonome au 1er janvier", source: "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/POBLACION/data?representation=GEOGRAPHICAL%5BES70%5D&granularity=TIME%5BYEARLY%5D&_type=json"}
+lieux: {valeur: 7, unite: "îles dotées d'un cabildo (conseil insulaire)", annee: 2018, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
+surface_km2: {valeur: 7446, annee: 2024, perimetre: "Communauté autonome, îlots et roques compris (744 558,03 ha)", source: "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/SUPERFICIE/data?representation=GEOGRAPHICAL%5BES70%5D&_type=json"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Archipel de l'Atlantique situé au large du Sahara occidental et du Maroc, les Canaries forment une Communauté autonome espagnole depuis le Statut de 1982. Le Statut de 2018 (loi organique 1/2018) dispose que l'archipel exerce le droit à l'autogouvernement « comme nationalité » (art. 1) et que les pouvoirs de la Communauté autonome émanent de la Constitution et du « peuple canarien » (art. 2). Chaque île a son cabildo, organe de gouvernement, d'administration et de représentation de l'île. L'archipel a un régime économique et fiscal propre (REF) et l'Union européenne le reconnaît comme région ultrapériphérique (région de l'Union où les traités s'appliquent avec des adaptations).
+reconnaissance_regionale:
+  - {mecanisme: "union_europeenne", detail: "L'article 349 du Traité sur le fonctionnement de l'Union européenne nomme les îles Canaries parmi les régions ultrapériphériques et permet au Conseil d'adopter des mesures spécifiques, notamment en matière douanière, commerciale et fiscale.", annee: 2009, source: "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:12016E349"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution espagnole de 1978, art. 69.3 et 141.4, disposition additionnelle troisième", nature: "constitution", annee: 1978, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"}
+  - {instrument: "Statut d'autonomie des Canaries (loi organique 10/1982 du 10 août), abrogé le 6 novembre 2018 par la loi organique 1/2018", nature: "statut_autonomie", annee: 1982, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20821"}
+  - {instrument: "Loi organique 1/2018 du 5 novembre portant réforme du Statut d'autonomie des Canaries", nature: "statut_autonomie", annee: 2018, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
+  - {instrument: "Loi 19/1994 du 6 juillet modifiant le régime économique et fiscal des Canaries", nature: "loi", annee: 1994, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-15794"}
+  - {instrument: "Loi 3/2026 du 16 juin sur les cabildos insulaires", nature: "loi", annee: 2026, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2026-17189"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les pouvoirs de la Communauté autonome s'exercent par le Parlement, la Présidence et le Gouvernement, Statut de 2018, art. 2.2 ; les cabildos sont les organes de gouvernement, d'administration et de représentation de chaque île, élus au suffrage universel, art. 65.3 et 68.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Le Parlement de Canarias exerce la potestad legislativa (pouvoir de faire la loi), Statut de 2018, art. 43 a ; dans les compétences exclusives, la Communauté exerce en entier le pouvoir législatif et réglementaire, art. 95.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
+  justice_propre: {valeur: "partiel", note: "Le Tribunal supérieur de justice de Canarias, juridiction de l'État, est l'organe où culmine l'organisation judiciaire dans l'archipel et unifie seul l'interprétation du droit propre de Canarias, Statut de 2018, art. 78.1 et 78.3.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Compétence exclusive sur les eaux (régulation, planification et gestion), sous réserve de la législation de l'État, Statut de 2018, art. 152 ; compétence sur la pêche et les activités marines dans les « eaux canariennes » délimitées par un contour de l'archipel, art. 4 et 131 ; régime minier, art. 163.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
+  consentement: {valeur: "reconnu", note: "La modification du régime économique et fiscal exige un rapport préalable de la Communauté autonome, Constitution, disposition additionnelle troisième ; pour être favorable, ce rapport doit être voté par les deux tiers du Parlement canarien ; un rapport défavorable ouvre une négociation en commission bilatérale État-Canaries, sans arrêter la procédure, Statut de 2018, art. 167 ; toute réforme du Statut exige l'approbation du Parlement aux trois cinquièmes et un référendum, art. 200.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "reconnu", note: "La Communauté a la compétence de développement législatif et d'exécution sur l'enseignement non universitaire, Statut de 2018, art. 133 ; l'histoire, la géographie, la société, la politique et la culture de Canarias font partie des programmes de la scolarité obligatoire, art. 21.8.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
+  fiscalite: {valeur: "partiel", note: "Régime économique et fiscal spécial fondé sur des franchises fiscales de l'État et une imposition indirecte propre, Statut de 2018, art. 166 ; compétences normatives sur l'impôt général indirect canarien (IGIC) et l'arbitrio (taxe) sur les importations et livraisons de marchandises (AIEM), dans les limites fixées par la législation applicable, art. 115.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
+  representation: {valeur: "partiel", note: "Chaque île dotée d'un cabildo forme une circonscription pour l'élection du Sénat : trois sénateurs pour Gran Canaria et Tenerife, un pour Fuerteventura, La Gomera, El Hierro, Lanzarote et La Palma, Constitution de 1978, art. 69.3.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"}
+  statut_personnel: {valeur: "partiel", note: "La condition politique de Canarien est attribuée aux Espagnols ayant leur domicile administratif dans une commune des Canaries et aux résidents à l'étranger dont c'était le dernier domicile, Statut de 2018, art. 6 ; elle conditionne le droit de vote et d'éligibilité au Parlement, art. 39.1.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Saisi d'un recours contre la loi canarienne 4/2017 sur le sol et les espaces naturels protégés, le Tribunal constitutionnel en a annulé trois dispositions et rejeté le recours pour le reste, arrêt 86/2019 du 20 juin 2019 ; le Parlement de Canarias a depuis adopté la loi 1/2022 sur ses élections et la loi 3/2026 sur les cabildos insulaires.", source: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-10914"}
+chronologie:
+  - {annee: 1972, evenement: "Loi 30/1972 sur le régime économique et fiscal des Canaries."}
+  - {annee: 1978, evenement: "La Constitution prévoit l'administration propre des îles par des cabildos (art. 141.4) et un rapport préalable de l'archipel sur toute modification du régime économique et fiscal."}
+  - {annee: 1982, evenement: "Loi organique 10/1982 portant Statut d'autonomie des Canaries."}
+  - {annee: 1991, evenement: "Loi 20/1991 modifiant les aspects fiscaux du régime économique et fiscal."}
+  - {annee: 1994, evenement: "Loi 19/1994 modifiant le régime économique et fiscal des Canaries."}
+  - {annee: 2009, evenement: "Entrée en vigueur du Traité sur le fonctionnement de l'Union européenne ; l'article 349 nomme les îles Canaries parmi les régions ultrapériphériques."}
+  - {annee: 2018, evenement: "Loi organique 1/2018 portant réforme du Statut, en vigueur le 6 novembre 2018 ; loi 8/2018 modifiant le régime économique et fiscal."}
+  - {annee: 2019, evenement: "Le Tribunal constitutionnel annule trois dispositions de la loi canarienne 4/2017 sur le sol et les espaces naturels protégés et rejette le recours pour le reste (arrêt 86/2019)."}
+  - {annee: 2022, evenement: "Loi 1/2022 sur les élections au Parlement de Canarias."}
+  - {annee: 2026, evenement: "Loi 3/2026 sur les cabildos insulaires."}
+fiabilite:
+  verifie: ["Statut de 2018, art. 1, 2, 3, 4, 6, 21, 39, 43, 65, 67, 68, 78, 95, 115, 131, 133, 152, 163, 166, 167, 200 et entrée en vigueur (BOE, texte consolidé).", "Constitution, art. 69.3, 141.4 et disposition additionnelle troisième (BOE).", "Article 349 du TFUE (EUR-Lex).", "Population au 1er janvier 2025 et surface 2024 (Institut canarien de statistique, ISTAC).", "Lois 1/2022 et 3/2026 (BOE).", "Abrogation du Statut de 1982 au 6 novembre 2018 (BOE).", "Arrêt 86/2019 du Tribunal constitutionnel (BOE)."]
+  non_confirme: ["Aucun document onusien nommant le régime canarien n'a été trouvé.", "Nombre de localités habitées (entités de population) non relevé sur source officielle.", "Effectivité appuyée sur un arrêt du Tribunal constitutionnel et sur la production législative, sans rapport d'observation indépendant consulté."]
+sources:
+  - {titre: "Loi organique 1/2018, réforme du Statut d'autonomie des Canaries — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
+  - {titre: "Loi organique 10/1982, Statut d'autonomie des Canaries — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20821"}
+  - {titre: "Constitution espagnole de 1978 — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"}
+  - {titre: "Loi 19/1994, régime économique et fiscal des Canaries — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1994-15794"}
+  - {titre: "Loi 1/2022, élections au Parlement de Canarias — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2022-10043"}
+  - {titre: "Loi 3/2026, cabildos insulaires — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2026-17189"}
+  - {titre: "Tribunal constitutionnel, arrêt 86/2019 du 20 juin 2019 — BOE", url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-10914"}
+  - {titre: "Traité sur le fonctionnement de l'Union européenne, article 349 — EUR-Lex", url: "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:12016E349"}
+  - {titre: "Indicateur Population — Institut canarien de statistique (ISTAC)", url: "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/POBLACION/data?representation=GEOGRAPHICAL%5BES70%5D&granularity=TIME%5BYEARLY%5D&_type=json"}
+  - {titre: "Indicateur Superficie — Institut canarien de statistique (ISTAC)", url: "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/SUPERFICIE/data?representation=GEOGRAPHICAL%5BES70%5D&_type=json"}

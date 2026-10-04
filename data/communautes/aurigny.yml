@@ -1,0 +1,59 @@
+uid: "aurigny"
+nom: "Aurigny (Alderney)"
+endonyme: "Alderney"
+territoire: "Île d'Aurigny, bailliage de Guernesey"
+etats: ["Royaume-Uni"]
+region: "europe"
+coord: [49.7, -2.2]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 2167, annee: 2023, perimetre: "population de l'île au 31 mars 2023, recensement électronique annuel d'Aurigny (rapport publié le 27 février 2024)", source: "https://alderney.gov.gg/CHttpHandler.ashx?id=175856&p=0"}
+lieux: {valeur: 1, unite: "île formant une seule circonscription électorale (section 30 de la loi de 2004)", annee: 2004, source: "https://alderney.gov.gg/CHttpHandler.ashx?id=131855&p=0"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Aurigny est l'une des trois juridictions du bailliage de Guernesey, dépendance de la Couronne britannique (territoire rattaché au souverain sans faire partie du Royaume-Uni). La Government of Alderney Law, 2004 (loi sur le gouvernement d'Aurigny), en vigueur depuis le 1er mai 2005, confie les fonctions législatives et exécutives aux États d'Aurigny, un président et 10 membres élus, et les fonctions judiciaires à la Cour d'Aurigny. Par l'accord de 1948, Guernesey assure la police, les douanes, l'aéroport, la santé, l'éducation et les services sociaux de l'île, et y lève en contrepartie ses impôts. Deux membres des États d'Aurigny siègent comme représentants de l'île aux États de délibération de Guernesey.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Government of Alderney Law, 2004 (loi sur le gouvernement d'Aurigny), en vigueur le 1er mai 2005, texte consolidé", nature: "statut_autonomie", annee: 2004, source: "https://alderney.gov.gg/CHttpHandler.ashx?id=131855&p=0"}
+  - {instrument: "Accord de 1948 et Alderney (Application of Legislation) Law, 1948 (services transférés à Guernesey)", nature: "loi", annee: 1948, source: "https://gov.gg/bailiwickcommission-relationships"}
+  - {instrument: "States of Guernsey (Representation of Alderney) Law, 1978 (représentants d'Aurigny aux États de délibération)", nature: "loi", annee: 1978, source: "https://gov.gg/bailiwickcommission-relationships"}
+  - {instrument: "Alderney Land & Property etc. Law, 1949 (registre foncier d'Aurigny)", nature: "loi", annee: 1949, source: "https://courtofalderney.gg/article/157977/Land-Registry"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les États d'Aurigny se composent de 10 membres et d'un président, tous élus au scrutin secret ; ils exercent toutes les fonctions législatives et exécutives de l'île, Government of Alderney Law, 2004, sections 1 et 27.", source: "https://alderney.gov.gg/CHttpHandler.ashx?id=131855&p=0"}
+  pouvoir_normatif: {valeur: "partiel", note: "Les États adoptent des projets de loi (Projets de Loi) soumis à la sanction royale et des ordonnances « pour le bon ordre et le gouvernement » de l'île et de ses eaux territoriales, Government of Alderney Law, 2004, section 46 ; le maintien de l'ordre et les services transférés en 1948 (police, douanes, aéroport, santé, éducation, services sociaux, immigration) relèvent de la législation de Guernesey, Alderney (Application of Legislation) Law, 1948.", source: "https://alderney.gov.gg/Government"}
+  justice_propre: {valeur: "reconnu", note: "La Cour d'Aurigny, composée de jurés (Jurats, juges non professionnels issus de la population) nommés par le lieutenant-gouverneur, exerce les fonctions judiciaires de l'île, Government of Alderney Law, 2004, sections 2 et 5 ; compétence civile illimitée, peines pénales plafonnées à 12 mois d'emprisonnement, appel devant la Cour royale de Guernesey.", source: "https://courtofalderney.gg/article/158000/Criminal-Court"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Les lois de Guernesey s'appliquent à Aurigny comme législation de tout le bailliage avec le consentement des États d'Aurigny (note CBP-8611, 2025) ; pour les services transférés, les États de délibération légifèrent pour Aurigny en vertu de l'Alderney (Application of Legislation) Law, 1948, annexe 1.", source: "https://researchbriefings.files.parliament.uk/documents/CBP-8611/CBP-8611.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "L'éducation fait partie des services transférés à Guernesey par l'accord de 1948.", source: "https://alderney.gov.gg/Government"}
+  fiscalite: {valeur: "partiel", note: "Les résidents paient les impôts et droits de Guernesey en contrepartie des services transférés (accord de 1948) ; depuis le 1er janvier 2021, les États d'Aurigny lèvent leur propre impôt foncier (Property Tax), administré pour leur compte par Guernesey, et fixent et perçoivent les droits sur les carburants et sur les actes de vente immobilière ; le budget annuel est préparé par le comité de la politique et des finances, Government of Alderney Law, 2004, section 58.", source: "https://alderney.gov.gg/property-tax"}
+  representation: {valeur: "reconnu", note: "Deux représentants d'Aurigny siègent aux États de délibération de Guernesey, nombre fixé par la Reform (Guernsey) Law, 1948 et la States of Guernsey (Representation of Alderney) Law, 1978.", source: "https://gov.gg/bailiwickcommission-relationships"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "En septembre 2020, Bailiwick Express rapporte le vote unanime des États d'Aurigny transférant au budget de l'île, à partir de janvier 2021, les droits sur les carburants et sur les actes, après la loi sur l'impôt foncier adoptée la même année. Les services principaux restent gérés par Guernesey au titre de l'accord de 1948.", source: "https://www.bailiwickexpress.com/news-ge/alderney-takes-control-more-local-taxes/"}
+chronologie:
+  - {annee: 1948, evenement: "Accord par lequel Guernesey prend en charge les principaux services publics d'Aurigny ; Alderney (Application of Legislation) Law, 1948."}
+  - {annee: 1949, evenement: "Les États d'Aurigny sont réorganisés et la fonction de président est créée."}
+  - {annee: 1978, evenement: "States of Guernsey (Representation of Alderney) Law : représentation d'Aurigny aux États de délibération."}
+  - {annee: 2005, evenement: "Entrée en vigueur de la Government of Alderney Law, 2004, le 1er mai."}
+  - {annee: 2021, evenement: "Impôt foncier propre d'Aurigny, droits sur les carburants et sur les actes immobiliers versés au budget de l'île."}
+  - {annee: 2024, evenement: "Depuis le 29 février, les projets de loi des États d'Aurigny reçoivent la sanction royale du lieutenant-gouverneur, sauf projets réservés au roi."}
+fiabilite:
+  verifie: ["Composition des États (président et 10 membres élus) et fonctions législatives, exécutives et judiciaires, Government of Alderney Law, 2004, sections 1, 2, 5, 27, 46, 58 (texte consolidé publié par les États d'Aurigny).", "Entrée en vigueur le 1er mai 2005 (note de la section 66).", "Services transférés et impôts de Guernesey payés par les résidents (États de Guernesey ; États d'Aurigny).", "Deux représentants aux États de délibération, loi de 1978 (États de Guernesey).", "Compétences de la Cour d'Aurigny (site de la Cour d'Aurigny).", "Impôt foncier propre depuis le 1er janvier 2021 (États d'Aurigny).", "Population de 2 167 au 31 mars 2023 (Alderney Electronic Census Report, 2024).", "Consentement des États d'Aurigny à la législation de tout le bailliage et procédure de sanction royale depuis le 29 février 2024 (CBP-8611 ; États de Guernesey)."]
+  non_confirme: ["Surface de l'île : aucune valeur officielle en km² trouvée.", "Texte de l'accord de 1948 et de la loi de 1978 non ouverts ; leur contenu repose sur les sites des États de Guernesey et d'Aurigny.", "Statut juridique de l'anglais et de l'ancien parler normand d'Aurigny non vérifié sur un texte."]
+sources:
+  - {titre: "Government — États d'Aurigny", url: "https://alderney.gov.gg/Government"}
+  - {titre: "Alderney Electronic Census Report, population au 31 mars 2023 — États d'Aurigny", url: "https://alderney.gov.gg/CHttpHandler.ashx?id=175856&p=0"}
+  - {titre: "The Government of Alderney Law, 2004, texte consolidé — États d'Aurigny", url: "https://alderney.gov.gg/CHttpHandler.ashx?id=131855&p=0"}
+  - {titre: "Property Tax — États d'Aurigny", url: "https://alderney.gov.gg/property-tax"}
+  - {titre: "Changes to the granting of Royal Assent approved — États de Guernesey", url: "https://www.gov.gg/changes-to-the-granting-of-Royal-Assent-approved"}
+  - {titre: "Bailiwick Relationships — États de Guernesey", url: "https://gov.gg/bailiwickcommission-relationships"}
+  - {titre: "The Crown Dependencies (CBP-8611, 2025) — Bibliothèque de la Chambre des communes", url: "https://researchbriefings.files.parliament.uk/documents/CBP-8611/CBP-8611.pdf"}
+  - {titre: "Criminal Court — Cour d'Aurigny", url: "https://courtofalderney.gg/article/158000/Criminal-Court"}
+  - {titre: "Civil Court — Cour d'Aurigny", url: "https://courtofalderney.gg/article/157999/Civil-Court"}
+  - {titre: "Land Registry — Cour d'Aurigny", url: "https://courtofalderney.gg/article/157977/Land-Registry"}
+  - {titre: "Alderney takes control of its tax system (12 septembre 2020) — Bailiwick Express", url: "https://www.bailiwickexpress.com/news-ge/alderney-takes-control-more-local-taxes/"}

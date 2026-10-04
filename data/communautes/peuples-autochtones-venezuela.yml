@@ -1,0 +1,74 @@
+uid: "peuples-autochtones-venezuela"
+nom: "Peuples autochtones du Venezuela (habitat et terres collectives)"
+endonyme: ""
+territoire: "Habitats et terres des peuples et communautés autochtones, surtout dans les États d'Amazonas, Bolívar et Delta Amacuro, ainsi qu'en Zulia, Apure, Anzoátegui, Monagas et Sucre"
+etats: ["Venezuela"]
+region: "ameriques"
+coord: [5.5, -65.0]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "mixte"
+population: {valeur: 724592, annee: 2011, perimetre: "personnes recensées comme appartenant à un peuple autochtone (recensement national de 2011, 44 peuples), selon le rapport de l'État au CERD", source: "https://documents.un.org/doc/undoc/gen/g22/296/83/pdf/g2229683.pdf"}
+lieux: {valeur: null, unite: "titres de propriété collective", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les peuples et communautés autochtones du Venezuela titulaires du régime d'habitat et de propriété collective des terres. La Constitution de 1999 (chapitre VIII, art. 119 à 126) reconnaît leur organisation sociale, politique et économique, leurs langues et leurs droits originaires sur les terres qu'ils occupent ; elle confie à l'exécutif national la démarcation (délimitation officielle) de ces terres, déclarées inaliénables, imprescriptibles, insaisissables et incessibles. La loi de démarcation et de garantie de l'habitat et des terres des peuples autochtones (Journal officiel n° 37.118 du 12 janvier 2001) prévoit, après démarcation, la délivrance d'un titre de propriété collective par le Procureur général de la République (art. 12). La loi organique des peuples et communautés autochtones de 2005 précise la consultation préalable, la justice propre et l'éducation interculturelle bilingue. L'article 126 de la Constitution précise que le terme « peuple » n'y a pas le sens qu'il a en droit international. Selon le CERD, la démarcation et la délivrance des titres sont à l'arrêt depuis 2016.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Le Venezuela a ratifié la Convention 169 de l'OIT ; ratification enregistrée le 22 mai 2002, en vigueur le 22 mai 2003.", annee: 2002, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du CERD (CERD/C/VEN/CO/22-24, § 18-21) : lenteur de la délimitation et de la délivrance des titres, au point mort depuis 2016 ; procédure des peuples sanema et ye'kwana du bassin du Caura engagée en 2002 et non aboutie ; recommandation d'un protocole de consultation préalable, libre et éclairée.", annee: 2024, source: "https://documents.un.org/doc/undoc/gen/g24/153/25/pdf/g2415325.pdf"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité des droits de l'homme (CCPR/C/VEN/CO/5, § 45-48) : règlement électoral de 2021 privant les autochtones du vote direct et secret pour leurs représentants régionaux et municipaux ; absence de consultation préalable sur les activités extractives ; délimitation lente.", annee: 2023, source: "https://documents.un.org/doc/undoc/gen/g23/232/06/pdf/g2323206.pdf"}
+base_nationale:
+  - {instrument: "Constitution de la République bolivarienne du Venezuela (1999), art. 9, 119 à 126, 186 et 260", nature: "constitution", annee: 1999, source: "https://www.constituteproject.org/constitution/Venezuela_2009?lang=es"}
+  - {instrument: "Ley de Demarcación y Garantía del Hábitat y Tierras de los Pueblos Indígenas (Journal officiel n° 37.118, 12 janvier 2001)", nature: "loi", annee: 2001, source: "https://docs.venezuela.justia.com/federales/leyes/ley-de-demarcacion-y-garantia-del-habitat-y-tierras-de-los-pueblos-indigenas.pdf"}
+  - {instrument: "Ley Orgánica de Pueblos y Comunidades Indígenas (Journal officiel n° 38.344, 27 décembre 2005)", nature: "loi_organique", annee: 2005, source: "https://www.asambleanacional.gob.ve/storage/documentos/leyes/ley-organi-20220214165309.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'État reconnaît l'organisation sociale et politique propre des peuples et communautés (Constitution, art. 119 ; loi organique de 2005, art. 69) et leurs « autoridades legítimas » (autorités légitimes) en matière de justice (Constitution, art. 260) ; aucune institution territoriale autochtone dotée de compétences propres n'est créée.", source: "https://www.constituteproject.org/constitution/Venezuela_2009?lang=es"}
+  pouvoir_normatif: {valeur: "partiel", note: "La loi organique de 2005 reconnaît le « derecho propio » (droit propre) des peuples (art. 130) et définit le « derecho indígena » (droit autochtone) comme l'ensemble des normes, usages et coutumes que chaque peuple tient pour légitimes et obligatoires pour régler sa vie sociale et politique (art. 131), dans la limite des droits de l'homme (art. 130).", source: "https://www.acnur.org/fileadmin/Documentos/Pueblos_indigenas/ley_organica_indigena_ven.pdf"}
+  justice_propre: {valeur: "partiel", note: "Les autorités légitimes peuvent rendre la justice dans leur habitat selon leurs propres normes, pour leurs seuls membres (Constitution, art. 260) ; la loi organique de 2005 définit la juridiction spéciale autochtone et sa compétence (art. 132 et 133) ; la loi de coordination avec la justice nationale prévue par l'article 260 n'a pas été adoptée.", source: "https://watanibasocioambiental.org/la-jurisdiccion-especial-indigena-como-expresion-de-las-instituciones-indigenas-de-derecho-propio-en-venezuela/"}
+  terres: {valeur: "partiel", note: "Propriété collective des terres, inaliénable, imprescriptible, insaisissable et incessible (Constitution, art. 119 ; loi organique de 2005, art. 20) ; démarcation par l'exécutif avec les peuples en vue du titre (loi organique, art. 23) ; titre collectif délivré par le Procureur général après démarcation (loi de 2001, art. 12) ; la démarcation n'a plus avancé depuis 2016 selon le CERD.", source: "https://docs.venezuela.justia.com/federales/leyes/ley-de-demarcacion-y-garantia-del-habitat-y-tierras-de-los-pueblos-indigenas.pdf"}
+  ressources: {valeur: "partiel", note: "Droit d'usage, d'exploitation durable et d'administration des ressources de l'habitat (loi organique de 2005, art. 53) ; l'exploitation par l'État des ressources dans l'habitat autochtone reste soumise à information et consultation préalables, et les bénéfices pour les peuples relèvent de la loi (Constitution, art. 120 ; loi organique, art. 54 et 57).", source: "https://www.asambleanacional.gob.ve/storage/documentos/leyes/ley-organi-20220214165309.pdf"}
+  consentement: {valeur: "partiel", note: "Toute activité susceptible d'affecter les peuples et communautés doit leur être soumise en consultation de bonne foi (loi organique de 2005, art. 11 ; Constitution, art. 120) ; le texte prévoit une consultation, non un consentement ; le CERD (2024) relève l'absence de protocole de consultation et des projets miniers menés sans consultation.", source: "https://documents.un.org/doc/undoc/gen/g24/153/25/pdf/g2415325.pdf"}
+  langue: {valeur: "reconnu", note: "Les langues autochtones sont de « uso oficial » (usage officiel) pour les peuples autochtones (Constitution, art. 9 ; loi organique de 2005, art. 94) ; un Institut national des langues autochtones fonctionne selon le rapport de l'État au CERD (2022, § 23-24).", source: "https://www.constituteproject.org/constitution/Venezuela_2009?lang=es"}
+  education: {valeur: "reconnu", note: "Droit à une éducation propre et à un régime éducatif interculturel bilingue (Constitution, art. 121 ; loi organique de 2005, art. 74 et 76).", source: "https://www.asambleanacional.gob.ve/storage/documentos/leyes/ley-organi-20220214165309.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "reconnu", note: "Les peuples autochtones élisent trois députés à l'Assemblée nationale selon leurs traditions et coutumes (Constitution, art. 186) ; l'État garantit leur représentation dans les conseils des États et des municipalités où vit une population autochtone (art. 125) ; le Comité des droits de l'homme (2023) relève que le règlement électoral de 2021 a supprimé le vote direct et secret pour les élus autochtones des États et des municipalités.", source: "https://www.constituteproject.org/constitution/Venezuela_2009?lang=es"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le CERD (CERD/C/VEN/CO/22-24, 2024, § 18) constate que la délimitation et la délivrance des titres sont au point mort depuis 2016 ; l'IWGIA (Indigenous World 2021) estime à environ 85 % la part des territoires autochtones restant à délimiter, et aucun titre n'a été délivré en 2025 (Indigenous World 2026) ; des élections autochtones à l'Assemblée nationale et aux conseils locaux ont eu lieu en 2025.", source: "https://documents.un.org/doc/undoc/gen/g24/153/25/pdf/g2415325.pdf"}
+chronologie:
+  - {annee: 1999, evenement: "La Constitution consacre un chapitre aux droits des peuples autochtones (art. 119 à 126) et reconnaît la juridiction spéciale autochtone (art. 260)."}
+  - {annee: 2001, evenement: "Loi de démarcation et de garantie de l'habitat et des terres des peuples autochtones (Journal officiel n° 37.118, 12 janvier)."}
+  - {annee: 2002, evenement: "Enregistrement de la ratification de la Convention 169 de l'OIT (22 mai) ; début de la procédure de titre des peuples sanema et ye'kwana du bassin du Caura."}
+  - {annee: 2005, evenement: "Loi organique des peuples et communautés autochtones (Journal officiel n° 38.344, 27 décembre)."}
+  - {annee: 2016, evenement: "Arrêt des procédures de délimitation et de délivrance des titres, selon le CERD."}
+  - {annee: 2021, evenement: "Règlement électoral spécial pour l'élection des représentants autochtones aux conseils législatifs des États et aux conseils municipaux, critiqué par le Comité des droits de l'homme en 2023."}
+  - {annee: 2024, evenement: "Observations finales du CERD sur la délimitation des terres et la consultation préalable."}
+  - {annee: 2025, evenement: "Élections autochtones à l'Assemblée nationale et aux conseils locaux ; aucun titre d'habitat ou de terre délivré dans l'année selon l'IWGIA."}
+fiabilite:
+  verifie:
+    - "Texte des articles 9, 119, 120, 121, 125, 126, 186 et 260 de la Constitution (Constitute Project)."
+    - "Journal officiel n° 38.344 du 27 décembre 2005 (fac-similé de l'Assemblée nationale) et articles 11, 20, 23, 53, 54, 57, 69, 74, 76 et 94 de la loi organique de 2005."
+    - "Articles 1, 2, 4, 6 et 12 de la loi de démarcation de 2001 et en-tête du Journal officiel n° 37.118 du 12 janvier 2001."
+    - "Paragraphes 18 à 21 des observations finales du CERD (CERD/C/VEN/CO/22-24, 18 septembre 2024)."
+    - "Paragraphes 45 à 48 des observations finales du Comité des droits de l'homme (CCPR/C/VEN/CO/5, 28 novembre 2023)."
+    - "Chiffre de 724 592 personnes autochtones (recensement 2011) au § 14 du rapport de l'État au CERD (CERD/C/VEN/22-24, 2022)."
+    - "Date d'enregistrement de la ratification de la Convention 169 (collection des traités des Nations unies)."
+  non_confirme:
+    - "Articles 130 à 133 de la loi organique de 2005 lus sur la copie ACNUR : la page correspondante (343.660) manque dans le fac-similé du Journal officiel diffusé par l'Assemblée nationale."
+    - "Nombre de titres de propriété collective délivrés entre 2001 et 2015 et surface titrée : aucun chiffre officiel consulté ; pas de liste officielle des titres trouvée, d'où l'absence de tableau."
+    - "Nombre de peuples : 44 selon le rapport de l'État au CERD, 51 selon l'IWGIA."
+    - "Modalités exactes du scrutin autochtone de 2025 (vote direct ou en assemblées)."
+sources:
+  - {titre: "Constitution de la République bolivarienne du Venezuela (1999, amendée en 2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Venezuela_2009?lang=es"}
+  - {titre: "Ley de Demarcación y Garantía del Hábitat y Tierras de los Pueblos Indígenas (2001) — Justia Venezuela", url: "https://docs.venezuela.justia.com/federales/leyes/ley-de-demarcacion-y-garantia-del-habitat-y-tierras-de-los-pueblos-indigenas.pdf"}
+  - {titre: "Ley Orgánica de Pueblos y Comunidades Indígenas, Journal officiel n° 38.344 (2005) — Asamblea Nacional", url: "https://www.asambleanacional.gob.ve/storage/documentos/leyes/ley-organi-20220214165309.pdf"}
+  - {titre: "Ley Orgánica de Pueblos y Comunidades Indígenas (2005) — copie ACNUR", url: "https://www.acnur.org/fileadmin/Documentos/Pueblos_indigenas/ley_organica_indigena_ven.pdf"}
+  - {titre: "CERD, observations finales sur le Venezuela, CERD/C/VEN/CO/22-24 (2024)", url: "https://documents.un.org/doc/undoc/gen/g24/153/25/pdf/g2415325.pdf"}
+  - {titre: "Rapport du Venezuela au CERD, CERD/C/VEN/22-24 (2022)", url: "https://documents.un.org/doc/undoc/gen/g22/296/83/pdf/g2229683.pdf"}
+  - {titre: "Comité des droits de l'homme, observations finales sur le Venezuela, CCPR/C/VEN/CO/5 (2023)", url: "https://documents.un.org/doc/undoc/gen/g23/232/06/pdf/g2323206.pdf"}
+  - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {titre: "La jurisdicción especial indígena como expresión de las instituciones indígenas de derecho propio en Venezuela — Wataniba (V. Aguilar Castro, 2021)", url: "https://watanibasocioambiental.org/la-jurisdiccion-especial-indigena-como-expresion-de-las-instituciones-indigenas-de-derecho-propio-en-venezuela/"}
+  - {titre: "The Indigenous World 2021 — IWGIA (chapitre Venezuela)", url: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2021.pdf"}
+  - {titre: "The Indigenous World 2026 — IWGIA (chapitre Venezuela)", url: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2026.pdf"}

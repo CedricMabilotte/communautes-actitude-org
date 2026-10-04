@@ -1,0 +1,58 @@
+uid: "aire-protegee-amerindienne-kanashen"
+nom: "Aire protégée amérindienne de Kanashen (Wai Wai)"
+endonyme: ""
+territoire: "Village titré de Kanashen (Konashen), haut Essequibo, région Upper Takutu-Upper Essequibo"
+etats: ["Guyana"]
+region: "ameriques"
+coord: [1.6, -59.0]
+type: "peuple_autochtone"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 201, annee: 2012, perimetre: "résidents du village Konashen-Masakenari au recensement de 2012", source: "https://statisticsguyana.gov.gy/wp-content/uploads/2019/10/Population_By_Village_2012.zip"}
+lieux: {valeur: 1, unite: "village amérindien titré (Kanashen)", annee: 2017, source: "https://faolex.fao.org/docs/pdf/guy172051.pdf"}
+surface_km2: {valeur: 6485.7, annee: 2017, perimetre: "aire protégée déclarée (648 567,2 ha), qui couvre la totalité des terres du village ; le Protected Areas Trust indique 625 000 ha", source: "https://faolex.fao.org/docs/pdf/guy172051.pdf"}
+villages: {valeur: 1, annee: 2012, perimetre: "localité recensée dans l'aire : Konashen-Masakenari", source: "https://statisticsguyana.gov.gy/wp-content/uploads/2019/10/Population_By_Village_2012.zip"}
+resume: >-
+  Le village wai wai de Kanashen, dans le sud du Guyana, détient un titre collectif sur le bassin du haut Essequibo. En août 2017, un avis publié au Journal officiel en application de la loi sur les aires protégées de 2011 (Protected Areas Act, n° 14 de 2011) déclare la totalité de ces terres aire protégée amérindienne. L'avis précise que les terres sont détenues par le conseil de village au nom des Wai Wai du village et que ce conseil est la seule autorité de gestion de l'aire. Ce régime s'ajoute à celui de la loi amérindienne de 2006, qui régit tous les villages titrés (voir la fiche des villages amérindiens titrés du Guyana).
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "registre_apac", detail: "La base mondiale des aires protégées (WDPA, PNUE-WCMC et UICN) enregistre l'aire avec le type de gouvernance « peuples autochtones », la propriété communale et le conseil de village de Kanashen comme autorité de gestion.", annee: 2026, source: "https://www.protectedplanet.net/41053"}
+  - {mecanisme: "dnudpa", detail: "Le Guyana vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+base_nationale:
+  - {instrument: "Protected Areas Act 2011 (loi n° 14 de 2011), partie V : aires protégées amérindiennes", nature: "loi", annee: 2011, source: "https://faolex.fao.org/docs/pdf/guy172057.pdf"}
+  - {instrument: "Declaration of Kanashen Village as an Amerindian Protected Area, avis pris en vertu de l'art. 39, Official Gazette du 18 août 2017", nature: "loi", annee: 2017, source: "https://faolex.fao.org/docs/pdf/guy172051.pdf"}
+  - {instrument: "Amerindian Act 2006 (loi n° 6 de 2006)", nature: "loi", annee: 2006, source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Le conseil de village est la seule autorité de gestion de l'aire (avis de 2017, al. c ; Protected Areas Act 2011, art. 39(2) c) ; il est composé d'un toshao (chef de village) et de conseillers (Amerindian Act 2006, art. 11), élus au scrutin secret (art. 65).", source: "https://faolex.fao.org/docs/pdf/guy172051.pdf"}
+  pouvoir_normatif: {valeur: "partiel", note: "Comme tout village titré, le conseil fait des règles sur l'usage des terres et la faune (Amerindian Act 2006, art. 14), sous réserve de l'accord des deux tiers de l'assemblée du village et de l'approbation du ministre (art. 15) ; le conseil fait préparer le plan de gestion de l'aire (Protected Areas Act 2011, art. 66).", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  justice_propre: {valeur: "partiel", note: "Le conseil peut infliger une amende ou des travaux communautaires pour manquement à ses règles (Amerindian Act 2006, art. 16).", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  terres: {valeur: "reconnu", note: "L'avis de 2017 précise que l'aire couvre la totalité des terres du village, terres communales détenues par le conseil de village au nom des Wai Wai du village (al. a et b), décrites dans le titre de concession de terres d'État (dossier n° 92111).", source: "https://faolex.fao.org/docs/pdf/guy172051.pdf"}
+  ressources: {valeur: "partiel", note: "L'aire est classée en catégorie VI de l'UICN (aire protégée avec usage durable des ressources, avis de 2017, al. d) ; pour cette catégorie, l'autorité de gestion peut autoriser la recherche, la surveillance, les loisirs et des activités durables de faible intensité (Protected Areas Act 2011, art. 61 et 62).", source: "https://faolex.fao.org/docs/pdf/guy172051.pdf"}
+  consentement: {valeur: "partiel", note: "La demande de classement exige une résolution de l'assemblée générale du village (Protected Areas Act 2011, art. 35(1)) ; le ministre peut toutefois déclarer une aire sur des terres de village de sa propre initiative (art. 39(1)).", source: "https://faolex.fao.org/docs/pdf/guy172057.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Après publication de l'avis, l'aire peut demander un financement au fonds fiduciaire des aires protégées (Protected Areas Act 2011, art. 40) ; le conseil peut lever des taxes sur les résidents, soumises à l'approbation du ministre (Amerindian Act 2006, art. 13(1) l et 18).", source: "https://faolex.fao.org/docs/pdf/guy172057.pdf"}
+  representation: {valeur: "partiel", note: "Le toshao siège au conseil national des toshaos, qui conseille le ministre sur les lois et politiques touchant les villages (Amerindian Act 2006, art. 38 à 41).", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  statut_personnel: {valeur: "partiel", note: "Le conseil fixe par ses règles les conditions de la qualité de résident du village (Amerindian Act 2006, art. 14(1) a).", source: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "non_etablie", note: "La base mondiale des aires protégées indique un plan de gestion approuvé pour 2016-2020 et une évaluation de l'efficacité de gestion (METT) en 2017 ; selon la Commission des aires protégées, le conseil de village emploie un gestionnaire et des gardes financés par le fonds fiduciaire des aires protégées ; aucune source indépendante sur l'application du régime n'a été trouvée.", source: "https://www.protectedplanet.net/41053"}
+chronologie:
+  - {annee: 2000, evenement: "Une crue conduit les habitants à s'installer à Masakenari, à quelques kilomètres de l'ancien village d'Akotopono."}
+  - {annee: 2004, evenement: "Le village de Kanashen reçoit un titre collectif sur ses terres, selon la Commission des aires protégées."}
+  - {annee: 2006, evenement: "Loi amérindienne (Amerindian Act 2006) : régime des villages titrés et de leurs conseils."}
+  - {annee: 2007, evenement: "Le village désigne ses terres zone de conservation communautaire (Community Owned Conservation Area) en vertu de la loi amérindienne de 2006, selon la Commission des aires protégées."}
+  - {annee: 2011, evenement: "Loi sur les aires protégées (Protected Areas Act, n° 14 de 2011) : création de la catégorie d'aire protégée amérindienne (partie V)."}
+  - {annee: 2017, evenement: "Avis publié au Journal officiel le 18 août : les terres du village de Kanashen sont déclarées aire protégée amérindienne, gérée par le conseil de village."}
+fiabilite:
+  verifie: ["Texte de l'avis de 2017 (surface de 648 567,2 ha, terres détenues par le conseil de village, autorité de gestion, catégorie VI) sur FAOLEX.", "Articles 34 à 40 et 66 du Protected Areas Act 2011 sur FAOLEX.", "Fiche WDPA n° 41053 : gouvernance par des peuples autochtones, propriété communale, conseil de village de Kanashen.", "Population de 201 habitants pour Konashen-Masakenari (recensement de 2012, Statistics Guyana)."]
+  non_confirme: ["Écart de surface : 648 567,2 ha dans l'avis de 2017, 625 000 ha sur le site du Protected Areas Trust ; la WDPA indique une année de statut 2007, qui correspond à la désignation communautaire de 2007 citée par la Commission des aires protégées.", "Date du titre foncier du village (dossier n° 92111) : 2004 selon la Commission des aires protégées ; le titre lui-même n'a pas été ouvert.", "Durée de l'accord prévu par l'art. 37(1) c entre la commission et le conseil de village : texte non trouvé.", "Le déménagement de 2000 est cité d'après Wikipédia, sans source primaire ouverte."]
+sources:
+  - {titre: "Declaration of Kanashen Village as an Amerindian Protected Area — Official Gazette, 18 août 2017 (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/guy172051.pdf"}
+  - {titre: "Protected Areas Act 2011 (Act No. 14 of 2011) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/guy172057.pdf"}
+  - {titre: "Amerindian Act 2006 (Act No. 6 of 2006) — Parlement du Guyana", url: "https://parliament.gov.gy/documents/acts/4680-act_no_6_of_2006.pdf"}
+  - {titre: "Kanashen Amerindian Protected Area — Protected Areas Trust", url: "https://protectedareastrust.org.gy/protected-areas/kanashen-amerindian-protected-area/"}
+  - {titre: "Kanashen Amerindian Protected Area — Protected Planet (WDPA, PNUE-WCMC et UICN)", url: "https://www.protectedplanet.net/41053"}
+  - {titre: "Population by Village, recensement de 2012 — Statistics Guyana", url: "https://statisticsguyana.gov.gy/wp-content/uploads/2019/10/Population_By_Village_2012.zip"}
+  - {titre: "Kanashen Amerindian Protected Area — Commission des aires protégées du Guyana", url: "https://www.pac.gov.gy/kanashen-amerindian-protected-area/"}
+  - {titre: "Kanashen — Wikipédia (en anglais)", url: "https://en.wikipedia.org/wiki/Kanashen"}
+  - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

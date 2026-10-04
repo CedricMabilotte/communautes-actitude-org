@@ -1,0 +1,60 @@
+uid: "frisons-nord-saterland-allemagne"
+nom: "Frisons du Nord et du Saterland"
+endonyme: ""
+territoire: "Arrondissement de Frise-du-Nord (Kreis Nordfriesland) et île de Helgoland (Schleswig-Holstein) ; commune de Saterland (Basse-Saxe)"
+etats: ["Allemagne"]
+region: "europe"
+coord: [54.6, 8.9]
+type: "minorite_nationale"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 50000, annee: null, perimetre: "personnes qui se considèrent comme Frisons du Nord, estimation du Landtag du Schleswig-Holstein sans année (aucun recensement ethnique en Allemagne) ; la même page compte environ 8 000 locuteurs actifs du frison en Frise-du-Nord ; Saterfrisons non comptés", source: "https://www.landtag.ltsh.de/parlament/friesen/"}
+lieux: {valeur: null, unite: "arrondissement et communes de la zone d'application de la loi sur le frison", annee: null, source: ""}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Les Frisons forment l'une des quatre minorités nationales et groupes ethniques protégés en Allemagne, au titre de la Convention-cadre du Conseil de l'Europe depuis 1998. Les Frisons du Nord vivent dans l'arrondissement de Frise-du-Nord et sur l'île de Helgoland, en Schleswig-Holstein, dont la Constitution, depuis 1990, donne à la « friesische Volksgruppe » (groupe ethnique frison) un droit à la protection et à la promotion. La loi sur le frison de 2004 permet de s'adresser en frison aux autorités de ces deux territoires et prévoit une signalisation bilingue. Une fondation de droit public pour le groupe ethnique frison existe depuis 2020. Le frison du Saterland, en Basse-Saxe, est protégé au titre de la Charte européenne des langues régionales ou minoritaires, sans loi spécifique comparable.
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième avis du Comité consultatif sur l'Allemagne (adopté le 3 février 2022) : § 33, la Convention-cadre s'applique aux Danois, Frisons, Sintés et Roms, et Sorabes ; § 93, soutien de la Basse-Saxe au frison du Saterland ; § 94, Fondation pour le groupe ethnique frison, dont quatre des neuf sièges du conseil reviennent à des représentants frisons.", annee: 2022, source: "https://rm.coe.int/5th-op-germany-en/1680a6e008"}
+  - {mecanisme: "charte_langues_regionales", detail: "Déclaration allemande de 1998 désignant le frison du Nord et le frison du Saterland comme langues minoritaires ; septième rapport d'évaluation du Comité d'experts (adopté le 15 juin 2022), § 55 à 61, sur l'enseignement, l'administration, la justice et les médias dans ces deux langues.", annee: 2022, source: "https://rm.coe.int/min-lang-2022-7-germany-7th-er-fr220923-final-french-public/1680a84131"}
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Constitution du Land de Schleswig-Holstein, art. 6 (art. 5 dans la version de 1990), nationale Minderheiten und Volksgruppen", nature: "constitution", annee: 1990, source: "https://www.landtag.ltsh.de/parlament/minderheitenpolitik/"}
+  - {instrument: "Loi sur la promotion du frison dans l'espace public (Friesisch-Gesetz, FriesischG), 13 décembre 2004, modifiée le 30 juin 2016", nature: "loi", annee: 2004, source: "https://de.wikisource.org/wiki/Friesisch-Gesetz_(2016)"}
+  - {instrument: "Déclaration de l'Allemagne du 11 mai 1995 relative à la Convention-cadre pour la protection des minorités nationales, approuvée par la loi du 22 juillet 1997, et déclaration du 23 janvier 1998 relative à la Charte européenne des langues régionales ou minoritaires", nature: "traite", annee: 1998, source: "https://www.minderheitensekretariat.de/wp-content/uploads/2022/08/rechtsvorschriften.pdf"}
+  - {instrument: "Loi électorale fédérale (Bundeswahlgesetz), § 4, al. 2 : exemption du seuil de 5 % pour les listes des partis de minorités nationales", nature: "loi", annee: null, source: "https://www.gesetze-im-internet.de/bwahlg/__4.html"}
+droits:
+  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_etabli", note: "", source: ""}
+  consentement: {valeur: "partiel", note: "Depuis 1988, un comité pour les questions du groupe ethnique frison (Friesengremium), présidé par le président du Landtag du Schleswig-Holstein, réunit deux fois par an des députés du Land, des députés fédéraux élus dans le Land, le délégué aux minorités du ministre-président et des membres du Friesenrat (Conseil frison) ; il examine les questions de langue, d'éducation et de culture frisonnes, sans pouvoir de décision.", source: "https://www.landtag.ltsh.de/parlament/friesengremium/"}
+  langue: {valeur: "partiel", note: "Loi sur le frison de 2004, § 1 : dans l'arrondissement de Frise-du-Nord et à Helgoland, les habitants peuvent s'adresser en frison aux autorités, qui « peuvent » répondre en frison ; documents et preuves en frison admis dans les procédures civiles en Frise-du-Nord ; § 3 : signalisation bilingue obligatoire sur les bâtiments des autorités du Land ; § 6 : panneaux de localité et de direction bilingues possibles en Frise-du-Nord. Le frison du Saterland n'a pas de base légale comparable devant les tribunaux, rapport de la Charte de 2022, § 60.", source: "https://de.wikisource.org/wiki/Friesisch-Gesetz_(2016)"}
+  education: {valeur: "partiel", note: "En Basse-Saxe, un décret sur « la région, le bas allemand et le frison saterois dans l'enseignement », renouvelé en 2019, encadre l'enseignement du frison du Saterland ; en Frise-du-Nord, le frison du Nord est proposé dans 16 écoles maternelles (janvier 2021) et 12 établissements scolaires, sans système scolaire propre, rapport de la Charte de 2022, § 55 et 59.", source: "https://rm.coe.int/min-lang-2022-7-germany-7th-er-fr220923-final-french-public/1680a84131"}
+  fiscalite: {valeur: "partiel", note: "La Fondation pour le groupe ethnique frison du Schleswig-Holstein, fondation de droit public créée début 2020, disposait en 2020 d'environ 2,2 millions d'euros d'actifs et des représentants frisons occupent quatre des neuf sièges de son conseil ; la Basse-Saxe verse jusqu'à 10 000 euros par an aux projets de la commune de Saterland depuis 2015 ; aucun pouvoir fiscal ni budget garanti par la loi, avis du Comité consultatif de la Convention-cadre (ACFC) de 2022, § 93 et 94.", source: "https://rm.coe.int/5th-op-germany-en/1680a6e008"}
+  representation: {valeur: "partiel", note: "La loi électorale fédérale, § 4, al. 2, exempte du seuil de 5 % les listes des partis de minorités nationales ; aucun siège réservé.", source: "https://www.gesetze-im-internet.de/bwahlg/__4.html"}
+  statut_personnel: {valeur: "partiel", note: "L'appartenance à une minorité nationale est libre, Constitution du Schleswig-Holstein, art. 6, al. 1 ; le préambule de la loi sur le frison de 2004 reprend ce principe pour le groupe ethnique frison ; aucun statut civil propre.", source: "https://www.landtag.ltsh.de/parlament/minderheitenpolitik/"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Le Comité d'experts de la Charte note en 2022 qu'il est très rare que des documents soient soumis en frison du Nord aux autorités, que les enseignants manquent pour le frison du Nord, que le frison du Saterland n'est pas proposé au niveau secondaire faute d'enseignants et que la commune de Saterland ne traduit aucun document administratif en frison (§ 55, 56, 59 et 60).", source: "https://rm.coe.int/min-lang-2022-7-germany-7th-er-fr220923-final-french-public/1680a84131"}
+chronologie:
+  - {annee: 1949, evenement: "La Landessatzung du Schleswig-Holstein pose le principe de la libre déclaration d'appartenance à une minorité."}
+  - {annee: 1988, evenement: "Création du comité du Landtag pour les questions du groupe ethnique frison."}
+  - {annee: 1990, evenement: "Nouvelle Constitution du Schleswig-Holstein : obligation de protéger et de promouvoir le groupe ethnique frison (art. 5, devenu art. 6)."}
+  - {annee: 1998, evenement: "Entrée en vigueur de la Convention-cadre en Allemagne, appliquée aux Frisons ; déclaration sur la Charte des langues désignant le frison du Nord et le frison du Saterland."}
+  - {annee: 2004, evenement: "Loi sur le frison (13 décembre) : frison admis devant les autorités de Frise-du-Nord et de Helgoland."}
+  - {annee: 2016, evenement: "Modification de la loi sur le frison dans le cadre de la loi de mise en œuvre du mandat constitutionnel de renforcement des minorités (30 juin)."}
+  - {annee: 2020, evenement: "Création de la Fondation pour le groupe ethnique frison du Schleswig-Holstein."}
+fiabilite:
+  verifie: ["Constitution du Schleswig-Holstein, art. 6, al. 1 et 2 (texte reproduit par le Landtag).", "Loi sur le frison, version 2016, § 1 à 8 (texte reproduit sur Wikisource).", "Composition et date de création du comité frison du Landtag (site du Landtag).", "Avis ACFC de 2022, § 33, 93 et 94.", "Rapport du Comité d'experts de la Charte de 2022, § 55 à 61.", "Loi électorale fédérale, § 4, al. 2.", "Déclarations allemandes du 11 mai 1995 (Convention-cadre) et du 23 janvier 1998 (Charte) (recueil de la Domowina)."]
+  non_confirme: ["Population de 50 000 Frisons du Nord : estimation du Landtag, sans année ni méthode ; nombre de Saterfrisons non trouvé.", "Loi constitutive de la Fondation frisonne (2019 ou 2020) : texte non consulté ; composition du conseil connue par l'avis ACFC seulement.", "Application de l'exemption électorale fédérale à un parti frison : non vérifiée ; le SSW, exempté au niveau du Land comme parti de la minorité danoise, se présente aussi comme parti des Frisons.", "Nombre de communes et surface de la zone d'application de la loi sur le frison : non trouvés sur une source ouverte.", "Texte officiel sur le portail juridique du Schleswig-Holstein (juris) : inaccessible lors de la recherche."]
+sources:
+  - {titre: "Friesische Volksgruppe — Landtag du Schleswig-Holstein", url: "https://www.landtag.ltsh.de/parlament/friesen/"}
+  - {titre: "Friesengremium — Landtag du Schleswig-Holstein", url: "https://www.landtag.ltsh.de/parlament/friesengremium/"}
+  - {titre: "Minderheitenpolitik (texte de l'art. 6 de la Constitution) — Landtag du Schleswig-Holstein", url: "https://www.landtag.ltsh.de/parlament/minderheitenpolitik/"}
+  - {titre: "Friesisch-Gesetz, version 2016 — Wikisource", url: "https://de.wikisource.org/wiki/Friesisch-Gesetz_(2016)"}
+  - {titre: "Fifth Opinion on Germany — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/5th-op-germany-en/1680a6e008"}
+  - {titre: "Septième rapport d'évaluation sur l'Allemagne — Comité d'experts de la Charte européenne des langues régionales ou minoritaires", url: "https://rm.coe.int/min-lang-2022-7-germany-7th-er-fr220923-final-french-public/1680a84131"}
+  - {titre: "Bundeswahlgesetz, § 4 — gesetze-im-internet.de", url: "https://www.gesetze-im-internet.de/bwahlg/__4.html"}
+  - {titre: "Rechtsgrundlagen — Friesenrat Sektion Nord", url: "https://friesenrat.de/rechtsgrundlagen/"}
+  - {titre: "Rechtsvorschriften zum Schutz und zur Förderung des sorbischen Volkes (déclarations de 1995 et 1998) — Domowina, recueil hébergé par le Secrétariat des minorités", url: "https://www.minderheitensekretariat.de/wp-content/uploads/2022/08/rechtsvorschriften.pdf"}

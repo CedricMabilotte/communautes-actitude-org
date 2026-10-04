@@ -1,0 +1,81 @@
+uid: "communautes-autochtones-argentine"
+nom: "Communautés autochtones d'Argentine"
+endonyme: ""
+territoire: "Ensemble de l'Argentine ; les communautés inscrites se trouvent surtout dans les provinces de Salta, Jujuy, Formosa, Misiones, Chubut et Chaco"
+etats: ["Argentine"]
+region: "ameriques"
+coord: [-34.0, -64.0]
+type: "peuple_autochtone"
+base: "mixte"
+types_secondaires: []
+population: {valeur: 1306730, annee: 2022, perimetre: "personnes vivant en logement particulier qui se reconnaissent autochtones ou descendantes d'un peuple autochtone ou originaire, ensemble de l'Argentine (recensement de 2022, INDEC), soit 2,9 % de cette population", source: "https://www.indec.gob.ar/ftp/cuadros/poblacion/censo2022_poblacion_indigena.pdf"}
+lieux: {valeur: 1801, unite: "communautés autochtones dotées de la personnalité juridique (1 657) ou dont le relevé territorial est terminé (978), selon la liste officielle du ministère de l'Intérieur arrêtée en octobre 2025", annee: 2025, source: "http://datos.mininterior.gob.ar/dataset/6a702e6f-3292-44fe-804f-16b8dee008c1/resource/3c2137d5-46d3-40cf-9e01-ee406746b27a/download/listado-de-comunidades-indigenas-20251112.csv"}
+surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communautés autochtones (comunidades indígenas) que l'État argentin inscrit comme personnes juridiques ou dont il a relevé les terres. Depuis la réforme constitutionnelle de 1994, l'article 75, alinéa 17, reconnaît la préexistence ethnique et culturelle des peuples autochtones, la personnalité juridique de leurs communautés et la propriété communautaire des terres qu'elles occupent traditionnellement, qui ne peuvent être vendues, transmises, grevées ni saisies. La loi 23.302 de 1985 confie l'inscription des communautés au registre national (RENACI) de l'Institut national des affaires autochtones (INAI) ; la loi 26.160 de 2006 suspend les expulsions et ordonne un relevé des terres occupées ; le décret 1083 de décembre 2024 met fin à cette urgence et à la suspension des expulsions. En 2025, la liste officielle compte 1 801 communautés, dont 1 657 dotées de la personnalité juridique, rattachées à 38 peuples de référence. Le régime de la province du Chaco et le cas Lhaka Honhat (Salta) ont leur propre fiche.
+reconnaissance_regionale:
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Communautés autochtones membres de l'association Lhaka Honhat (Notre Terre) c. Argentine, du 6 février 2020 : violation du droit de propriété communautaire (art. 21 de la Convention américaine) sur les lots fiscaux 14 et 55 du département de Rivadavia (Salta), et obligation de délimiter, démarquer et titrer ces terres.", annee: 2020, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "L'Argentine ratifie la Convention 169 de l'OIT en 2000, date rappelée par le Rapporteur spécial dans son rapport de 2012.", annee: 2000, source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+  - {mecanisme: "dnudpa", detail: "L'Argentine vote pour la Déclaration des Nations unies sur les droits des peuples autochtones à l'Assemblée générale en 2007.", annee: 2007, source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport de James Anaya sur la situation des peuples autochtones en Argentine (A/HRC/21/47/Add.2), après une mission du 27 novembre au 7 décembre 2011 : relevé territorial, titres provinciaux, industries extractives, expulsions.", annee: 2012, source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+base_nationale:
+  - {instrument: "Constitution de la Nation argentine, réforme de 1994, art. 75, alinéa 17 (attributions du Congrès, exercées concurremment par les provinces)", nature: "constitution", annee: 1994, source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/804/norma.htm"}
+  - {instrument: "Loi 23.302 de 1985 sur la politique autochtone et l'appui aux communautés aborigènes, art. 2, 5 à 7, 11 et 14", nature: "loi", annee: 1985, source: "https://www.argentina.gob.ar/normativa/nacional/norma-23790/texto"}
+  - {instrument: "Loi 26.160 de 2006 d'urgence en matière de possession et de propriété des terres des communautés autochtones, prorogée par les lois 26.554 (2009), 26.894 (2013) et 27.400 (2017), puis par le décret 805/2021 jusqu'au 23 novembre 2025 ; le décret 1083/2024 (Bulletin officiel du 10 décembre 2024) déclare finies l'urgence (art. 1) et la suspension des expulsions (art. 2)", nature: "loi", annee: 2006, source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/122499/texact.htm"}
+  - {instrument: "Loi 26.206 de 2006 sur l'éducation nationale, art. 52 à 54 (éducation interculturelle bilingue)", nature: "loi", annee: 2006, source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/123542/norma.htm"}
+  - {instrument: "Code civil et commercial de la Nation (loi 26.994 de 2014), art. 18", nature: "loi", annee: 2014, source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/norma.htm"}
+  - {instrument: "Cour suprême de justice de la Nation, Comunidad Indígena Hoktek T'Oi Pueblo Wichí, 8 septembre 2003 : l'art. 75, alinéa 17, s'applique directement, sans loi d'application", nature: "jurisprudence", annee: 2003, source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "La Constitution (art. 75, al. 17, 1994) et la loi 23.302 (art. 2, 1985) donnent la personnalité juridique aux communautés, acquise par inscription au registre national ou à un registre provincial ; la loi 23.302 (art. 4) soumet les relations internes aux lois sur les coopératives, mutuelles ou autres associations. Aucune institution communautaire n'exerce de compétence publique.", source: "https://www.argentina.gob.ar/normativa/nacional/norma-23790/texto"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La Constitution (art. 75, al. 17, 1994) reconnaît la possession et la propriété communautaires des terres occupées traditionnellement ; aucune ne peut être aliénée, transmise, grevée ni saisie. La loi 23.302 (art. 7 et 11) prévoit l'attribution de terres en propriété, insaisissables et non exécutables, et le Code civil et commercial (art. 18, 2014) reprend ce droit « selon ce qu'établit la loi ». En 2020, la Cour interaméricaine juge ces règles insuffisantes faute de procédure de titrage propre (§ 353) et ordonne à l'État d'en adopter une (§ 354).", source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+  ressources: {valeur: "partiel", note: "La Constitution (art. 75, al. 17, 1994) assure la participation des peuples autochtones à la gestion de leurs ressources naturelles ; l'art. 124 laisse aux provinces le domaine des ressources de leur territoire, ce que le Rapporteur spécial relève en 2012.", source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 75, al. 17) assure la participation aux « demás intereses que los afecten » (autres intérêts qui les concernent) et la Convention 169 de l'OIT, ratifiée en 2000, impose la consultation ; le Rapporteur spécial relève en 2012 des lacunes de consultation, y compris sur le projet de loi sur la propriété communautaire.", source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "partiel", note: "La Constitution (art. 75, al. 17) garantit une éducation bilingue et interculturelle ; la loi 26.206 de 2006 (art. 52 et 53) en fait une modalité du système éducatif et charge l'État de créer des mécanismes de participation permanente des peuples autochtones, sans système scolaire propre.", source: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/123542/norma.htm"}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "La loi 23.302 (art. 5, 1985) crée l'INAI comme organisme décentralisé « con participación indígena » ; en 2004, l'INAI crée le Conseil de participation autochtone (Consejo de Participación Indígena, CPI) pour associer les peuples autochtones à ses programmes. Aucun siège n'est réservé au Congrès.", source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "En 2012, le Rapporteur spécial constate un écart entre le cadre normatif et sa mise en œuvre : la plupart des communautés n'ont pas de reconnaissance légale de leurs terres conforme à leur occupation traditionnelle, le relevé de la loi 26.160 ne comporte pas de procédure de titrage et certaines provinces refusent de l'appliquer. En 2020, la Cour interaméricaine condamne l'Argentine pour l'absence de titre sur les lots 14 et 55 de Salta, réclamé depuis 1991.", source: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+chronologie:
+  - {annee: 1985, evenement: "La loi 23.302 reconnaît la personnalité juridique des communautés et crée l'INAI."}
+  - {annee: 1994, evenement: "La réforme constitutionnelle introduit l'art. 75, alinéa 17."}
+  - {annee: 2000, evenement: "Ratification de la Convention 169 de l'OIT."}
+  - {annee: 2003, evenement: "La Cour suprême juge l'art. 75, alinéa 17, d'application directe (affaire Hoktek T'Oi)."}
+  - {annee: 2004, evenement: "L'INAI crée le Conseil de participation autochtone."}
+  - {annee: 2006, evenement: "La loi 26.160 suspend les expulsions et ordonne le relevé des terres ; la loi 26.206 organise l'éducation interculturelle bilingue."}
+  - {annee: 2009, evenement: "Première prorogation de la loi 26.160 (loi 26.554), suivie des lois 26.894 (2013) et 27.400 (2017)."}
+  - {annee: 2014, evenement: "Le Code civil et commercial (art. 18) reconnaît la propriété communautaire et renvoie à la loi."}
+  - {annee: 2020, evenement: "Arrêt Lhaka Honhat de la Cour interaméricaine des droits de l'homme."}
+  - {annee: 2021, evenement: "Le décret 805/2021 proroge la loi 26.160 jusqu'au 23 novembre 2025."}
+  - {annee: 2024, evenement: "Le décret 1083/2024 met fin à l'urgence de la loi 26.160 et à la suspension des expulsions."}
+  - {annee: 2025, evenement: "La liste officielle compte 1 801 communautés, dont 1 657 dotées de la personnalité juridique et 978 au relevé territorial terminé."}
+fiabilite:
+  verifie:
+    - "Texte de l'art. 75, alinéa 17, de la Constitution (Infoleg et rapport A/HRC/21/47/Add.2)."
+    - "Art. 2, 4, 5, 7 et 11 de la loi 23.302 (argentina.gob.ar)."
+    - "Art. 1 à 4 de la loi 26.160, ses prorogations de 2009, 2013, 2017 et 2021, et la fin de l'urgence par le décret 1083/2024 (texte consolidé Infoleg)."
+    - "Insuffisance des procédures de titrage constatée par la Cour interaméricaine (arrêt Lhaka Honhat, § 353 et 354)."
+    - "1 306 730 personnes se reconnaissent autochtones au recensement de 2022 (INDEC)."
+    - "1 801 communautés, dont 1 657 inscrites et 978 au relevé terminé, rattachées à 38 peuples de référence (liste du ministère de l'Intérieur, octobre 2025)."
+    - "Arrêt Lhaka Honhat du 6 février 2020 (Cour interaméricaine)."
+  non_confirme:
+    - "Recours en justice contre le décret 1083/2024 : non vérifié."
+    - "Nombre de peuples reconnus : 35 selon l'IWGIA, 38 peuples de référence dans la liste officielle de 2025."
+    - "Surface totale relevée ou titrée : aucune source officielle récente ouverte."
+    - "Statut co-officiel de langues autochtones dans certaines provinces (Chaco, Corrientes) : non vérifié."
+sources:
+  - {titre: "Constitution de la Nation argentine — Infoleg", url: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/804/norma.htm"}
+  - {titre: "Loi 23.302 — argentina.gob.ar", url: "https://www.argentina.gob.ar/normativa/nacional/norma-23790/texto"}
+  - {titre: "Loi 26.160, texte consolidé — Infoleg", url: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/122499/texact.htm"}
+  - {titre: "Loi 26.206 sur l'éducation nationale — Infoleg", url: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/120000-124999/123542/norma.htm"}
+  - {titre: "Code civil et commercial de la Nation — Infoleg", url: "https://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/norma.htm"}
+  - {titre: "Liste des communautés autochtones avec personnalité juridique ou relevé territorial, 2025 — ministère de l'Intérieur (datos.gob.ar)", url: "http://datos.mininterior.gob.ar/dataset/6a702e6f-3292-44fe-804f-16b8dee008c1/resource/3c2137d5-46d3-40cf-9e01-ee406746b27a/download/listado-de-comunidades-indigenas-20251112.csv"}
+  - {titre: "Recensement 2022, population autochtone — INDEC", url: "https://www.indec.gob.ar/ftp/cuadros/poblacion/censo2022_poblacion_indigena.pdf"}
+  - {titre: "Rapport du Rapporteur spécial sur la situation des peuples autochtones en Argentine, A/HRC/21/47/Add.2 (2012)", url: "https://documents.un.org/doc/undoc/gen/g12/149/48/pdf/g1214948.pdf"}
+  - {titre: "Cour interaméricaine des droits de l'homme, Lhaka Honhat c. Argentine (2020)", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_400_esp.pdf"}
+  - {titre: "IWGIA — Argentina", url: "https://iwgia.org/en/argentina.html"}

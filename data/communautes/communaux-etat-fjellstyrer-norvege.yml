@@ -1,0 +1,57 @@
+uid: "communaux-etat-fjellstyrer-norvege"
+nom: "Communaux d'État de Norvège (fjellstyrer)"
+endonyme: "Statsallmenningar og fjellstyre"
+territoire: "Communaux d'État (statsallmenninger) du sud et du centre de la Norvège"
+etats: ["Norvège"]
+region: "europe"
+coord: [61.8, 9.5]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 93, unite: "conseils de montagne (fjellstyrer)", annee: 2026, source: "https://www.fjellstyrene.no/om-fjellstyrene"}
+surface_km2: {valeur: 26600, annee: 2026, perimetre: "ensemble des communaux d'État du sud et du centre de la Norvège (26,6 millions de décares)", source: "https://www.fjellstyrene.no/om-fjellstyrene"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les communaux d'État (statsallmenninger, terres dont l'État est propriétaire et sur lesquelles les habitants des vallées voisines détiennent des droits d'usage) du sud et du centre de la Norvège, soit 26,6 millions de décares (environ 26 600 km²) répartis dans 73 communes et 9 comtés. La loi sur les montagnes (fjellova) du 6 juin 1975 n° 31 confie l'administration des droits d'usage liés à l'agriculture (pâturage, alpage) et des droits de chasse, de piégeage et de pêche à un conseil de montagne (fjellstyre) dans chaque commune qui compte un communal d'État. Le conseil compte cinq membres désignés par le conseil municipal pour quatre ans ; la majorité doit résider dans le communal ou dans la communauté villageoise titulaire des droits. Le sol appartient à l'État et sa propriété est gérée par l'entreprise publique Statskog SF ; le bois relève d'un autre régime.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Lov om utnytting av rettar og lunnende m.m. i statsallmenningane (fjellova, loi sur l'utilisation des droits et ressources dans les communaux d'État), 6 juin 1975 n° 31, en vigueur en 1976", nature: "loi", annee: 1975, source: "https://snl.no/fjellova"}
+  - {instrument: "Loi sur les montagnes du 12 mars 1920, première fjellov, remplacée en 1975", nature: "loi", annee: 1920, source: "https://snl.no/fjelloven"}
+  - {instrument: "Statsallmenningsloven (loi de 1992 sur les forêts des communaux d'État), droits d'usage sur le bois", nature: "loi", annee: 1992, source: "https://snl.no/statsallmenning"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Chaque commune qui compte un communal d'État a un conseil de montagne (fjellstyre) de cinq membres, désignés par le conseil municipal pour quatre ans, dont la majorité doit résider dans le communal ou dans le village titulaire du droit de communal (fjellova 1975). Les membres ne sont pas élus par les ayants droit.", source: "https://snl.no/fjellstyre"}
+  pouvoir_normatif: {valeur: "partiel", note: "Dans le cadre de la fjellova et de ses règlements, le conseil de montagne fixe les règles de chasse et de pêche du communal ; la commune donne son avis avant la décision et, en cas de désaccord, la Direction de l'environnement (Miljødirektoratet) tranche. Les recours contre les décisions du conseil vont à Miljødirektoratet pour la chasse et la pêche, à la Direction de l'agriculture (Landbruksdirektoratet) pour le reste (fjellova § 10).", source: "https://www.fjellstyrene.no/om-fjellstyrene"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Le sol des communaux d'État appartient à l'État ; le droit d'usage « appartient au village ou au hameau qui l'exerce depuis les temps anciens » (fjellova § 2). Les exploitants agricoles peuvent obtenir, en vertu de la fjellova, l'attribution de terres du communal pour un alpage (seter) ou un pâturage ; la loi restreint la disposition et la vente du sol (§ 12 et § 13).", source: "https://snl.no/statsallmenning"}
+  ressources: {valeur: "partiel", note: "Les exploitations agricoles qui détiennent le plein droit de communal peuvent avoir un droit de pâturage, d'alpage, de chasse, de piégeage et de pêche ; les habitants permanents du village peuvent aussi avoir des droits propres, surtout de chasse et de pêche (fjellova § 2). Le droit au bois relève d'une autre loi, la statsallmenningsloven du 19 juin 1992 n° 60.", source: "https://snl.no/statsallmenning"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Chaque conseil tient une caisse de montagne (fjellkasse). Les recettes tirées du sol des communaux (baux de terrains à chalets, gravier et minerai, droits de chute d'eau) sont partagées entre la caisse de montagne et un fonds du propriétaire (grunneierfondet) géré par Statskog SF, qui finance la gestion des communaux et des aides à l'activité économique. La commune paie l'indemnité des membres du conseil si la caisse ne suffit pas.", source: "https://www.fjellstyrene.no/om-fjellstyrene"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Selon le Store norske leksikon (article signé par un professeur de droit de l'université de Tromsø), les conseils de montagne administrent l'usage des communaux d'État et sont au nombre de 93 en 2023. La fédération des conseils indique qu'ils employaient en 2012 environ 95 gardes de montagne (fjelloppsyn), soit environ 60 équivalents temps plein. Aucune évaluation publique indépendante n'a été trouvée.", source: "https://snl.no/fjellstyre"}
+chronologie:
+  - {annee: 1908, evenement: "Début des travaux de la commission des hautes montagnes (Høgfjellskommisjonen), qui délimite jusqu'en 1953 les terres de l'État et les terres privées."}
+  - {annee: 1920, evenement: "Première loi sur les montagnes (12 mars) : création des conseils de montagne."}
+  - {annee: 1965, evenement: "Les conseils de montagne reçoivent la moitié des loyers des baux de chalets et d'hôtels dans les communaux."}
+  - {annee: 1975, evenement: "Loi sur les montagnes du 6 juin 1975 n° 31, en vigueur en 1976 ; recettes attribuées par la loi à la caisse de montagne."}
+  - {annee: 1992, evenement: "Loi distincte sur les forêts des communaux d'État."}
+  - {annee: 2018, evenement: "Rapport public NOU 2018:11 « Ny fjellov » (nouvelle loi sur les montagnes) : proposition de regrouper en une seule loi les règles des communaux d'État ; texte non adopté par le Storting à la date de consultation."}
+fiabilite:
+  verifie: ["Surface de 26,6 millions de décares, 93 conseils, désignation par le conseil municipal, partage des compétences avec Statskog SF, rôle de la commune, de Miljødirektoratet et de Landbruksdirektoratet, partage des recettes foncières : page de la fédération des conseils de montagne.", "Composition (cinq membres, quatre ans, majorité de résidents), 93 conseils en 2023 : Store norske leksikon, article « fjellstyre ».", "73 communes, 9 comtés, § 2, § 12 et § 13 de la fjellova, loi de 1992, commission de 1908-1953 : Store norske leksikon, article « statsallmenning ».", "Loi de 1920, chapitre 5 (caisse de montagne), NOU 2018:11 non adopté : Store norske leksikon, article « fjellova ».", "Liste des conseils du tableau : annuaire de la fédération (87 conseils nommés et deux entrées groupées, « Fjellstyrene i Stjørdal » et « Fjellstyrene i Lierne »)."]
+  non_confirme: ["Texte officiel de la fjellova sur Lovdata non consulté directement (accès refusé) ; articles cités d'après la fédération et le Store norske leksikon.", "Nombre de conseils : 93 selon la fédération et le Store norske leksikon ; l'annuaire de la fédération nomme 87 conseils et renvoie pour Stjørdal et Lierne à des entrées groupées dont la composition n'a pas été vérifiée.", "Nombre de propriétés titulaires de droits et population concernée : aucune source trouvée.", "Aucun document de l'ONU ou d'un organe régional visant ce régime n'a été trouvé."]
+sources:
+  - {titre: "Om fjellstyrene — Norges Fjellstyresamband", url: "https://www.fjellstyrene.no/om-fjellstyrene"}
+  - {titre: "Jordbruk og bruksretter — Norges Fjellstyresamband", url: "https://www.fjellstyrene.no/jordbruk-og-bruksretter"}
+  - {titre: "Tilleggsjord — Norges Fjellstyresamband", url: "https://www.fjellstyrene.no/tilleggsjord"}
+  - {titre: "Finn fjellstyre (annuaire par comté) — Norges Fjellstyresamband", url: "https://www.fjellstyrene.no/finn-fjellstyre"}
+  - {titre: "Et tilbakeblikk (historique du gardiennage) — Norges Fjellstyresamband", url: "https://www.fjellstyrene.no/historie"}
+  - {titre: "Fjellova — Store norske leksikon", url: "https://snl.no/fjellova"}
+  - {titre: "Fjellstyrene i Lierne", url: "https://www.fjellstyreneilierne.no"}
+  - {titre: "Fjellstyre — Store norske leksikon", url: "https://snl.no/fjellstyre"}
+  - {titre: "Statsallmenning — Store norske leksikon", url: "https://snl.no/statsallmenning"}
+  - {titre: "Allmenning — Store norske leksikon", url: "https://snl.no/allmenning"}

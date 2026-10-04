@@ -1,0 +1,67 @@
+uid: "guernesey"
+nom: "Guernesey"
+endonyme: ""
+territoire: "Île de Guernesey, avec Herm, Jethou et Lihou (bailliage de Guernesey ; Aurigny et Sercq ont leurs propres fiches)"
+etats: ["Royaume-Uni"]
+region: "europe"
+coord: [49.5, -2.6]
+type: "collectivite_autonome"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: 64781, annee: 2023, perimetre: "population de Guernesey au 31 décembre 2023 (îles de Guernesey, Herm, Jethou et Lihou ; hors Aurigny et Sercq), recensement électronique continu", source: "https://gov.gg/CHttpHandler.ashx?id=183488&p=0"}
+lieux: {valeur: 10, unite: "paroisses de l'île de Guernesey", annee: 2023, source: "https://www.gov.gg/CHttpHandler.ashx?id=174892&p=0"}
+surface_km2: {valeur: 63.5, annee: 2020, perimetre: "île de Guernesey (63,4 km², 10 paroisses) et île de Lihou ; hors Herm et Jethou (tableau 4.1)", source: "https://www.gov.gg/CHttpHandler.ashx?id=131184&p=0"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le bailliage de Guernesey est une dépendance de la Couronne (territoire rattaché au souverain britannique sans faire partie du Royaume-Uni). Les îles sont restées sous la juridiction de la Couronne d'Angleterre après la perte de la Normandie continentale en 1204. Les États de délibération, composés de 38 députés élus et de 2 représentants d'Aurigny, légifèrent pour Guernesey, pour Aurigny dans les services transférés en 1948 et pour Sercq en matière pénale ; Guernesey a ses impôts et ses tribunaux, avec appel final devant le Comité judiciaire du Conseil privé. Le Royaume-Uni garde la défense et les relations internationales.
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité des droits de l'homme sur le Royaume-Uni (CCPR/C/GBR/CO/8), couvrant aussi les dépendances de la Couronne ; § 54 : le Comité relève que l'âge de la responsabilité pénale est fixé à 12 ans dans le bailliage de Guernesey.", annee: 2024, source: "https://documents.un.org/doc/undoc/gen/g24/056/43/pdf/g2405643.pdf"}
+base_nationale:
+  - {instrument: "Reform (Guernsey) Law, 1948 (loi de réforme ; fonde la présidence des États de délibération par le bailli)", nature: "statut_autonomie", annee: 1948, source: "https://www.guernseyroyalcourt.gg/article/3918/States-of-Deliberation---Procedures"}
+  - {instrument: "Alderney (Application of Legislation) Law, 1948 (services transférés d'Aurigny à Guernesey)", nature: "loi", annee: 1948, source: "https://gov.gg/bailiwickcommission-relationships"}
+  - {instrument: "Population Management (Guernsey) Law, 2016 (statut de résident)", nature: "loi", annee: 2016, source: "https://www.guernseylegalresources.gg/article/154337/Population-Management-Guernsey-Law-2016"}
+  - {instrument: "Territorial Sea Act 1987 (Guernsey) Order 2019 (mer territoriale portée à 12 milles marins)", nature: "loi", annee: 2019, source: "https://www.legislation.gov.uk/uksi/2019/1108/made"}
+  - {instrument: "Ordre en conseil du 21 février 2024 déléguant la sanction royale au lieutenant-gouverneur pour les lois du bailliage", nature: "loi", annee: 2024, source: "https://www.gov.gg/changes-to-the-granting-of-Royal-Assent-approved"}
+droits:
+  autogouvernement: {valeur: "reconnu", note: "Les États de délibération réunissent le bailli, le procureur et le contrôleur de Sa Majesté, 38 députés élus dans une seule circonscription couvrant toute l'île et 2 représentants d'Aurigny ; le bailli les préside en vertu de la Reform (Guernsey) Law, 1948.", source: "https://election2025.gg/faqs/"}
+  pouvoir_normatif: {valeur: "reconnu", note: "Les États adoptent des projets de loi (Projets de Loi) soumis à la sanction royale ; depuis le 29 février 2024, en vertu d'un ordre en conseil du 21 février 2024, le lieutenant-gouverneur l'accorde, sauf pour les projets réservés au roi (défense, prérogative royale).", source: "https://www.gov.gg/changes-to-the-granting-of-Royal-Assent-approved"}
+  justice_propre: {valeur: "reconnu", note: "Cour royale, tribunal de première instance (Magistrate's Court), Cour d'appel de Guernesey et autres juridictions propres ; le Comité judiciaire du Conseil privé à Londres est la juridiction d'appel la plus haute.", source: "https://researchbriefings.files.parliament.uk/documents/CBP-8611/CBP-8611.pdf"}
+  terres: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Depuis le 23 juillet 2019, la mer territoriale du bailliage s'étend de 3 à 12 milles marins et la législation du bailliage s'y applique, sauf une partie de la législation sur la pêche, Territorial Sea Act 1987 (Guernsey) Order 2019 ; l'accès des navires de pêche reste réglé par des conventions conclues par le Royaume-Uni.", source: "https://www.gov.gg/article/172632/Bailiwick-of-Guernseys-territorial-seas-will-be-extended-on-23-July-2019"}
+  consentement: {valeur: "partiel", note: "Par le cadre d'identité internationale de 2007-2008, le Royaume-Uni s'engage à ne pas agir sur le plan international au nom de Guernesey sans consultation préalable ; par convention, il ne légifère pas sur les affaires intérieures sans consentement.", source: "https://researchbriefings.files.parliament.uk/documents/CBP-8611/CBP-8611.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "reconnu", note: "Le Comité pour l'éducation, le sport et la culture des États a le devoir légal d'assurer un enseignement primaire, secondaire et postobligatoire (further education), Education (Guernsey) Law, 1970, section 3, citée dans son plan d'action 2017-2020.", source: "https://gov.gg/CHttpHandler.ashx?id=107764&p=0"}
+  fiscalite: {valeur: "reconnu", note: "Les habitants ne paient pas d'impôts britanniques ; Guernesey finance ses dépenses par ses propres recettes fiscales, dont les taux sont fixés par sa législature.", source: "https://researchbriefings.files.parliament.uk/documents/CBP-8611/CBP-8611.pdf"}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "reconnu", note: "Statut de résident permanent (Permanent Resident), acquis par la naissance à Guernesey d'un parent né à Guernesey ou par une durée de résidence (section 3), qui permet d'occuper un logement du marché local (Local Market, parc réservé) et que l'on garde en quittant l'île (section 4), Population Management (Guernsey) Law, 2016.", source: "https://www.guernseylegalresources.gg/article/154337/Population-Management-Guernsey-Law-2016"}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "effective", note: "Peter W. Edge (Université Oxford Brookes, 2025) cite l'arrêt Burton v Law Officers of the Crown (Cour d'appel de Guernesey, 2012) : « The degree of autonomy enjoyed by Guernsey as a Crown Dependency not forming part of the United Kingdom is well-recognised ».", source: "https://radar.brookes.ac.uk/radar/file/8304a30e-0a41-4b80-b303-c8ae00136c34/1/Research%20report%20on%20Crown%20Dependencies%20April%202025.pdf"}
+chronologie:
+  - {annee: 1204, evenement: "Après la perte de la Normandie continentale, les îles Anglo-Normandes restent sous la juridiction de la Couronne d'Angleterre."}
+  - {annee: 1948, evenement: "Reform (Guernsey) Law ; accord par lequel Guernesey prend en charge les services transférés d'Aurigny."}
+  - {annee: 2008, evenement: "Cadre d'identité internationale convenu avec le gouvernement britannique (2007-2008)."}
+  - {annee: 2018, evenement: "Référendum du 10 octobre : adoption de l'élection des 38 députés dans une seule circonscription."}
+  - {annee: 2019, evenement: "Mer territoriale du bailliage portée de 3 à 12 milles marins le 23 juillet."}
+  - {annee: 2024, evenement: "La sanction royale des lois du bailliage est déléguée au lieutenant-gouverneur à partir du 29 février."}
+  - {annee: 2025, evenement: "Élection générale du 18 juin dans une seule circonscription."}
+fiabilite:
+  verifie: ["Composition des États de délibération (38 députés, 2 représentants d'Aurigny) et présidence par le bailli (Cour royale de Guernesey, élection 2025).", "Délégation de la sanction royale au lieutenant-gouverneur, février 2024 (États de Guernesey).", "Juridictions propres, fiscalité propre, défense et relations internationales au Royaume-Uni (Bibliothèque de la Chambre des communes, CBP-8611, 12 septembre 2025).", "Élection des 38 députés dans une seule circonscription (référendum du 10 octobre 2018, élection du 18 juin 2025).", "Surface de 63,4 km² pour l'île de Guernesey et 63,5 km² avec Lihou (Guernsey Facts and Figures 2020, tableau 4.1).", "Statut de résident permanent, Population Management (Guernsey) Law, 2016, section 4.", "Territorial Sea Act 1987 (Guernsey) Order 2019.", "Mention du bailliage de Guernesey dans CCPR/C/GBR/CO/8, § 54.", "Population de 64 781 au 31 décembre 2023 et 10 paroisses (États de Guernesey)."]
+  non_confirme: ["Le texte consolidé de la Reform (Guernsey) Law, 1948 n'a pas pu être ouvert sur le site officiel de la législation (accès refusé) ; la composition repose sur la Cour royale et les États.", "Texte consolidé de l'Education (Guernsey) Law, 1970 non ouvert (accès refusé) ; son maintien en vigueur repose sur le plan du Comité 2017-2020.", "Selon la Commission royale sur la Constitution (1973), citée par la Bibliothèque de la Chambre des communes, le Parlement britannique garde « a paramount power to legislate for the Islands » ; aucune décision de justice le confirmant n'a été ouverte.", "Statut du guernésiais et du français dans le droit en vigueur non vérifié sur un texte.", "Aucun texte prévoyant un référendum d'indépendance n'a été trouvé ; la Bibliothèque de la Chambre des communes mentionne seulement les « powers of self-determination » des dépendances de la Couronne."]
+sources:
+  - {titre: "The Crown Dependencies (CBP-8611, 2025) — Bibliothèque de la Chambre des communes", url: "https://researchbriefings.files.parliament.uk/documents/CBP-8611/CBP-8611.pdf"}
+  - {titre: "States of Deliberation — Procedures — Cour royale de Guernesey", url: "https://www.guernseyroyalcourt.gg/article/3918/States-of-Deliberation---Procedures"}
+  - {titre: "Bailiwick Relationships — États de Guernesey", url: "https://gov.gg/bailiwickcommission-relationships"}
+  - {titre: "Changes to the granting of Royal Assent (2024) — États de Guernesey", url: "https://www.gov.gg/changes-to-the-granting-of-Royal-Assent-approved"}
+  - {titre: "Referendum on Guernsey's Electoral System (2018) — États de Guernesey", url: "https://www.gov.gg/referendum"}
+  - {titre: "Election 2025 — FAQ", url: "https://election2025.gg/faqs/"}
+  - {titre: "Population Management (Guernsey) Law, 2016 — Guernsey Legal Resources", url: "https://www.guernseylegalresources.gg/article/154337/Population-Management-Guernsey-Law-2016"}
+  - {titre: "The Territorial Sea Act 1987 (Guernsey) Order 2019 — legislation.gov.uk", url: "https://www.legislation.gov.uk/uksi/2019/1108/made"}
+  - {titre: "Bailiwick of Guernsey's territorial seas will be extended on 23 July 2019 — États de Guernesey", url: "https://www.gov.gg/article/172632/Bailiwick-of-Guernseys-territorial-seas-will-be-extended-on-23-July-2019"}
+  - {titre: "Committee for Education, Sport & Culture, Policy Plan 2017-2020 — États de Guernesey", url: "https://gov.gg/CHttpHandler.ashx?id=107764&p=0"}
+  - {titre: "CCPR/C/GBR/CO/8 (2024) — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g24/056/43/pdf/g2405643.pdf"}
+  - {titre: "Guernsey Quarterly Population, Employment and Earnings Bulletin (octobre 2024) — États de Guernesey", url: "https://gov.gg/CHttpHandler.ashx?id=183488&p=0"}
+  - {titre: "Guernsey Annual Electronic Census Report 2023 — États de Guernesey", url: "https://www.gov.gg/CHttpHandler.ashx?id=174892&p=0"}
+  - {titre: "Guernsey Facts and Figures 2020 — États de Guernesey", url: "https://www.gov.gg/CHttpHandler.ashx?id=131184&p=0"}
+  - {titre: "« Crown Dependency » : history, usage, and possible reform (Peter W. Edge, 2025) — Université Oxford Brookes", url: "https://radar.brookes.ac.uk/radar/file/8304a30e-0a41-4b80-b303-c8ae00136c34/1/Research%20report%20on%20Crown%20Dependencies%20April%202025.pdf"}
+  - {titre: "Îles Anglo-Normandes — L'aménagement linguistique dans le monde, Université Laval", url: "https://www.axl.cefan.ulaval.ca/EtatsNsouverains/ilesanglo.htm"}

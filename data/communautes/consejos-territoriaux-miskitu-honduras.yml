@@ -1,0 +1,56 @@
+uid: "consejos-territoriaux-miskitu-honduras"
+nom: "Conseils territoriaux miskitu de la Mosquitia hondurienne"
+endonyme: ""
+territoire: "Mosquitia hondurienne (Muskitia), département de Gracias a Dios, nord-est du Honduras, à la frontière du Nicaragua"
+etats: ["Honduras"]
+region: "ameriques"
+coord: [15.3, -84.3]
+type: "peuple_autochtone"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: 51607, annee: 2001, perimetre: "Miskitu recensés au Honduras (recensement de 2001, cité par la Rapporteuse spéciale des Nations unies) ; l'annonce officielle d'avril 2016 vise 17 500 familles membres des 12 conseils (communiqué de la présidence du Honduras repris par l'agence EFE)", source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+lieux: {valeur: 12, unite: "conseils territoriaux titulaires d'un titre intercommunautaire", annee: 2016, source: "https://www.laprensa.hn/honduras/dan-14-millones-de-hectareas-a-17500-familias-hondurenas-de-la-etnia-ORLP948006"}
+surface_km2: {valeur: 14000, annee: 2016, perimetre: "terres remises aux 12 conseils selon l'annonce officielle d'avril 2016 : « 1,4 million d'hectares », soit 1,1 million d'ha (chiffre arrondi) de l'Institut national agraire et 292 081 ha de terres forestières communautaires de l'Institut de conservation forestière ; un recoupement des deux montants n'est pas exclu", source: "https://www.laprensa.hn/honduras/dan-14-millones-de-hectareas-a-17500-familias-hondurenas-de-la-etnia-ORLP948006"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les douze conseils territoriaux (consejos territoriales, regroupements de communautés villageoises) du peuple miskitu, dans le département de Gracias a Dios. La loi sur la propriété de 2004 (décret 82-2004) prévoit le titrage collectif des terres traditionnelles des peuples autochtones et afrohonduriens et rend ces terres inaliénables. De 2012 à 2016, l'État a délivré à ces conseils des titres intercommunautaires (titres collectifs communs à plusieurs communautés) ; l'annonce officielle d'avril 2016 fait état d'environ 1,4 million d'hectares. Les conseils territoriaux, organisés depuis 1998, forment la structure de base de l'organisation Mosquitia Asla Takanka (MASTA).
+reconnaissance_regionale: []
+reconnaissance_onu:
+  - {mecanisme: "oit_169", detail: "Honduras partie à la Convention 169 de l'OIT depuis 1995 (A/HRC/33/42/Add.2, § 9).", annee: 1995, source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  - {mecanisme: "dnudpa", detail: "Le Honduras a voté en faveur de la Déclaration de 2007 ; le recensement de 2001 compte les Miskitu parmi les peuples autochtones du pays (A/HRC/33/42/Add.2, § 6 et 9).", annee: 2007, source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  - {mecanisme: "rapporteur_special", detail: "Rapport de la Rapporteuse spéciale sur sa visite au Honduras (novembre 2015) : titres accordés à 11 des 12 conseils territoriaux miskitu, occupation de terres titrées par des tiers (§ 37, 40 et 41).", annee: 2016, source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+base_nationale:
+  - {instrument: "Loi sur la propriété (Ley de Propiedad, décret 82-2004), titre V, chapitre III, art. 93 à 102", nature: "loi", annee: 2004, source: "https://honduras.eregulations.org/media/Ley_de_la_Propiedad.pdf"}
+  - {instrument: "Loi sur les forêts, les aires protégées et la faune (décret 98-2007), art. 45", nature: "loi", annee: 2007, source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  - {instrument: "Décret législatif 61-2013 (titrage des communautés miskitu et garifuna dans la réserve de biosphère du Río Plátano)", nature: "loi", annee: 2013, source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les titres sont délivrés aux conseils territoriaux, constitués de plusieurs communautés selon leur propre organisation territoriale (A/HRC/33/42/Add.2, § 37, 2016) ; aucun texte consulté ne définit leurs compétences face à l'État et aux municipalités.", source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "La loi sur la propriété de 2004 reconnaît les terres possédées traditionnellement (art. 93), les titre au nom de la collectivité (art. 94) les déclare inaliénables, insaisissables et imprescriptibles (art. 100) et interdit d'enregistrer un titre au profit de tiers (art. 102) ; l'art. 97 laisse toutefois aux tiers titrés qui occupent ces terres le droit de les garder, et l'art. 100 permet aux communautés de mettre fin au régime communal.", source: "https://honduras.eregulations.org/media/Ley_de_la_Propiedad.pdf"}
+  ressources: {valeur: "partiel", note: "La loi forestière de 2007 (décret 98-2007, art. 45) reconnaît le droit des peuples autochtones et afrohonduriens sur les aires forestières de leurs terres traditionnelles (A/HRC/33/42/Add.2, § 10) ; la loi sur la propriété de 2004 impose une gestion conjointe avec l'État des aires protégées situées sur ces terres (art. 101) et réserve à l'État l'exploitation des ressources, après consultation (art. 95).", source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  consentement: {valeur: "partiel", note: "L'État doit informer et consulter ces peuples avant d'autoriser toute inspection ou exploitation de ressources sur leurs terres, et leur verser une indemnisation équitable pour les dommages subis (loi sur la propriété de 2004, art. 95) ; le texte ne prévoit pas de consentement.", source: "https://honduras.eregulations.org/media/Ley_de_la_Propiedad.pdf"}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "La Rapporteuse spéciale (2016) relève que des colons ont obtenu des titres et permis sur les terres de la communauté d'Auka (conseil Wamakklisinasta, titré en 2013), que ces terres ont été déboisées, et qu'un contrat d'exploration d'hydrocarbures signé en 2013 sur la côte de la Mosquitia l'a été sans consultation préalable ; une consultation avec les représentants miskitu n'a été ouverte qu'après leurs protestations (§ 40, 41 et 54).", source: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+chronologie:
+  - {annee: 1859, evenement: "Traité Cruz-Wyke : le Royaume-Uni reconnaît la souveraineté du Honduras sur la Mosquitia, avec garantie de la possession des terres par les peuples de la région."}
+  - {annee: 1995, evenement: "Le Honduras ratifie la Convention 169 de l'OIT."}
+  - {annee: 1998, evenement: "Organisation des conseils territoriaux miskitu au sein de MASTA."}
+  - {annee: 2004, evenement: "Loi sur la propriété (décret 82-2004) : titrage collectif des terres autochtones et afrohonduriennes."}
+  - {annee: 2012, evenement: "Premier titre intercommunautaire délivré à un conseil territorial miskitu par l'Institut national agraire."}
+  - {annee: 2013, evenement: "Décret 61-2013 : titrage des terres miskitu situées dans la réserve de biosphère du Río Plátano."}
+  - {annee: 2015, evenement: "En juin, l'Institut de conservation forestière délivre au conseil Bakinasta le premier titre situé dans la réserve du Río Plátano ; en novembre, visite de la Rapporteuse spéciale des Nations unies."}
+  - {annee: 2016, evenement: "En avril, à Puerto Lempira, le président officialise la remise aux 12 conseils de 1,1 million d'ha par l'Institut national agraire et de 292 081 ha de terres forestières communautaires par l'Institut de conservation forestière ; accord de coopération entre cet institut et MASTA."}
+fiabilite:
+  verifie: ["Art. 93 à 102 de la loi sur la propriété (décret 82-2004) sur le texte publié par eRegulations Honduras.", "A/HRC/33/42/Add.2, § 6, 9, 10, 11, 34, 37, 40, 41 et 54 (version consultée sur documents.un.org).", "Tableau 1 de la note CONPAH-Forest Trends : 11 titres miskitu de 2012 à 2015, 1 097 182 ha (source INA 2015).", "Dépêche EFE publiée par La Prensa le 8 avril 2016, d'après un communiqué de la présidence : 12 conseils, 17 500 familles, 1,1 million d'ha de l'INA et 292 081 ha de l'ICF, « 1,4 million d'hectares » au titre."]
+  non_confirme: ["Liste nominative officielle des 12 conseils, avec surface et année de chaque titre : non trouvée ; seuls Bakinasta, Bamiasta, Batiasta, Diunat et Wamakklisinasta sont nommés dans les sources consultées.", "Écart entre 1 099 701,59 ha pour 11 conseils (INA, cité par la Rapporteuse spéciale) et 1,1 million d'ha annoncé en 2016 ; le tableau 1 de Forest Trends inclut dans les 11 titres miskitu le titre de Bakinasta délivré par l'ICF en 2015, si bien que les 292 081 ha de l'ICF pourraient recouper en partie le total de l'INA.", "Nombre de communautés villageoises regroupées dans les conseils : non trouvé.", "Population actuelle des territoires titrés : seul le recensement de 2001 a été consulté."]
+sources:
+  - {titre: "Ley de Propiedad, décret 82-2004 — eRegulations Honduras", url: "https://honduras.eregulations.org/media/Ley_de_la_Propiedad.pdf"}
+  - {titre: "Rapport de la Rapporteuse spéciale sur les droits des peuples autochtones sur sa visite au Honduras, A/HRC/33/42/Add.2 (2016)", url: "https://undocs.org/fr/A/HRC/33/42/Add.2"}
+  - {titre: "La Prensa (Honduras), 8 avril 2016 — remise de 1,4 million d'hectares à 17 500 familles miskitu", url: "https://www.laprensa.hn/honduras/dan-14-millones-de-hectareas-a-17500-familias-hondurenas-de-la-etnia-ORLP948006"}
+  - {titre: "Titling Ancestral Territories in the Honduran Muskitia — CONPAH et Forest Trends", url: "https://www.forest-trends.org/wp-content/uploads/imported/honduras-brief_english_a4_final-pdf.pdf"}

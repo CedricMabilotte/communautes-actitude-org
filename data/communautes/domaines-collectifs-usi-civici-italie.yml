@@ -1,0 +1,65 @@
+uid: "domaines-collectifs-usi-civici-italie"
+nom: "Domaines collectifs d'Italie"
+endonyme: "Domini collettivi e usi civici"
+territoire: "Terres et eaux de propriété collective ou grevées d'usi civici, dans l'ensemble des régions italiennes"
+etats: ["Italie"]
+region: "europe"
+coord: [42.5, 12.5]
+type: "communaute_locale"
+types_secondaires: []
+base: "territoriale"
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 2233, unite: "exploitations agricoles recensées gérées par un ente (comunanze, università, regole…) ou par une commune gérant des propriétés collectives", annee: 2010, source: "https://www.istat.it/wp-content/uploads/2024/02/1425-12_Vol_VI_Cens_Agricoltura_INT_CD_1_Trimboxes_ipp.pdf"}
+surface_km2: {valeur: 16688.5, annee: 2010, perimetre: "superficie totale de ces 2 233 exploitations (1 668 851,85 ha), 6e recensement général de l'agriculture, tableau 2.1 ; seules les terres à usage agricole ou forestier entrant dans le champ du recensement sont comptées", source: "https://www.istat.it/wp-content/uploads/2024/02/1425-12_Vol_VI_Cens_Agricoltura_INT_CD_1_Trimboxes_ipp.pdf"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Fiche agrégée : elle couvre les collectivités d'habitants titulaires de domini collettivi (domaines collectifs, terres possédées et gérées en commun) et d'usi civici (droits d'usage civique : pâturage, bois, cueillette sur des terres publiques ou privées), qu'elles portent le nom de regole, comunanze, partecipanze agrarie, università agrarie, vicinie ou associations agraires. La loi n° 168 du 20 novembre 2017 reconnaît ces domaines comme « ordinamento giuridico primario delle comunità originarie » (ordre juridique premier des communautés d'origine), dotés d'une « capacità di autonormazione » (capacité de se donner leurs propres règles), et donne à leurs entités représentatives la personnalité juridique de droit privé et l'autonomie statutaire. Les biens collectifs sont inaliénables, indivisibles, imprescriptibles et affectés pour toujours à l'usage agro-sylvo-pastoral ; depuis l'arrêt n° 119 de 2023 de la Cour constitutionnelle, l'inaliénabilité ne vise plus les terres privées grevées d'usi civici non liquidés. Le cadre antérieur, la loi n° 1766 du 16 juin 1927, visait surtout la constatation et la liquidation des usi civici sous le contrôle de commissaires régionaux. Les Regole de Vénétie et les ASUC du Trentin, régies aussi par une loi régionale ou provinciale, ont leur propre fiche.
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Loi n° 168 du 20 novembre 2017, normes en matière de domaines collectifs (Norme in materia di domini collettivi), Gazzetta Ufficiale n° 278 du 28 novembre 2017", nature: "loi", annee: 2017, source: "https://www.normattiva.it/eli/stato/LEGGE/2017/11/20/168/CONSOLIDATED"}
+  - {instrument: "Loi n° 1766 du 16 juin 1927, conversion du décret royal n° 751 du 22 mai 1924 sur la réorganisation des usi civici", nature: "loi", annee: 1927, source: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766"}
+  - {instrument: "Cour constitutionnelle, arrêt n° 119 de 2023 (décision du 11 mai 2023, déposée le 15 juin 2023) sur l'article 3, alinéa 3, de la loi n° 168 de 2017", nature: "jurisprudence", annee: 2023, source: "https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2023:119"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "Les entités représentatives (enti esponenziali) des collectivités titulaires ont la personnalité juridique de droit privé et l'autonomie statutaire (loi n° 168 de 2017, art. 1, al. 2) et administrent les biens collectifs ; en leur absence, la commune les gère en administration séparée (art. 2, al. 4) ; les actes pris par ces entités au titre de l'art. 3, al. 7, ne deviennent exécutoires qu'après délibération de la Junte régionale.", source: "https://www.normattiva.it/eli/stato/LEGGE/2017/11/20/168/CONSOLIDATED"}
+  pouvoir_normatif: {valeur: "partiel", note: "La loi n° 168 de 2017 reconnaît aux domaines collectifs une « capacità di autonormazione » (capacité de se donner leurs propres règles) pour leur administration (art. 1, al. 1, b) ; l'usage du domaine civique suit les règles d'usage fixées par le domaine collectif (art. 3, al. 5) ; ces règles restent soumises à la Constitution (art. 1, al. 1, a) et limitées à la gestion des biens.", source: "https://www.normattiva.it/eli/stato/LEGGE/2017/11/20/168/CONSOLIDATED"}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "reconnu", note: "Les biens collectifs (terres de propriété collective d'origine, terres attribuées après liquidation des usi civici, terres collectives des familles descendant des anciens originaires du lieu, plans d'eau grevés d'usi civici) restent inaliénables, indivisibles, imprescriptibles et affectés pour toujours à l'usage agro-sylvo-pastoral (loi n° 168 de 2017, art. 3, al. 1 et 3) ; l'arrêt n° 119 de 2023 de la Cour constitutionnelle a retiré de ce régime d'inaliénabilité les terres privées sur lesquelles les habitants exercent des usi civici non encore liquidés.", source: "https://www.normattiva.it/eli/stato/LEGGE/2017/11/20/168/CONSOLIDATED"}
+  ressources: {valeur: "partiel", note: "La République reconnaît et protège les droits des citoyens d'usage et de gestion des biens de jouissance collective antérieurs à l'État italien (loi n° 168 de 2017, art. 2, al. 2) ; ces droits portent sur l'exploitation du fonds et sont réservés aux membres de la communauté, sauf décision contraire de l'entité collective (art. 2, al. 3) et s'étendent aux plans d'eau grevés d'usi civici (art. 3, al. 1, f) ; la destination agro-sylvo-pastorale perpétuelle et la servitude paysagère (art. 3, al. 3 et 6) limitent les usages.", source: "https://www.normattiva.it/eli/stato/LEGGE/2017/11/20/168/CONSOLIDATED"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Une conférence tenue en juillet 2025 à Geraci Siculo (Sicile) relève que l'application de la loi n° 168 de 2017 se heurte au manque de connaissance juridique, à des difficultés de coordination et à un accès limité aux financements, et qu'une proposition de loi régionale en discussion vise à aligner le droit sicilien sur la loi nationale.", source: "https://www.iccaconsortium.org/2025/09/08/italy-recap-conference-collective-lands-biodiversity-territories-of-life/"}
+chronologie:
+  - {annee: 1924, evenement: "Décret royal n° 751 du 22 mai sur la réorganisation des usi civici dans le Royaume."}
+  - {annee: 1927, evenement: "Loi n° 1766 du 16 juin : constatation et liquidation des usi civici, terres des communes, universités et associations agraires ouvertes aux usages de tous les citoyens de la commune ou de la frazione (hameau rattaché à une commune) (art. 26), commissaires régionaux aux fonctions administratives et judiciaires (art. 27)."}
+  - {annee: 2010, evenement: "Le 6e recensement général de l'agriculture compte 2 233 exploitations gérées par un ente ou une commune gérant des propriétés collectives, sur 1 668 851,85 ha de superficie totale."}
+  - {annee: 2017, evenement: "Loi n° 168 du 20 novembre (Gazzetta Ufficiale du 28 novembre, en vigueur le 13 décembre) : reconnaissance des domini collettivi comme ordre juridique premier des communautés d'origine."}
+  - {annee: 2023, evenement: "Arrêt n° 119 de la Cour constitutionnelle (déposé le 15 juin) : l'inaliénabilité ne s'applique plus aux terres privées grevées d'usi civici non liquidés."}
+  - {annee: 2025, evenement: "Conférence de Geraci Siculo (19 et 20 juillet) sur les terres collectives, la biodiversité et les territoires de vie ; approbation des statuts d'une association italienne des territoires de vie."}
+fiabilite:
+  verifie:
+    - "Texte consolidé des articles 1, 2 et 3 de la loi n° 168 de 2017 sur Normattiva, dont les alinéas 8-bis, 8-ter et 8-quater de l'article 3 (transferts et échanges de terrains d'usage civique irréversiblement transformés)."
+    - "Articles 1, 11, 12, 26 et 27 de la loi n° 1766 de 1927 sur Normattiva."
+    - "Dispositif de l'arrêt n° 119 de 2023 de la Cour constitutionnelle."
+    - "Chiffres du 6e recensement général de l'agriculture (Istat, 2010), tableaux 2.1 et 2.2, catégorie « Ente (comunanze, università, regole, ecc.) o Comune che gestisce proprietà collettive »."
+  non_confirme:
+    - "Nombre d'entités représentatives (regole, comunanze, partecipanze agrarie, università agrarie, ASBUC ou administrations séparées des biens d'usage civique) en activité : aucun registre national trouvé ; le chiffre de 2 233 compte des exploitations agricoles recensées, communes gestionnaires comprises, et non des communautés titulaires ; aucun tableau des sites n'est donc joint."
+    - "Surface totale grevée d'usi civici : le chiffre de l'Istat ne couvre que les terres entrant dans le champ du recensement agricole de 2010 ; aucune donnée nationale plus récente trouvée."
+    - "Nombre d'habitants titulaires de droits : aucun chiffre trouvé."
+    - "Acte qui a ajouté les alinéas 8-bis à 8-quater à l'article 3 et modifié l'article 2, alinéa 4, de la loi n° 168 de 2017 : non identifié sur une source ouverte."
+    - "Inscription de domaines collectifs italiens au registre ICCA ou à la base WDPA : non vérifiée."
+    - "Fonctionnement actuel des commissaires régionaux aux usi civici : décrit par l'encyclopédie Treccani, non vérifié sur un texte récent."
+sources:
+  - {titre: "Loi n° 168 du 20 novembre 2017, Norme in materia di domini collettivi — Normattiva", url: "https://www.normattiva.it/eli/stato/LEGGE/2017/11/20/168/CONSOLIDATED"}
+  - {titre: "Loi n° 1766 du 16 juin 1927 sur les usi civici — Normattiva", url: "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;1766"}
+  - {titre: "Cour constitutionnelle, arrêt n° 119 de 2023", url: "https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2023:119"}
+  - {titre: "Istat, 6e recensement général de l'agriculture 2010, Caratteristiche strutturali delle aziende agricole", url: "https://www.istat.it/wp-content/uploads/2024/02/1425-12_Vol_VI_Cens_Agricoltura_INT_CD_1_Trimboxes_ipp.pdf"}
+  - {titre: "Usi civici — Enciclopedia Treccani", url: "https://www.treccani.it/enciclopedia/usi-civici/"}
+  - {titre: "The commons in Italy: valorizing them for the conservation of biodiversity — ICCA Consortium (2018)", url: "https://www.iccaconsortium.org/2018/12/13/the-commons-in-italy-valorizing-them-for-the-conservation-of-biodiversity/"}
+  - {titre: "Italy: recap of the conference on collective lands, biodiversity and territories of life — ICCA Consortium (2025)", url: "https://www.iccaconsortium.org/2025/09/08/italy-recap-conference-collective-lands-biodiversity-territories-of-life/"}
+  - {titre: "Regole d'Ampezzo", url: "https://www.regole.it/"}

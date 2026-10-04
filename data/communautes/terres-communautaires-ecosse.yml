@@ -1,0 +1,65 @@
+uid: "terres-communautaires-ecosse"
+nom: "Communautés propriétaires de terres (Écosse)"
+endonyme: ""
+territoire: "Écosse, surtout Na h-Eileanan Siar (Hébrides extérieures) et Highland"
+etats: ["Royaume-Uni"]
+region: "europe"
+coord: [57.6, -5.8]
+type: "communaute_locale"
+base: "territoriale"
+types_secondaires: []
+population: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 853, unite: "biens (terres, bâtiments et autres actifs) détenus par 503 groupes communautaires, dans les 32 collectivités locales", annee: 2024, source: "https://www.gov.scot/publications/community-ownership-in-scotland-2024/"}
+surface_km2: {valeur: 2138, annee: 2024, perimetre: "surface des biens en propriété communautaire au 31 décembre 2024 (213 803 ha, 2,7 % des terres de l'Écosse) ; 28 biens inscrits au registre papier des Sasines sans surface connue et 16 biens pour lesquels la surface est sans objet ne sont pas comptés", source: "https://www.gov.scot/publications/community-ownership-in-scotland-2024/"}
+villages: {valeur: null, annee: null, perimetre: "", source: ""}
+resume: >-
+  Le Land Reform (Scotland) Act 2003 donne aux organismes communautaires constitués (community bodies, personnes morales contrôlées par les habitants d'une zone définie par codes postaux) un droit d'achat prioritaire sur les terres mises en vente, après enregistrement d'un intérêt communautaire (partie 2) et donne aux communautés de crofters, petits exploitants agricoles sous statut de crofting, un droit d'acheter les terres de croft sans mise en vente par le propriétaire (partie 3). La loi de 2015 sur l'autonomisation des communautés (asp 2015 n° 6) a ajouté un droit d'achat des terres abandonnées, négligées ou dont l'usage nuit au bien-être environnemental de la communauté (partie 3A) et la loi de 2016 un droit d'achat pour le développement durable (partie 5) ; ces deux droits s'exercent avec le consentement des ministres écossais, sans accord du propriétaire. Au 31 décembre 2024, la statistique officielle recense 853 biens détenus par 503 groupes, sur 213 803 ha, dont 72 % dans les Hébrides extérieures. Ce décompte inclut les biens acquis par achat négocié, don ou transfert d'actifs publics, et non seulement par ces droits d'achat. Les comités des pâturages communs ont leur propre fiche (« Crofters des pâturages communs (Écosse) »).
+reconnaissance_regionale: []
+reconnaissance_onu: []
+base_nationale:
+  - {instrument: "Land Reform (Scotland) Act 2003 (asp 2), parties 2 et 3", nature: "loi", annee: 2003, source: "https://www.legislation.gov.uk/asp/2003/2/section/34"}
+  - {instrument: "Loi de 2015 sur l'autonomisation des communautés (asp 2015 n° 6), qui insère la partie 3A dans la loi de 2003", nature: "loi", annee: 2015, source: "https://www.legislation.gov.uk/asp/2003/2/part/3A"}
+  - {instrument: "Land Reform (Scotland) Act 2016 (asp 18), partie 5 (s. 45 à 71)", nature: "loi", annee: 2016, source: "https://www.legislation.gov.uk/asp/2016/18/part/5"}
+  - {instrument: "Land Reform (Scotland) Act 2025 (asp 15), s. 1 et 2 (non en vigueur)", nature: "loi", annee: 2025, source: "https://www.legislation.gov.uk/asp/2025/15/contents"}
+droits:
+  autogouvernement: {valeur: "partiel", note: "L'organisme communautaire est une société à responsabilité limitée par garantie, une SCIO (organisation caritative écossaise) ou une community benefit society (société coopérative d'intérêt collectif), d'au moins 10 membres dont les trois quarts au moins sont des membres de la communauté, définie par codes postaux, qui en gardent le contrôle ; les ministres doivent confirmer par écrit que son objet principal sert le développement durable, Land Reform (Scotland) Act 2003, s. 34 (modifiée en 2015).", source: "https://www.legislation.gov.uk/asp/2003/2/section/34"}
+  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "Droit d'achat prioritaire après enregistrement d'un intérêt communautaire sur une terre (Land Reform (Scotland) Act 2003, s. 37) ; droit d'achat des terres de croft par un organisme de communauté de crofters avec le consentement des ministres (s. 73) ; droit d'achat, sans accord du propriétaire, des terres abandonnées, négligées ou dont l'usage nuit au bien-être environnemental de la communauté (partie 3A, s. 97C, en vigueur depuis 2018) ; prix fixé à la valeur de marché par un évaluateur, sans inaliénabilité.", source: "https://www.legislation.gov.uk/asp/2003/2/part/3A"}
+  ressources: {valeur: "partiel", note: "Le droit d'achat des communautés de crofters s'étend aux pêcheries de saumon et aux droits miniers, sauf le pétrole, le charbon, le gaz, l'or et l'argent, Land Reform (Scotland) Act 2003, s. 68(2)(d).", source: "https://www.gov.scot/publications/crofting-community-right-buy-under-part-3-land-reform-scotland/"}
+  consentement: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+effectivite: {valeur: "partielle", note: "Une étude de l'université des Highlands et des Îles et de l'université d'Édimbourg (juin 2026) relève que le droit d'achat communautaire est jugé complexe, qu'aucun achat réussi par ce droit n'a eu lieu depuis plusieurs années selon les personnes interrogées et que le droit d'achat des communautés de crofters a été si peu utilisé que son adéquation est mise en doute ; les acquisitions passent surtout par des ventes négociées avec un vendeur consentant. La statistique officielle recense 853 biens en propriété communautaire fin 2024, dont 84 acquis en 2000 ou avant, sans ventilation selon la voie d'acquisition.", source: "https://www.landcommission.gov.scot/sefari-fellowship-to-understand-changes-in-demand-for-largescale-community-land-acquisitions-and-identify-barriers-and-solutions-to-new-acquisitions"}
+chronologie:
+  - {annee: 1923, evenement: "Le Stornoway Trust devient propriétaire du domaine de Stornoway (île de Lewis), 28 000 ha."}
+  - {annee: 2001, evenement: "Création du fonds public qui deviendra le Scottish Land Fund, pour financer les achats communautaires."}
+  - {annee: 2003, evenement: "Land Reform (Scotland) Act : droit d'achat prioritaire des communautés et droit d'achat des communautés de crofters (en vigueur en 2004)."}
+  - {annee: 2006, evenement: "Le domaine de South Uist (37 636 ha) passe à Sealladh Na Beinne Mòire, plus grand bien communautaire recensé."}
+  - {annee: 2015, evenement: "Loi sur l'autonomisation des communautés : droit d'acheter les terres abandonnées ou négligées et demandes de transfert d'actifs publics."}
+  - {annee: 2016, evenement: "Land Reform (Scotland) Act 2016 : droit d'achat pour le développement durable (en vigueur le 26 avril 2020)."}
+  - {annee: 2018, evenement: "Entrée en vigueur complète de la partie 3A (27 juin)."}
+  - {annee: 2024, evenement: "503 groupes possèdent 853 biens sur 213 803 ha, 2,7 % des terres de l'Écosse."}
+  - {annee: 2025, evenement: "Land Reform (Scotland) Act 2025, sanctionné le 16 décembre : obligations des propriétaires de plus de 1 000 ha envers les communautés et notification préalable des ventes (non en vigueur)."}
+fiabilite:
+  verifie: ["Chiffres 2024 (853 biens, 503 groupes, 213 803 ha, 2,7 %, 72 % dans Na h-Eileanan Siar) : publication statistique officielle du 25 novembre 2025 et son jeu de données par bien.", "Land Reform (Scotland) Act 2003, s. 34, 37, 73 et 74, partie 3A (legislation.gov.uk).", "Land Reform (Scotland) Act 2016, partie 5 ; entrée en vigueur au 26 avril 2020.", "Land Reform (Scotland) Act 2025 (sanction royale le 16 décembre 2025), s. 1 et 2 : seuil de 1 000 ha, dispositions marquées « prospective » (non en vigueur) sur legislation.gov.uk.", "Limites d'usage du droit d'achat communautaire : étude SEFARI (UHI et université d'Édimbourg, 2026) publiée par la Scottish Land Commission.", "Années et surfaces des domaines de Stornoway, South Uist, Galson et North Harris : jeu de données officiel 2024."]
+  non_confirme: ["Nombre d'achats réalisés au titre de chaque droit d'achat (parties 2, 3, 3A, 5) : non trouvé dans une source ouverte.", "Contestation de la partie 3 devant la Cour de session (affaire du domaine de Pairc) : décision non consultée ; l'étude SEFARI date de 2015 l'acquisition du domaine de Pairc (10 840 ha) par le Pairc Trust, sans préciser la voie juridique.", "Aucun document onusien ou régional visant ce régime n'a été trouvé."]
+sources:
+  - {titre: "Community Ownership in Scotland 2024 — gouvernement écossais", url: "https://www.gov.scot/publications/community-ownership-in-scotland-2024/"}
+  - {titre: "Community Ownership in Scotland 2024 — rapport (PDF)", url: "https://www.gov.scot/binaries/content/documents/govscot/publications/statistics/2025/11/community-ownership-in-scotland-2024/documents/community-ownership-in-scotland-2024---report/community-ownership-in-scotland-2024---report/govscot%3Adocument/Community%2BOwnership%2Bin%2BScotland%2B2024%2B-%2BReport.pdf"}
+  - {titre: "Community Ownership in Scotland 2024 — jeu de données par bien (xlsx)", url: "https://www.gov.scot/binaries/content/documents/govscot/publications/statistics/2025/11/community-ownership-in-scotland-2024/documents/community-ownership-in-scotland-2024---dataset/community-ownership-in-scotland-2024---dataset/govscot%3Adocument/Community%2BOwnership%2Bin%2BScotland%2B2024%2B-%2BDataset.xlsx"}
+  - {titre: "Crofting community right to buy under Part 3 — gouvernement écossais", url: "https://www.gov.scot/publications/crofting-community-right-buy-under-part-3-land-reform-scotland/"}
+  - {titre: "Land Reform (Scotland) Act 2003, s. 34 — legislation.gov.uk", url: "https://www.legislation.gov.uk/asp/2003/2/section/34"}
+  - {titre: "Land Reform (Scotland) Act 2003, s. 37 — legislation.gov.uk", url: "https://www.legislation.gov.uk/asp/2003/2/section/37"}
+  - {titre: "Land Reform (Scotland) Act 2003, s. 73 — legislation.gov.uk", url: "https://www.legislation.gov.uk/asp/2003/2/section/73"}
+  - {titre: "Land Reform (Scotland) Act 2003, partie 3A — legislation.gov.uk", url: "https://www.legislation.gov.uk/asp/2003/2/part/3A"}
+  - {titre: "Land Reform (Scotland) Act 2016, partie 5 — legislation.gov.uk", url: "https://www.legislation.gov.uk/asp/2016/18/part/5"}
+  - {titre: "Land Reform (Scotland) Act 2025 — legislation.gov.uk", url: "https://www.legislation.gov.uk/asp/2025/15/contents"}
+  - {titre: "Community rights to buy — gouvernement écossais", url: "https://www.gov.scot/policies/land-reform/community-right-to-buy/"}
+  - {titre: "Community Land Scotland, réseau des propriétaires communautaires", url: "https://www.communitylandscotland.org.uk/about-us/"}
+  - {titre: "SEFARI Fellowship : demande et obstacles des grandes acquisitions foncières communautaires (UHI et université d'Édimbourg, 2026) — Scottish Land Commission", url: "https://www.landcommission.gov.scot/sefari-fellowship-to-understand-changes-in-demand-for-largescale-community-land-acquisitions-and-identify-barriers-and-solutions-to-new-acquisitions"}
+  - {titre: "Next steps for community ownership in Scotland (2026) — Scottish Land Commission", url: "https://www.landcommission.gov.scot/next-steps-for-community-ownership-in-scotland"}

@@ -1,0 +1,12 @@
+nom,subdivision,surface_km2,annee,source_url
+Yanesha,Pasco,347.45,1988,https://geoservicios.sernanp.gob.pe/arcgis/rest/services/sernanp_visor/servicio_descarga/MapServer/1/query?where=anp_cate%3D%27Reserva+Comunal%27&outFields=*&returnGeometry=false&f=json
+El Sira,"Huánuco, Pasco et Ucayali",6164.13,2001,https://geoservicios.sernanp.gob.pe/arcgis/rest/services/sernanp_visor/servicio_descarga/MapServer/1/query?where=anp_cate%3D%27Reserva+Comunal%27&outFields=*&returnGeometry=false&f=json
+Amarakaeri,Madre de Dios,4023.36,2002,https://geoservicios.sernanp.gob.pe/arcgis/rest/services/sernanp_visor/servicio_descarga/MapServer/1/query?where=anp_cate%3D%27Reserva+Comunal%27&outFields=*&returnGeometry=false&f=json
+Ashaninka,Junín et Cusco,1844.68,2003,https://geoservicios.sernanp.gob.pe/arcgis/rest/services/sernanp_visor/servicio_descarga/MapServer/1/query?where=anp_cate%3D%27Reserva+Comunal%27&outFields=*&returnGeometry=false&f=json
+Machiguenga,Cusco,2189.06,2003,https://geoservicios.sernanp.gob.pe/arcgis/rest/services/sernanp_visor/servicio_descarga/MapServer/1/query?where=anp_cate%3D%27Reserva+Comunal%27&outFields=*&returnGeometry=false&f=json
+Purús,Ucayali et Madre de Dios,2020.33,2004,https://geoservicios.sernanp.gob.pe/arcgis/rest/services/sernanp_visor/servicio_descarga/MapServer/1/query?where=anp_cate%3D%27Reserva+Comunal%27&outFields=*&returnGeometry=false&f=json
+Tuntanain,Amazonas,949.68,2007,https://geoservicios.sernanp.gob.pe/arcgis/rest/services/sernanp_visor/servicio_descarga/MapServer/1/query?where=anp_cate%3D%27Reserva+Comunal%27&outFields=*&returnGeometry=false&f=json
+Chayu Naín,Amazonas,235.98,2009,https://geoservicios.sernanp.gob.pe/arcgis/rest/services/sernanp_visor/servicio_descarga/MapServer/1/query?where=anp_cate%3D%27Reserva+Comunal%27&outFields=*&returnGeometry=false&f=json
+Airo Pai,Loreto,2478.88,2012,https://geoservicios.sernanp.gob.pe/arcgis/rest/services/sernanp_visor/servicio_descarga/MapServer/1/query?where=anp_cate%3D%27Reserva+Comunal%27&outFields=*&returnGeometry=false&f=json
+Huimeki,Loreto,1412.34,2012,https://geoservicios.sernanp.gob.pe/arcgis/rest/services/sernanp_visor/servicio_descarga/MapServer/1/query?where=anp_cate%3D%27Reserva+Comunal%27&outFields=*&returnGeometry=false&f=json
+Bajo Putumayo Yaguas,Loreto,1606.04,2025,https://geoservicios.sernanp.gob.pe/arcgis/rest/services/sernanp_visor/servicio_descarga/MapServer/1/query?where=anp_cate%3D%27Reserva+Comunal%27&outFields=*&returnGeometry=false&f=json
