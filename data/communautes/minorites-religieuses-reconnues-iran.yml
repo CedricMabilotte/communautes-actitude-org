@@ -30,7 +30,7 @@ droits:
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "non_etabli", note: "", source: ""}
-  ressources: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "non_applicable", note: "Fiche à base personnelle : le régime porte sur des personnes et des biens cultuels, sans territoire ni ressource naturelle.", source: ""}
   consentement: {valeur: "non_etabli", note: "", source: ""}
   langue: {valeur: "partiel", note: "Le persan est seule langue officielle ; l'art. 15 de la Constitution autorise en plus l'usage des langues régionales dans la presse et l'enseignement de leur littérature à l'école ; l'État déclare en 2022 l'enseignement de l'écriture et de la langue assyriennes et zoroastriennes dans des écoles propres à ces religions (CERD/C/IRN/20-27, par. 118).", source: "https://documents.un.org/api/symbol/access?s=CERD/C/IRN/20-27&l=en&t=pdf"}
   education: {valeur: "partiel", note: "Art. 13 de la Constitution : liberté d'agir selon leurs propres règles en matière d'éducation religieuse ; manuels religieux propres enseignés dans leurs écoles sous la supervision du ministère de l'Éducation, selon le programme national de 2012 ; l'État déclare 93 écoles des minorités religieuses (CCPR/C/IRN/4, par. 96 et 188).", source: "https://documents.un.org/api/symbol/access?s=CCPR/C/IRN/4&l=en&t=pdf"}

@@ -28,11 +28,11 @@ droits:
   terres: {valeur: "partiel", note: "Les terres communales appartiennent au président, « who shall permit it to be occupied and used in accordance with this Act » (Communal Land Act, art. 4). Le chef veille à ce que les terres soient attribuées selon la partie III de cette loi et empêche toute installation non autorisée (Traditional Leaders Act, art. 5). Un habitant ne peut céder ou diviser la terre qu'il utilise sans l'accord du chef de village (art. 26) ; la cession des droits tirés d'un permis d'installation exige l'accord des autres adultes du ménage et du conseil de district rural, et la terre elle-même ne peut être ni vendue ni louée (art. 28).", source: "https://zimlii.org/akn/zw/act/1982/20"}
   ressources: {valeur: "partiel", note: "L'assemblée villageoise examine les questions de terre, d'eau et d'autres ressources naturelles (Traditional Leaders Act, art. 15) ; le chef lutte contre le surpâturage, la surexploitation des cultures et la destruction de la flore et de la faune (art. 5). La Constitution de 2013 confie aux dirigeants traditionnels l'administration des terres communales et la protection de l'environnement « in accordance with an Act of Parliament » (art. 282).", source: "https://zimlii.org/akn/zw/act/1998/25/eng@2016-12-31"}
   consentement: {valeur: "non_etabli", note: "", source: ""}
-  langue: {valeur: "non_etabli", note: "", source: ""}
-  education: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "partiel", note: "Le Sénat compte seize chefs élus, deux par l'assemblée provinciale des chefs de chaque province non métropolitaine, ainsi que le président et le vice-président du Conseil national des chefs (Constitution de 2013, art. 120). Cette représentation passe par les chefs, non par les assemblées villageoises.", source: "https://www.constituteproject.org/constitution/Zimbabwe_2013"}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
   autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Le profil foncier de l'agence américaine USAID (2010) indique que les conseils de district rural attribuent les terres communales en consultation avec le chef, que la loi sur les dirigeants traditionnels a rendu aux chefs l'administration foncière locale sous le contrôle de ces conseils, et qu'un marché informel de la terre existe dans certaines zones rurales malgré l'interdiction des cessions.", source: "https://www.land-links.org/country-profile/zimbabwe/"}
 chronologie:

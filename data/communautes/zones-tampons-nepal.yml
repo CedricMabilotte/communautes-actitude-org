@@ -28,12 +28,12 @@ droits:
   terres: {valeur: "partiel", note: "Le gardien-chef peut remettre tout ou partie d'une forêt à un comité d'usagers comme forêt communautaire de zone tampon, avec un certificat, et la reprendre si le plan de travail n'est pas suivi, le comité pouvant faire appel devant le directeur général (règlement de 1996, règle 21).", source: "https://faolex.fao.org/docs/pdf/nep6229.pdf"}
   ressources: {valeur: "partiel", note: "Les usagers d'une forêt communautaire de zone tampon prélèvent les produits forestiers dans les limites du plan de travail en payant la redevance fixée par le comité (règlement de 1996, règle 21) ; le ministère fixe la part des recettes du parc consacrée au développement local de la population, en tenant compte notamment de la population et de la surface de la zone tampon (règle 26).", source: "https://faolex.fao.org/docs/pdf/nep6229.pdf"}
   consentement: {valeur: "partiel", note: "Le découpage de la zone tampon en unités se fait en coordination avec l'autorité locale et les usagers (règle 4) ; l'application d'un système d'utilisation des terres suppose l'accord du comité d'usagers (règle 34).", source: "https://faolex.fao.org/docs/pdf/nep6229.pdf"}
-  langue: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "partiel", note: "Chaque comité dispose d'un fonds propre alimenté par la vente de produits forestiers, la part des recettes du parc et des dons (règle 15) ; un comité présidé par un élu des présidents de comités répartit la part des recettes entre unités, le gardien-chef en étant le secrétaire (règle 26) ; l'audit est confié à une personne désignée par le gardien-chef (règle 16).", source: "https://faolex.fao.org/docs/pdf/nep6229.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "En 2026, des habitants et des présidents de comités demandent une réforme : le gardien-chef peut passer outre les décisions du conseil de zone tampon élu, et selon le directeur général du Département des parcs nationaux la part des recettes reversée est passée de 30-50 % à 20 % après le passage au fédéralisme en 2015 ; le 19 mars 2025, la commission de la loi, de la justice et des droits humains de la Chambre des représentants a demandé au ministère des Forêts et de l'Environnement un nouveau relevé et une nouvelle délimitation des zones tampons, travail interrompu par la dissolution du Parlement en septembre 2025.", source: "https://news.mongabay.com/2026/03/in-nepal-calls-for-reform-grow-louder-in-buffer-zones/"}
 chronologie:
   - {annee: 1973, evenement: "Loi sur les parcs nationaux et la conservation de la faune."}

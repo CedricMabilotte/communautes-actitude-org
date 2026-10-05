@@ -73,10 +73,10 @@ cas:
     effectivite: "Le plan de gestion Te Kawa o Te Urewera est publié par Tūhoe en māori et en anglais, avec des règles d'autorisation pour la chasse. Aucune évaluation indépendante du fonctionnement du conseil n'a été trouvée."
     textes:
       - {titre: "Te Urewera Act 2014", nature: "loi", annee: 2014, source: "https://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html"}
-      - {titre: "Te Kawa o Te Urewera (plan de gestion)", nature: "norme communautaire", annee: null, source: "https://www.ngaituhoe.iwi.nz/te-kawa-o-te-urewera"}
+      - {titre: "Te Kawa o Te Urewera (plan de gestion)", nature: "norme communautaire", annee: null, source: "https://teurewera.iwi.nz/te-kawa/te-marae/"}
     sources:
       - {titre: "Te Urewera Act 2014 — legislation.govt.nz", url: "https://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html"}
-      - {titre: "Ngāi Tūhoe — Te Kawa o Te Urewera", url: "https://www.ngaituhoe.iwi.nz/te-kawa-o-te-urewera"}
+      - {titre: "Te Urewera Board — Te Marae (Te Kawa o Te Urewera)", url: "https://teurewera.iwi.nz/te-kawa/te-marae/"}
       - {titre: "Māori Law Review — Te Urewera Act 2014", url: "https://maorilawreview.co.nz/2014/10/tuhoe-crown-settlement-te-urewera-act-2014/"}
 
   - id: "taranaki-maunga"

@@ -20,7 +20,7 @@
     var key=JSON.stringify(s);if(key!==lastKey&&!keepPage)shown=PAGE;lastKey=key;
     var rs=sorted();rs.forEach(function(r){list.appendChild(r)});
     rs.forEach(function(r){
-      var m=(!q||r._q.indexOf(q)>-1)&&(!s.region||r.dataset.region===s.region)&&(!s.type||r.dataset.type===s.type)&&
+      var m=(!q||r._q.indexOf(q)>-1)&&(!s.region||r.dataset.region===s.region)&&(!s.fam||r.dataset.fam===s.fam)&&(!s.type||r.dataset.type===s.type)&&
         (!s.etat||("|"+r.dataset.etats+"|").indexOf("|"+s.etat+"|")>-1)&&
         (!s.eff||r.dataset.eff===s.eff)&&(!s.niv||r.dataset.niv===s.niv)&&(!degs.size||degs.has(r.dataset.deg))&&(!s.droit||r.dataset.d.indexOf(s.droit+":reconnu")>-1);
       if(pts[r.dataset.uid])pts[r.dataset.uid].classList.toggle("off",!m);

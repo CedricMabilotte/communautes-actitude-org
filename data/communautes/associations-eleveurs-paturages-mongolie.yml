@@ -27,12 +27,12 @@ droits:
   terres: {valeur: "partiel", note: "Le gouverneur de sum peut, sur proposition de l'assemblée générale des citoyens du bag (subdivision du sum) et selon les caractéristiques locales et la capacité de charge, confier l'usage d'un pâturage par contrat à l'association primaire pour le protéger de la dégradation et le restaurer (loi sur la terre, article 52.2, cité par le Center for Policy Research) ; il s'agit d'un droit d'usage : les pâturages appartiennent à l'État et ne peuvent pas être donnés en propriété privée (Constitution, article 6.3), et un ménage non membre peut les utiliser à condition de les respecter (loi de 2024, article 10.5).", source: "https://cpr.mn/?lang=en&p=979"}
   ressources: {valeur: "partiel", note: "Selon le contrat avec le gouverneur, l'association organise l'usage des pâturages selon leur capacité de charge et un calendrier saisonnier, la restauration des pâturages dégradés, la surveillance de l'usage des plantes, de l'eau et de la faune sauvage, l'amélioration de l'approvisionnement en eau et l'usage des prairies de fauche ; la mise en culture des pâturages sous contrat est interdite (loi de 2024, articles 4.1.4, 10.1 et 10.3).", source: "https://legalinfo.mn/en/edtl/17333371004191"}
   consentement: {valeur: "partiel", note: "L'association primaire vote sur le projet de programme et de plan de protection de la nature à mettre en œuvre dans la zone (loi de 2024, article 10.1.12) ; l'association de sum donne des recommandations sur le plan annuel d'aménagement du territoire du sum et sur le budget local consacré à l'élevage et aux pâturages (article 20.1.4 et 20.1.5) ; la loi ne précise pas l'effet de ce vote et aucun texte trouvé ne prévoit de consentement préalable.", source: "https://legalinfo.mn/en/edtl/17333371004191"}
-  langue: {valeur: "non_etabli", note: "", source: ""}
-  education: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "non_etablie", note: "La loi est en vigueur depuis le 1er juillet 2024 ; les règles d'établissement des contrats d'usage des pâturages et le contrat type ont été préparés de mai à juillet 2025 par le Center for Policy Research, sur commande du ministère de l'Alimentation, de l'Agriculture et de l'Industrie légère ; aucune source indépendante trouvée ne donne le nombre d'associations enregistrées ni de contrats signés.", source: "https://cpr.mn/?lang=en&p=979"}
 chronologie:
   - {annee: 1992, evenement: "La Constitution exclut les pâturages de l'attribution de terres en propriété privée (article 6.3)."}

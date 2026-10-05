@@ -31,7 +31,7 @@ droits:
   consentement: {valeur: "partiel", note: "Politique de 2007, par. 9.3 : la communauté de la zone où une concession est mise en adjudication est consultée sur le choix du partenaire ; la décision revient au comité technique consultatif de district, sous réserve de l'approbation écrite de l'autorité foncière.", source: "https://faolex.fao.org/docs/pdf/bot196849.pdf"}
   langue: {valeur: "non_applicable", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
-  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "L'organisation communautaire (fiducie, coopérative ou association) peut garder 35 % du produit de la vente des concessions de ressources naturelles et des quotas de chasse ; 65 % sont versés au Fonds national pour l'environnement, et le ministre peut ajuster ces parts (Politique de 2007, par. 10.3). Aucun pouvoir fiscal n'est attribué.", source: "https://faolex.fao.org/docs/pdf/bot196849.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_applicable", note: "", source: ""}
   autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}

@@ -28,11 +28,11 @@ droits:
   terres: {valeur: "partiel", note: "Droit d'achat prioritaire après enregistrement d'un intérêt communautaire sur une terre (Land Reform (Scotland) Act 2003, s. 37) ; droit d'achat des terres de croft par un organisme de communauté de crofters avec le consentement des ministres (s. 73) ; droit d'achat, sans accord du propriétaire, des terres abandonnées, négligées ou dont l'usage nuit au bien-être environnemental de la communauté (partie 3A, s. 97C, en vigueur depuis 2018) ; prix fixé à la valeur de marché par un évaluateur, sans inaliénabilité.", source: "https://www.legislation.gov.uk/asp/2003/2/part/3A"}
   ressources: {valeur: "partiel", note: "Le droit d'achat des communautés de crofters s'étend aux pêcheries de saumon et aux droits miniers, sauf le pétrole, le charbon, le gaz, l'or et l'argent, Land Reform (Scotland) Act 2003, s. 68(2)(d).", source: "https://www.gov.scot/publications/crofting-community-right-buy-under-part-3-land-reform-scotland/"}
   consentement: {valeur: "non_etabli", note: "", source: ""}
-  langue: {valeur: "non_etabli", note: "", source: ""}
-  education: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
   autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Une étude de l'université des Highlands et des Îles et de l'université d'Édimbourg (juin 2026) relève que le droit d'achat communautaire est jugé complexe, qu'aucun achat réussi par ce droit n'a eu lieu depuis plusieurs années selon les personnes interrogées et que le droit d'achat des communautés de crofters a été si peu utilisé que son adéquation est mise en doute ; les acquisitions passent surtout par des ventes négociées avec un vendeur consentant. La statistique officielle recense 853 biens en propriété communautaire fin 2024, dont 84 acquis en 2000 ou avant, sans ventilation selon la voie d'acquisition.", source: "https://www.landcommission.gov.scot/sefari-fellowship-to-understand-changes-in-demand-for-largescale-community-land-acquisitions-and-identify-barriers-and-solutions-to-new-acquisitions"}
 chronologie:

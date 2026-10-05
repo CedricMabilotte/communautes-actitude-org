@@ -29,7 +29,7 @@ droits:
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "partiel", note: "Les communautés, personnes morales de droit public (loi 2456/1920), possèdent des immeubles, imposés comme ceux de l'Église de Grèce, les synagogues étant exonérées (communiqué du secrétaire général aux Cultes, 2015) ; la loi de nécessité 846/1946 a attribué les biens des Juifs morts sans héritiers à une personne morale distincte, l'Organisme d'assistance et de réhabilitation des Israélites de Grèce (OPAIE, décret du 29 mars 1949). Il s'agit de biens cultuels et patrimoniaux, sans territoire.", source: "https://www.ipaideia.gr/paideia/12-01-15-anakoinosi-genikou-gramatea-thriskeumaton-k-g-kalantzi/"}
-  ressources: {valeur: "non_applicable", note: "", source: ""}
+  ressources: {valeur: "non_applicable", note: "Le régime porte sur des biens cultuels et patrimoniaux, sans territoire ni ressource naturelle.", source: ""}
   consentement: {valeur: "non_etabli", note: "", source: ""}
   langue: {valeur: "non_etabli", note: "", source: ""}
   education: {valeur: "partiel", note: "La loi 2456/1920 reconnaît aux communautés le droit de fonder des écoles israélites ; selon le secrétaire général aux Cultes (2015), deux écoles primaires israélites fonctionnent à Athènes et à Thessalonique aux frais des communautés, avec des enseignants publics détachés (lois 3194/2003, 3577/2007 et 4071/2012), et l'école primaire juive de Larissa est une école publique.", source: "https://www.ipaideia.gr/paideia/12-01-15-anakoinosi-genikou-gramatea-thriskeumaton-k-g-kalantzi/"}

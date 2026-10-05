@@ -30,7 +30,7 @@ droits:
   ressources: {valeur: "partiel", note: "Dans une zone inscrite au registre, il est interdit de prendre du poisson sur un récif ou un banc de coquillages sans être membre du groupe titulaire ou sans permis ; la pêche à la ligne, au harpon ou au piège portatif hors activité commerciale en est exemptée (loi sur les pêches, art. 13 (1)). Une licence de pêche ne permet pas de pêcher dans ces zones sans ce permis (règlement sur les pêches, règl. 4). Les titulaires de droits de pêche coutumiers enregistrés ont droit à une part équitable des redevances versées à l'État pour l'extraction de minerais du fond marin de leur zone (Constitution 2013, art. 30 (1)).", source: "https://faolex.fao.org/docs/pdf/fij1155.pdf"}
   consentement: {valeur: "partiel", note: "Le commissaire de division accorde le permis de pêche dans une zone coutumière à sa discrétion, après avoir consulté l'agent des pêches et la subdivision dont les droits peuvent être touchés (loi sur les pêches, art. 13 (2)) ; la loi prévoit une consultation, non un consentement. Selon le profil de la FAO (2009), le service des pêches délivre en pratique ces licences après accord préalable du chef de l'unité titulaire.", source: "https://faolex.fao.org/docs/pdf/fij1155.pdf"}
   langue: {valeur: "non_applicable", note: "", source: ""}
-  education: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_applicable", note: "", source: ""}

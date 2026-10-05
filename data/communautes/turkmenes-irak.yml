@@ -24,7 +24,7 @@ base_nationale:
   - {instrument: "Constitution de la République d'Irak, art. 4 et 125", nature: "constitution", annee: 2005, source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
   - {instrument: "Loi n° 5 de 2015 de la région du Kurdistan sur la protection des droits des composantes", nature: "loi", annee: 2015, source: "http://www.iraqicivilsociety.org/wp-content/uploads/2015/08/A-Reading-for-the-Law-of-Protecting-Components-in-Kurdistan-english.pdf"}
 droits:
-  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  autogouvernement: {valeur: "non_etabli", note: "Art. 125 de la Constitution de 2005 : la Constitution garantit les droits administratifs, politiques, culturels et éducatifs des Turkmènes, Chaldéens, Assyriens et autres composantes, « selon une loi » ; garantie générale qui ne désigne aucune institution propre.", source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "non_etabli", note: "", source: ""}

@@ -32,12 +32,12 @@ droits:
   terres: {valeur: "partiel", note: "La concession est attribuée gratuitement et à perpétuité, comme un bien indivis de toute la communauté, qui ne peut être divisé en titres individuels (décret n° 14/018, art. 2, 15 et 20 ; arrêté n° 025, art. 37) ; plafond de 50 000 ha par communauté, les droits coutumiers étant conservés sur la partie non concédée (décret, art. 18) ; les forêts restent propriété de l'État (Code forestier, art. 7).", source: "https://faolex.fao.org/docs/pdf/cng140362.pdf"}
   ressources: {valeur: "partiel", note: "La communauté a le droit d'exploiter sa forêt elle-même ou par des exploitants artisanaux sous contrat, et les produits lui reviennent après déduction des frais de l'administration (Code forestier, art. 112 et 113) ; la coupe de bois d'œuvre exige un permis de coupe communautaire soumis à taxe (arrêté n° 025 de 2016, art. 41) ; les contrats d'exploitation, de récolte de produits forestiers non ligneux et de cogestion n'entrent en vigueur qu'après approbation de l'administration forestière locale (art. 36, 38, 51 et 66).", source: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/AM.025.9.02.2016.pdf"}
   consentement: {valeur: "non_etabli", note: "", source: ""}
-  langue: {valeur: "non_etabli", note: "", source: ""}
-  education: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
   fiscalite: {valeur: "partiel", note: "Chaque communauté attributaire constitue un fonds de développement communautaire alimenté par les revenus de la concession, géré par le comité local de gestion selon un règlement adopté par l'assemblée communautaire, qui fixe aussi l'affectation et le partage des revenus (arrêté n° 025 de 2016, art. 62 à 64).", source: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/AM.025.9.02.2016.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Selon l'État des forêts du bassin du Congo 2021 (OFAC, CIFOR, 2022), 70 des 101 forêts communautaires recensées en RDC étaient attribuées (tableau 2.2) ; le chapitre 13 indique que les CFCL attribuées dépendent presque toutes d'un appui technique et financier extérieur et qu'il est trop tôt pour en tirer un bilan. Une enquête de presse (Gabonreview, 27 février 2024) compte 166 forêts communautaires sur environ 3 millions d'hectares en RDC ; elle juge la procédure d'attribution fonctionnelle dans les cas étudiés, mais relève l'enclavement, qui limite l'accès aux forêts et le suivi par l'État et les ONG.", source: "https://www.cifor.org/publications/pdf_files/Books/Etat-des-forets-2021.pdf"}
 chronologie:
   - {annee: 2002, evenement: "Loi n° 011/2002 du 29 août portant Code forestier : une communauté locale peut obtenir en concession les forêts qu'elle possède en vertu de la coutume (art. 22)."}

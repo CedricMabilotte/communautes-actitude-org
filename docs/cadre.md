@@ -80,6 +80,12 @@ Chaque entrée : `{mecanisme, detail, annee, source}` — `source` est une URL o
 
 Chaque droit : `{valeur, note, source}`. `note` = une phrase factuelle qui cite l'instrument (article, année).
 
+## 3 bis. Communautés confessionnelles et statut personnel (règle du 2026-10-05)
+
+- Un tribunal réservé aux membres d'une communauté (statut personnel, successions) compte comme `justice_propre` = « partiel », même si ses juges sont nommés et rémunérés par l'État ; « reconnu » seulement si la communauté désigne elle-même ses juges.
+- Le statut personnel seul (droit applicable sans institution propre) ne suffit pas à entrer dans l'atlas ; des sièges réservés seuls non plus ; un organe consultatif non plus.
+- Une institution confessionnelle reconnue par la loi (conseil, assemblée, gestion de biens de mainmorte ou waqf) compte comme `autogouvernement` « partiel ».
+
 ## 4. Degré d'autonomie — CALCULÉ, jamais saisi
 
 Calculé par `scripts/generate_site.py` (fonction `degre`). Seules les valeurs `reconnu` et `partiel` comptent. Première condition remplie, de haut en bas :

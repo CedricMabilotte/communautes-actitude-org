@@ -34,7 +34,7 @@ droits:
   langue: {valeur: "non_etabli", note: "", source: ""}
   education: {valeur: "partiel", note: "La loi 70 de 1993 (art. 32 et 35) garantit une éducation adaptée aux communautés noires et leur droit de créer leurs propres institutions éducatives, sous réserve des normes nationales.", source: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0070_1993.html"}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
-  representation: {valeur: "partiel", note: "La Constitution (art. 176) réserve deux sièges de la Chambre des représentants à la circonscription nationale des communautés afrodescendantes.", source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
+  representation: {valeur: "reconnu", note: "La Constitution (art. 176) réserve deux sièges de la Chambre des représentants à la circonscription nationale des communautés afrodescendantes.", source: "https://www.constituteproject.org/constitution/Colombia_2015.pdf?lang=es"}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "L'arrêt T-105 de 2025 relève, d'après l'Agence nationale des terres, 527 demandes de titre collectif présentées par des communautés noires jusqu'en novembre 2023, dont 249 accordées ; la Cour ordonne à l'Agence de statuer sous six mois sur la demande du conseil communautaire Esfuerzo Pescador, déposée en 2004.", source: "https://www.corteconstitucional.gov.co/relatoria/2025/T-105-25.htm"}

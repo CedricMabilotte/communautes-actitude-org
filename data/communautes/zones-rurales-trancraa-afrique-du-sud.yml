@@ -26,12 +26,12 @@ droits:
   terres: {valeur: "partiel", note: "Les terres en fiducie (trust land, détenues par le ministre pour la communauté) hors zones urbanisées sont transférées en pleine propriété à l'entité choisie, sans droits de mutation (loi n° 94 de 1998, art. 3 (1) et (15)) ; le ministre doit vérifier que les règles de l'entité protègent la sécurité d'occupation des résidents (art. 3 (2)). Une municipalité attributaire ne peut vendre ou grever ces terres sans l'accord de la majorité des résidents réunis en assemblée publique (art. 4 (1) (d)). Les terres non transférées à la fin de la période de transition restent détenues en fiducie par le ministre (art. 3 (13)).", source: "https://www.gov.za/sites/default/files/gcis_document/201409/a94-98.pdf"}
   ressources: {valeur: "non_etabli", note: "", source: ""}
   consentement: {valeur: "partiel", note: "Une municipalité attributaire doit permettre aux résidents de participer aux décisions sur l'administration des terres, leur donner une préférence d'accès et obtenir l'accord de la majorité d'entre eux en assemblée publique avant toute vente ou charge (loi n° 94 de 1998, art. 4 (1) (a), (c) et (d)). L'art. 6, qui soumettait la prospection et l'exploitation minières à l'approbation de l'entité propriétaire, a été abrogé par la loi n° 28 de 2002 sur le développement des ressources minérales et pétrolières (annexe, art. 110).", source: "https://www.gov.za/sites/default/files/gcis_document/201409/a94-98.pdf"}
-  langue: {valeur: "non_etabli", note: "", source: ""}
-  education: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Le 30 octobre 2024, le ministère a déclaré devant la commission parlementaire 603 099 ha transférés sur 1,4 million, avec neuf zones transférées en tout ou partie au titre de la loi (Oppermansgronde l'ayant été par la voie de la restitution) et les autres aux stades de résolution municipale, de création de l'entité ou de référendum (Komaggas) ; il cite le manque de personnel, le manque de coopération de certaines municipalités et des litiges internes. Des membres de la commission ont demandé un suivi des obligations des entités attributaires envers les communautés. Une étude de 2005 sur les six zones du Namaqualand, où la loi a été appliquée en 2001-2002, relève une consultation portée par la société civile, sans formation, financement ni appui au développement (Wisborg et Rohde, Development Southern Africa).", source: "https://pmg.org.za/committee-meeting/39779/"}
 chronologie:
   - {annee: 1909, evenement: "Loi n° 29 sur les stations missionnaires et les réserves communales : constitution de la plupart des futures zones."}

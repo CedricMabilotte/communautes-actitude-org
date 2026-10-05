@@ -27,12 +27,12 @@ droits:
   terres: {valeur: "partiel", note: "La ZOVIC est une partie du terroir de la communauté de base, « affectée par elle » à l'exploitation des ressources cynégétiques (code forestier de 2011, art. 103) ; le texte porte sur l'affectation et la gestion, non sur la propriété du sol.", source: "https://faolex.fao.org/docs/pdf/bkf106703.pdf"}
   ressources: {valeur: "partiel", note: "La communauté exploite la faune de la zone et peut en confier l'exploitation par amodiation (location d'un droit de chasse) à des professionnels de la faune (code forestier de 2011, art. 104) ; les espèces restent soumises aux listes de protection fixées par décret (art. 107 à 109).", source: "https://faolex.fao.org/docs/pdf/bkf106703.pdf"}
   consentement: {valeur: "non_etabli", note: "", source: ""}
-  langue: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "partiel", note: "Les redevances et taxes perçues pour la gestion des ZOVIC sont réparties entre les budgets locaux et les organisations villageoises de gestion de la faune ; leurs montants sont fixés par les textes d'application (code forestier de 2011, art. 106).", source: "https://faolex.fao.org/docs/pdf/bkf106703.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Selon la note sectorielle de la Banque mondiale sur les forêts du Burkina Faso (2022), plus d'une centaine de ZOVIC ont été créées, gérées par des comités villageois de gestion de la faune (CVGF) ; la location des ZOVIC aux guides de chasse a rapporté 10 717 500 francs CFA en 2013-2014 ; seules sept ZOVIC sont gérées par des guides de chasse ; les dispositions sur le régime foncier et la fiscalité des ZOVIC restent à clarifier. Le rapport national à la Convention sur la diversité biologique (2010) indiquait que 32 des 75 ZOVIC de la région de l'Est étaient délimitées.", source: "https://openknowledge.worldbank.org/handle/10986/38288"}
 chronologie:
   - {annee: 1996, evenement: "Réforme de la gestion de la faune : institution des ZOVIC autour des aires fauniques concédées, selon le rapport national de 2010."}

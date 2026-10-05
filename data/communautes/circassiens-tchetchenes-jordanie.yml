@@ -32,7 +32,7 @@ droits:
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "reconnu", note: "Loi n° 4 de 2022 sur l'élection de la Chambre des députés : art. 8(b)(1) et 8(b)(6), un siège réservé aux Circassiens et Tchétchènes dans le gouvernorat d'Amman et un dans celui de Zarqa ; art. 8(d), au moins un siège dans la circonscription nationale ; art. 9(b), dans les circonscriptions locales, les candidats choisissent entre la voie du quota (siège réservé) et la concurrence libre.", source: "https://iec.jo/sites/default/files/2025-09/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%20%D9%84%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A8%20%D9%88%D8%AA%D8%B9%D8%AF%D9%8A%D9%84%D9%87%20%282%29.pdf"}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "effective", note: "Aux élections du 10 septembre 2024, premières tenues sous la loi de 2022, les trois sièges réservés ont été pourvus : un dans la circonscription nationale (liste du Parti de la Charte nationale), un dans la circonscription Amman 3 et un dans celle de Zarqa (listes du Front d'action islamique), selon le tableau des résultats établi d'après la Commission électorale indépendante.", source: "https://en.wikipedia.org/wiki/2024_Jordanian_general_election"}
 chronologie:
   - {annee: 1878, evenement: "Des Circassiens s'installent à Amman ; Wadi es-Sir suit en 1880 et Jerash en 1884."}

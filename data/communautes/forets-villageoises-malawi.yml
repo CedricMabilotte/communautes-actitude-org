@@ -27,12 +27,12 @@ droits:
   terres: {valeur: "partiel", note: "Un comité foncier coutumier peut, sur l'avis du directeur des forêts, délimiter sur une terre coutumière non attribuée une aire forestière villageoise protégée et gérée « au profit de cette communauté villageoise » (Forestry Act 1997, s. 30) ; l'accord de gestion peut attribuer des parcelles à des personnes ou à des familles pour le reboisement et les leur retirer (s. 31(1)(c)) ; la loi ne confère pas de titre de propriété sur le sol.", source: "https://malawilii.org/akn/mw/act/1997/11/eng@2020-06-19"}
   ressources: {valeur: "partiel", note: "L'accord de gestion fixe l'usage et la destination des produits et des recettes (Forestry Act 1997, s. 31(1)(b)) ; toute cession de produits d'une aire forestière villageoise suit l'accord, et le bois excédant les besoins domestiques est cédé par le comité villageois au profit de la communauté (s. 50) ; la personne ou la communauté qui protège un arbre ou une forêt sur une terre qu'elle a le droit d'utiliser en acquiert la propriété avec un droit de récolte durable (s. 34(1)) ; la cogestion des réserves de l'État exclut l'extraction commerciale (s. 25(2)(a)).", source: "https://malawilii.org/akn/mw/act/1997/11/eng@2020-06-19"}
   consentement: {valeur: "non_etabli", note: "", source: ""}
-  langue: {valeur: "non_etabli", note: "", source: ""}
-  education: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Une étude publiée en 2026 dans Conservation Biology, fondée sur deux enquêtes d'experts, relève plus de dix facteurs de risque potentiels pour l'extension des aires forestières villageoises et indique que de nombreux groupes locaux créent des aires de fait sans signer d'accord de gestion forestière, car la formalisation permet à l'État de limiter les droits d'usage.", source: "https://pmc.ncbi.nlm.nih.gov/articles/PMC13036310/"}
 chronologie:
   - {annee: 1997, evenement: "Loi sur les forêts (Forestry Act, chap. 63:01) : aires forestières villageoises, accords de gestion forestière, comités villageois de gestion des ressources naturelles et cogestion des réserves forestières."}

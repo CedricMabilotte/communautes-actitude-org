@@ -28,12 +28,12 @@ droits:
   terres: {valeur: "partiel", note: "La possession foncière rurale peut être collective, notamment familiale, et être constatée par une APFR qui a la valeur d'un titre de jouissance (droit d'usage reconnu par l'État) (loi n° 034-2009, art. 34, 39 et 44) ; les espaces locaux de ressources naturelles d'utilisation commune sont immatriculés (inscrits au livre foncier) au nom de la collectivité territoriale, déclarés inaliénables et peuvent être délégués en gestion aux utilisateurs locaux (art. 32).", source: "https://faolex.fao.org/docs/pdf/bkf95496.pdf"}
   ressources: {valeur: "partiel", note: "Les chartes déterminent les modalités d'accès et de gestion participative des forêts villageoises, bois sacrés, mares, pâtures et pistes à bétail d'utilisation commune (loi n° 034-2009, art. 6, 13 et 32) ; les forêts classées, aires fauniques, espaces pastoraux, mines et eaux restent régis par leurs lois propres (art. 3).", source: "https://faolex.fao.org/docs/pdf/bkf95496.pdf"}
   consentement: {valeur: "non_etabli", note: "", source: ""}
-  langue: {valeur: "non_etabli", note: "", source: ""}
-  education: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Selon le Comité technique « Foncier et développement » (2014), les structures locales prévues par la loi n'étaient en place que dans 48 communes sur 351, 19 communes avaient une charte validée et 140 APFR avaient été délivrées pour 8 879 demandes, les APFR individuelles étant plus demandées que les APFR collectives. Selon une communication de mars 2023, 189 services fonciers ruraux étaient opérationnels en 2022 (53,84 % des communes), près de la moitié des villages n'étaient pas encore concernés par les commissions foncières villageoises et les commissions de conciliation restaient peu sollicitées.", source: "https://www.foncier-developpement.fr/wp-content/uploads/Burkina_Pierre-Aime-Ouedraogo_PPT_SFR-VF.pdf"}
 chronologie:
   - {annee: 2007, evenement: "Adoption de la politique nationale de sécurisation foncière en milieu rural (décret n° 2007-610 du 4 octobre 2007)."}

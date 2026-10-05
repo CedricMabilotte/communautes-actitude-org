@@ -29,12 +29,12 @@ droits:
   terres: {valeur: "partiel", note: "Le territoire coutumier visé par le décret est retiré de la forêt d'État (art. 75 (1) du règlement ministériel n° 9 de 2021) ; la forêt coutumière est une catégorie distincte de la forêt d'État (art. 15 (1) du règlement gouvernemental n° 23 de 2021), mais elle reste comprise dans la zone forestière (kawasan hutan, espace soumis au droit forestier, art. 15 (2)). Le titulaire ne peut ni louer la forêt ni en changer le statut ou la fonction, ni y planter du palmier à huile (art. 94 (2)) ; la fonction (conservation, protection, production) est fixée par l'État (art. 62 (2)).", source: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
   ressources: {valeur: "partiel", note: "La communauté a le droit d'utiliser l'espace, les services environnementaux, le bois et les produits non ligneux de la forêt (art. 92 (1) du règlement ministériel n° 9 de 2021) ; le bois n'est exploité que pour les besoins quotidiens et selon les savoirs locaux (art. 92 (2)), et l'abattage est interdit dans la partie classée forêt de protection (art. 94 (2) c).", source: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
   consentement: {valeur: "partiel", note: "Dans une zone indicative de forêt coutumière (wilayah indikatif hutan adat, territoire délimité par le chef de district en attente de règlement régional), aucun nouveau permis ne peut être délivré hors des concessions existantes ; dans une concession existante, le titulaire du permis doit se coordonner avec le chef coutumier (art. 72 (1) du règlement ministériel n° 9 de 2021). Le texte ne prévoit pas de consentement préalable hors de ces zones.", source: "https://pasal.id/peraturan/permen/permen-lhk-no-9-tahun-2021"}
-  langue: {valeur: "non_applicable", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "En novembre 2025, 332 500 hectares de forêts coutumières étaient reconnus, soit moins de 2 % des 23 millions d'hectares cartographiés par l'Agence d'enregistrement des territoires coutumiers (BRWA) ; la reconnaissance préalable par des actes locaux est décrite comme longue et coûteuse (dossier, cartographie, approbation des gouvernements régionaux et central), et la loi sur les peuples autochtones est en attente au Parlement depuis 2012 (Mongabay, 2025).", source: "https://news.mongabay.com/2025/11/new-pledge-old-problems-as-indonesias-latest-indigenous-forest-promise-draws-skepticism/"}
 chronologie:
   - {annee: 1999, evenement: "Loi sur les forêts n° 41 : la forêt coutumière est définie comme forêt d'État située dans le territoire d'une communauté de droit coutumier."}

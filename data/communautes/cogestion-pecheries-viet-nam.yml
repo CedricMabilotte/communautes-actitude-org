@@ -29,7 +29,7 @@ droits:
   consentement: {valeur: "partiel", note: "L'organisation a le droit d'être consultée sur les projets et activités qui touchent directement l'écosystème ou les ressources halieutiques de sa zone (loi de 2017, art. 10 al. 5 d) ; aucun texte consulté ne subordonne ces projets à son consentement.", source: "https://faolex.fao.org/docs/pdf/vie171855.pdf"}
   langue: {valeur: "non_applicable", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
-  fiscalite: {valeur: "partiel", note: "L'organisation peut créer un fonds communautaire (loi de 2017, art. 10 al. 5 e), fonds social qui peut recevoir un soutien du fonds de protection et de développement des ressources halieutiques et d'autres sources légales (art. 22) ; aucun budget n'est garanti et aucun pouvoir fiscal n'est prévu.", source: "https://faolex.fao.org/docs/pdf/vie171855.pdf"}
+  fiscalite: {valeur: "non_etabli", note: "L'organisation peut créer un fonds communautaire (loi de 2017, art. 10 al. 5 e), qui peut recevoir un soutien du fonds de protection et de développement des ressources halieutiques et d'autres sources légales (art. 22) ; aucun texte consulté ne lui donne le droit de lever des cotisations ou des redevances ni ne lui garantit une part de recettes publiques.", source: "https://faolex.fao.org/docs/pdf/vie171855.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_applicable", note: "", source: ""}
   autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}

@@ -30,7 +30,7 @@ droits:
   langue: {valeur: "non_applicable", note: "", source: ""}
   education: {valeur: "non_applicable", note: "", source: ""}
   fiscalite: {valeur: "partiel", note: "La commission syndicale, établissement public administratif, gère un budget propre alimenté par les participations des communes membres (CGCT, art. L. 5222-1 à L. 5222-3, question écrite n° 5042 du 31 janvier 2023) ; elle n'a pas de fiscalité propre (pas de pouvoir de lever l'impôt). La charte de la montagne basque de 2008 indique un budget de 286 000 euros pour la Commission syndicale de la vallée de Baïgorry (données 2004).", source: "https://questions.assemblee-nationale.fr/q16/16-5042QE.htm"}
-  representation: {valeur: "non_applicable", note: "", source: ""}
+  representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_applicable", note: "", source: ""}
   autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "effective", note: "L'Escòla Gaston Febus (2020) écrit que « le pays Quint appartient à l'Espagne mais c'est la commission syndicale de la vallée de Baïgorry qui les gère » ; l'hebdomadaire Argia (2002) indique que les pâturages et le bois du Pays Quint septentrional restent à l'usage exclusif des habitants de Baïgorry contre une rente. La charte de la montagne basque (2008), signée par les commissions syndicales, compte 250 exploitants transhumants et 8 200 UGB (unités de gros bétail) pour la vallée de Baïgorry en 2004.", source: "https://escolagastonfebus.com/histoire/les-commissions-syndicales-dans-les-pyrenees/"}

@@ -24,14 +24,14 @@ base_nationale:
 droits:
   autogouvernement: {valeur: "partiel", note: "Les autorités villageoises sont reconnues et le préfet de district peut en désigner les membres, règlement de 1945, art. 5 ; l'amendement de 2023 y inclut les conseils traditionnels de village, les conseils inter-villages et les conseils coutumiers supérieurs.", source: "https://www.ijcrt.org/papers/IJCRT2602272.pdf"}
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
-  justice_propre: {valeur: "reconnu", note: "Le tribunal coutumier, « tribunal du conseil ou de l'autorité traditionnelle d'un ou plusieurs villages, quel que soit son nom », est un degré de juridiction civile, loi de 2021, art. 2 (d) et 3 (e) ; les autorités villageoises jugent tous les procès sans limite de valeur entre parties autochtones de l'État, art. 27 modifiant l'art. 40 du règlement de 1945.", source: "https://prsindia.org/files/bills_acts/acts_states/arunachal-pradesh/2021/ActNo-4of2021ArunachalPradesh.pdf"}
+  justice_propre: {valeur: "partiel", note: "Le tribunal coutumier, « tribunal du conseil ou de l'autorité traditionnelle d'un ou plusieurs villages, quel que soit son nom », est un degré de juridiction civile, loi de 2021, art. 2 (d) et 3 (e) ; les autorités villageoises jugent tous les procès sans limite de valeur entre parties autochtones de l'État, art. 27 modifiant l'art. 40 du règlement de 1945. Le préfet de district peut désigner les membres des autorités villageoises, règlement de 1945, art. 5 : la désignation des juges n'appartient pas à la seule communauté.", source: "https://prsindia.org/files/bills_acts/acts_states/arunachal-pradesh/2021/ActNo-4of2021ArunachalPradesh.pdf"}
   terres: {valeur: "non_etabli", note: "", source: ""}
   ressources: {valeur: "non_etabli", note: "", source: ""}
   consentement: {valeur: "non_etabli", note: "", source: ""}
   langue: {valeur: "non_etabli", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
-  representation: {valeur: "non_etabli", note: "", source: ""}
+  representation: {valeur: "partiel", note: "Sièges réservés aux tribus répertoriées (Scheduled Tribes, liste constitutionnelle) à l'Assemblée législative de l'Arunachal Pradesh, Constitution, art. 332 (1) et (3A) ; la réserve vise l'ensemble des tribus répertoriées de l'État, sans sièges propres aux communautés des autorités villageoises.", source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   statut_personnel: {valeur: "partiel", note: "Les citoyens indiens non résidents doivent obtenir un permis délivré par l'administration pour franchir la « ligne intérieure », Bengal Eastern Frontier Regulation de 1873, art. 2 ; une personne qui n'est pas originaire de ces districts ne peut acquérir de droit sur la terre au-delà de la ligne sans l'accord du gouvernement, art. 7 ; selon le ministère de l'Intérieur (2013), le régime vise à empêcher l'installation d'autres Indiens pour protéger la population autochtone et tribale.", source: "https://www.mha.gov.in/MHA1/Par2017/pdfs/par2013-pdfs/rs-270213/393.pdf"}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "non_etablie", note: "", source: ""}

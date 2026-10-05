@@ -28,7 +28,7 @@ droits:
   consentement: {valeur: "partiel", note: "Avant toute opération sur une terre ou toute décision sur une demande minière, le Trust consulte les détenteurs de liens traditionnels avec la terre, dont les titulaires du titre autochtone, les résidents et les autres intéressés (loi de 2013, s. 8, 44(5) et 53(4)) ; il s'agit d'une consultation, pas d'un consentement des communautés.", source: "https://alt.sa.gov.au/wp-content/uploads/2025/11/ALT_Act_2013.pdf"}
   langue: {valeur: "non_etabli", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
-  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le Trésorier verse au Trust une somme égale aux deux tiers des redevances minières perçues sur ses terres (loi de 2013, s. 55) ; toutes ses recettes vont au fonds du Trust (s. 21(1)), et la moitié des sommes issues des redevances doit servir à la terre concernée ou à la communauté qui y vit (s. 21(3)) ; aucun pouvoir fiscal.", source: "https://alt.sa.gov.au/wp-content/uploads/2025/11/ALT_Act_2013.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}

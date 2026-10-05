@@ -17,7 +17,7 @@ resume: >-
 reconnaissance_regionale: []
 reconnaissance_onu: []
 base_nationale:
-  - {instrument: "Constitution de la République démocratique de São Tomé-et-Principe (révision de 2003), art. 137", nature: "constitution", annee: 2003, source: "https://www2.camara.leg.br/saotomeeprincipe/legislacao/legislacao-constitucional/constituicao.pdf"}
+  - {instrument: "Constitution de la République démocratique de São Tomé-et-Principe (révision de 2003), art. 137", nature: "constitution", annee: 2003, source: "https://web.archive.org/web/20240908120632/https://www2.camara.leg.br/saotomeeprincipe/legislacao/legislacao-constitucional/constituicao.pdf"}
   - {instrument: "Loi n° 4/2010 du 18 juin 2010, Statut politico-administratif de la Région autonome de Principe (EPARAP), abrogeant la loi n° 4/94 du 20 septembre 1994", nature: "statut_autonomie", annee: 2010, source: "https://principe.gov.st/wp-content/uploads/2025/01/Lei-10_22_-Revisao-a-Lei-1_2010_-Estatuto-Politico-Administrativo.pdf"}
   - {instrument: "Loi n° 10/2022 du 9 août 2022, première modification du statut politico-administratif (texte republié en annexe)", nature: "statut_autonomie", annee: 2022, source: "https://principe.gov.st/wp-content/uploads/2025/01/Lei-10_22_-Revisao-a-Lei-1_2010_-Estatuto-Politico-Administrativo.pdf"}
 droits:
@@ -60,7 +60,7 @@ fiabilite:
 sources:
   - {titre: "Loi n° 10/2022, révision et republication du Statut politico-administratif de la Région autonome de Principe — Diário da República, 9 août 2022", url: "https://principe.gov.st/wp-content/uploads/2025/01/Lei-10_22_-Revisao-a-Lei-1_2010_-Estatuto-Politico-Administrativo.pdf"}
   - {titre: "Statut politico-administratif — Gouvernement régional de Principe", url: "https://principe.gov.st/estatuto-politico-e-administrativo/"}
-  - {titre: "Constitution de São Tomé-et-Principe (texte révisé de 2003)", url: "https://www2.camara.leg.br/saotomeeprincipe/legislacao/legislacao-constitucional/constituicao.pdf"}
+  - {titre: "Constitution de São Tomé-et-Principe (texte révisé de 2003)", url: "https://web.archive.org/web/20240908120632/https://www2.camara.leg.br/saotomeeprincipe/legislacao/legislacao-constitucional/constituicao.pdf"}
   - {titre: "Autonomous Region of Príncipe — Wikipedia", url: "https://en.wikipedia.org/wiki/Autonomous_Region_of_Pr%C3%ADncipe"}
   - {titre: "José Cassandra investido como Presidente do Governo Regional do Príncipe — Téla Nón, 30 août 2010", url: "https://www.telanon.info/politica/2010/08/30/5144/jose-cassandra-investido-como-presidente-do-governo-regional-do-principe-para-os-proximos-4-anos/"}
   - {titre: "Décrets législatifs régionaux n° 1/2024 et n° 2/2024, grandes options du plan et budget régional — Diário da República, 16 avril 2024", url: "https://principe.gov.st/wp-content/uploads/2025/01/Decreto-Legislativo-Regional-n.o-1-e-2_2024_-GOP-e-Orcamento-Regional.pdf"}

@@ -21,11 +21,11 @@ base_nationale:
   - {instrument: "Maharashtra Gramdan Act, 1964 ; notification de Mendha-Lekha comme village gramdan, 28 novembre 2013", nature: "loi", annee: 2013, source: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
 droits:
   autogouvernement: {valeur: "partiel", note: "L'assemblée de village exerce les droits de gestion de la loi de 2006, art. 5 ; la loi du Maharashtra de 1964 sur le gramdan, art. 39, prévoit qu'elle exerce les pouvoirs du conseil de village, mesure non appliquée en 2022.", source: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
-  pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
+  pouvoir_normatif: {valeur: "partiel", note: "Les titulaires de droits, l'assemblée de village (gram sabha) et les institutions villageoises sont habilités à faire respecter les décisions prises par l'assemblée pour réguler l'accès aux ressources forestières communautaires et arrêter toute activité qui nuit à la faune, à la forêt et à la biodiversité (loi de 2006, art. 5 (d)) ; à Mendha-Lekha, l'assemblée décide par consensus (Kalpavriksh).", source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "partiel", note: "Titre de droits forestiers communautaires sur environ 1 800 ha (décembre 2009), inaliénable, loi de 2006, art. 4 (4) ; tous les propriétaires ont cédé leurs terres à l'assemblée (gramdan notifié le 28 novembre 2013), mutation des registres fonciers non faite en 2022.", source: "https://vikalpsangam.org/article/indias-1st-cfr-village-moves-hc-for-gramdan-status/"}
-  ressources: {valeur: "reconnu", note: "Droit de gérer la ressource forestière communautaire, loi de 2006, art. 3 (1) (i) ; le service forestier a remis à l'assemblée le carnet de permis de transport du bambou le 27 avril 2011, après 18 mois de refus.", source: "https://www.cseindia.org/finally-bamboo-liberated-report-from-the-field-2509"}
-  consentement: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Droit de gérer la ressource forestière communautaire, loi de 2006, art. 3 (1) (i), et propriété des produits forestiers non ligneux, bambou compris, à l'exclusion du bois d'œuvre, art. 2 (i) et 3 (1) (c) ; le service forestier a remis à l'assemblée le carnet de permis de transport du bambou le 27 avril 2011, après 18 mois de refus.", source: "https://www.cseindia.org/finally-bamboo-liberated-report-from-the-field-2509"}
+  consentement: {valeur: "partiel", note: "La loi exige le consentement libre et éclairé, donné par écrit, des assemblées de village concernées avant toute réinstallation de titulaires de droits hors d'un habitat faunique critique (loi de 2006, art. 4 (2) (e)) ; aucune autre obligation de consentement propre au village n'a été trouvée.", source: "https://prsindia.org/files/bills_acts/acts_parliament/2006/the-scheduled-tribes-and-other-traditional-forest-dwellers-recognition-of-forest-rights-act-2006.pdf"}
   langue: {valeur: "non_etabli", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
@@ -40,7 +40,7 @@ chronologie:
   - {annee: 2013, evenement: "Notification comme village gramdan le 28 novembre."}
   - {annee: 2022, evenement: "Recours devant la Haute Cour pour l'application du statut gramdan."}
 fiabilite:
-  verifie: ["Titre CFR de décembre 2009 et remise du permis de transport le 27 avril 2011 (CSE).", "Notification gramdan du 28 novembre 2013 et recours de 2022 (Vikalp Sangam).", "Décision par consensus de l'assemblée (Kalpavriksh).", "Surface de 1 800 ha (Vikalp Sangam, Community Conserved Areas)."]
+  verifie: ["Articles 2 (i), 3 (1) (c), 4 (2) (e) et 5 (d) de la loi de 2006, relus le 5 octobre 2026 (texte publié par PRS).", "Titre CFR de décembre 2009 et remise du permis de transport le 27 avril 2011 (CSE).", "Notification gramdan du 28 novembre 2013 et recours de 2022 (Vikalp Sangam).", "Décision par consensus de l'assemblée (Kalpavriksh).", "Surface de 1 800 ha (Vikalp Sangam, Community Conserved Areas)."]
   non_confirme: ["Population : ordre de grandeur de presse (environ 400 selon Kalpavriksh, près de 500 selon ETV Bharat, 2020).", "Issue du recours de 2022 devant la Haute Cour : non trouvée.", "Revenus du bambou : non trouvés sur une source consultée."]
 sources:
   - {titre: "Kalpavriksh, Mendha Lekha Village", url: "https://kalpavriksh.org/mendha-lekha-village/"}

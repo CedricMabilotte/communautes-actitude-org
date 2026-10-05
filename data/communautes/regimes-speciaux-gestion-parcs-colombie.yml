@@ -35,7 +35,7 @@ droits:
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Les autorités traditionnelles des communautés autochtones de la commune de Taraira (Vaupés), qui disaient représenter la moitié du resguardo, ont contesté en justice la création du parc Yaigojé Apaporis, faute de consentement ; l'arrêt T-384A de 2014 a refusé leur demande, validé le parc et ordonné la suspension immédiate de toute activité d'exploration et d'exploitation minière dans la zone.", source: "https://www.corteconstitucional.gov.co/relatoria/2014/T-384A-14.htm"}
 chronologie:
   - {annee: 1974, evenement: "Le décret-loi 2811 crée le système des parcs nationaux et prévoit pour ces aires un régime spécial de gestion."}

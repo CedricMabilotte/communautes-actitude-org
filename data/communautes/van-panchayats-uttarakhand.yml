@@ -22,16 +22,16 @@ base_nationale:
 droits:
   autogouvernement: {valeur: "partiel", note: "Les ayants droit du village élisent un conseil de neuf membres au plus, dont quatre sièges réservés aux femmes (un pour une femme de caste ou tribu répertoriée) ; les membres élisent le président (sarpanch), règles de 2001 et de 2005 prises au titre des sections 28 (2) et 76 de la loi forestière de 1927 ; la révocation d'un membre ou du sarpanch passe par le sous-préfet (Sub-Divisional Magistrate).", source: "https://lead-journal.org/content/12141.pdf"}
   pouvoir_normatif: {valeur: "partiel", note: "Le conseil fixe les règles d'accès et de partage des produits de la forêt (pâturage, coupe de branches, bois de feu) et les sanctions, dans le cadre des règles de l'État (2005, modifiées en 2012 et 2024).", source: "https://www.groundreport.in/biodiversity/how-van-panchayat-works-in-uttarakhand/"}
-  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "Les conseils fixent les règles d'accès et de partage des produits de la forêt, surveillent leur respect et infligent des sanctions aux contrevenants ; selon Ground Report, l'amende va de 50 à 1 000 roupies à Sarmoli ; ils agissent dans le cadre des règles de l'État (2005, modifiées en 2012 et 2024).", source: "https://www.groundreport.in/biodiversity/how-van-panchayat-works-in-uttarakhand/"}
   terres: {valeur: "partiel", note: "L'État peut attribuer à une communauté villageoise ses droits sur une forêt classée et retirer cette attribution, loi forestière de 1927, section 28 (1) ; le sol reste à l'État.", source: "https://indiankanoon.org/doc/644357/"}
   ressources: {valeur: "partiel", note: "Le conseil perçoit des redevances de pâturage, d'herbe, de bois et de pierre et peut vendre localement des produits avec l'accord de l'agent forestier ; depuis les règles de 2001, le chef de division forestière approuve le plan de gestion quinquennal et les agents marquent les arbres à abattre.", source: "https://lead-journal.org/content/12141.pdf"}
   consentement: {valeur: "non_etabli", note: "", source: ""}
-  langue: {valeur: "non_etabli", note: "", source: ""}
-  education: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
   fiscalite: {valeur: "partiel", note: "Le conseil tient un fonds forestier propre sous le contrôle du chef de division forestière ; les règles de 2005 en imposent le partage : 30 % au conseil de village élu (gram panchayat), 40 % pour la forêt, 30 % pour des travaux locaux (2001 : 20 % au conseil de district).", source: "https://lead-journal.org/content/12141.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Entre 2020 et 2022, l'État a relancé les élections des conseils et corrigé leurs registres fonciers ; l'amendement de mars 2024 ne modifie que 15 règles, alors que le projet de 2023 comptait 58 modifications.", source: "https://www.downtoearth.org.in/governance/a-step-back-by-uttarakhand"}
 chronologie:
   - {annee: 1921, evenement: "Incendies de forêt de protestation au Kumaon et au Garhwal ; commission des griefs forestiers du Kumaon."}
@@ -41,7 +41,7 @@ chronologie:
   - {annee: 2005, evenement: "Uttarakhand Panchayati Van Niyamavali ; revenus partagés entre conseil de village élu, forêt et travaux locaux."}
   - {annee: 2024, evenement: "Amendement de 15 règles approuvé le 16 mars."}
 fiabilite:
-  verifie: ["Section 28 (1) de la loi forestière de 1927 (Indian Kanoon).", "Composition, élection, révocation et partage des revenus selon les règles de 1931 à 2005 (tableau comparatif du LEAD Journal ; People's Science Institute).", "Élections relancées entre 2020 et 2022 et amendement de 2024 (Down To Earth, 3 mars 2026).", "Nombre de conseils et surface en 2026 (Down To Earth, 3 mars 2026), concordant avec le communiqué du cabinet de mars 2024 (Drishti IAS)."]
+  verifie: ["Pouvoir des conseils d'infliger des sanctions et montant des amendes à Sarmoli (Ground Report), relus le 5 octobre 2026.", "Section 28 (1) de la loi forestière de 1927 (Indian Kanoon).", "Composition, élection, révocation et partage des revenus selon les règles de 1931 à 2005 (tableau comparatif du LEAD Journal ; People's Science Institute).", "Élections relancées entre 2020 et 2022 et amendement de 2024 (Down To Earth, 3 mars 2026).", "Nombre de conseils et surface en 2026 (Down To Earth, 3 mars 2026), concordant avec le communiqué du cabinet de mars 2024 (Drishti IAS)."]
   non_confirme: ["Textes des règles de 2005, 2012 et 2024 : non consultés (site du département forestier inaccessible).", "Les chiffres varient de 11 217 à 12 167 conseils et de 4 050 à 7 351 km² selon les sources.", "Population concernée : non trouvée ; seule une estimation en familles est publiée (« plus d'un million de familles rurales », Down To Earth, d'après le recensement de 2011).", "Type « peuple tribal ou coutumier » : approximation. Les ayants droit sont des communautés villageoises du Kumaon et du Garhwal, en majorité non répertoriées comme tribus ; le type est retenu au titre de « coutumier » (Convention OIT 169, art. 1 (1) (a) : statut régi en partie par des coutumes propres), car leurs droits prolongent des droits d'usage coutumiers reconnus par les règles de 1931. Aucun autre type du cadre ne convient : « minorité nationale » supposerait un groupe défini par la langue, l'ethnie ou la religion, ce que le régime ne vise pas.", "Part des conseils inactifs (environ la moitié selon IndiaSpend et Ground Report) : estimation de presse.", "Nombre de villages : non trouvé."]
 sources:
   - {titre: "Indian Forest Act, 1927, section 28 (1) — Indian Kanoon", url: "https://indiankanoon.org/doc/644357/"}

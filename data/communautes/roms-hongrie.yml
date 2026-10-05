@@ -20,7 +20,7 @@ reconnaissance_regionale:
 reconnaissance_onu: []
 base_nationale:
   - {instrument: "Loi fondamentale de la Hongrie (2011), préambule, art. 2 al. 2 et art. XXIX", nature: "constitution", annee: 2011, source: "https://www.constituteproject.org/constitution/Hungary_2016"}
-  - {instrument: "Loi CLXXIX de 2011 sur les droits des nationalités", nature: "loi", annee: 2011, source: "https://webassets.eurac.edu/31538/1661962535-hungary-2022.pdf"}
+  - {instrument: "Loi CLXXIX de 2011 sur les droits des nationalités", nature: "loi", annee: 2011, source: "https://real.mtak.hu/150430/1/DobosBalazsTheMinoritySelf-GovernmentsinHungary.pdf"}
   - {instrument: "Loi CCIII de 2011 sur l'élection des membres de l'Assemblée nationale (quota préférentiel des nationalités)", nature: "loi", annee: 2011, source: "https://rm.coe.int/5th-sr-hungary-en/168092522f"}
 droits:
   autogouvernement: {valeur: "reconnu", note: "Les nationalités ont le droit de créer des autogouvernements locaux et nationaux, Loi fondamentale, art. XXIX, al. 2 ; la loi CLXXIX de 2011 organise leur élection.", source: "https://www.constituteproject.org/constitution/Hungary_2016"}
@@ -28,7 +28,7 @@ droits:
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "non_etabli", note: "", source: ""}
   ressources: {valeur: "non_etabli", note: "", source: ""}
-  consentement: {valeur: "reconnu", note: "Les autogouvernements des nationalités donnent leur avis et leur consentement sur les questions d'éducation, de culture et d'usage de la langue qui concernent leur communauté, loi CLXXIX de 2011, selon le rapport de la Hongrie au Conseil de l'Europe (2019).", source: "https://rm.coe.int/5th-sr-hungary-en/168092522f"}
+  consentement: {valeur: "partiel", note: "Les autogouvernements des nationalités donnent leur avis et leur consentement sur les questions d'éducation, de culture et d'usage de la langue qui concernent leur communauté, loi CLXXIX de 2011, selon le rapport de la Hongrie au Conseil de l'Europe (2019) ; droit d'accord limité à ces domaines, aucune source consultée n'établit un accord requis pour les lois de l'État, d'où « partiel ».", source: "https://rm.coe.int/5th-sr-hungary-en/168092522f"}
   langue: {valeur: "partiel", note: "Droit d'utiliser sa langue maternelle et de recevoir un enseignement dans cette langue, Loi fondamentale, art. XXIX, al. 1 ; aucun statut de langue officielle territoriale.", source: "https://www.constituteproject.org/constitution/Hungary_2016"}
   education: {valeur: "partiel", note: "Les nationalités peuvent créer des établissements ou reprendre des établissements culturels et scolaires gérés par d'autres entités, loi CLXXIX de 2011, selon le rapport de la Hongrie au Conseil de l'Europe (2019).", source: "https://rm.coe.int/5th-sr-hungary-en/168092522f"}
   fiscalite: {valeur: "partiel", note: "Les autogouvernements des minorités sont financés par le budget de l'État ; le budget global alloué aux minorités nationales atteint 23 milliards de forints en 2024, contre 3,5 milliards en 2011, selon le Comité consultatif de la Convention-cadre (2025, § 59) ; aucune source consultée ne mentionne de pouvoir fiscal propre.", source: "https://rm.coe.int/acfc-op-vi-2025-4-6th-acfc-opinion-on-hungary-fr/48802ac9f6"}
@@ -48,7 +48,7 @@ fiabilite:
 sources:
   - {titre: "Loi fondamentale de la Hongrie — Constitute Project", url: "https://www.constituteproject.org/constitution/Hungary_2016"}
   - {titre: "Fifth Report submitted by Hungary, Convention-cadre — Conseil de l'Europe", url: "https://rm.coe.int/5th-sr-hungary-en/168092522f"}
-  - {titre: "The Minority Self-Governments in Hungary, B. Dobos (2022) — Eurac Research", url: "https://webassets.eurac.edu/31538/1661962535-hungary-2022.pdf"}
+  - {titre: "The Minority Self-Governments in Hungary, B. Dobos (2022) — Eurac Research, dépôt de la Bibliothèque de l'Académie hongroise des sciences", url: "https://real.mtak.hu/150430/1/DobosBalazsTheMinoritySelf-GovernmentsinHungary.pdf"}
   - {titre: "A népszámlálás adataiból — nemzetisegek.hu", url: "https://nemzetisegek.hu/2023/10/04/a-nepszamlalas-adataibol/"}
   - {titre: "A 2024. évi nemzetiségi önkormányzati választások — Comitatus", url: "https://comitatus.sze.hu/a-2024-evi-nemzetisegi-onkormanyzati-valasztasok"}
   - {titre: "A 2024. évi nemzetiségi önkormányzati választások, B. Dobos et T. Szabó, Comitatus (2025) — texte intégral", url: "https://comitatus.sze.hu/images/számok/2025/2025_1/dobos_balazs-szabo_tamas.pdf"}

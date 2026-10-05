@@ -24,11 +24,11 @@ droits:
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "reconnu", note: "Les terres sont attribuées en pleine propriété à l'APY ; aucun droit sur elles ne peut en être aliéné ni exproprié en vertu du droit de l'État (s. 15 et 17). Tous les Anangu y ont libre accès (s. 18) ; les autres personnes doivent obtenir une autorisation écrite (s. 19).", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
-  ressources: {valeur: "non_etabli", note: "", source: ""}
+  ressources: {valeur: "partiel", note: "Les redevances minières perçues sur les terres sont versées à un fonds tenu par le ministre des Mines : un tiers revient à l'APY, un tiers au ministre pour la santé, le bien-être et le progrès des Aborigènes de l'État, un tiers au budget de l'État, l'excédent au-delà d'un plafond fixé par décret revenant au budget de l'État (s. 22).", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
   consentement: {valeur: "partiel", note: "Les activités minières requièrent l'autorisation de l'APY ; en cas de refus ou de conditions contestées, le demandeur peut recourir à un arbitrage, qui tient compte des effets sur la culture anangu, l'environnement et le développement économique (s. 20 et 21).", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
   langue: {valeur: "non_etabli", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
-  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "Le tiers des redevances minières perçues sur les terres est versé à l'APY (s. 22(2)(a)), dans la limite d'un plafond annuel fixé par décret (s. 22(3)) ; aucun pouvoir fiscal.", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}

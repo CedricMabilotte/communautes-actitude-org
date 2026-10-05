@@ -35,7 +35,7 @@ droits:
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "partiel", note: "Le Comité CEDAW relève en 2018 que seuls les détenteurs d'un titre de matai peuvent se présenter aux élections législatives et recommande de modifier l'art. 5 de la loi électorale de 1963 qui pose cette condition. Aucun siège n'est attribué aux villages en tant que tels.", source: "https://docs.un.org/en/CEDAW/C/WSM/CO/6"}
   statut_personnel: {valeur: "partiel", note: "Les titres de matai, qui confèrent la qualité de membre du fono, sont détenus selon la coutume et l'usage samoans et selon la loi qui s'y rapporte (Constitution, art. 100) ; l'art. 103 confie à la Cour des terres et des titres la compétence que la loi lui attribue sur ces titres.", source: "https://www.constituteproject.org/constitution/Samoa_2017"}
-  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "effective", note: "Le Comité CEDAW relève en 2018 que certains villages interdisent aux femmes de détenir un titre de matai et restreignent leur participation au fono, et que la loi modifiée en 2017 ne reconnaît pas les comités de femmes. Une étude publiée par l'Université du Pacifique Sud indique qu'avant 2017 des tribunaux ont accordé une indemnisation à des personnes bannies par un fono, la loi de 1990 n'autorisant pas cette peine, et que les règles des villages sont rarement écrites.", source: "https://docs.un.org/en/CEDAW/C/WSM/CO/6"}
 chronologie:
   - {annee: 1903, evenement: "Création, sous l'administration allemande, d'une commission foncière qui devient la Cour des terres et des titres (nom adopté en 1937)."}

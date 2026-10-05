@@ -27,12 +27,12 @@ droits:
   terres: {valeur: "partiel", note: "Loi forestière de 2019, art. 120 : le district attribue aux autorités de village le droit d'usage à long terme des forêts et terres forestières de l'État ; le droit d'usage des forêts naturelles ne peut être ni cédé ni hérité (art. 121 et 122). Loi foncière de 2019, art. 81 : droit d'usage collectif des terres de l'État (forêts sacrées, cimetières, mares communes) sans droit de cession, de location ni de concession ; art. 44 : l'État reconnaît l'usage des terres par les habitants installés avant le classement en terre forestière, avec délivrance de certificats d'usage aux individus ou aux familles.", source: "https://laolandinfo.org/wp-content/uploads/2021/05/Land-Law-2019_Eng-Unofficial-Translation.pdf"}
   ressources: {valeur: "partiel", note: "Loi forestière de 2019, art. 64 : usage coutumier des forêts, du bois et des produits forestiers non ligneux dans l'aire forestière villageoise, selon le plan de gestion ; art. 62 et 63 : coupe de bois dans les forêts villageoises d'usage pour des besoins collectifs ou domestiques, après approbation du bureau provincial ou du bureau de district de l'agriculture et des forêts.", source: "https://www.laotradeportal.gov.la/upload/files/Legal_1589768237.pdf"}
   consentement: {valeur: "partiel", note: "Loi forestière de 2019, art. 87 (1) : la location ou la concession de terres forestières suppose de « consulter les habitants et de convenir avec eux » ; la loi ne prévoit pas de droit de refus du village.", source: "https://www.laotradeportal.gov.la/upload/files/Legal_1589768237.pdf"}
-  langue: {valeur: "non_etabli", note: "", source: ""}
-  education: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "En 2026, le programme ONU-REDD indique que le plan d'action prévoit des titres, certificats d'usage et contrats de gestion et de protection des forêts villageoises pour les ménages de 2 690 villages d'ici 2030, et qu'il reste à formaliser la foresterie villageoise ; en juillet 2021, une note du Land Information Working Group (réseau d'organisations de la société civile) sur deux villages du district de Mai (province de Phongsaly) rapporte que les villageois ont un droit d'accès et d'usage des forêts et un devoir de protection, que tout changement d'affectation relève de l'État, et que l'un des deux villages n'avait encore ni plan participatif d'usage des terres ni plan de gestion des forêts villageoises.", source: "https://www.un-redd.org/post/understanding-impacts-social-forestry-lao-pdr"}
 chronologie:
   - {annee: 2019, evenement: "Loi forestière révisée n° 64/AN (13 juin) : définition de l'aire forestière villageoise et de la gestion forestière villageoise."}

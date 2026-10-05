@@ -29,7 +29,7 @@ droits:
   ressources: {valeur: "partiel", note: "Le groupe développe, protège, utilise et gère la forêt et fixe librement le prix des produits forestiers avant de les vendre (art. 18 (1) de la loi de 2019) ; il peut mener des entreprises forestières et de l'écotourisme prévues au plan (art. 18 (7) et 34), dans les limites du plan approuvé.", source: "https://faolex.fao.org/docs/pdf/nep202856.pdf"}
   consentement: {valeur: "non_etabli", note: "", source: ""}
   langue: {valeur: "non_applicable", note: "", source: ""}
-  education: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
   fiscalite: {valeur: "partiel", note: "Le groupe a un fonds propre alimenté par les ventes, les subventions, les cotisations et les amendes (art. 33 de la loi de 2019) ; il doit consacrer au moins 25 % du revenu annuel à la forêt, puis au moins 50 % du reste à la réduction de la pauvreté, à l'autonomisation des femmes et au développement d'entreprises, en coordination avec la collectivité locale, le solde restant au groupe (art. 22).", source: "https://faolex.fao.org/docs/pdf/nep202856.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_applicable", note: "", source: ""}

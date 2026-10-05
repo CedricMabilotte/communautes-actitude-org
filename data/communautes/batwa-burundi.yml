@@ -34,7 +34,7 @@ droits:
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "reconnu", note: "Constitution de 2018 : trois députés « issus de l'ethnie twa » cooptés selon le Code électoral (art. 169) et trois sénateurs de l'ethnie twa (art. 185).", source: "https://www.constituteproject.org/constitution/Burundi_2018"}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Selon des organisations twa citées par Minority Rights Group (2020), la sélection pour les sièges réservés a souvent été manipulée pour nommer des non-Twa ; devant le CERD en 2025, la délégation du Burundi a reconnu que les quotas ethniques 60/40 excluent de fait les Batwa, et un expert a relevé leur faible présence dans les fonctions de responsabilité.", source: "https://minorityrights.org/communities/twa/"}
 chronologie:
   - {annee: 2005, evenement: "La Constitution réserve trois sièges aux Batwa à l'Assemblée nationale et trois au Sénat."}

@@ -27,12 +27,12 @@ droits:
   terres: {valeur: "non_etabli", note: "", source: ""}
   ressources: {valeur: "partiel", note: "Le gouvernement verse 80 % du prix des permis de chasse au trophée à l'aire concernée dans les 45 jours suivant la saison, et peut retenir ce montant en cas d'infraction ou de litige dans la communauté, lignes directrices de 2019, § 16 ; au moins 30 % doivent aller à la conservation, § 4 (f) ; les quotas sont fixés par le conseil de gestion de la faune du Gilgit-Baltistan sur avis d'un comité technique, § 6.2 et 6.3. La part de 80 % découle d'une décision du Premier ministre du Pakistan de 1995 (The Express Tribune, 2021), pas de la loi de 1975.", source: "https://fwegb.gov.pk/wp-content/uploads/2022/01/Tropy-Hunting-Guidelines-English.pdf"}
   consentement: {valeur: "partiel", note: "La création d'une aire exige une résolution signée par au moins 75 % des ménages, lignes directrices de 2019, § 2.1 ; le retrait de la notification passe par une mise en demeure, un délai de réponse de 45 jours et une audition devant le comité de district, § 2.8.1.", source: "https://fwegb.gov.pk/wp-content/uploads/2022/01/Tropy-Hunting-Guidelines-English.pdf"}
-  langue: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
-  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "L'État verse à l'aire 80 % du prix des permis de chasse au trophée dans les 45 jours suivant la saison, et peut retenir ce montant en cas d'infraction ou de litige dans la communauté (lignes directrices de 2019, § 16) ; l'aire doit tenir un compte bancaire séparé pour ces recettes, en consacrer au moins 30 % à la conservation et au plus 70 % aux secteurs sociaux et au développement (§ 4 e à g). Aucun pouvoir fiscal n'est attribué.", source: "https://fwegb.gov.pk/wp-content/uploads/2022/01/Tropy-Hunting-Guidelines-English.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "En juin 2021, le ministre en chef du Gilgit-Baltistan a remis 50 millions de roupies aux représentants de 18 zones au titre de la part communautaire (Dawn, 16 juin 2021) ; The Express Tribune (2021) rapporte des critiques sur la gestion et le détournement des fonds ; selon le même article, la CITES a relevé une application faible des textes, un manque de transparence et de la corruption ; le quatrième rapport du Pakistan à la CDB (2009) écrit qu'aucune aire protégée du pays n'est gérée par des communautés autochtones ou locales, que plus de 30 aires sont gérées comme aires de conservation communautaires pour la chasse au trophée, et que la gestion collaborative des aires protégées n'est pas inscrite dans les instruments juridiques formels.", source: "https://www.dawn.com/news/1629653/gb-communities-get-share-in-trophy-hunting-fee"}
 chronologie:
   - {annee: 1975, evenement: "Loi sur la préservation de la faune des Territoires du Nord."}

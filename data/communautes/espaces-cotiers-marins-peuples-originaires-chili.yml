@@ -28,7 +28,7 @@ droits:
   ressources: {valeur: "partiel", note: "L'usage coutumier peut comprendre des usages de pêche, religieux, récréatifs et médicinaux (art. 6) ; l'exploitation des ressources hydrobiologiques suit un plan de gestion conforme au règlement, et l'attributaire remet des rapports d'activité que le Sous-secrétariat approuve ou rejette (art. 11).", source: "https://www.bcn.cl/historiadelaley/fileadmin/file_ley/5244/HLD_5244_37a6259cc0c1dae299a7866489dff0bd.pdf"}
   consentement: {valeur: "partiel", note: "Une fois l'usage coutumier attesté, la Conadi (Corporación Nacional de Desarrollo Indígena) consulte les communautés autochtones voisines de l'espace demandé, et une demande concurrente pour d'autres fins est suspendue jusqu'à l'avis de la Conadi (art. 8 et 10). La loi ne prévoit pas de consentement de l'attributaire aux projets voisins.", source: "https://www.bcn.cl/historiadelaley/fileadmin/file_ley/5244/HLD_5244_37a6259cc0c1dae299a7866489dff0bd.pdf"}
   langue: {valeur: "non_applicable", note: "", source: ""}
-  education: {valeur: "non_applicable", note: "", source: ""}
+  education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_applicable", note: "", source: ""}

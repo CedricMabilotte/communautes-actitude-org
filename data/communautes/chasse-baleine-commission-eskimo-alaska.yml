@@ -28,7 +28,7 @@ droits:
   terres: {valeur: "non_etabli", note: "", source: ""}
   ressources: {valeur: "partiel", note: "L'AEWC répartit entre les villages baleiniers les coups autorisés (accord de 2026, section 4(3) ; 50 CFR 230.6) ; le total (93 coups en 2026) est négocié chaque année avec la NOAA dans la limite du quota de la CBI pour 2026-2031.", source: "https://www.govinfo.gov/content/pkg/FR-2026-04-02/html/2026-06366.htm"}
   consentement: {valeur: "partiel", note: "La NOAA doit consulter l'AEWC sur toute action fédérale envisagée pouvant affecter la baleine boréale ou la chasse de subsistance (accord de 2026, section 9) ; il s'agit d'une consultation, sans exigence de consentement.", source: "https://www.fisheries.noaa.gov/s3/2026-05/final-noaa-aewc-2026-2031-cooperative-agreement_signed.pdf"}
-  langue: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}

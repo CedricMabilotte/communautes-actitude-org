@@ -9,7 +9,7 @@ type: "peuple_autochtone"
 base: "territoriale"
 types_secondaires: []
 population: {valeur: 7568, annee: 2026, perimetre: "Indiens inscrits au Registre des Indiens (septembre 2026) rattachés aux bandes des onze Premières Nations autonomes : somme des fiches de population inscrite des bandes 490 et 493 (Champagne et Aishihik), 491, 492, 494, 495, 496, 498, 499, 500, 503 et 508 du Profil des Premières Nations de RCAANC ; les citoyens non inscrits ne sont pas comptés", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=496&lang=fra"}
-lieux: {valeur: 11, unite: "Premières Nations autonomes (annexe II de la loi de 1994)", annee: 2026, source: "https://laws-lois.justice.gc.ca/fra/lois/Y-2.6/page-1.html"}
+lieux: {valeur: 11, unite: "Premières Nations autonomes (annexe II de la loi de 1994)", annee: 2026, source: "https://laws-lois.justice.gc.ca/fra/lois/Y-2.6/page-5.html"}
 surface_km2: {valeur: 31468.37, annee: 1993, perimetre: "terres visées par un règlement allouées aux onze Premières Nations autonomes (annexe A du chapitre 9 de l'accord-cadre, hors article 4.3.4)", source: "https://www.rcaanc-cirnac.gc.ca/eng/1297278586814/1542811130481"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-

@@ -474,15 +474,15 @@ cas:
     annee: 1995
     concept_local: ""
     resume: >-
-      Le décret présidentiel n° 263 de 1995 fait de la gestion forestière communautaire la stratégie nationale. L'arrêté administratif n° 2004-29 du ministère de l'Environnement donne à l'organisation un accord de 25 ans renouvelable une fois, le droit d'occuper, de gérer et d'utiliser la forêt selon son plan et la propriété des améliorations (sect. 6 et 14). La récolte, la transformation et le transport suivent la réglementation générale, et la récolte de bois exige des permis d'usage distincts. Un tiers ne peut recevoir un permis d'extraction dans la zone sans le consentement de l'organisation. La terre reste forêt publique, l'accord est incessible et devient inopposable si la zone est reclassée en terre aliénable (sect. 16 et 17).
+      Le décret présidentiel n° 263 de 1995 fait de la gestion forestière communautaire la stratégie nationale. L'arrêté administratif n° 2004-29 du ministère de l'Environnement donne à l'organisation un accord de 25 ans renouvelable une fois, le droit d'occuper, de gérer et d'utiliser la forêt selon son plan et la propriété des améliorations (sect. 6 et 14). La récolte, la transformation et le transport des produits forestiers suivent la réglementation en vigueur (sect. 26). Un tiers ne peut recevoir un permis d'extraction dans la zone sans le consentement de l'organisation. La terre reste forêt publique, l'accord est incessible et devient inopposable si la zone est reclassée en terre aliénable (sect. 16 et 17).
     gouvernance: "Organisation populaire enregistrée, qui fixe les droits et devoirs de ses membres ; suivi annuel par une équipe mixte (ministère, collectivités locales, ONG) et annulation possible par l'autorité supérieure du ministère (sect. 30, 38 et 39)."
     effectivite: "Par mémorandums des 30 novembre 2005 et 5 janvier 2006, le ministère a ordonné l'annulation de tous les accords ; le 13 mars 2006, il a interdit de nouveaux ordres d'annulation (mémorandum du secrétaire) ; l'étude de la Forest Foundation Philippines et de Tropenbos (2020) situe la suspension de 2006 dans huit régions. Les accords en vigueur passent de 1 971 en 2022 à 1 139 en 2025 (statistiques forestières)."
     textes:
       - {titre: "Executive Order n° 263 (1995)", nature: "decret", annee: 1995, source: "https://faolex.fao.org/docs/pdf/phi68061.pdf"}
-      - {titre: "DENR Administrative Order n° 2004-29", nature: "reglement", annee: 2004, source: "https://forestry.denr.gov.ph/fmb_web/wp-content/uploads/2023/06/dao2004-29.pdf"}
+      - {titre: "DENR Administrative Order n° 2004-29", nature: "reglement", annee: 2004, source: "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/38655"}
     sources:
-      - {titre: "DENR Administrative Order n° 2004-29 — Bureau de gestion forestière", url: "https://forestry.denr.gov.ph/fmb_web/wp-content/uploads/2023/06/dao2004-29.pdf"}
-      - {titre: "Mémorandum du secrétaire du DENR du 13 mars 2006", url: "https://forestry.denr.gov.ph/fmb_web/wp-content/uploads/2023/06/memosec-031306.pdf"}
+      - {titre: "DENR Administrative Order n° 2004-29 — Bibliothèque électronique de la Cour suprême des Philippines", url: "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/38655"}
+      - {titre: "Mémorandum du secrétaire du DENR du 13 mars 2006", url: "https://web.archive.org/web/20250805022706/https://forestry.denr.gov.ph/fmb_web/wp-content/uploads/2023/06/memosec-031306.pdf"}
       - {titre: "Forest Foundation Philippines — Review of community forest rights (2020)", url: "https://www.forestfoundation.ph/wp-content/uploads/2020/12/Forest-Foundation-Review-of-Community-Forest-Rights-Philippines.pdf"}
 
   - id: "hutan-desa"

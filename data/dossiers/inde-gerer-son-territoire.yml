@@ -146,7 +146,7 @@ cas:
     effectivite: "Kalpavriksh signale moins de 10 infractions sur plusieurs années, l'absence de femmes au conseil et des dégâts de sangliers aux cultures après l'interdiction. Les sources ne disent pas si la réserve de 2018 couvre tout ou partie du sanctuaire de 1998."
     textes:
       - {titre: "Wild Life (Protection) Act 1972, art. 36C et 36D (insérés en 2003, modifiés en 2022)", nature: "loi", annee: 2003, source: "https://indiankanoon.org/doc/185112523/"}
-      - {titre: "Nagaland Village and Area Councils Act 1978", nature: "loi", annee: 1978, source: "https://www.indiacode.nic.in/bitstream/123456789/11037/1/the_nagaland_village_area_and_area_councils_act_1979.pdf"}
+      - {titre: "Nagaland Village and Area Councils Act 1978", nature: "loi", annee: 1978, source: "https://web.archive.org/web/20240619111856/https://www.indiacode.nic.in/bitstream/123456789/11037/1/the_nagaland_village_area_and_area_councils_act_1979.pdf"}
     sources:
       - {titre: "Kalpavriksh — Khonoma village (Directory of Community Conserved Areas, 2009)", url: "https://kalpavriksh.org/khonoma-village/"}
       - {titre: "ENVIS / Wildlife Institute of India — Community Reserves, liste de février 2025 (copie archivée)", url: "https://web.archive.org/web/20250908141706/https://wiienvis.nic.in/Database/cri_8228.aspx"}
@@ -312,7 +312,7 @@ cas:
     effectivite: "Environ 97 % des forêts du Nagaland sont « non classées », possédées et gérées surtout par les communautés (Down To Earth, 2022). La communitisation couvrait 94 % des écoles élémentaires en 2004 (Kalpavriksh). TERI a recensé 407 aires conservées par des villages, sur plus de 1 700 km², sans notification de l'État (Mongabay India, 2020)."
     textes:
       - {titre: "Constitution de l'Inde, art. 371A", nature: "constitution", annee: 1962, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
-      - {titre: "Nagaland Village and Area Councils Act 1978, art. 4, 12, 14 et 15", nature: "loi", annee: 1978, source: "https://www.indiacode.nic.in/bitstream/123456789/11037/1/the_nagaland_village_area_and_area_councils_act_1979.pdf"}
+      - {titre: "Nagaland Village and Area Councils Act 1978, art. 4, 12, 14 et 15", nature: "loi", annee: 1978, source: "https://web.archive.org/web/20240619111856/https://www.indiacode.nic.in/bitstream/123456789/11037/1/the_nagaland_village_area_and_area_councils_act_1979.pdf"}
       - {titre: "Nagaland Communitisation of Public Institutions and Services Act 2002", nature: "loi", annee: 2002, source: "https://vikalpsangam.org/wp-content/uploads/migrate/Resources/nagaland_communitisation_neema.pdf"}
     sources:
       - {titre: "Kalpavriksh / Vikalp Sangam — Communitisation in Nagaland", url: "https://vikalpsangam.org/wp-content/uploads/migrate/Resources/nagaland_communitisation_neema.pdf"}

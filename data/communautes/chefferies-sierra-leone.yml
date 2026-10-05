@@ -35,7 +35,7 @@ droits:
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "reconnu", note: "Le Parlement comprend un député par district, élu parmi les personnes qui sont chefs suprêmes (Constitution, s. 74 (1) (a)).", source: "https://www.constituteproject.org/constitution/Sierra_Leone_2013.pdf?lang=en"}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "La notice Globalex de l'université de New York (2023) indique que les tribunaux locaux appliquent le droit coutumier dans les communautés des provinces et que 41 chefferies ont été créées en 2017 par division de chefferies fusionnées. Le Comité pour l'élimination de la discrimination à l'égard des femmes (CEDAW/C/SLE/CO/6, 2014, § 24) note que la loi de 2009 permet d'écarter des femmes des élections de chefs selon la tradition. La base de données Parline de l'Union interparlementaire indique que le Parlement issu des élections de juin 2023 compte quatorze chefs suprêmes élus au suffrage indirect pour les quatorze districts des provinces.", source: "https://www.nyulawglobal.org/globalex/sierra_leone1.html"}
 chronologie:
   - {annee: 1991, evenement: "La Constitution garantit l'institution de la chefferie (s. 72) et réserve un siège de député par district aux chefs suprêmes (s. 74)."}

@@ -36,8 +36,8 @@ droits:
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "partiel", note: "Le Malvatumauri peut être consulté sur les projets de loi (Constitution, art. 30) et la loi foncière nationale qui met en œuvre les art. 73 à 75 est adoptée après consultation du Conseil (art. 76), et un représentant désigné par le Conseil siège à la Commission du service judiciaire (art. 48). Les conseils de gouvernement local comprennent des représentants des chefs (art. 83) ; ces chefs, nommés par le ministre sur proposition des organes représentatifs des chefs, n'ont pas de voix délibérative (loi sur la décentralisation, art. 7). Aucun siège n'est réservé au Parlement.", source: "https://www.constituteproject.org/constitution/Vanuatu_1983"}
-  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Une analyse publiée par Devpolicy (Australian National University) en octobre 2024 indique qu'environ 97 % de la terre est sous régime coutumier, dont une part significative est louée, que la loi de 2013 a retiré au ministre le pouvoir de passer outre les décisions coutumières, et que le bureau de gestion des terres coutumières a fait l'objet en 2023 d'allégations de corruption et de nombreux recours pour manipulation des procédures coutumières. Les statistiques annuelles des déterminations que la loi impose de publier au Journal officiel (art. 10 (3) à (5)) n'ont pas été trouvées.", source: "https://devpolicy.org/the-future-of-land-management-in-vanuatu-20241022/"}
 chronologie:
   - {annee: 1976, evenement: "Création en juillet d'un conseil des chefs de 20 membres, présidé par Willie Bongmatur, sous le condominium franco-britannique des Nouvelles-Hébrides."}

@@ -31,8 +31,8 @@ droits:
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Le rapport de 2025 du vérificateur général du Canada à l'Assemblée législative des T.N.-O. indique que les premiers plans de gestion de Ts'udé Nilįné Tuyeta et de Thaıdene Nëné n'étaient pas achevés et que le règlement complet de Thaıdene Nëné n'était que partiellement avancé. Le rapport de 2024 sur l'état du réseau de conservation précise que le règlement de 2019 de Thaıdene Nëné ne reprend pas encore les dispositions détaillées des ententes de création ; le conseil de gestion de Ts'udé Nilįné Tuyeta siège depuis 2020 et le conseil Thaıdene Nëné Xá Dá Yáłtı depuis 2021. Le registre des aires protégées publie en septembre 2026 le premier plan de gestion de Thaıdene Nëné (Thaıdene Nëné Badı Xá).", source: "https://www.canada.ca/fr/verificateur-general/notre-travail/rapports-daudit/nwt-202505-f.html"}
 chronologie:
   - {annee: 2000, evenement: "Le groupe de travail conjoint du Sahtu sur les lieux et sites patrimoniaux recommande la protection de Ts'udé Nilįné Tuyeta (rapport Rakekée Go'ié Godi)."}

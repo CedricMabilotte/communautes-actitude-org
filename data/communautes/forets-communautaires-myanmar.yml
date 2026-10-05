@@ -28,7 +28,7 @@ droits:
   ressources: {valeur: "partiel", note: "Le groupe récolte le bois et les autres produits selon le plan de gestion, sans permission pour l'usage personnel, agricole ou de pêche, avec permission préalable du Département pour la récolte commerciale (Instructions de 2019, para. 23 (g), 24 et 25) ; il vend librement aux prix du marché et peut transporter et vendre sur les marchés locaux et internationaux (para. 29 et 32) ; l'extraction de métaux, de pierres, de sable et de graviers est interdite (para. 39 (c)).", source: "https://data.opendevelopmentmyanmar.net/my/dataset/910fc697-d1f5-4075-9bd7-9161e5eb8157/resource/cc379796-fad3-4d35-b16e-f002f0367bd7/download/cfi-2019-mm-eng.pdf"}
   consentement: {valeur: "non_etabli", note: "", source: ""}
   langue: {valeur: "non_applicable", note: "", source: ""}
-  education: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "non_applicable", note: "", source: ""}
   fiscalite: {valeur: "partiel", note: "Les produits récoltés pour l'usage personnel et les ventes dans le village sont exemptés de taxe, les ventes hors du village sont taxées (Instructions de 2019, para. 26 à 28) ; le groupe tient un fonds sur un compte bancaire et décide par consensus de sa répartition entre revenus des membres, développement communautaire, fonds renouvelable et réinvestissement (para. 31) ; il n'a pas de pouvoir fiscal.", source: "https://data.opendevelopmentmyanmar.net/my/dataset/910fc697-d1f5-4075-9bd7-9161e5eb8157/resource/cc379796-fad3-4d35-b16e-f002f0367bd7/download/cfi-2019-mm-eng.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_applicable", note: "", source: ""}

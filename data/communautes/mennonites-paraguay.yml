@@ -26,12 +26,12 @@ droits:
   terres: {valeur: "non_etabli", note: "", source: ""}
   ressources: {valeur: "non_etabli", note: "", source: ""}
   consentement: {valeur: "non_etabli", note: "", source: ""}
-  langue: {valeur: "non_etabli", note: "", source: ""}
-  education: {valeur: "reconnu", note: "La loi 514 (art. 1, point 2) reconnaît le droit de fonder, d'administrer et d'entretenir des écoles et d'y enseigner l'allemand sans restriction.", source: "https://menonitica.org/lex/gesetz-nr-514/"}
+  langue: {valeur: "partiel", note: "La loi 514 de 1921 (art. 1, point 2) reconnaît le droit d'enseigner et d'apprendre sans restriction la langue de la communauté, l'allemand, dans ses écoles ; la Constitution de 1992 (art. 140) fait du castillan et du guarani les langues officielles et range les langues des minorités dans le patrimoine culturel.", source: "https://menonitica.org/lex/gesetz-nr-514/"}
+  education: {valeur: "partiel", note: "La loi 514 (art. 1, point 2) reconnaît le droit de fonder, d'administrer et d'entretenir des écoles et d'y enseigner l'allemand sans restriction. Aucun texte trouvé ne confie la fixation des programmes aux institutions de la communauté.", source: "https://menonitica.org/lex/gesetz-nr-514/"}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "partiel", note: "La loi 514 (art. 1, point 3) attribue la gestion des successions, en particulier des biens des veuves et des orphelins, à l'office des orphelins (Waisenamt) de la communauté, selon ses propres règles ; l'article 5 charge les juges de désigner cet office comme tuteur des membres incapables.", source: "https://menonitica.org/lex/gesetz-nr-514/"}
-  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "Constitution de 1992, art. 1 : la République du Paraguay est un État unitaire et indivisible.", source: "https://www.constituteproject.org/constitution/Paraguay_2011?lang=en"}
 effectivite: {valeur: "non_etablie", note: "Le maintien de la loi 514 est affirmé par des sources mennonites : la Global Anabaptist Mennonite Encyclopedia Online (article de 1990 : privilèges « remained intact ») et le site Menonitica (« bis heute voll gültig », toujours pleinement en vigueur). Aucune source indépendante consultée n'établit son application actuelle.", source: "https://menonitica.org/lex/gesetz-nr-514/"}
 chronologie:
   - {annee: 1921, evenement: "Loi 514 du 26 juillet sur les droits et privilèges des membres de la communauté mennonite."}

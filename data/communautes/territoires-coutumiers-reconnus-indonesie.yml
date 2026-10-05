@@ -28,12 +28,12 @@ droits:
   terres: {valeur: "partiel", note: "La terre coutumière inscrite au registre peut être enregistrée comme droit de gestion (hak pengelolaan, titre foncier détenu par la collectivité) au nom de la communauté, sur présentation de l'acte régional de reconnaissance (art. 14, 15 et 18 du règlement n° 14 de 2024) ; un groupe de membres peut obtenir une propriété commune (hak milik) au nom de son chef coutumier (art. 17 et 27). La terre coutumière non enregistrée garde son statut (art. 16). Le ministre peut refuser la décision (art. 21), et le droit coutumier ne s'exerce pas sur les terres déjà titrées, affectées à un usage public ou acquises par l'administration (art. 3).", source: "https://pasal.id/peraturan/permen/permen-atrbpn-no-14-tahun-2024"}
   ressources: {valeur: "partiel", note: "Le droit coutumier (hak ulayat) est défini comme le pouvoir de la communauté de tirer profit des ressources naturelles, terre comprise, de son territoire (art. 1 (1) du règlement n° 14 de 2024) ; le territoire coutumier comprend la terre, l'eau et les ressources naturelles (art. 1 (2) du règlement n° 52 de 2014). Le sous-sol et la forêt relèvent de régimes distincts.", source: "https://pasal.id/peraturan/permen/permen-atrbpn-no-14-tahun-2024"}
   consentement: {valeur: "non_etabli", note: "", source: ""}
-  langue: {valeur: "non_applicable", note: "", source: ""}
+  langue: {valeur: "non_etabli", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "En mars 2025, 302 territoires coutumiers sur 5,3 millions d'hectares avaient reçu un acte d'établissement, soit 19,08 % des 1 583 territoires (32,3 millions d'hectares) enregistrés par la BRWA (Betahita, 19 mai 2025, citant la BRWA). Le 1er octobre 2026, le registre de la BRWA compte une terre coutumière (tanah ulayat) enregistrée au cadastre, sur 699,7 ha.", source: "https://www.betahita.id/berita/11099/baru-5-3-juta-ha-wilayah-adat-yang-mendapatkan-penetapan"}
 chronologie:
   - {annee: 1960, evenement: "Loi agraire n° 5 : le droit coutumier sur la terre est reconnu tant qu'il existe et qu'il est conforme à l'intérêt national."}

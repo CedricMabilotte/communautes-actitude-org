@@ -23,7 +23,7 @@ base_nationale:
   - {instrument: "Loi n° 7 de 2014 sur les langues officielles, art. 8 et 10", nature: "loi", annee: 2014, source: "https://moj.gov.iq/upload/pdf/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D9%84%D8%BA%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9.pdf"}
   - {instrument: "Constitution de la République d'Irak, art. 2, 4, 41, 49 et 125", nature: "constitution", annee: 2005, source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
 droits:
-  autogouvernement: {valeur: "conteste", note: "Art. 125 de la Constitution de 2005 : la Constitution garantit les droits administratifs, politiques, culturels et éducatifs des Turkmènes, Chaldéens, Assyriens et autres composantes, « selon une loi ». Aucune unité administrative propre n'a été créée.", source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
+  autogouvernement: {valeur: "non_etabli", note: "Art. 125 de la Constitution de 2005 : la Constitution garantit les droits administratifs, politiques, culturels et éducatifs des Turkmènes, Chaldéens, Assyriens et autres composantes, « selon une loi » ; garantie générale qui ne désigne aucune institution propre, et aucune unité administrative propre n'a été créée.", source: "https://www.constituteproject.org/constitution/Iraq_2005?lang=en"}
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "non_etabli", note: "", source: ""}

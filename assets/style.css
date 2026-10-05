@@ -315,3 +315,19 @@ table.plain th{font-weight:500;color:var(--muted);font-size:.72rem;letter-spacin
 .minimap .mpt{stroke:var(--bg);stroke-width:1;vector-effect:non-scaling-stroke}
 .cmpf{grid-template-columns:minmax(0,2fr) minmax(0,1fr) auto;align-items:end}
 .map.zoomed .borders{stroke:var(--coast);stroke-width:.6;stroke-dasharray:2 2}
+/* accueil : familles, dossiers, chiffres */
+.familles{margin:8px 0 28px}.familles ul{list-style:none;padding:0;margin:10px 0 0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+@media (max-width:800px){.familles ul{grid-template-columns:minmax(0,1fr)}}
+.familles a{display:block;padding:18px 18px 14px;border:1px solid var(--line);color:var(--ink);text-decoration:none;height:100%;box-sizing:border-box}
+.familles a:hover,.familles a:focus-visible{border-color:var(--ink)}
+.familles b{font:500 2rem/1 var(--display)}.familles h3{margin:8px 0 6px;font-size:1.05rem}.familles p{margin:0 0 12px;font:400 .85rem/1.45 var(--labelf);color:var(--muted)}
+.fbar2{display:flex;height:6px;gap:1px}.fbar2 i{display:block;min-width:2px}
+.dstrip{margin:40px 0}.dstrip ul{list-style:none;padding:0;margin:14px 0 8px;display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:18px}
+.dstrip a{display:block;color:var(--ink);text-decoration:none}.dstrip img{display:block;width:100%;height:auto;border:1px solid var(--line)}
+.dstrip h3{font-size:.98rem;margin:4px 0 0;line-height:1.3}.dstrip a:hover h3{text-decoration:underline}
+.stats{margin:40px 0;padding-top:20px;border-top:1px solid var(--ink)}.stgrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:32px}
+@media (max-width:900px){.stgrid{grid-template-columns:minmax(0,1fr)}}
+.hb{list-style:none;padding:0;margin:10px 0}.hb li{display:grid;grid-template-columns:minmax(0,9rem) 1fr 3.2rem;gap:8px;align-items:center;font:400 .8rem/1.3 var(--labelf);margin:5px 0}
+.hb li>i{display:block;height:10px;background:var(--d3)}.hb li>i.st{background:var(--d2);display:flex}.hb li>i.st>i{display:block;height:100%;background:var(--d4)}
+.hb b{text-align:right;font-weight:500}.small{font-size:.75rem}
+.lhead{margin-top:40px}

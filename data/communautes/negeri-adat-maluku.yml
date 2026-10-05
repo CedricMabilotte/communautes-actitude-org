@@ -36,7 +36,7 @@ droits:
   fiscalite: {valeur: "partiel", note: "La province apporte une aide financière aux negeri, directement ou par le budget des districts (art. 5 (2) (c) et 6 (2) du règlement provincial n° 7 de 2011), qui prévoit aussi une formation à la préparation du budget de la negeri (art. 6 (4) (c)) ; la ville d'Ambon encadre la gestion du budget des negeri par l'arrêté du maire n° 37 de 2019 sur la gestion financière des villages et negeri. Aucun texte consulté ne donne à la negeri de pouvoir d'imposition.", source: "https://jdih.malukuprov.go.id/peraturan/PERDA%20NO%207%20TAHUN%202011%20-%20PENGUATAN%20KAPASITAS%20KELEMBAGAAN%20NEGERI.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "Le registre des territoires coutumiers (BRWA, organisme non gouvernemental) indique pour les negeri Rutong et Hukurila (Ambon) un arrêté ministériel n° 263 de 2019 sur leur zone de gestion coutumière dans l'espace côtier et les petites îles et, pour Hukurila, un arrêté du ministre de l'Environnement et des Forêts de 2020 qui lui attribue une forêt coutumière d'environ 7 hectares ; aucun chiffre provincial des negeri désignées n'a été trouvé, et à Ambon les limites des territoires sont fixées par étapes (art. 4 du règlement n° 9 de 2017).", source: "https://brwa.id/profil/1876"}
 chronologie:
   - {annee: 1979, evenement: "La loi n° 5 de 1979 sur le gouvernement des villages convertit les negeri en villages administratifs (desa)."}

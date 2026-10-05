@@ -22,7 +22,7 @@ base_nationale:
   - {instrument: "Native Title Act 1993 (loi fédérale)", nature: "loi", annee: 1993, source: "https://www.legislation.gov.au/C2004A04665/latest/text"}
   - {instrument: "Mabo v Queensland (No 2), Haute Cour d'Australie, 1992", nature: "jurisprudence", annee: 1992, source: "https://www.clc.org.au/native-title/"}
 droits:
-  autogouvernement: {valeur: "non_etabli", note: "", source: ""}
+  autogouvernement: {valeur: "partiel", note: "Après la détermination du titre par la Cour fédérale, les détenteurs constituent une corporation, la personne morale désignée (prescribed body corporate, PBC), qui gère et protège le titre autochtone en leur nom ; elle relève du Native Title Act 1993, du règlement de 1999 sur ces personnes morales et de la loi fédérale de 2006 sur les corporations aborigènes et insulaires ; compétence limitée au titre autochtone.", source: "https://www.clc.org.au/native-title/"}
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "partiel", note: "La Cour fédérale détermine l'existence du titre autochtone ; les détenteurs exercent leurs droits par une personne morale désignée (prescribed body corporate), en vertu du Native Title Act 1993. Le titre peut coexister avec un bail pastoral.", source: "https://www.clc.org.au/native-title/"}

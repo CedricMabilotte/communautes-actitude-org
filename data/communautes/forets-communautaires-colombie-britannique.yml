@@ -29,7 +29,7 @@ droits:
   consentement: {valeur: "partiel", note: "Le ministre ne peut modifier les limites ou la superficie de la zone d'un accord de remplacement, ni modifier les limites ou agrandir la zone d'un accord en cours, qu'avec le consentement du titulaire (Forest Act, art. 43.4(6) et 43.52) ; la demande d'accord doit documenter le soutien de la communauté et résumer un examen public mené par le demandeur (Community Tenures Regulation, art. 3(1)(c)(v)) ; le titulaire mène des consultations publiques sur la gestion de l'accord (Forest Act, art. 43.3(1)(g)(ii)).", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96157_03"}
   langue: {valeur: "non_etabli", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
-  fiscalite: {valeur: "non_etabli", note: "", source: ""}
+  fiscalite: {valeur: "partiel", note: "L'accord peut donner au titulaire le droit de récolter, de gérer et de tarifer (charge fees) les produits forestiers non ligneux (botanical forest products) de la zone (Forest Act, art. 43.3(1)(c)(ii)) ; le titulaire paie à la province les droits de coupe (stumpage) sur le bois de la Couronne (art. 43.3(1)(d)), et la loi ne lui attribue aucune part de ces droits.", source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96157_03"}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
@@ -44,6 +44,7 @@ chronologie:
   - {annee: 2026, evenement: "62 accords au registre provincial ; mise à jour des objectifs du programme par la province avec la BCCFA."}
 fiabilite:
   verifie:
+    - "Article 43.3(1)(c) à (f) du Forest Act relu le 5 octobre 2026 (droit de tarifer les produits forestiers non ligneux, droits de coupe, plan d'aménagement)."
     - "Articles 43.2 à 43.53 (division 7.1) et 43.54 à 43.55 (division 7.11) du Forest Act, version consolidée publiée par l'imprimeur du Roi de la Colombie-Britannique."
     - "Articles 1 à 3 du Community Tenures Regulation (B.C. Reg. 352/2004), consolidé au 29 septembre 2026."
     - "62 lignes de type A28 (accords de forêt communautaire) et 27 lignes de type A29 (licences forestières des premières nations) dans le registre provincial de mars 2026 ; superficie cumulée des accords de 1 953 537 ha."

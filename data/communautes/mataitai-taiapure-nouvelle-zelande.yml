@@ -28,14 +28,14 @@ droits:
   autogouvernement: {valeur: "partiel", note: "Les tangata whenua désignent les tangata kaitiaki ou tiaki (gardiens) chargés de délivrer les autorisations de pêche coutumière, nomination confirmée par avis du ministre publié à la Gazette (règlements de 1998 et 1999) ; dans un taiāpure, le comité de gestion est nommé sur proposition de la communauté māori locale (Fisheries Act 1996, partie 9). Ces instances n'ont de compétence que sur la pêche.", source: "https://www.scoop.co.nz/stories/PA0308/S00357/fact-sheet-customary-fishing.htm"}
   pouvoir_normatif: {valeur: "partiel", note: "Dans une réserve mātaitai, les gardiens proposent des règlements (bylaws) qui limitent ou interdisent la prise d'espèces pour toutes les catégories de pêcheurs ; le ministre les approuve ou les refuse après consultation publique (règlements de 1998 et 1999). Le comité d'un taiāpure ne fait que recommander des règles au ministre des Océans et des Pêches.", source: "https://www.mpi.govt.nz/fishing-aquaculture/maori-customary-fishing/managing-customary-fisheries"}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
-  terres: {valeur: "non_etabli", note: "", source: ""}
+  terres: {valeur: "partiel", note: "La réserve mātaitai est une zone délimitée de pêche coutumière « développée et gérée par les tangata whenua » (peuple du lieu) par l'intermédiaire de leurs tangata kaitiaki (gardiens) ; la pêche commerciale y est exclue, sauf rétablissement par règlement (règlements de 1998 et 1999 sur la pêche coutumière) ; ces textes ne confèrent pas de propriété sur l'espace marin.", source: "https://www.mpi.govt.nz/fishing-aquaculture/maori-customary-fishing/managing-customary-fisheries"}
   ressources: {valeur: "partiel", note: "Les gardiens autorisent la récolte coutumière dans le rohe moana ; dans une réserve mātaitai, la pêche commerciale est exclue, sauf rétablissement par règlement (règlements de 1998 et 1999) ; les ss. 186A et 186B de la loi de 1996 permettent des fermetures temporaires de 24 mois au plus pour reconnaître les droits et pratiques de gestion coutumières des tangata whenua, avec leur soutien.", source: "https://www.mpi.govt.nz/fishing-aquaculture/maori-customary-fishing/managing-customary-fisheries"}
   consentement: {valeur: "non_etabli", note: "", source: ""}
-  langue: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
   autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "effective", note: "La couche cartographique officielle du ministère des Industries primaires recense en octobre 2026 58 réserves mātaitai et 11 taiāpure à l'état « Active, Legislated », contre 2 mātaitai et 7 taiāpure en 2003 et 10 mātaitai et 8 taiāpure en 2009, ainsi que 17 aires de fermeture temporaire au titre des ss. 186A et 186B publiées entre 2024 et 2026. Un article de la Māori Law Review (T. Love, 2018) note que ces outils peuvent donner aux tangata whenua une influence directe sur la gestion de ces aires, par des recommandations de règlements soumises au ministre.", source: "https://maorilawreview.co.nz/2018/07/incorporating-maori-approaches-to-ecosystem-management-in-marine-management/"}
 chronologie:

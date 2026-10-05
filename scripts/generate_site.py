@@ -202,7 +202,9 @@ def charger():
                 fail(f"{uid} : mécanisme régional inconnu {r.get('mecanisme')}")
         pub["date_maj"] = date_maj(p)
         agrege = d["type"] in ("communaute_locale", "collectivite_autonome") or (ROOT / "data" / "tables" / f"{uid}.csv").exists()
-        pub["titre"] = d["nom"] if agrege else (d.get("endonyme") or d["nom"])
+        endo = d.get("endonyme") or ""
+        latin = all(ord(ch) < 0x250 or ch in "ʻʼ’ʹ" or 0x1E00 <= ord(ch) <= 0x1EFF for ch in endo)
+        pub["titre"] = d["nom"] if (agrege or not latin) else (endo or d["nom"])
         fiches.append(pub)
     if not fiches:
         fail("aucune fiche")
@@ -616,8 +618,8 @@ def howto(fiches):
 def row_html(f):
     vals = " ".join(f'{k}:{f["droits"][k]["valeur"]}' for k in DKEYS)
     search = " ".join([f["nom"], f.get("endonyme") or "", f.get("territoire") or "", " ".join(f["etats"])]).lower()
-    sub = f' <small>{e(f["nom"])}</small>' if f["titre"] != f["nom"] else ""
-    return (f'<li class="row" data-uid="{f["uid"]}" data-etats="{e("|".join(f["etats"]))}" data-region="{f["region"]}" data-type="{f["type"]}" data-deg="{f["degre"]}" '
+    sub = f' <small>{e(f["nom"])}</small>' if f["titre"] != f["nom"] else (f' <small lang="und">{e(f["endonyme"])}</small>' if f.get("endonyme") and f["endonyme"] != f["nom"] else "")
+    return (f'<li class="row" data-uid="{f["uid"]}" data-etats="{e("|".join(f["etats"]))}" data-region="{f["region"]}" data-fam="{FAM_DE.get(f["type"], "")}" data-type="{f["type"]}" data-deg="{f["degre"]}" '
             f'data-eff="{f["effectivite"]["valeur"]}" data-niv="{f["niveau_reconnaissance"]}" data-base="{f["base"]}" data-d="{e(vals)}" data-q="{e(search)}">'
             f'<div><a class="n" href="/c/{f["uid"]}/">{e(f["titre"])}{sub}</a>'
             f'<div class="meta">{e(", ".join(f["etats"]))} · {e(TYPES[f["type"]])} · {e(EFFECT[f["effectivite"]["valeur"]])}</div></div>'
@@ -674,6 +676,49 @@ def pays_html(nom, fs, fiches_par_uid):
 {dl}</div>"""
     return page(f"/pays/{slug_pays(nom)}/", f"{nom} : communautés reconnues", f"{len(fs)} communautés de l'atlas en {nom} : droits d'autonomie inscrits dans le droit de l'État, textes et sources.", body, scripts=("/assets/fp.js",))
 
+FAMILLES = [
+    ("peuples", "Peuples et minorités", "Peuples autochtones, peuples tribaux ou coutumiers, minorités nationales, communautés afrodescendantes.",
+     {"peuple_autochtone", "peuple_tribal", "minorite_nationale", "communaute_afrodescendante"}),
+    ("local", "Gestion locale et biens communs", "Forêts, pêcheries, pâturages et terres confiés à des villages ou à des groupes d'usagers, sans désignation ethnique.",
+     {"communaute_locale"}),
+    ("territoires", "Territoires et régions autonomes", "Régions et îles à statut propre, territoires non autonomes, États en libre association, collectivités autonomes.",
+     {"collectivite_autonome", "collectivite_insulaire_ou_regionale", "peuple_territoire_non_autonome", "peuple_libre_association"}),
+]
+FAM_DE = {t: k for k, _, _, ts in FAMILLES for t in ts}
+
+def bloc_familles(fiches):
+    cards = []
+    for k, nom, txt, ts in FAMILLES:
+        fs = [f for f in fiches if f["type"] in ts]
+        degs = [sum(1 for f in fs if f["degre"] == i) for i in range(6)]
+        bar = "".join(f'<i style="flex:{c};background:var(--d{i})" title="degré {i} : {c}"></i>' for i, c in enumerate(degs) if c)
+        cards.append(f'<li><a href="/?fam={k}#liste"><b>{len(fs)}</b><h3>{e(nom)}</h3><p>{e(txt)}</p><span class="fbar2" aria-hidden="true">{bar}</span></a></li>')
+    return f'<section class="familles" aria-labelledby="fam-t"><h2 id="fam-t" class="kicker">Trois familles de fiches</h2><ul>{"".join(cards)}</ul></section>'
+
+def bloc_stats(fiches):
+    n = len(fiches)
+    reg = [(REGIONS[k], sum(1 for f in fiches if f["region"] == k)) for k in REGIONS]
+    mx = max(c for _, c in reg)
+    rr = "".join(f'<li><span>{e(l)}</span><i style="width:{100 * c / mx:.0f}%"></i><b class="mono">{c}</b></li>' for l, c in reg)
+    eff = [(EFFECT[k], sum(1 for f in fiches if f["effectivite"]["valeur"] == k)) for k in EFFECT]
+    er = "".join(f'<li><span>{e(l)}</span><i style="width:{100 * c / n:.0f}%"></i><b class="mono">{round(100 * c / n)} %</b></li>' for l, c in eff)
+    dr = []
+    for k, l, _ in DROITS:
+        a = sum(1 for f in fiches if f["droits"][k]["valeur"] == "reconnu"); b = sum(1 for f in fiches if f["droits"][k]["valeur"] == "partiel")
+        c = sum(1 for f in fiches if f["droits"][k]["valeur"] == "conteste")
+        dr.append((l, a, b, c))
+    dr.sort(key=lambda x: -(x[1] + x[2]))
+    drr = "".join(f'<li><span>{e(l)}</span><i class="st" style="width:{100 * (a + b) / n:.0f}%"><i style="width:{100 * a / max(a + b, 1):.0f}%"></i></i><b class="mono">{round(100 * (a + b) / n)} %</b></li>' for l, a, b, c in dr)
+    return f"""<section class="stats" aria-labelledby="st-t"><h2 id="st-t">L'atlas en chiffres</h2><div class="stgrid">
+<div><h3 class="kicker">Fiches par région</h3><ul class="hb">{rr}</ul></div>
+<div><h3 class="kicker">Part des fiches où chaque droit est inscrit <small>(foncé) ou partiel</small></h3><ul class="hb">{drr}</ul></div>
+<div><h3 class="kicker">Ce qui s'applique réellement</h3><ul class="hb">{er}</ul><p class="muted sans small">D'après une source indépendante citée dans chaque fiche.</p></div>
+</div></section>"""
+
+def bloc_dossiers():
+    li = "".join(f'<li><a href="/dossiers/{d["slug"]}/"><img src="/assets/cards/_dossier-{d["slug"]}.jpg" alt="" loading="lazy" width="600" height="315"><span class="kicker">{len(d.get("cas") or [])} cas</span><h3>{e(d["titre"])}</h3></a></li>' for d in DOSSIERS)
+    return f'<section class="dstrip" aria-labelledby="ds-t"><h2 id="ds-t">Dossiers thématiques</h2><ul>{li}</ul><p class="sans"><a href="/dossiers/">Tous les dossiers</a></p></section>'
+
 def cle_tri(t):
     import unicodedata
     return unicodedata.normalize("NFD", t).encode("ascii", "ignore").decode().lower()
@@ -710,11 +755,16 @@ def index_html(fiches):
 <p class="kicker" style="margin-top:28px">Répartition par degré d'autonomie — cliquer pour filtrer</p>
 <div class="degbar" data-degbar>{degbar}</div></div>
 </section>
+{bloc_familles(fiches)}
 <figure class="map" data-map><div class="zoom" role="group" aria-label="Zoom de la carte"><button type="button" data-zin aria-label="Zoomer">+</button><button type="button" data-zout aria-label="Dézoomer">−</button><button type="button" data-zreset aria-label="Vue du monde entier">Monde</button><span data-zlevel aria-live="polite">× 1</span></div>{svg}<div class="tip" data-tip></div><p class="maphint" data-maphint hidden>Ctrl + molette pour zoomer · double-clic pour agrandir</p>
 <figcaption class="maplegend"><span class="only-light">Un cercle par communauté, déplacé au plus près de son territoire pour rester lisible ; le chiffre est le degré d'autonomie. Frontières d'États affichées au zoom.</span><span class="only-dark">Un point par communauté ; plus le point est clair, plus le degré d'autonomie calculé est élevé. Fond : côtes Natural Earth 1:110 m, frontières d'États affichées au zoom.</span><span>Projection Equal Earth</span></figcaption></figure>
 
+{bloc_dossiers()}
+{bloc_stats(fiches)}
+<h2 id="liste" class="lhead">Toutes les fiches</h2>
 <form class="filters" role="search" aria-label="Filtrer l'atlas" onsubmit="return false">
 <label>Rechercher<input type="search" name="q" placeholder="Nom, territoire, État…" autocomplete="off"></label>
+<label>Famille<select name="fam"><option value="">Toutes</option>{''.join(f'<option value="{k}">{e(n)}</option>' for k, n, _, _ in FAMILLES)}</select></label>
 <label>Région<select name="region"><option value="">Toutes</option>{opt(REGIONS)}</select></label>
 <label>État<select name="etat"><option value="">Tous</option>{''.join(f'<option value="{e(x)}">{e(x)}</option>' for x in sorted(etats, key=cle_tri))}</select></label>
 <label>Type<select name="type"><option value="">Tous</option>{opt(TYPES)}</select></label>

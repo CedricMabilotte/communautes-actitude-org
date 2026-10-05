@@ -27,12 +27,12 @@ droits:
   terres: {valeur: "partiel", note: "Le transfert de 2006 confie aux habitants la responsabilité de gestion de l'ensemble de l'aire protégée (2 035 km²), dont les terres et les ressources avaient été placées sous statut d'aire protégée par l'État ; il porte sur la gestion, non sur la propriété, et s'exerce selon le plan de gestion approuvé par le conseil des ministres (31 août 2006).", source: "https://satoyamainitiative.org/case_studies/observation-of-functioning-of-kanchenjunga-conservation-area-kca-the-regions-first-community-owned-conservation-area/"}
   ressources: {valeur: "non_etabli", note: "", source: ""}
   consentement: {valeur: "non_etabli", note: "", source: ""}
-  langue: {valeur: "non_etabli", note: "", source: ""}
+  langue: {valeur: "non_applicable", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
+  statut_personnel: {valeur: "non_applicable", note: "", source: ""}
+  autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
 effectivite: {valeur: "partielle", note: "En 2012, une étude de Wildlife Watch Group publiée par l'IPSI (Université des Nations unies) rapporte que, selon des habitants, les activités de l'aire se limitent à quelques villages et que beaucoup de villages n'ont pas de règles claires de gestion forestière.", source: "https://satoyamainitiative.org/case_studies/observation-of-functioning-of-kanchenjunga-conservation-area-kca-the-regions-first-community-owned-conservation-area/"}
 chronologie:
   - {annee: 1973, evenement: "Loi sur les parcs nationaux et la conservation de la faune."}

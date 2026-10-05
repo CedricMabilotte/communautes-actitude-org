@@ -30,7 +30,7 @@ droits:
   consentement: {valeur: "non_etabli", note: "", source: ""}
   langue: {valeur: "reconnu", note: "« Le chuukais est la langue de l'État, mais le chuukais et l'anglais sont tous deux langues officielles » (art. XI, s. 6).", source: "https://fsmlaw.org/chuuk/constitution/entire.htm"}
   education: {valeur: "non_etabli", note: "", source: ""}
-  fiscalite: {valeur: "partiel", note: "La législature affecte chaque année aux municipalités au moins 8 % des crédits de fonctionnement de l'État et au moins 40 % des crédits de développement (art. VIII, s. 6) ; elle peut leur déléguer des pouvoirs fiscaux par la loi (art. VIII, s. 7).", source: "http://fsmlaw.org/chuuk/constitution/article08.htm"}
+  fiscalite: {valeur: "reconnu", note: "La législature affecte chaque année aux gouvernements municipaux au moins 8 % des crédits de fonctionnement de l'État et au moins 40 % des crédits de développement (Constitution de Chuuk, art. VIII, s. 6) : ce budget est garanti par la constitution ; le pouvoir fiscal appartient à l'État, qui peut en déléguer une partie aux municipalités par la loi (art. VIII, s. 7).", source: "http://fsmlaw.org/chuuk/constitution/article08.htm"}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}

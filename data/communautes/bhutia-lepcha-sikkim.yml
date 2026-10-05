@@ -20,14 +20,14 @@ reconnaissance_onu:
 base_nationale:
   - {instrument: "Constitution de l'Inde, art. 371F, inséré par le 36e amendement (1975)", nature: "constitution", annee: 1975, source: "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"}
   - {instrument: "R.C. Poudyal c. Union de l'Inde, Cour suprême, 10 février 1993", nature: "jurisprudence", annee: 1993, source: "https://indiankanoon.org/doc/745161/"}
-  - {instrument: "Revenue Order No. 1 (ordre foncier n° 1) du 17 mai 1917, maintenu par l'art. 371F (k)", nature: "loi", annee: 1917, source: "https://hcs.gov.in/hcs/sites/default/files/rules/sikkimcodevol2.pdf"}
+  - {instrument: "Revenue Order No. 1 (ordre foncier n° 1) du 17 mai 1917, maintenu par l'art. 371F (k)", nature: "loi", annee: 1917, source: "https://web.archive.org/web/20240611190337/https://hcs.gov.in/hcs/sites/default/files/rules/sikkimcodevol2.pdf"}
   - {instrument: "Loi de 1950 sur la représentation du peuple, art. 7 (1A) ; ordre de délimitation des circonscriptions de 2008 (douze circonscriptions BL)", nature: "loi", annee: 2008, source: "https://www.eci.gov.in/Documents/Delimitation/DelimitationofParliamentaryAssemblyConstituenciesOrder-2008(English).pdf"}
   - {instrument: "Loi de 1977 sur les langues officielles du Sikkim (loi n° 5 de 1977, modifiée en 1981 et 2022), art. 2", nature: "loi", annee: 1977, source: "https://prsindia.org/files/bills_acts/acts_states/sikkim/1977/1977SK5.pdf"}
 droits:
   autogouvernement: {valeur: "non_etabli", note: "", source: ""}
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
-  terres: {valeur: "partiel", note: "Le Revenue Order No. 1 du 17 mai 1917, loi antérieure maintenue par l'art. 371F (k), interdit aux Bhutia et aux Lepcha de vendre, hypothéquer ou sous-louer leurs terres à une personne qui n'est ni bhutia ni lepcha sans autorisation expresse du Durbar (gouvernement du royaume) ; la Haute Cour du Sikkim l'applique le 21 juin 2024. Restriction de cession entre individus, sans propriété collective.", source: "https://hcs.gov.in/hcs/sites/default/files/rules/sikkimcodevol2.pdf"}
+  terres: {valeur: "partiel", note: "Le Revenue Order No. 1 du 17 mai 1917, loi antérieure maintenue par l'art. 371F (k), interdit aux Bhutia et aux Lepcha de vendre, hypothéquer ou sous-louer leurs terres à une personne qui n'est ni bhutia ni lepcha sans autorisation expresse du Durbar (gouvernement du royaume) ; la Haute Cour du Sikkim l'applique le 21 juin 2024. Restriction de cession entre individus, sans propriété collective.", source: "https://web.archive.org/web/20240611190337/https://hcs.gov.in/hcs/sites/default/files/rules/sikkimcodevol2.pdf"}
   ressources: {valeur: "non_etabli", note: "", source: ""}
   consentement: {valeur: "non_etabli", note: "", source: ""}
   langue: {valeur: "partiel", note: "Loi n° 5 de 1977 sur les langues officielles, art. 2 : le bhutia et le lepcha figurent parmi les langues employées pour tous les usages officiels de l'État, aux côtés du népali, du limbu et d'autres langues ajoutées depuis (dernier ajout en 2022) ; les notifications fixant les dates d'application n'ont pas été consultées.", source: "https://prsindia.org/files/bills_acts/acts_states/sikkim/1977/1977SK5.pdf"}
@@ -36,7 +36,7 @@ droits:
   representation: {valeur: "reconnu", note: "Douze sièges réservés aux Sikkimais d'origine bhutia-lepcha et un siège au Sangha sur 32 à l'Assemblée du Sikkim, art. 7 (1A) de la loi de 1950 sur la représentation du peuple, pris sur le fondement de l'art. 371F (f) ; circonscriptions BL fixées par l'ordre de délimitation de 2008 ; réservations jugées conformes à la Constitution par la Cour suprême (R.C. Poudyal, 10 février 1993).", source: "https://www.eci.gov.in/Documents/Delimitation/DelimitationofParliamentaryAssemblyConstituenciesOrder-2008(English).pdf"}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "effective", note: "La Haute Cour du Sikkim applique le 21 juin 2024 le Revenue Order No. 1 comme « ancienne loi du Sikkim protégée par l'article 371F » et constate que le transfert d'une terre d'une Lepcha à une personne qui n'est ni bhutia ni lepcha contrevient à cet ordre.", source: "https://hcs.gov.in/hcs/hg_orders/201100000222023_9.pdf"}
+effectivite: {valeur: "effective", note: "La Haute Cour du Sikkim applique le 21 juin 2024 le Revenue Order No. 1 comme « ancienne loi du Sikkim protégée par l'article 371F » et constate que le transfert d'une terre d'une Lepcha à une personne qui n'est ni bhutia ni lepcha contrevient à cet ordre.", source: "https://web.archive.org/web/20240701220743/https://hcs.gov.in/hcs/hg_orders/201100000222023_9.pdf"}
 chronologie:
   - {annee: 1917, evenement: "Revenue Order No. 1 sur les terres des Bhutia et Lepcha (17 mai)."}
   - {annee: 1975, evenement: "Le Sikkim devient un État de l'Inde ; art. 371F en vigueur le 26 avril."}
@@ -54,8 +54,8 @@ sources:
   - {titre: "CERD/C/IND/CO/19 (2007)", url: "https://docs.un.org/fr/CERD/C/IND/CO/19"}
   - {titre: "R.C. Poudyal c. Union de l'Inde (1993) — Indian Kanoon", url: "https://indiankanoon.org/doc/745161/"}
   - {titre: "Ordre de délimitation des circonscriptions parlementaires et de l'Assemblée, 2008 — Commission électorale de l'Inde", url: "https://www.eci.gov.in/Documents/Delimitation/DelimitationofParliamentaryAssemblyConstituenciesOrder-2008(English).pdf"}
-  - {titre: "Code du Sikkim, vol. II (Revenue Order No. 1 de 1917) — Haute Cour du Sikkim", url: "https://hcs.gov.in/hcs/sites/default/files/rules/sikkimcodevol2.pdf"}
-  - {titre: "Haute Cour du Sikkim, W.P. (C) n° 22 de 2023, jugement du 21 juin 2024", url: "https://hcs.gov.in/hcs/hg_orders/201100000222023_9.pdf"}
+  - {titre: "Code du Sikkim, vol. II (Revenue Order No. 1 de 1917) — Haute Cour du Sikkim", url: "https://web.archive.org/web/20240611190337/https://hcs.gov.in/hcs/sites/default/files/rules/sikkimcodevol2.pdf"}
+  - {titre: "Haute Cour du Sikkim, W.P. (C) n° 22 de 2023, jugement du 21 juin 2024", url: "https://web.archive.org/web/20240701220743/https://hcs.gov.in/hcs/hg_orders/201100000222023_9.pdf"}
   - {titre: "Loi de 1977 sur les langues officielles du Sikkim et amendements — PRS Legislative Research", url: "https://prsindia.org/files/bills_acts/acts_states/sikkim/1977/1977SK5.pdf"}
   - {titre: "Statistiques du Sikkim 2013 — Gouvernement du Sikkim", url: "https://www.sikkim.gov.in/portalcontent/statistics"}
   - {titre: "Population of Sikkim: An Overview, chap. II d'une thèse — Université du Bengale du Nord", url: "https://ir.nbu.ac.in/bitstreams/50f65d0c-8f58-4e83-a319-cfb1cfb098a0/download"}
