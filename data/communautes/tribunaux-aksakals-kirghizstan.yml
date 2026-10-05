@@ -8,10 +8,10 @@ coord: [41.5, 74.6]
 type: "communaute_locale"
 types_secondaires: []
 base: "territoriale"
-population: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 7404329, annee: 2026, perimetre: "population résidente du pays au début de 2026, estimation du Comité national de statistique ; les tribunaux d'aksakals peuvent être constitués dans tous les aïyl aïmaks et toutes les villes ; la population du ressort des 795 tribunaux recensés en 2020 n'est pas connue", source: "https://www.stat.gov.kg/ru/statistics/download/operational/825/"}
 lieux: {valeur: 795, unite: "tribunaux d'aksakals", annee: 2020, source: "https://cabar.asia/en/courts-of-elders-in-kyrgyzstan-arbitrariness-or-necessity"}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: 199950, annee: 2023, perimetre: "superficie totale du pays (Banque mondiale, d'après la FAO) ; le ressort cumulé des tribunaux d'aksakals n'est pas connu", source: "https://api.worldbank.org/v2/country/KGZ/indicator/AG.SRF.TOTL.K2?format=json&date=2023"}
+villages: {valeur: 1837, annee: 2026, perimetre: "villages (sela) des 230 aïyl aïmaks (communes rurales) du pays dans le tableau du Comité national de statistique au début de 2026 (données des administrations des aïyl aïmaks) : 1 838 lignes de villages, dont un village (Khoun-Tchi) réparti entre deux aïyl aïmaks, et 21 lignes sans population inscrite ; les villes ne sont pas comptées", source: "https://www.stat.gov.kg/ru/statistics/download/operational/825/"}
 resume: >-
   Fiche agrégée : elle couvre les tribunaux d'aksakals (tribunaux des anciens), organes sociaux non étatiques que les habitants d'un aïyl aïmak (commune rurale) ou d'une ville élisent en assemblée de citoyens du lieu de résidence pour régler des litiges entre eux par la conciliation. L'article 115 de la Constitution de 2021 reconnaît aux citoyens le droit de les créer ; ils examinent les affaires dans les limites fixées par la loi « sur les tribunaux d'aksakals », et leurs décisions sont susceptibles de recours. Le règlement type du 17 décembre 2024 les définit comme des organes fondés sur l'élection, l'autogestion et le volontariat, avec le soutien de la communauté locale ; le règlement du 25 mars 2025 organise leur enregistrement auprès des organes exécutifs de l'autogouvernement local (administration communale). Selon les données de la Cour suprême pour 2020 citées par CABAR, 795 tribunaux comptaient 4 385 membres.
 reconnaissance_regionale: []

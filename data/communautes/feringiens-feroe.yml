@@ -8,8 +8,8 @@ coord: [62.0, -6.9]
 type: "collectivite_insulaire_ou_regionale"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: 54738, annee: 2023, perimetre: "population du territoire", source: "https://hagstova.fo/en/news/population-surpasses-54700-0"}
-lieux: {valeur: 29, unite: "communes", annee: 2023, source: "https://hagstova.fo/en/news/population-surpasses-54700-0"}
+population: {valeur: 55726, annee: 2026, perimetre: "personnes inscrites au registre de la population des îles Féroé en août 2026", source: "https://statbank.hagstova.fo/pxweb/en/H2/H2__IB__IB01/fo_abgd_md_t.px/"}
+lieux: {valeur: 29, unite: "communes", annee: 2026, source: "https://statbank.hagstova.fo/pxweb/en/H2/H2__IB__IB01/fo_midalal.px/"}
 surface_km2: {valeur: 1396, annee: 2026, perimetre: "superficie totale de l'archipel (Agence faroïenne de l'environnement)", source: "https://hagstova.fo/en/environment/geography/islands-mountains-islets-og-lakes"}
 villages: {valeur: 115, annee: 2026, perimetre: "villages et villes (bygdir) avec habitants au registre de population en août 2026, sur 119 localités listées", source: "https://statbank.hagstova.fo/pxweb/en/H2/H2__IB__IB01/fo_abgd_md_t.px/"}
 resume: >-
@@ -39,8 +39,9 @@ effectivite: {valeur: "effective", note: "Le Løgting exerce le pouvoir législa
 chronologie:
   - {annee: 1948, evenement: "Loi sur l'autonomie interne des îles Féroé, en vigueur le 1er avril."}
   - {annee: 2005, evenement: "Loi sur la reprise des compétences, loi sur les accords internationaux et déclaration de Fámjin sur la politique étrangère."}
+  - {annee: 2026, evenement: "Élection du Løgting le 26 mars ; coalition du Parti populaire, du Parti de l'union et du Parti social-démocrate formée le 13 avril."}
 fiabilite:
-  verifie: ["Loi de 1948, art. 1, 4, 7, 10, 11, 14 et listes A et B (traduction du Cabinet du Premier ministre danois et du gouvernement féroïen).", "Loi de 2005 sur la reprise des compétences, art. 1 à 4 et liste I.", "Constitution du Danemark, art. 28.", "Mentions des îles Féroé dans CCPR/C/DNK/CO/6 et CCPR/C/DNK/6."]
+  verifie: ["Loi de 1948, art. 1, 4, 7, 10, 11, 14 et listes A et B (traduction du Cabinet du Premier ministre danois et du gouvernement féroïen).", "Loi de 2005 sur la reprise des compétences, art. 1 à 4 et liste I.", "Constitution du Danemark, art. 28.", "Mentions des îles Féroé dans CCPR/C/DNK/CO/6 et CCPR/C/DNK/6.", "Population et nombre de localités habitées (août 2026), 29 communes (1er janvier 2026) et superficie de 1 396 km² sur les tables de Hagstova Føroya.", "Élection du 26 mars 2026 et coalition du 13 avril 2026 (Gouvernement des îles Féroé)."]
   non_confirme: ["Critère d'entrée : aucun mécanisme onusien ne qualifie les Féroïens de peuple autochtone ou de minorité ; la reconnaissance retenue repose sur le suivi distinct des Féroé par un organe de traité.", "Date de reprise des gisements du sous-sol par les autorités féroïennes non vérifiée sur un texte.", "Aucun texte en vigueur prévoyant un référendum d'indépendance n'a été trouvé."]
 sources:
   - {titre: "Home Rule Act of the Faroe Islands (1948), traduction — Cabinet du Premier ministre danois", url: "https://english.stm.dk/media/3njnddrp/fo-hjemmestyrelov-uk.pdf"}
@@ -50,6 +51,8 @@ sources:
   - {titre: "Constitution du Danemark — Constitute Project", url: "https://www.constituteproject.org/constitution/Denmark_1953"}
   - {titre: "CCPR/C/DNK/CO/6 (2016) — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g16/180/52/pdf/g1618052.pdf"}
   - {titre: "CCPR/C/DNK/6 (2015) — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g15/256/83/pdf/g1525683.pdf"}
-  - {titre: "Îles Féroé — L'aménagement linguistique dans le monde, Université Laval", url: "https://www.axl.cefan.ulaval.ca/EtatsNsouverains/feroe.htm"}
   - {titre: "The case of the Faroe Islands (Bárður Larsen, 2026) — REALaw blog", url: "https://realaw.blog/2026/07/03/the-challenge-of-a-contextualized-approach-to-administrative-law-and-institution-making-in-a-small-polity-the-case-of-the-faroe-islands-by-bardur-larsen/"}
-  - {titre: "Population surpasses 54,700 — Hagstova Føroya", url: "https://hagstova.fo/en/news/population-surpasses-54700-0"}
+  - {titre: "Population by sex, age and village/city (IB01031) — Hagstova Føroya", url: "https://statbank.hagstova.fo/pxweb/en/H2/H2__IB__IB01/fo_abgd_md_t.px/"}
+  - {titre: "Average age 1st January by sex and municipality and village (IB01070) — Hagstova Føroya", url: "https://statbank.hagstova.fo/pxweb/en/H2/H2__IB__IB01/fo_midalal.px/"}
+  - {titre: "Islands, mountains, islets and lakes — Hagstova Føroya", url: "https://hagstova.fo/en/environment/geography/islands-mountains-islets-og-lakes"}
+  - {titre: "The Government — Gouvernement des îles Féroé", url: "https://www.government.fo/en/the-government/"}

@@ -9,9 +9,9 @@ type: "peuple_autochtone"
 types_secondaires: []
 base: "mixte"
 population: {valeur: 724592, annee: 2011, perimetre: "personnes recensées comme appartenant à un peuple autochtone (recensement national de 2011, 44 peuples), selon le rapport de l'État au CERD", source: "https://documents.un.org/doc/undoc/gen/g22/296/83/pdf/g2229683.pdf"}
-lieux: {valeur: null, unite: "titres de propriété collective", annee: null, source: ""}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 102, unite: "titres de propriété collective délivrés depuis 2001 (Commission nationale de démarcation de l'habitat et des terres)", annee: 2016, source: "https://documents.un.org/api/symbol/access?s=A/HRC/WG.6/26/VEN/1&l=es&t=pdf"}
+surface_km2: {valeur: 32803, annee: 2016, perimetre: "surface couverte par les 102 titres de propriété collective, soit 3 280 298,72 hectares, selon le rapport national de l'État à l'Examen périodique universel (A/HRC/WG.6/26/VEN/1, § 118) ; 3,22 % du territoire national selon le rapport de l'État au Comité des droits de l'homme (CCPR/C/VEN/5, 2021)", source: "https://documents.un.org/api/symbol/access?s=A/HRC/WG.6/26/VEN/1&l=es&t=pdf"}
+villages: {valeur: 683, annee: 2016, perimetre: "communautés autochtones établies sur les terres couvertes par les 102 titres collectifs (environ 101 498 personnes, 25 600 familles), selon le rapport national de l'État à l'Examen périodique universel (A/HRC/WG.6/26/VEN/1, § 118)", source: "https://documents.un.org/api/symbol/access?s=A/HRC/WG.6/26/VEN/1&l=es&t=pdf"}
 resume: >-
   Fiche agrégée : elle couvre les peuples et communautés autochtones du Venezuela titulaires du régime d'habitat et de propriété collective des terres. La Constitution de 1999 (chapitre VIII, art. 119 à 126) reconnaît leur organisation sociale, politique et économique, leurs langues et leurs droits originaires sur les terres qu'ils occupent ; elle confie à l'exécutif national la démarcation (délimitation officielle) de ces terres, déclarées inaliénables, imprescriptibles, insaisissables et incessibles. La loi de démarcation et de garantie de l'habitat et des terres des peuples autochtones (Journal officiel n° 37.118 du 12 janvier 2001) prévoit, après démarcation, la délivrance d'un titre de propriété collective par le Procureur général de la République (art. 12). La loi organique des peuples et communautés autochtones de 2005 précise la consultation préalable, la justice propre et l'éducation interculturelle bilingue. L'article 126 de la Constitution précise que le terme « peuple » n'y a pas le sens qu'il a en droit international. Selon le CERD, la démarcation et la délivrance des titres sont à l'arrêt depuis 2016.
 reconnaissance_regionale: []
@@ -57,7 +57,7 @@ fiabilite:
     - "Date d'enregistrement de la ratification de la Convention 169 (collection des traités des Nations unies)."
   non_confirme:
     - "Articles 130 à 133 de la loi organique de 2005 lus sur la copie ACNUR : la page correspondante (343.660) manque dans le fac-similé du Journal officiel diffusé par l'Assemblée nationale."
-    - "Nombre de titres de propriété collective délivrés entre 2001 et 2015 et surface titrée : aucun chiffre officiel consulté ; pas de liste officielle des titres trouvée, d'où l'absence de tableau."
+    - "Nombre de titres (102), surface titrée (3 280 298,72 ha) et nombre de communautés (683) : chiffres déclarés par l'État en 2016 et repris en 2021 ; aucune liste officielle des titres trouvée, d'où l'absence de tableau ; nombre de titres délivrés après 2016 non trouvé (le CERD note en 2024 que la délivrance est à l'arrêt depuis 2016)."
     - "Nombre de peuples : 44 selon le rapport de l'État au CERD, 51 selon l'IWGIA."
     - "Modalités exactes du scrutin autochtone de 2025 (vote direct ou en assemblées)."
 sources:

@@ -1,5 +1,5 @@
 uid: "niue"
-nom: "Peuple de Niue"
+nom: "Niuéens"
 endonyme: "Tagata Niue"
 territoire: "Niue"
 etats: ["Nouvelle-Zélande"]
@@ -8,43 +8,51 @@ coord: [-19.1, -169.9]
 type: "peuple_libre_association"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: 1681, annee: 2022, perimetre: "population résidente de l'île (recensement)", source: "https://niuestatistics.nu/"}
-lieux: {valeur: 14, unite: "villages (circonscriptions de l'Assemblée)", annee: 2023, source: "https://www.gov.nu/government"}
-surface_km2: {valeur: 260, annee: null, perimetre: "île entière", source: "https://www.gov.nu/our-history"}
-villages: {valeur: 14, annee: 2023, perimetre: "villages (chacun formant une circonscription de l'Assemblée)", source: "https://www.gov.nu/government"}
+population: {valeur: 1681, annee: 2022, perimetre: "personnes présentes à Niue la nuit du recensement du 11 novembre 2022 (compte de facto) : 1 564 résidents habituels et 117 visiteurs", source: "https://niuestatistics.nu/download/35/census/2793/2022-niue-census-of-population-and-housing-report.pdf"}
+lieux: {valeur: 14, unite: "circonscriptions de village de l'Assemblée de Niue (Constitution, art. 16)", annee: 2019, source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
+surface_km2: {valeur: 260, annee: 2022, perimetre: "superficie terrestre de l'île", source: "https://niuestatistics.nu/download/35/census/2793/2022-niue-census-of-population-and-housing-report.pdf"}
+villages: {valeur: 14, annee: 2022, perimetre: "villages qui composent Niue, chacun formant une circonscription de l'Assemblée (recensement 2022)", source: "https://niuestatistics.nu/download/35/census/2793/2022-niue-census-of-population-and-housing-report.pdf"}
 resume: >-
-  Île du Pacifique Sud, État autonome en libre association avec la Nouvelle-Zélande depuis le 19 octobre 1974, par un acte d'autodétermination observé par l'ONU. La Nouvelle-Zélande garde des responsabilités pour les affaires extérieures et la défense et une obligation d'assistance économique et administrative ; les Niuéens conservent la citoyenneté néo-zélandaise. L'Assemblée de Niue compte 20 membres, dont 14 élus par les villages.
+  Île du Pacifique Sud, État autonome en libre association avec la Nouvelle-Zélande depuis le 19 octobre 1974, par un acte d'autodétermination observé par l'ONU. La Nouvelle-Zélande garde des responsabilités pour les affaires extérieures et la défense et une obligation d'assistance économique et administrative ; les Niuéens conservent la citoyenneté néo-zélandaise. L'Assemblée de Niue compte 20 membres, dont 14 élus par les villages ; elle élit le Premier ministre (titre de « Premier » jusqu'au référendum constitutionnel de 2024).
 reconnaissance_onu:
   - {mecanisme: "accord_sous_egide", detail: "Résolution 3285 (XXIX) « Question de Nioué » : l'Assemblée générale prend acte du vote du peuple de Niue en faveur de l'autonomie en libre association, observé par une mission spéciale de l'ONU en août 1974, et juge que la communication de renseignements au titre de l'Article 73 e) n'est plus nécessaire", annee: 1974, source: "https://documents.un.org/api/symbol/access?s=A/RES/3285%28XXIX%29&l=fr&t=pdf"}
 base_nationale:
   - {instrument: "Niue Constitution Act 1974 (Nouvelle-Zélande) et Constitution de Niue", nature: "constitution", annee: 1974, source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
   - {instrument: "Vagahau Niue Act 2012", nature: "loi", annee: 2012, source: "https://www.gov.nu/media/pages/information/1b266d005b-1764012776/act-321-vagahau-niue-act-2012.pdf"}
 droits:
-  autogouvernement: {valeur: "reconnu", note: "« Niue shall be self-governing » (Niue Constitution Act 1974, s. 3) ; Assemblée de 20 membres, 14 élus par les circonscriptions de village et 6 sur liste commune, et Cabinet.", source: "https://www.gov.nu/government"}
+  autogouvernement: {valeur: "reconnu", note: "« Niue shall be self-governing » (Niue Constitution Act 1974, s. 3) ; Assemblée de 20 membres, 14 élus par les circonscriptions de village et 6 sur liste commune (Constitution, art. 16), et Cabinet de quatre ministres (art. 2).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
   pouvoir_normatif: {valeur: "reconnu", note: "L'Assemblée de Niue fait les lois pour « la paix, l'ordre et le bon gouvernement » de Niue (Constitution, art. 28) ; aucune loi néo-zélandaise postérieure à 1974 ne s'applique sans demande et consentement de l'Assemblée (art. 36).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
   justice_propre: {valeur: "reconnu", note: "Haute Cour de Niue (art. 37 et suiv.), dont une division foncière qui reprend la compétence de l'ancienne Land Court de Niue.", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
-  terres: {valeur: "partiel", note: "L'Assemblée ne peut examiner un projet touchant au titre coutumier ou à l'aliénation des terres niuéennes sans le rapport préalable d'une commission (Constitution, art. 33).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
+  terres: {valeur: "partiel", note: "Les « terres niuéennes » sont des terres dévolues à la Couronne mais détenues par des Niuéens selon la coutume (Constitution, art. 33(5)) ; l'Assemblée ne peut examiner un projet touchant au titre coutumier, à l'aliénation ou à l'acquisition publique de ces terres sans le rapport préalable d'une commission d'enquête (art. 33).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
   ressources: {valeur: "non_etabli", note: "", source: ""}
   consentement: {valeur: "non_etabli", note: "", source: ""}
   langue: {valeur: "reconnu", note: "« Vagahau Niue is the official language of Niue » ; usage de droit à toutes fins officielles et juridiques (Vagahau Niue Act 2012, partie 2) ; débats de l'Assemblée en niuéen ou en anglais (Constitution, art. 23).", source: "https://www.gov.nu/media/pages/information/1b266d005b-1764012776/act-321-vagahau-niue-act-2012.pdf"}
-  education: {valeur: "non_etabli", note: "", source: ""}
+  education: {valeur: "reconnu", note: "Le Cabinet de Niue établit et entretient les écoles publiques et les autres dispositifs d'enseignement pour la population de Niue (Constitution, art. 61(2)).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
   fiscalite: {valeur: "reconnu", note: "Partie IV de la Constitution « Les revenus publics de Niue » : contrôle législatif des recettes et dépenses, compte du gouvernement de Niue, budget annuel (art. 56 à 60).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "partiel", note: "Statut de résident permanent de Niue défini par la loi, condition alternative à la citoyenneté néo-zélandaise pour voter ou être candidat (Constitution, art. 17) ; la citoyenneté néo-zélandaise est maintenue (Constitution Act 1974, s. 5).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
-  autodetermination_externe: {valeur: "reconnu", note: "Statut de 1974 choisi « par un acte d'autodétermination » (gouvernement de Niue) et observé par l'ONU (résolution 3285 (XXIX)) ; l'Assemblée peut modifier la Constitution (art. 35).", source: "https://documents.un.org/api/symbol/access?s=A/RES/3285%28XXIX%29&l=fr&t=pdf"}
-effectivite: {valeur: "non_etablie", note: "", source: ""}
+  statut_personnel: {valeur: "partiel", note: "Statut de résident permanent de Niue défini par la loi, qui ouvre le droit de vote et d'éligibilité au même titre que la citoyenneté néo-zélandaise (Constitution, art. 17) ; la citoyenneté néo-zélandaise est maintenue (Constitution Act 1974, s. 5).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
+  autodetermination_externe: {valeur: "reconnu", note: "Statut de 1974 choisi par référendum, observé par une mission de l'ONU (résolution 3285 (XXIX)) ; la modification des sections 2 à 9 du Niue Constitution Act 1974 (autonomie, relations extérieures et défense, assistance) exige deux votes des deux tiers de l'Assemblée puis deux tiers des suffrages au référendum (Constitution, art. 35).", source: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
+effectivite: {valeur: "effective", note: "Élections générales tenues tous les trois ans, la dernière le 2 mai 2026 ; l'Assemblée a élu le Premier ministre le 14 mai 2026 par 11 voix contre 9 (PMN, Pacific Media Network) ; référendum constitutionnel du 31 août 2024 organisé selon l'art. 35, deux des quatre projets adoptés (RNZ).", source: "https://pmn.co.nz/read/election/tagelagi-secures-third-term-as-niue-pm-after-tightly-split-assembly-vote"}
 chronologie:
   - {annee: 1901, evenement: "La Nouvelle-Zélande prend la responsabilité de Niue."}
   - {annee: 1974, evenement: "Autonomie en libre association (19 octobre) ; résolution 3285 (XXIX)."}
   - {annee: 2012, evenement: "Vagahau Niue Act : le niuéen devient langue officielle."}
-  - {annee: 2022, evenement: "Recensement : 1 681 habitants."}
+  - {annee: 2022, evenement: "Recensement : 1 681 personnes présentes, dont 1 564 résidents habituels."}
+  - {annee: 2024, evenement: "Référendum constitutionnel (31 août) : le titre de « Premier » devient « Premier ministre » ; rejet de l'extension du Cabinet à six ministres et du mandat de quatre ans."}
+  - {annee: 2026, evenement: "Déclaration établissant des relations diplomatiques avec l'Allemagne (février)."}
+  - {annee: 2026, evenement: "Élections générales (2 mai) ; Dalton Tagelagi réélu Premier ministre par l'Assemblée (14 mai)."}
 fiabilite:
-  verifie: ["Sections 3 à 7 du Niue Constitution Act 1974 et articles 17, 23, 28, 33, 35, 36 et 37 de la Constitution (édition 2019 publiée par le gouvernement de Niue).", "Composition de l'Assemblée (site du gouvernement de Niue).", "Vagahau Niue Act 2012 (texte obtenu par reconnaissance optique de caractères).", "Résolution 3285 (XXIX)."]
-  non_confirme: ["Régime détaillé des terres niuéennes (Niue Act 1966) : non consulté."]
+  verifie: ["Sections 3 à 7 du Niue Constitution Act 1974 et articles 16, 17, 23, 28, 33, 35 à 38, 56 à 60 et 61 de la Constitution (édition 2019 publiée par le gouvernement de Niue).", "Composition de l'Assemblée (site du gouvernement de Niue).", "Vagahau Niue Act 2012 (texte obtenu par reconnaissance optique de caractères).", "Résolution 3285 (XXIX).", "Population, villages et superficie : rapport du recensement 2022 (Niue Statistics Office).", "Référendum constitutionnel de 2024 (gouvernement de Niue, RNZ) et élections de 2026 (PMN, RNZ)."]
+  non_confirme: ["Régime détaillé des terres niuéennes (Niue Act 1966) : non consulté.", "L'édition 2019 de la Constitution ne reflète pas les modifications de 2024 (titre de Premier ministre, Auditor General) ; texte consolidé postérieur non trouvé."]
 sources:
   - {titre: "Constitution of Niue et Niue Constitution Act 1974, édition 2019 — gouvernement de Niue", url: "https://www.gov.nu/media/pages/information/5304ad08d7-1764012786/niue_constitution_ul2022.pdf"}
   - {titre: "Vagahau Niue Act 2012 — gouvernement de Niue", url: "https://www.gov.nu/media/pages/information/1b266d005b-1764012776/act-321-vagahau-niue-act-2012.pdf"}
   - {titre: "Gouvernement de Niue — Government and Political System", url: "https://www.gov.nu/government"}
   - {titre: "Gouvernement de Niue — Our History", url: "https://www.gov.nu/our-history"}
-  - {titre: "Niue Statistics Office", url: "https://niuestatistics.nu/"}
+  - {titre: "Niue Statistics Office — 2022 Niue Census of Population and Housing Report", url: "https://niuestatistics.nu/download/35/census/2793/2022-niue-census-of-population-and-housing-report.pdf"}
+  - {titre: "Gouvernement de Niue — Official Results of the Niue Constitutional Amendment Referendum (3 septembre 2024)", url: "https://www.gov.nu/media-releases/official-results-of-the-niue-constitutional-amendment-referendum"}
+  - {titre: "RNZ — Niueans reject proposals to increase Cabinet ministers to 6 and parliamentary term to 4yrs (5 septembre 2024)", url: "https://www.rnz.co.nz/news/pacific/527122/niueans-reject-proposals-to-increase-cabinet-ministers-to-6-and-parliamentary-term-to-4yrs"}
+  - {titre: "PMN — Tagelagi secures third term as Niue PM after tight Assembly vote (14 mai 2026)", url: "https://pmn.co.nz/read/election/tagelagi-secures-third-term-as-niue-pm-after-tightly-split-assembly-vote"}
+  - {titre: "RNZ — Close vote sees Niue's Dalton Tagelagi back in as prime minister (15 mai 2026)", url: "https://www.rnz.co.nz/news/pacific_niue/595294/close-vote-sees-niue-s-dalton-tagelagi-back-in-as-prime-minister"}
+  - {titre: "PMN — Germany recognises Niue as a sovereign state by formalising diplomatic relations (3 février 2026)", url: "https://pmn.co.nz/read/pacific-region/germany-recognises-niue-as-sovereign-state-diplomatic-ties-established"}
   - {titre: "Résolution 3285 (XXIX) de l'Assemblée générale (1974)", url: "https://documents.un.org/api/symbol/access?s=A/RES/3285%28XXIX%29&l=fr&t=pdf"}

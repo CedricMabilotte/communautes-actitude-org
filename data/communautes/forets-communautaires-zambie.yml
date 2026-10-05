@@ -51,7 +51,8 @@ fiabilite:
     - "Le registre contient au moins un doublon probable (Nzamane, district de Kasenengwa, inscrit une fois « Approved » et une fois « Recognized », compté deux fois dans les 395) ; la surface totale est une somme des surfaces déclarées, sans contrôle des chevauchements."
     - "Durée des droits : le rapport FAO indique des droits sans limite de durée ; le formulaire IV ne fixe pas de terme mais prévoit la résiliation par le ministre."
     - "Aucun document d'un mécanisme de l'ONU de la liste du cadre (Convention sur la diversité biologique, registre APAC) nommant le régime n'a été trouvé ; le rapport FAO / ONU-REDD est un document d'agence, non un mécanisme de reconnaissance."
-    - "Population et nombre de villages concernés à l'échelle nationale : aucune source trouvée."
+    - "Population : non trouvée à l'échelle nationale ; le registre du ministère ne renseigne pas le nombre de membres pour la plupart des groupes."
+    - "Nombre de villages : non trouvé à l'échelle nationale ; le rapport FAO indique pour la province du Nord-Ouest une moyenne de neuf villages par groupe, jusqu'à 55, sans total national."
 sources:
   - {titre: "Forests (Community Forest Management) Regulations, 2018, Statutory Instrument No. 11 of 2018 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/zam174187.pdf"}
   - {titre: "Forests (Community Forest Management) Regulations, 2018 — ZambiaLII", url: "https://zambialii.org/akn/zm/act/si/2018/11/eng@2018-02-23"}

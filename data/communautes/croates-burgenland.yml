@@ -10,7 +10,7 @@ types_secondaires: []
 base: "territoriale"
 population: {valeur: 35000, annee: null, perimetre: "estimation du Land de Burgenland (« environ 35 000 personnes »), sans année de référence indiquée", source: "https://www.burgenland.at/verwaltung/land-burgenland/die-volksgruppen-des-burgenlandes/"}
 lieux: {valeur: 28, unite: "communes", annee: 2026, source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: 577, annee: 2025, perimetre: "somme des surfaces cadastrales (Katasterfläche) des 28 communes de l'annexe 1 du Volksgruppengesetz, communes entières, y compris les parties sans signalisation bilingue (à Markt Neuhodis et à Rotenturm an der Pinka, la loi ne vise qu'une localité, Althodis et Spitzzicken) ; relevé du BEV au 31 décembre 2025, publié dans les fiches « Ein Blick auf die Gemeinde » de Statistik Austria (une fiche par commune, ici Hornstein)", source: "https://www.statistik.at/blickgem/G0101/g10304.pdf"}
 villages: {valeur: 47, annee: 2026, perimetre: "localités et parties de communes dotées d'une signalisation bilingue allemand-croate (Volksgruppengesetz, annexe 1, I.A)", source: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
 resume: >-
   Les Croates du Burgenland sont une des six minorités (« Volksgruppen », groupes ethniques) que l'Autriche reconnaît nommément ; le Land estime leur nombre à environ 35 000 personnes.
@@ -55,11 +55,11 @@ fiabilite:
     - "Estimation d'environ 35 000 personnes publiée par le Land de Burgenland."
     - "Insertion des annexes 1 et 2 du Volksgruppengesetz par BGBl. I 46/2011, § 24 al. 7 (RIS)."
     - "Ratification de la Convention-cadre le 31 mars 1998, entrée en vigueur pour l'Autriche le 1er juillet 1998 (RIS, BGBl. III n° 120/1998)."
+    - "Surface : fiches communales de Statistik Austria pour les 28 communes de l'annexe 1 (relevé du BEV au 31 décembre 2025), somme des surfaces cadastrales de 57 728,56 ha, soit 577 km²."
     - "Sixième rapport d'évaluation de la Charte (adopté le 10 juin 2026) : croate du Burgenland non employé devant les tribunaux, cinq communes sur 28 avec informations bilingues, manque d'enseignants au préscolaire."
   non_confirme:
     - "Le chiffre de 35 000 n'a pas d'année de référence ; le recensement de 2001 comptait 19 374 locuteurs du croate du Burgenland dans le Land et 2 456 à Vienne, selon Minority Rights Group."
     - "Le Comité d'experts de la Charte parle de 28 communes où le croate est langue officielle ; l'annexe 2 du Volksgruppengesetz en compte 27 (les 28 communes de l'annexe 1 moins Markt Neuhodis)."
-    - "Surface des communes concernées non trouvée."
 sources:
   - {titre: "Volksgruppengesetz, version en vigueur — RIS (Autriche)", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000602"}
   - {titre: "Traité d'État de 1955 — RIS (Autriche)", url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000265"}

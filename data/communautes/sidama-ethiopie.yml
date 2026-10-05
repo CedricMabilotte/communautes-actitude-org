@@ -8,10 +8,11 @@ coord: [6.7, 38.5]
 type: "minorite_nationale"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: null, annee: null, perimetre: "", source: ""}
-lieux: {valeur: 24, unite: "woredas (districts) de la zone Sidama", annee: 2019, source: "https://eip.org/wp-content/uploads/2020/06/Sidamas-quest-for-self-rule.pdf"}
+population: {valeur: 3212944, annee: 2007, perimetre: "personnes recensées le 28 mai 2007 dans le territoire de l'actuelle Région Sidama (19 districts et ville d'Awasa ou Hawassa, découpage du recensement), toutes appartenances ; tableau de City Population d'après le Service éthiopien de statistique, qui donne aussi une projection officielle de 4 623 162 habitants au 1er juillet 2022", source: "https://www.citypopulation.de/en/ethiopia/admin/ET08__sidama/"}
+lieux: {valeur: 24, unite: "woredas (districts) de la zone Sidama au moment du référendum, où se trouvaient les 1 692 centres de vote prévus", annee: 2019, source: "https://eip.org/wp-content/uploads/2020/06/Sidamas-quest-for-self-rule.pdf"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
+reconnaissance_regionale: []
 resume: >-
   Les Sidama sont une « nation, nationalité et peuple » au sens de la Constitution fédérale éthiopienne, dans le sud du pays.
   Ils formaient une zone de l'État régional des nations, nationalités et peuples du Sud.
@@ -19,6 +20,7 @@ resume: >-
 reconnaissance_onu:
   - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme note la reconnaissance du droit des communautés ethniques et linguistiques à l'autodétermination au niveau de l'État régional, selon le fédéralisme ethnique de la Constitution (CCPR/C/ETH/CO/1, par. 26). Vise la catégorie, pas les Sidama nommément.", annee: 2011, source: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
   - {mecanisme: "organe_traite", detail: "Le Comité pour l'élimination de la discrimination raciale note l'attribution de sièges parlementaires aux groupes minoritaires et leur reconnaissance dans la Constitution (CERD/C/ETH/CO/7-16, par. 9).", annee: 2009, source: "https://docs.un.org/en/CERD/C/ETH/CO/7-16"}
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme relève que de nombreuses constitutions des États régionaux ne confèrent des droits qu'aux groupes ethniques dominants et en écartent les minorités ; il demande leur mise en conformité avec l'article 25 de la Constitution fédérale (CCPR/C/ETH/CO/2, par. 45-46). Ne nomme pas les Sidama.", annee: 2022, source: "https://docs.un.org/en/CCPR/C/ETH/CO/2"}
 base_nationale:
   - {instrument: "Constitution de la République fédérale démocratique d'Éthiopie, art. 5, 39, 47, 50, 52, 61, 78 et 97", nature: "constitution", annee: 1994, source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
 droits:
@@ -34,19 +36,25 @@ droits:
   representation: {valeur: "reconnu", note: "Art. 61(2) : chaque nation, nationalité et peuple a au moins un siège à la Chambre de la Fédération (chambre haute), plus un par million d'habitants ; art. 39(3) : représentation équitable aux niveaux régional et fédéral.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "reconnu", note: "Art. 39(1) et 39(4) : droit inconditionnel à l'autodétermination, y compris la sécession (séparation d'avec l'État), par vote aux deux tiers du conseil législatif puis référendum organisé par l'État fédéral dans les trois ans. Jamais exercé à ce jour par les Sidama.", source: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
-effectivite: {valeur: "non_etablie", note: "La Région Sidama fonctionne depuis juin 2020 (décision du Conseil de l'État régional du Sud du 18 juin 2020). Aucune évaluation onusienne ou indépendante de son fonctionnement postérieure à 2020 n'a été consultée.", source: "https://borkena.com/2020/06/18/council-ratify-ethiopias-new-ethnic-sidama-statehood/"}
+effectivite: {valeur: "effective", note: "Le Rift Valley Institute (2023) constate la formation de l'État Sidama en 2020, l'attribution de la ville multiethnique de Hawassa à la Région et un accès accru des Sidama aux transferts fédéraux et à la représentation ; il juge les bénéfices pour la population « difficiles à évaluer » et rapporte que les autorités régionales ont refusé d'adopter un cadre juridique de protection des minorités demandé par la Commission électorale. Le Comité des droits de l'homme (2022) exprime une préoccupation générale sur les constitutions régionales qui excluent les minorités.", source: "https://riftvalley.net/wp-content/uploads/2023/03/RVI-2023.03.21-Referendum-in-Ethiopias-Southern-Region.pdf"}
 chronologie:
   - {annee: 1994, evenement: "Adoption de la Constitution fédérale (art. 39 et 47)."}
   - {annee: 2018, evenement: "Le 18 juillet, le Conseil de la zone Sidama demande la création d'un État régional."}
-  - {annee: 2019, evenement: "Le 20 novembre, référendum organisé par la Commission électorale nationale : plus de 98 % pour la création de l'État."}
-  - {annee: 2020, evenement: "Le 18 juin, le Conseil de l'État régional du Sud approuve la constitution de la Sidama en État régional."}
+  - {annee: 2019, evenement: "Le 20 novembre, référendum organisé par la Commission électorale nationale. Résultats définitifs du 4 décembre : 97,7 % pour la création de l'État, 98,9 % de participation, 248 097 votes annulés dans 164 bureaux pour irrégularités."}
+  - {annee: 2020, evenement: "Mi-juin (session d'urgence d'un mercredi, rapportée le 18 juin), le Conseil de l'État régional du Sud approuve la constitution de la zone Sidama en État régional, le dixième de la fédération."}
+  - {annee: 2022, evenement: "Le Comité des droits de l'homme de l'ONU s'inquiète des constitutions régionales qui ne confèrent des droits qu'aux groupes dominants."}
+  - {annee: 2023, evenement: "La création de la Région Sidama est suivie de celles du Sud-Ouest (fiche « Peuples du Sud-Ouest éthiopien ») et d'Éthiopie du Sud (fiche « Peuples d'Éthiopie du Sud »)."}
 fiabilite:
-  verifie: ["Texte des art. 5, 39, 40, 47, 50, 52, 61, 78 et 97 de la Constitution (Constitute Project).", "Date et résultat du référendum (Commission électorale nationale ; European Institute of Peace).", "Paragraphe 26 de CCPR/C/ETH/CO/1 (2011)."]
-  non_confirme: ["La reconnaissance onusienne vise la catégorie « nations, nationalités et peuples », non les Sidama nommément.", "Langue de travail adoptée par la Région Sidama et contenu de sa constitution régionale : non vérifiés.", "Taux exact du « oui » : 98,5 % selon l'annonce préliminaire, 98,9 % selon la page de la Commission électorale.", "Population : aucun chiffre sourcé retenu."]
+  verifie: ["Texte des art. 5, 39, 40, 47, 50, 52, 61, 78 et 97 de la Constitution (Constitute Project).", "Date et résultat définitif du référendum (communiqué de la Commission électorale du 4 décembre 2019 reproduit en annexe du rapport de l'European Institute of Peace).", "Paragraphe 26 de CCPR/C/ETH/CO/1 (2011), paragraphe 9 de CERD/C/ETH/CO/7-16 (2009), paragraphes 45-46 de CCPR/C/ETH/CO/2 (2022).", "Population recensée en 2007 par district (City Population, d'après le Service éthiopien de statistique)."]
+  non_confirme: ["La reconnaissance onusienne vise la catégorie « nations, nationalités et peuples », non les Sidama nommément.", "Langue de travail adoptée par la Région Sidama et contenu de sa constitution régionale : non vérifiés.", "Taux du « oui » : 98,51 % selon l'annonce préliminaire du 23 novembre 2019, 97,7 % selon les résultats définitifs ; la page « Referendum » de la Commission électorale indique 98,9 %, chiffre qui correspond à la participation.", "Date exacte de la décision du Conseil de l'État régional du Sud : Borkena (18 juin 2020) la situe un mercredi, soit le 17 juin 2020 ; d'autres sources retiennent le 18 juin.", "Découpage actuel de la Région (quatre zones et la ville de Hawassa) : non vérifié sur un texte officiel ; le chiffre de 24 woredas date de 2019.", "Surface : 6 538,17 km² selon une source secondaire citant le recensement de 2007, non lue sur la source primaire.", "Nombre de villages : non trouvé.", "Septième élection générale (2026) : tenue et résultats dans la Région Sidama non vérifiés.", "Affrontements à la limite entre les régions Sidama et Oromia en 2022 et en mai 2026 : rapportés par la presse (Borkena), sans bilan établi."]
 sources:
   - {titre: "Constitution de l'Éthiopie (1994) — Constitute Project", url: "https://www.constituteproject.org/constitution/Ethiopia_1994?lang=en"}
   - {titre: "Comité des droits de l'homme — Observations finales sur l'Éthiopie, CCPR/C/ETH/CO/1 (2011)", url: "https://docs.un.org/en/CCPR/C/ETH/CO/1"}
   - {titre: "CERD — Observations finales sur l'Éthiopie, CERD/C/ETH/CO/7-16 (2009)", url: "https://docs.un.org/en/CERD/C/ETH/CO/7-16"}
   - {titre: "National Election Board of Ethiopia — Referendum", url: "https://nebe.org.et/en/referendum"}
   - {titre: "Tronvoll, Boroje, Tezera — The Sidama's quest for self-rule, European Institute of Peace (2020)", url: "https://eip.org/wp-content/uploads/2020/06/Sidamas-quest-for-self-rule.pdf"}
+  - {titre: "Comité des droits de l'homme — Observations finales sur le deuxième rapport de l'Éthiopie, CCPR/C/ETH/CO/2 (2022)", url: "https://docs.un.org/en/CCPR/C/ETH/CO/2"}
+  - {titre: "Rift Valley Institute — Referendum in Ethiopia's Southern Region (mars 2023)", url: "https://riftvalley.net/wp-content/uploads/2023/03/RVI-2023.03.21-Referendum-in-Ethiopias-Southern-Region.pdf"}
+  - {titre: "City Population — Sidama Region, recensement de 2007 et projection 2022", url: "https://www.citypopulation.de/en/ethiopia/admin/ET08__sidama/"}
+  - {titre: "Borkena — Renewed Conflict Along Oromia-Sidama Regions Boundaries (25 mai 2026)", url: "https://borkena.com/ethiopia-renewed-conflict-along-oromia-sidama-regions-boundaries/"}
   - {titre: "Borkena — Council ratify Ethiopia's new ethnic-Sidama statehood (2020)", url: "https://borkena.com/2020/06/18/council-ratify-ethiopias-new-ethnic-sidama-statehood/"}

@@ -50,7 +50,8 @@ fiabilite:
     - "Aucun texte d'application (règlement) de la loi n° 1/1997 précisant la procédure de délimitation et de cession n'a été trouvé."
     - "La couche cartographique ne dit pas si chaque polygone correspond à une cession formalisée ; les documents référencés dans le champ « documento » ne sont pas publiés et leur nature n'est pas précisée. Les superficies du tableau sont calculées par SIG et diffèrent parfois de la superficie administrative du champ « superficie »."
     - "Une copie de 2023 de la couche, publiée par Global Forest Watch, compte 70 entrées, dont plusieurs sans nom ni superficie, et associe certains noms à d'autres superficies ; elle n'a pas été retenue pour le tableau. La couche officielle de l'administration forestière (Atlas_Forestal_Datos 2017) n'est pas accessible sans authentification."
-    - "Population et nombre de villages concernés : aucune source trouvée."
+    - "Population concernée : non trouvée."
+    - "Nombre de villages : non trouvé. Dans la couche cartographique, 40 des 49 polygones portent un nom de village (38 noms distincts) et 9 n'en portent pas ; le nom Akora figure dans deux districts différents (Mbini-Cogo et Bata-Niefang), Mosumu deux fois à Niefang, et certains noms sont abrégés ; ce décompte ne donne pas le nombre de villages concernés."
     - "Aucune loi forestière postérieure abrogeant la loi n° 1/1997 n'a été trouvée ; le profil FAOLEX de la Guinée équatoriale liste des textes forestiers de 2017 et 2018 non examinés."
 sources:
   - {titre: "Ley n° 1/1997, de 18 de febrero, sobre el uso y manejo de los bosques — Observatoire des forêts d'Afrique centrale (COMIFAC)", url: "https://www.observatoire-comifac.net/file/eyJtb2RlbCI6IkFwcFxcTW9kZWxzXFxOYXRpb25hbEluZGljYXRvcnNcXE1vZHVsZXNcXE4yXFxJbnN0cnVtZW50R2VzdGlvbiIsImZpZWxkIjoiZG9jdW1lbnQiLCJpZCI6NzN9"}

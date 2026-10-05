@@ -8,12 +8,14 @@ coord: [46.6, 16.4]
 type: "minorite_nationale"
 base: "mixte"
 types_secondaires: []
-population: {valeur: 6243, annee: 2002, perimetre: "personnes déclarées de nationalité hongroise en Slovénie, recensement de 2002 (5 212 dans les cinq communes bilingues)", source: "https://inv.si/en/madzarska-narodna-skupnost/"}
-lieux: {valeur: 30, unite: "localités (dans cinq communes bilingues)", annee: 2022, source: "https://inv.si/en/madzarska-narodna-skupnost/"}
+population: {valeur: 6243, annee: 2002, perimetre: "personnes déclarées de nationalité hongroise dans toute la Slovénie, recensement de 2002 (5 212 dans les cinq communes bilingues) ; aucun recensement n'a relevé l'appartenance nationale depuis 2002", source: "https://inv.si/en/madzarska-narodna-skupnost/"}
+lieux: {valeur: 5, unite: "communautés nationales autogérées communales (une par commune bilingue : Lendava, Dobrovnik, Hodoš, Moravske Toplice, Šalovci)", annee: 2022, source: "https://inv.si/en/madzarska-narodna-skupnost/"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
 villages: {valeur: 30, annee: 2022, perimetre: "localités (naselja) de l'aire d'implantation autochtone de la communauté hongroise, dans cinq communes bilingues du Prekmurje", source: "https://inv.si/en/madzarska-narodna-skupnost/"}
 resume: >-
-  La Constitution slovène de 1991 reconnaît la communauté nationale hongroise comme communauté autochtone, avec la communauté italienne. Elle vit dans 30 localités de cinq communes bilingues du Prekmurje, à la frontière hongroise. L'article 64 de la Constitution garantit l'éducation dans sa langue, la création de communautés nationales autogérées et un député à l'Assemblée nationale. Chaque commune bilingue a une communauté autogérée, fédérée par la Communauté nationale autogérée hongroise du Pomurje.
+  La Constitution slovène de 1991 reconnaît la communauté nationale hongroise comme communauté autochtone, avec la communauté italienne. Elle vit dans 30 localités de cinq communes bilingues du Prekmurje, à la frontière hongroise. L'article 64 de la Constitution garantit l'éducation dans sa langue, la création de communautés nationales autogérées et un député à l'Assemblée nationale. Chaque commune bilingue a une communauté autogérée, fédérée par la Communauté nationale autogérée hongroise du Pomurje. La communauté italienne relève du même régime constitutionnel (fiche « Communauté nationale italienne de Slovénie »).
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur la Slovénie (ACFC/OP/V(2021)9), adopté le 18 mai 2022 : les minorités hongroise et italienne « continuent de bénéficier d'une protection juridique complète » (§ 48) ; crédits de 485 630 € pour le programme culturel hongrois en 2021 (§ 75).", annee: 2022, source: "https://rm.coe.int/5th-op-slovenia-fr/1680a830d9"}
 reconnaissance_onu:
   - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale sur la Slovénie (CERD/C/SVN/CO/8-11), § 10 : le Comité distingue les minorités italienne et hongroise, représentées au Parlement, des autres minorités.", annee: 2016, source: "https://documents.un.org/doc/undoc/gen/g16/003/44/pdf/g1600344.pdf"}
 base_nationale:
@@ -27,21 +29,27 @@ droits:
   ressources: {valeur: "non_etabli", note: "", source: ""}
   consentement: {valeur: "reconnu", note: "Les lois et actes qui concernent exclusivement l'exercice des droits constitutionnels et la situation des communautés nationales ne peuvent être adoptés sans le consentement de leurs représentants, Constitution, art. 64, dernier alinéa.", source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
   langue: {valeur: "reconnu", note: "Le hongrois est langue officielle dans les communes où vit la communauté hongroise, Constitution, art. 11.", source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
-  education: {valeur: "reconnu", note: "Droit à l'éducation dans sa langue et à créer des établissements, Constitution, art. 64, al. 1 ; neuf écoles maternelles, cinq écoles primaires et un lycée bilingues fonctionnent dans le Prekmurje (Institut d'études ethniques).", source: "https://inv.si/en/madzarska-narodna-skupnost/"}
+  education: {valeur: "reconnu", note: "Droit à l'éducation dans sa langue et à créer des établissements, Constitution, art. 64, al. 1 ; en 2022-2023, neuf écoles maternelles, cinq écoles primaires et un lycée bilingues slovène-hongrois fonctionnent dans le Prekmurje (Institut d'études ethniques).", source: "https://inv.si/en/madzarska-narodna-skupnost/"}
   fiscalite: {valeur: "partiel", note: "L'État apporte un soutien matériel à l'exercice des droits et finance les fonctions qu'il délègue aux communautés autogérées, Constitution, art. 64, al. 1 et 2 ; aucun pouvoir fiscal.", source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
   representation: {valeur: "reconnu", note: "Un député de la communauté hongroise est toujours élu à l'Assemblée nationale, Constitution, art. 80 ; représentation directe dans les conseils municipaux, art. 64, al. 3.", source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "effective", note: "L'Institut d'études ethniques décrit en fonctionnement cinq communautés autogérées, un droit de veto, un double droit de vote et 5 485 électeurs inscrits sur la liste électorale hongroise en 2022.", source: "https://inv.si/en/madzarska-narodna-skupnost/"}
+effectivite: {valeur: "effective", note: "Le Comité consultatif de la Convention-cadre du Conseil de l'Europe constate en 2022 que les minorités hongroise et italienne continuent de bénéficier d'une protection juridique complète (§ 48) ; en 2017 il relevait que le bilinguisme ne fonctionne pas toujours dans les administrations locales et que les procédures judiciaires en hongrois sont traduites plutôt que conduites dans cette langue (§ 70). L'Institut d'études ethniques décrit cinq communautés autogérées en fonctionnement et 5 485 électeurs inscrits sur la liste électorale hongroise en 2022.", source: "https://rm.coe.int/5th-op-slovenia-fr/1680a830d9"}
 chronologie:
   - {annee: 1991, evenement: "Constitution de la Slovénie : art. 5, 11, 64 et 80."}
   - {annee: 1994, evenement: "Loi sur les communautés nationales autogérées."}
+  - {annee: 2002, evenement: "Dernier recensement relevant l'appartenance nationale : 6 243 personnes déclarées de nationalité hongroise."}
+  - {annee: 2022, evenement: "Cinquième avis du Comité consultatif de la Convention-cadre sur la Slovénie."}
+  - {annee: 2026, evenement: "Élections législatives du 22 mars : un siège reste réservé à la communauté hongroise."}
 fiabilite:
-  verifie: ["Constitution, art. 5, 11, 64 et 80 (Constitute Project).", "CERD/C/SVN/CO/8-11, § 10.", "Données de l'Institut d'études ethniques : localités, recensement de 2002, écoles, liste électorale de 2022."]
-  non_confirme: ["Texte de la loi de 1994 sur les communautés nationales autogérées non consulté directement ; son contenu est tiré de Compendium of Cultural Policies.", "L'Institut estime la population hongroise actuelle de l'aire bilingue entre 3 800 et 4 000 personnes."]
+  verifie: ["Constitution, art. 5, 11, 64 et 80 (Constitute Project).", "CERD/C/SVN/CO/8-11, § 10.", "Données de l'Institut d'études ethniques : 30 localités, cinq communautés autogérées, recensement de 2002, écoles en 2022-2023, liste électorale de 2022.", "Cinquième avis du Comité consultatif de la Convention-cadre (2022), § 33, 48 et 75 ; quatrième avis (2017), § 21 et 70.", "Élections législatives du 22 mars 2026 : sièges réservés aux communautés italienne et hongroise maintenus (Wikipédia)."]
+  non_confirme: ["Texte de la loi de 1994 sur les communautés nationales autogérées non consulté directement ; son contenu est tiré de Compendium of Cultural Policies.", "L'Institut estime la population hongroise actuelle de l'aire bilingue entre 3 800 et 4 000 personnes ; aucun recensement ne le confirme.", "Surface de l'aire d'implantation : non trouvée.", "Nom du député de la communauté hongroise élu en 2026 et résultats de la circonscription : non consultés sur le site de la Commission électorale.", "Observations du CERD postérieures à 2016 : non consultées."]
 sources:
   - {titre: "Constitution de la Slovénie — Constitute Project", url: "https://www.constituteproject.org/constitution/Slovenia_2021"}
   - {titre: "CERD/C/SVN/CO/8-11 (2016) — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g16/003/44/pdf/g1600344.pdf"}
   - {titre: "Hungarian national community — Institut d'études ethniques (Ljubljana)", url: "https://inv.si/en/madzarska-narodna-skupnost/"}
   - {titre: "Slovenia 2.6 — Compendium of Cultural Policies and Trends", url: "https://www.culturalpolicies.net/country_profile/slovenia-2-6/"}
+  - {titre: "Cinquième avis sur la Slovénie (2022) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/5th-op-slovenia-fr/1680a830d9"}
+  - {titre: "Fourth Opinion on Slovenia (2017) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/fourth-opinion-on-slovenia-adopted-on-21-june-2017/16807843c7"}
+  - {titre: "2026 Slovenian parliamentary election — Wikipedia", url: "https://en.wikipedia.org/wiki/2026_Slovenian_parliamentary_election"}
   - {titre: "About the Office for National Minorities — Gouvernement slovène", url: "https://www.gov.si/en/state-authorities/government-offices/government-office-for-national-minorities/about-the-office-of-the-government-for-national-minorities/"}

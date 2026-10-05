@@ -10,8 +10,8 @@ base: "territoriale"
 types_secondaires: []
 population: {valeur: 2087746, annee: 2025, perimetre: "projection au 1er juillet 2025 de la population des États du Nil Bleu (923 428) et du Kordofan du Sud (1 164 318), mise à jour COD-PS 2025 (jeu de données de population commun aux opérations humanitaires) du FNUAP, établie à partir du recensement de 2008 et intégrant les déplacements internes (OIM) et les réfugiés (HCR) ; hors Kordofan de l'Ouest", source: "https://data.humdata.org/dataset/cod-ps-sdn"}
 lieux: {valeur: 24, unite: "localités (mahaliyat, circonscriptions administratives) : 7 au Nil Bleu, 17 au Kordofan du Sud", annee: 2024, source: "https://data.humdata.org/dataset/cod-ps-sdn"}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: 117496, annee: 2020, perimetre: "superficie des États du Nil Bleu (38 165 km²) et du Kordofan du Sud (79 331 km²) dans le jeu COD-AB du Soudan (limites administratives communes aux opérations humanitaires, limites valides au 31 août 2020) ; hors Kordofan de l'Ouest", source: "https://data.humdata.org/dataset/cod-ab-sdn"}
+villages: {valeur: 1414, annee: 2020, perimetre: "localités recensées dans le jeu de données des localités d'OCHA Soudan (juillet 2020) : 486 au Nil Bleu (475 villages, 11 centres administratifs) et 928 au Kordofan du Sud (905 villages, 23 centres administratifs) ; hors Kordofan de l'Ouest ; localités cartographiées, sans garantie d'exhaustivité", source: "https://data.humdata.org/dataset/sudan-settlement-26-july-2020"}
 resume: >-
   Le Kordofan du Sud, qui comprend les monts Nouba, et le Nil Bleu sont deux États du sud du Soudan, frontaliers du Soudan du Sud et, pour le Nil Bleu, de l'Éthiopie. L'accord de Djouba pour la paix au Soudan du 3 octobre 2020, signé par le gouvernement de transition et le Mouvement populaire de libération du Soudan-Nord (SPLM-N) dirigé par Malik Agar, accorde aux « Deux Zones » une autonomie exercée par 61 compétences exclusives, dont le droit de légiférer et d'adopter une constitution d'État, et 40 % des recettes tirées des ressources naturelles et des impôts pendant dix ans. Le décret constitutionnel n° 9 de 2021 du président du Conseil de souveraineté accorde l'autonomie prévue par l'accord. La faction du SPLM-N dirigée par Abdelaziz al-Hilu, implantée au Kordofan du Sud, n'a pas signé l'accord, et la guerre ouverte en avril 2023 rend l'application du régime incertaine.
 reconnaissance_regionale: []
@@ -51,8 +51,9 @@ fiabilite:
   non_confirme:
     - "Texte du décret n° 9 de 2021 non consulté ; sa date exacte reste à vérifier."
     - "Mise en place effective des conseils législatifs d'État et adoption de constitutions d'État : aucune source trouvée."
-    - "Surface des deux États : aucune source officielle ouverte."
+    - "Surface des deux États : superficie calculée dans le jeu de limites COD-AB ; aucune superficie publiée par le Bureau central de la statistique du Soudan n'a été consultée."
     - "Statut de l'accord après le coup d'État d'octobre 2021 et pendant la guerre ouverte en avril 2023."
+    - "Nombre de localités : jeu de données cartographique d'OCHA (2020), antérieur aux déplacements de population liés à la guerre de 2023."
 sources:
   - {titre: "Juba Agreement for Peace in Sudan — version officielle anglaise (PA-X, Université d'Édimbourg)", url: "https://www.peaceagreements.org/media/documents/ag2325_603fc8e9cece1.PDF"}
   - {titre: "Zaid Al-Ali, The Juba Agreement for Peace in Sudan: Summary and Analysis, International IDEA, 2021", url: "https://www.idea.int/sites/default/files/publications/the-juba-agreement-for-peace-in-sudan-en.pdf"}

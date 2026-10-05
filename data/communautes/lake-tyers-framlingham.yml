@@ -8,7 +8,7 @@ coord: [-37.8, 148.1]
 type: "peuple_autochtone"
 types_secondaires: []
 base: "mixte"
-population: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 191, annee: 2021, perimetre: "résidents des deux anciennes réserves, actionnaires ou non, selon l'annexe B du rapport de révision de 2021 : environ 120 à 130 à Lake Tyers (date non précisée) et 71 à Framlingham (décembre 2017) ; valeur = 120 + 71, borne basse", source: "https://www.firstpeoplesrelations.vic.gov.au/sites/default/files/2023-10/Final-report-for-the-review-of-the-Act.pdf"}
 lieux: {valeur: 2, unite: "anciennes réserves attribuées en pleine propriété à une fiducie (trust) : Lake Tyers et Framlingham", annee: 2026, source: "https://www.legislation.vic.gov.au/in-force/acts/aboriginal-lands-act-1970/1970"}
 surface_km2: {valeur: 19, annee: 2021, perimetre: "terres des deux anciennes réserves détenues par les fiducies : environ 4 000 acres à Lake Tyers et environ 694 acres à Framlingham selon le rapport de révision de 2021 (conversion : 16,2 + 2,8 km²), après la cession d'une partie de Framlingham en 2002 ; hors autres biens acquis par la fiducie de Framlingham", source: "https://www.firstpeoplesrelations.vic.gov.au/sites/default/files/2023-10/Final-report-for-the-review-of-the-Act.pdf"}
 villages: {valeur: 2, annee: 2021, perimetre: "établissements habités sur les anciennes réserves : Lake Tyers (environ 45 logements) et Framlingham (environ 17 logements)", source: "https://www.firstpeoplesrelations.vic.gov.au/sites/default/files/2023-10/Final-report-for-the-review-of-the-Act.pdf"}

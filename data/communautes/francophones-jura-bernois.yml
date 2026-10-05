@@ -10,7 +10,7 @@ base: "mixte"
 types_secondaires: []
 population: {valeur: 47003, annee: 2025, perimetre: "population résidante permanente au 31 décembre 2025 de l'arrondissement administratif du Jura bernois (54 056) moins celle de Moutier (7 053), commune passée au canton du Jura le 1er janvier 2026 ; les francophones de l'arrondissement de Biel/Bienne (107 448 habitants toutes langues confondues) ne sont pas comptés", source: "https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-0102010000_101/-/px-x-0102010000_101.px/"}
 lieux: {valeur: 58, unite: "communes : 39 dans l'arrondissement administratif du Jura bernois et 19 dans l'arrondissement administratif de Biel/Bienne", annee: 2026, source: "https://www.agvchapp.bfs.admin.ch/fr/communes/query"}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: 619.79, annee: 2026, perimetre: "arrondissement administratif du Jura bernois (52 211 ha, sans Moutier, rattachée au canton du Jura en 2026) et arrondissement administratif de Biel/Bienne (9 768 ha), limites swissBOUNDARIES3D de swisstopo", source: "https://api3.geo.admin.ch/rest/services/api/MapServer/ch.swisstopo.swissboundaries3d-bezirk-flaeche.fill/241,242?returnGeometry=false"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   La Constitution du canton de Berne du 6 juin 1993 (art. 5) reconnaît un statut particulier au Jura bernois, région francophone du canton, pour préserver son identité et sa particularité linguistique et culturelle. La loi du 13 septembre 2004 sur le statut particulier (LStP), en vigueur depuis le 1er janvier 2006, institue le Conseil du Jura bernois (CJB), 24 membres élus à la proportionnelle, et le Conseil des affaires francophones de l'arrondissement de Biel/Bienne (CAF), 18 membres au plus. Le CJB attribue les subventions culturelles et celles des Fonds de loterie et du sport pour le Jura bernois ; avec le CAF, il décide en matière de coordination scolaire romande. La Constitution garantit au Jura bernois 12 sièges au Grand Conseil (parlement cantonal) et un siège au Conseil-exécutif (gouvernement cantonal). La commune de Moutier a rejoint le canton du Jura le 1er janvier 2026.
@@ -53,7 +53,8 @@ fiabilite:
     - "Adaptation de la LStP au départ de Moutier : la version en vigueur sur BELEX reste celle du 1er mars 2025 ; la Constitution dans sa version du 1er janvier 2026 maintient les 12 mandats garantis."
     - "Effectivité : seule source indépendante ouverte, une encyclopédie collaborative ; pas d'évaluation universitaire ou onusienne trouvée."
     - "Nombre de francophones dans l'arrondissement de Biel/Bienne : statistiques du CAF non dépouillées."
-    - "Surface de l'arrondissement du Jura bernois après le départ de Moutier : pas de source officielle ouverte."
+    - "Surface : somme des surfaces des deux arrondissements (objets 241 et 242 de la couche des arrondissements swissBOUNDARIES3D) ; cette couche n'indique pas d'année ; l'année 2026 est déduite de la couche des communes, où Moutier figure dans le canton du Jura en 2026, et des 52 211 ha du Jura bernois, qui excluent les 1 961 ha de Moutier."
+    - "Nombre de villages : non trouvé."
 sources:
   - {titre: "Constitution du canton de Berne (RSB 101.1) — BELEX", url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/101.1"}
   - {titre: "Loi sur le statut particulier (LStP, RSB 102.1) — BELEX", url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.1"}

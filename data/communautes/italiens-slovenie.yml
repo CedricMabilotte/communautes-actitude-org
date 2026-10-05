@@ -8,12 +8,14 @@ coord: [45.5, 13.7]
 type: "minorite_nationale"
 base: "mixte"
 types_secondaires: []
-population: {valeur: 2258, annee: 2002, perimetre: "personnes déclarées de nationalité italienne en Slovénie, recensement de 2002", source: "https://www.culturalpolicies.net/country_profile/slovenia-2-6/"}
-lieux: {valeur: 4, unite: "communes bilingues (Ankaran, Koper, Izola, Piran)", annee: 2020, source: "https://2014-2020.ita-slo.eu/en/all-news/news/primis-presentation-minority-communities-italian-national-community-slovenia"}
+population: {valeur: 2258, annee: 2002, perimetre: "personnes déclarées de nationalité italienne dans toute la Slovénie, recensement de 2002 (1 840 dans l'aire ethniquement mixte des communes d'Ankaran, Koper, Izola et Piran ; 3 762 personnes de langue maternelle italienne) ; aucun recensement n'a relevé l'appartenance nationale depuis 2002", source: "https://inv.si/en/italjanska-narodna-skupnost/"}
+lieux: {valeur: 4, unite: "communes bilingues (Ankaran, Koper, Izola, Piran), chacune dotée d'une communauté nationale autogérée communale", annee: 2019, source: "https://2014-2020.ita-slo.eu/en/all-news/news/primis-presentation-minority-communities-italian-national-community-slovenia"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
-  La Constitution slovène de 1991 reconnaît la communauté nationale italienne comme communauté autochtone, avec la communauté hongroise. Elle vit sur la côte de l'Istrie slovène, dans les communes de Koper, Izola, Piran et Ankaran. L'article 64 de la Constitution garantit l'éducation dans sa langue, la création de communautés nationales autogérées et un député à l'Assemblée nationale. Chaque commune bilingue a une communauté autogérée de nationalité italienne, coordonnées par la Communauté autogérée côtière (CAN Costiera) de Koper. La communauté italienne de Croatie relève d'un autre régime (fiche « Communauté nationale italienne de Croatie »).
+  La Constitution slovène de 1991 reconnaît la communauté nationale italienne comme communauté autochtone, avec la communauté hongroise. Elle vit sur la côte de l'Istrie slovène, dans les communes de Koper, Izola, Piran et Ankaran. L'article 64 de la Constitution garantit l'éducation dans sa langue, la création de communautés nationales autogérées et un député à l'Assemblée nationale. Chaque commune bilingue a une communauté autogérée de nationalité italienne, coordonnées par la Communauté autogérée côtière (CAN Costiera) de Koper. La communauté hongroise relève du même régime constitutionnel (fiche « Communauté nationale hongroise de Slovénie ») ; la communauté italienne de Croatie relève d'un autre régime (fiche « Communauté nationale italienne de Croatie »).
+reconnaissance_regionale:
+  - {mecanisme: "conseil_europe_fcnm", detail: "Cinquième avis du Comité consultatif de la Convention-cadre pour la protection des minorités nationales sur la Slovénie, adopté le 18 mai 2022 : les minorités hongroise et italienne « continuent de bénéficier d'une protection juridique complète » (§ 48) ; crédits de 356 191 € pour le programme culturel italien en 2021 (§ 75).", annee: 2022, source: "https://rm.coe.int/5th-op-slovenia-fr/1680a830d9"}
 reconnaissance_onu:
   - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale sur la Slovénie (CERD/C/SVN/CO/8-11), § 10 : le Comité distingue les minorités italienne et hongroise, représentées au Parlement, des autres minorités.", annee: 2016, source: "https://documents.un.org/doc/undoc/gen/g16/003/44/pdf/g1600344.pdf"}
 base_nationale:
@@ -32,16 +34,24 @@ droits:
   representation: {valeur: "reconnu", note: "Un député de la communauté italienne est toujours élu à l'Assemblée nationale, Constitution, art. 80 ; représentation directe dans les conseils municipaux, art. 64, al. 3.", source: "https://www.constituteproject.org/constitution/Slovenia_2021"}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "effective", note: "Le programme européen Interreg Italie-Slovénie (PRIMIS) décrit quatre communautés autogérées de nationalité italienne en fonctionnement, coordonnées par la CAN Costiera, et une représentation politique au niveau national et local.", source: "https://2014-2020.ita-slo.eu/en/all-news/news/primis-presentation-minority-communities-italian-national-community-slovenia"}
+effectivite: {valeur: "effective", note: "Le Comité consultatif de la Convention-cadre du Conseil de l'Europe constate en 2022 que l'enseignement en italien est proposé à tous les niveaux et que les entités de droit public des communes concernées sont tenues de communiquer en italien sur demande (§ 123) ; il relève des lacunes dans la pratique et recommande de recruter davantage de fonctionnaires maîtrisant l'italien et le hongrois. Le siège réservé à la communauté italienne à l'Assemblée nationale a été pourvu aux élections du 22 mars 2026.", source: "https://rm.coe.int/5th-op-slovenia-fr/1680a830d9"}
 chronologie:
   - {annee: 1991, evenement: "Constitution de la Slovénie : art. 5, 11, 64 et 80."}
   - {annee: 1994, evenement: "Loi sur les communautés nationales autogérées."}
+  - {annee: 2002, evenement: "Dernier recensement relevant l'appartenance nationale : 2 258 personnes de nationalité italienne."}
+  - {annee: 2022, evenement: "Cinquième avis du Comité consultatif de la Convention-cadre du Conseil de l'Europe sur la Slovénie."}
+  - {annee: 2026, evenement: "Élections législatives du 22 mars : Felice Žiža est élu au siège réservé à la communauté italienne."}
 fiabilite:
-  verifie: ["Constitution, art. 5, 11, 64 et 80 (Constitute Project).", "CERD/C/SVN/CO/8-11, § 10.", "Communes d'implantation et structure autogérée (PRIMIS, Interreg Italie-Slovénie)."]
-  non_confirme: ["Population : la source indique « recensement de 2001 » ; le même document donne 6 243 Hongrois, chiffre que l’Institut d’études ethniques attribue au recensement de 2002.", "Texte de la loi de 1994 sur les communautés nationales autogérées non consulté directement.", "Nombre d'écoles bilingues ou italiennes non vérifié."]
+  verifie: ["Constitution, art. 5, 11, 64 et 80 (Constitute Project).", "CERD/C/SVN/CO/8-11, § 10.", "Recensement de 2002 : 2 258 personnes de nationalité italienne (Office statistique de Slovénie, tableau 7) ; 1 840 dans l'aire ethniquement mixte (Institut d'études ethniques).", "Communes d'implantation, communautés autogérées communales et CAN Costiera (PRIMIS, Interreg Italie-Slovénie ; Institut d'études ethniques).", "Cinquième avis du Comité consultatif de la Convention-cadre (2022), § 33, 48, 75 et 123.", "Élections législatives du 22 mars 2026 et élection de Felice Žiža au siège de la communauté italienne (Wikipédia)."]
+  non_confirme: ["Texte de la loi de 1994 sur les communautés nationales autogérées non consulté directement ; son adoption est tirée de Compendium of Cultural Policies.", "Nombre de villages : non trouvé.", "Surface de l'aire ethniquement mixte : non trouvée.", "Nombre d'écoles italiennes non vérifié.", "Observations du CERD postérieures à 2016 : non consultées.", "Résultats officiels de 2026 non consultés sur le site de la Commission électorale."]
 sources:
   - {titre: "Constitution de la Slovénie — Constitute Project", url: "https://www.constituteproject.org/constitution/Slovenia_2021"}
   - {titre: "CERD/C/SVN/CO/8-11 (2016) — Nations unies", url: "https://documents.un.org/doc/undoc/gen/g16/003/44/pdf/g1600344.pdf"}
   - {titre: "PRIMIS — Presentation of minority communities: the Italian National Community in Slovenia — Interreg Italie-Slovénie", url: "https://2014-2020.ita-slo.eu/en/all-news/news/primis-presentation-minority-communities-italian-national-community-slovenia"}
   - {titre: "Slovenia 2.6 — Compendium of Cultural Policies and Trends", url: "https://www.culturalpolicies.net/country_profile/slovenia-2-6/"}
+  - {titre: "Italian community in Slovenia — Institut d'études ethniques (Ljubljana)", url: "https://inv.si/en/italjanska-narodna-skupnost/"}
+  - {titre: "Population by ethnic affiliation, Census 2002 — Office statistique de Slovénie", url: "https://www.stat.si/popis2002/en/rezultati_html/SLO-T-07ENG.htm"}
+  - {titre: "Cinquième avis sur la Slovénie (2022) — Comité consultatif de la Convention-cadre, Conseil de l'Europe", url: "https://rm.coe.int/5th-op-slovenia-fr/1680a830d9"}
+  - {titre: "2026 Slovenian parliamentary election — Wikipedia", url: "https://en.wikipedia.org/wiki/2026_Slovenian_parliamentary_election"}
+  - {titre: "List of members of the 10th National Assembly of Slovenia — Wikipedia", url: "https://en.wikipedia.org/wiki/List_of_members_of_the_10th_National_Assembly_of_Slovenia"}
   - {titre: "About the Office for National Minorities — Gouvernement slovène", url: "https://www.gov.si/en/state-authorities/government-offices/government-office-for-national-minorities/about-the-office-of-the-government-for-national-minorities/"}

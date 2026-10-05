@@ -10,8 +10,8 @@ base: "territoriale"
 types_secondaires: []
 population: {valeur: 5425182, annee: 2025, perimetre: "population résidente de la Communauté valencienne au 1er janvier 2025 (Statistique continue de population, INE)", source: "https://www.ine.es/jaxiT3/Tabla.htm?t=56940"}
 lieux: {valeur: 3, unite: "provinces (Alicante, Castellón, Valencia)", annee: 2006, source: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-17235"}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: 23265.23, annee: 2025, perimetre: "superficie de la Communauté valencienne (Nomenclátor geográfico de municipios y entidades de población, Institut géographique national, révision du 23 octobre 2025)", source: "https://www.ign.es/resources/ane/Informacion_Geografica_Destacada/IGN_INFOGEO_CCAA.xlsx"}
+villages: {valeur: 542, annee: 2026, perimetre: "communes (municipios) des provinces d'Alicante, Castellón et Valencia au 1er janvier 2026 (relation des communes de l'INE) ; les entités singulières de population (hameaux, localités) ne sont pas comptées", source: "https://www.ine.es/daco/daco42/codmun/diccionario26.xlsx"}
 resume: >-
   Le Statut d'autonomie de 1982 (loi organique 5/1982), réformé en 2006 (loi organique 1/2006), constitue le « peuple valencien » en Communauté autonome ; la réforme de 2006 le qualifie de nationalité historique. Les Corts valencianes (Parlement régional) exercent le pouvoir législatif et votent le budget de la Generalitat. Le valencien est langue propre et officielle avec le castillan ; la loi 4/1983 délimite des communes de prédominance linguistique valencienne et castillane. Le Statut prévoit la récupération du droit foral (droit historique propre) du royaume de Valence ; le Tribunal constitutionnel a annulé en 2016 la loi valencienne sur le régime matrimonial.
 reconnaissance_regionale:
@@ -47,7 +47,7 @@ chronologie:
   - {annee: 2024, evenement: "Loi 1/2024 du 27 juin sur la liberté éducative : choix de la langue de base par les familles, abrogation de la loi 4/2018 sur le plurilinguisme."}
 fiabilite:
   verifie: ["Statut, texte consolidé au BOE : art. 1, 2, 3, 6, 7, 20 à 24, 33, 36, 37, 49, 50, 52.4, 53, 67, 69, 72, 81 et disposition transitoire cinquième.", "Article 1 du texte initial de 1982 (BOE) : « peuple valencien » déjà présent.", "Loi 1/2024, art. 9, 14 et disposition abrogatoire (BOE, texte consolidé).", "Loi 4/1983, art. 18, 35 et 36 (BOE, texte consolidé).", "Dispositif de l'arrêt 82/2016 (BOE).", "Population au 1er janvier 2025 (INE, tableau 56940, série ECP115493).", "Mention du valencien dans le communiqué du Conseil de l'Europe du 24 septembre 2024."]
-  non_confirme: ["Surface de la Communauté non relevée sur une source statistique ouverte.", "Nombre de communes et d'entités de population non relevé sur une source ouverte.", "Les arrêts ultérieurs du Tribunal constitutionnel sur d'autres lois civiles valenciennes (unions de fait, garde partagée) n'ont pas été vérifiés.", "Le texte consolidé de la loi 4/1983 au BOE n'intègre aucune modification ; son article 18 n'a pas été confronté au journal officiel valencien (DOGV)."]
+  non_confirme: ["Nombre d'entités singulières de population (hameaux, localités) : non trouvé.", "Les arrêts ultérieurs du Tribunal constitutionnel sur d'autres lois civiles valenciennes (unions de fait, garde partagée) n'ont pas été vérifiés.", "Le texte consolidé de la loi 4/1983 au BOE n'intègre aucune modification ; son article 18 n'a pas été confronté au journal officiel valencien (DOGV)."]
 sources:
   - {titre: "Loi organique 5/1982, Statut d'autonomie de la Communauté valencienne (texte consolidé) — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-17235"}
   - {titre: "Loi 4/1983 sur l'usage et l'enseignement du valencien — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-1851"}

@@ -1,5 +1,5 @@
 uid: "comunidades-nativas-perou"
-nom: "Communautés natives d'Amazonie péruvienne"
+nom: "Communautés natives du Pérou"
 endonyme: ""
 territoire: "Amazonie péruvienne"
 etats: ["Pérou"]
@@ -8,12 +8,12 @@ coord: [-8.0, -75.0]
 type: "peuple_autochtone"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: null, annee: null, perimetre: "habitants des communautés natives ; total non relevé dans le tome ouvert du recensement 2017", source: ""}
-lieux: {valeur: 2703, unite: "communautés natives recensées, rattachées à 44 peuples autochtones", annee: 2017, source: "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1598/TOMO_01.pdf"}
-surface_km2: {valeur: null, annee: null, perimetre: "surface titrée des communautés natives ; non trouvée dans une source officielle ouverte", source: ""}
-villages: {valeur: 2703, annee: 2017, perimetre: "communautés natives recensées en 2017 (recensement des communautés autochtones de l'Amazonie), rattachées à 44 peuples", source: "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1598/TOMO_01.pdf"}
+population: {valeur: 197667, annee: 2017, perimetre: "personnes recensées en 2017 qui se déclarent membres d'un peuple amazonien (Asháninka, Awajún, Shipibo et autres), d'après IWGIA ; compte aussi des personnes vivant hors des communautés natives ; IWGIA signale un sous-enregistrement en Amazonie ; la population résidant dans les communautés natives n'a pas été trouvée", source: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2026.pdf"}
+lieux: {valeur: 3003, unite: "communautés natives répertoriées par le SICNA de l'Instituto del Bien Común (2 286 titrées, 560 inscrites en attente de titre, 157 en attente d'inscription) ; le recensement de 2017 en comptait 2 703, dont 2 425 reconnues par une entité publique", annee: 2024, source: "https://ibcperu.org/mapa-del-ibc-territorios-indigenas-y-areas-naturales-protegidas-en-peru-2024-se-encuentra-a-disposicion-del-publico"}
+surface_km2: {valeur: 185906, annee: 2024, perimetre: "« superficie légale » des 3 003 communautés natives répertoriées par l'Instituto del Bien Común (18 590 565 ha) ; en 2016, la même base comptait 121 594 km² titrés pour 1 365 communautés", source: "https://ibcperu.org/mapa-del-ibc-territorios-indigenas-y-areas-naturales-protegidas-en-peru-2024-se-encuentra-a-disposicion-del-publico"}
+villages: {valeur: 2703, annee: 2017, perimetre: "communautés natives recensées en 2017, chacune comptée comme une localité ; 241 d'entre elles déclarent des annexes ou hameaux (anexos o caseríos) dont le nombre n'est pas publié", source: "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1598/TOMO_01.pdf"}
 resume: >-
-  Fiche agrégée. La Constitution péruvienne de 1993 donne aux « comunidades campesinas y nativas » une existence légale et la personnalité juridique ; elles sont autonomes dans leur organisation, le travail communal, l'usage et la libre disposition de leurs terres. Leurs autorités peuvent exercer des fonctions juridictionnelles selon le droit coutumier. Le recensement de 2017 compte 2 703 communautés natives amazoniennes appartenant à 44 peuples ; 77,1 % des communautés reconnues ont un titre de propriété. Les communautés paysannes andines, régies par les mêmes articles, et les réserves communales cogérées par des communautés natives ont leur propre fiche (« Communautés paysannes du Pérou », « Réserves communales du Pérou »).
+  Fiche agrégée. La Constitution péruvienne de 1993 donne aux « comunidades campesinas y nativas » une existence légale et la personnalité juridique ; elles sont autonomes dans leur organisation, le travail communal, l'usage et la libre disposition de leurs terres. Leurs autorités peuvent exercer des fonctions juridictionnelles selon le droit coutumier. Le recensement de 2017 compte 2 703 communautés natives amazoniennes appartenant à 44 peuples ; 77,1 % des 2 425 communautés reconnues ont un titre de propriété. En 2024, l'Instituto del Bien Común en répertorie 3 003, dont 2 286 titrées. Les communautés paysannes andines, régies par les mêmes articles, et les réserves communales cogérées par des communautés natives ont leur propre fiche (« Communautés paysannes du Pérou », « Réserves communales du Pérou ») ; les rondes paysannes citées à l'article 149 aussi (« Rondes paysannes du Pérou »).
 reconnaissance_regionale: []
 reconnaissance_onu:
   - {mecanisme: "oit_169", detail: "Le Pérou ratifie la Convention 169 de l'OIT le 2 février 1994 ; la loi 29785 de 2011 organise la consultation préalable qu'elle prévoit.", annee: 1994, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
@@ -28,25 +28,32 @@ droits:
   justice_propre: {valeur: "partiel", note: "Les autorités des communautés, avec l'appui des rondes paysannes, exercent des fonctions juridictionnelles selon le droit coutumier sur leur territoire, sans violer les droits fondamentaux (Constitution, art. 149).", source: "https://cdn.www.gob.pe/uploads/document/file/198518/Constitucion_Politica_del_Peru_1993.pdf?v=1594239946"}
   terres: {valeur: "partiel", note: "La propriété des terres communales est imprescriptible, sauf abandon (Constitution, art. 89) ; l'article 89 ne les déclare pas inaliénables.", source: "https://cdn.www.gob.pe/uploads/document/file/198518/Constitucion_Politica_del_Peru_1993.pdf?v=1594239946"}
   ressources: {valeur: "non_etabli", note: "", source: ""}
-  consentement: {valeur: "partiel", note: "La loi 29785 (2011) impose la consultation préalable des peuples autochtones ; l'entité publique prend la décision finale, motivée au regard des droits collectifs.", source: "https://faolex.fao.org/docs/pdf/per198478.pdf"}
+  consentement: {valeur: "partiel", note: "La loi 29785 (2011) impose la consultation préalable des peuples autochtones ; l'entité publique prend la décision finale, motivée au regard des droits collectifs. Le Tribunal constitutionnel qualifie la consultation préalable de droit fondamental (sentence 88/2025).", source: "https://faolex.fao.org/docs/pdf/per198478.pdf"}
   langue: {valeur: "partiel", note: "Dans les zones où elles prédominent, le quechua, l'aymara et les autres langues autochtones sont langues officielles aux côtés de l'espagnol (Constitution, art. 48).", source: "https://cdn.www.gob.pe/uploads/document/file/198518/Constitucion_Politica_del_Peru_1993.pdf?v=1594239946"}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "partielle", note: "En 2017, 22,8 % des communautés natives reconnues n'ont pas de titre de propriété sur leurs terres ; la proportion dépasse 30 % chez les Shawi, Kukama Kukamiria et Kichwa.", source: "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1598/TOMO_01.pdf"}
+effectivite: {valeur: "partielle", note: "Selon l'Instituto del Bien Común (2025), 717 des 3 003 communautés natives n'ont pas de titre de propriété (560 inscrites, 157 non inscrites). IWGIA (2026) relève que les concessions minières recouvrent 35 % du territoire des communautés paysannes et natives et signale l'absence de consultation préalable effective. En 2025, le Tribunal constitutionnel annule deux dispositions de la loi 31973 (2024) sur les forêts, adoptées sans consultation des peuples concernés.", source: "https://ibcperu.org/mapa-del-ibc-territorios-indigenas-y-areas-naturales-protegidas-en-peru-2024-se-encuentra-a-disposicion-del-publico"}
 chronologie:
   - {annee: 1978, evenement: "Décret-loi 22175 sur les communautés natives."}
   - {annee: 1993, evenement: "Constitution : art. 89 (autonomie, terres imprescriptibles) et art. 149 (juridiction communale)."}
   - {annee: 2011, evenement: "Loi 29785 sur la consultation préalable."}
-  - {annee: 2017, evenement: "III recensement des communautés natives : 2 703 communautés."}
+  - {annee: 2017, evenement: "IIIe recensement des communautés natives : 2 703 communautés."}
+  - {annee: 2024, evenement: "Loi 31973 modifiant la loi forestière 29763 (11 janvier)."}
+  - {annee: 2025, evenement: "Sentence 88/2025 du Tribunal constitutionnel : deux dispositions transitoires de la loi 31973 déclarées inconstitutionnelles, notamment faute de consultation préalable."}
 fiabilite:
-  verifie: ["Articles 48, 89 et 149 de la Constitution de 1993 (texte publié par l'État).", "Nombre de communautés, de peuples et taux de titrage (INEI 2017, tome 1).", "Étape de décision de la consultation (guide méthodologique du ministère de la Culture)."]
-  non_confirme: ["Texte du décret-loi 22175 (PDF image non lisible) ; son contenu n'est pas utilisé dans la grille.", "Population totale des communautés natives et surface titrée."]
+  verifie: ["Articles 48, 89 et 149 de la Constitution de 1993 (texte publié par l'État).", "Nombre de communautés, de peuples et taux de titrage (INEI 2017, tome 1).", "Communautés répertoriées, titrées et superficie légale (Instituto del Bien Común, 2025).", "Sentence 88/2025 du Tribunal constitutionnel (texte publié par le tribunal).", "Vote du Pérou sur la résolution 61/295 (bibliothèque numérique de l'ONU).", "Étape de décision de la consultation (guide méthodologique du ministère de la Culture)."]
+  non_confirme: ["Texte du décret-loi 22175 (PDF image non lisible) ; son contenu n'est pas utilisé dans la grille.", "Population résidant dans les communautés natives : non trouvée ; le chiffre retenu porte sur l'auto-identification ethnique.", "Superficie : l'Instituto del Bien Común ne précise pas si la « superficie légale » couvre les seules communautés titrées.", "Nombre de villages : les annexes et hameaux rattachés aux communautés ne sont pas dénombrés."]
 sources:
   - {titre: "Constitution politique du Pérou (1993) — gob.pe", url: "https://cdn.www.gob.pe/uploads/document/file/198518/Constitucion_Politica_del_Peru_1993.pdf?v=1594239946"}
   - {titre: "III Censo de Comunidades Nativas 2017, tome 1 — INEI", url: "https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1598/TOMO_01.pdf"}
   - {titre: "Consulta a los Pueblos Indígenas : Guía metodológica (loi 29785 et règlement) — ministère de la Culture, via FAOLEX", url: "https://faolex.fao.org/docs/pdf/per198478.pdf"}
+  - {titre: "Mapa Territorios Indígenas y Áreas Naturales Protegidas en Perú 2024 — Instituto del Bien Común", url: "https://ibcperu.org/mapa-del-ibc-territorios-indigenas-y-areas-naturales-protegidas-en-peru-2024-se-encuentra-a-disposicion-del-publico"}
+  - {titre: "The Indigenous World 2026, chapitre Pérou — IWGIA", url: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2026.pdf"}
+  - {titre: "Sentence 88/2025, exp. 00002-2024-PI/TC (loi 31973) — Tribunal constitutionnel", url: "https://www.tc.gob.pe/jurisprudencia/2025/00002-2024-AI.pdf"}
+  - {titre: "Tierras comunales : el estado de las comunidades indígenas en el Perú, informe 2016 — Instituto del Bien Común", url: "https://ibcperu.org/wp-content/uploads/2016/05/Informe-2016-TIERRAS-COMUNALES_lg.pdf"}
+  - {titre: "Résolution 61/295, vote — Bibliothèque numérique des Nations unies", url: "https://digitallibrary.un.org/record/609197"}
   - {titre: "Décret-loi 22175 — Congrès de la République", url: "https://www.leyes.congreso.gob.pe/Documentos/Leyes/22175.pdf"}
   - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}

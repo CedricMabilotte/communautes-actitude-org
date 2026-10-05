@@ -54,6 +54,8 @@ fiabilite:
     - "Effectivité à Cedeira : seules des sources de l'administration régionale ont été consultées."
     - "Nombre de pêcheurs et de ramasseurs inscrits aux recensements : listes annexées aux plans, non dénombrées."
     - "Aucun document de l'ONU (CDB, FAO) ou du Conseil de l'Europe visant nommément ces réserves n'a été trouvé."
+    - "Population : non trouvée ; les plans de gestion 2024-2026 recensent des embarcations (34 habilitées pour le pouce-pied à Cedeira), non des personnes."
+    - "Nombre de villages : non trouvé."
 sources:
   - {titre: "Decreto 28/2009 por el que se crea la reserva marina de interés pesquero Ría de Cedeira — DOG", url: "https://www.xunta.gal/dog/Publicados/2009/20090217/AnuncioA442_es.html"}
   - {titre: "Decreto 241/2008 por el que se modifica el Decreto 87/2007, reserva marina de interés pesquero Os Miñarzos — DOG", url: "https://www.xunta.gal/dog/Publicados/2008/20081029/Anuncio40382_es.html"}

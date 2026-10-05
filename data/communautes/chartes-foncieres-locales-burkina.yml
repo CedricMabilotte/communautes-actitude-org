@@ -8,7 +8,7 @@ coord: [12.3, -1.6]
 type: "communaute_locale"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 15145043, annee: 2019, perimetre: "population résidente du milieu rural au 5e recensement général de la population et de l'habitation (RGPH 2019) ; le rapport ne définit pas le milieu rural et ce périmètre ne coïncide pas nécessairement avec les terres rurales régies par la loi n° 034-2009", source: "https://www.insd.bf/fr/file-download/download/public/2071"}
 lieux: {valeur: 19, unite: "communes dotées d'une charte foncière locale validée en conseil municipal (données de fin mars 2014, sur 48 communes où les structures locales de la loi étaient en place)", annee: 2014, source: "https://www.foncier-developpement.fr/wp-content/uploads/Fiche-pays-5_Burkina-Faso2.pdf"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
 villages: {valeur: 1127, annee: 2013, perimetre: "villages dotés d'une commission foncière villageoise dans les 48 communes où les structures locales de la loi étaient en place ; 995 commissions de conciliation foncière villageoises y étaient installées", source: "https://www.foncier-developpement.fr/wp-content/uploads/Fiche-pays-5_Burkina-Faso2.pdf"}
@@ -51,6 +51,7 @@ fiabilite:
     - "Mention de la loi de 2009 dans le quatrième rapport national à la Convention sur la diversité biologique."
     - "Nombre d'APFR délivrées en 2014 : 140 selon la fiche pays, 143 selon la note de synthèse n° 15 ; la fiche retient 140."
   non_confirme:
+    - "Surface des terres rurales : non trouvée ; seule la superficie nationale (272 969 km²) est donnée par le rapport du RGPH 2019."
     - "Nombre actuel de chartes foncières locales et d'APFR collectives : aucune donnée publiée après 2014 trouvée ; une communication présentée en 2023 compte 21 291 APFR en 2020, procès-verbaux de constatation de possession foncière compris, sans distinguer APFR individuelles et collectives."
     - "Textes des décrets n° 2010-404 et n° 2012-263 non consultés : leur intitulé et la présidence des commissions foncières villageoises par les chefs coutumiers sont repris de sources secondaires (fiche pays, note de synthèse n° 15)."
     - "Modification éventuelle de la loi n° 034-2009 après 2023 non vérifiée ; aucune liste officielle des chartes par commune n'a été trouvée, d'où l'absence de tableau."

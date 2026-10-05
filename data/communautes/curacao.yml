@@ -11,7 +11,7 @@ base: "territoriale"
 population: {valeur: 158006, annee: 2026, perimetre: "population inscrite au registre de la population (Kranshi) au 1er janvier 2026", source: "https://cuatro.sim-cdn.nl/cbscuracao/uploads/Population%20of%20Cura%C3%A7ao%20per%20January%201st%202026.pdf?cb=rc5PK3Kr"}
 lieux: {valeur: 2, unite: "îles (Curaçao et Klein Curaçao)", annee: 2010, source: "https://algemenerekenkamercuracao.cw/wp-content/uploads/2023/09/staatsregeling_curacao__ab_2010_no__86__1475286399.pdf"}
 surface_km2: {valeur: 444, annee: 2024, perimetre: "île de Curaçao ; Klein Curaçao, inhabitée, couvre 1,7 km²", source: "https://www.axl.cefan.ulaval.ca/amsudant/Curacao.htm"}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 314, annee: 2023, perimetre: "quartiers (buurten) de l'île de Curaçao ayant une population au recensement de 2023, regroupés en 61 zones (GeoZones) ; décompte des quartiers de la visionneuse par quartier du Bureau central de la statistique (CBS Curaçao) ; Klein Curaçao, inhabitée, n'y figure pas", source: "https://cbs-curacao.github.io/ndv-static-site/"}
 resume: >-
   Curaçao est l'un des quatre pays (landen) du Royaume des Pays-Bas depuis le 10 octobre 2010, date de la dissolution des Antilles néerlandaises. Le Statut du Royaume (art. 41) lui confie la gestion autonome de ses propres affaires ; la défense, les relations extérieures et la nationalité restent des affaires du Royaume (art. 3). La Staatsregeling (constitution du pays, AB 2010, n° 86) institue un Parlement de vingt et un membres (Staten) et un gouvernement propre, et son préambule déclare « absolu et inaliénable » le droit à l'autodétermination du peuple de Curaçao.
 reconnaissance_regionale: []

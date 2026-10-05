@@ -9,7 +9,7 @@ type: "communaute_locale"
 types_secondaires: []
 base: "territoriale"
 population: {valeur: null, annee: null, perimetre: "", source: ""}
-lieux: {valeur: 124, unite: "forêts communautaires sous convention (85 conventions définitives et 39 conventions provisoires), sans compter 45 décisions de réservation", annee: 2024, source: "https://www.gabonreview.com/enquete-la-foresterie-communautaire-une-realite-a-double-facette-au-gabon-et-en-rdc/"}
+lieux: {valeur: 124, unite: "forêts communautaires sous convention (85 conventions définitives et 39 conventions provisoires), sans compter 45 décisions de réservation", annee: 2024, perimetre: "conventions recensées par Gabonreview en février 2024 ; le tableau compte 80 lignes, soit les forêts notées définitives (41) ou provisoires (39) dans la couche cartographique de 2023 de l'atlas forestier ; les deux sources, de dates différentes, ne concordent pas (écart de 44 forêts)", source: "https://www.gabonreview.com/enquete-la-foresterie-communautaire-une-realite-a-double-facette-au-gabon-et-en-rdc/"}
 surface_km2: {valeur: 7500, annee: 2024, perimetre: "plus de 750 000 ha selon Gabonreview, conventions définitives, conventions provisoires et décisions de réservation confondues", source: "https://www.gabonreview.com/enquete-la-foresterie-communautaire-une-realite-a-double-facette-au-gabon-et-en-rdc/"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-

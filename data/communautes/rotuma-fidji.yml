@@ -8,18 +8,18 @@ coord: [-12.5, 177.1]
 type: "peuple_autochtone"
 types_secondaires: ["collectivite_insulaire_ou_regionale"]
 base: "territoriale"
-population: {valeur: 10335, annee: 2017, perimetre: "personnes recensées comme Rotumans dans tout Fidji (1,2 % de la population), dont une minorité réside sur l'île", source: "https://minorityrights.org/country/fiji-islands/"}
-lieux: {valeur: 7, unite: "districts coutumiers", annee: 2016, source: "https://islandstudies.com/files/2016/11/Rotuma.pdf"}
-surface_km2: {valeur: 44, annee: 2016, perimetre: "île de Rotuma", source: "https://islandstudies.com/files/2016/11/Rotuma.pdf"}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 10335, annee: 2017, perimetre: "personnes recensées comme Rotumans dans l'ensemble de Fidji (1,2 % de la population) ; la province de Rotuma compte 1 594 habitants au même recensement", source: "https://minorityrights.org/country/fiji-islands/"}
+lieux: {valeur: 7, unite: "districts coutumiers", annee: 2017, source: "https://www.statsfiji.gov.fj/download/121/phc-2017/729/2017-population-and-housing-census-release-3.pdf"}
+surface_km2: {valeur: 44, annee: 2007, perimetre: "île de Rotuma", source: "https://islandstudies.com/files/2016/11/Rotuma.pdf"}
+villages: {valeur: 15, annee: 2007, perimetre: "villages principaux de l'île, ordre de grandeur donné par la source (« approximately 15 main villages ») ; le recensement de 2017 détaille davantage de localités, dont des groupes « autres localités » non dénombrés", source: "https://islandstudies.com/files/2016/11/Rotuma.pdf"}
 resume: >-
-  Peuple de l'île de Rotuma, à environ 500 km au nord de l'archipel principal de Fidji, rattachée administrativement à Fidji depuis 1881. La Constitution de 2013 reconnaît les Rotumans comme peuple autochtone et interdit l'aliénation définitive des terres rotumanes (art. 28). L'île, dépendance de Fidji, dispose d'un Conseil de Rotuma institué par le Rotuma Act, composé de chefs de district et de représentants élus.
+  Peuple de l'île de Rotuma, à environ 465 km au nord de l'archipel principal de Fidji, cédée au Royaume-Uni en 1881 et administrée depuis avec Fidji. La Constitution de 2013 reconnaît les Rotumans comme peuple autochtone et interdit l'aliénation définitive des terres rotumanes (art. 28). L'île, dépendance de Fidji, dispose d'un Conseil de Rotuma institué par le Rotuma Act, composé de chefs de district et de représentants élus.
 reconnaissance_regionale: []
 reconnaissance_onu:
   - {mecanisme: "oit_169", detail: "Fidji a ratifié la Convention n° 169 en 1998 ; la Constitution de 2013 range les Rotumans parmi les peuples autochtones du pays (préambule)", annee: 1998, source: "https://www.ilo.org/resource/news/fiji-advances-dialogue-indigenous-peoples-rights-under-ilo-convention-no"}
 base_nationale:
   - {instrument: "Constitution de la République de Fidji (2013), préambule et art. 28 al. 3 et 4, art. 30", nature: "constitution", annee: 2013, source: "https://www.constituteproject.org/constitution/Fiji_2013"}
-  - {instrument: "Rotuma Act (Conseil de Rotuma, fonds de développement)", nature: "loi", annee: 1927, source: "https://minorityrights.org/country/fiji-islands/"}
+  - {instrument: "Rotuma Act (Conseil de Rotuma, fonds de développement)", nature: "loi", annee: 1927, source: "https://islandstudies.com/files/2016/11/Rotuma.pdf"}
 droits:
   autogouvernement: {valeur: "partiel", note: "Le Conseil de Rotuma, organe de gouvernement local institué par le Rotuma Act, réunit les chefs des sept districts et des représentants élus ; l'île dispose d'une autonomie plus étendue que les autres subdivisions de Fidji.", source: "https://islandstudies.com/files/2016/11/Rotuma.pdf"}
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
@@ -33,17 +33,19 @@ droits:
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "non_etablie", note: "Aucune source indépendante récente sur le fonctionnement du Conseil de Rotuma n'a été consultée. Les sièges rotumans au Sénat et au Grand Conseil des chefs prévus par la Constitution de 1997 ont disparu avec ces institutions.", source: "https://minorityrights.org/country/fiji-islands/"}
+effectivite: {valeur: "non_etablie", note: "Le Conseil de Rotuma siège toujours : un de ses représentants a participé en août 2025 au dialogue de l'OIT sur la Convention n° 169 et a demandé la révision du Rotuma Act avant les prochaines élections. Minority Rights Group décrit les Rotumans comme socialement et politiquement marginalisés malgré les garanties constitutionnelles. Aucune évaluation indépendante du fonctionnement du Conseil n'a été trouvée. Le siège rotuman au Sénat prévu par la Constitution de 1997 a disparu avec le Sénat.", source: "https://www.ilo.org/resource/news/fiji-advances-dialogue-indigenous-peoples-rights-under-ilo-convention-no"}
 chronologie:
-  - {annee: 1881, evenement: "Rotuma est rattachée administrativement à Fidji."}
+  - {annee: 1881, evenement: "Rotuma est cédée au Royaume-Uni (13 mai) et administrée avec la colonie de Fidji."}
   - {annee: 1927, evenement: "Adoption du Rotuma Act."}
-  - {annee: 1997, evenement: "La Constitution de Fidji attribue aux Rotumans un siège au Sénat."}
+  - {annee: 1997, evenement: "La Constitution de Fidji attribue un siège au Sénat désigné par le Conseil de Rotuma et un siège de député aux Rotumans."}
   - {annee: 2013, evenement: "Nouvelle Constitution : Rotumans reconnus comme peuple autochtone, terres rotumanes inaliénables (art. 28)."}
+  - {annee: 2025, evenement: "Au dialogue de l'OIT sur la Convention n° 169 (Suva, août), le Conseil de Rotuma demande la révision du Rotuma Act."}
 fiabilite:
-  verifie: ["Préambule et art. 28 et 30 de la Constitution de 2013.", "Superficie, nombre de districts et composition du Conseil (étude de l'Island Studies, 2016).", "Population rotumane de 2017 (Minority Rights Group)."]
-  non_confirme: ["Texte actuel du Rotuma Act et du Rotuma Lands Act (base PacLII et site des lois de Fidji inaccessibles) : pouvoir réglementaire du Conseil, tribunal local.", "Année exacte du Rotuma Act (1927 selon l'intitulé du site des lois de Fidji, non ouvert).", "Nombre de résidents de l'île."]
+  verifie: ["Préambule et art. 28 et 30 de la Constitution de 2013.", "Superficie, composition du Conseil et environ 15 villages principaux (Institute of Island Studies, UPEI, document de 2007).", "Sept districts et 1 594 habitants de la province de Rotuma (recensement 2017, https://www.statsfiji.gov.fj/download/121/phc-2017/729/2017-population-and-housing-census-release-3.pdf).", "Population rotumane de 2017 (Minority Rights Group, d'après le recensement).", "Existence du Conseil de Rotuma en 2025 (OIT)."]
+  non_confirme: ["Texte actuel du Rotuma Act et du Rotuma Lands Act (base PacLII et site des lois de Fidji inaccessibles) : pouvoir réglementaire du Conseil, tribunal local.", "Année exacte du Rotuma Act (1927 selon l'intitulé du site des lois de Fidji, non ouvert).", "Nombre exact de villages : le recensement de 2017 regroupe une partie des localités sous « autres localités »."]
 sources:
   - {titre: "Constitution de Fidji (2013) — Constitute Project", url: "https://www.constituteproject.org/constitution/Fiji_2013"}
-  - {titre: "Island Studies — Rotuma (2016)", url: "https://islandstudies.com/files/2016/11/Rotuma.pdf"}
+  - {titre: "Institute of Island Studies (UPEI) — Rotuma (2007)", url: "https://islandstudies.com/files/2016/11/Rotuma.pdf"}
   - {titre: "Minority Rights Group — Fiji", url: "https://minorityrights.org/country/fiji-islands/"}
   - {titre: "OIT — Fidji et la Convention n° 169 (2025)", url: "https://www.ilo.org/resource/news/fiji-advances-dialogue-indigenous-peoples-rights-under-ilo-convention-no"}
+  - {titre: "Bureau des statistiques de Fidji — Recensement 2017, rapport administratif", url: "https://www.statsfiji.gov.fj/download/121/phc-2017/729/2017-population-and-housing-census-release-3.pdf"}

@@ -11,7 +11,7 @@ types_secondaires: []
 population: {valeur: 37736, annee: 2025, perimetre: "somme des habitants des 333 concejos au 1er septembre 2025, selon l'annexe de l'Orden Foral 513/2025 (chiffres par concejo établis pour les élections du 23 novembre 2025)", source: "https://www.araba.eus/botha/Boletines/2025/119/2025_119_03012_C.pdf"}
 lieux: {valeur: 333, unite: "concejos (entités locales de rang inférieur à la commune)", annee: 2026, source: "https://www.araba.eus/botha/Boletines/2026/084/2026_084_02184_C.pdf"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 333, annee: 2025, perimetre: "concejos habités : chacun des 333 concejos de l'annexe compte au moins un habitant au 1er septembre 2025 (de 1 à 2 886) ; la Norma Foral 17/2026 (art. 64) rattache la constitution d'un concejo à un núcleo de población inscrit au nomenclátor ; les localités habitées sans concejo et les hameaux ou quartiers rattachés à un concejo ne sont pas comptés", source: "https://www.araba.eus/botha/Boletines/2025/119/2025_119_03012_C.pdf"}
 resume: >-
   Fiche agrégée : elle couvre les 333 concejos du territoire historique d'Álava, au sud du Pays basque espagnol. Le concejo est une entité locale territoriale dotée de la personnalité juridique, qui administre un village ou un groupe de maisons à l'intérieur d'une commune ; il gère ses biens communaux (montes, c'est-à-dire forêts et pâturages, terres de culture, bois de chauffage). Il fonctionne en concejo abierto (assemblée de tous les habitants majeurs inscrits au registre municipal) ou en concejo cerrado (gouvernement par une junta administrativa élue au suffrage direct). Le régime est fixé par les Juntas Generales (assemblée du territoire) : Norma Foral 11/1995, remplacée par la Norma Foral 17/2026 du 10 juillet 2026.
 reconnaissance_regionale: []
@@ -50,6 +50,7 @@ fiabilite:
     - "Le chiffre de population est la somme, faite pour cette fiche, des 333 chiffres de l'Orden Foral 513/2025 ; la source ne publie pas de total."
     - "Le nombre de concejos sans candidature en 2025 est tiré d'un comptage de l'édit du 29 octobre 2025 ; les électeurs pouvant voter pour tout vecino éligible (Norma Foral 17/2026, art. 16.3), l'absence de candidature ne permet pas à elle seule de conclure à l'absence de junta administrativa ; aucune source indépendante (presse, étude universitaire) sur le fonctionnement des concejos n'a été ouverte."
     - "Aucune surface totale des concejos ni des biens communaux n'a été trouvée dans une source officielle."
+    - "Nombre de villages : le chiffre est celui des concejos habités ; aucune source ouverte ne donne le nombre de localités (núcleos de población) couvertes par les concejos."
     - "La Charte européenne de l'autonomie locale (Conseil de l'Europe) n'a pas été vérifiée pour une mention nommée des concejos d'Álava."
     - "Les décrets d'application prévus (plafond des indemnités de présence des élus, dont les fonctions restent gratuites selon l'art. 27 ; Órgano de Observación del Buen Gobierno) doivent paraître dans les douze mois suivant l'entrée en vigueur ; ils n'ont pas été recherchés."
 sources:

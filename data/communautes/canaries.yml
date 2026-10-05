@@ -11,7 +11,7 @@ types_secondaires: []
 population: {valeur: 2258866, annee: 2025, perimetre: "personnes résidant dans la Communauté autonome au 1er janvier", source: "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/POBLACION/data?representation=GEOGRAPHICAL%5BES70%5D&granularity=TIME%5BYEARLY%5D&_type=json"}
 lieux: {valeur: 7, unite: "îles dotées d'un cabildo (conseil insulaire)", annee: 2018, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
 surface_km2: {valeur: 7446, annee: 2024, perimetre: "Communauté autonome, îlots et roques compris (744 558,03 ha)", source: "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/SUPERFICIE/data?representation=GEOGRAPHICAL%5BES70%5D&_type=json"}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 1085, annee: 2022, perimetre: "entités singulières de population (entidades singulares) comptant au moins un habitant inscrit au registre municipal (padrón) au 1er janvier 2022 ; la liste en compte 1 108, dont 23 sans habitant", source: "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/E30260A_000059/1.0"}
 resume: >-
   Archipel de l'Atlantique situé au large du Sahara occidental et du Maroc, les Canaries forment une Communauté autonome espagnole depuis le Statut de 1982. Le Statut de 2018 (loi organique 1/2018) dispose que l'archipel exerce le droit à l'autogouvernement « comme nationalité » (art. 1) et que les pouvoirs de la Communauté autonome émanent de la Constitution et du « peuple canarien » (art. 2). Chaque île a son cabildo, organe de gouvernement, d'administration et de représentation de l'île. L'archipel a un régime économique et fiscal propre (REF) et l'Union européenne le reconnaît comme région ultrapériphérique (région de l'Union où les traités s'appliquent avec des adaptations).
 reconnaissance_regionale:
@@ -50,7 +50,7 @@ chronologie:
   - {annee: 2026, evenement: "Loi 3/2026 sur les cabildos insulaires."}
 fiabilite:
   verifie: ["Statut de 2018, art. 1, 2, 3, 4, 6, 21, 39, 43, 65, 67, 68, 78, 95, 115, 131, 133, 152, 163, 166, 167, 200 et entrée en vigueur (BOE, texte consolidé).", "Constitution, art. 69.3, 141.4 et disposition additionnelle troisième (BOE).", "Article 349 du TFUE (EUR-Lex).", "Population au 1er janvier 2025 et surface 2024 (Institut canarien de statistique, ISTAC).", "Lois 1/2022 et 3/2026 (BOE).", "Abrogation du Statut de 1982 au 6 novembre 2018 (BOE).", "Arrêt 86/2019 du Tribunal constitutionnel (BOE)."]
-  non_confirme: ["Aucun document onusien nommant le régime canarien n'a été trouvé.", "Nombre de localités habitées (entités de population) non relevé sur source officielle.", "Effectivité appuyée sur un arrêt du Tribunal constitutionnel et sur la production législative, sans rapport d'observation indépendant consulté."]
+  non_confirme: ["Aucun document onusien nommant le régime canarien n'a été trouvé.", "Nombre de localités habitées : le registre municipal de 2022 est le dernier exercice publié par l'institut statistique des Canaries (ISTAC) au niveau des entités de population.", "Effectivité appuyée sur un arrêt du Tribunal constitutionnel et sur la production législative, sans rapport d'observation indépendant consulté."]
 sources:
   - {titre: "Loi organique 1/2018, réforme du Statut d'autonomie des Canaries — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2018-15138"}
   - {titre: "Loi organique 10/1982, Statut d'autonomie des Canaries — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20821"}
@@ -62,3 +62,4 @@ sources:
   - {titre: "Traité sur le fonctionnement de l'Union européenne, article 349 — EUR-Lex", url: "https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:12016E349"}
   - {titre: "Indicateur Population — Institut canarien de statistique (ISTAC)", url: "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/POBLACION/data?representation=GEOGRAPHICAL%5BES70%5D&granularity=TIME%5BYEARLY%5D&_type=json"}
   - {titre: "Indicateur Superficie — Institut canarien de statistique (ISTAC)", url: "https://datos.canarias.es/api/estadisticas/indicators/v1.0/indicators/SUPERFICIE/data?representation=GEOGRAPHICAL%5BES70%5D&_type=json"}
+  - {titre: "Population par sexe et âge, entités singulières de population au 1er janvier 2022 — Institut canarien de statistique (ISTAC)", url: "https://datos.canarias.es/api/estadisticas/statistical-resources/v1.0/datasets/ISTAC/E30260A_000059/1.0"}

@@ -52,7 +52,9 @@ fiabilite:
   non_confirme:
     - "Le cinquième rapport donne dix ZCV en activité (2011) à un endroit et « onze zones de chasse villageoises » opérationnelles à un autre ; l'état OFAC de 2021 en recense douze, actives ou non. Les écarts ne sont pas expliqués."
     - "Arrêtés ministériels de création des ZCV antérieurs à 2020 et arrêté fixant la répartition des recettes (art. 54) non trouvés en ligne ; la liste officielle des ZCV figure à l'annexe II de la loi de 2020, absente du fac-similé consulté. Aucun tableau des sites n'est donc publié."
-    - "Population et nombre de villages des ZCV non trouvés dans une source ouverte ; liste et localisation des ZCV du Sud-Ouest non trouvées."
+    - "Population : non trouvée (aucun chiffre dans les troisième, quatrième et cinquième rapports nationaux à la CDB)."
+    - "Nombre de villages : non trouvé (aucun chiffre dans les troisième, quatrième et cinquième rapports nationaux à la CDB)."
+    - "Liste et localisation des ZCV du Sud-Ouest non trouvées."
 sources:
   - {titre: "Loi n° 20.026 portant code de gestion de la faune et des aires protégées en République centrafricaine (2020) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/caf207260.pdf"}
   - {titre: "Ordonnance n° 84.045 portant protection de la faune sauvage et réglementant l'exercice de la chasse en République centrafricaine — FAOLEX", url: "https://faolex.fao.org/docs/pdf/caf4158.pdf"}

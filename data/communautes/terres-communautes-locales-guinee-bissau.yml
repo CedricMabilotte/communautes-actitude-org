@@ -8,10 +8,10 @@ coord: [12.0, -15.0]
 type: "communaute_locale"
 types_secondaires: []
 base: "territoriale"
-population: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 875697, annee: 2009, perimetre: "population résidente en milieu rural au recensement général de 2009 (Instituto Nacional de Estatística) ; le milieu rural, défini comme le territoire situé hors des villes et des vilas, est structuré en tabancas ; les communautés locales au sens de la loi ne font l'objet d'aucun dénombrement propre", source: "https://www.stat-guinebissau.com/Menu_principal/IV_RGPH/rgph1/estado_estrura_pop.pdf"}
 lieux: {valeur: null, unite: "communautés locales délimitées", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 4500, annee: 1991, perimetre: "tabancas (villages) du pays au recensement de 1991, ordre de grandeur donné par la source (« cerca de 4.500 tabancas ») dans le rapport thématique du recensement de 2009", source: "https://www.stat-guinebissau.com/Menu_principal/IV_RGPH/rgph1/estado_estrura_pop.pdf"}
 resume: >-
   La loi n° 5/98 du 28 avril 1998, dite loi de la terre (Lei da Terra), laisse la propriété du sol à l'État mais reconnaît aux communautés locales, définies comme des entités coutumières de base territoriale formées des familles résidant dans une tabanca (village) ou un ensemble de tabancas, un droit d'usage coutumier perpétuel et gratuit, garanti sans contrat écrit ni enregistrement. Les communautés locales exercent des pouvoirs de gestion selon leurs us et coutumes dans leurs limites historiques et territoriales, répartissent les terres entre résidents selon la coutume et donnent un avis sur les concessions demandées sur leurs terres. Elles reçoivent 20 % du produit de l'impôt foncier. La loi prévoit la délimitation officielle des aires communautaires par une législation propre ; le nombre de communautés délimitées n'a pas été établi.
 reconnaissance_regionale: []
@@ -46,9 +46,11 @@ fiabilite:
     - "Mention de la loi n° 5/98 dans la stratégie nationale pour la biodiversité 2015-2020 (section 3.1.6.3)."
   non_confirme:
     - "Le règlement général de la loi, signalé comme promulgué en 2018, n'a pas été consulté ; sa référence, son contenu et son effet sur la délimitation des aires communautaires restent à vérifier. La transcription de didinho.org reproduit des barèmes qui renvoient à un « art. 86 du règlement », sans date."
-    - "Le nombre de communautés locales délimitées ou enregistrées, la surface concernée et la population ne sont établis par aucune source trouvée ; aucune liste officielle des sites n'a été trouvée."
+    - "Le nombre de communautés locales délimitées ou enregistrées et la surface concernée ne sont établis par aucune source trouvée ; aucune liste officielle des sites n'a été trouvée. La population indiquée est celle du milieu rural (recensement de 2009), et non un dénombrement des membres des communautés locales."
     - "La forme des institutions représentatives des communautés locales (régulos, chefs de tabanca, comités) et la mise en place des commissions foncières n'ont pas été vérifiées."
+    - "Nombre de villages : ordre de grandeur de 1991 (« cerca de 4.500 ») ; aucun total des tabancas au recensement de 2009 n'a été trouvé."
 sources:
   - {titre: "Loi n° 5/98, loi de la terre, Bulletin officiel de la République de Guinée-Bissau n° 17, supplément, 28 avril 1998 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gbs16728.pdf"}
   - {titre: "Lei da Terra n.º 5/98 — transcription intégrale, didinho.org", url: "https://didinho.org/Arquivo/Lei%20da%20Terra.htm"}
   - {titre: "Stratégie et plan d'action nationaux pour la biodiversité 2015-2020 de la Guinée-Bissau — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/gw/gw-nbsap-v2-en.pdf"}
+  - {titre: "Instituto Nacional de Estatística — Terceiro recenseamento geral da população e habitação de 2009 : estado e estrutura da população", url: "https://www.stat-guinebissau.com/Menu_principal/IV_RGPH/rgph1/estado_estrura_pop.pdf"}

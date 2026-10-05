@@ -56,6 +56,7 @@ fiabilite:
     - "Le tableau des sites reprend la liste officielle de mars 2013 ; aucune liste nominative plus récente n'a été trouvée."
     - "Adaptation du décret 355 aux lois 20.657 et 21.651 : la version consultée (intégrant le décret 49 de 2009) prévoit encore une convention d'usage de quatre ans au plus, alors que la loi la rend de durée indéfinie."
     - "Nombre d'organisations titulaires et de caletas (localités de pêche) concernées."
+    - "Nombre de villages : non trouvé ; la liste officielle de mars 2013 indique la commune de chaque AMERB, pas la caleta (localité de pêche)."
 sources:
   - {titre: "Áreas de Manejo y Explotación de Recursos Bentónicos (AMERB) — Subpesca", url: "https://www.subpesca.cl/portal/sitio/Areas-y-Zonificaciones/Areas-de-Manejo-y-Explotacion-de-Recursos-Bentonicos-AMERB/"}
   - {titre: "Ley General de Pesca y Acuicultura, texte à jour — Subpesca", url: "https://www.subpesca.cl/portal/615/articles-88020_documento.pdf"}

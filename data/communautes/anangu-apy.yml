@@ -1,5 +1,5 @@
 uid: "anangu-apy"
-nom: "Anangu Pitjantjatjara Yankunytjatjara"
+nom: "Anangu des terres APY"
 endonyme: "Anangu"
 territoire: "Terres APY (nord-ouest de l'Australie-Méridionale)"
 etats: ["Australie"]
@@ -8,19 +8,19 @@ coord: [-26.5, 131.5]
 type: "peuple_autochtone"
 types_secondaires: []
 base: "territoriale"
-population: {valeur: 2333, annee: 2021, perimetre: "population recensée de la zone APY, dont 2 064 Aborigènes ou insulaires du détroit de Torres (88,5 %)", source: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA40250"}
-lieux: {valeur: 20, unite: "communautés et homelands (environ)", annee: 2026, source: "https://www.landscape.sa.gov.au/aw/visiting/communities"}
+population: {valeur: 2333, annee: 2021, perimetre: "personnes recensées dans la zone de gestion locale Anangu Pitjantjatjara Yankunytjatjara (recensement 2021), dont 2 064 Aborigènes ou insulaires du détroit de Torres (88,5 %)", source: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA40250"}
+lieux: {valeur: 7, unite: "circonscriptions électorales du conseil exécutif", annee: 2024, perimetre: "circonscriptions qui élisent chacune un homme et une femme au conseil exécutif (s. 9 de la loi), liste de la commission électorale de l'État pour l'élection du 21 août 2024", source: "https://ecsa.sa.gov.au/apy"}
 surface_km2: {valeur: 102650, annee: null, perimetre: "terres APY en pleine propriété inaliénable", source: "https://dit.sa.gov.au/__data/assets/pdf_file/0019/5185/9_ABORIGINAL_LANDS_88-93.pdf"}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 20, annee: null, perimetre: "communautés et homelands (petits établissements familiaux) habités sur les terres APY ; la source donne un ordre de grandeur (« about 20 communities and homelands »), pas un décompte", source: "https://www.landscape.sa.gov.au/aw/visiting/communities"}
 resume: >-
-  Peuples Pitjantjatjara et Yankunytjatjara (Anangu) du nord-ouest de l'Australie-Méridionale. L'Anangu Pitjantjatjara Yankunytjatjara Land Rights Act 1981, loi de l'État d'Australie-Méridionale entrée en vigueur le 2 octobre 1981, confère un titre de pleine propriété inaliénable sur plus de 100 000 km² à une personne morale, Anangu Pitjantjatjara Yankunytjatjara, dirigée par un conseil exécutif élu. Les non-Anangu doivent obtenir un permis pour entrer sur les terres, et les activités minières requièrent l'autorisation de l'APY.
+  Peuples Pitjantjatjara et Yankunytjatjara (Anangu) du nord-ouest de l'Australie-Méridionale. L'Anangu Pitjantjatjara Yankunytjatjara Land Rights Act 1981, loi de l'État d'Australie-Méridionale entrée en vigueur le 2 octobre 1981, confère un titre de pleine propriété (fee simple) inaliénable sur plus de 100 000 km² à une personne morale, Anangu Pitjantjatjara Yankunytjatjara (APY), dirigée par un conseil exécutif élu. Le ministre des Affaires aborigènes peut suspendre ce conseil ; il l'a fait d'août à décembre 2025. Les non-Anangu doivent obtenir un permis pour entrer sur les terres, et les activités minières requièrent l'autorisation de l'APY. Les terres voisines de l'ouest relèvent d'un régime distinct (voir Maralinga Tjarutja).
 reconnaissance_regionale: []
 reconnaissance_onu:
-  - {mecanisme: "organe_traite", detail: "Le CERD recommande à l'Australie d'appliquer les principes de la Déclaration des Nations Unies sur les droits des peuples autochtones et de garantir le consentement préalable, libre et éclairé sur les terres autochtones (CERD/C/AUS/CO/18-20)", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}
+  - {mecanisme: "organe_traite", detail: "Le CERD (Comité pour l'élimination de la discrimination raciale) recommande à l'Australie d'inscrire le consentement préalable, libre et éclairé dans la loi sur les titres fonciers autochtones et dans d'autres textes, et d'appliquer les principes de la Déclaration des Nations Unies sur les droits des peuples autochtones (par. 21 et 22). Le document vise les peuples autochtones d'Australie sans nommer les Anangu (CERD/C/AUS/CO/18-20).", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}
 base_nationale:
   - {instrument: "Anangu Pitjantjatjara Yankunytjatjara Land Rights Act 1981 (Australie-Méridionale), version du 7 octobre 2021", nature: "loi", annee: 1981, source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
 droits:
-  autogouvernement: {valeur: "reconnu", note: "Anangu Pitjantjatjara Yankunytjatjara, personne morale maintenue par la loi (s. 5), recueille les volontés des propriétaires traditionnels et administre les terres (s. 6) ; son conseil exécutif compte jusqu'à 14 membres élus, un homme et une femme par circonscription, élections organisées par la commission électorale de l'État (s. 9).", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
+  autogouvernement: {valeur: "partiel", note: "Anangu Pitjantjatjara Yankunytjatjara, personne morale dont tous les Anangu sont membres (s. 5), recueille les volontés des propriétaires traditionnels et administre les terres (s. 6) ; son conseil exécutif compte jusqu'à 14 membres élus tous les trois ans, un homme et une femme par circonscription (s. 9). Le ministre peut lui donner des instructions (s. 13N) et le suspendre « pour tout motif qu'il juge approprié » par avis publié au journal officiel (s. 13O) ; un administrateur nommé par le ministre exerce alors ses pouvoirs.", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "reconnu", note: "Les terres sont attribuées en pleine propriété à l'APY ; aucun droit sur elles ne peut en être aliéné ni exproprié en vertu du droit de l'État (s. 15 et 17). Tous les Anangu y ont libre accès (s. 18) ; les autres personnes doivent obtenir une autorisation écrite (s. 19).", source: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
@@ -32,19 +32,26 @@ droits:
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "non_etablie", note: "La loi a été modifiée en 2005 (restructuration du conseil exécutif, pouvoirs de contrôle du ministre) ; aucune évaluation indépendante récente n'a été consultée.", source: "https://classic.austlii.edu.au/au/journals/IndigLawB/2005/62.html"}
+effectivite: {valeur: "partielle", note: "Le conseil exécutif élu le 21 août 2024 a été suspendu par le ministre des Affaires aborigènes en août 2025, après le rapport d'un conciliateur sur la reconduction du directeur général ; un administrateur, Austin Taylor, a exercé ses pouvoirs jusqu'au 4 décembre 2025. Le conseil a été rétabli en décembre 2025. En mai 2026, le renvoi du nouveau directeur général par le président du conseil a été contesté par les avocats de celui-ci ; en juillet 2026, un groupe d'aînés a demandé une réforme de la gouvernance, et le gouvernement a déclaré ne pas envisager d'abroger la loi.", source: "https://nit.com.au/12-09-2025/20218/interim-administrator-at-apy-lands-following-suspended-board"}
 chronologie:
   - {annee: 1981, evenement: "Pitjantjatjara Land Rights Act (entrée en vigueur le 2 octobre)."}
-  - {annee: 2005, evenement: "Loi de modification : l'organisme prend le nom d'Anangu Pitjantjatjara Yankunytjatjara ; conseil exécutif restructuré."}
-  - {annee: 2021, evenement: "Quarantième anniversaire de la loi."}
+  - {annee: 2005, evenement: "Loi de modification (sanction le 27 octobre) : l'organisme prend le nom d'Anangu Pitjantjatjara Yankunytjatjara ; conseil exécutif restructuré."}
+  - {annee: 2024, evenement: "Élection du conseil exécutif (21 août), organisée par la commission électorale de l'État."}
+  - {annee: 2025, evenement: "Le ministre suspend le conseil exécutif (août) et nomme un administrateur jusqu'au 4 décembre ; le conseil est rétabli en décembre."}
+  - {annee: 2026, evenement: "Différend sur le renvoi du directeur général (mai) ; un groupe d'aînés demande une réforme de la gouvernance (juillet)."}
 fiabilite:
-  verifie: ["Sections 4, 5, 6, 9, 15, 17, 18, 19, 20 et 21 de la loi (version du 7 octobre 2021, legislation.sa.gov.au).", "Surface des terres APY (atlas du gouvernement d'Australie-Méridionale).", "Population 2021 (ABS).", "Modification de 2005 (Indigenous Law Bulletin)."]
-  non_confirme: ["Pouvoir de l'APY d'édicter des règlements locaux (by-laws).", "Pouvoir du Premier ministre de l'État de suspendre le conseil exécutif (modification de 2017).", "Nombre exact de communautés."]
+  verifie: ["Sections 4, 5, 6, 9, 13N, 13O, 15, 17, 18, 19, 20 et 21 de la loi (version du 7 octobre 2021, legislation.sa.gov.au).", "Surface des terres APY (atlas du gouvernement d'Australie-Méridionale).", "Population 2021 (ABS).", "Circonscriptions et date de l'élection de 2024 (commission électorale de l'État).", "Modification de 2005 (Indigenous Law Bulletin).", "Suspension du conseil exécutif en 2025 et rétablissement (ABC, National Indigenous Times)."]
+  non_confirme: ["Pouvoir de l'APY d'édicter des règlements locaux (by-laws) : la loi mentionne des infractions aux by-laws (s. 4) sans que l'auteur de ces textes ait été vérifié.", "Nombre exact de communautés et homelands : seul un ordre de grandeur a été trouvé.", "Version de la loi postérieure au 7 octobre 2021 : aucune modification n'a été trouvée, sans vérification de l'historique officiel."]
 sources:
   - {titre: "APY Land Rights Act 1981, version du 7 octobre 2021 — legislation.sa.gov.au", url: "https://www.legislation.sa.gov.au/__legislation/lz/c/a/anangu%20pitjantjatjara%20yankunytjatjara%20land%20rights%20act%201981/current/1981.20.auth.pdf"}
   - {titre: "Gouvernement d'Australie-Méridionale — Aboriginal Lands (atlas)", url: "https://dit.sa.gov.au/__data/assets/pdf_file/0019/5185/9_ABORIGINAL_LANDS_88-93.pdf"}
   - {titre: "ABS — 2021 Census QuickStats, Anangu Pitjantjatjara Yankunytjatjara", url: "https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA40250"}
   - {titre: "Landscape South Australia — Alinytjara Wilurara communities", url: "https://www.landscape.sa.gov.au/aw/visiting/communities"}
   - {titre: "ABC News — 40th anniversary of APY Land Rights Act (2021)", url: "https://www.abc.net.au/news/2021-10-02/sa-40th-anniversary-of-apy-lands-rights-act/100509422"}
+  - {titre: "Electoral Commission SA — APY Executive Board elections 2024", url: "https://ecsa.sa.gov.au/apy"}
+  - {titre: "ABC News — SA government to appoint administrators to run APY Lands (27 août 2025)", url: "https://www.abc.net.au/news/2025-08-27/administrators-to-be-appointed-to-run-apy-lands/105704838"}
+  - {titre: "National Indigenous Times — Interim administrator at APY Lands following suspended board (12 septembre 2025)", url: "https://nit.com.au/12-09-2025/20218/interim-administrator-at-apy-lands-following-suspended-board"}
+  - {titre: "National Indigenous Times — APY governance in crisis again (29 mai 2026)", url: "https://nit.com.au/29-05-2026/24543/apy-governance-in-crisis-again-after-chairman-sacks-new-leader"}
+  - {titre: "ABC News — Elders call for governance overhaul on APY Lands (25 juillet 2026)", url: "https://www.abc.net.au/news/2026-07-25/elders-call-for-governance-overhaul-on-apy-lands/106949892"}
   - {titre: "R. Morley, The Pitjantjatjara Land Rights Amendment Act, Indigenous Law Bulletin (2005)", url: "https://classic.austlii.edu.au/au/journals/IndigLawB/2005/62.html"}
   - {titre: "CERD — Observations finales sur l'Australie, CERD/C/AUS/CO/18-20 (2017)", url: "https://documents.un.org/api/symbol/access?s=CERD/C/AUS/CO/18-20&l=fr&t=pdf"}

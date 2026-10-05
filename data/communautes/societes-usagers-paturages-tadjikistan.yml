@@ -50,6 +50,8 @@ fiabilite:
     - "Nombre de sociétés d'usagers des pâturages enregistrées, de contrats de location signés et surface louée : aucune source trouvée ; pas de liste officielle des sites."
     - "Modifications de la loi n° 1618 après 2019 : non vérifiées."
     - "Le rapport de 2018 emploie tantôt « unions », tantôt « groupes » d'usagers des pâturages pour la même forme juridique."
+    - "Population (membres des sociétés d'usagers des pâturages) : non trouvée."
+    - "Nombre de villages concernés : non trouvé."
 sources:
   - {titre: "Loi n° 1618 du 20 juin 2019 « sur les pâturages » (texte russe) — CAWater-Info", url: "https://www.cawater-info.net/library/rus/tj-1618-2019.pdf"}
   - {titre: "Loi n° 951 du 19 mars 2013 « sur les pâturages » — Spinform", url: "https://base.spinform.ru/show_doc.fwx?rgn=59051"}

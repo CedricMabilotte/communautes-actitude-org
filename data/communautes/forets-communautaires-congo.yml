@@ -9,7 +9,7 @@ type: "communaute_locale"
 types_secondaires: ["peuple_autochtone"]
 base: "territoriale"
 population: {valeur: null, annee: null, perimetre: "", source: ""}
-lieux: {valeur: null, unite: "", annee: null, source: ""}
+lieux: {valeur: 13, unite: "séries de développement communautaire (parties de concessions forestières aménagées réservées aux activités des communautés riveraines) dotées d'un arrêté instituant un conseil de concertation, publié entre 2010 et 2019 et trouvé dans FAOLEX et ECOLEX ; une ligne par série dans le tableau ; décompte non officiel, d'autres séries peuvent exister ; aucune forêt communautaire attribuée sous le Code de 2020 identifiée", annee: 2019, source: "https://faolex.fao.org/docs/pdf/con191223.pdf"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-

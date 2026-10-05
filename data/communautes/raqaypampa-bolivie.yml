@@ -8,10 +8,10 @@ coord: [-18.2, -65.4]
 type: "peuple_autochtone"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 8007, annee: 2024, perimetre: "habitants de l'entité territoriale de Raqaypampa au premier comptage du recensement de la population et du logement de 2024 (résultats préliminaires de l'Institut national de la statistique) ; résidents comptés sans distinction d'appartenance", source: "https://nubecpv.ine.gob.bo/index.php/apps/onlyoffice/s/fBDwRbxQKgAxegF?fileId=548802"}
 lieux: {valeur: 43, unite: "syndicats agraires communaux, regroupés en cinq sous-centrales (Raqaypampa, Laguna Grande, Molinero, Santiago, Salvia)", annee: 2015, source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: 555, annee: 2019, perimetre: "surface du TIOC-R selon la limite du gouvernement autonome établie par le vice-ministère des Autonomies (2019), chiffre relayé par l'encyclopédie en ligne ; la couche officielle n'a pas pu être ouverte", source: "https://es.wikipedia.org/wiki/Raqaypampa"}
+villages: {valeur: 43, annee: 2015, perimetre: "communautés du niveau communal, chacune organisée en syndicat agraire (art. 2 du statut d'autonomie) ; mêmes unités que les lieux ; le nombre de localités habitées au sens du recensement n'a pas été trouvé", source: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
 resume: >-
   Raqaypampa est un territoire quechua des hauteurs du sud-est de la province de Mizque (Cochabamba), titré en 2004 comme terre communautaire d'origine (TCO, propriété collective d'un peuple autochtone). La loi 813 de 2016 crée l'unité territoriale « Territoire indigène originaire paysan de Raqaypampa » sur les limites de ce titre ; l'autonomie indigène originaire paysanne (AIOC, collectivité territoriale autochtone prévue par la Constitution de 2009) s'y constitue par la voie du territoire et non par la conversion d'une commune. Le statut est déclaré conforme à la Constitution en 2015 et approuvé par référendum le 20 novembre 2016. Le gouvernement repose sur l'Assemblée générale des communautés, un Conseil de gestion territoriale de cinq membres et une Autorité administrative autonomique ; les secondes autorités, élues le 19 juin 2022, reçoivent leurs lettres de créance le 5 janvier 2023.
 reconnaissance_regionale: []
@@ -46,7 +46,7 @@ chronologie:
   - {annee: 2023, evenement: "Remise des lettres de créance aux secondes autorités (5 janvier), élues le 19 juin 2022, puis installation."}
 fiabilite:
   verifie: ["Articles 2, 6, 11, 12, 14, 16 à 24, 31 à 37, 44, 46, 48, 50, 51, 54, 59, 60 et 69 du statut de Raqaypampa et mention de la déclaration de constitutionnalité 0122/2015.", "Articles 1 à 5 de la loi 813 de 2016 (objet, consolidation sur le titre TCO-NAL 000065, limites).", "Articles 5, 30.II.15 et 17, 190, 289, 293, 304.I.12 et 13 et disposition transitoire septième de la Constitution de 2009.", "Dates du référendum (20 novembre 2016), des élections de 2017 et 2022 et de la remise des lettres de créance (5 janvier 2023) dans Eju, 2023."]
-  non_confirme: ["Résultat chiffré du référendum du 20 novembre 2016.", "Population et surface du territoire : aucune source ouverte trouvée.", "Présence d'un siège de la circonscription spéciale indigène de Cochabamba pour Raqaypampa."]
+  non_confirme: ["Résultat chiffré du référendum du 20 novembre 2016.", "Présence d'un siège de la circonscription spéciale indigène de Cochabamba pour Raqaypampa.", "Population de 2024 : chiffre du premier comptage ; le résultat définitif par entité territoriale n'a pas été lu.", "Surface de 555 km² : lue dans l'encyclopédie en ligne, qui cite la couche du vice-ministère des Autonomies (2019) ; cette couche n'a pas pu être ouverte."]
 sources:
   - {titre: "Statut de l'autonomie indigène originaire paysanne de Raqaypampa — Service étatique des autonomies (SEA)", url: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Raqaypampa.pdf"}
   - {titre: "Statuts des gouvernements AIOC — Service étatique des autonomies (SEA)", url: "https://www.sea.gob.bo/desarrollo-normativo-autonomico/estatutos-autonomicos-y-cartas-organicas/estatutos-gaioc.html"}
@@ -56,3 +56,5 @@ sources:
   - {titre: "Le Sénat approuve le projet de loi de création de l'unité territoriale de Raqaypampa — Biodiversidad en América Latina, 2016", url: "https://www.biodiversidadla.org/Articulos/Bolivia-El-Senado-aprueba-proyecto-de-ley-de-creacion-de-unidad-territorial-de-Raqaypampa"}
   - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
   - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}
+  - {titre: "Résultats du premier comptage du recensement de la population et du logement 2024 — Institut national de la statistique (INE) de Bolivie", url: "https://nubecpv.ine.gob.bo/index.php/apps/onlyoffice/s/fBDwRbxQKgAxegF?fileId=548802"}
+  - {titre: "Raqaypampa — Wikipédia en espagnol", url: "https://es.wikipedia.org/wiki/Raqaypampa"}

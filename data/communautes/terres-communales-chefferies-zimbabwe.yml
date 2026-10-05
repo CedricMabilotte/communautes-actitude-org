@@ -8,7 +8,7 @@ coord: [-19.0, 30.0]
 type: "communaute_locale"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 6253151, annee: 2022, perimetre: "personnes recensées dans le secteur « Communal Areas » (zones communales) au recensement de 2022, soit 41,2 % de la population du pays ; hors zones de réinstallation, fermes commerciales et zones urbaines (tableau 2.8(c) du rapport)", source: "https://www.zimstat.co.zw/wp-content/uploads/Census/2022_PHC_Report_27012023_Final.pdf"}
 lieux: {valeur: null, unite: "terres communales", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
@@ -42,7 +42,7 @@ chronologie:
   - {annee: 2013, evenement: "Nouvelle Constitution : chapitre 15 sur les dirigeants traditionnels et sièges de chefs au Sénat."}
 fiabilite:
   verifie: ["Art. 4 de la Communal Land Act (version consolidée au 31 décembre 2016, ZimLII).", "Art. 3, 5, 12, 14, 15, 26, 28, 37 et 39 de la Traditional Leaders Act et date d'entrée en vigueur (ZimLII).", "Art. 120, 162, 280 et 282 de la Constitution de 2013 (Constitute Project).", "Art. 10, 11, 15 et 16 de la Customary Law and Local Courts Act (ZimLII), dont l'exclusion des litiges fonciers de la compétence des tribunaux locaux (art. 16).", "Art. 283 de la Constitution : nomination des chefs par le président sur recommandation de l'assemblée provinciale des chefs."]
-  non_confirme: ["Texte des art. 6 à 10 de la Communal Land Act (consultation du chef, prise en compte du droit coutumier par le conseil de district rural) : la page consolidée ne donne que les intitulés ; l'obligation de consulter le chef n'est attestée que par le profil USAID.", "Nombre de terres communales, de chefferies et de villages, surface et population : aucun chiffre officiel récent trouvé ; le profil USAID cite pour 1980 une part de 42 % du territoire et 4,3 millions d'habitants, chiffres trop anciens pour la fiche.", "Aucun document de l'ONU ni d'un mécanisme régional visant ce régime n'a été trouvé."]
+  non_confirme: ["Texte des art. 6 à 10 de la Communal Land Act (consultation du chef, prise en compte du droit coutumier par le conseil de district rural) : la page consolidée ne donne que les intitulés ; l'obligation de consulter le chef n'est attestée que par le profil USAID.", "Nombre de terres communales, de chefferies et de villages, et surface : aucun chiffre officiel récent trouvé ; le profil USAID cite pour 1980 une part de 42 % du territoire, chiffre trop ancien pour la fiche.", "Aucun document de l'ONU ni d'un mécanisme régional visant ce régime n'a été trouvé.", "Nombre de villages : non trouvé. Le profil USAID indique qu'un village (kraal) compte 20 à 25 ménages, sans total national."]
 sources:
   - {titre: "Traditional Leaders Act [chap. 29:17] — ZimLII", url: "https://zimlii.org/akn/zw/act/1998/25/eng@2016-12-31"}
   - {titre: "Communal Land Act [chap. 20:04] — ZimLII", url: "https://zimlii.org/akn/zw/act/1982/20"}

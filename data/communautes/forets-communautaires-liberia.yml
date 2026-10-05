@@ -59,6 +59,7 @@ fiabilite:
     - "Le nombre de CFMA signés le 21 août 2026 et leurs noms ne sont pas donnés par l'article consulté."
     - "Aucune liste officielle complète des CFMA par site n'a été trouvée : le site de la FDA ne présente qu'une partie des forêts par comté ; pas de tableau par site."
     - "Population des communautés titulaires : non établie."
+    - "Nombre de villages : non trouvé."
 sources:
   - {titre: "Accord de gestion forestière communautaire de Beyan Poye (2017) — Forest Trends", url: "https://www.forest-trends.org/wp-content/uploads/2023/09/Akewa-CFMA.pdf"}
   - {titre: "Environmental and Social Management Framework, Liberia Forest Economy Project (juillet 2026) — FDA", url: "https://www.fda.gov.lr/sites/default/files/documents/Environmental%20and%20Social%20Management%20Framework%20%26%20Labor%20Management%20Procedures-Liberia%20Forest%20Economy%20Project%20%28LiFE-P%29_Updated.pdf"}

@@ -8,7 +8,7 @@ coord: [57.6, -5.5]
 type: "communaute_locale"
 types_secondaires: []
 base: "territoriale"
-population: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 16527, annee: 2022, perimetre: "crofters inscrits au registre des crofts (Register of Crofts) de la Crofting Commission, tous crofts confondus (21 394 crofts) ; le nombre de crofters partageants des seuls pâturages communs n'est pas publié ; les membres des ménages ne sont pas comptés", source: "https://www.gov.scot/publications/economic-condition-crofting-2019-2022/"}
 lieux: {valeur: 1000, unite: "pâturages communs (« plus de 1 000 » selon la Crofting Commission)", annee: 2026, source: "https://www.crofting.scotland.gov.uk/common-grazings/"}
 surface_km2: {valeur: 5000, annee: 2026, perimetre: "pâturages communs ; la Crofting Commission indique « plus de 500 000 hectares », valeur minimale", source: "https://www.crofting.scotland.gov.uk/common-grazings/"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
@@ -58,6 +58,8 @@ fiabilite:
     - "Le registre des crofts (Registers of Scotland) compte 335 pâturages communs enregistrés ; ce registre ne propose pas de liste téléchargeable, d'où l'absence de tableau des sites."
     - "Caractère forcé du droit d'achat de la partie 3 (sans accord du propriétaire) : non lu directement dans le texte consulté ; la note d'orientation de 2009 mentionne le vote majoritaire et l'approbation des ministres."
     - "Électorat de la Crofting Commission (crofters) : non lu dans la loi, qui renvoie à des règlements ; aucun document onusien ou régional visant le régime n'a été trouvé."
+    - "Nombre de villages : non trouvé (nombre de townships dotés de pâturages communs non publié)."
+    - "Population : le chiffre de 16 527 crofters (rapport de 2022 au Parlement écossais) couvre l'ensemble du crofting et non les seuls partageants des pâturages communs."
 sources:
   - {titre: "Crofting Commission — Common grazings", url: "https://www.crofting.scotland.gov.uk/common-grazings/"}
   - {titre: "Crofters (Scotland) Act 1993, section 47 — legislation.gov.uk", url: "https://www.legislation.gov.uk/ukpga/1993/44/section/47"}

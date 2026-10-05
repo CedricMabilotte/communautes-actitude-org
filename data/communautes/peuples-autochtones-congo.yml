@@ -8,13 +8,13 @@ coord: [1.0, 15.5]
 type: "peuple_autochtone"
 base: "mixte"
 types_secondaires: []
-population: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 43378, annee: 2007, perimetre: "personnes recensées comme populations autochtones dans la population résidante, ensemble des départements (recensement général de la population et de l'habitat 2007, tableau 24)", source: "https://www.cnsee.org/pdf/rgph2007pd.pdf"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Les peuples autochtones du Congo regroupent notamment les Ba'Aka, Mbendjele, Mikaya, Gyeli, Luma, Twa et Babongo, chasseurs-cueilleurs de tradition semi-nomade.
-  Ils représentent 1,2 % de la population selon le recensement de 2007, jusqu'à 10 % selon d'autres estimations.
+  Le recensement de 2007 en compte 43 378, soit 1,2 % de la population ; Minority Rights Group cite des estimations allant jusqu'à 10 %.
   La loi n° 5-2011 du 25 février 2011 leur reconnaît des droits collectifs sur les terres, la consultation, la coutume et la culture ; l'article 16 de la Constitution de 2015 en garantit la protection.
   Le régime des forêts communautaires et des séries de développement communautaire relève de la fiche « Forêts communautaires du Congo ».
 reconnaissance_onu:
@@ -37,7 +37,7 @@ droits:
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "partiel", note: "Loi n° 5-2011, art. 6 : droits matrimoniaux et successoraux garantis en tenant compte de leur identité culturelle, en conformité avec les dispositions générales en vigueur.", source: "https://faolex.fao.org/docs/pdf/con105791.pdf"}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "partielle", note: "La Rapporteuse spéciale constate en 2020 que la loi reste peu appliquée : communautés qui n'en ont jamais entendu parler, 32,1 % d'autochtones dotés de documents d'état civil, aucun autochtone élu à l'Assemblée nationale, droits fonciers non sécurisés (A/HRC/45/34/Add.1).", source: "https://docs.un.org/fr/A/HRC/45/34/Add.1"}
+effectivite: {valeur: "partielle", note: "La Rapporteuse spéciale constate en 2020 que, dans au moins trois communautés visitées, personne n'avait entendu parler de la loi n° 5-2011 ; 32,1 % des autochtones disposent de documents d'état civil ; aucun autochtone n'est élu à l'Assemblée nationale (151 sièges) ; les décrets sur la reconnaissance des villages et sur les terres coutumières ne sont pas adoptés (A/HRC/45/34/Add.1). Minority Rights Group relève que les communautés se plaignent d'une mise en œuvre incomplète.", source: "https://docs.un.org/fr/A/HRC/45/34/Add.1"}
 chronologie:
   - {annee: 2007, evenement: "Le Congo vote pour la Déclaration des Nations unies sur les droits des peuples autochtones."}
   - {annee: 2010, evenement: "Visite du Rapporteur spécial sur les droits des peuples autochtones."}
@@ -46,12 +46,13 @@ chronologie:
   - {annee: 2019, evenement: "Adoption en juillet de six décrets d'application sur huit prévus ; visite de la Rapporteuse spéciale en octobre."}
   - {annee: 2025, evenement: "Projet de décret sur la sécurisation des droits fonciers coutumiers validé en atelier (22-24 décembre)."}
 fiabilite:
-  verifie: ["Texte intégral de la loi n° 5-2011 (Journal officiel du 3 mars 2011, via FAOLEX).", "Rapport A/HRC/45/34/Add.1 (2020) : décrets de 2019, décret 2019-201, effectivité.", "Vote du Congo en faveur de la DNUDPA (A/61/PV.107)."]
-  non_confirme: ["Statut du projet de décret foncier après décembre 2025 (source : Les Dépêches de Brazzaville via allAfrica).", "Texte de l'art. 16 lu dans une traduction anglaise de la Constitution.", "Chiffre de population : 1,2 % (recensement 2007) à 10 % selon les estimations ; aucun effectif absolu sourcé."]
+  verifie: ["Texte intégral de la loi n° 5-2011 (Journal officiel du 3 mars 2011, via FAOLEX).", "Rapport A/HRC/45/34/Add.1 (2020) : décrets de 2019, décret 2019-201, effectivité.", "Vote du Congo en faveur de la DNUDPA (A/61/PV.107).", "Effectif de 2007 : brochure « Le RGPH-2007 en quelques chiffres » (CNSEE, 2010), tableau 24, citée par A/HRC/45/34/Add.1."]
+  non_confirme: ["Statut du projet de décret foncier après décembre 2025 (source : Les Dépêches de Brazzaville via allAfrica).", "Texte de l'art. 16 lu dans une traduction anglaise de la Constitution.", "Effectif des populations autochtones au recensement de 2023 (RGPH-5) : non trouvé ; le chiffre de 2007 est le dernier publié consulté.", "Fourchette haute de 10 % : estimation reprise par Minority Rights Group, sans source primaire citée.", "Nombre de lieux : non trouvé (la loi ne crée pas de sites délimités ; décret de reconnaissance des villages non adopté).", "Nombre de villages : non trouvé.", "Surface : non trouvée (aucune délimitation des terres coutumières publiée)."]
 sources:
   - {titre: "Loi n° 5-2011 du 25 février 2011 — Journal officiel (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/con105791.pdf"}
   - {titre: "Rapport de la Rapporteuse spéciale sur les droits des peuples autochtones — Visite en République du Congo, A/HRC/45/34/Add.1 (2020)", url: "https://docs.un.org/fr/A/HRC/45/34/Add.1"}
   - {titre: "Assemblée générale — Procès-verbal A/61/PV.107 (adoption de la DNUDPA)", url: "https://docs.un.org/fr/A/61/PV.107"}
   - {titre: "Constitution de la République du Congo (2015)", url: "https://extranet.who.int/cpcd/sites/default/files/public_file_repository/COG_Congo_Constitution_2015.pdf"}
   - {titre: "Minority Rights Group — Republic of Congo", url: "https://minorityrights.org/country/republic-of-congo/"}
+  - {titre: "CNSEE — Le RGPH-2007 en quelques chiffres (2010), tableau 24 : populations autochtones par département", url: "https://www.cnsee.org/pdf/rgph2007pd.pdf"}
   - {titre: "allAfrica / Les Dépêches de Brazzaville — La sécurisation des droits fonciers des autochtones se renforce (2025)", url: "https://fr.allafrica.com/stories/202512300332.html"}

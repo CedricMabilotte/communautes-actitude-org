@@ -59,7 +59,14 @@ chronologie:
   - {annee: 2023, evenement: "Arrêt de la Cour interaméricaine Agua Caliente (16 mai)."}
 fiabilite:
   verifie: ["Texte de l'accord de 1995 (chap. IV B, D, E, F et VII) sur la copie FAOLEX et transmission par A/49/882.", "Art. 20, 21, 55 à 57, 65 et 66 du Code municipal sur le Diario de Centro América du 13 mai 2002 (copie du Congrès).", "Art. 5, 7, 9, 23 et 26 du décret 11-2002 et art. 1, 8, 13 et 15 du décret 19-2003 (copies du Congrès).", "Art. 66 à 70, 76 et 143 de la Constitution (Constitute Project).", "A/HRC/39/17/Add.3, § 8 à 17, 63 à 65, 74 à 79 et 91 ; CERD/C/GTM/CO/16-17, § 7 et 37 ; A/59/746, § 22 à 24 ; A/RES/48/267.", "Dispositifs des arrêts Agua Caliente (série C n° 488) et Sumpango (série C n° 440)."]
-  non_confirme: ["Texte du Code municipal consulté dans sa version de 2002 : effet des réformes ultérieures (dont le décret 22-2010) sur les art. 20, 55, 56 et 65 non vérifié.", "Population : chiffres officiels du recensement de 2018 par peuple non consultés sur le site de l'Institut national de statistique (inaccessible) ; le chiffre IWGIA de 6,5 millions est arrondi.", "Nombre de communautés autochtones inscrites au registre municipal et nombre d'alcaldías indígenas en activité : aucune source officielle trouvée.", "Valeur juridique des engagements de l'accord de 1995 depuis la loi-cadre des accords de paix (décret 52-2005) : texte non consulté.", "Exécution des arrêts Agua Caliente et Sumpango : aucune résolution de supervision consultée."]
+  non_confirme:
+    - "Texte du Code municipal consulté dans sa version de 2002 : effet des réformes ultérieures (dont le décret 22-2010) sur les art. 20, 55, 56 et 65 non vérifié."
+    - "Population : chiffres officiels du recensement de 2018 par peuple non consultés sur le site de l'Institut national de statistique (inaccessible) ; le chiffre IWGIA de 6,5 millions est arrondi."
+    - "Nombre de communautés autochtones inscrites au registre municipal et nombre d'alcaldías indígenas en activité : aucune source officielle trouvée."
+    - "Valeur juridique des engagements de l'accord de 1995 depuis la loi-cadre des accords de paix (décret 52-2005) : texte non consulté."
+    - "Exécution des arrêts Agua Caliente et Sumpango : aucune résolution de supervision consultée."
+    - "Nombre de villages : non trouvé."
+    - "Surface : non trouvée (aucune surface cumulée des terres communales ou des territoires autochtones dans une source ouverte consultée)."
 sources:
   - {titre: "Acuerdo sobre identidad y derechos de los pueblos indígenas (Mexico, 31 mars 1995) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/gua122086.pdf"}
   - {titre: "Lettre du Secrétaire général transmettant l'accord, A/49/882-S/1995/256 — Nations unies", url: "https://documents.un.org/api/symbol/access?s=A/49/882&l=es&t=pdf"}

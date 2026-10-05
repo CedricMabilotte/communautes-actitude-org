@@ -8,10 +8,10 @@ coord: [-12.3, 17.5]
 type: "communaute_locale"
 types_secondaires: []
 base: "territoriale"
-population: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 12613293, annee: 2024, perimetre: "population résidant en zone rurale au recensement général de 2024, au 19 septembre 2024 (34,5 % de la population du pays) ; le recensement ne compte pas à part les membres des communautés rurales titulaires de droits coutumiers", source: "https://censo2024.ine.gov.ao/Relatorio_Geral_Angola_Censo2024.pdf"}
 lieux: {valeur: null, unite: "titres de reconnaissance du domaine utile coutumier", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 28973, annee: 2024, perimetre: "aldeias (villages) des zones rurales dans la base géographique de l'INE lors de la mise à jour cartographique du recensement de 2024, selon la division politico-administrative de la loi 18/16 (28 978 selon celle de la loi 14/24) ; la loi foncière n'en fait pas des unités du régime", source: "https://censo2024.ine.gov.ao/Relatorio_Geral_Angola_Censo2024.pdf"}
 resume: >-
   Fiche agrégée : elle couvre les communautés rurales d'Angola titulaires de terrains ruraux communautaires. La loi sur les terres (Lei de Terras, loi n.º 9/04 du 9 novembre 2004) définit les communautés rurales comme des communautés de familles voisines qui détiennent des droits collectifs de possession, de gestion, d'usage et de jouissance de leurs terrains selon la coutume (art. 1 c)). Elle reconnaît à leurs familles le domaine utile coutumier (droit d'usage permanent sur une terre dont l'État garde la propriété), gratuit et imprescriptible, constaté par un titre ; ces terrains ne peuvent être concédés à des tiers sauf désaffectation (retrait du statut communautaire) après audition des autorités traditionnelles (art. 37). Les litiges internes sont tranchés au sein de la communauté selon la coutume (art. 82). Le nombre de titres délivrés n'a pas été trouvé.
 reconnaissance_regionale: []
@@ -49,8 +49,10 @@ fiabilite:
     - "Le texte constitutionnel lu est la version de 2010 publiée par le Constitute Project ; la révision constitutionnelle de 2021 n'a pas été comparée pour les articles cités."
     - "L'IWGIA indique que le gouvernement ne reconnaît pas la notion de peuple autochtone au sens du droit international ; les communautés San ne sont pas visées comme telles par le régime, qui s'applique aux communautés rurales en général."
     - "Aucun document d'un mécanisme de l'ONU de la liste du cadre nommant le régime des terrains ruraux communautaires n'a été trouvé."
+    - "Surface des terrains ruraux communautaires : non trouvée."
 sources:
   - {titre: "Lei de Terras de Angola, loi n.º 9/04 du 9 novembre 2004 — copie PDAC", url: "https://pdac.ao/wp-content/uploads/2020/07/LEI_TERRAS_ANGOLA.pdf"}
   - {titre: "Constitution de la République d'Angola, 2010 — Constitute Project", url: "https://www.constituteproject.org/constitution/Angola_2010"}
   - {titre: "Comité des droits économiques, sociaux et culturels, observations finales sur l'Angola, E/C.12/AGO/CO/4-5, 2016", url: "https://documents.un.org/api/symbol/access?s=E/C.12/AGO/CO/4-5&l=en&t=pdf"}
+  - {titre: "INE Angola — Résultats définitifs du recensement général de la population et de l'habitat 2024 (RGPH 2024), rapport général", url: "https://censo2024.ine.gov.ao/Relatorio_Geral_Angola_Censo2024.pdf"}
   - {titre: "IWGIA, « Indigenous peoples in Angola »", url: "https://iwgia.org/en/angola/742-indigenous-peoples-in-angola"}

@@ -9,7 +9,7 @@ type: "peuple_autochtone"
 base: "territoriale"
 types_secondaires: []
 population: {valeur: 5182, annee: 2026, perimetre: "membres inscrits au registre fédéral des deux bandes haïdas (Old Massett Village Council : 3 357 ; Skidegate : 1 825), septembre 2026, toutes résidences confondues ; la citoyenneté haïda définie par la constitution de la Nation n'est pas comptée", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=669&lang=eng"}
-lieux: {valeur: null, unite: "", annee: null, source: ""}
+lieux: {valeur: 38, unite: "réserves indiennes des deux bandes haïdas", annee: 2026, perimetre: "réserves inscrites au registre fédéral au nom d'Old Massett Village Council (27) et de Skidegate (11), page des réserves de chaque bande (bandes 669 et 670), mise à jour du 14 janvier 2026 ; les terres de titre haïda reconnues en 2024 ne sont pas comptées", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNReserves.aspx?BAND_NUMBER=669&lang=eng"}
 surface_km2: {valeur: 10000, annee: 2024, perimetre: "Haida Gwaii, environ 1 million d'hectares selon la province (archipel de plus de 200 îles)", source: "https://news.gov.bc.ca/releases/2024IRR0027-000768"}
 villages: {valeur: 2, annee: 2024, perimetre: "villages haïdas de Haida Gwaii dotés d'un conseil de bande : Old Massett et Skidegate", source: "https://www.rcaanc-cirnac.gc.ca/eng/1733348293891/1733348316005"}
 resume: >-
@@ -68,5 +68,7 @@ sources:
   - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones : la situation au Canada, A/HRC/27/52/Add.2", url: "https://undocs.org/A/HRC/27/52/Add.2"}
   - {titre: "Population inscrite, Old Massett Village Council (bande 669)", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=669&lang=eng"}
   - {titre: "Population inscrite, Skidegate (bande 670)", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=670&lang=eng"}
+  - {titre: "Réserves, Old Massett Village Council (bande 669)", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNReserves.aspx?BAND_NUMBER=669&lang=eng"}
+  - {titre: "Réserves, Skidegate (bande 670)", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNReserves.aspx?BAND_NUMBER=670&lang=eng"}
   - {titre: "Constitution de la Nation haïda — Conseil de la Nation haïda", url: "https://www.haidanation.ca/about/haida-constitution"}
   - {titre: "Council of the Haida Nation — Wikipedia", url: "https://en.wikipedia.org/wiki/Council_of_the_Haida_Nation"}

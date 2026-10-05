@@ -43,7 +43,7 @@ chronologie:
   - {annee: 2006, evenement: "Derniers règlements publiés : Bayulu, Warmun et Parnpajinya."}
 fiabilite:
   verifie: ["Sections 3 à 13 de la loi, version consolidée du 14 septembre 2012 (legislation.wa.gov.au).", "Liste des 27 règlements en vigueur et date de publication de chacun (registre de la législation de l'Australie-Occidentale, relevé le 1er octobre 2026).", "Contenu des Bidyadanga Community By-laws 2004 (version du 24 avril 2026).", "Les amendes reviennent au conseil pour l'usage de la communauté (s. 12)."]
-  non_confirme: ["Application actuelle des règlements de communautés fermées ou dépeuplées (Oombulgurri).", "Population et surface des terres communautaires déclarées.", "Nombre de communautés couvertes par les règlements du Ngaanyatjarra Council.", "Existence d'un document onusien visant ce régime."]
+  non_confirme: ["Application actuelle des règlements de communautés fermées ou dépeuplées (Oombulgurri).", "Population des terres communautaires déclarées : non trouvée.", "Surface des terres communautaires déclarées : non trouvée.", "Nombre de villages : non trouvé. 26 règlements visent chacun une communauté ou un organisme ; celui du Ngaanyatjarra Council vise un conseil dont le site indique 11 communautés membres, sans que le nombre de communautés couvertes par le règlement de 1989 ait été vérifié.", "Existence d'un document onusien visant ce régime."]
 sources:
   - {titre: "Aboriginal Communities Act 1979 — Western Australian Legislation", url: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a2.html"}
   - {titre: "Aboriginal Communities Act 1979, version consolidée de 2012 (HTML)", url: "https://www.legislation.wa.gov.au/legislation/statutes.nsf/RedirectURL?OpenAgent&query=mrdoc_24182.htm"}

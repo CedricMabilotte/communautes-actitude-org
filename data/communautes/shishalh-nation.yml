@@ -8,20 +8,20 @@ coord: [49.5, -123.8]
 type: "peuple_autochtone"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: 1770, annee: 2026, perimetre: "membres inscrits de la Nation (registre des Indiens, août 2026), toutes résidences confondues", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=551&lang=eng"}
-lieux: {valeur: 33, unite: "parcelles de terres shíshálh", annee: 2026, source: "https://shishalh.com/services/inter-government/land-public-works/"}
-surface_km2: {valeur: 10.5, annee: 2026, perimetre: "terres détenues en fief simple, 2 600 acres convertis en km²", source: "https://shishalh.com/services/inter-government/land-public-works/"}
+population: {valeur: 1774, annee: 2026, perimetre: "personnes inscrites au registre des Indiens rattachées à la Nation (septembre 2026), toutes résidences : 603 sur ses propres terres, 31 dans d'autres réserves, 1 140 hors réserve", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=551&lang=fra"}
+lieux: {valeur: 33, unite: "parcelles de terres shishalhes (anciennes réserves secheltes inscrites au registre fédéral)", annee: 2026, source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNReserves.aspx?BAND_NUMBER=551&lang=fra"}
+surface_km2: {valeur: 10.3, annee: 2026, perimetre: "total des 33 parcelles au registre fédéral (1 031,7 hectares) ; le site de la Nation annonce 2 600 acres (environ 10,5 km²) ; le territoire revendiqué n'est pas compté", source: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNReserves.aspx?BAND_NUMBER=551&lang=fra"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
-  La bande indienne sechelte (aujourd'hui Nation shíshálh) est la première Première Nation à sortir du régime de la Loi sur les Indiens par une loi fédérale d'autonomie, adoptée le 17 juin 1986 après un référendum du 15 mars 1986. Les terres de réserve lui sont transférées en fief simple (pleine propriété). Son conseil (hiwus) légifère sur ses terres dans les domaines fixés par la loi. La loi a été modifiée en 2022 et renommée Loi sur l'autonomie gouvernementale de la Nation shishalhe.
+  La bande indienne sechelte (aujourd'hui Nation shíshálh) relève depuis 1986 d'une loi fédérale d'autonomie gouvernementale, sanctionnée le 17 juin 1986 après le référendum des membres du 15 mars 1986. Les terres de réserve lui ont été transférées en fief simple (pleine propriété). Son conseil (hiwus) légifère sur ses terres dans les domaines fixés par la loi ; la Loi sur les Indiens continue de s'appliquer sauf incompatibilité (art. 35). La loi, modifiée en 2022 (L.C. 2022, ch. 9), porte le nom de Loi sur l'autonomie gouvernementale de la Nation shishalhe. Pour les bandes restées sous ce seul régime, voir la fiche « Premières Nations et réserves sous la Loi sur les Indiens » ; pour un régime fédéral voisin, la fiche « Première Nation de Westbank (syilx) ».
 reconnaissance_regionale: []
 reconnaissance_onu:
-  - {mecanisme: "dnudpa", detail: "Le Canada a appuyé la Déclaration après avoir voté contre en 2007 ; la loi fédérale L.C. 2021, ch. 14 et le préambule de la loi shishalhe modifiée en 2022 se réfèrent à sa mise en œuvre.", annee: 2022, source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
+  - {mecanisme: "dnudpa", detail: "Le préambule de la loi fédérale, modifié en 2022, énonce l'engagement du gouvernement du Canada à mettre en œuvre la Déclaration des Nations unies sur les droits des peuples autochtones, y compris en ce qui touche l'autonomie gouvernementale de la Nation.", annee: 2022, source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
 base_nationale:
   - {instrument: "Loi sur l'autonomie gouvernementale de la Nation shishalhe, L.C. 1986, ch. 27 (modifiée en 2022)", nature: "loi", annee: 1986, source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
-  - {instrument: "Constitution de la Nation shishalhe (modifiée par le décret C.P. 2019-1225)", nature: "coutume_reconnue", annee: 2019, source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
+  - {instrument: "Constitution de la Nation shishalhe, prévue par l'art. 10 de la loi (modifiée par le décret C.P. 2019-1225 du 17 août 2019)", nature: "statut_autonomie", annee: 2019, source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
 droits:
-  autogouvernement: {valeur: "reconnu", note: "La loi de 1986 maintient le conseil de la Nation (hiwus) et un district de l'administration de la Nation shishalhe doté de la personnalité juridique (art. 17 à 20).", source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
+  autogouvernement: {valeur: "reconnu", note: "La loi maintient le conseil de la Nation (hiwus), élu selon la constitution de la Nation (art. 8), et le district de l'administration de la Nation shishalhe, doté de la personnalité juridique (art. 17 à 20).", source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
   pouvoir_normatif: {valeur: "reconnu", note: "Le conseil édicte des lois shishalhes sur l'accès aux terres, le zonage, l'éducation, les services sociaux, la santé, l'ordre public, les successions et d'autres domaines (art. 14) ; la Charte canadienne s'applique (art. 37.1).", source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "reconnu", note: "Le titre en fief simple des anciennes terres de réserve a été transféré à la Nation (art. 23 de la loi antérieure, art. 24) ; une terre vendue cesse d'être terre shishalhe (art. 2(2)).", source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
@@ -31,20 +31,27 @@ droits:
   education: {valeur: "partiel", note: "Compétence législative sur l'éducation des membres sur les terres shishalhes (art. 14(1) g).", source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
   fiscalite: {valeur: "reconnu", note: "Compétence législative sur les impôts fonciers et taxes locales, y compris sur les occupants et locataires non membres (art. 14(1) e).", source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
   representation: {valeur: "non_etabli", note: "", source: ""}
-  statut_personnel: {valeur: "partiel", note: "L'appartenance à la Nation relève de la Nation et de sa constitution ; elle ne peut être transférée au district (art. 21(1)).", source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
+  statut_personnel: {valeur: "partiel", note: "La constitution de la Nation comporte un code d'appartenance (art. 10(1) d)) ; cette attribution ne peut être transférée au district (art. 21(1)) ; le statut d'Indien reste déterminé par la Loi sur les Indiens (art. 35(2)).", source: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "effective", note: "La Nation administre elle-même ses 33 parcelles et y accorde baux et permis ; elle a signé un accord de fondation avec la Colombie-Britannique en 2018 et plusieurs accords forestiers.", source: "https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/consulting-with-first-nations/first-nations-negotiations/first-nations-a-z-listing/sechelt-sh-sh-lh-first-nation"}
+effectivite: {valeur: "effective", note: "La base de données électorale localelections.ca recense en octobre 2026 l'élection de quatre conseillers consultatifs du district de l'administration de la Nation shishalhe (environ 450 électeurs estimés) ; la Nation a renouvelé son conseil par l'élection générale de février 2026 ; la province liste les accords conclus avec la Nation, dont l'accord de fondation de 2018 et son avenant du 16 août 2024.", source: "https://localelections.ca/election_candidates/178_2026_candidates.html"}
 chronologie:
   - {annee: 1986, evenement: "Référendum des membres (15 mars) ; sanction de la loi sur l'autonomie gouvernementale de la bande indienne sechelte (17 juin) ; transfert des terres en fief simple (9 octobre)."}
   - {annee: 1988, evenement: "Constitution du district de l'administration indienne sechelte (17 mars)."}
   - {annee: 2018, evenement: "Accord de fondation avec la Colombie-Britannique."}
+  - {annee: 2019, evenement: "Modification de la constitution de la Nation approuvée par le décret C.P. 2019-1225 (17 août)."}
   - {annee: 2022, evenement: "Modification de la loi (L.C. 2022, ch. 9) : nouveau nom, nouvelles compétences (services à l'enfance et à la famille)."}
+  - {annee: 2024, evenement: "Avenant à l'accord de fondation avec la Colombie-Britannique sur les étapes à moyen terme (16 août)."}
+  - {annee: 2026, evenement: "Élection générale du conseil de la Nation (février)."}
 fiabilite:
-  verifie: ["Articles 2, 14, 17 à 24 et 37.1 de la loi fédérale (version codifiée).", "Nombre de membres inscrits au registre fédéral (août 2026).", "Nombre de parcelles et surface en acres (site de la Nation)."]
-  non_confirme: ["Date de constitution du district tirée d'une page encyclopédique.", "Compétences transférées au district par décret depuis 1988."]
+  verifie: ["Préambule, articles 2, 8, 10, 14, 17 à 24, 35 et 37.1 de la loi fédérale (version à jour au 21 septembre 2026, dernière modification le 23 juin 2022).", "Population inscrite au registre fédéral (septembre 2026).", "Liste et superficie des 33 parcelles au registre fédéral.", "Date de l'avenant de 2024 (texte publié par la province).", "Résultat de l'élection générale de 2026 (site de la Nation)."]
+  non_confirme: ["Date de constitution du district tirée d'une page encyclopédique.", "Compétences transférées au district par décret depuis 1988.", "Nombre de villages : non trouvé.", "Écart entre la superficie du registre fédéral (1 031,7 ha) et celle du site de la Nation (2 600 acres)."]
 sources:
   - {titre: "Loi sur l'autonomie gouvernementale de la Nation shishalhe, L.C. 1986, ch. 27 — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/S-6.6/TexteComplet.html"}
-  - {titre: "Population inscrite, Nation shíshálh (bande n° 551) — Relations Couronne-Autochtones", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=551&lang=eng"}
+  - {titre: "Population inscrite, Nation shíshálh (bande n° 551) — Relations Couronne-Autochtones et Affaires du Nord Canada", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNRegPopulation.aspx?BAND_NUMBER=551&lang=fra"}
+  - {titre: "Réserves, établissements et villages, Nation shíshálh (bande n° 551) — Relations Couronne-Autochtones et Affaires du Nord Canada", url: "https://fnp-ppn.aadnc-aandc.gc.ca/fnp/Main/Search/FNReserves.aspx?BAND_NUMBER=551&lang=fra"}
   - {titre: "Land & Public Works — shíshálh Nation", url: "https://shishalh.com/services/inter-government/land-public-works/"}
   - {titre: "shíshálh Nation — Province de Colombie-Britannique", url: "https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/consulting-with-first-nations/first-nations-negotiations/first-nations-a-z-listing/sechelt-sh-sh-lh-first-nation"}
   - {titre: "shíshálh Nation Government District — Wikipedia", url: "https://en.wikipedia.org/wiki/Sh%C3%ADsh%C3%A1lh_Nation_Government_District"}
+  - {titre: "Foundation Agreement Addendum Regarding Medium-Term Milestones (16 août 2024) — Province de Colombie-Britannique", url: "https://www2.gov.bc.ca/assets/gov/environment/natural-resource-stewardship/consulting-with-first-nations/agreements/2024_foundation_agreement_renewal.pdf"}
+  - {titre: "2026 General Election Results — shíshálh Nation", url: "https://shishalh.com/2026/02/21/2026-general-election-results/"}
+  - {titre: "shíshálh Nation Government District (Advisory Body), élection 2026 — localelections.ca", url: "https://localelections.ca/election_candidates/178_2026_candidates.html"}

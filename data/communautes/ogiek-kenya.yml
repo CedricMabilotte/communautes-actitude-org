@@ -8,51 +8,78 @@ coord: [-0.5, 35.8]
 type: "peuple_autochtone"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: 52596, annee: 2019, perimetre: "personnes se déclarant ogiek au recensement kenyan de 2019", source: "https://en.wikipedia.org/wiki/Okiek_people"}
+population: {valeur: 52596, annee: 2019, perimetre: "personnes se déclarant ogiek au recensement kenyan de 2019 (volume IV du Bureau national de la statistique, cité par l'encyclopédie) ; Peace Brigades International donne « environ 52 590 » selon le même recensement ; l'arrêt de la Cour africaine de 2022 retient environ 40 000 membres", source: "https://en.wikipedia.org/wiki/Okiek_people"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: 4000, annee: null, perimetre: "complexe forestier de Mau dans son ensemble (environ 400 000 ha), dont la restitution aux Ogiek a été demandée devant la Cour africaine ; superficie approximative ; ne compte pas le mont Elgon ; aucune terre ogiek n'est délimitée", source: "https://ke.chm-cbd.net/protected-areas/mau-forest-complex"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
-  Les Ogiek sont un peuple de chasseurs-cueilleurs et d'apiculteurs des forêts de Mau et du mont Elgon.
+  Les Ogiek sont un peuple de chasseurs-cueilleurs et d'apiculteurs des forêts de Mau et du mont Elgon ; le recensement de 2019 en compte environ 52 600.
   Le 26 mai 2017, la Cour africaine des droits de l'homme et des peuples a jugé que leur expulsion de la forêt de Mau violait sept articles de la Charte africaine.
-  Le 23 juin 2022, elle a ordonné au Kenya de délimiter leurs terres ancestrales et de leur délivrer un titre collectif, de les reconnaître comme peuple autochtone et de créer un fonds de développement communautaire.
+  Le 23 juin 2022, elle a ordonné au Kenya de délimiter leurs terres ancestrales et de leur délivrer un titre collectif, de les reconnaître comme peuple autochtone et de créer un fonds de développement communautaire ; le 4 décembre 2025, elle a constaté que ces mesures n'étaient pas exécutées.
   En droit kenyan, ils relèvent des dispositions générales de la Constitution de 2010 sur les terres communautaires et les communautés marginalisées.
   Les régimes généraux sont décrits dans les fiches « Terres communautaires enregistrées du Kenya » et « Forêts communautaires du Kenya ».
 reconnaissance_regionale:
-  - {mecanisme: "cour_africaine", detail: "Arrêt sur le fond du 26 mai 2017 (requête 006/2012, Commission africaine c. Kenya) : violation des art. 1, 2, 8, 14, 17(2)-(3), 21 et 22 de la Charte africaine.", annee: 2017, source: "https://www.african-court.org/cpmt/storage/app/uploads/public/62b/aba/fd8/62babafd8d467689318212.pdf"}
-  - {mecanisme: "cour_africaine", detail: "Arrêt sur les réparations du 23 juin 2022 : identifier, délimiter, borner et titrer les terres ancestrales ogiek sous deux ans (par. 116) ; reconnaissance comme peuple autochtone sous douze mois (par. 126) ; consultation et consentement libre, préalable et éclairé (par. 144) ; fonds de développement communautaire (par. 155).", annee: 2022, source: "https://www.african-court.org/cpmt/storage/app/uploads/public/62b/aba/fd8/62babafd8d467689318212.pdf"}
+  - {mecanisme: "cour_africaine", detail: "Arrêt sur le fond du 26 mai 2017 (requête 006/2012, Commission africaine c. Kenya) : violation des art. 1, 2, 8, 14, 17(2)-(3), 21 et 22 de la Charte africaine (rappel dans l'arrêt sur les réparations de 2022).", annee: 2017, source: "https://www.african-court.org/cpmt/storage/app/uploads/public/62b/aba/fd8/62babafd8d467689318212.pdf"}
+  - {mecanisme: "cour_africaine", detail: "Arrêt sur les réparations du 23 juin 2022 : identifier, délimiter, borner et titrer les terres ancestrales ogiek sous deux ans (par. 116) ; reconnaissance comme peuple autochtone sous douze mois (par. 126) ; consultation et consentement libre, préalable et éclairé (par. 144-145) ; fonds de développement communautaire (par. 155) ; indemnisation de 57 850 000 KES pour préjudice matériel (par. 77).", annee: 2022, source: "https://www.african-court.org/cpmt/storage/app/uploads/public/62b/aba/fd8/62babafd8d467689318212.pdf"}
+  - {mecanisme: "cour_africaine", detail: "Décision du 4 décembre 2025 sur l'exécution : indemnités non versées, identification, délimitation et titrage collectif des terres ancestrales non achevés, consultation insuffisante, fonds de développement communautaire non créé ; la Cour ordonne l'exécution sans délai.", annee: 2025, source: "https://www.african-court.org/afchpr/african-court-on-human-and-peoples-rights-issues-new-orders-to-kenya-over-non-compliance-in-the-ogiek-case/"}
 reconnaissance_onu:
-  - {mecanisme: "rapporteur_special", detail: "Le Rapporteur spécial Albert K. Barume demande le 4 juin 2025 l'arrêt immédiat des opérations de délimitation foncière dans l'est de la forêt de Mau, qui menacent les droits de plus de 8 500 Ogiek.", annee: 2025, source: "https://www.ohchr.org/en/press-releases/2025/06/kenya-un-expert-urges-immediate-halt-land-demarcation-violating-ogiek-rights"}
+  - {mecanisme: "rapporteur_special", detail: "Le Rapporteur spécial Rodolfo Stavenhagen décrit l'expulsion des Ogiek de la forêt de Mau classée en 1974 et l'absence de reconnaissance comme groupe distinct (A/HRC/4/32/Add.3, par. 37-38).", annee: 2007, source: "https://docs.un.org/en/A/HRC/4/32/Add.3"}
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme relève les expulsions des Ogiek de la forêt de Mau et demande que l'inventaire de leurs droits fonciers repose sur leur consentement libre et éclairé (CCPR/C/KEN/CO/3, par. 24).", annee: 2012, source: "https://docs.un.org/fr/CCPR/C/KEN/CO/3"}
+  - {mecanisme: "organe_traite", detail: "Le CERD demande de reconnaître juridiquement les droits collectifs des Sengwer, des Endorois et des Ogiek sur leurs terres, ressources et territoires (CERD/C/KEN/CO/5-7, par. 19-20).", annee: 2017, source: "https://docs.un.org/fr/CERD/C/KEN/CO/5-7"}
+  - {mecanisme: "organe_traite", detail: "Le Comité des droits de l'homme demande la publication des recommandations de l'équipe spéciale chargée de l'exécution de l'arrêt de la Cour africaine sur les Ogiek de Mau, et la mise en œuvre de la loi de 2016 sur les terres communautaires (CCPR/C/KEN/CO/4, par. 50-51).", annee: 2021, source: "https://docs.un.org/fr/CCPR/C/KEN/CO/4"}
+  - {mecanisme: "rapporteur_special", detail: "Le Rapporteur spécial Albert K. Barume demande le 4 juin 2025 l'arrêt immédiat des opérations de délimitation foncière engagées le 25 avril 2025 dans l'est de la forêt de Mau, qui menacent les droits de plus de 8 500 Ogiek de Nessuit, Mariashoni et Sururu.", annee: 2025, source: "https://www.ohchr.org/en/press-releases/2025/06/kenya-un-expert-urges-immediate-halt-land-demarcation-violating-ogiek-rights"}
+  - {mecanisme: "rapporteur_special", detail: "Le Rapporteur spécial range l'arrêt en faveur des Ogiek parmi trois décisions régionales « still unimplemented » (non appliquées) (A/HRC/60/29, par. 39).", annee: 2025, source: "https://docs.un.org/en/A/HRC/60/29"}
 base_nationale:
-  - {instrument: "Constitution du Kenya, art. 56 et 63", nature: "constitution", annee: 2010, source: "https://www.constituteproject.org/constitution/Kenya_2010?lang=en"}
+  - {instrument: "Constitution du Kenya, art. 56, 63 et 260", nature: "constitution", annee: 2010, source: "https://www.constituteproject.org/constitution/Kenya_2010?lang=en"}
+  - {instrument: "Community Land Act (loi sur les terres communautaires) n° 27 de 2016", nature: "loi", annee: 2016, source: "https://docs.un.org/fr/CCPR/C/KEN/CO/4"}
 droits:
   autogouvernement: {valeur: "non_etabli", note: "", source: ""}
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
-  terres: {valeur: "partiel", note: "Art. 63 de la Constitution de 2010 : les terres communautaires appartiennent aux communautés identifiées par l'ethnie ou la culture, y compris les terres ancestrales et celles des chasseurs-cueilleurs. Aucun titre collectif ogiek n'a été délivré ; la Cour africaine l'a ordonné en 2022.", source: "https://www.constituteproject.org/constitution/Kenya_2010?lang=en"}
+  terres: {valeur: "partiel", note: "Art. 63 de la Constitution de 2010 : les terres communautaires appartiennent aux communautés identifiées par l'ethnie ou la culture, y compris les terres ancestrales et celles occupées traditionnellement par des chasseurs-cueilleurs. Aucun titre collectif ogiek n'a été délivré ; la Cour africaine l'a ordonné en 2022 et constate en 2025 qu'il ne l'est pas.", source: "https://www.constituteproject.org/constitution/Kenya_2010?lang=en"}
   ressources: {valeur: "non_etabli", note: "", source: ""}
   consentement: {valeur: "non_etabli", note: "", source: ""}
   langue: {valeur: "non_etabli", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
-  representation: {valeur: "partiel", note: "Art. 56 de la Constitution de 2010 : programmes d'action positive pour la participation et la représentation des minorités et groupes marginalisés. Aucun siège réservé.", source: "https://www.constituteproject.org/constitution/Kenya_2010?lang=en"}
+  representation: {valeur: "partiel", note: "Art. 56 de la Constitution de 2010 : programmes d'action positive pour que les minorités et groupes marginalisés participent et soient représentés dans la gouvernance ; l'art. 260 range parmi les « communautés marginalisées » les communautés autochtones vivant d'une économie de chasse ou de cueillette. Aucun siège réservé.", source: "https://www.constituteproject.org/constitution/Kenya_2010?lang=en"}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "contestee", note: "En septembre 2024, le Tribunal de l'environnement et des terres de Nakuru a rejeté les revendications ogiek sur l'est de la forêt de Mau ; le Rapporteur spécial de l'ONU signale en juin 2025 des délimitations foncières contraires aux arrêts de la Cour africaine.", source: "https://www.ohchr.org/en/press-releases/2025/06/kenya-un-expert-urges-immediate-halt-land-demarcation-violating-ogiek-rights"}
+effectivite: {valeur: "contestee", note: "La Cour africaine constate le 4 décembre 2025 que le Kenya n'a pas exécuté ses arrêts de 2017 et 2022 : indemnités non versées, terres ancestrales non délimitées ni titrées, fonds de développement non créé. Le Rapporteur spécial de l'ONU signale en juin 2025 des délimitations foncières engagées dans l'est de Mau sans consultation des Ogiek.", source: "https://www.african-court.org/afchpr/african-court-on-human-and-peoples-rights-issues-new-orders-to-kenya-over-non-compliance-in-the-ogiek-case/"}
 chronologie:
-  - {annee: 2010, evenement: "Nouvelle Constitution : terres communautaires (art. 63)."}
+  - {annee: 1974, evenement: "Classement de la forêt de Mau en forêt nationale ; expulsion des Ogiek sans consultation ni indemnisation, selon le Rapporteur spécial de l'ONU (2007)."}
+  - {annee: 2001, evenement: "Avis légal n° 142 du 8 octobre : déclassement de 35 301 ha de l'est de la forêt de Mau pour des programmes d'installation."}
+  - {annee: 2010, evenement: "Nouvelle Constitution : terres communautaires (art. 63) et communautés marginalisées (art. 260)."}
   - {annee: 2012, evenement: "La Commission africaine saisit la Cour africaine (requête 006/2012)."}
+  - {annee: 2016, evenement: "Adoption de la loi sur les terres communautaires (n° 27 de 2016)."}
   - {annee: 2017, evenement: "Arrêt de la Cour africaine sur le fond (26 mai)."}
   - {annee: 2022, evenement: "Arrêt de la Cour africaine sur les réparations (23 juin)."}
-  - {annee: 2023, evenement: "Nouvelles expulsions dans la forêt de Mau en novembre."}
-  - {annee: 2024, evenement: "Le Tribunal de l'environnement et des terres de Nakuru rejette les revendications ogiek sur l'est de Mau (septembre)."}
+  - {annee: 2023, evenement: "Expulsion de plus de 700 familles ogiek à Sasimwani, dans la forêt de Mau (novembre)."}
+  - {annee: 2024, evenement: "Le Tribunal de l'environnement et des terres de Nakuru juge valide le déclassement de 2001 et les titres des personnes installées dans l'est de Mau, et se déclare sans compétence pour faire exécuter la décision africaine (30 septembre, Tonui c. Kenya Forest Service)."}
+  - {annee: 2024, evenement: "Audience de la Cour africaine sur l'exécution ; le Kenya reçoit 90 jours à compter du 12 novembre pour rendre compte des mesures prises."}
+  - {annee: 2025, evenement: "Début des opérations de délimitation foncière dans l'est de Mau (25 avril) ; titre de 250 000 acres sur la forêt de Maasai Mau délivré au comté de Narok (6 mai)."}
   - {annee: 2025, evenement: "Déclaration du Rapporteur spécial de l'ONU (4 juin)."}
+  - {annee: 2025, evenement: "Le Tribunal de l'environnement et des terres rejette une requête ogiek sur l'installation dans des villages de l'est de Mau (août)."}
+  - {annee: 2025, evenement: "La Cour africaine constate la non-exécution de ses arrêts et ordonne au Kenya de les exécuter sans délai (4 décembre)."}
 fiabilite:
-  verifie: ["Dispositif de l'arrêt de 2022 et rappel de l'arrêt de 2017 (site de la Cour africaine).", "Déclaration du Rapporteur spécial du 4 juin 2025 (OHCHR).", "Texte des art. 56 et 63 de la Constitution."]
-  non_confirme: ["Aucun instrument national ne nomme les Ogiek.", "Le Kenya s'est abstenu lors du vote de la DNUDPA en 2007 (A/61/PV.107).", "Population : chiffre du recensement de 2019 lu dans une encyclopédie, site du Bureau national de la statistique inaccessible ; d'autres sources donnent 20 000 à 50 000.", "Divergence sur la décision de 2024 : une ONG parle d'un jugement favorable, l'OHCHR d'un rejet ; la fiche suit l'OHCHR.", "Surface du territoire revendiqué non trouvée."]
+  verifie: ["Dispositif de l'arrêt de 2022 et rappel de l'arrêt de 2017 (site de la Cour africaine).", "Décision du 4 décembre 2025 sur l'exécution (communiqué de la Cour africaine).", "Déclaration du Rapporteur spécial du 4 juin 2025 (OHCHR) et A/HRC/60/29, par. 39.", "Paragraphes sur les Ogiek : Rapporteur spécial 2007, CCPR 2012 et 2021, CERD 2017.", "Jugement du 30 septembre 2024 du Tribunal de l'environnement et des terres (Kenya Law).", "Texte des art. 56, 63 et 260 de la Constitution.", "Le Kenya s'est abstenu lors du vote de la DNUDPA en 2007 (A/61/PV.107)."]
+  non_confirme: ["Aucun instrument national ne nomme les Ogiek : la fiche repose sur des droits constitutionnels attribués à des catégories (communautés, communautés marginalisées).", "Population : chiffre du recensement de 2019 lu dans une encyclopédie et chez Peace Brigades International, site du Bureau national de la statistique inaccessible ; d'autres sources donnent 20 000 à 50 000.", "Une ONG (IPRI, 2026) cite un jugement du 30 mai 2024 (Ngusilo c. Kenya) favorable au titre collectif ; texte non trouvé.", "Rejet d'août 2025 : connu par un article de presse (Nation), jugement non consulté.", "Texte de la loi sur les terres communautaires non consulté ; existence attestée par le Comité des droits de l'homme (2021).", "Surface : celle du complexe forestier de Mau, pas d'un territoire ogiek délimité ; année de la mesure non indiquée par la source.", "Nombre de villages : non trouvé.", "Nombre de lieux : sans objet, aucun site enregistré sous un régime propre.", "Ogiek du mont Elgon : non visés par les arrêts de la Cour africaine ; situation non documentée dans la fiche."]
 sources:
   - {titre: "Cour africaine — Commission africaine c. Kenya (006/2012), arrêt sur les réparations (2022)", url: "https://www.african-court.org/cpmt/storage/app/uploads/public/62b/aba/fd8/62babafd8d467689318212.pdf"}
+  - {titre: "Cour africaine — Nouvelles ordonnances au Kenya pour non-exécution dans l'affaire ogiek (4 décembre 2025)", url: "https://www.african-court.org/afchpr/african-court-on-human-and-peoples-rights-issues-new-orders-to-kenya-over-non-compliance-in-the-ogiek-case/"}
   - {titre: "OHCHR — Kenya: UN expert urges immediate halt to land demarcation violating Ogiek rights (2025)", url: "https://www.ohchr.org/en/press-releases/2025/06/kenya-un-expert-urges-immediate-halt-land-demarcation-violating-ogiek-rights"}
+  - {titre: "Rapporteur spécial — Mission au Kenya, A/HRC/4/32/Add.3 (2007)", url: "https://docs.un.org/en/A/HRC/4/32/Add.3"}
+  - {titre: "Comité des droits de l'homme — Observations finales, CCPR/C/KEN/CO/3 (2012)", url: "https://docs.un.org/fr/CCPR/C/KEN/CO/3"}
+  - {titre: "CERD — Observations finales, CERD/C/KEN/CO/5-7 (2017)", url: "https://docs.un.org/fr/CERD/C/KEN/CO/5-7"}
+  - {titre: "Comité des droits de l'homme — Observations finales, CCPR/C/KEN/CO/4 (2021)", url: "https://docs.un.org/fr/CCPR/C/KEN/CO/4"}
+  - {titre: "Rapporteur spécial — A/HRC/60/29 (2025)", url: "https://docs.un.org/en/A/HRC/60/29"}
+  - {titre: "Assemblée générale — A/61/PV.107 (vote de la DNUDPA, 2007)", url: "https://docs.un.org/en/A/61/PV.107"}
   - {titre: "Constitution du Kenya (2010) — Constitute Project", url: "https://www.constituteproject.org/constitution/Kenya_2010?lang=en"}
+  - {titre: "Kenya Law — Tonui c. Kenya Forest Service, [2024] KEELC 6320 (30 septembre 2024)", url: "https://new.kenyalaw.org/akn/ke/judgment/keelc/2024/6320/eng@2024-09-30"}
+  - {titre: "Nation — Ogiek lose court bid to settle in eastern Mau villages (août 2025)", url: "https://nation.africa/kenya/news/ogiek-lose-court-bid-to-settle-in-eastern-mau-villages-5159558"}
+  - {titre: "Nation — Ogiek fight for ancestral lands stalls as Kenya snubs African Court orders (décembre 2025)", url: "https://nation.africa/kenya/news/ogiek-ancestral-lands-stalls-kenya-ignores-african-court-orders-5290884"}
+  - {titre: "IWGIA — The Indigenous World 2025: Kenya", url: "https://iwgia.org/en/kenya/5627-iw-2025-kenya.html"}
+  - {titre: "Peace Brigades International Kenya — No land, no justice (octobre 2025)", url: "https://pbi-kenya.org/en/news/no-land-no-justice-ogiek%E2%80%99s-resistance-against-forced-displacement-and-erasure"}
   - {titre: "Indigenous Peoples Rights International — They won in court, but are still being evicted (2026)", url: "https://iprights.org/2026/03/19/they-won-in-court-but-are-still-being-evicted-the-ogiek-struggle-for-justice-in-kenya/"}
+  - {titre: "Kenya Biodiversity, centre d'échange de la CDB — Mau Forest Complex", url: "https://ke.chm-cbd.net/protected-areas/mau-forest-complex"}
   - {titre: "Okiek people — Wikipédia (anglais)", url: "https://en.wikipedia.org/wiki/Okiek_people"}

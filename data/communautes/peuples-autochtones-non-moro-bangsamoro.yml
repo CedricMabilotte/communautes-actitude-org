@@ -42,7 +42,13 @@ chronologie:
   - {annee: 2026, evenement: "Le 25 août, les communautés téduray et lambangian désignent selon leur droit coutumier les deux représentants des peuples autochtones non moro au premier Parlement bangsamoro élu."}
 fiabilite:
   verifie: ["Sections 3 à 9, 13, 16 à 37, 49 à 53, 65, 74, 77 à 86, 98 à 102 et 105 de la loi BAA No. 64 (texte officiel du Parlement bangsamoro).", "Adoption le 10 décembre 2024 par 63 voix sans opposition (MindaNews).", "Art. IV, VII et IX de la loi organique de 2018 (Lawphil).", "Vote des Philippines sur la résolution 61/295 (A/61/PV.107).", "Lancement du règlement d'application le 9 juin 2025 et désignation coutumière des deux représentants le 25 août 2026 (gouvernement bangsamoro).", "Champ d'application de la loi aux peuples des îles, section 3."]
-  non_confirme: ["Population des peuples non moro dans la région, nombre et surface des domaines ancestraux, dont la demande de domaine ancestral téduray-lambangian citée à la section 102.", "Date de publication de la loi et donc d'entrée en vigueur (15 jours après publication, section 106)."]
+  non_confirme:
+    - "Demande de domaine ancestral téduray-lambangian citée à la section 102 : superficie de 289 268 hectares connue par la presse (2010), sans document officiel consulté."
+    - "Date de publication de la loi et donc d'entrée en vigueur (15 jours après publication, section 106)."
+    - "Population des peuples non moro dans la région : non trouvée (le recensement de 2020 de l'Autorité philippine de la statistique ne publie en ligne que les trois premiers groupes de la région)."
+    - "Nombre de domaines ancestraux reconnus dans la région : non trouvé."
+    - "Nombre de villages : non trouvé."
+    - "Surface des domaines ancestraux dans la région : non trouvée. Seule la demande des Téduray, Lambangian et Dulangan Manobo est chiffrée (289 268 hectares en 2010, superficie revendiquée et non titrée, MindaNews : https://www.mindanews.com/peace-process/2010/10/teduray-and-lambangian-peoples-call-for-2nd-tribal-congress/) ; elle inclut des parties de la province de Sultan Kudarat, hors région autonome, et sa part située dans la région n'est pas connue."
 sources:
   - {titre: "Bangsamoro Autonomy Act No. 64, Bangsamoro Indigenous Peoples' Act of 2024 — texte officiel (PDF)", url: "https://parliament.bangsamoro.gov.ph/wp-content/uploads/2025/01/BAA-64-–-Bangsamoro-Indigenous-Peoples-Act-of-2024.pdf"}
   - {titre: "Fiche de la loi BAA No. 64 — Parlement bangsamoro", url: "https://parliament.bangsamoro.gov.ph/bta-acts/an-act-to-recognize-develop-and-protect-the-indigenous-peoples-and-their-rights-in-the-bangsamoro-autonomous-region-in-muslim-mindanao-strengthening-the-ministry-of-indigenous-peoples-affa-2/"}

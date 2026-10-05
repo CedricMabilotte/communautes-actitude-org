@@ -8,9 +8,9 @@ coord: [-19.6, -67.7]
 type: "peuple_autochtone"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 15934, annee: 2024, perimetre: "population recensée le 23 mars 2024 sur le territoire de l'autonomie (ancienne commune de Salinas de Garci Mendoza), toutes identifications ; 10 743 personnes s'y déclarent aymaras (Institut national de la statistique de Bolivie, repris par City Population)", source: "https://www.citypopulation.de/en/bolivia/admin/oruro/040801__salinas_de_garc%C3%AD_mendoza/"}
 lieux: {valeur: 9, unite: "unités territoriales décentralisées (UTD, ayllus et markas) : Kulli Yaretani, Phajcha San Martín, Thunupa, Cora Cora, Challacota Belén, Aroma, Huatari, Ucumasi, Villa Esperanza", annee: 2023, source: "https://fuentedirecta.oep.org.bo/noticia/ted-oruro-gaioc-salinas-posesiona-a-qulqi-kamachi-sara-poma-huarachi/"}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: 4958, annee: 2024, perimetre: "territoire de l'ancienne commune de Salinas de Garci Mendoza, superficie calculée par City Population à partir de données géospatiales et non publiée par l'Institut national de la statistique", source: "https://www.citypopulation.de/en/bolivia/admin/"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Salinas est une population aymara du sud de l'Altiplano, entre les salars de Tauca et de Thunupa, organisée en communautés, ayllus (lignages territoriaux) et markas (groupes d'ayllus). L'ancienne commune de Salinas de Garci Mendoza vote en 2009 sa conversion en AIOC (« Autonomía Indígena Originario Campesina », collectivité territoriale autochtone prévue par la Constitution de 2009). Le statut, déclaré conforme à la Constitution en 2018, est approuvé par référendum le 26 mai 2019 avec 51,8 % des voix. Le gouvernement autonome s'installe le 4 janvier 2021 : une assemblée des autorités originaires (Jach'a Tantachawi), un exécutif (Qulqi Kamachi) et neuf administrateurs territoriaux (Qulqi Apnaqiri).
@@ -44,7 +44,7 @@ chronologie:
   - {annee: 2023, evenement: "Sara Poma Huarachi, élue par le Jach'a Tantachawi le 14 novembre 2022, prend ses fonctions de Qulqi Kamachi pour 2023-2025 (28 février)."}
 fiabilite:
   verifie: ["Articles 2, 5, 12 à 14, 16 à 39, 42 à 58, 63, 78, 80 et dispositions transitoires du statut de Salinas (texte publié par l'Organe électoral plurinational, février 2019).", "Résultats des référendums de 2009 (75,09 %) et 2019 (51,8 %), numéros des déclarations de constitutionnalité et date d'installation, selon Sudamérica Rural.", "Mention de Salinas parmi les AIOC constituées par la voie municipale (Morell i Torra, 2021).", "Noms des neuf unités territoriales décentralisées et élection de la deuxième Qulqi Kamachi, selon l'Organe électoral plurinational (mars 2023)."]
-  non_confirme: ["Population et surface de l'ancienne commune : aucune source ouverte consultée.", "Existence et date d'un titre de TCO au nom des ayllus et markas de Salinas.", "Obtention des deux sièges à l'Assemblée départementale d'Oruro que le statut charge l'autonomie de demander (disposition transitoire sixième)."]
+  non_confirme: ["Existence et date d'un titre de TCO au nom des ayllus et markas de Salinas.", "Obtention des deux sièges à l'Assemblée départementale d'Oruro que le statut charge l'autonomie de demander (disposition transitoire sixième).", "Surface de 4 958 km² calculée par City Population, sans chiffre officiel consulté.", "Nombre de villages : non trouvé."]
 sources:
   - {titre: "Statut autonomique de l'AIOC de Salinas — Service étatique des autonomies (SEA)", url: "https://www.sea.gob.bo/wp-content/uploads/2021/09/EA-Salinas-de-Garc%C3%AD-Mendoza.pdf"}
   - {titre: "Statuts des gouvernements AIOC — Service étatique des autonomies (SEA)", url: "https://www.sea.gob.bo/desarrollo-normativo-autonomico/estatutos-autonomicos-y-cartas-organicas/estatutos-gaioc.html"}

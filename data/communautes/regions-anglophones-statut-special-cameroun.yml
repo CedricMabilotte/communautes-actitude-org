@@ -51,6 +51,7 @@ fiabilite:
     - "Date des premières élections régionales (décembre 2020) et installation des assemblées : non vérifiées sur une source primaire."
     - "Population et surface : somme des départements relevée sur City Population (recensement de 2005), non vérifiée auprès du Bureau central des recensements et des études de population."
     - "Aucun document d'un organe de l'ONU ou de la Commission africaine visant nommément le statut spécial n'a été consulté."
+    - "Nombre de villages : non trouvé (répertoire des villages du Bureau central des recensements et des études de population non accessible)."
 sources:
   - {titre: "Loi n° 2019/024 du 24 décembre 2019 portant Code général des collectivités territoriales décentralisées — MINDDEVEL", url: "https://www.minddevel.gov.cm/wp-content/uploads/2022/08/LOI_N%C2%B0_2019_024_DU_24_DECEMBRE_2019_PORTANT_CODE_GENERAL_DES_COLLECTIVITES.pdf"}
   - {titre: "Constitution du Cameroun — Constitute Project", url: "https://www.constituteproject.org/constitution/Cameroon_2008"}

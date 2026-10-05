@@ -45,7 +45,7 @@ chronologie:
   - {annee: 2021, evenement: "Renouvellement des membres territoriaux du Laymis Parla (8 au 13 novembre) et de l'autorité exécutive (14 novembre) selon les normes et procédures propres."}
 fiabilite:
   verifie: ["Articles 5, 30, 190, 289 et 304 de la Constitution de 2009.", "Articles 9, 15, 21, 24 à 44, 50, 51, 57 et 67 du statut, et date de la déclaration constitutionnelle (page de titre).", "Article 57 de la loi 026 de 2010 (circonscription spéciale Chipaya et Murato).", "Résultats des référendums de 2009 et 2016 et calendrier des désignations de 2017 (Organe électoral plurinational)."]
-  non_confirme: ["Existence d'un titre collectif de territoire (TIOC) et surface titrée : seule la superficie demandée est publiée.", "Population issue du recensement de 2024.", "Nombre de villages ou de hameaux habités dans les quatre ayllus."]
+  non_confirme: ["Existence d'un titre collectif de territoire (TIOC) et surface titrée : seule la superficie demandée est publiée.", "Population issue du recensement de 2024.", "Nombre de villages : non trouvé (le statut, art. 4 et 24, ne nomme que le chef-lieu, Chipaya, et les quatre ayllus)."]
 sources:
   - {titre: "Constitution de Bolivie (2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
   - {titre: "Statut du gouvernement autonome de la nation originaire Uru Chipaya — Organe électoral plurinational", url: "https://web.oep.org.bo/wp-content/uploads/2016/12/uru_chipaya.pdf"}

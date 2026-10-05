@@ -8,7 +8,7 @@ coord: [27.5, -107.5]
 type: "peuple_autochtone"
 types_secondaires: []
 base: "territoriale"
-population: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 110498, annee: 2020, perimetre: "personnes de 3 ans et plus qui parlent une langue autochtone, quelle qu'elle soit, dans l'ensemble de l'État de Chihuahua (recensement de 2020, INEGI, colonne P3YM_HLI) ; le chiffre inclut les locuteurs d'autres langues que celles des quatre peuples et exclut les membres qui ne parlent pas la langue ; 157 671 personnes vivent dans un ménage autochtone au sens de l'INEGI (colonne PHOG_IND)", source: "https://www.inegi.org.mx/contenidos/programas/ccpv/2020/datosabiertos/iter/iter_08_cpv2020_csv.zip"}
 lieux: {valeur: null, unite: "communautés inscrites au Registre de l'État des peuples et communautés autochtones", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
@@ -50,7 +50,7 @@ chronologie:
   - {annee: 2026, evenement: "Arrêt de la Cour suprême sur l'état civil de Tehuerichi (5 mars) ; réforme de la loi sur la juridiction spéciale autochtone (9 mai) ; réforme constitutionnelle prévoyant des conseillers municipaux autochtones (30 juin)."}
 fiabilite:
   verifie: ["Texte des articles 6 à 33 de la loi de 2013 dans sa version consolidée au 9 mai 2026, sur le site du Congrès du Chihuahua.", "Texte des articles 8 à 10 de la Constitution de l'État dans sa version consolidée au 30 juin 2026.", "Passages du rapport A/HRC/39/17/Add.2 sur la Sierra Tarahumara, Choréachi et Tehuerichi.", "Résolutions de la Cour interaméricaine du 25 mars 2017 et du 10 juin 2020 sur Choréachi."]
-  non_confirme: ["Texte de l'arrêt de la Cour suprême du 5 mars 2026 (amparo en revisión 423/2025), connu par la presse.", "Existence et contenu publics du Registre de l'État des peuples et communautés autochtones (art. 30) : aucune liste officielle des communautés n'a été trouvée, d'où l'absence de tableau.", "Population autochtone de l'État et nombre de communautés.", "Régime légal des conseillers municipaux autochtones dans la loi électorale de l'État."]
+  non_confirme: ["Texte de l'arrêt de la Cour suprême du 5 mars 2026 (amparo en revisión 423/2025), connu par la presse.", "Existence et contenu publics du Registre de l'État des peuples et communautés autochtones (art. 30) : aucune liste officielle des communautés n'a été trouvée, d'où l'absence de tableau.", "Nombre de communautés inscrites au Registre de l'État des peuples et communautés autochtones : non trouvé.", "Régime légal des conseillers municipaux autochtones dans la loi électorale de l'État.", "Nombre de villages : non trouvé ; le recensement de 2020 compte les locuteurs par localité, mais les données de 7 269 des 12 186 localités de l'État sont masquées par le secret statistique, ce qui empêche un décompte des localités autochtones.", "Surface : non trouvée ; aucune source ouverte ne donne la surface des terres des communautés ou de la Sierra Tarahumara."]
 sources:
   - {titre: "Ley de Derechos de los Pueblos Indígenas del Estado de Chihuahua — Congrès de l'État de Chihuahua", url: "https://www.congresochihuahua2.gob.mx/biblioteca/leyes/archivosLeyes/1003.pdf"}
   - {titre: "Constitución Política del Estado Libre y Soberano de Chihuahua — Congrès de l'État de Chihuahua", url: "https://www.congresochihuahua2.gob.mx/biblioteca/constitucion/archivosConstitucion/actual.pdf"}

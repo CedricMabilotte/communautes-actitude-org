@@ -8,19 +8,21 @@ coord: [24.5, -13.0]
 type: "peuple_territoire_non_autonome"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: 600000, annee: 2024, perimetre: "habitants de la partie à l'ouest du mur de sable (recensement marocain de 2024, ordre de grandeur cité par l'ONU)", source: "https://docs.un.org/fr/A/AC.109/2026/17"}
+population: {valeur: 600000, annee: 2024, perimetre: "habitants de la partie du territoire située à l'ouest du mur de sable, toutes origines confondues, selon le recensement marocain de septembre 2024 cité par l'ONU (environ 600 000) ; les réfugiés des camps de Tindouf ne sont pas comptés", source: "https://docs.un.org/fr/A/AC.109/2026/17"}
 lieux: {valeur: null, unite: "", annee: null, source: ""}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: 266000, annee: 2022, perimetre: "ensemble du territoire du Sahara occidental (ancienne Saguia el-Hamra et ancien Rio de Oro), des deux côtés du mur de sable", source: "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2022/table03.pdf"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
   Le Sahara occidental figure sur la liste des territoires non autonomes (territoires dont la population ne s'administre pas encore pleinement elle-même) des Nations unies depuis 1963.
   L'Espagne l'a administré jusqu'en 1975 ; le Maroc en contrôle depuis la majeure partie, à l'ouest du mur de sable, et le Front POLISARIO revendique l'indépendance.
   Le référendum d'autodétermination prévu par le plan de règlement de 1988 et confié à la MINURSO en 1991 n'a pas eu lieu.
-  Depuis la résolution 2797 (2025) du Conseil de sécurité, les négociations se fondent sur le plan d'autonomie proposé par le Maroc en 2007.
+  Depuis la résolution 2797 (2025) du Conseil de sécurité, les négociations se fondent sur le plan d'autonomie proposé par le Maroc en 2007 ; des réunions des quatre délégations (Maroc, Front POLISARIO, Algérie, Mauritanie) se sont tenues à Madrid et à Washington en février 2026.
+reconnaissance_regionale:
+  - {mecanisme: "union_europeenne", detail: "Arrêts de la Cour de justice de l'Union européenne du 4 octobre 2024 (affaires jointes C-778/21 P et C-798/21 P, C-779/21 P et C-799/21 P) : le consentement du peuple du Sahara occidental est une condition de validité des accords UE-Maroc appliqués sur ce territoire non autonome.", annee: 2024, source: "https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-10/cp240170fr.pdf"}
 reconnaissance_onu:
   - {mecanisme: "liste_tna", detail: "Territoire inscrit sur la liste du Comité spécial de la décolonisation, qui lui consacre un document de travail annuel (A/AC.109/2026/17).", annee: 1963, source: "https://docs.un.org/fr/A/AC.109/2026/17"}
   - {mecanisme: "mission_onu", detail: "Mission des Nations unies pour l'organisation d'un référendum au Sahara occidental (MINURSO), créée par la résolution 690 (1991) du Conseil de sécurité ; mandat prorogé jusqu'au 31 octobre 2026 par la résolution 2797 (2025).", annee: 1991, source: "https://docs.un.org/fr/S/RES/690(1991)"}
-  - {mecanisme: "organe_traite", detail: "Le Comité pour l'élimination de la discrimination raciale regrette l'absence de solution sur l'exercice du droit à l'autodétermination du peuple du Sahara occidental (CERD/C/MAR/CO/19-21, par. 19-20).", annee: 2023, source: "https://docs.un.org/fr/CERD/C/MAR/CO/19-21"}
+  - {mecanisme: "organe_traite", detail: "Le Comité pour l'élimination de la discrimination raciale regrette l'absence de solution sur l'exercice du droit à l'autodétermination du peuple du Sahara occidental et relève des restrictions aux libertés d'expression, d'association et de réunion des Sahraouis (CERD/C/MAR/CO/19-21, par. 19-20, décembre 2023).", annee: 2023, source: "https://docs.un.org/fr/CERD/C/MAR/CO/19-21"}
 base_nationale:
   - {instrument: "Constitution du Royaume du Maroc, art. 5 (appliquée par le Maroc dans la partie du territoire qu'il contrôle ; les Nations unies ne reconnaissent pas de souveraineté sur le territoire)", nature: "constitution", annee: 2011, source: "https://www.constituteproject.org/constitution/Morocco_2011?lang=en"}
 droits:
@@ -30,13 +32,13 @@ droits:
   terres: {valeur: "non_etabli", note: "", source: ""}
   ressources: {valeur: "non_etabli", note: "", source: ""}
   consentement: {valeur: "non_etabli", note: "", source: ""}
-  langue: {valeur: "partiel", note: "L'article 5 de la Constitution marocaine de 2011 engage l'État à préserver le hassani « en tant que partie intégrante de l'identité culturelle marocaine » ; il ne lui donne pas le statut de langue officielle.", source: "https://www.constituteproject.org/constitution/Morocco_2011?lang=en"}
+  langue: {valeur: "partiel", note: "L'article 5 de la Constitution marocaine de 2011 engage l'État à œuvrer à la préservation du hassani, présenté comme une composante de l'unité culturelle marocaine, et à la protection de ses locuteurs ; il ne lui donne pas le statut de langue officielle, réservé à l'arabe et à l'amazighe.", source: "https://www.constituteproject.org/constitution/Morocco_2011?lang=en"}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "conteste", note: "Plan de règlement accepté par le Maroc et le Front POLISARIO le 30 août 1988, approuvé par les résolutions 658 (1990) et 690 (1991) du Conseil de sécurité : référendum entre indépendance et intégration au Maroc, jamais organisé. La résolution 2797 (2025) demande une solution qui « assure l'autodétermination du peuple du Sahara occidental » sur la base du plan d'autonomie marocain.", source: "https://docs.un.org/fr/S/RES/690(1991)"}
-effectivite: {valeur: "contestee", note: "Le Haut-Commissariat aux droits de l'homme n'a pas accès au territoire depuis 2015 ; les hostilités ont repris en 2020 ; des réfugiés sahraouis vivent dans cinq camps près de Tindouf (A/AC.109/2026/17, par. 24-28 et 34).", source: "https://docs.un.org/fr/A/AC.109/2026/17"}
+  autodetermination_externe: {valeur: "conteste", note: "Plan de règlement accepté par le Maroc et le Front POLISARIO le 30 août 1988, approuvé par les résolutions 658 (1990) et 690 (1991) du Conseil de sécurité : référendum entre indépendance et intégration au Maroc, jamais organisé. La résolution 2797 (2025) demande une solution qui « assure l'autodétermination du peuple du Sahara occidental » sur la base du plan d'autonomie marocain, qui n'inclut pas l'option de l'indépendance (Human Rights Watch, 2026).", source: "https://docs.un.org/fr/S/RES/690(1991)"}
+effectivite: {valeur: "contestee", note: "Human Rights Watch (2026) relève que les autorités marocaines font obstruction au travail des groupes qui plaident pour l'autodétermination et qu'au moins 173 000 réfugiés sahraouis vivent dans des camps près de Tindouf. Le Haut-Commissariat aux droits de l'homme n'a pas accès au territoire depuis 2015 et les hostilités ont repris en 2020 (A/AC.109/2026/17, par. 27-28 et 34).", source: "https://www.hrw.org/fr/news/2026/03/25/onu-le-droit-a-lautodetermination-des-habitants-du-sahara-occidental-est-menace"}
 chronologie:
   - {annee: 1963, evenement: "Inscription du territoire sur la liste des territoires non autonomes."}
   - {annee: 1975, evenement: "Fin de l'administration espagnole ; le Maroc prend le contrôle de la majeure partie du territoire."}
@@ -45,10 +47,11 @@ chronologie:
   - {annee: 2007, evenement: "Le Maroc présente au Secrétaire général un plan d'autonomie."}
   - {annee: 2020, evenement: "Reprise des hostilités entre le Maroc et le Front POLISARIO."}
   - {annee: 2024, evenement: "La Cour de justice de l'Union européenne juge que le peuple du Sahara occidental n'a pas consenti aux accords UE-Maroc de 2019 sur la pêche et les produits agricoles."}
-  - {annee: 2025, evenement: "Résolution 2797 du Conseil de sécurité : négociations sur la base du plan d'autonomie marocain."}
+  - {annee: 2025, evenement: "Résolution 2797 du Conseil de sécurité : négociations sur la base du plan d'autonomie marocain ; mandat de la MINURSO prorogé jusqu'au 31 octobre 2026."}
+  - {annee: 2026, evenement: "Réunions convoquées par les États-Unis à Madrid puis à Washington (23 et 24 février) entre le Maroc, le Front POLISARIO, l'Algérie et la Mauritanie ; examen stratégique de la MINURSO présenté au Conseil de sécurité en avril."}
 fiabilite:
-  verifie: ["Mandat de la MINURSO et plan de règlement (S/RES/690 (1991)).", "Texte de la résolution 2797 (2025), adoptée le 31 octobre 2025.", "Situation 2024-2025, arrêts de la CJUE du 4 octobre 2024 et absence d'accès du HCDH (A/AC.109/2026/17).", "Observations du CERD sur les Sahraouis (CERD/C/MAR/CO/19-21, 2023)."]
-  non_confirme: ["Année d'inscription (1963) confirmée par Human Rights Watch ; la page du Comité spécial n'a pas pu être ouverte.", "Population sahraouie : aucun chiffre sourcé. Le recensement marocain de 2024 compte environ 600 000 habitants à l'ouest du mur de sable, toutes origines confondues (A/AC.109/2026/17, par. 9).", "Le champ etats retient le Maroc, qui contrôle la majeure partie du territoire ; le statut de l'Espagne comme puissance administrante de jure et la partie contrôlée par le Front POLISARIO à l'est du mur n'ont pas été examinés.", "Les arrêts de la CJUE relèvent du droit de l'Union, non d'un droit national ; ils ne sont pas portés dans la grille."]
+  verifie: ["Mandat de la MINURSO et plan de règlement (S/RES/690 (1991)).", "Texte de la résolution 2797 (2025), adoptée le 31 octobre 2025.", "Situation 2024-2025, arrêts de la CJUE du 4 octobre 2024 et absence d'accès du HCDH (A/AC.109/2026/17).", "Observations du CERD sur les Sahraouis (CERD/C/MAR/CO/19-21, 2023).", "Communiqué de la CJUE n° 170/24 du 4 octobre 2024.", "Réunions de février 2026 (Security Council Report, octobre 2026).", "Superficie de 266 000 km² (Annuaire démographique des Nations unies 2022, tableau 3)."]
+  non_confirme: ["Année d'inscription (1963) confirmée par Human Rights Watch ; la page du Comité spécial n'a pas pu être ouverte.", "Population sahraouie : aucun chiffre sourcé. Le chiffre retenu (environ 600 000) compte tous les habitants à l'ouest du mur de sable, toutes origines confondues (A/AC.109/2026/17, par. 9) ; Human Rights Watch compte au moins 173 000 réfugiés dans les camps de Tindouf.", "Nombre de villages : non trouvé.", "Nombre de lieux : non trouvé ; le régime ne porte pas sur des sites distincts.", "Le seul droit au niveau partiel (langue) repose sur la Constitution marocaine, dont l'application au territoire n'est pas reconnue par les Nations unies ; texte de l'article 5 lu dans la traduction anglaise du Constitute Project.", "Issue des négociations de 2026 et renouvellement du mandat de la MINURSO au-delà du 31 octobre 2026 : non connus à la date de révision.", "Le champ etats retient le Maroc, qui contrôle la majeure partie du territoire ; le statut de l'Espagne comme puissance administrante de jure et la partie contrôlée par le Front POLISARIO à l'est du mur n'ont pas été examinés.", "Les arrêts de la CJUE relèvent du droit de l'Union, non d'un droit national ; ils figurent en reconnaissance régionale et ne sont pas portés dans la grille."]
 sources:
   - {titre: "Résolution 690 (1991) du Conseil de sécurité", url: "https://docs.un.org/fr/S/RES/690(1991)"}
   - {titre: "Résolution 2797 (2025) du Conseil de sécurité", url: "https://docs.un.org/fr/S/RES/2797(2025)"}
@@ -57,3 +60,6 @@ sources:
   - {titre: "MINURSO — Mandat", url: "https://minurso.unmissions.org/mandate"}
   - {titre: "Human Rights Watch — ONU : le droit à l'autodétermination des habitants du Sahara occidental est menacé (2026)", url: "https://www.hrw.org/fr/news/2026/03/25/onu-le-droit-a-lautodetermination-des-habitants-du-sahara-occidental-est-menace"}
   - {titre: "Constitution du Maroc (2011) — Constitute Project", url: "https://www.constituteproject.org/constitution/Morocco_2011?lang=en"}
+  - {titre: "Cour de justice de l'Union européenne — Communiqué de presse n° 170/24 (4 octobre 2024)", url: "https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-10/cp240170fr.pdf"}
+  - {titre: "Security Council Report — Western Sahara, prévisions d'octobre 2026", url: "https://www.securitycouncilreport.org/monthly-forecast/2026-10/western-sahara-17.php"}
+  - {titre: "Annuaire démographique des Nations unies 2022 — Tableau 3 (superficie)", url: "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/DYB2022/table03.pdf"}

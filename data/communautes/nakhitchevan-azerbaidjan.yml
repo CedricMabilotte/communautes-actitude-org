@@ -10,8 +10,8 @@ base: "territoriale"
 types_secondaires: []
 population: {valeur: 458599, annee: 2019, perimetre: "population de fait de la république autonome au recensement de 2019 (Comité national de la statistique, repris par City Population)", source: "https://www.citypopulation.de/en/azerbaijan/admin/"}
 lieux: {valeur: 8, unite: "subdivisions administratives (sept districts et la ville de Nakhitchevan)", annee: 2025, source: "https://www.citypopulation.de/en/azerbaijan/admin/"}
-surface_km2: {valeur: 5500, annee: null, perimetre: "superficie de la république autonome, chiffre arrondi", source: "https://www.britannica.com/place/Naxcivan-republic-Azerbaijan"}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: 5500, annee: 2026, perimetre: "superficie de la république autonome : 5,50 milliers de km² (chiffre arrondi) au tableau des unités administratives de l'annuaire « Indicateurs démographiques de l'Azerbaïdjan » 2026 du Comité d'État de la statistique ; Britannica donne aussi 5 500 km², City Population 5 332 km²", source: "https://www.stat.gov.az/menu/6/statistical_yearbooks/source/demoqraphy_2026.pdf"}
+villages: {valeur: 205, annee: 2019, perimetre: "localités rurales (kənd yaşayış məntəqələri) de la région économique de Nakhitchevan, d'après le recensement de 2019 (tableau 1.3 de l'annuaire « Indicateurs démographiques de l'Azerbaïdjan » 2026) ; s'y ajoutent 15 localités urbaines au début de 2026 (6 villes et 9 bourgs, tableau 1.2)", source: "https://www.stat.gov.az/menu/6/statistical_yearbooks/source/demoqraphy_2026.pdf"}
 resume: >-
   Le Nakhitchevan est une exclave de l'Azerbaïdjan, séparée du reste du pays par le territoire arménien. Autonome depuis 1924 sous le régime soviétique, il porte le nom de République autonome du Nakhitchevan depuis le 17 novembre 1990. La Constitution de l'Azerbaïdjan de 1995 (art. 134 à 141) lui reconnaît une assemblée législative, l'Ali Majlis (« Assemblée suprême ») de 45 membres élus pour cinq ans, un Cabinet des ministres et des tribunaux propres ; sa propre constitution a été approuvée par une loi constitutionnelle du 29 décembre 1998. L'autonomie ne repose sur aucune désignation ethnique. Une révision de mars 2026 crée une représentation du président de l'Azerbaïdjan, organe exécutif dirigé par un représentant qu'il nomme et qui lui est directement subordonné.
 reconnaissance_regionale: []
@@ -51,11 +51,7 @@ fiabilite:
     - "Liste des législatures de l'Ali Majlis (VIIe depuis 2024) sur le site de l'Ali Majlis."
     - "Paragraphes 32 et 40 du document CCPR/C/AZE/CO/4."
     - "Démission de Vassif Talibov le 21 décembre 2022 (OCCRP)."
-  non_confirme:
-    - "Contenu exact et date de promulgation de la révision de 2026 : seul l'article d'OC Media (11 mars 2026) a été lu ; le texte en ligne de l'Ali Majlis contient l'art. 3-1 mais garde le vote de confiance au Cabinet (art. 25) et le préambule citant les traités de 1921, que la révision aurait retiré."
-    - "La version anglaise de la constitution du Nakhitchevan sur le site de l'Ali Majlis n'intègre pas l'art. 3-1."
-    - "Surface : 5 500 km² (Britannica, arrondi) ; City Population donne 5 332 km² dans ses limites de 2025 ; le chiffre officiel de 5 502,75 km² cité ailleurs n'a pas pu être ouvert."
-    - "Population : le site du Comité national de la statistique n'a pas répondu ; le chiffre de 2019 est repris de City Population, qui cite cette source."
+  non_confirme: ["Contenu exact et date de promulgation de la révision de 2026 : seul l'article d'OC Media (11 mars 2026) a été lu ; le texte en ligne de l'Ali Majlis contient l'art. 3-1 mais garde le vote de confiance au Cabinet (art. 25) et le préambule citant les traités de 1921, que la révision aurait retiré.", "La version anglaise de la constitution du Nakhitchevan sur le site de l'Ali Majlis n'intègre pas l'art. 3-1.", "Surface : le Comité d'État de la statistique publie 5,50 milliers de km² (arrondi) ; City Population donne 5 332 km² dans ses limites de 2025 ; le chiffre de 5 502,75 km² cité ailleurs n'a pas pu être ouvert.", "Population : le site du Comité national de la statistique n'a pas répondu ; le chiffre de 2019 est repris de City Population, qui cite cette source."]
 sources:
   - {titre: "Constitution de la République d'Azerbaïdjan (1995, révisée en 2016) — Constitute Project", url: "https://www.constituteproject.org/constitution/Azerbaijan_2016"}
   - {titre: "Constitution de la République autonome du Nakhitchevan (texte azerbaïdjanais) — Ali Majlis", url: "https://alimajlis.gov.az/pages/nmr-konsitutsiya"}

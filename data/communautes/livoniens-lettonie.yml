@@ -8,7 +8,7 @@ coord: [57.7, 22.3]
 type: "peuple_autochtone"
 types_secondaires: ["minorite_nationale"]
 population: {valeur: 163, annee: 2022, perimetre: "personnes inscrites comme Livoniens au registre des personnes physiques, base du recensement de 2021 (janvier 2022)", source: "https://rm.coe.int/4th-op-latvia-en/1680ae98f6"}
-lieux: {valeur: null, unite: "", annee: null, source: ""}
+lieux: {valeur: 1, unite: "territoire culturel et historique protégé de l'État (Līvõd Rānda), créé par la décision n° 40 du Conseil des ministres du 4 février 1991 ; décision abrogée le 24 décembre 2003", annee: 1991, source: "https://likumi.lv/ta/id/65815-par-valsts-aizsargajamas-libiesu-kulturvesturiskas-teritorijas-livod-randa-izveidosanu"}
 surface_km2: {valeur: 285, annee: 1991, perimetre: "territoire culturel et historique protégé Līvõd Rānda créé en 1991 (28 500 ha)", source: "https://en.wikipedia.org/wiki/Livonian_Coast"}
 villages: {valeur: 12, annee: 1991, perimetre: "villages lives inclus dans le territoire protégé de 1991 (de Lūžņa à Melnsils)", source: "https://en.wikipedia.org/wiki/Livonian_Coast"}
 resume: >-
@@ -55,15 +55,18 @@ fiabilite:
     - "Loi sur la langue officielle, art. 4 et 18 (4), lus sur likumi.lv (version anglaise)."
     - "Préambule de la Constitution mentionnant les « traditions lives », lu sur likumi.lv."
     - "Vote de la Lettonie en faveur de la DNUDPA (communiqué GA/10612)."
+    - "Décision n° 40 du Conseil des ministres du 4 février 1991 créant le territoire « Līvōd rānda » (Ventspils et Talsi), lue sur likumi.lv : un territoire ; l'acte y est indiqué comme abrogé le 24 décembre 2003."
     - "Population de 163 personnes (§ 25), rôle des organisations lives dans l'inscription de l'origine (§ 29), signalisation, année 2023 et financement (§ 62-66) : avis du Comité consultatif adopté le 9 octobre 2023."
   non_confirme:
     - "Texte de la loi sur les terres historiques lettones (2021) non consulté directement ; contenu repris de l'avis du Comité consultatif."
     - "Année de la loi sur les groupes nationaux : adoptée en mars 1991 selon la chronologie lettone, datée de 1992 par le Comité consultatif."
     - "Surface (285 km²) et nombre de villages (12) du territoire protégé de 1991, et maintien en vigueur de ce régime après la création du parc national de Slītere : source secondaire seulement."
+    - "Acte ayant remplacé la décision de 1991 après son abrogation (24 décembre 2003) non identifié ; statut actuel du territoire Līvõd Rānda non établi."
 sources:
   - {titre: "Conseil de l'Europe — Quatrième avis du Comité consultatif de la Convention-cadre sur la Lettonie (2023)", url: "https://rm.coe.int/4th-op-latvia-en/1680ae98f6"}
   - {titre: "Loi sur la langue officielle (Valsts valodas likums) — likumi.lv", url: "https://likumi.lv/ta/en/en/id/14740"}
   - {titre: "Constitution de la République de Lettonie — likumi.lv", url: "https://likumi.lv/ta/en/en/id/57980"}
   - {titre: "Assemblée générale des Nations unies — adoption de la DNUDPA, 13 septembre 2007 (GA/10612)", url: "https://press.un.org/en/2007/ga10612.doc.htm"}
   - {titre: "Institut live de l'Université de Lettonie", url: "https://www.livonian.lv/en/"}
+  - {titre: "Décision n° 40 du Conseil des ministres de la République de Lettonie du 4 février 1991 sur la création du territoire « Līvōd rānda » — likumi.lv", url: "https://likumi.lv/ta/id/65815-par-valsts-aizsargajamas-libiesu-kulturvesturiskas-teritorijas-livod-randa-izveidosanu"}
   - {titre: "Livonian Coast — Wikipedia", url: "https://en.wikipedia.org/wiki/Livonian_Coast"}

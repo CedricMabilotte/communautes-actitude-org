@@ -59,6 +59,7 @@ fiabilite:
     - "Immatriculation effective des zones d'approvisionnement en concession rurale au nom des SLG : non vérifiée."
     - "Population, nombre de villages et surface sous gestion des SLG : aucune source trouvée."
     - "Effets de la crise sécuritaire dans les régions de Tillabéri et de Diffa sur le fonctionnement des marchés : non documentés."
+    - "Nombre de villages : non trouvé ; selon une étude publiée par la FAO, chaque marché rural est créé à partir d'un seul village, mais aucun décompte national des villages concernés n'a été trouvé."
 sources:
   - {titre: "Ordonnance n° 92-037 du 21 août 1992 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ner2259.pdf"}
   - {titre: "Décret n° 92-279/PM/MHE du 21 août 1992 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ner2266.pdf"}

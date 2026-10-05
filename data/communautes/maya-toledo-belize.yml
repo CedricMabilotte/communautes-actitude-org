@@ -1,5 +1,5 @@
 uid: "maya-toledo-belize"
-nom: "Maya du district de Toledo (Mopan et Q'eqchi')"
+nom: "Maya du district de Toledo"
 endonyme: ""
 territoire: "Villages maya du district de Toledo, sud du Belize"
 etats: ["Belize"]
@@ -8,12 +8,12 @@ coord: [16.2, -89.0]
 type: "peuple_autochtone"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: 21000, annee: null, perimetre: "habitants des 41 communautés maya du sud du Belize (chiffre arrondi du projet de mise en œuvre, non daté)", source: "https://thetenurefacility.org/projects/protecting-rights-of-the-maya-people-belize/"}
-lieux: {valeur: 41, unite: "communautés maya du sud du Belize", annee: null, source: "https://thetenurefacility.org/projects/protecting-rights-of-the-maya-people-belize/"}
-surface_km2: {valeur: null, annee: null, perimetre: "terres coutumières maya ; non délimitées à ce jour", source: ""}
-villages: {valeur: 41, annee: null, perimetre: "communautés (villages) maya du sud du Belize", source: "https://thetenurefacility.org/projects/protecting-rights-of-the-maya-people-belize/"}
+population: {valeur: 21000, annee: 2020, perimetre: "habitants des 41 communautés maya (mopan et q'eqchi') du sud du Belize, chiffre arrondi (« environ 21 000 ») du projet d'appui à la mise en œuvre de l'ordonnance de 2015, conduit de 2020 à 2023", source: "https://thetenurefacility.org/projects/protecting-rights-of-the-maya-people-belize/"}
+lieux: {valeur: 41, unite: "communautés maya du sud du Belize visées par la mise en œuvre de l'ordonnance de 2015", annee: 2020, source: "https://thetenurefacility.org/projects/protecting-rights-of-the-maya-people-belize/"}
+surface_km2: {valeur: 4047, annee: 2020, perimetre: "terres et forêts maya détenues collectivement par les 41 communautés, estimation de la source (« environ 1 million d'acres ») convertie en km² ; terres non délimitées", source: "https://thetenurefacility.org/projects/protecting-rights-of-the-maya-people-belize/"}
+villages: {valeur: 41, annee: 2024, perimetre: "villages maya du district de Toledo dotés d'alcaldes (deux par village)", source: "https://www.greaterbelize.com/toledo-alcaldes-challenge-ags-replacement-of-village-leaders/"}
 resume: >-
-  Les villages maya du district de Toledo, représentés par leurs alcaldes (autorités traditionnelles élues) et la Maya Leaders Alliance, ont obtenu la reconnaissance judiciaire de leur régime foncier coutumier. Par une ordonnance d'accord du 22 avril 2015, la Cour caribéenne de justice, dernière instance du Belize, confirme que la tenure coutumière maya existe dans les villages du Toledo et crée des droits de propriété collectifs et individuels protégés par la Constitution. Le gouvernement s'engage à créer, en consultation avec les Maya, un mécanisme pour identifier et protéger ces droits, et à s'abstenir d'ici là de tout acte affectant ces terres sans leur consentement éclairé.
+  Les villages maya mopan et q'eqchi' du district de Toledo, représentés par leurs alcaldes (autorités de village) et la Maya Leaders Alliance, ont obtenu la reconnaissance judiciaire de leur régime foncier coutumier. Par une ordonnance d'accord du 22 avril 2015, la Cour caribéenne de justice, dernière instance du Belize, confirme que la tenure coutumière maya existe dans les villages du Toledo et crée des droits de propriété collectifs et individuels protégés par la Constitution. Le gouvernement s'engage à créer, en consultation avec les Maya, un mécanisme pour identifier et protéger ces droits, et à s'abstenir d'ici là de tout acte affectant ces terres sans leur consentement éclairé. La Cour met fin à sa supervision de l'exécution en octobre 2025 ; la loi de codification n'est pas adoptée.
 reconnaissance_regionale:
   - {mecanisme: "commission_interamericaine", detail: "Rapport n° 40/04, affaire 12.053, Maya Indigenous Community of the Toledo District c. Belize (2004), cité par la Cour caribéenne de justice.", annee: 2004, source: "https://elaw.org/wp-content/uploads/archive/bz.mayaleaders_0.pdf"}
 reconnaissance_onu:
@@ -23,28 +23,41 @@ base_nationale:
 droits:
   autogouvernement: {valeur: "non_etabli", note: "", source: ""}
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
-  justice_propre: {valeur: "non_etabli", note: "", source: ""}
+  justice_propre: {valeur: "partiel", note: "La loi sur les tribunaux inférieurs (chap. 94, partie VII, éd. révisée 2000) institue des tribunaux d'alcalde dans les districts déclarés par le ministre : compétence civile limitée aux litiges de 25 à 100 dollars bélizéens, exclusion des litiges fonciers (art. 70), alcaldes nommés et révocables par l'Attorney General (art. 75).", source: "https://www.belizecitycouncil.org/uploads/acts/26384-Inferior_Courts_Act.pdf"}
   terres: {valeur: "partiel", note: "La tenure coutumière maya crée des droits de propriété collectifs et individuels au sens des art. 3(d) et 17 de la Constitution (ordonnance du 22 avril 2015, § 1) ; les terres ne sont pas encore délimitées ni titrées et l'autorité constitutionnelle du gouvernement sur toutes les terres est maintenue (§ 5).", source: "https://elaw.org/wp-content/uploads/archive/bz.mayaleaders_0.pdf"}
   ressources: {valeur: "partiel", note: "Le gouvernement s'engage à ne délivrer ni concession forestière, minière ou pétrolière ni bail sur les terres des villages sans consultation visant le consentement éclairé (ordonnance de 2015, § 4).", source: "https://elaw.org/wp-content/uploads/archive/bz.mayaleaders_0.pdf"}
-  consentement: {valeur: "conteste", note: "L'ordonnance de 2015 (§ 4) subordonne les actes affectant les terres maya à une consultation visant le consentement éclairé ; en 2022, un protocole de consultation est adopté sans l'accord des organisations maya.", source: "https://www.culturalsurvival.org/news/belize-fails-obtain-maya-consent-consent-protocol"}
+  consentement: {valeur: "conteste", note: "L'ordonnance de 2015 (§ 4) subordonne les actes affectant les terres maya à une consultation visant le consentement éclairé ; le projet de politique foncière maya du 8 décembre 2023, qui réduit les terres de village à un rayon d'un à trois kilomètres, est rédigé sans consultation des Maya, qui le rejettent.", source: "https://www.culturalsurvival.org/news/belize-must-obtain-maya-peoples-free-prior-and-informed-consent-drafting-maya-customary-land"}
   langue: {valeur: "non_etabli", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "contestee", note: "La Cour caribéenne ordonne le 30 octobre 2015 la création d'un fonds de 300 000 dollars bélizéens comme premier pas vers l'exécution ; en février 2022, les organisations maya estiment la mise en œuvre à l'arrêt.", source: "https://www.culturalsurvival.org/news/belize-fails-obtain-maya-consent-consent-protocol"}
+effectivite: {valeur: "contestee", note: "Le 31 octobre 2025, la Cour caribéenne met fin à dix ans de supervision de l'exécution de l'ordonnance ; le projet de loi reste inachevé et les représentants maya déclarent qu'aucun progrès n'a été obtenu.", source: "https://www.greaterbelize.com/ccj-ends-decade-long-monitoring-of-maya-land-rights-case/"}
 chronologie:
   - {annee: 2004, evenement: "Rapport n° 40/04 de la Commission interaméricaine."}
-  - {annee: 2007, evenement: "Jugement de la Cour suprême du Belize en faveur des Maya ; nouvelle procédure en 2010."}
+  - {annee: 2007, evenement: "Jugement de la Cour suprême du Belize (18 octobre) pour les villages de Santa Cruz et Conejo."}
+  - {annee: 2010, evenement: "La Cour suprême étend la reconnaissance de la tenure coutumière à tous les villages maya du Toledo."}
   - {annee: 2013, evenement: "La Cour d'appel du Belize confirme l'existence de la tenure coutumière maya (25 juillet)."}
-  - {annee: 2015, evenement: "Ordonnance d'accord de la Cour caribéenne de justice (22 avril) ; arrêt sur les réparations (30 octobre)."}
-  - {annee: 2022, evenement: "Protocole de consultation adopté sans l'accord des Maya."}
+  - {annee: 2015, evenement: "Ordonnance d'accord de la Cour caribéenne de justice (22 avril)."}
+  - {annee: 2015, evenement: "Arrêt du 30 octobre : création d'un fonds de 300 000 dollars bélizéens comme premier pas vers l'exécution."}
+  - {annee: 2022, evenement: "Protocole de consultation adopté par le gouvernement sans l'accord des Maya."}
+  - {annee: 2023, evenement: "Trois villages ont achevé la délimitation de leurs limites ; projet de politique foncière maya du 8 décembre, rejeté par les villages."}
+  - {annee: 2024, evenement: "L'Attorney General remplace l'alcalde et l'alcalde adjoint d'Indian Creek ; la Toledo Alcaldes Association saisit la justice."}
+  - {annee: 2025, evenement: "La Cour caribéenne met fin à la supervision de l'exécution de l'ordonnance (31 octobre)."}
+  - {annee: 2026, evenement: "La Cour caribéenne rejette la demande de clarification de l'ordonnance déposée par les organisations maya (30 juillet) ; la loi de codification est en cours d'examen par un comité mixte."}
 fiabilite:
-  verifie: ["Texte de l'ordonnance d'accord du 22 avril 2015 et dispositif de l'arrêt du 30 octobre 2015.", "Mention du rapport 40/04 de la Commission interaméricaine dans l'arrêt."]
-  non_confirme: ["Reconnaissance légale des alcaldes et de leur fonction judiciaire (loi sur les tribunaux inférieurs) : source primaire non ouverte.", "État de la mise en œuvre après 2022 et politique foncière adoptée depuis.", "Population et nombre de villages : chiffres d'un projet d'appui, non datés."]
+  verifie: ["Texte de l'ordonnance d'accord du 22 avril 2015 et dispositif de l'arrêt du 30 octobre 2015.", "Mention du rapport 40/04 de la Commission interaméricaine dans l'arrêt.", "Partie VII de la loi sur les tribunaux inférieurs (éd. révisée 2000) : tribunaux d'alcalde, art. 68 à 88.", "Vote du Belize pour la résolution 61/295."]
+  non_confirme: ["Modifications de la loi sur les tribunaux inférieurs postérieures à l'édition révisée 2000 : non vérifiées.", "Statut légal des alcaldes comme autorités de gouvernement de village : aucune source primaire trouvée.", "Issue du recours de la Toledo Alcaldes Association contre le remplacement des alcaldes d'Indian Creek (2024) : non trouvée.", "Population : chiffre arrondi d'un projet d'appui ; le recensement de 2022 ne donne pas, dans les sources ouvertes, la population maya du seul district de Toledo.", "Surface : estimation, terres non délimitées."]
 sources:
   - {titre: "Maya Leaders Alliance v. Attorney General of Belize, [2015] CCJ 15 (AJ) — ELAW", url: "https://elaw.org/wp-content/uploads/archive/bz.mayaleaders_0.pdf"}
   - {titre: "Belize Fails to Obtain Maya Consent on Consent Protocol — Cultural Survival, 20 février 2022", url: "https://www.culturalsurvival.org/news/belize-fails-obtain-maya-consent-consent-protocol"}
   - {titre: "Securing and protecting tenure rights of the Maya People of southern Belize — Tenure Facility", url: "https://thetenurefacility.org/projects/protecting-rights-of-the-maya-people-belize/"}
   - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}
+  - {titre: "Inferior Courts Act, chap. 94, éd. révisée 2000", url: "https://www.belizecitycouncil.org/uploads/acts/26384-Inferior_Courts_Act.pdf"}
+  - {titre: "Belize Must Obtain Maya Peoples' Free, Prior and Informed Consent in Drafting the Maya Customary Land Policy — Cultural Survival", url: "https://www.culturalsurvival.org/news/belize-must-obtain-maya-peoples-free-prior-and-informed-consent-drafting-maya-customary-land"}
+  - {titre: "CCJ urges conclusion to Maya Land Rights case by April 2025 — Amandala", url: "https://amandala.com.bz/news/ccj-urges-conclusion-to-maya-land-rights-case-by-april-2025/"}
+  - {titre: "Toledo Alcaldes Challenge AG's Replacement of Village Leaders — Greater Belize Media, 12 juin 2024", url: "https://www.greaterbelize.com/toledo-alcaldes-challenge-ags-replacement-of-village-leaders/"}
+  - {titre: "CCJ Ends Decade-Long Monitoring of Maya Land Rights Case — Greater Belize Media, 31 octobre 2025", url: "https://www.greaterbelize.com/ccj-ends-decade-long-monitoring-of-maya-land-rights-case/"}
+  - {titre: "CCJ Rejects Maya Land Rights Clarification Request — Love FM, 31 juillet 2026", url: "https://lovefm.com/ccj-rejects-maya-land-rights-clarification-request/"}
+  - {titre: "CCJ Shuts Down Maya Leaders' Clarification Bid — Greater Belize Media, 30 juillet 2026", url: "https://www.greaterbelize.com/ccj-shuts-down-maya-leaders-clarification-bid/"}

@@ -9,7 +9,7 @@ type: "peuple_autochtone"
 types_secondaires: []
 base: "territoriale"
 population: {valeur: null, annee: null, perimetre: "", source: ""}
-lieux: {valeur: 65, unite: "titres fonciers détenus par le Trust", annee: 2026, source: "https://alt.sa.gov.au/about/"}
+lieux: {valeur: 65, unite: "titres fonciers détenus par le Trust ; le tableau associé compte 64 lignes, celles du registre public des terres du Trust", annee: 2026, source: "https://alt.sa.gov.au/about/"}
 surface_km2: {valeur: 5420, annee: 2026, perimetre: "ensemble des terres détenues par le Trust (« some 5,420 square kilometres »)", source: "https://alt.sa.gov.au/about/"}
 villages: {valeur: 9, annee: 2026, perimetre: "communautés désignées (Designated Communities) : Davenport, Dunjiba, Gerard, Koonibba, Nipapanha (Nepabunna), Point Pearce, Raukkan, Umoona, Yalata ; anciennes missions et réserves", source: "https://alt.sa.gov.au/trust-lands-communities/"}
 resume: >-

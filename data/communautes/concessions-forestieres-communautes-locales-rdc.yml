@@ -9,7 +9,7 @@ type: "communaute_locale"
 types_secondaires: []
 base: "territoriale"
 population: {valeur: null, annee: null, perimetre: "", source: ""}
-lieux: {valeur: 70, unite: "forêts communautaires attribuées (101 forêts communautaires recensées, attribuées ou non)", annee: 2021, source: "https://www.cifor.org/publications/pdf_files/Books/Etat-des-forets-2021.pdf"}
+lieux: {valeur: 70, unite: "forêts communautaires attribuées (101 forêts communautaires recensées, attribuées ou non)", annee: 2021, perimetre: "70 forêts attribuées selon l'État des forêts 2021 ; le tableau joint compte 192 sites, tirés de la couche « Forêt communautaire » de l'Atlas forestier, que sa description présente comme des forêts attribuées, aux données « en cours d'acquisition » et sans date de mise à jour ; aucune source consultée n'explique l'écart", source: "https://www.cifor.org/publications/pdf_files/Books/Etat-des-forets-2021.pdf"}
 surface_km2: {valeur: 13444.2, annee: 2021, perimetre: "superficie des 70 forêts communautaires attribuées (1 344 420 ha) ; 20 396 km² pour les 101 forêts recensées", source: "https://www.cifor.org/publications/pdf_files/Books/Etat-des-forets-2021.pdf"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
@@ -17,7 +17,7 @@ resume: >-
   La loi n° 011/2002 du 29 août 2002 portant Code forestier (art. 22) permet à une communauté locale d'obtenir à titre gratuit, en concession, tout ou partie des forêts protégées qu'elle possède régulièrement en vertu de la coutume.
   Le décret n° 14/018 du 2 août 2014 définit la CFCL comme une forêt attribuée gratuitement et perpétuellement par l'État, par arrêté du gouverneur de province, dans la limite de 50 000 ha par communauté ; l'arrêté ministériel n° 025 du 9 février 2016 fixe les organes de gestion et le plan simple de gestion (document qui programme les usages de la forêt).
   En 2021, 70 forêts communautaires étaient attribuées (1 344 420 ha) sur 101 recensées ; la couche « Forêt communautaire » de l'Atlas forestier de la RDC, publiée par le ministère de l'Environnement et du Développement durable, compte 192 sites distincts.
-  Les droits propres aux peuples autochtones pygmées (loi n° 22/030 de 2022) relèvent de la fiche « Peuples autochtones pygmées de la République démocratique du Congo ».
+  Les droits propres aux peuples autochtones pygmées (loi n° 22/030 de 2022) relèvent de la fiche « Peuples autochtones pygmées de RDC ».
 reconnaissance_regionale: []
 reconnaissance_onu:
   - {mecanisme: "cdb_8j", detail: "Le sixième rapport national de la RDC à la Convention sur la diversité biologique cite le décret n° 14/018 et l'arrêté n° 025 de 2016 ; il rattache l'article 19 du décret (gestion des concessions selon les coutumes locales) à l'article 8 j de la Convention.", annee: 2019, source: "https://www.cbd.int/doc/nr/nr-06/cd-nr-06-fr.pdf"}
@@ -58,8 +58,9 @@ fiabilite:
     - "Chiffre de 166 CFCL sur environ 3 millions d'hectares : enquête de presse (Gabonreview, 2024), sans source officielle citée."
     - "Statut d'attribution de chaque site de la couche cartographique : non précisé ligne par ligne ; 150 sites n'ont pas de numéro d'arrêté dans la couche, qui ne porte pas de date de mise à jour."
     - "Deux sites (Imoma, Basimbi) figurent deux fois dans la couche avec des surfaces différentes ; les deux lignes sont conservées."
-    - "Population et nombre de villages des communautés attributaires : aucune source trouvée."
     - "Inscription de CFCL au registre ICCA ou à la base WDPA : non vérifiée."
+    - "Population des communautés attributaires : non trouvée."
+    - "Nombre de villages : non trouvé."
 sources:
   - {titre: "Décret n° 14/018 du 2 août 2014 fixant les modalités d'attribution des concessions forestières aux communautés locales — FAOLEX", url: "https://faolex.fao.org/docs/pdf/cng140362.pdf"}
   - {titre: "Loi n° 011/2002 du 29 août 2002 portant Code forestier — Leganet", url: "https://www.leganet.be/Legislation/Droit%20economique/Code%20Forestier/rdc-loiforets.pdf"}

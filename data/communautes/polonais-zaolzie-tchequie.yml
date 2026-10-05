@@ -10,8 +10,8 @@ types_secondaires: []
 base: "mixte"
 population: {valeur: 38218, annee: 2021, perimetre: "personnes ayant déclaré la nationalité polonaise au recensement de 2021 dans toute la Tchéquie ; le gouvernement indique qu'environ 80 % vivent en Silésie de Těšín", source: "https://vlada.gov.cz/cz/ppov/rnm/mensiny/polska-narodnostni-mensina-16124/"}
 lieux: {valeur: 31, unite: "communes des anciens districts de Karviná et de Frýdek-Místek où la minorité polonaise est représentée au niveau de l'administration locale, selon le gouvernement", annee: 2022, source: "https://vlada.gov.cz/cz/ppov/rnm/mensiny/polska-narodnostni-mensina-16124/"}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: 497.24, annee: 2025, perimetre: "somme calculée des superficies cadastrales au 31 décembre 2025 (office statistique tchèque, tableau « Struktura pozemků v obcích ») des 29 communes où au moins 10 % des résidents ont déclaré la nationalité polonaise en 2021", source: "https://data.csu.gov.cz/api/dotaz/v1/data/vybery/RSO03AK?format=CSV"}
+villages: {valeur: 29, annee: 2021, perimetre: "communes (obce) où au moins 10 % des résidents habituels ont déclaré la nationalité polonaise au recensement de 2021 (catégorie « Polská celkem » du fichier ; seuil de 10 % repris de la loi sur les communes, qui l'applique aux citoyens de la commune et non aux résidents habituels : § 117, al. 3, comité pour les minorités, dernier recensement ; § 29, al. 2, noms bilingues, deux derniers recensements), toutes dans les anciens districts de Karviná et de Frýdek-Místek : de Hrádek (30 %) à Řeka (10 %), dont Třinec et Český Těšín ; décompte fait sur le fichier ouvert de l'office statistique tchèque", source: "https://csu.gov.cz/docs/107508/8c121222-8d78-85ed-95d8-dc86246c5ba0/sldb2021_narodnost.csv?version=1.0"}
 resume: >-
   La minorité polonaise est l'une des minorités nationales représentées au Conseil gouvernemental pour les minorités nationales, où elle dispose de deux sièges.
   Le recensement de 2021 compte 38 218 personnes de nationalité polonaise, dont environ 80 % en Silésie de Těšín, dans les districts de Karviná et de Frýdek-Místek.
@@ -58,7 +58,7 @@ fiabilite:
     - "Chiffre de 38 218 personnes au recensement de 2021 (page du gouvernement et sixième avis du Comité consultatif)."
   non_confirme:
     - "Le nombre de 31 communes où la minorité polonaise est représentée figure sur une page gouvernementale publiée en 2022 dont certaines données datent des années 2000 ; l'année de référence exacte n'est pas indiquée."
-    - "Nombre de communes appliquant les noms bilingues polonais et surface de la zone concernée non trouvés dans une source officielle."
+    - "Nombre de communes appliquant effectivement les noms bilingues polonais non trouvé dans une source officielle ; le décompte de 29 communes et leur surface portent sur le seuil de 10 % au recensement de 2021 sans vérifier celui de 2011, que le § 29, al. 2, exige aussi ; la loi compte les citoyens de la commune, le fichier les résidents habituels."
     - "Le chiffre de 38 218 inclut probablement les déclarations de double nationalité ; le détail n'a pas été vérifié auprès de l'office statistique."
 sources:
   - {titre: "Loi n° 273/2001 sur les droits des membres des minorités nationales, traduction anglaise — Gouvernement tchèque", url: "https://vlada.gov.cz/assets/ppov/rnm/anglictina.pdf"}

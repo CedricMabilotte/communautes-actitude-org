@@ -9,7 +9,7 @@ type: "communaute_locale"
 types_secondaires: []
 base: "territoriale"
 population: {valeur: null, annee: null, perimetre: "", source: ""}
-lieux: {valeur: 93, unite: "conseils de montagne (fjellstyrer)", annee: 2026, source: "https://www.fjellstyrene.no/om-fjellstyrene"}
+lieux: {valeur: 93, unite: "conseils de montagne (fjellstyrer) ; le tableau joint compte 89 lignes : 87 conseils nommés dans l'annuaire de la fédération et deux entrées groupées (Stjørdal, Lierne) dont la composition n'est pas détaillée, d'où l'écart avec le total de 93", annee: 2026, source: "https://www.fjellstyrene.no/om-fjellstyrene"}
 surface_km2: {valeur: 26600, annee: 2026, perimetre: "ensemble des communaux d'État du sud et du centre de la Norvège (26,6 millions de décares)", source: "https://www.fjellstyrene.no/om-fjellstyrene"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
@@ -43,7 +43,7 @@ chronologie:
   - {annee: 2018, evenement: "Rapport public NOU 2018:11 « Ny fjellov » (nouvelle loi sur les montagnes) : proposition de regrouper en une seule loi les règles des communaux d'État ; texte non adopté par le Storting à la date de consultation."}
 fiabilite:
   verifie: ["Surface de 26,6 millions de décares, 93 conseils, désignation par le conseil municipal, partage des compétences avec Statskog SF, rôle de la commune, de Miljødirektoratet et de Landbruksdirektoratet, partage des recettes foncières : page de la fédération des conseils de montagne.", "Composition (cinq membres, quatre ans, majorité de résidents), 93 conseils en 2023 : Store norske leksikon, article « fjellstyre ».", "73 communes, 9 comtés, § 2, § 12 et § 13 de la fjellova, loi de 1992, commission de 1908-1953 : Store norske leksikon, article « statsallmenning ».", "Loi de 1920, chapitre 5 (caisse de montagne), NOU 2018:11 non adopté : Store norske leksikon, article « fjellova ».", "Liste des conseils du tableau : annuaire de la fédération (87 conseils nommés et deux entrées groupées, « Fjellstyrene i Stjørdal » et « Fjellstyrene i Lierne »)."]
-  non_confirme: ["Texte officiel de la fjellova sur Lovdata non consulté directement (accès refusé) ; articles cités d'après la fédération et le Store norske leksikon.", "Nombre de conseils : 93 selon la fédération et le Store norske leksikon ; l'annuaire de la fédération nomme 87 conseils et renvoie pour Stjørdal et Lierne à des entrées groupées dont la composition n'a pas été vérifiée.", "Nombre de propriétés titulaires de droits et population concernée : aucune source trouvée.", "Aucun document de l'ONU ou d'un organe régional visant ce régime n'a été trouvé."]
+  non_confirme: ["Texte officiel de la fjellova sur Lovdata non consulté directement (accès refusé) ; articles cités d'après la fédération et le Store norske leksikon.", "Nombre de conseils : 93 selon la fédération et le Store norske leksikon ; l'annuaire de la fédération nomme 87 conseils et renvoie pour Stjørdal et Lierne à des entrées groupées dont la composition n'a pas été vérifiée.", "Nombre de propriétés titulaires de droits et population concernée : aucune source trouvée.", "Aucun document de l'ONU ou d'un organe régional visant ce régime n'a été trouvé.", "Nombre de villages : non trouvé ; le Store norske leksikon situe les communaux d'État dans 73 communes, sans dénombrer les localités."]
 sources:
   - {titre: "Om fjellstyrene — Norges Fjellstyresamband", url: "https://www.fjellstyrene.no/om-fjellstyrene"}
   - {titre: "Jordbruk og bruksretter — Norges Fjellstyresamband", url: "https://www.fjellstyrene.no/jordbruk-og-bruksretter"}

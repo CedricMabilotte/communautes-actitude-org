@@ -47,7 +47,12 @@ chronologie:
   - {annee: 2026, evenement: "Consultation nationale sur la proposition de loi générale des droits des peuples autochtones et afromexicains (7 août – 13 septembre)."}
 fiabilite:
   verifie: ["Texte du décret du 30 septembre 2024 (DOF, publié par la Chambre des députés) : quatrième et cinquième alinéas, apartados A, B, C, articles transitoires.", "Art. 27, fraction VII de la Constitution (texte en vigueur, réforme du 2 juin 2026).", "Art. 4 de la loi générale des droits linguistiques (dernière réforme 2023).", "Ratification de la Convention 169 (Collection des traités des Nations unies) et vote du Mexique sur la résolution 61/295."]
-  non_confirme: ["Nombre de communautés : 20 522 selon la presse (septembre 2025), 17 758 communautés dans 1 257 municipalités selon le Centre d'études des finances publiques de la Chambre des députés (mi-2025) ; le Catalogue national (catalogo.inpi.gob.mx) n'a pas pu être ouvert.", "Le total du Catalogue national publié au DOF figure dans des tableaux en image non lus.", "Total du Catalogue national non publié dans le texte de l'accord du 9 août 2024 ; le nombre retenu (20 522) compte aussi des communautés afromexicaines."]
+  non_confirme:
+    - "Nombre de communautés : 20 522 selon la presse (septembre 2025), 17 758 communautés dans 1 257 municipalités selon le Centre d'études des finances publiques de la Chambre des députés (mi-2025) ; le Catalogue national (catalogo.inpi.gob.mx) n'a pas pu être ouvert."
+    - "Le total du Catalogue national publié au DOF figure dans des tableaux en image non lus."
+    - "Total du Catalogue national non publié dans le texte de l'accord du 9 août 2024 ; le nombre retenu (20 522) compte aussi des communautés afromexicaines."
+    - "Nombre de villages : non trouvé (le Catalogue des localités autochtones de l'INPI n'a pas pu être ouvert ; le Centre d'études des finances publiques compte, en août 2025, 9 949 localités à population autochtone et afromexicaine bénéficiaires du fonds FAISPIAM dans le Chiapas et l'Oaxaca réunis : https://www.cefp.gob.mx/publicaciones/nota/2025/notacefp1162025.pdf)."
+    - "Surface : non trouvée."
 sources:
   - {titre: "Décret de réforme de l'article 2 de la Constitution, DOF 30 septembre 2024 — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_ref_260_30sep24.pdf"}
   - {titre: "Constitution politique des États-Unis mexicains, texte en vigueur — Chambre des députés", url: "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"}

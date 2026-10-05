@@ -1,57 +1,73 @@
 uid: "terres-indigenes-bresil"
-nom: "Peuples autochtones du Brésil (terres indigènes)"
+nom: "Peuples autochtones du Brésil"
 endonyme: ""
-territoire: "Terres indigènes (terras indígenas) démarquées par l'Union"
+territoire: "Terres autochtones (terras indígenas) démarquées par l'Union"
 etats: ["Brésil"]
 region: "ameriques"
 coord: [-5.0, -60.0]
 type: "peuple_autochtone"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: 1693535, annee: 2022, perimetre: "personnes autochtones au Brésil, dans et hors des terres indigènes (recensement IBGE)", source: "https://revistapesquisa.fapesp.br/populacao-indigena-soma-169-milhao-de-pessoas-no-brasil/"}
-lieux: {valeur: 573, unite: "terres indigènes déclarées, homologuées ou régularisées", annee: 2022, source: "https://revistapesquisa.fapesp.br/populacao-indigena-soma-169-milhao-de-pessoas-no-brasil/"}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: 6130, annee: 2022, perimetre: "localités indigènes situées dans des terres indigènes déclarées, homologuées, régularisées ou réservées (agglomérations permanentes d'au moins 15 habitants indigènes : villages, communautés, campements…), sur 8 568 localités indigènes au total (recensement 2022)", source: "https://agenciabrasil.ebc.com.br/geral/noticia/2024-12/censo-2022-mapeou-85-mil-localidades-indigenas-em-todo-o-pais"}
+population: {valeur: 1693535, annee: 2022, perimetre: "personnes autochtones au Brésil, dans et hors des terres autochtones (recensement de l'IBGE, institut national de statistique)", source: "https://revistapesquisa.fapesp.br/populacao-indigena-soma-169-milhao-de-pessoas-no-brasil/"}
+lieux: {valeur: 573, unite: "terres autochtones (terras indígenas) déclarées, homologuées ou régularisées par la Funai, retenues par le recensement", annee: 2022, source: "https://revistapesquisa.fapesp.br/populacao-indigena-soma-169-milhao-de-pessoas-no-brasil/"}
+surface_km2: {valeur: 1173775, annee: 2023, perimetre: "732 aires autochtones comptées comme démarquées par l'annuaire IWGIA 2024 (117 377 533 ha, 13,8 % du territoire national) ; ce périmètre ne coïncide pas avec les 573 terres retenues par le recensement de 2022", source: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2024.pdf"}
+villages: {valeur: 6130, annee: 2022, perimetre: "localités autochtones situées dans des terres autochtones officiellement délimitées (agglomérations permanentes d'au moins 15 habitants autochtones : villages, communautés, campements…), sur 8 568 localités autochtones recensées dans tout le pays (recensement de 2022)", source: "https://agenciabrasil.ebc.com.br/geral/noticia/2024-12/censo-2022-mapeou-85-mil-localidades-indigenas-em-todo-o-pais"}
 resume: >-
-  L'article 231 de la Constitution de 1988 reconnaît aux peuples autochtones leur organisation sociale et des droits originaires sur les terres qu'ils occupent traditionnellement. Ces terres appartiennent à l'Union ; les peuples en ont la possession permanente et l'usufruit exclusif (droit d'usage et de jouissance) des richesses du sol, des rivières et des lacs. Le recensement de 2022 compte 1 693 535 personnes autochtones, dont environ 622 100 vivent dans les 573 terres indigènes alors déclarées, homologuées ou régularisées.
+  L'article 231 de la Constitution de 1988 reconnaît aux peuples autochtones leur organisation sociale et des droits originaires sur les terres qu'ils occupent traditionnellement. Ces terres appartiennent à l'Union ; les peuples en ont la possession permanente et l'usufruit exclusif (droit d'usage et de jouissance) des richesses du sol, des rivières et des lacs. Le recensement de 2022 compte 1 693 535 personnes autochtones, dont environ 622 100 vivent dans les 573 terres autochtones (terras indígenas) alors déclarées, homologuées ou régularisées. Les communautés afrodescendantes relèvent de la fiche Quilombolas ; les réserves extractivistes ont leur propre fiche.
+reconnaissance_regionale:
+  - {mecanisme: "cour_interamericaine", detail: "Arrêt Peuple autochtone Xucuru et ses membres c. Brésil du 5 février 2018 : la Cour constate la violation du droit à la propriété collective (art. 21 de la Convention américaine) et ordonne au Brésil de garantir ce droit sur le territoire xucuru.", annee: 2018, source: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_346_esp.pdf"}
 reconnaissance_onu:
   - {mecanisme: "oit_169", detail: "Le Brésil ratifie la Convention 169 de l'OIT le 25 juillet 2002 (en vigueur le 25 juillet 2003).", annee: 2002, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
   - {mecanisme: "dnudpa", detail: "Le Brésil vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+  - {mecanisme: "organe_traite", detail: "Observations finales du Comité pour l'élimination de la discrimination raciale (CERD/C/BRA/CO/18-20, 2022), § 51 à 53 : le Comité demande de reprendre la démarcation des terres autochtones et quilombolas et de rejeter la thèse de la date-butoir de 1988.", annee: 2022, source: "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CERD%2FC%2FBRA%2FCO%2F18-20&Lang=en"}
 base_nationale:
   - {instrument: "Constitution de la République fédérative du Brésil (1988), art. 20 XI, 210 § 2, 231 et 232", nature: "constitution", annee: 1988, source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
   - {instrument: "Loi 6.001 de 1973 (Statut de l'Indien), art. 57", nature: "loi", annee: 1973, source: "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm"}
-  - {instrument: "Décret 5.051 de 2004 promulguant la Convention 169 de l'OIT", nature: "loi", annee: 2004, source: "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5051.htm"}
+  - {instrument: "Décret 10.088 de 2019 consolidant les conventions de l'OIT promulguées, annexe LXXII : Convention 169 (le décret 5.051 de 2004 qui la promulguait est abrogé)", nature: "loi", annee: 2019, source: "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10088.htm"}
   - {instrument: "Tribunal fédéral suprême, rejet de la thèse du « marco temporal » (date-butoir d'occupation au 5 octobre 1988), 2023, confirmé en décembre 2025", nature: "jurisprudence", annee: 2023, source: "https://cimi.org.br/2025/12/stf-reafirma-inconstitucionalidade-do-marco-temporal-mas-lei-14-701-impoe-contradicoes/"}
+  - {instrument: "Loi 14.701 de 2023 réglementant l'article 231 de la Constitution (reconnaissance, démarcation, usage et gestion des terres autochtones) ; date-butoir de l'art. 4 déclarée inconstitutionnelle par le Tribunal fédéral suprême", nature: "loi", annee: 2023, source: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14701.htm"}
 droits:
   autogouvernement: {valeur: "partiel", note: "La Constitution (art. 231) reconnaît l'organisation sociale des peuples autochtones et l'article 232 donne qualité pour agir en justice à leurs communautés et organisations, sans créer d'institution publique propre.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
   justice_propre: {valeur: "partiel", note: "Le Statut de l'Indien de 1973 (art. 57) tolère l'application par les groupes de sanctions pénales ou disciplinaires selon leurs institutions, hors peines cruelles, infamantes ou de mort.", source: "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm"}
   terres: {valeur: "partiel", note: "La Constitution (art. 231 § 2 et § 4, art. 20 XI) donne la possession permanente de terres inaliénables et indisponibles, dont la propriété reste à l'Union.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
   ressources: {valeur: "partiel", note: "La Constitution (art. 231 § 2 et § 3) donne l'usufruit exclusif des richesses du sol, des rivières et des lacs ; les ressources hydrauliques et minières relèvent d'une autorisation du Congrès national, avec participation aux résultats.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
-  consentement: {valeur: "partiel", note: "La Constitution (art. 231 § 3) impose d'entendre les communautés avant l'exploitation minière ou hydraulique ; le décret 5.051 de 2004 promulgue la Convention 169 et son obligation de consultation.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
+  consentement: {valeur: "partiel", note: "La Constitution (art. 231 § 3) impose d'entendre les communautés avant l'exploitation minière ou hydraulique ; la Convention 169 (art. 6), promulguée et consolidée par le décret 10.088 de 2019 (annexe LXXII), prévoit la consultation ; la loi 14.701 de 2023 (art. 20 et 21) écarte la consultation pour les installations militaires et les interventions de police.", source: "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10088.htm"}
   langue: {valeur: "partiel", note: "La Constitution (art. 231) reconnaît les langues autochtones, sans statut officiel au niveau fédéral.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
   education: {valeur: "partiel", note: "La Constitution (art. 210 § 2) assure aux communautés autochtones l'usage de leurs langues maternelles et de leurs processus propres d'apprentissage dans l'enseignement fondamental.", source: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "contestee", note: "Le Tribunal fédéral suprême a déclaré la date-butoir de 1988 inconstitutionnelle en 2023 et en décembre 2025, mais la loi 14.701 de 2023 reste en vigueur pour d'autres dispositions et une proposition d'amendement constitutionnel (PEC 48/23) adoptée par le Sénat en décembre 2025 vise à inscrire cette date dans la Constitution.", source: "https://cimi.org.br/2025/12/stf-reafirma-inconstitucionalidade-do-marco-temporal-mas-lei-14-701-impoe-contradicoes/"}
+effectivite: {valeur: "contestee", note: "Le Tribunal fédéral suprême a déclaré la date-butoir de 1988 inconstitutionnelle en 2023 puis en décembre 2025, mais la loi 14.701 de 2023 reste appliquée pour ses autres dispositions ; l'examen des recours contre l'arrêt de 2025, ouvert le 19 juin 2026, est suspendu depuis le 18 août 2026. Le Sénat a adopté le 9 décembre 2025 la PEC 48/2023 (proposition d'amendement constitutionnel) qui inscrit la date-butoir dans la Constitution ; la Chambre des députés en est saisie. L'IWGIA relève sept terres homologuées en 2025 et 268 territoires en attente de reconnaissance.", source: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2026.pdf"}
 chronologie:
   - {annee: 1973, evenement: "Adoption du Statut de l'Indien (loi 6.001)."}
   - {annee: 1988, evenement: "La Constitution reconnaît les droits originaires sur les terres traditionnellement occupées (art. 231)."}
   - {annee: 2002, evenement: "Ratification de la Convention 169 de l'OIT."}
-  - {annee: 2023, evenement: "Le Tribunal fédéral suprême rejette la thèse du « marco temporal » ; le Congrès adopte la loi 14.701."}
-  - {annee: 2025, evenement: "Le Tribunal fédéral suprême confirme l'inconstitutionnalité de la date-butoir ; le Sénat adopte la PEC 48/23."}
+  - {annee: 2018, evenement: "La Cour interaméricaine des droits de l'homme condamne le Brésil dans l'affaire du peuple xucuru (propriété collective)."}
+  - {annee: 2019, evenement: "Le décret 10.088 consolide les conventions de l'OIT, dont la Convention 169, et abroge le décret 5.051 de 2004."}
+  - {annee: 2022, evenement: "Le Comité pour l'élimination de la discrimination raciale demande la reprise des démarcations."}
+  - {annee: 2023, evenement: "Le Tribunal fédéral suprême rejette la thèse du « marco temporal » ; le Congrès adopte la loi 14.701 et lève les vetos présidentiels."}
+  - {annee: 2025, evenement: "Sept terres autochtones homologuées ; le Sénat adopte la PEC 48/2023 ; le Tribunal fédéral suprême confirme l'inconstitutionnalité de la date-butoir."}
+  - {annee: 2026, evenement: "La PEC 48/2023 est transmise à la commission de constitution et de justice de la Chambre des députés (mai) ; l'examen des recours contre l'arrêt de 2025 est suspendu le 18 août."}
 fiabilite:
-  verifie: ["Texte des articles 20 XI, 210 § 2, 231 et 232 de la Constitution.", "Article 57 de la loi 6.001 de 1973.", "Chiffres du recensement de 2022 relayés par la revue Pesquisa FAPESP."]
-  non_confirme: ["Suite donnée à la PEC 48/23 par la Chambre des députés.", "Issue des recours examinés par le Tribunal fédéral suprême à partir du 19 juin 2026.", "Portée actuelle de la tutelle prévue par le Statut de l'Indien au regard de la Constitution."]
+  verifie: ["Texte des articles 20 XI, 210 § 2, 231 et 232 de la Constitution (Planalto, octobre 2026).", "Article 57 de la loi 6.001 de 1973, sans mention d'abrogation.", "Abrogation du décret 5.051 de 2004 par le décret 10.088 de 2019, qui consolide la Convention 169 (annexe LXXII).", "Chiffres du recensement de 2022 (population, 573 terres, 6 130 localités).", "Surface : 117 377 533 ha selon l'annuaire IWGIA 2024.", "Suspension de l'examen des recours le 18 août 2026 (Conectas)."]
+  non_confirme: ["Suite donnée à la PEC 48/2023 par la Chambre des députés après sa transmission à la commission de constitution et de justice en mai 2026.", "Issue des recours contre l'arrêt de 2025, suspendus par la demande d'examen du juge Dias Toffoli le 18 août 2026.", "Portée actuelle de la tutelle prévue par le Statut de l'Indien au regard de la Constitution.", "Surface totale des 573 terres retenues par le recensement : non trouvée (la surface indiquée porte sur 732 aires)."]
 sources:
   - {titre: "Constitution fédérale de 1988 — Planalto", url: "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"}
   - {titre: "Loi 6.001 de 1973, Statut de l'Indien — Planalto", url: "https://www.planalto.gov.br/ccivil_03/leis/l6001.htm"}
-  - {titre: "Décret 5.051 de 2004 — Planalto", url: "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5051.htm"}
+  - {titre: "Décret 10.088 de 2019 (conventions de l'OIT, annexe LXXII : Convention 169) — Planalto", url: "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10088.htm"}
   - {titre: "STF reafirma inconstitucionalidade do marco temporal — CIMI (décembre 2025)", url: "https://cimi.org.br/2025/12/stf-reafirma-inconstitucionalidade-do-marco-temporal-mas-lei-14-701-impoe-contradicoes/"}
   - {titre: "STF julga recursos sobre a Lei do Marco Temporal — APIB (juin 2026)", url: "https://apiboficial.org/2026/06/18/stf-julga-recursos-sobre-a-lei-do-marco-temporal-a-partir-de-sexta-feira/"}
   - {titre: "População indígena soma 1,69 milhão de pessoas no Brasil — Pesquisa FAPESP", url: "https://revistapesquisa.fapesp.br/populacao-indigena-soma-169-milhao-de-pessoas-no-brasil/"}
   - {titre: "Déclaration de fin de mission de la Rapporteuse spéciale sur le racisme au Brésil (2024) — HCDH", url: "https://www.ohchr.org/sites/default/files/documents/issues/racism/sr/statements/20240816-eom-stm-brazil-sr-racism.pdf"}
   - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
   - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}
+  - {titre: "Loi 14.701 de 2023 — Planalto", url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14701.htm"}
+  - {titre: "Observations finales du CERD sur le Brésil, CERD/C/BRA/CO/18-20 (2022) — HCDH", url: "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CERD%2FC%2FBRA%2FCO%2F18-20&Lang=en"}
+  - {titre: "Cour interaméricaine, Peuple autochtone Xucuru c. Brésil, arrêt du 5 février 2018", url: "https://www.corteidh.or.cr/docs/casos/articulos/seriec_346_esp.pdf"}
+  - {titre: "The Indigenous World 2024, chapitre Brésil — IWGIA", url: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2024.pdf"}
+  - {titre: "The Indigenous World 2026, chapitre Brésil — IWGIA", url: "https://www.iwgia.org/images/publications/indigenous-world/indigenous-world-2026.pdf"}
+  - {titre: "Aprovada em dois turnos, PEC do marco temporal vai à Câmara — Agência Senado (9 décembre 2025)", url: "https://www12.senado.leg.br/noticias/materias/2025/12/09/aprovada-em-dois-turnos-pec-do-marco-temporal-vai-a-camara"}
+  - {titre: "Marco Temporal avança na Câmara — Revista Cenarium (mai 2026)", url: "https://revistacenarium.com.br/marco-temporal-avanca-na-camara-e-preocupa-a-coiab-grave-ameaca/"}
+  - {titre: "Marco temporal : Fachin reforça proteção aos direitos indígenas no STF — Conectas (18 août 2026)", url: "https://conectas.org/noticias/marco-temporal-fachin-reforca-protecao-aos-direitos-indigenas-no-stf/"}

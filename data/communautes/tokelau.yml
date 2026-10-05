@@ -1,5 +1,5 @@
 uid: "tokelau"
-nom: "Peuple des Tokélaou"
+nom: "Tokélaouans"
 endonyme: ""
 territoire: "Tokélaou (Atafu, Fakaofo, Nukunonu)"
 etats: ["Nouvelle-Zélande"]
@@ -8,20 +8,21 @@ coord: [-9.2, -171.8]
 type: "peuple_territoire_non_autonome"
 base: "territoriale"
 types_secondaires: []
-population: {valeur: 1485, annee: 2022, perimetre: "population de jure résidant habituellement dans les trois atolls", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
-lieux: {valeur: 3, unite: "villages (atolls)", annee: 2026, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
+population: {valeur: 1485, annee: 2022, perimetre: "population officielle de jure résidant habituellement aux Tokélaou (par. 25 du document de travail) ; l'encadré « Le territoire en bref » du même document donne 1 460 habitants pour 2022", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
+lieux: {valeur: 3, unite: "atolls (Atafu, Fakaofo, Nukunonu), chacun doté d'un conseil villageois (taupulega)", annee: 2026, source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
 surface_km2: {valeur: 12.2, annee: 2026, perimetre: "terres émergées des trois atolls", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
-villages: {valeur: 3, annee: 2026, perimetre: "villages, un par atoll (Atafu, Nukunonu, Fakaofo)", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
+villages: {valeur: 3, annee: 2026, perimetre: "villages représentés au Fono général, un par atoll, chacun administré par un taupulega (conseil villageois)", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
 resume: >-
-  Trois atolls administrés par la Nouvelle-Zélande depuis 1926 et intégrés à son territoire par le Tokelau Act de 1948. Le Fono général (assemblée nationale des trois villages) édicte des règles depuis 1996. Les référendums d'autodétermination de 2006 et 2007 sur la libre association avec la Nouvelle-Zélande n'atteignent pas la majorité des deux tiers fixée par le Fono général. Les Tokélaou restent inscrites sur la liste des territoires non autonomes.
+  Trois atolls administrés par la Nouvelle-Zélande depuis 1926 et intégrés à son territoire par le Tokelau Act de 1948. Le Fono général (assemblée nationale des trois villages) édicte des règles depuis 1996. Les référendums d'autodétermination de 2006 et 2007 sur la libre association avec la Nouvelle-Zélande n'atteignent pas la majorité des deux tiers fixée par le Fono général. En mars 2025, le chef du gouvernement (Ulu-o-Tokélaou) annonce un éventuel troisième référendum. Les Tokélaou restent inscrites sur la liste des territoires non autonomes.
 reconnaissance_onu:
-  - {mecanisme: "liste_tna", detail: "Résolution 79/110 « Question des Tokélaou » : rappel des référendums de 2006 et 2007 et de la relance du dialogue sur l'autodétermination décidée par le Fono général le 23 mai 2022", annee: 2024, source: "https://documents.un.org/api/symbol/access?s=A/RES/79/110&l=fr&t=pdf"}
+  - {mecanisme: "liste_tna", detail: "Résolution 80/101 « Question des Tokélaou » (5 décembre 2025) : rappel des référendums de 2006 et 2007, de la décision du Fono général du 23 mai 2022 de relancer le dialogue sur l'autodétermination et du comité créé pour informer la population en vue d'un éventuel troisième référendum annoncé en mars 2025", annee: 2025, source: "https://documents.un.org/api/symbol/access?s=A/RES/80/101&l=fr&t=pdf"}
 base_nationale:
-  - {instrument: "Tokelau Act 1948 (Nouvelle-Zélande), modifié par le Tokelau Amendment Act 1996", nature: "loi", annee: 1948, source: "https://faolex.fao.org/docs/pdf/tok151698.pdf"}
+  - {instrument: "Tokelau Act 1948 (Nouvelle-Zélande), modifié par le Tokelau Amendment Act 1996 (pouvoir réglementaire du Fono général)", nature: "loi", annee: 1948, source: "https://faolex.fao.org/docs/pdf/tok151698.pdf"}
+  - {instrument: "Tokelau Amendment Act 1986 (Nouvelle-Zélande), partie 1 : juridiction des commissaires des atolls ; réputé faire partie du Tokelau Act 1948", nature: "loi", annee: 1986, source: "https://faolex.fao.org/docs/pdf/tok151698.pdf"}
 droits:
-  autogouvernement: {valeur: "reconnu", note: "Gouvernement national dirigé par le Fono général et son comité permanent, le Conseil pour le gouvernement permanent (Council for the Ongoing Government), composé de six élus des trois villages, qui dirige la fonction publique des Tokélaou.", source: "https://www.wgtn.ac.nz/law/research/publications/about-nzacl/publications/cljpjdcp-journals/volume-15,-2009/Tokelau.pdf"}
+  autogouvernement: {valeur: "reconnu", note: "Le Fono général, élu au suffrage universel dans chaque village avec une représentation proportionnelle à la population, reçoit des trois taupulega (conseils villageois) les affaires de niveau national ; le Conseil permanent de gouvernement (Council for the Ongoing Government), six membres (les trois faipules, représentants élus de chaque village, et un représentant du Fono général par village désigné par le taupulega), exerce l'exécutif hors session ; l'Administrateur néo-zélandais a délégué depuis 1994 la majeure partie de ses pouvoirs exécutifs, sauf certains aspects de la gestion de la zone économique exclusive.", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
   pouvoir_normatif: {valeur: "partiel", note: "Le Fono général peut édicter des règles « pour la paix, l'ordre et le bon gouvernement des Tokélaou » (Tokelau Act 1948, s. 3A, inséré en 1996) ; ces règles cèdent devant les lois néo-zélandaises applicables (s. 3B) et peuvent être désavouées (s. 3F).", source: "https://faolex.fao.org/docs/pdf/tok151698.pdf"}
-  justice_propre: {valeur: "partiel", note: "Commissaires tokélaouans nommés pour chaque atoll après consultation des anciens, compétents pour les petits litiges civils et pénaux (Tokelau Act 1948, s. 5 à 7) ; la coutume est une source du droit (Custom as a Source of Law Rules 2004, selon Angelo, 2009).", source: "https://faolex.fao.org/docs/pdf/tok151698.pdf"}
+  justice_propre: {valeur: "partiel", note: "Un commissaire par atoll, Tokélaouan nommé par le gouverneur général après consultation des anciens de l'île, compétent pour les litiges civils jusqu'à 1 000 dollars et les infractions punies d'au plus un an d'emprisonnement, qui peut discuter d'une affaire pénale avec le taupulega (Tokelau Amendment Act 1986, s. 5 à 7) ; appel devant la Haute Cour de Nouvelle-Zélande (s. 10). La coutume est une source du droit (Custom as a Source of Law Rules 2004, selon Angelo, 2009).", source: "https://faolex.fao.org/docs/pdf/tok151698.pdf"}
   terres: {valeur: "non_etabli", note: "", source: ""}
   ressources: {valeur: "non_etabli", note: "", source: ""}
   consentement: {valeur: "non_etabli", note: "", source: ""}
@@ -30,8 +31,8 @@ droits:
   fiscalite: {valeur: "partiel", note: "Le pouvoir réglementaire du Fono général comprend celui d'établir péages, redevances, amendes, impôts et autres charges (Tokelau Act 1948, s. 3A(2)(a)).", source: "https://faolex.fao.org/docs/pdf/tok151698.pdf"}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
-  autodetermination_externe: {valeur: "reconnu", note: "Référendums d'autodétermination de février 2006 et octobre 2007 sur un projet de constitution et de traité de libre association, organisés par décision du Fono général ; seuil des deux tiers non atteint.", source: "https://documents.un.org/api/symbol/access?s=A/RES/79/110&l=fr&t=pdf"}
-effectivite: {valeur: "partielle", note: "Le pouvoir législatif reste en dernier ressort au Parlement néo-zélandais (Angelo, 2009) ; le Fono général a relancé en 2022 le dialogue sur l'autodétermination en vue du centenaire de l'administration néo-zélandaise en février 2026 (résolution 79/110).", source: "https://documents.un.org/api/symbol/access?s=A/RES/79/110&l=fr&t=pdf"}
+  autodetermination_externe: {valeur: "reconnu", note: "Référendums d'autodétermination de février 2006 (60 % pour la libre association) et d'octobre 2007 (64,4 %) sur un projet de constitution et de traité de libre association approuvés par le Fono général (2005) et le gouvernement néo-zélandais ; seuil des deux tiers fixé par le Fono général non atteint, résultats acceptés par la Nouvelle-Zélande ; le Fono général a relancé le dialogue sur l'autodétermination le 23 mai 2022.", source: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
+effectivite: {valeur: "partielle", note: "Le pouvoir législatif reste en dernier ressort au Parlement néo-zélandais (Angelo, 2009). Selon des correspondances publiées par RNZ en juillet 2026, la Nouvelle-Zélande, responsable de la zone économique exclusive, a renforcé à partir de 2024 son contrôle sur l'agence tokélaouane de gestion des pêches ; le ministre tokélaouan des pêches écrit le 13 novembre 2025 que cela limite la capacité des Tokélaou à décider seules, et les Parties à l'Accord de Nauru mettent fin début 2026 à la participation des Tokélaou à leur système de jours de pêche (Vessel Day Scheme) ; le ministère néo-zélandais des affaires étrangères déclare qu'aucun changement substantiel n'est intervenu dans la gestion de la zone.", source: "https://www.rnz.co.nz/news/pacific/728663/tokelau-and-the-parties-to-the-nauru-agreement-react-to-new-zealand-fisheries-action"}
 chronologie:
   - {annee: 1926, evenement: "Début de l'administration néo-zélandaise, depuis Apia."}
   - {annee: 1948, evenement: "Tokelau Act : les Tokélaou font partie de la Nouvelle-Zélande."}
@@ -40,10 +41,17 @@ chronologie:
   - {annee: 2006, evenement: "Premier référendum d'autodétermination (février) : seuil des deux tiers non atteint."}
   - {annee: 2007, evenement: "Second référendum (octobre) : seuil des deux tiers non atteint."}
   - {annee: 2022, evenement: "Le Fono général décide de relancer le dialogue sur l'autodétermination (23 mai)."}
+  - {annee: 2025, evenement: "L'Ulu-o-Tokélaou annonce en mars un éventuel troisième référendum ; un comité est créé pour informer la population."}
+  - {annee: 2025, evenement: "Réunion spéciale des Parties à l'Accord de Nauru (27 novembre) : accord pour mettre fin à la participation des Tokélaou au système de jours de pêche."}
+  - {annee: 2026, evenement: "Élections générales du 5 février ; centenaire de l'administration néo-zélandaise (février) ; exclusion des Tokélaou du système de jours de pêche des Parties à l'Accord de Nauru (début d'année)."}
 fiabilite:
-  verifie: ["Sections 3 à 7 du Tokelau Act 1948 (réimpression de 2007, FAOLEX).", "Institutions décrites par A. H. Angelo, « The Constitution of Tokelau » (2009).", "Référendums et décisions du Fono général dans la résolution 79/110."]
-  non_confirme: ["Régime foncier coutumier des villages (taupulega) : non vérifié sur texte.", "Modifications du Tokelau Act après 2007 (version de 2021 non consultée).", "Population au dernier recensement.", "Issue du dialogue relancé en 2022."]
+  verifie: ["Sections 3 à 4 du Tokelau Act 1948 et sections 5 à 10 du Tokelau Amendment Act 1986 (réimpression au 20 septembre 2007, FAOLEX).", "Institutions décrites par A. H. Angelo, « The Constitution of Tokelau » (2009).", "Institutions, référendums, population et superficie dans le document de travail A/AC.109/2026/14.", "Décisions du Fono général et annonce d'un troisième référendum dans la résolution 80/101.", "Exclusion du système de jours de pêche des Parties à l'Accord de Nauru : RNZ, juillet et août 2026."]
+  non_confirme: ["Régime foncier coutumier des villages (taupulega) : non vérifié sur texte.", "Modifications du Tokelau Act et du Tokelau Amendment Act 1986 après 2007 : version consolidée de legislation.govt.nz non consultable.", "Population : écart entre 1 485 (par. 25) et 1 460 (encadré) dans le même document de l'ONU pour 2022.", "Composition du Conseil permanent de gouvernement : six élus selon Angelo (2009), trois faipules élus et trois représentants désignés par les taupulega selon le document de l'ONU de 2026.", "Issue du dialogue relancé en 2022 et date d'un éventuel troisième référendum."]
 sources:
   - {titre: "Tokelau Act 1948, réimpression au 20 septembre 2007 — FAOLEX", url: "https://faolex.fao.org/docs/pdf/tok151698.pdf"}
   - {titre: "A. H. Angelo, « The Constitution of Tokelau », Victoria University of Wellington (2009)", url: "https://www.wgtn.ac.nz/law/research/publications/about-nzacl/publications/cljpjdcp-journals/volume-15,-2009/Tokelau.pdf"}
   - {titre: "Résolution 79/110 « Question des Tokélaou » (2024)", url: "https://documents.un.org/api/symbol/access?s=A/RES/79/110&l=fr&t=pdf"}
+  - {titre: "Résolution 80/101 « Question des Tokélaou » (2025)", url: "https://documents.un.org/api/symbol/access?s=A/RES/80/101&l=fr&t=pdf"}
+  - {titre: "Tokélaou — Document de travail établi par le Secrétariat, A/AC.109/2026/14", url: "https://documents.un.org/api/symbol/access?s=A/AC.109/2026/14&l=fr&t=pdf"}
+  - {titre: "RNZ — Tokelau and the Parties to the Nauru Agreement react to New Zealand fisheries action (17 juillet 2026)", url: "https://www.rnz.co.nz/news/pacific/728663/tokelau-and-the-parties-to-the-nauru-agreement-react-to-new-zealand-fisheries-action"}
+  - {titre: "RNZ — Tokelau loses nearly two-thirds of revenue after fisheries pact expulsion (21 août 2026)", url: "https://www.rnz.co.nz/news/pacific/1066679/tokelau-loses-nearly-two-thirds-of-revenue-after-fisheries-pact-expulsion"}

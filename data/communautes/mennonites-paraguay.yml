@@ -8,8 +8,8 @@ coord: [-22.3, -60.0]
 type: "minorite_nationale"
 base: "personnelle"
 types_secondaires: []
-population: {valeur: null, annee: null, perimetre: "", source: ""}
-lieux: {valeur: null, unite: "colonies", annee: null, source: ""}
+population: {valeur: 38731, annee: 2022, perimetre: "personnes de culture mennonite (« kulturellen mennonitischen Hintergrund ») vivant dans les colonies et à Asunción, y compris hors appartenance à une Église ; statistique de l'ACOMEPA (association des colonies mennonites du Paraguay) publiée par Menno-Welt ; Menno 10 700, Fernheim 4 984, Sommerfeld 4 963, Bergthal 3 823", source: "https://www.menno-welt.net/neue-zahlen-in-paraguay-leben-38-731-mennoniten/"}
+lieux: {valeur: 20, unite: "colonies (Siedlungen) listées par la statistique de l'ACOMEPA, les Mennonites d'Asunción étant comptés à part", annee: 2022, source: "https://www.menno-welt.net/neue-zahlen-in-paraguay-leben-38-731-mennoniten/"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
 villages: {valeur: 100, annee: 2022, perimetre: "villages (aldeas) de la seule colonie Menno : « más de 100 aldeas »", source: "https://www.abc.com.py/edicion-impresa/suplementos/comercial/95-anos-colonia-menno/2022/06/27/la-ley-514-hizo-realidad-la-inmigracion-menonita/"}
 resume: >-
@@ -48,7 +48,9 @@ fiabilite:
     - "Texte officiel espagnol de la loi 514 non retrouvé dans la base de la Bibliothèque du Congrès (BACN)."
     - "Maintien en vigueur de la loi affirmé par des sources mennonites ; aucune décision de justice, source gouvernementale ou source indépendante consultée ne l'établit."
     - "Administration des colonies par des associations civiles et des coopératives : non confirmée par une source consultée citée ici."
-    - "Population totale, nombre de colonies et surface : aucun chiffre officiel consulté ; les estimations de presse divergent (environ 40 000 personnes selon RCC en 2023, environ 67 000 selon Huella del Sur en 2026)."
+    - "Population et nombre de colonies : statistique de l'ACOMEPA pour 2022 publiée par Menno-Welt, non recoupée par le recensement national ; les estimations de presse divergent (environ 40 000 personnes selon RCC en 2023, environ 67 000 selon Huella del Sur en 2026)."
+    - "Statistique de l'ACOMEPA : la somme des 21 lignes du tableau publié par Menno-Welt (20 colonies et Asunción) donne 39 362, pour un total annoncé de 38 731 ; l'écart n'est pas expliqué par la source."
+    - "Surface des colonies : non trouvée."
     - "Les articles 3 (exonérations fiscales et douanières pour dix ans) et 4 (immigration) étaient temporaires ou ne portent pas sur un droit collectif durable."
 sources:
   - {titre: "Gesetz Nr. 514 — Menonitica (texte allemand de la loi 514, loi 914 et décret 43.561)", url: "https://menonitica.org/lex/gesetz-nr-514/"}

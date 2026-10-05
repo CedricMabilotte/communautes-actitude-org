@@ -53,6 +53,8 @@ fiabilite:
     - "Maintien en vigueur du code forestier de 2011 en 2026 non contrôlé sur une source officielle à jour."
     - "Textes d'application (décret sur l'exploitation de la faune, arrêtés fixant les redevances et la clé de répartition entre budgets locaux et organisations villageoises) non consultés."
     - "Situation des ZOVIC de l'Est depuis la dégradation de la sécurité dans la région non documentée par une source ouverte."
+    - "Population des villages riverains des ZOVIC : non trouvée."
+    - "Nombre de villages : non trouvé."
 sources:
   - {titre: "Loi n° 003-2011/AN du 5 avril 2011 portant code forestier au Burkina Faso — FAOLEX", url: "https://faolex.fao.org/docs/pdf/bkf106703.pdf"}
   - {titre: "Loi n° 006/97/ADP du 31 janvier 1997 portant code forestier au Burkina Faso — FAOLEX", url: "https://faolex.fao.org/docs/pdf/bkf11545.pdf"}

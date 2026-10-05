@@ -9,9 +9,9 @@ type: "communaute_locale"
 base: "territoriale"
 types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
-lieux: {valeur: 182, unite: "aires protégées communautaires établies, réparties dans 31 aires protégées (rapport de la direction générale des communautés locales du ministère de l'Environnement, 2 juillet 2021, cité par ClientEarth)", annee: 2021, source: "https://www.clientearth.org/media/cbzoeazp/clientearth_cpa-report-cambodia_en.pdf"}
+lieux: {valeur: 182, unite: "aires protégées communautaires établies, réparties dans 31 aires protégées (rapport de la direction générale des communautés locales du ministère de l'Environnement, 2 juillet 2021, cité par ClientEarth) ; le tableau joint n'en recense que 60, celles du jeu de données d'Open Development Cambodia", annee: 2021, source: "https://www.clientearth.org/media/cbzoeazp/clientearth_cpa-report-cambodia_en.pdf"}
 surface_km2: {valeur: 3095, annee: 2021, perimetre: "surface totale des 182 aires protégées communautaires (309 463 hectares)", source: "https://www.clientearth.org/media/cbzoeazp/clientearth_cpa-report-cambodia_en.pdf"}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 224, annee: 2014, perimetre: "villages dont sont issues les 28 782 familles participant aux 122 aires protégées communautaires recensées en 2014 (chiffre antérieur aux 182 aires de 2021)", source: "https://www.cbd.int/doc/nr/nr-06/kh-nr-06-en.pdf"}
 resume: >-
   Fiche agrégée : elle couvre les communautés villageoises à qui le ministère de l'Environnement confie la gestion d'une partie d'une aire protégée naturelle sous forme d'« aire protégée communautaire » (community protected area). La loi sur les aires protégées de 2008 permettait d'attribuer une partie de la zone d'usage durable à une communauté résidant dans l'aire ou à proximité, par un accord de 15 ans au plus ; la terre reste propriété publique de l'État et la communauté ne peut ni la défricher, ni la titrer, ni la céder. Le Code de l'environnement et des ressources naturelles, promulgué le 29 juin 2023 et applicable depuis 2024, abroge cette loi et reprend le régime (art. 371 à 374), avec des accords conclus avec l'administration infranationale pour 25 ans au plus. En 2021, 182 aires couvraient 309 463 hectares et réunissaient 55 446 familles.
 reconnaissance_regionale: []

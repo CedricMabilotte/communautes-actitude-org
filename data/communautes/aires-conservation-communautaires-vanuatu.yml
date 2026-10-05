@@ -9,7 +9,7 @@ type: "communaute_locale"
 base: "territoriale"
 types_secondaires: ["peuple_tribal"]
 population: {valeur: null, annee: null, perimetre: "", source: ""}
-lieux: {valeur: 9, unite: "aires de conservation enregistrées en vertu de la loi sur la protection et la conservation de l'environnement (chap. 283), selon le registre national des aires de conservation cité par le sixième rapport national à la CDB ; le même rapport estime à environ 250 les aires de conservation informelles (zones tabu et aires coutumières non enregistrées)", annee: 2019, source: "https://www.cbd.int/doc/nr/nr-06/vu-nr-06-en.pdf"}
+lieux: {valeur: 9, unite: "aires de conservation enregistrées en vertu de la loi sur la protection et la conservation de l'environnement (chap. 283), selon le registre national des aires de conservation cité par le sixième rapport national à la CDB ; le même rapport estime à environ 250 les aires de conservation informelles (zones tabu et aires coutumières non enregistrées) ; le tableau compte huit lignes, la neuvième aire enregistrée n'étant pas identifiée avec certitude", annee: 2019, source: "https://www.cbd.int/doc/nr/nr-06/vu-nr-06-en.pdf"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-

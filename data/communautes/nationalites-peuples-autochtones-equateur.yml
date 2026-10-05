@@ -9,7 +9,7 @@ type: "peuple_autochtone"
 base: "mixte"
 types_secondaires: []
 population: {valeur: 1301887, annee: 2022, perimetre: "personnes s'identifiant comme autochtones au recensement de 2022 (7,7 % de la population), dont 85,87 % de Kichwa", source: "https://iwgia.org/es/ecuador/5483-mi-2024-ecuador.html"}
-lieux: {valeur: null, unite: "territoires et terres communautaires titrés", annee: null, source: ""}
+lieux: {valeur: 488, unite: "territoires autochtones titrés dans l'Amazonie équatorienne (base de données RAISG, mise à jour de juin 2025 ; 4 971 562 ha calculés par SIG) ; ne couvre ni la Sierra ni la Côte ; la même base compte en outre 20 terres sous convention et 8 zones intangibles décrétées", annee: 2025, source: "https://geo.socioambiental.org/raisg/rest/services/raisg/rg_srv_mapas_tis/MapServer/2"}
 surface_km2: {valeur: 40000, annee: 2006, perimetre: "territoires ancestraux restitués par l'État aux peuples de la Côte et de l'Amazonie, environ 4 millions d'hectares selon le Rapporteur spécial ; n'inclut pas les terres communales de la Sierra", source: "https://documents.un.org/api/symbol/access?s=A/HRC/4/32/Add.2&l=fr&t=pdf"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
@@ -51,7 +51,7 @@ chronologie:
   - {annee: 2024, evenement: "Arrêt de la Cour interaméricaine dans l'affaire Tagaeri et Taromenane (4 septembre)."}
 fiabilite:
   verifie: ["Articles 1, 2, 56, 57, 60, 171, 257 et 408 de la Constitution de 2008 (édition de l'Assemblée nationale).", "Articles 3, 23 et 77 à 83 de la loi organique de 2016 (texte publié par la FAO, dernière réforme du 25 mars 2022).", "Paragraphes 12, 13, 18 et 19 des observations finales du CERD de 2017.", "Dispositif de l'arrêt Tagaeri et Taromenane de 2024.", "Chiffres du recensement 2022 cités par IWGIA (El Mundo Indígena 2024)."]
-  non_confirme: ["Aucune liste officielle ni nombre des territoires titrés, ni surface totale récente, n'a été trouvé ; le chiffre de 4 millions d'hectares date de 2006 et ne couvre que la Côte et l'Amazonie.", "Existence d'une circonscription territoriale autochtone effectivement constituée selon l'article 257.", "État de l'adoption d'une loi sur la consultation préalable et d'une loi de coordination des juridictions après 2017.", "Le recensement 2022 a été consulté par l'intermédiaire d'IWGIA, pas sur le site de l'INEC."]
+  non_confirme: ["Aucune liste officielle ni nombre des territoires titrés, ni surface totale récente, n'a été trouvé ; le chiffre de 4 millions d'hectares date de 2006 et ne couvre que la Côte et l'Amazonie.", "Existence d'une circonscription territoriale autochtone effectivement constituée selon l'article 257.", "État de l'adoption d'une loi sur la consultation préalable et d'une loi de coordination des juridictions après 2017.", "Le recensement 2022 a été consulté par l'intermédiaire d'IWGIA, pas sur le site de l'INEC.", "Nombre de lieux : aucun décompte national des territoires titrés n'a été trouvé ; le chiffre de 488 ne couvre que l'Amazonie (RAISG, sources INDA, EcoCiencia, préfecture de Sucumbíos et autres).", "Nombre de villages : non trouvé."]
 sources:
   - {titre: "Constitution de la République de l'Équateur — Assemblée nationale", url: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
   - {titre: "Ley Orgánica de Tierras Rurales y Territorios Ancestrales (2016) — FAOLEX", url: "https://faolex.fao.org/Docs/Pdf/Ecu166211.Pdf"}

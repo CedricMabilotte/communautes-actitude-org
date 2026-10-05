@@ -9,7 +9,7 @@ type: "communaute_locale"
 base: "territoriale"
 types_secondaires: ["peuple_tribal"]
 population: {valeur: null, annee: null, perimetre: "", source: ""}
-lieux: {valeur: 309, unite: "réserves communautaires notifiées", annee: 2025, source: "https://web.archive.org/web/20250908141706/https://wiienvis.nic.in/Database/cri_8228.aspx"}
+lieux: {valeur: 309, unite: "réserves communautaires notifiées", annee: 2025, perimetre: "lignes de la liste du Wildlife Institute of India de février 2025, dont un doublon (308 réserves distinctes) ; le tableau compte 311 lignes : ces 308 réserves et 3 réserves notifiées en 2024 et 2025 d'après la presse (Mawpen et Ka Lum Thangbru Khloo Kynrien au Meghalaya, Chaudhariwali au Haryana)", source: "https://web.archive.org/web/20250908141706/https://wiienvis.nic.in/Database/cri_8228.aspx"}
 surface_km2: {valeur: 1455.15, annee: 2023, perimetre: "220 réserves, liste du Wildlife Institute of India de juillet 2023 ; le total de février 2025 (8 464,13 km²) n'est pas repris, car les surfaces du Meghalaya y sont 100 fois plus grandes que dans la liste de 2023", source: "https://web.archive.org/web/20240919033321/https://wiienvis.nic.in/Database/cri_8228.aspx"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
@@ -45,7 +45,7 @@ chronologie:
   - {annee: 2025, evenement: "309 réserves inscrites en février, dont 188 au Nagaland."}
 fiabilite:
   verifie: ["Texte des art. 36A à 36D de 2003 (loi 16 de 2003, FAOLEX) et version en vigueur de l'art. 36D (Indian Kanoon, Legitquest).", "Listes du Wildlife Institute of India de juillet 2023 et février 2025 (copies archive.org).", "220 réserves au 27 novembre 2023 (Press Information Bureau, 3 mars 2025).", "Composition des comités à Kadalundi-Vallikkunnu (2013), en Ri Bhoi (2023), à Mawpen (2024) et à Fatehabad (2025)."]
-  non_confirme: ["Surface totale en 2025 : le total officiel de 8 464,13 km² contient une erreur d'unité pour le Meghalaya ; aucun total corrigé publié.", "La liste de février 2025 compte « Thurubophe » deux fois (308 réserves distinctes).", "Population vivant dans ou autour des réserves : non trouvée.", "Directives du ministère sur la procédure de création et montants versés par réserve : non trouvés.", "Type « peuple tribal ou coutumier » : approximation ; il vaut pour les réserves du nord-est, gérées par des institutions de tribus répertoriées, mais pas pour celles du Punjab, du Kerala et du Haryana, gérées par des villages non tribaux."]
+  non_confirme: ["Surface totale en 2025 : le total officiel de 8 464,13 km² contient une erreur d'unité pour le Meghalaya ; aucun total corrigé publié.", "La liste de février 2025 compte « Thurubophe » deux fois (308 réserves distinctes).", "Population vivant dans ou autour des réserves : non trouvée.", "Directives du ministère sur la procédure de création et montants versés par réserve : non trouvés.", "Type « peuple tribal ou coutumier » : approximation ; il vaut pour les réserves du nord-est, gérées par des institutions de tribus répertoriées, mais pas pour celles du Punjab, du Kerala et du Haryana, gérées par des villages non tribaux.", "Nombre de villages : non trouvé ; le tableau ne nomme le village ou la communauté gestionnaire que pour 33 réserves."]
 sources:
   - {titre: "Wild Life (Protection) Amendment Act, 2002 (loi 16 de 2003) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ind40069.pdf"}
   - {titre: "Wild Life (Protection) Amendment Act, 2022 — Legitquest", url: "https://www.legitquest.com/act/wild-life-protection-amendment-act-2022/c855"}

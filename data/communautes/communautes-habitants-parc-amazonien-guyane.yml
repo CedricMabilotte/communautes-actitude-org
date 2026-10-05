@@ -8,7 +8,7 @@ coord: [3.2, -53.3]
 type: "communaute_locale"
 base: "territoriale"
 types_secondaires: ["peuple_autochtone", "communaute_afrodescendante"]
-population: {valeur: null, annee: null, perimetre: "membres des communautés d'habitants identifiées par la charte du parc ; le parc annonce 20 192 habitants (Insee 2022) pour ses cinq communes, chiffre qui ne correspond pas à ce périmètre", source: ""}
+population: {valeur: 16774, annee: 2023, perimetre: "population municipale des trois communes où s'appliquent les droits d'usage, au recensement de 2023 : Camopi 2 189, Maripasoula 9 579, Papaïchton 5 006 (dossiers complets Insee de chaque commune) ; ce total compte aussi les habitants qui ne relèvent pas des communautés d'habitants", source: "https://www.insee.fr/fr/statistiques/2011101?geo=COM-97353"}
 lieux: {valeur: 3, unite: "communes (Camopi, Maripasoula, Papaïchton)", annee: 2007, source: "https://aida.ineris.fr/reglementation/decret-ndeg-2007-266-270207-creant-parc-national-denomme-parc-amazonien-guyane"}
 surface_km2: {valeur: 20000, annee: 2007, perimetre: "cœur du parc (2 millions d'hectares selon l'établissement du parc), qui s'étend aussi sur Saint-Élie et Saül, communes où ces droits ne s'appliquent pas ; l'aire d'adhésion couvre 1,4 million d'hectares de plus", source: "https://www.parc-amazonien-guyane.fr/fr/le-parc-amazonien-de-guyane/un-parc-national-de-caractere"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
@@ -41,7 +41,7 @@ chronologie:
   - {annee: 2013, evenement: "Décret du 28 octobre approuvant la charte du parc."}
 fiabilite:
   verifie: ["Articles 19, 21, 22, 27, 28 et 29 du décret n° 2007-266 (texte reproduit par AIDA-INERIS).", "Cinq communes du parc, 20 192 habitants (Insee 2022), cœur de 2 millions d'hectares et aire d'adhésion de 1,4 million d'hectares (site du parc).", "Objet de l'article L. 331-15-3 : droits d'usage collectifs des communautés d'habitants en matière de chasse, de pêche et de subsistance (rapport du Sénat n° 159, 2005-2006, sur le projet de loi).", "Approbation de la charte par le décret n° 2013-968 (texte reproduit par AIDA-INERIS).", "Démarches du parc sur les dérogations et la gestion concertée (rapport du Sénat, 2020)."]
-  non_confirme: ["Texte consolidé de l'article L. 331-15-3 sur Légifrance (accès refusé) ; seul le commentaire du projet de loi a été lu.", "Liste des communautés et des villages identifiés par la charte ; population concernée.", "Contenu des accords de Twenké (source secondaire seulement)."]
+  non_confirme: ["Texte consolidé de l'article L. 331-15-3 sur Légifrance (accès refusé) ; seul le commentaire du projet de loi a été lu.", "Liste des communautés et des villages identifiés par la charte ; population concernée.", "Contenu des accords de Twenké (source secondaire seulement).", "Nombre de villages : non trouvé.", "Population des seules communautés d'habitants : non trouvée ; le chiffre retenu couvre les trois communes entières."]
 sources:
   - {titre: "Décret n° 2007-266 du 27 février 2007 créant le parc national dénommé « Parc amazonien de Guyane » — AIDA (INERIS)", url: "https://aida.ineris.fr/reglementation/decret-ndeg-2007-266-270207-creant-parc-national-denomme-parc-amazonien-guyane"}
   - {titre: "Le Parc amazonien de Guyane — site de l'établissement public", url: "https://www.parc-amazonien-guyane.fr/fr/le-parc-amazonien-de-guyane"}
@@ -50,3 +50,6 @@ sources:
   - {titre: "Décret n° 2013-968 du 28 octobre 2013 portant approbation de la charte du Parc amazonien de Guyane — AIDA (INERIS)", url: "https://aida.ineris.fr/reglementation/decret-ndeg-2013-968-281013-portant-approbation-charte-parc-amazonien-guyane"}
   - {titre: "Projet de loi relatif aux parcs nationaux — rapport du Sénat n° 159 (2005-2006)", url: "https://www.senat.fr/rap/l05-159/l05-159_mono.html"}
   - {titre: "Parc amazonien de Guyane — Wikipédia", url: "https://fr.wikipedia.org/wiki/Parc_amazonien_de_Guyane"}
+  - {titre: "Dossier complet − Commune de Maripasoula (97353) — Insee", url: "https://www.insee.fr/fr/statistiques/2011101?geo=COM-97353"}
+  - {titre: "Dossier complet − Commune de Camopi (97356) — Insee", url: "https://www.insee.fr/fr/statistiques/2011101?geo=COM-97356"}
+  - {titre: "Dossier complet − Commune de Papaïchton (97362) — Insee", url: "https://www.insee.fr/fr/statistiques/2011101?geo=COM-97362"}

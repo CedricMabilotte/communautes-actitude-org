@@ -8,10 +8,10 @@ coord: [14.0, -5.0]
 type: "communaute_locale"
 types_secondaires: []
 base: "territoriale"
-population: {valeur: null, annee: null, perimetre: "", source: ""}
+population: {valeur: 16459868, annee: 2023, perimetre: "population projetée en 2023 (base du recensement de 2022, RGPH5) des 786 communes classées rurales dans le Répertoire des localités du Mali ; tous les habitants sont comptés, titulaires ou non de droits coutumiers ; somme des effectifs par commune du répertoire", source: "https://www.instat-mali.org/laravel-filemanager/files/shares/rgph/repvila-rgph5_rgph.pdf"}
 lieux: {valeur: null, unite: "commissions foncières villageoises et de fraction installées", annee: null, source: ""}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 12438, annee: 2023, perimetre: "villages, fractions et quartiers des 786 communes classées rurales dans le Répertoire des localités du Mali (RGPH5, édition 2023, publiée en janvier 2026) ; somme des nombres de localités par commune ; le pays compte 12 917 localités, communes urbaines comprises ; la loi 2017-001 prévoit une commission foncière dans chaque village et fraction", source: "https://www.instat-mali.org/laravel-filemanager/files/shares/rgph/repvila-rgph5_rgph.pdf"}
 resume: >-
   La loi 2017-001 du 11 avril 2017 sur le foncier agricole range parmi les terres agricoles celles des communautés rurales, détenues en vertu d'une attestation de détention coutumière (titre qui constate un droit fondé sur la coutume) ou de possession foncière, individuelle ou collective. Elle crée dans chaque village et chaque fraction une commission foncière villageoise et de fraction, dont l'avis conditionne ces attestations et qui doit être saisie de tout différend avant les tribunaux. Le décret 2018-0333 du 4 avril 2018 en fixe la composition et le fonctionnement. L'ordonnance 2020-014 portant Code domanial et foncier confirme les droits coutumiers exercés collectivement ou individuellement sur les terres non immatriculées.
 reconnaissance_regionale: []
@@ -51,6 +51,8 @@ fiabilite:
     - "Le texte de l'ordonnance 2020-014 et de la loi 2021-056 n'a pas été consulté directement : les articles 71, 73, 74 et 76 sont cités d'après l'étude de décembre 2022 du Comité technique « Foncier & développement »."
     - "Nombre de commissions foncières villageoises et de fraction installées, nombre d'attestations collectives délivrées et surface concernée : aucune source trouvée ; aucune liste officielle des commissions n'a été trouvée."
     - "L'arrêté conjoint prévu par l'article 34 (procédure de constatation des droits coutumiers) et l'arrêté sur les frais de fonctionnement des commissions (décret 2018-0333, art. 9) n'ont pas été trouvés."
+    - "Population et nombre de villages : calculés par addition des effectifs des communes rurales du Répertoire des localités (INSTAT) ; le répertoire ne distingue pas les terres détenues selon la coutume ; le nombre de villages et fractions dotés d'une commission foncière installée n'est pas connu."
+    - "Surface des terres détenues selon la coutume : non trouvée."
 sources:
   - {titre: "Loi 2017-001 du 11 avril 2017 portant sur le foncier agricole — Journal officiel de la République du Mali n° 16, 21 avril 2017", url: "https://sgg-mali.ml/JO/2017/mali-jo-2017-16.pdf"}
   - {titre: "Décret 2018-0333/P-RM du 4 avril 2018 fixant la composition et les modalités de fonctionnement de la commission foncière villageoise ou de fraction — Journal officiel de la République du Mali n° 15, 13 avril 2018", url: "https://sgg-mali.ml/JO/2018/mali-jo-2018-15.pdf"}

@@ -1,5 +1,5 @@
 uid: "yap-conseils-traditionnels"
-nom: "Yapais et insulaires des îles extérieures de Yap"
+nom: "Yapais et insulaires des îles extérieures"
 endonyme: ""
 territoire: "État de Yap (îles Yap et îles extérieures)"
 etats: ["États fédérés de Micronésie"]
@@ -8,39 +8,46 @@ coord: [9.5, 138.1]
 type: "peuple_autochtone"
 types_secondaires: []
 base: "territoriale"
-population: {valeur: 11377, annee: 2010, perimetre: "Yap au recensement de 2010 (périmètre exact, État ou îles principales, non précisé par la source)", source: "https://www.britannica.com/place/Yap-Islands"}
-lieux: {valeur: null, unite: "", annee: null, source: ""}
+population: {valeur: 10739, annee: 2023, perimetre: "ensemble des résidents de l'État de Yap au recensement de 2023 (îles Yap : 7 257 ; îles extérieures : 3 482), sans distinction d'origine", source: "https://stats.gov.fm/topics/social/population-statistics/"}
+lieux: {valeur: 20, unite: "municipalités du recensement (10 aux îles Yap, 10 aux îles extérieures)", annee: 2023, perimetre: "municipalités pour lesquelles le recensement de 2023 publie une population ; chaque municipalité des îles Yap a un siège au Conseil de Pilung", source: "https://stats.gov.fm/download/56/yap/2212/yap-basic-tables-2023-population-housing-census.xlsx"}
 surface_km2: {valeur: 118.9, annee: null, perimetre: "terres émergées de l'État de Yap (lagons exclus : 1 049 km²)", source: "https://www.pacioos.hawaii.edu/education/region-fsm/"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
-  L'État de Yap, l'un des quatre États fédérés de Micronésie, comprend les îles Yap et des atolls dits « îles extérieures ». Sa constitution reconnaît les chefs traditionnels (Dalip pi Nguchol) et crée deux conseils coutumiers, le Conseil de Pilung et le Conseil de Tamol. Ces conseils peuvent s'opposer à toute loi qui porte atteinte à la tradition et à la coutume. La constitution reconnaît aussi les droits coutumiers sur les terres et sur l'espace marin.
+  L'État de Yap, l'un des quatre États fédérés de Micronésie, comprend les îles Yap et des atolls dits « îles extérieures ». Sa constitution reconnaît les chefs traditionnels (Dalip pi Nguchol) et crée deux conseils coutumiers, le Conseil de Pilung et le Conseil de Tamol. Ces conseils peuvent désapprouver toute loi votée qui porte atteinte à la tradition, à la coutume ou au rôle d'un chef traditionnel. La constitution reconnaît aussi les droits coutumiers sur les terres et sur l'espace marin.
 reconnaissance_regionale: []
 reconnaissance_onu: []
 base_nationale:
   - {instrument: "Constitution de l'État de Yap (modifiée en 2004), art. III, V, VI, VII, XI à XV", nature: "constitution", annee: null, source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
 droits:
-  autogouvernement: {valeur: "reconnu", note: "« Il est institué un Conseil de Pilung et un Conseil de Tamol, qui exercent les fonctions relatives à la tradition et à la coutume » ; reconnaissance des Dalip pi Nguchol et de leurs rôles coutumiers (Constitution de Yap, art. III, s. 1 et 2).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
-  pouvoir_normatif: {valeur: "partiel", note: "Toute loi votée est soumise aux deux conseils, qui peuvent la rejeter si elle porte atteinte à la tradition, à la coutume ou au rôle d'un chef traditionnel, et sont seuls juges de cette atteinte (art. V, s. 16 à 18) ; la tradition et la coutume sont reconnues dans le système juridique (art. III, s. 3).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
-  justice_propre: {valeur: "partiel", note: "Les décisions des tribunaux doivent être compatibles avec les traditions et coutumes de l'État (art. VII, s. 7) ; la législature peut codifier le droit traditionnel (art. XV).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
-  terres: {valeur: "reconnu", note: "Un titre foncier ne peut être acquis que conformément à la tradition et à la coutume (art. XIII, s. 3) ; un bail consenti à un non-citoyen des États fédérés ne peut dépasser cent ans (art. XIII, s. 2).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
-  ressources: {valeur: "reconnu", note: "L'État reconnaît les droits et la propriété traditionnels sur les ressources de l'espace marin, de la laisse de haute mer jusqu'au-delà de 12 milles ; aucun navire étranger ne peut y prélever de ressources sans l'accord des titulaires de ces droits (art. XIII, s. 5 et 6).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
-  consentement: {valeur: "partiel", note: "Accord des titulaires des droits traditionnels requis pour toute pêche, recherche ou exploration par un navire étranger dans l'espace marin de l'État (art. XIII, s. 6).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
+  autogouvernement: {valeur: "reconnu", note: "« Il y a un Conseil de Pilung et un Conseil de Tamol, qui exercent les fonctions relatives à la tradition et à la coutume » ; les Dalip pi Nguchol (chefs traditionnels) et leurs rôles coutumiers sont reconnus (Constitution de Yap, art. III, s. 1 et 2). Chaque conseil fixe ses propres règles de fonctionnement et peut conseiller le gouverneur, la législature et l'administration (Code de l'État de Yap, titre 5, ch. 1, s. 102 et 103).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
+  pouvoir_normatif: {valeur: "partiel", note: "Toute loi votée est transmise aux deux conseils, qui peuvent la désapprouver dans les trente jours si elle porte atteinte à la tradition, à la coutume ou au rôle d'un chef traditionnel, et sont seuls juges de cette atteinte ; une loi désapprouvée ne peut être promulguée qu'après amendement répondant à leurs objections et nouvel examen par les conseils (art. V, s. 16 à 18). La tradition et la coutume sont reconnues dans le système juridique (art. III, s. 3).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
+  justice_propre: {valeur: "partiel", note: "Les décisions des tribunaux doivent être compatibles avec les traditions et coutumes de l'État (art. VII, s. 7) ; la législature peut codifier le droit traditionnel (art. XV, s. 1). Il n'existe pas de juridiction coutumière distincte : le pouvoir judiciaire appartient à la Cour de l'État (art. VII, s. 1).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
+  terres: {valeur: "reconnu", note: "Un titre foncier ne peut être acquis que conformément à la tradition et à la coutume (art. XIII, s. 3) ; un accord d'usage foncier conclu avec un non-citoyen des États fédérés ou une société qui n'est pas entièrement détenue par des citoyens ne peut dépasser cent ans (art. XIII, s. 2).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
+  ressources: {valeur: "reconnu", note: "L'État reconnaît les droits et la propriété traditionnels sur les ressources et les zones de l'espace marin, de la laisse de haute mer jusqu'au-delà de 12 milles des lignes de base ; aucune mesure ne peut y porter atteinte, sauf les mesures de conservation et de développement durable que l'État peut prendre jusqu'à 12 milles (art. XIII, s. 5).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
+  consentement: {valeur: "partiel", note: "Un navire étranger de pêche, de recherche ou d'exploration ne peut prélever de ressources dans l'espace marin de l'État qu'avec l'autorisation des titulaires des droits traditionnels et dans les conditions fixées par la loi (art. XIII, s. 6).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
   langue: {valeur: "reconnu", note: "« Les langues autochtones de l'État et l'anglais sont langues officielles » (art. XIV, s. 5).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
   education: {valeur: "partiel", note: "Les traditions et coutumes du peuple de l'État sont enseignées dans les écoles publiques, selon les modalités fixées par la loi (art. XII, s. 2).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "partiel", note: "Si le gouverneur réside dans les îles Yap, le lieutenant-gouverneur doit résider dans les îles extérieures, et inversement (art. VI, s. 2) ; les îles extérieures forment quatre des cinq circonscriptions législatives, avec un élu chacune, contre six élus pour les îles Yap (art. XI).", source: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "non_etablie", note: "Aucune source indépendante sur l'usage du droit d'opposition des conseils n'a été consultée.", source: ""}
+effectivite: {valeur: "effective", note: "Les conseils siègent et agissent : en mars 2018, le président du Conseil de Tamol a exclu un chef d'Ulithi pour un accord de pêche conclu sans consultation (Pacific Island Times) ; en mars 2019, neuf des dix membres du Conseil de Pilung ont demandé l'expulsion d'une journaliste et la législature a jugé, le 30 avril 2019, que cette demande sortait de leur compétence (Asia Pacific Report). Aucune source indépendante sur l'usage du droit de désapprobation des lois n'a été trouvée.", source: "https://asiapacificreport.nz/2019/05/03/yap-legislature-rejects-kick-out-demand-over-us-journalist/"}
 chronologie:
-  - {annee: 1982, evenement: "Élections générales du 2 novembre sous la Charte du gouvernement de Yap, confirmées comme premières élections au titre de la Constitution (art. XV)."}
+  - {annee: 1982, evenement: "Élections générales du 2 novembre sous la Charte du gouvernement de Yap, confirmées comme premières élections au titre de la Constitution (art. XV, s. 7)."}
   - {annee: 1990, evenement: "Fin de la tutelle de l'ONU pour les États fédérés de Micronésie (résolution 683 du Conseil de sécurité)."}
-  - {annee: 2004, evenement: "Révision constitutionnelle : reconnaissance des Dalip pi Nguchol (art. III, s. 1)."}
+  - {annee: 2004, evenement: "Révision constitutionnelle : reconnaissance des Dalip pi Nguchol (art. III, s. 1), nouvelle rédaction du droit de désapprobation des conseils (art. V, s. 16 et 17)."}
+  - {annee: 2018, evenement: "Le président du Conseil de Tamol exclut du conseil le chef de Fedrai (Ulithi) pour un accord de pêche conclu sans consultation."}
+  - {annee: 2019, evenement: "Le Conseil de Pilung demande l'expulsion d'une journaliste ; le 30 avril, la législature juge la demande hors de sa compétence."}
+  - {annee: 2023, evenement: "Recensement des États fédérés de Micronésie : 10 739 résidents dans l'État de Yap."}
 fiabilite:
-  verifie: ["Art. III, V (s. 16 à 18), VI (s. 2), VII (s. 7), XI, XII (s. 2), XIII (s. 2, 3, 5, 6), XIV (s. 5) et XV de la Constitution de Yap (FSM Legal Information System).", "Surface terrestre (PacIOOS, université d'Hawaï)."]
-  non_confirme: ["Année d'adoption de la constitution (postérieure aux élections de 1982, non lue dans le texte).", "Ressort respectif des deux conseils (Pilung pour les îles Yap, Tamol pour les îles extérieures selon l'usage) : non lu dans le texte.", "Population actuelle et périmètre du chiffre de 2010.", "Nombre de municipalités et de villages.", "Composition des deux conseils."]
+  verifie: ["Art. III, V (s. 16 à 18), VI (s. 2), VII (s. 1 et 7), XI, XII (s. 2), XIII (s. 2, 3, 5, 6), XIV (s. 5) et XV (s. 1) de la Constitution de Yap (FSM Legal Information System, texte consolidé, dernières modifications de 2004).", "Code de l'État de Yap, titre 5, ch. 1 (fonctions et fonctionnement des conseils).", "Population 2023 de l'État et par municipalité (FSM Statistics, tableaux du recensement de 2023).", "Surface terrestre (PacIOOS, université d'Hawaï).", "Composition du Conseil de Pilung : dix membres, un par municipalité des îles Yap (Asia Pacific Report, 2019)."]
+  non_confirme: ["Année d'adoption de la constitution (postérieure aux élections de 1982, non lue dans le texte).", "Ressort du Conseil de Tamol (îles extérieures) et sa composition : établis par la presse, non lus dans la Constitution.", "Usage effectif du droit de désapprobation des lois depuis 2004.", "Nombre de villages : non trouvé.", "Aucune révision constitutionnelle ni décision de justice postérieure à 2024 touchant les conseils n'a été trouvée ; recherche limitée au texte consolidé et à la presse régionale."]
 sources:
   - {titre: "Constitution de l'État de Yap — FSM Legal Information System", url: "http://www.fsmlaw.org/yap/constitution/entire.htm"}
-  - {titre: "Britannica — Yap Islands", url: "https://www.britannica.com/place/Yap-Islands"}
+  - {titre: "Code de l'État de Yap, titre 5, ch. 1 — FSM Legal Information System", url: "http://www.fsmlaw.org/yap/code/title05/T05_Ch01.htm"}
+  - {titre: "FSM Statistics — Population statistics (recensement de 2023)", url: "https://stats.gov.fm/topics/social/population-statistics/"}
+  - {titre: "FSM Statistics — Yap Basic Tables, 2023 Population and Housing Census", url: "https://stats.gov.fm/download/56/yap/2212/yap-basic-tables-2023-population-housing-census.xlsx"}
+  - {titre: "Asia Pacific Report — Yap legislature rejects 'kick out' demand over US journalist (3 mai 2019)", url: "https://asiapacificreport.nz/2019/05/03/yap-legislature-rejects-kick-out-demand-over-us-journalist/"}
+  - {titre: "Pacific Island Times — Traditional Yap chief axed for fishing deals with outsiders (6 mars 2018)", url: "https://www.pacificislandtimes.com/post/2018/03/06/Traditional-Yap-chief-axed-for-fishing-deals-with-outsiders"}
   - {titre: "PacIOOS — Federated States of Micronesia", url: "https://www.pacioos.hawaii.edu/education/region-fsm/"}
   - {titre: "Conseil de sécurité — Résolution 683 (1990)", url: "https://documents.un.org/api/symbol/access?s=S/RES/683(1990)&l=fr&t=pdf"}

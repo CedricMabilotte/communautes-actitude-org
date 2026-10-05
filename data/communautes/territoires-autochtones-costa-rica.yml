@@ -1,5 +1,5 @@
 uid: "territoires-autochtones-costa-rica"
-nom: "Peuples autochtones des 24 territoires du Costa Rica"
+nom: "Peuples autochtones du Costa Rica"
 endonyme: ""
 territoire: "24 territoires (« reservas indígenas » de la loi de 1977), surtout dans le sud et la cordillère de Talamanca"
 etats: ["Costa Rica"]
@@ -10,44 +10,55 @@ base: "territoriale"
 types_secondaires: []
 population: {valeur: 48500, annee: 2011, perimetre: "résidents des 24 territoires au recensement de 2011, dont 35 943 personnes se déclarant autochtones", source: "https://inie.ucr.ac.cr/descarga/KOHA-PDF/Territorios_Indigenas.pdf"}
 lieux: {valeur: 24, unite: "territoires autochtones (8 peuples : Cabécar, Bribri, Boruca, Ngäbe, Huetar, Maleku, Térraba, Chorotega)", annee: 2011, source: "https://inie.ucr.ac.cr/descarga/KOHA-PDF/Territorios_Indigenas.pdf"}
-surface_km2: {valeur: 3344, annee: null, perimetre: "surface totale des 24 territoires (334 447 ha), chiffre non daté de la stratégie REDD+ consultée en 2026", source: "https://reddcr.go.cr/pueblos-indigenas/"}
+surface_km2: {valeur: 3344, annee: 2022, perimetre: "surface totale des 24 territoires autochtones (6,7 % du territoire national), selon le rapport du Rapporteur spécial des Nations unies", source: "https://documents.un.org/api/symbol/access?s=A/HRC/51/28/Add.1&l=es&t=pdf"}
 villages: {valeur: 258, annee: 2011, perimetre: "communautés, hameaux (caseríos) et localités (poblados) distincts énumérés par territoire au tableau 1 du recensement de 2011, une communauté à cheval sur plusieurs districts comptée une fois", source: "https://inie.ucr.ac.cr/descarga/KOHA-PDF/Territorios_Indigenas.pdf"}
 resume: >-
-  Fiche agrégée. La loi n° 6172 du 29 novembre 1977 (Ley Indígena) déclare les « reservas indígenas » propriété des communautés, inaliénables, imprescriptibles et réservées à leurs habitants autochtones ; tout transfert à des non-autochtones est nul. Chaque territoire est administré par un conseil directeur représentant sa population. Huit peuples vivent dans 24 territoires couvrant environ 334 000 hectares. Une part des terres reste occupée par des non-autochtones, faute d'application des procédures de rachat prévues par la loi.
+  Fiche agrégée. La loi n° 6172 du 29 novembre 1977 (Ley Indígena) déclare les « reservas indígenas » propriété des communautés, inaliénables, imprescriptibles et réservées à leurs habitants autochtones ; tout transfert à des non-autochtones est nul. Chaque territoire est administré par un conseil directeur représentant sa population ; un décret de 1978 a fait des associations de développement intégral (ADI) l'interlocuteur officiel. Huit peuples vivent dans 24 territoires couvrant 3 344 km². Une part des terres reste occupée par des non-autochtones ; la première indemnisation d'un occupant prévue par la loi a été versée en décembre 2023.
 reconnaissance_regionale:
-  - {mecanisme: "commission_interamericaine", detail: "Mesures conservatoires accordées en avril 2015 en faveur de dirigeants engagés dans la récupération des terres ; non appliquées cinq ans plus tard selon l'IWGIA.", annee: 2015, source: "https://iwgia.org/es/costa-rica/4130-mi-2021-costa-rica.html"}
+  - {mecanisme: "commission_interamericaine", detail: "Mesure conservatoire n° 321/12 du 30 avril 2015 en faveur des peuples bribri de Salitre et brörán (teribe) de Térraba ; deux de ses bénéficiaires, Sergio Rojas (2019) et Jehry Rivera (2020), ont été tués.", annee: 2015, source: "https://documents.un.org/api/symbol/access?s=A/HRC/51/28/Add.1&l=es&t=pdf"}
 reconnaissance_onu:
-  - {mecanisme: "oit_169", detail: "Le Costa Rica ratifie la Convention 169 de l'OIT le 2 avril 1993.", annee: 1993, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
-  - {mecanisme: "dnudpa", detail: "Le Costa Rica vote pour la Déclaration des Nations unies sur les droits des peuples autochtones (résolution 61/295).", annee: 2007, source: "https://digitallibrary.un.org/record/609197"}
+  - {mecanisme: "oit_169", detail: "Le Costa Rica ratifie la Convention 169 de l'OIT le 2 avril 1993 (entrée en vigueur le 2 avril 1994).", annee: 1993, source: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
+  - {mecanisme: "dnudpa", detail: "Le Costa Rica vote pour l'adoption de la Déclaration des Nations unies sur les droits des peuples autochtones en 2007.", annee: 2007, source: "https://documents.un.org/api/symbol/access?s=A/HRC/51/28/Add.1&l=es&t=pdf"}
+  - {mecanisme: "rapporteur_special", detail: "Visite du Rapporteur spécial José Francisco Calí Tzay du 6 au 17 décembre 2021 ; rapport A/HRC/51/28/Add.1 (2022) sur l'autogouvernement, la restitution des terres et la consultation dans les 24 territoires.", annee: 2022, source: "https://documents.un.org/api/symbol/access?s=A/HRC/51/28/Add.1&l=es&t=pdf"}
 base_nationale:
   - {instrument: "Loi n° 6172 du 29 novembre 1977 (Ley Indígena)", nature: "loi", annee: 1977, source: "https://conagebio.go.cr/sites/default/files/2023-08/LEY-INDIGENA-6172.pdf"}
-  - {instrument: "Décret exécutif n° 40932-MP-MJP, Mécanisme général de consultation des peuples autochtones", nature: "loi", annee: 2018, source: "https://iwgia.org/es/costa-rica/4130-mi-2021-costa-rica.html"}
+  - {instrument: "Constitution, article 1 réformé en 2015 (État multiethnique et pluriculturel) et article 76 (lenguas indígenas nacionales)", nature: "constitution", annee: 2015, source: "https://documents.un.org/api/symbol/access?s=A/HRC/51/28/Add.1&l=es&t=pdf"}
+  - {instrument: "Décret exécutif n° 40932-MP-MJP (2018), Mécanisme général de consultation des peuples autochtones", nature: "loi", annee: 2018, source: "https://documents.un.org/api/symbol/access?s=A/HRC/51/28/Add.1&l=es&t=pdf"}
 droits:
-  autogouvernement: {valeur: "partiel", note: "La loi de 1977 (art. 4) prévoit que les territoires sont régis par les autochtones selon leurs structures communautaires traditionnelles, chacun administré par un conseil directeur, sous la coordination de la CONAI ; un règlement a imposé des associations de développement intégral (ADII) critiquées comme étrangères aux gouvernements traditionnels.", source: "https://conagebio.go.cr/sites/default/files/2023-08/LEY-INDIGENA-6172.pdf"}
+  autogouvernement: {valeur: "partiel", note: "La loi de 1977 (art. 4) prévoit que les territoires sont régis par les autochtones selon leurs structures communautaires traditionnelles, chacun administré par un conseil directeur, sous la coordination de la CONAI (commission nationale des affaires autochtones) ; le décret n° 8487 de 1978 a imposé les associations de développement intégral comme seule forme de gouvernance, et aucune autorité propre n'a de personnalité juridique selon le Rapporteur spécial (2022).", source: "https://documents.un.org/api/symbol/access?s=A/HRC/51/28/Add.1&l=es&t=pdf"}
   pouvoir_normatif: {valeur: "non_etabli", note: "", source: ""}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "reconnu", note: "Les territoires sont propriété des communautés (art. 2), inaliénables, imprescriptibles, non transférables et exclusifs ; toute vente ou location à des non-autochtones est nulle (art. 3).", source: "https://conagebio.go.cr/sites/default/files/2023-08/LEY-INDIGENA-6172.pdf"}
-  ressources: {valeur: "non_etabli", note: "", source: ""}
-  consentement: {valeur: "partiel", note: "Le Mécanisme général de consultation (décret de 2018) est mis en œuvre par des instances territoriales de consultation, avec des moyens jugés insuffisants.", source: "https://iwgia.org/es/costa-rica/4130-mi-2021-costa-rica.html"}
+  ressources: {valeur: "partiel", note: "Seuls les autochtones peuvent abattre des arbres, exploiter le bois et cultiver dans les territoires ; toute concession minière à des particuliers doit être approuvée par l'Assemblée législative ; les programmes forestiers relèvent d'institutions de l'État sous contrôle de la CONAI (loi n° 6172, art. 6 et 7).", source: "https://conagebio.go.cr/sites/default/files/2023-08/LEY-INDIGENA-6172.pdf"}
+  consentement: {valeur: "partiel", note: "Le décret n° 40932 de 2018 crée une unité technique de consultation au ministère de la Justice et des instances territoriales de consultation élues selon les normes de chaque territoire ; là où ces instances manquent, la consultation passe par les associations de développement intégral (Rapporteur spécial, 2022).", source: "https://documents.un.org/api/symbol/access?s=A/HRC/51/28/Add.1&l=es&t=pdf"}
   langue: {valeur: "non_etabli", note: "", source: ""}
   education: {valeur: "non_etabli", note: "", source: ""}
   fiscalite: {valeur: "non_etabli", note: "", source: ""}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "contestee", note: "Les territoires ont été titrés sans assainissement ni démarcation ; l'État n'a pas financé le rachat des terres occupées par des non-autochtones ; les dirigeants Sergio Rojas (2019) et Jerhy Rivera (2020) ont été tués après des actions de récupération.", source: "https://iwgia.org/es/costa-rica/4130-mi-2021-costa-rica.html"}
+effectivite: {valeur: "contestee", note: "Selon le Rapporteur spécial (2022), une grande partie des territoires reste aux mains de non-autochtones et le plan national de récupération lancé en 2016 n'avait produit aucune restitution ; la première indemnisation d'un occupant a été payée en décembre 2023 à Conte Burica. En 2024, l'affaire du meurtre de Sergio Rojas a été classée définitivement (8 janvier) et le meurtrier présumé de Jehry Rivera a été acquitté lors d'un second procès (août) selon l'IWGIA.", source: "https://iwgia.org/images/publications/indigenous-world/indigenous-world-2025.pdf"}
 chronologie:
   - {annee: 1977, evenement: "Loi n° 6172, dite Ley Indígena (29 novembre)."}
+  - {annee: 1978, evenement: "Décret n° 8487 : les associations de développement intégral deviennent la forme de gouvernance des territoires."}
   - {annee: 1993, evenement: "Ratification de la Convention 169 de l'OIT."}
-  - {annee: 2015, evenement: "Mesures conservatoires de la Commission interaméricaine (avril)."}
-  - {annee: 2018, evenement: "Décret sur le Mécanisme général de consultation."}
-  - {annee: 2019, evenement: "Assassinat du dirigeant bribri Sergio Rojas."}
+  - {annee: 2015, evenement: "Réforme de l'article 1 de la Constitution (État multiethnique et pluriculturel) ; mesure conservatoire n° 321/12 de la Commission interaméricaine (30 avril)."}
+  - {annee: 2016, evenement: "Plan national de récupération des territoires autochtones (INDER)."}
+  - {annee: 2018, evenement: "Décret n° 40932 sur le Mécanisme général de consultation."}
+  - {annee: 2019, evenement: "Assassinat du dirigeant bribri Sergio Rojas (mars)."}
+  - {annee: 2020, evenement: "Assassinat du dirigeant brörán Jehry Rivera (24 février)."}
+  - {annee: 2021, evenement: "Visite du Rapporteur spécial des Nations unies (6-17 décembre)."}
+  - {annee: 2023, evenement: "Première indemnisation d'un occupant non autochtone, à Conte Burica (21 décembre)."}
+  - {annee: 2024, evenement: "Classement définitif de l'affaire Sergio Rojas (8 janvier) ; acquittement du meurtrier présumé de Jehry Rivera (août)."}
 fiabilite:
-  verifie: ["Articles 1 à 6 de la loi n° 6172.", "Population totale et autochtone des territoires au recensement 2011 (INEC).", "Surface des 24 territoires (stratégie REDD+ du Costa Rica)."]
-  non_confirme: ["Texte du décret 40932-MP-MJP (NATLEX non ouvert) ; son contenu vient de l'IWGIA.", "Résolution de la Commission interaméricaine (oas.org inaccessible) ; date et objet viennent de l'IWGIA.", "Part des terres occupée par des non-autochtones en 2026.", "Densité publiée par l'INEC incompatible avec la surface REDD+ : les deux sources n'utilisent peut-être pas les mêmes limites."]
+  verifie: ["Articles 1 à 7 de la loi n° 6172.", "Population totale et autochtone des territoires et liste des 258 communautés au recensement de 2011 (INEC).", "Surface des 24 territoires (rapport A/HRC/51/28/Add.1, stratégie REDD+ : 334 447 ha).", "Ratification de la Convention 169 (Collection des traités des Nations unies).", "Indemnisation de Conte Burica (ministère de la Justice et de la Paix, 21 décembre 2023).", "Classement de l'affaire Sergio Rojas (communiqué du système des Nations unies au Costa Rica, 19 janvier 2024)."]
+  non_confirme: ["Texte des décrets n° 40932 et n° 8487 (non ouverts) ; leur contenu vient du rapport du Rapporteur spécial.", "Résolution de la Commission interaméricaine (oas.org inaccessible) ; numéro et date viennent du rapport du Rapporteur spécial.", "Données autochtones du recensement de 2022 non publiées par l'INEC début 2025 selon l'IWGIA ; la population reste celle de 2011.", "Part des terres occupée par des non-autochtones en 2026 ; les pourcentages publiés par l'IWGIA reprennent la part de population non autochtone du recensement de 2011, pas une surface.", "Densité publiée par l'INEC incompatible avec la surface de 3 344 km² : les deux sources n'utilisent peut-être pas les mêmes limites.", "Événements postérieurs à 2024 : non trouvés."]
 sources:
   - {titre: "Ley Indígena n° 6172 et réformes — CONAGEBIO", url: "https://conagebio.go.cr/sites/default/files/2023-08/LEY-INDIGENA-6172.pdf"}
   - {titre: "X Censo Nacional de Población 2011 : Territorios Indígenas — INEC", url: "https://inie.ucr.ac.cr/descarga/KOHA-PDF/Territorios_Indigenas.pdf"}
+  - {titre: "Rapport du Rapporteur spécial sur les droits des peuples autochtones, visite au Costa Rica (A/HRC/51/28/Add.1, 2022)", url: "https://documents.un.org/api/symbol/access?s=A/HRC/51/28/Add.1&l=es&t=pdf"}
+  - {titre: "The Indigenous World 2025 : Costa Rica — IWGIA", url: "https://iwgia.org/images/publications/indigenous-world/indigenous-world-2025.pdf"}
+  - {titre: "Premier paiement d'indemnisation à Conte Burica — ministère de la Justice et de la Paix", url: "https://mjp.go.cr/Comunicacion/Nota?nom=Se-realizo-el-primer-pago-por-indemnizacion-a-un-ocupante-de-territorio-indigena-en-Conte-Burica"}
+  - {titre: "Communiqué du système des Nations unies sur l'affaire Sergio Rojas (19 janvier 2024)", url: "https://costarica.un.org/es/258198-sistema-de-las-naciones-unidas-%E2%80%9Ccosta-rica-no-merece-que-el-asesinato-de-sergio-rojas-quede"}
   - {titre: "Pueblos Indígenas — REDD+ Costa Rica", url: "https://reddcr.go.cr/pueblos-indigenas/"}
-  - {titre: "El Mundo Indígena 2021 : Costa Rica — IWGIA", url: "https://iwgia.org/es/costa-rica/4130-mi-2021-costa-rica.html"}
   - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}

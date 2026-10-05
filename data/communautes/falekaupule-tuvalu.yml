@@ -9,7 +9,7 @@ type: "collectivite_autonome"
 base: "territoriale"
 types_secondaires: ["communaute_locale"]
 population: {valeur: 10954, annee: 2025, perimetre: "population de Tuvalu (liste de population 2025 de la Division centrale de la statistique), soit l'ensemble des aires de falekaupule", source: "https://stats.gov.tv/"}
-lieux: {valeur: 8, unite: "falekaupule établis par l'annexe 1 de la loi sur les falekaupule (Funafuti, Nanumaga, Nanumea, Niutao et Niulakita, Nui, Nukufetau, Nukulaelae, Vaitupu) ; la base mondiale des aires protégées recense en outre 9 aires gérées par les kaupule", annee: 2008, source: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
+lieux: {valeur: 8, unite: "falekaupule établis par l'annexe 1 de la loi sur les falekaupule (Funafuti, Nanumaga, Nanumea, Niutao et Niulakita, Nui, Nukufetau, Nukulaelae, Vaitupu) ; la base mondiale des aires protégées recense en outre 9 aires gérées par les kaupule ; le tableau associé liste les 18 entrées de cette base (aires marines, terrestres et marines gérées localement), non les 8 falekaupule", annee: 2008, source: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
 surface_km2: {valeur: 25.9, annee: 2016, perimetre: "terres émergées des neuf îles, sans les lagons ni la mer territoriale qui font aussi partie des aires d'autorité", source: "https://www.cbd.int/doc/world/tv/tv-nr-05-en.pdf"}
 villages: {valeur: null, annee: null, perimetre: "", source: ""}
 resume: >-
@@ -53,6 +53,7 @@ fiabilite:
     - "Texte de la loi sur les aires de conservation de 1999 (art. 6 à 9) : connu par le résumé de la CPS, non consulté directement."
     - "Année de création de l'aire de Funafuti : 1999 selon le rapport à la CDB, 1996 dans la base WDPA ; surface de 33 km² selon le rapport, 40 km² dans la base."
     - "Régime foncier coutumier (loi sur les terres autochtones, tribunaux fonciers) : non documenté ici comme droit du falekaupule ; selon le rapport à la CDB, environ 95 % des terres sont des terres coutumières détenues par des individus, avec quelques terres communales."
+    - "Nombre de villages : non trouvé."
 sources:
   - {titre: "Falekaupule Act, chap. 4.08, édition révisée 2008 (texte intégral)", url: "https://aceproject.org/ero-en/regions/pacific/TV/tuvalu-falekaupule-act-2008"}
   - {titre: "Commonwealth Local Government Forum — The local government system in Tuvalu, profil 2017-2018", url: "http://www.clgf.org.uk/default/assets/File/Country_profiles/Tuvalu.pdf"}

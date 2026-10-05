@@ -11,7 +11,7 @@ types_secondaires: ["collectivite_autonome"]
 population: {valeur: 1570453, annee: 2023, perimetre: "population résidente de la région au 31 décembre (recensement permanent), sans distinction de langue", source: "https://www.istat.it/wp-content/uploads/2025/04/Censimento-permanente-popolazione_Anno-2023_Sardegna.pdf"}
 lieux: {valeur: 377, unite: "communes", annee: 2023, source: "https://www.istat.it/wp-content/uploads/2025/04/Censimento-permanente-popolazione_Anno-2023_Sardegna.pdf"}
 surface_km2: {valeur: 24090, annee: 2024, perimetre: "Sardaigne, sans distinction entre l'île principale et les îles rattachées (page mise à jour le 18 février 2024)", source: "https://www.axl.cefan.ulaval.ca/europe/italiesardaigne.htm"}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 1198, annee: 2021, perimetre: "localités habitées de la région au recensement de 2021 : 576 centres habités et 622 noyaux habités, hors localités productives et habitat dispersé ; 1 130 d'entre elles comptaient au moins un résident (fichier Istat LocalitaPuntuali_21, bases territoriales)", source: "https://www.istat.it/it/archivio/104317"}
 resume: >-
   La Sardaigne et ses îles forment une région autonome à statut spécial (loi constitutionnelle n° 3 du 26 février 1948). Le Conseil régional légifère notamment sur l'agriculture et les forêts, la chasse et la pêche, et les usi civici (droits d'usage collectifs des habitants sur des terres). La loi 482/1999 range le sarde et le catalan parmi les douze minorités linguistiques historiques de l'Italie. La loi régionale n° 22 du 3 juillet 2018 organise la politique linguistique pour le sarde, le catalan d'Alghero, le gallurais, le sassarais et le tabarquin.
 reconnaissance_regionale:

@@ -9,9 +9,9 @@ type: "minorite_nationale"
 base: "mixte"
 types_secondaires: []
 population: {valeur: 3401105, annee: 2013, perimetre: "personnes s'étant déclarées bosniaques (1 769 592), croates (544 780) ou serbes (1 086 733) au recensement de 2013, sur 3 531 159 habitants", source: "https://www.popis.gov.ba/popis2013/doc/RezultatiPopisa_BS.pdf"}
-lieux: {valeur: null, unite: "", annee: null, source: ""}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+lieux: {valeur: 3, unite: "unités territoriales de premier niveau où s'applique l'égalité des peuples constitutifs : Fédération de Bosnie-Herzégovine (10 cantons), Republika Srpska et district de Brčko", annee: 2025, source: "https://bhas.gov.ba/data/Publikacije/Bilteni/2026/NUM_00_2025_TB_1_BS.pdf"}
+surface_km2: {valeur: 51209.2, annee: 2025, perimetre: "superficie de la Bosnie-Herzégovine, tout le territoire de l'État (Agence de statistique, « Bosna i Hercegovina u brojevima 2025 »)", source: "https://bhas.gov.ba/data/Publikacije/Bilteni/2026/NUM_00_2025_TB_1_BS.pdf"}
+villages: {valeur: 5599, annee: 2013, perimetre: "localités (naseljena mjesta) ayant au moins un habitant recensé en 2013, sur 6 141 localités listées dans le tableau 3.1.1 du recensement (542 sans habitant) ; chaque localité est comptée dans la municipalité où elle est listée", source: "https://www.popis.gov.ba/popis2013/doc/Knjiga1/BOS/K1_T3-1-1_B.xlsx"}
 resume: >-
   La Constitution de la Bosnie-Herzégovine, annexe 4 de l'accord-cadre général pour la paix signé en 1995 (accords de Dayton), désigne dans son préambule les Bosniaques, les Croates et les Serbes comme « peuples constitutifs », aux côtés des « Autres » et des citoyens.
   Ce statut n'est pas celui d'une minorité : il garantit à chacun des trois peuples une représentation fixe dans les institutions de l'État (Chambre des peuples, présidence collégiale de trois membres) et un droit de veto collectif, la procédure d'« intérêt vital » : lorsque la majorité des délégués d'un peuple déclare une décision contraire à l'intérêt vital de ce peuple, la décision doit recueillir la majorité des délégués de chacun des trois peuples.

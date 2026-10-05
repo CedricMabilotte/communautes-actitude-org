@@ -11,7 +11,7 @@ types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 5, unite: "règlements de commonage publiés au recueil des lois (Tarpum Bay, Harbour Island et Spanish Wells, Rock Sound, Mount Thompson et Ramsey, Savannah Sound) ; nombre total de commonages inconnu", annee: 2008, source: "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1896/1896-0014/1896-0014_1.pdf"}
 surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+villages: {valeur: 7, annee: 2008, perimetre: "localités des commoners visés par les cinq règlements de commonage du recueil des lois, édition LRO 1/2008 (Tarpum Bay, Harbour Island, Spanish Wells, Rock Sound, Mount Thompson, Ramsey, Savannah Sound ; Harbour Island désigne l'île, le registre étant tenu à Dunmore Town) ; ce sont les lieux de résidence des commoners, pas des localités situées sur les terres communes ; les commonages sans règlement publié ne sont pas comptés", source: "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/SUBORDINATE/1896/1896-0014/1896-0014_1.pdf"}
 resume: >-
   Aux Bahamas, la loi sur les commonages (Commonage Act, chap. 152, en vigueur le 30 avril 1896) organise les terres concédées à plus de vingt personnes et non partagées entre elles. Ces terres sont tenues en commun par les commoners (ayants droit inscrits sur un registre tenu dans chaque localité). Les commoners se réunissent chaque année, élisent un président et un bureau, et adoptent des règles d'usage que le ministre approuve et que le Journal officiel publie. Le recueil des lois contient cinq règlements de commonage : Tarpum Bay (1926), Harbour Island et Spanish Wells (1938), Rock Sound (1938), Mount Thompson et Ramsey (1961) et Savannah Sound, à Eleuthera (2004). La loi de 2025 sur l'adjudication foncière exclut ces terres de ses zones d'adjudication. Aucun décompte officiel des commonages n'a été trouvé.
 reconnaissance_regionale: []
@@ -54,7 +54,10 @@ fiabilite:
     - "Exclusion des terres tenues en commun des zones d'adjudication : Land Adjudication Act, 2025, art. 3 (3)."
     - "Déclarations de 2019 du procureur général et du comité de Harbour Island (The Nassau Guardian, 15 août 2019)."
   non_confirme:
-    - "Nombre total de commonages, surfaces et nombre de commoners inscrits : aucune liste officielle trouvée."
+    - "Nombre total de commonages : aucune liste officielle trouvée."
+    - "Population (nombre de commoners inscrits) : non trouvée."
+    - "Surface : non trouvée ; la déclaration du comité de Harbour Island (2004) mentionne « plusieurs milliers d'acres » au nord d'Eleuthera, sans chiffre total."
+    - "Nombre de villages : le chiffre de 7 ne couvre que les localités nommées dans les règlements publiés ; le nombre de localités situées sur les terres communes n'est pas connu."
     - "Date de la concession royale de Harbour Island : 1842 ou 1844 selon les déclarations du comité ; aucun texte de la concession consulté."
     - "Location de 1959 et procès de 2000 : connus seulement par une déclaration du comité de Harbour Island (2004) ; issue du procès inconnue."
     - "Île de rattachement de Mount Thompson et Ramsey : non précisée dans le texte des règles consulté."

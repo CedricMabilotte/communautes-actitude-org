@@ -10,8 +10,8 @@ base: "territoriale"
 types_secondaires: []
 population: {valeur: null, annee: null, perimetre: "", source: ""}
 lieux: {valeur: 2, unite: "aires protégées communautaires du Système national d'aires protégées", annee: 2022, source: "https://www.ambienteyenergia.gob.ec/ambiente/ecuador-celebra-su-sistema-nacional-de-areas-protegidas/"}
-surface_km2: {valeur: null, annee: null, perimetre: "", source: ""}
-villages: {valeur: null, annee: null, perimetre: "", source: ""}
+surface_km2: {valeur: 105.6, annee: 2019, perimetre: "somme des deux aires du tableau : Tambillo, 19,55 km² (1 954,65 ha, sixième rapport national à la CDB) ; Marcos Pérez de Castilla, 86,05 km² (8 604,7 ha, El Oriente, 26 avril 2019)", source: "https://www.cbd.int/doc/world/ec/ec-nr-06-es.pdf"}
+villages: {valeur: 7, annee: 2019, perimetre: "communautés qui composent la comuna Marcos Pérez de Castilla ; Tambillo n'est pas compté (aire titrée au nom d'une coopérative de vingt familles de la paroisse de Jima) ; la source ne précise pas si ces communautés sont situées dans l'aire", source: "http://es.mongabay.com/2019/07/areas-comunitarias-de-ecuador-marco-perez-de-castilla/"}
 resume: >-
   Fiche agrégée : elle couvre les comunas (communes rurales à propriété collective), communautés, peuples et nationalités dont l'aire a été déclarée aire protégée du sous-système communautaire du Système national d'aires protégées. La Constitution de 2008 (art. 405) crée ce sous-système à côté des sous-systèmes de l'État, des collectivités territoriales et des propriétaires privés ; le Code organique de l'environnement de 2017 (art. 45) confie à la communauté titulaire l'administration des activités prévues par le plan de gestion de l'aire, élaboré avec l'accompagnement de l'autorité environnementale nationale. La première aire, Tambillo (1 954,65 ha, canton de Gualaquiza, Morona Santiago), a été déclarée par l'accord ministériel 038 du 12 avril 2018 et est gérée par la coopérative de développement de la communauté de Jima (Azuay) ; la deuxième, celle de la comuna Marcos Pérez de Castilla (8 604,7 ha, cantons d'Oña, Azuay, et de Yacuambi, Zamora Chinchipe), a été déclarée par l'accord ministériel 036 publié au Registro Oficial (journal officiel) le 10 mai 2019. Le ministère de l'Environnement comptait deux aires protégées communautaires en 2022.
 reconnaissance_regionale: []
@@ -59,6 +59,7 @@ fiabilite:
     - "Le même rapport à la CDB donne 1 954,65 ha et 1 964 ha pour Tambillo, et date la déclaration d'avril et de mai 2018."
     - "Date de signature de l'accord ministériel 036 : non lue sur le texte."
     - "Accord ministériel fixant les critères de demande de déclaration (Code de 2017, art. 45 ; règlement, art. 151) : non identifié."
+    - "Population : non trouvée pour la comuna Marcos Pérez de Castilla ; Tambillo compte vingt familles titulaires (sixième rapport à la CDB), sans nombre d'habitants."
 sources:
   - {titre: "Constitución de la República del Ecuador (2008) — Asamblea Nacional", url: "https://www.asambleanacional.gob.ec/sites/default/files/documents/old/constitucion_de_bolsillo.pdf"}
   - {titre: "Código Orgánico del Ambiente, Registro Oficial supl. 983 (12 avril 2017) — FAOLEX", url: "https://faolex.fao.org/docs/pdf/ecu167116.pdf"}
