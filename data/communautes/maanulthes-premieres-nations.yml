@@ -41,7 +41,8 @@ chronologie:
   - {annee: 2009, evenement: "Loi fédérale sur l'accord, sanctionnée le 18 juin (L.C. 2009, ch. 18)."}
   - {annee: 2011, evenement: "Entrée en vigueur de l'Accord le 1er avril ; la Loi sur les Indiens cesse de s'appliquer aux nations maanulthes, sauf pour établir le statut d'Indien."}
   - {annee: 2023, evenement: "Modifications de l'Accord en vigueur le 23 juin : rétablissement des exemptions fiscales de la Loi sur les Indiens sur les anciennes réserves."}
-  - {annee: 2026, evenement: "Quinzième anniversaire de l'Accord, marqué avec le gouvernement de la Colombie-Britannique."}
+  - {annee: 2025, evenement: "Renouvellement de l'accord de gouvernement à gouvernement entre les nations maanulthes et la Colombie-Britannique (communiqué provincial du 1er avril 2026)."}
+  - {annee: 2026, evenement: "Quinzième anniversaire de l'Accord, le 1er avril, marqué avec le gouvernement de la Colombie-Britannique."}
 fiabilite:
   verifie: ["Loi fédérale L.C. 2009, ch. 18 : art. 3 (traité au sens de l'art. 35), art. 7 (fief simple), art. 12 (Loi sur les Indiens), art. 16, note d'entrée en vigueur (sanction le 18 juin 2009, en vigueur le 1er avril 2011).", "Accord définitif (annexe de la loi SBC 2007, ch. 43) : par. 2.1.1, 4.1.1, 9.1.1, 10.1.1-10.1.2, 13.1.1-13.3.2, 13.5.1, 13.13.1-13.13.3, 13.14.1, 13.19.1-13.20.2, 13.32.1, 13.33.1, 14.1.3, 14.3.1, 19.1.1-19.1.2, 22.6.3.", "Superficies par nation au par. 2.1.1 (exprimées en hectares, « more or less ») ; total de 24 551 ha, cohérent avec les 24 550 ha cités par la Commission des traités.", "Rapport annuel 2025 de la Commission des traités : nombres approximatifs de citoyens, mise en œuvre par chaque nation, modifications fiscales de 2023."]
   non_confirme: ["Population : chiffres arrondis de citoyens (membres résidant ou non sur les terres), repris par la Commission des traités ; pas de chiffre de résidents.", "Nombre de villages habités : non établi.", "Année de ratification par les nations : 2007 selon la Commission des traités de la C.-B., 2009 selon la Société du traité maanulth.", "Adhésion effective aux districts régionaux (par. 14.3.1) : vérifiée pour la Nation Huu-ay-aht seulement.", "Fonctionnement du tribunal de la Nation Huu-ay-aht (Tribunal Act, HFNA 13/2011, en vigueur) : décisions non consultées."]
@@ -53,6 +54,7 @@ sources:
   - {titre: "Rapport annuel 2025 — Commission des traités de la Colombie-Britannique", url: "https://bctreaty.ca/wp-content/uploads/2025/10/BCTC-Annual-Report-2025-1.pdf"}
   - {titre: "Maa-nulth Treaty Society — profils des nations membres", url: "https://maanulth.ca/about-the-treaty/member-nation-profiles/"}
   - {titre: "Maa-nulth First Nations, B.C. celebrate 15th anniversary of treaty", url: "https://maanulth.ca/maa-nulth-first-nations-b-c-celebrate-15th-anniversary-of-treaty/"}
+  - {titre: "Maa-nulth First Nations, B.C. celebrate 15th anniversary of treaty — gouvernement de la Colombie-Britannique, 1er avril 2026", url: "https://news.gov.bc.ca/releases/2026IRR0003-000352"}
   - {titre: "Huu-ay-aht First Nations — législation en vigueur", url: "https://huuayaht.org/government/legislation/"}
   - {titre: "Déclaration des Nations Unies sur les droits des peuples autochtones — ONU DESA", url: "https://social.desa.un.org/issues/indigenous-peoples/united-nations-declaration-on-the-rights-of-indigenous-peoples"}
   - {titre: "Loi sur la Déclaration des Nations Unies sur les droits des peuples autochtones (L.C. 2021, ch. 14) — Justice Canada", url: "https://laws-lois.justice.gc.ca/fra/lois/U-2.2/page-1.html"}

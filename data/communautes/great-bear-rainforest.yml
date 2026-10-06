@@ -38,7 +38,7 @@ droits:
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "partielle", note: "Deborah Curran (McGill Law Journal, 2017) relève que le cadre de concertation alors en vigueur n'atteint pas une véritable décision conjointe et que la province conserve l'autorité de décision ultime ; selon elle, les règles écologiques négociées puis adoptées en droit restreignent toutefois fortement la marge des décideurs provinciaux sur le terrain. Cette analyse précède l'accord régional de 2024. Selon la province, les premiers plans de réserves paysagères ont été approuvés de gouvernement à gouvernement en 2021, et une politique provisoire retarde les décisions de coupe dans les zones sans plan approuvé par les premières nations.", source: "https://lawjournal.mcgill.ca/article/legalizing-the-great-bear-rainforest-agreements-colonial-adaptations-toward-reconciliation-and-conservation/"}
+effectivite: {valeur: "partielle", note: "Deborah Curran (McGill Law Journal, 2017) relève que le cadre de concertation alors en vigueur n'atteint pas une véritable décision conjointe et que la province conserve l'autorité de décision ultime ; selon elle, les règles écologiques négociées puis adoptées en droit restreignent toutefois fortement la marge des décideurs provinciaux sur le terrain. Cette analyse précède l'accord régional de 2024. Selon la province, les premiers plans de réserves paysagères ont été approuvés de gouvernement à gouvernement en 2021, et une politique provisoire retarde les décisions de coupe dans les zones sans plan approuvé par les premières nations. Le cadre provincial de septembre 2025 (version 1.3) maintient cette approbation de gouvernement à gouvernement et prévoit un réexamen de l'ordonnance en 2026.", source: "https://lawjournal.mcgill.ca/article/legalizing-the-great-bear-rainforest-agreements-colonial-adaptations-toward-reconciliation-and-conservation/"}
 chronologie:
   - {annee: 1996, evenement: "Début de la planification de l'utilisation des terres et des ressources sur la côte de la Colombie-Britannique."}
   - {annee: 2001, evenement: "Annonce d'un accord intérimaire sur la planification de la côte centrale."}
@@ -49,6 +49,7 @@ chronologie:
   - {annee: 2017, evenement: "Modification du protocole de la Coastal First Nations et nouveau cadre de concertation (16 mars)."}
   - {annee: 2023, evenement: "Nouvelle ordonnance sur les objectifs d'utilisation des terres (9 juin), qui abroge celle de 2016 et précise les exigences de concertation avec les premières nations."}
   - {annee: 2024, evenement: "Désignation de la zone spéciale d'aménagement forestier M̓aćinuxʷ (B.C. Reg. 113/2024) ; accord régional entre la Coastal First Nations et la province (14 août), qui met fin au protocole de 2009 pour les nations membres."}
+  - {annee: 2025, evenement: "Version 1.3 du cadre de conception des réserves paysagères (septembre) : les plans sont approuvés de gouvernement à gouvernement par la province, la Coastal First Nations et le conseil Nanwakolas ; un réexamen de l'ordonnance est prévu en 2026."}
 fiabilite:
   verifie:
     - "Texte consolidé du Great Bear Rainforest (Forest Management) Act (art. 6 et 50 à 53) et du B.C. Reg. 325/2016 (9 zones spéciales d'aménagement forestier, dont M̓aćinuxʷ ajoutée en 2024) sur BC Laws."
@@ -56,6 +57,7 @@ fiabilite:
     - "Park Act, art. 4.2 et 5(3.1)(b)."
     - "Protocole de 2009 avec la Coastal First Nations (texte modifié en 2017) ; accord régional de 2024 : signataires, art. 5, 6, 9, 10.3 (fin du protocole de 2009), 14 et annexe 7 ; protocole Nanwakolas : signataires, art. 4.2, 5, 13.6."
     - "Liste des 26 premières nations, 6,4 millions d'hectares et 18 000 habitants sur les pages de la province."
+    - "Révision d'octobre 2026 : la loi de 2016 et le Park Act sont à jour au 22 septembre 2026 sur BC Laws, le B.C. Reg. 325/2016 au 29 septembre 2026 (dernière modification : B.C. Reg. 113/2024) ; aucune modification de l'ordonnance de 2023 ni aucun nouvel accord régional n'a été trouvé depuis août 2024 ; signataires de l'accord de 2024 relus (six nations représentées par leur chef et leur conseil, la nation haïda par le Conseil de la nation haïda)."
     - "Décret 0002-2009 (image numérisée sur BC Laws) : date du 9 janvier 2009, art. 3 et 4, noms et superficies des 21 zones de biodiversité, d'extraction minière et de tourisme (annexe)."
   non_confirme:
     - "Les superficies des 21 zones de biodiversité, d'extraction minière et de tourisme sont celles du décret de 2009 ; d'éventuelles modifications ultérieures n'ont pas été recherchées. Les superficies des 9 zones spéciales d'aménagement forestier n'ont pas été trouvées."
@@ -63,6 +65,7 @@ fiabilite:
     - "Le chiffre de 18 000 habitants ne précise pas son année ni sa source statistique ; la part des membres des premières nations n'est pas donnée."
     - "Les accords de 2006 n'ont pas été ouverts. L'accord de 2024 est une image numérisée, lue par reconnaissance de caractères. Aucun accord postérieur à 2016 n'a été trouvé pour le conseil Nanwakolas."
     - "Aucun rapport d'un organe de l'ONU nommant ce régime n'a été trouvé."
+    - "Le réexamen de l'ordonnance prévu en 2026 et l'objectif de coupe annuelle de 2,5 millions de m³ fixé jusqu'au 31 décembre 2026 (préambule de l'ordonnance de 2023) : aucune décision publiée n'a été trouvée au 6 octobre 2026."
     - "Nombre de villages et de localités : la province cite 7 communautés (dont Prince Rupert et Kitimat), sans liste exhaustive."
 sources:
   - {titre: "Great Bear Rainforest — Land use decision resources, gouvernement de la Colombie-Britannique", url: "https://www2.gov.bc.ca/gov/content/industry/crown-land-water/land-use-planning/regions/west-coast/great-bear-rainforest"}
@@ -77,5 +80,6 @@ sources:
   - {titre: "Nanwakolas Reconciliation Protocol, avec l'accord modificatif de 2016", url: "https://www2.gov.bc.ca/assets/gov/environment/natural-resource-stewardship/consulting-with-first-nations/agreements/nanwakolas_reconciliation_protocal_signed_-_2016.pdf"}
   - {titre: "Great Bear Rainforest partners and communities, gouvernement de la Colombie-Britannique", url: "https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/great-bear-rainforest/gbr-partners-communities"}
   - {titre: "Great Bear Rainforest agreement highlights, gouvernement de la Colombie-Britannique", url: "https://www2.gov.bc.ca/gov/content/environment/natural-resource-stewardship/great-bear-rainforest/gbr-agreement-highlights"}
+  - {titre: "Implementing the 2023 Great Bear Rainforest Land Use Order: A Framework for Landscape Reserve Design, version 1.3, septembre 2025", url: "https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/natural-resource-use/land-water-use/crown-land/land-use-plans-and-objectives/westcoast-region/great-bear-rainforest/gbr_framework_landscape_reserve_design_great_bear_rainforest.pdf"}
   - {titre: "Coastal First Nations, B.C. renew commitment to work together (2024) — BC Gov News", url: "https://news.gov.bc.ca/releases/2024IRR0044-001307"}
   - {titre: "Deborah Curran, « “Legalizing” the Great Bear Rainforest Agreements: Colonial Adaptations Toward Reconciliation and Conservation », McGill Law Journal, 62:3, 2017", url: "https://lawjournal.mcgill.ca/article/legalizing-the-great-bear-rainforest-agreements-colonial-adaptations-toward-reconciliation-and-conservation/"}

@@ -34,7 +34,7 @@ droits:
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_applicable", note: "", source: ""}
   autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
-effectivite: {valeur: "partielle", note: "Gelcich et al. (PNAS, 2010) relèvent dans les AMERB une hausse de l'abondance et de la taille des ressources ciblées, mais aussi le braconnage, qui reste l'un des principaux problèmes de gestion, la hausse des coûts de surveillance et des revenus variables ; en mars 2013, 161 des 512 secteurs attribués étaient classés par la Subpesca « operativo en duda » (fonctionnement incertain).", source: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2947917/"}
+effectivite: {valeur: "partielle", note: "Gelcich et al. (PNAS, 2010) relèvent dans les AMERB une hausse de l'abondance et de la taille des ressources ciblées, mais aussi le braconnage, qui reste l'un des principaux problèmes de gestion, la hausse des coûts de surveillance et des revenus variables ; selon le tableur de la Subpesca au 21 mars 2013, 176 des 512 secteurs attribués étaient classés « operativo en duda » (fonctionnement incertain).", source: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2947917/"}
 chronologie:
   - {annee: 1989, evenement: "Loi 18.892, loi générale de la pêche et de l'aquaculture."}
   - {annee: 1991, evenement: "Les lois 19.079 et 19.080 modifient la loi générale de la pêche ; le décret 430 en fixe le texte refondu, qui prévoit les aires de gestion des ressources benthiques."}
@@ -45,16 +45,21 @@ chronologie:
   - {annee: 2013, evenement: "La loi 20.657 modifie les articles 55 B et 144 et ajoute l'article 144 A sur la déchéance des aires ; au 21 mars, la Subpesca recense 512 secteurs attribués."}
   - {annee: 2017, evenement: "La CEPAL recense 758 AMERB actives, environ 124 000 ha et 31 000 pêcheurs bénéficiaires."}
   - {annee: 2024, evenement: "La loi 21.651 (Journal officiel du 7 février) modifie le régime des ressources benthiques : critères d'attribution, titularité et causes de déchéance."}
+  - {annee: 2025, evenement: "Le 20 novembre, la Subpesca ouvre une consultation publique sur une proposition d'actualisation du règlement des AMERB (décret 355 de 1995), pour l'accorder à la loi 21.651 ; la consultation se clôt le 30 janvier 2026."}
+  - {annee: 2026, evenement: "Selon le rapport sectoriel de la Subpesca (juillet), les extractions des AMERB atteignent 13 000 tonnes de janvier à mai, soit 36 % de plus que sur la même période de 2025."}
 fiabilite:
   verifie:
     - "Articles 55 A à 55 H, 144 et 144 A de la loi générale de la pêche, dans le texte à jour publié par la Subpesca (intégrant la loi 21.770 de 2025)."
     - "Articles 1 à 39 du décret 355 de 1995 dans la version publiée par la Subpesca, qui intègre le décret 49 de 2009."
-    - "État de 1 465 secteurs au 21 mars 2013 (tableur de la Subpesca) : 773 décrétés, 512 attribués, 74 215,9 ha attribués."
+    - "État de 1 465 secteurs au 21 mars 2013 (tableur de la Subpesca) : 773 décrétés, 512 attribués (336 « operativo », 176 « operativo en duda »), 74 215,9 ha attribués."
+    - "Loi générale de la pêche : la BCN (Ley Chile) la donne non abrogée, dans une version en vigueur depuis le 29 septembre 2025 ; aucune loi postérieure ne modifie les articles 55 A à 55 H (vérification du 6 octobre 2026)."
+    - "Décret 355 de 1995 : la Subpesca le présente en janvier 2026 comme le règlement en vigueur, objet d'une proposition d'actualisation."
     - "Mention des AMERB dans le cinquième rapport national du Chili à la CDB (2014)."
   non_confirme:
     - "Chiffres de 2017 (758 AMERB, 124 000 ha, 31 000 pêcheurs) : arrondis repris de la CEPAL, sans tableau détaillé consulté."
     - "Le tableau des sites reprend la liste officielle de mars 2013 ; aucune liste nominative plus récente n'a été trouvée."
-    - "Adaptation du décret 355 aux lois 20.657 et 21.651 : la version consultée (intégrant le décret 49 de 2009) prévoit encore une convention d'usage de quatre ans au plus, alors que la loi la rend de durée indéfinie."
+    - "Adaptation du décret 355 aux lois 20.657 et 21.651 : la version consultée (intégrant le décret 49 de 2009) prévoit encore une convention d'usage de quatre ans au plus, alors que la loi la rend de durée indéfinie ; la proposition de nouveau règlement soumise à consultation (novembre 2025 - janvier 2026) n'a pas été trouvée publiée au Journal officiel au 6 octobre 2026."
+    - "Veille de presse 2025-2026 non faite par recherche générale : seuls les sites officiels (BCN Ley Chile, actualités de la Subpesca) et les sources citées ont été consultés."
     - "Nombre d'organisations titulaires et de caletas (localités de pêche) concernées."
     - "Nombre de villages : non trouvé ; la liste officielle de mars 2013 indique la commune de chaque AMERB, pas la caleta (localité de pêche)."
 sources:
@@ -65,3 +70,6 @@ sources:
   - {titre: "Área de Manejo y Explotación de Recursos Bentónicos (fiche de cas) — CEPAL", url: "https://archivo.cepal.org/cajaherramientas/Casos/Caso_%C3%81rea%20de%20Manejo%20y%20Explotaci%C3%B3n%20de%20Recursos%20Bent%C3%B3nicos.pdf"}
   - {titre: "Quinto Informe Nacional de Biodiversidad de Chile (2014) — CDB", url: "https://www.cbd.int/doc/world/cl/cl-nr-05-es.pdf"}
   - {titre: "Gelcich S. et al., « Navigating transformations in governance of Chilean marine coastal resources », PNAS, 2010", url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC2947917/"}
+  - {titre: "Ley General de Pesca y Acuicultura (décret 430 de 1991), texte consolidé — BCN, Ley Chile", url: "https://www.bcn.cl/leychile/navegar?idNorma=13315"}
+  - {titre: "Subpesca recibirá hasta el próximo 30 de enero observaciones sobre la actualización del reglamento AMERB (22 janvier 2026) — Subpesca", url: "https://www.subpesca.cl/portal/difusion/Noticias/128595:Subpesca-recibira-hasta-el-proximo-30-de-enero-observaciones-sobre-la-actualizacion-del-reglamento-AMERB"}
+  - {titre: "Áreas de Manejo impulsan crecimiento de la pesca artesanal con un aumento de 36% en sus extracciones (6 juillet 2026) — Subpesca", url: "https://www.subpesca.cl/portal/difusion/Noticias/130380:Areas-de-Manejo-impulsan-crecimiento-de-las-pesca-artesanal-con-un-aumento-de-36-en-sus-extracciones"}

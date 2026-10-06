@@ -19,7 +19,7 @@ reconnaissance_onu:
   - {mecanisme: "organe_traite", detail: "Comité contre la torture, observations finales sur Madagascar (CAT/C/MDG/CO/1, 21 décembre 2011), § 11 « Justice traditionnelle (Dina) » : préoccupation devant le recours systématique au dina, qui aurait donné lieu à des décisions en matière pénale ; l'État devrait suivre les décisions du dina en vertu de la loi n° 2001-004, qui exige leur homologation par les tribunaux de droit commun, et garantir un recours devant ces tribunaux.", annee: 2011, source: "https://documents.un.org/api/symbol/access?s=CAT/C/MDG/CO/1&l=fr&t=pdf"}
   - {mecanisme: "organe_traite", detail: "Comité des droits de l'homme, observations finales sur le quatrième rapport de Madagascar (CCPR/C/MDG/CO/4, 22 août 2017), § 45 et 46 « Administration de la justice et justice traditionnelle (dina) » : l'État devrait veiller à ce que les dina ne traitent que d'affaires civiles et à ce qu'aucune décision de dina contraire au Pacte ne soit mise en œuvre.", annee: 2017, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/MDG/CO/4&l=fr&t=pdf"}
 base_nationale:
-  - {instrument: "Constitution de la IVe République (2010), préambule et art. 152 (fokonolona organisé en fokontany au sein des communes)", nature: "constitution", annee: 2010, source: "https://www.constituteproject.org/constitution/Madagascar_2010.pdf"}
+  - {instrument: "Constitution de la IVe République (2010), préambule et art. 152 (fokonolona organisé en fokontany au sein des communes) ; suspension annoncée par l'autorité militaire le 14 octobre 2025, alors que la Haute Cour constitutionnelle statue le même jour sur le fondement de ce texte ; une Constitution de Ve République est en préparation", nature: "constitution", annee: 2010, source: "https://www.constituteproject.org/constitution/Madagascar_2010.pdf"}
   - {instrument: "Loi n° 2001-004 du 25 octobre 2001 portant réglementation générale des dina en matière de sécurité publique (texte décrit par l'État dans ses rapports au Comité des droits de l'homme)", nature: "loi", annee: 2001, source: "https://documents.un.org/api/symbol/access?s=CCPR/C/MDG/4&l=fr&t=pdf"}
 droits:
   autogouvernement: {valeur: "partiel", note: "Le dina est adopté à la majorité des membres du fokonolona âgés de 18 ans révolus présents à l'assemblée générale du hameau, du village ou du fokontany (loi n° 2001-004, selon le système d'information du ministère de l'Environnement) ; la Constitution de 2010 (art. 152) reconnaît le fokonolona organisé en fokontany comme base du développement, et les responsables des fokontany participent à l'élaboration du programme de développement de leur commune ; le dina n'a d'effet qu'après homologation par le juge, ce qui limite l'autonomie de ces assemblées ; pour le Dinan'i Androy, des comités locaux (Komity Mpiandraikitra ny Dina) sont présents dans 58 communes (PNUD, 2025).", source: "https://www.e-voary.mg/tgrn/assets/images/article_version%20finale_tgrn.pdf"}
@@ -43,6 +43,8 @@ chronologie:
   - {annee: 2016, evenement: "Le ministère de l'Intérieur recense 16 dina homologués et 14 non homologués."}
   - {annee: 2017, evenement: "Observations finales du Comité des droits de l'homme : l'État devrait veiller à ce que les dina ne traitent que d'affaires civiles."}
   - {annee: 2025, evenement: "Homologation du Dinan'i Androy par ordonnance du tribunal de première instance d'Ambovombe, le 17 juin ; comités locaux présents dans 58 communes."}
+  - {annee: 2025, evenement: "14 octobre : la Haute Cour constitutionnelle (décision n° 10-HCC/D3) constate la vacance de la présidence de la République et invite le colonel Michaël Randrianirina à exercer les fonctions de chef de l'État ; l'autorité militaire annonce la suspension de la Constitution, puis revient le 16 octobre sur la dissolution des institutions."}
+  - {annee: 2026, evenement: "Le ministère de la Refondation annonce une concertation nationale en 2026, du fokontany au niveau national, en vue d'une Constitution de Ve République ; le processus électoral est prévu en 2027."}
 fiabilite:
   verifie:
     - "Description de la loi n° 2001-004 (élaboration, homologation par le président du tribunal de première instance, refus en cas de dispositions pénales contraires à la loi) dans le quatrième rapport périodique de Madagascar au Comité des droits de l'homme (CCPR/C/MDG/4, § 240-242)."
@@ -51,11 +53,13 @@ fiabilite:
     - "Adoption du dina par l'assemblée générale du fokonolona, d'après l'article du système d'information TGRNR du ministère de l'Environnement."
     - "Homologation du Dinan'i Androy le 17 juin 2025 et comités dans 58 communes, d'après la page du PNUD Madagascar."
     - "Article 152 de la Constitution de 2010, lu dans la traduction anglaise du Constitute Project."
+    - "Décision n° 10-HCC/D3 du 14 octobre 2025 de la Haute Cour constitutionnelle, fondée sur les art. 45, 52 et 53 de la Constitution, lue sur le site de la Cour."
+    - "Recherche au 6 octobre 2026 : aucune abrogation ni modification de la loi n° 2001-004 trouvée."
   non_confirme:
     - "Le texte de la loi n° 2001-004 n'a pas été lu directement : son contenu est repris des rapports de l'État aux organes de traités et de l'article du système d'information TGRNR."
     - "Le nombre de dina homologués après 2016 et la liste des dina homologués : aucune source publique trouvée ; pas de tableau des sites."
     - "Population, surface et nombre de villages concernés : aucune source trouvée."
-    - "Effet sur la Constitution de 2010 du changement de pouvoir d'octobre 2025 : non vérifié."
+    - "Statut de la Constitution de 2010 depuis octobre 2025 : suspension annoncée le 14 octobre 2025 (ConstitutionNet), mais la Haute Cour constitutionnelle applique ce texte le même jour et le colonel Randrianirina déclare le 16 octobre respecter ses décisions (RFI) ; aucun acte formel de suspension ou d'abrogation de l'art. 152 n'a été trouvé."
     - "Le rapport entre ce régime et les dina des communautés de base prévus par la loi n° 96-025 (GELOSE), traités dans la fiche « Transferts de gestion des ressources naturelles à Madagascar »."
 sources:
   - {titre: "« Androy : le Dina, une institution coutumière réinventée pour une paix durable » — PNUD Madagascar", url: "https://www.undp.org/fr/madagascar/actualites/androy-le-dina-une-institution-coutumiere-reinventee-pour-une-paix-durable"}
@@ -65,3 +69,7 @@ sources:
   - {titre: "Réponses de Madagascar à la liste de points, CCPR/C/MDG/Q/4/Add.1 (2017)", url: "https://documents.un.org/api/symbol/access?s=CCPR/C/MDG/Q/4/Add.1&l=fr&t=pdf"}
   - {titre: "« Le transfert de gestion des ressources naturelles renouvelables aux communautés locales de base » — SIG-TGRNR, ministère de l'Environnement", url: "https://www.e-voary.mg/tgrn/assets/images/article_version%20finale_tgrn.pdf"}
   - {titre: "Constitution de Madagascar (2010), traduction anglaise — Constitute Project", url: "https://www.constituteproject.org/constitution/Madagascar_2010.pdf"}
+  - {titre: "Décision n° 10-HCC/D3 du 14 octobre 2025 concernant une requête aux fins de résolution sur une sortie de crise politique — Haute Cour constitutionnelle", url: "https://www.hcc.gov.mg/?p=9647"}
+  - {titre: "« In Madagascar, military ousts president and suspends constitution » — ConstitutionNet (2025)", url: "https://constitutionnet.org/news/madagascar-military-ousts-president-and-suspends-constitution"}
+  - {titre: "« À la veille de son investiture, le colonel Michael Randrianirina clarifie sa position sur les institutions » — RFI, via allAfrica (16 octobre 2025)", url: "https://fr.allafrica.com/stories/202510160485.html"}
+  - {titre: "« Refondation - Concertations tenues en 6 mois, élections prévues en 2027 » — Midi Madagasikara, via allAfrica (26 janvier 2026)", url: "https://fr.allafrica.com/stories/202601260134.html"}

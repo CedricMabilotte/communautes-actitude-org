@@ -21,8 +21,8 @@ reconnaissance_onu:
 base_nationale:
   - {instrument: "Declaration on the Rights of Indigenous Peoples Act (SBC 2019, ch. 44), art. 1, 6 et 7", nature: "loi", annee: 2019, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044"}
   - {instrument: "Environmental Assessment Act (SBC 2018, ch. 51), art. 7 (consentement requis d'une nation autochtone)", nature: "loi", annee: 2018, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18051"}
-  - {instrument: "Décret 307/2022 : approbation de l'accord Eskay Creek avec le Tahltan Central Government", nature: "accord_revendication", annee: 2022, source: "https://www.bclaws.gov.bc.ca/civix/document/id/oic/oic_cur/0307_2022"}
-  - {instrument: "Décret 600/2023 : approbation de l'accord Red Chris avec le Tahltan Central Government", nature: "accord_revendication", annee: 2023, source: "https://www.bclaws.gov.bc.ca/civix/document/id/oic/oic_cur/0600_2023"}
+  - {instrument: "Décret 307/2022 : approbation de l'accord Eskay Creek avec le Tahltan Central Government", nature: "accord_revendication", annee: 2022, source: "https://www.bclaws.gov.bc.ca/civix/document/id/oic/arc_oic/0307_2022"}
+  - {instrument: "Décret 600/2023 : approbation de l'accord Red Chris avec le Tahltan Central Government", nature: "accord_revendication", annee: 2023, source: "https://www.bclaws.gov.bc.ca/civix/document/id/oic/arc_oic/0600_2023"}
   - {instrument: "Décret 596/2025 : approbation de l'accord de décision conjointe avec la Première Nation 'Namgis (Forest and Range Practices Act, art. 2.51 à 2.54)", nature: "accord_revendication", annee: 2025, source: "https://www.bclaws.gov.bc.ca/civix/document/id/oic/oic_cur/0596_2025"}
   - {instrument: "Required Consent (Simpcw First Nation — Reviewable Mine Projects) Regulation (B.C. Reg. 133/2026)", nature: "loi", annee: 2026, source: "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/133_2026"}
 droits:
@@ -46,21 +46,23 @@ chronologie:
   - {annee: 2023, evenement: "Deuxième accord avec le gouvernement central tahltan : mine Red Chris (décret 600/2023, 1er novembre) ; mandat de négocier pour le projet Galore Creek (décret 602/2023)."}
   - {annee: 2025, evenement: "Abrogation du mandat de négociation avec la Nation shíshálh sur les quais (décret 159/2025) ; mandat de négocier avec le gouvernement national tŝilhqot'in (décret 283/2025) ; accord de décision conjointe avec la Première Nation 'Namgis (décret 596/2025, 15 décembre)."}
   - {annee: 2025, evenement: "Décembre : la Cour d'appel de la Colombie-Britannique juge, dans l'affaire Gitxaała, que les obligations de la province au titre de la loi (aligner le droit provincial sur la Déclaration des Nations unies) sont juridiquement opposables."}
-  - {annee: 2026, evenement: "Avril : après l'arrêt Gitxaała, le premier ministre renonce à modifier ou suspendre la loi au printemps et renvoie les changements à la session d'automne ; la province, dans son rapport annuel 2025-2026, mentionne des critiques sur le faible nombre d'accords des articles 6 et 7."}
+  - {annee: 2026, evenement: "20 avril : après l'arrêt Gitxaała, le premier ministre renonce à modifier ou suspendre la loi au printemps et renvoie les changements à la session d'automne ; la province, dans son rapport annuel 2025-2026, mentionne des critiques sur le faible nombre d'accords des articles 6 et 7."}
   - {annee: 2026, evenement: "Consentements tahltans pour Eskay Creek (11 janvier) et Red Chris (22 mai) ; accord de consentement avec la Première Nation simpcw (15 juillet), prescrit par le B.C. Reg. 133/2026 (20 juillet)."}
-  - {annee: 2026, evenement: "Septembre : élections provinciales anticipées convoquées pour le 24 octobre, ce qui réduit ou supprime la session d'automne où la modification de la loi devait être présentée."}
+  - {annee: 2026, evenement: "22 septembre : élections provinciales anticipées convoquées pour le 24 octobre ; la session d'automne prévue à partir du 5 octobre, où la modification de la loi devait être présentée, n'a pas lieu ; la loi reste inchangée."}
 fiabilite:
   verifie:
     - "Articles 1, 2, 6 et 7 de la loi de 2019, version consolidée au 22 septembre 2026 (article 7 non modifié)."
     - "Article 7 de l'Environmental Assessment Act, version consolidée au 22 septembre 2026."
     - "Décrets 307/2022 (Eskay Creek, à environ 80 km au nord-ouest de Stewart), 600/2023, 596/2025 et 73/2026 (mandat limité à la négociation) (texte lu) ; texte du B.C. Reg. 133/2026 (accord simpcw daté du 15 juillet 2026)."
-    - "Liste des décrets de l'article 7 sur la page provinciale « Making Decisions Together » (mise à jour du 17 juillet 2026)."
+    - "Liste des décrets de l'article 7 sur la page provinciale « Making Decisions Together » (mise à jour du 17 juillet 2026, relue le 6 octobre 2026)."
+    - "Texte du B.C. Reg. 133/2026 (O.C. 349/2026, déposé le 20 juillet 2026), version consolidée au 29 septembre 2026."
     - "Paragraphes 6 et 13 du rapport A/HRC/54/31/Add.2."
     - "Accord 'Namgis limité à la licence de ferme forestière 37 : rapport annuel provincial, action 2.04."
   non_confirme:
     - "Dates des consentements tahltans de 2026 lues dans une note de cabinet d'avocats, non dans les décisions tahltanes."
     - "Date de publication à la Gazette de l'accord simpcw et entrée en vigueur effective de l'accord 'Namgis (au plus tôt le 12 janvier 2026 selon l'accord)."
     - "Issue de la modification de la loi, retardée par les élections du 24 octobre 2026, et effet sur l'article 7."
+    - "Suite judiciaire de l'arrêt Gitxaała (éventuel appel devant la Cour suprême du Canada) : non vérifiée."
     - "Décret autorisant la conclusion de l'accord simpcw : le décret 73/2026 limite le mandat à la négociation, et l'autorisation de conclure n'a pas été trouvée (seul le décret 349/2026, qui prescrit l'accord, est publié)."
     - "Population des premières nations parties et surfaces des zones visées : aucun chiffre agrégé trouvé."
     - "L'accord Galore Creek (mandat de 2023) et l'accord tŝilhqot'in (mandat de 2025) ne figurent pas parmi les accords conclus sur la page provinciale."

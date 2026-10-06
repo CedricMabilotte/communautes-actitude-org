@@ -17,6 +17,7 @@ resume: >-
   Le Statut d'autonomie de Catalogne de 2006 (art. 11) dispose que « le peuple aranais exerce l'autogouvernement » par le Conselh Generau d'Aran.
   La loi catalane 1/2015 du régime spécial d'Aran définit Aran comme « une réalité nationale occitane », lui attribue la personnalité juridique, un conseil de 13 membres élus dans six terçons et des compétences en langue, culture, environnement, forêts, chasse, pêche et tourisme.
   Sa disposition additionnelle première reconnaît le droit du peuple aranais à décider de son avenir.
+  La loi 3/2026 dispose que la législation de régime local ne s'applique à Aran qu'en l'absence de règle spécifique.
 reconnaissance_regionale:
   - {mecanisme: "charte_langues_regionales", detail: "L'Espagne a placé l'occitan, appelé aranais, en Catalogne sous les parties II et III de la Charte européenne des langues régionales ou minoritaires ; sixième rapport d'évaluation du Comité d'experts publié le 24 septembre 2024.", annee: 2024, source: "https://rm.coe.int/spainecrml6-en/1680b1b32d"}
 reconnaissance_onu: []
@@ -24,43 +25,55 @@ base_nationale:
   - {instrument: "Statut d'autonomie de Catalogne (loi organique 6/2006), art. 6.5, 11, 36 et 94", nature: "statut_autonomie", annee: 2006, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
   - {instrument: "Loi 35/2010 du 1er octobre de l'occitan, aranais en Aran", nature: "loi", annee: 2010, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-17710"}
   - {instrument: "Loi 1/2015 du 5 février du régime spécial d'Aran", nature: "loi", annee: 2015, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
+  - {instrument: "Loi 3/2026 du 12 mars modifiant la loi municipale et de régime local de Catalogne (régime juridique applicable à Aran)", nature: "loi", annee: 2026, source: "https://www.boe.es/buscar/act.php?id=BOE-A-2026-7636"}
 droits:
-  autogouvernement: {valeur: "reconnu", note: "Le Conselh Generau d'Aran, élu au suffrage universel direct, est l'institution représentative, de gouvernement et d'administration d'Aran ; 13 conseillers élus dans six terçons et un síndic (président), Statut art. 11 et 94, loi 1/2015 art. 26 et 38.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
+  autogouvernement: {valeur: "reconnu", note: "Le Conselh Generau d'Aran, élu au suffrage universel direct, est l'institution représentative, de gouvernement et d'administration d'Aran ; 13 conseillers élus dans six terçons et un síndic (président), Statut art. 11 et 94, loi 1/2015 art. 26 et 38 ; depuis la loi 3/2026, la législation de régime local ne s'applique à Aran et au Conselh qu'en l'absence de règle spécifique.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
   pouvoir_normatif: {valeur: "partiel", note: "Pouvoir normatif de nature réglementaire, y compris pour encadrer les activités privées (art. 47.1 a) ; en matière d'organisation des services, ses dispositions générales priment sur les règlements du gouvernement catalan (art. 49.2) ; pas de pouvoir législatif, mais une initiative législative devant le Parlement de Catalogne (art. 79), loi 1/2015.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "non_etabli", note: "", source: ""}
-  ressources: {valeur: "partiel", note: "Le Conselh exerce les fonctions d'administration forestière, gère les espaces protégés et le réseau Natura 2000, planifie chasse et pêche ; il participe seulement à la régulation des mines (art. 63.2) et n'agit sur le domaine hydraulique qu'avec l'accord du gouvernement catalan et dans le cadre des conventions avec la Confédération hydrographique de l'Èbre (art. 62.5), loi 1/2015.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
+  ressources: {valeur: "partiel", note: "Le Conselh exerce les fonctions d'administration forestière, gère les espaces protégés et le réseau Natura 2000, planifie chasse et pêche ; il participe seulement à la régulation des mines (art. 63.2) et n'agit sur le domaine hydraulique qu'avec l'accord du gouvernement catalan et dans le cadre des conventions avec la Confédération hydrographique de l'Èbre (art. 62.5), loi 1/2015 ; la gestion forestière lui a été transférée avec ses moyens en janvier 2026.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
   consentement: {valeur: "partiel", note: "Participation du Conselh à la procédure législative pour les textes qui touchent Aran (art. 80), à la planification catalane dans ses domaines (art. 83) et à toute déclaration d'espace protégé (art. 62.3), loi 1/2015 ; pas de droit de veto.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
-  langue: {valeur: "reconnu", note: "L'aranais est la langue propre d'Aran et la langue « d'usage normal et préférent » (prioritaire) des administrations publiques en Aran, loi 1/2015 art. 8 ; l'occitan est officiel dans toute la Catalogne, Statut art. 6.5 et loi 35/2010.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
+  langue: {valeur: "reconnu", note: "L'aranais est la langue propre d'Aran et la langue « d'usage normal et préférent » (prioritaire) des administrations publiques en Aran, loi 1/2015 art. 8 ; l'occitan est officiel dans toute la Catalogne, Statut art. 6.5 et loi 35/2010 ; l'arrêt du Tribunal constitutionnel 11/2018 a annulé le caractère « préférent » de l'aranais dans la loi 35/2010 (art. 2.3 a, 5.4, 5.7 et 6.5) ; l'article 8 de la loi 1/2015, non attaqué, conserve la formule.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
   education: {valeur: "partiel", note: "Aran forme une zone éducative ; l'aranais est la langue normalement utilisée comme langue d'enseignement ; le Conselh produit les manuels en aranais et forme les enseignants, mais l'enseignement reste du ressort du département catalan, loi 1/2015 art. 8.1 c et 55.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
-  fiscalite: {valeur: "partiel", note: "Budget propre voté par le plénum (art. 28.2 e) et Fonds de financement du Conselh inscrit chaque année dans la loi de budget catalane (art. 89) ; le Conselh perçoit des taxes, redevances et contributions spéciales liées à ses services (art. 92), mais la création d'impôts propres exige une loi du Parlement de Catalogne, qu'il peut seulement proposer (art. 91), loi 1/2015.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
+  fiscalite: {valeur: "partiel", note: "Budget propre voté par le plénum (art. 28.2 e) et Fonds de financement du Conselh inscrit chaque année dans la loi de budget catalane (art. 89) ; le Conselh perçoit des taxes, redevances et contributions spéciales liées à ses services (art. 92), mais la création d'impôts propres exige une loi du Parlement de Catalogne, qu'il peut seulement proposer (art. 91), loi 1/2015 ; la Commission bilatérale a fixé le 15 mai 2026 un fonds de financement inconditionnel de 42,7 millions d'euros pour 2026.", source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "partielle", note: "Le Comité d'experts de la Charte européenne des langues relève en 2024 que l'aranais n'est pas du tout employé par l'administration de l'État et que les documents officiels catalans ne sont pas toujours publiés dans cette langue.", source: "https://rm.coe.int/spainecrml6-en/1680b1b32d"}
+effectivite: {valeur: "partielle", note: "Le Comité d'experts de la Charte européenne des langues relève en 2024 que l'aranais n'est pas du tout employé par l'administration de l'État et que les documents officiels catalans ne sont pas toujours publiés dans cette langue. Les transferts se poursuivent : gestion forestière en janvier 2026, nouveau modèle de financement en mai 2026, perception intégrale du fonds de la taxe touristique depuis novembre 2025.", source: "https://rm.coe.int/spainecrml6-en/1680b1b32d"}
 chronologie:
   - {annee: 1979, evenement: "Le premier Statut d'autonomie de Catalogne prévoit l'enseignement et la protection du parler aranais et la reconnaissance de l'organisation propre du val d'Aran."}
   - {annee: 1990, evenement: "Loi catalane 16/1990 du régime spécial du val d'Aran : reconnaissance des terçons et du Conselh Generau."}
   - {annee: 2006, evenement: "Nouveau Statut d'autonomie : Aran reconnu comme réalité occitane et entité territoriale singulière (art. 11 et 94), occitan officiel en Catalogne (art. 6.5)."}
   - {annee: 2010, evenement: "Loi 35/2010 de l'occitan, aranais en Aran."}
   - {annee: 2015, evenement: "Loi 1/2015 du régime spécial d'Aran : « réalité nationale occitane », compétences élargies, droit à décider reconnu par une disposition additionnelle."}
+  - {annee: 2018, evenement: "Arrêt du Tribunal constitutionnel 11/2018 du 8 février : annulation du caractère « préférent » de l'aranais dans la loi 35/2010."}
   - {annee: 2024, evenement: "Sixième rapport du Comité d'experts de la Charte européenne des langues régionales ou minoritaires sur l'Espagne."}
+  - {annee: 2026, evenement: "Janvier : transfert de la gestion forestière au Conselh Generau."}
+  - {annee: 2026, evenement: "12 mars : loi 3/2026 ; la législation de régime local ne s'applique à Aran qu'en l'absence de règle spécifique (en vigueur le 14 mars)."}
+  - {annee: 2026, evenement: "15 mai : la Commission bilatérale Generalitat–Conselh Generau adopte un modèle de financement de 42,7 millions d'euros pour 2026."}
 fiabilite:
   verifie:
     - "Texte consolidé de la loi 1/2015 au BOE : art. 1, 4, 8, 26, 28, 38, 47, 49, 55, 62, 63, 79, 80, 83, 89, 91, 92, dispositions additionnelles première et cinquième, disposition transitoire première ; la fiche d'analyse du BOE ne signale aucune référence postérieure (ni recours ni modification)."
     - "Statut d'autonomie de Catalogne au BOE : art. 6.5, 11, 36 et 94."
+    - "Loi 3/2026 au BOE (BOE-A-2026-7636) : disposition additionnelle cinquième ajoutée à la loi municipale de Catalogne, en vigueur le 14 mars 2026."
+    - "Arrêt 11/2018 du Tribunal constitutionnel au BOE : nullité du caractère préférent de l'aranais dans la loi 35/2010 ; la loi 1/2015 n'a fait l'objet d'aucun recours selon le BOE."
+    - "Modèle de financement du 15 mai 2026 : communiqué du gouvernement catalan."
     - "Population (10 651 en 2025) et surface (633,6 km²) d'Aran : Idescat."
     - "Rapport 2024 du Comité d'experts de la Charte : occitan (aranais) en Catalogne sous les parties II et III ; « Aranese is not used by the state administration at all »."
   non_confirme:
     - "La disposition additionnelle première de la loi 1/2015 (« le Parlement de Catalogne reconnaît le droit du peuple aranais à décider de son avenir ») ne prévoit ni référendum ni procédure de sécession : elle ne répond pas à la question de la grille sur l'autodétermination externe, qui reste « aucune source trouvée »."
     - "Date des premières élections du Conselh Generau rétabli (1991 selon l'usage courant) : pas de source primaire ouverte."
     - "La disposition transitoire première de la loi 1/2015 demande à la loi électorale de Catalogne de garantir la représentation d'Aran au Parlement ; aucune source ouverte n'établit que cette garantie a été mise en œuvre."
-    - "État des transferts de compétences et de la révision du mode de financement prévue par la disposition additionnelle cinquième."
+    - "Liste complète des transferts de compétences effectués ; texte de l'acte formalisant le transfert forestier de janvier 2026 (source de presse seulement)."
     - "Nombre de locuteurs de l'aranais : pas de chiffre retenu faute de source primaire ouverte."
 sources:
   - {titre: "Loi 1/2015 du 5 février du régime spécial d'Aran — BOE (texte consolidé)", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2294"}
   - {titre: "Loi organique 6/2006 de réforme du Statut d'autonomie de Catalogne — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087"}
   - {titre: "Loi 35/2010 de l'occitan, aranais en Aran — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-17710"}
+  - {titre: "Loi 3/2026 du 12 mars, régime juridique applicable à Aran — BOE", url: "https://www.boe.es/buscar/act.php?id=BOE-A-2026-7636"}
+  - {titre: "Arrêt du Tribunal constitutionnel 11/2018 du 8 février — BOE", url: "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3301"}
+  - {titre: "La Generalitat et le Conselh Generau d'Aran adoptent un modèle de financement de 42,7 millions d'euros (15 mai 2026) — Gouvernement de Catalogne", url: "https://govern.cat/gov/notes-premsa/823432/la-generalitat-i-el-conselh-generau-d-aran-acorden-un-nou-model-de-financament-de-427-milions-d-euros"}
+  - {titre: "Aran reçoit de la Generalitat la compétence de gestion forestière (janvier 2026) — Segre", url: "https://www.segre.com/ca/comarques/260109/aran-rep-generalitat-competencia-sobre-gestio-forestal_1072162.html"}
   - {titre: "Aran — population au 1er janvier, Idescat", url: "https://www.idescat.cat/poblacioestrangera/?b=0&geo=com:39&lang=es"}
   - {titre: "Aran — superficie, densité et entités de population, Idescat", url: "https://www.idescat.cat/pub/?id=inddt&n=396&geo=com:39&lang=es"}
   - {titre: "Sixième rapport d'évaluation sur l'Espagne — Comité d'experts de la Charte européenne des langues régionales ou minoritaires (2024)", url: "https://rm.coe.int/spainecrml6-en/1680b1b32d"}

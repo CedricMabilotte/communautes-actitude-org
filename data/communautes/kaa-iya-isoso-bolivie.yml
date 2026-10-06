@@ -37,7 +37,7 @@ droits:
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_etabli", note: "", source: ""}
   autodetermination_externe: {valeur: "non_etabli", note: "", source: ""}
-effectivite: {valeur: "partielle", note: "Selon le plan de gestion 2013-2022 du parc, la cogestion entre la CABI et l'État dure de 1995 à mars 2008 ; la convention est alors rompue, la CABI conteste la procédure suivie par le SERNAP, qui administre depuis directement le parc, et deux capitanías parallèles à la CABI apparaissent. En juin 2026, les capitanías de l'Alto Isoso et du Bajo Isoso et le gouvernement autonome de Charagua Iyambae siègent au comité de gestion du parc (instance de participation, règlement de 1997, art. 47 et 48), dont le directeur du parc nommé par le SERNAP assure le secrétariat (Agence de presse environnementale ANA, 1er juillet 2026).", source: "https://fcbc.org.bo/wp-content/uploads/2021/07/PM-KaaIya.pdf"}
+effectivite: {valeur: "partielle", note: "Selon le plan de gestion 2013-2022 du parc, la cogestion entre la CABI et l'État dure de 1995 à mars 2008 ; la convention est alors rompue, la CABI conteste la procédure suivie par le SERNAP, qui administre depuis directement le parc, et deux capitanías parallèles à la CABI apparaissent. En juin 2026, les capitanías de l'Alto Isoso et du Bajo Isoso et le gouvernement autonome de Charagua Iyambae siègent au comité de gestion du parc (instance de participation, règlement de 1997, art. 47 et 48), dont le SERNAP assure le secrétariat par le directeur par intérim du parc (Agence de presse environnementale ANA, 30 juin 2026).", source: "https://fcbc.org.bo/wp-content/uploads/2021/07/PM-KaaIya.pdf"}
 chronologie:
   - {annee: 1991, evenement: "Fondation de la Capitanía de l'Alto et du Bajo Izozog (CABI)."}
   - {annee: 1993, evenement: "La CABI demande au gouvernement la protection de son territoire."}
@@ -59,7 +59,7 @@ sources:
   - {titre: "Constitution de Bolivie (2009) — Constitute Project", url: "https://www.constituteproject.org/constitution/Bolivia_2009.pdf?lang=es"}
   - {titre: "Capitanía del Alto y Bajo Izozog, étude de cas — Initiative Équateur (PNUD), 2012", url: "https://www.equatorinitiative.org/wp-content/uploads/2017/05/case_1_1360168586_SP.pdf"}
   - {titre: "Plan de gestion 2013-2022 du parc national et ANMI Kaa-Iya du Gran Chaco — SERNAP, actualisé par la FCBC, SAVIA et WCS", url: "https://fcbc.org.bo/wp-content/uploads/2021/07/PM-KaaIya.pdf"}
-  - {titre: "Comité de gestion du Kaa-Iya, renouvellement du directoire — ANA (Agencia de Noticias Ambientales), 1er juillet 2026", url: "https://anabolivia.org/comite-de-gestion-del-kaa-iya-renueva-directorio-y-compromiso-de-conservacion-de-35-millones-de-has-de-biodiversidad/"}
+  - {titre: "Comité de gestion du Kaa-Iya, renouvellement du directoire — ANA (Agencia de Noticias Ambientales), 30 juin 2026", url: "https://anabolivia.org/comite-de-gestion-del-kaa-iya-renueva-directorio-y-compromiso-de-conservacion-de-35-millones-de-has-de-biodiversidad/"}
   - {titre: "Quatrième rapport national de la Bolivie — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/bo/bo-nr-04-es.pdf"}
   - {titre: "Convention 169 de l'OIT, état des ratifications — Collection des traités des Nations unies", url: "https://treaties.un.org/Pages/showDetails.aspx?objid=08000002800c0136&clang=_en"}
   - {titre: "Vote sur la résolution 61/295 — Bibliothèque numérique de l'ONU", url: "https://digitallibrary.un.org/record/609197"}

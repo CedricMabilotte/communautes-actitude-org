@@ -21,7 +21,7 @@ base_nationale:
   - {instrument: "Décret exécutif 35502-MAG, Reglamento para el establecimiento de las Áreas Marinas de Pesca Responsable (La Gaceta n° 191 du 1er octobre 2009)", nature: "loi", annee: 2009, source: "https://www.incopesca.go.cr/pesca/pesca_responsable/01-reglamento_areas_marinas_pesca_responsable.pdf"}
   - {instrument: "Accords de création de la Junta Directiva de l'INCOPESCA (AJDIP/315-2009 à AJDIP/255-2021), un par aire", nature: "loi", annee: 2009, source: "https://www.incopesca.go.cr/pesca/ampr.aspx"}
 droits:
-  autogouvernement: {valeur: "partiel", note: "L'INCOPESCA crée les aires et donne la priorité à celles que propose une organisation de pêcheurs dotée de la personnalité juridique et inscrite à son registre (décret 35502-MAG, art. 1 d et 2) ; une commission de suivi nommée par la présidence exécutive de l'INCOPESCA comprend un représentant titulaire et un suppléant désignés par la communauté de pêcheurs, la coordination revenant aux deux représentants de l'INCOPESCA (art. 11) ; l'INCOPESCA promeut au sein des organisations des comités de surveillance formés de pêcheurs, qui appuient le Service national des garde-côtes (art. 7 et 8).", source: "https://www.incopesca.go.cr/pesca/pesca_responsable/01-reglamento_areas_marinas_pesca_responsable.pdf"}
+  autogouvernement: {valeur: "partiel", note: "L'INCOPESCA crée les aires et donne la priorité à celles que propose une organisation de pêcheurs dotée de la personnalité juridique et inscrite à son registre (décret 35502-MAG, art. 1 d et 2) ; une commission de suivi nommée par la présidence exécutive de l'INCOPESCA comprend un représentant titulaire de l'INCOPESCA et son suppléant, qui la coordonnent, et un représentant titulaire et un suppléant désignés par la communauté de pêcheurs (art. 11) ; l'INCOPESCA promeut au sein des organisations des comités de surveillance formés de pêcheurs, qui appuient le Service national des garde-côtes (art. 7 et 8).", source: "https://www.incopesca.go.cr/pesca/pesca_responsable/01-reglamento_areas_marinas_pesca_responsable.pdf"}
   pouvoir_normatif: {valeur: "partiel", note: "L'organisation élabore un code d'éthique pour la pêche responsable qui devient obligatoire pour ses membres une fois approuvé (décret 35502-MAG, art. 5 b) ; les règles de l'aire (zones, engins, fermetures) sont fixées par zonage participatif en consensus avec les pêcheurs mais adoptées par la Junta Directiva de l'INCOPESCA (art. 1 f, 3 et 10).", source: "https://www.incopesca.go.cr/pesca/pesca_responsable/01-reglamento_areas_marinas_pesca_responsable.pdf"}
   justice_propre: {valeur: "non_etabli", note: "", source: ""}
   terres: {valeur: "non_etabli", note: "", source: ""}
@@ -33,7 +33,7 @@ droits:
   representation: {valeur: "non_etabli", note: "", source: ""}
   statut_personnel: {valeur: "non_applicable", note: "", source: ""}
   autodetermination_externe: {valeur: "non_applicable", note: "", source: ""}
-effectivite: {valeur: "partielle", note: "Une analyse juridique du Consortium TICCA (2024) relève que les 13 aires fonctionnent en pratique comme une gouvernance partagée mais ne sont reconnues que par décret exécutif et non par une loi, que les pêcheurs de l'aire de Dominicalito n'ont pas de sécurité juridique sur l'espace marin et côtier qu'ils occupent, et qu'à Barra del Colorado l'accès à la pêche à la crevette passe par des licences de recherche.", source: "https://www.iccaconsortium.org/wp-content/uploads/2024/10/analisis-legal-de-los-territorios-de-vida-marino-costeros-en-mesoamerica.pdf"}
+effectivite: {valeur: "partielle", note: "Une analyse juridique du Consortium TICCA (2024) relève que les 13 aires fonctionnent en pratique comme une gouvernance partagée mais ne sont reconnues que par décret exécutif et non par une loi, que les pêcheurs de l'aire de Dominicalito n'ont pas de sécurité juridique sur l'espace marin et côtier qu'ils occupent, et qu'à Barra del Colorado l'accès à la pêche à la crevette passe par des licences de recherche. Depuis 2024, deux lois citent les aires parmi les espaces où des activités ouvrent droit à un paiement pour services écosystémiques (loi 10507, art. 3, qui ajoute l'article 36 bis à la loi de pêche 8436 ; loi 10533 sur le Fonds bleu) ; elles ne règlent pas la gouvernance des aires.", source: "https://www.iccaconsortium.org/wp-content/uploads/2024/10/analisis-legal-de-los-territorios-de-vida-marino-costeros-en-mesoamerica.pdf"}
 chronologie:
   - {annee: 2008, evenement: "La Junta Directiva de l'INCOPESCA adopte le règlement AJDIP/138-2008 sur l'établissement des aires marines de pêche responsable (4 avril)."}
   - {annee: 2009, evenement: "Publication du décret exécutif 35502-MAG (La Gaceta n° 191, 1er octobre) ; création de l'aire de Palito, île de Chira (accord AJDIP/315-2009, La Gaceta du 20 novembre)."}
@@ -44,20 +44,30 @@ chronologie:
   - {annee: 2014, evenement: "Création des aires de Paquera-Tambor et de Costa de Pájaros."}
   - {annee: 2018, evenement: "Création de l'aire de Dominicalito (accord AJDIP/219-2018)."}
   - {annee: 2019, evenement: "Création de l'aire de Barra del Colorado, première sur la côte caraïbe, à la demande de deux associations de pêcheurs et de pêcheuses (accord AJDIP/549-2019)."}
+  - {annee: 2021, evenement: "Décret exécutif 42955-MAG (La Gaceta n° 83 du 30 avril) : déclaration d'intérêt public du modèle de développement de la pêche artisanale porté par l'alliance public-privé pour la pêche à petite échelle dans les aires marines de pêche responsable et les territoires marins de vie."}
   - {annee: 2021, evenement: "Création des aires 201 (accord AJDIP/224-2021) et Papagayo (accord AJDIP/255-2021)."}
+  - {annee: 2024, evenement: "La loi 10507 (La Gaceta n° 158 du 28 août) crée le Fonds de paiement pour services écosystémiques marins et côtiers ; elle cite la récupération de la biomasse halieutique dans les aires marines de pêche responsable parmi les activités rémunérées. La loi 10533 (La Gaceta n° 188 du 9 octobre) crée le Fonds bleu et cite aussi ces aires."}
+  - {annee: 2025, evenement: "Règlement de la loi 10507 (décret exécutif 45141, La Gaceta n° 153 du 19 août)."}
+  - {annee: 2026, evenement: "Le Conseil national des aires de conservation approuve le plan général de gestion de l'aire marine de gestion de Barra del Colorado (résolution R-SINAC-CONAC-0002-2026 du 10 février, La Gaceta n° 55 du 20 mars) ; son zonage tient compte de l'aire marine de pêche responsable du même nom et le contrôle y revient à l'aire de conservation et à l'INCOPESCA."}
+  - {annee: 2026, evenement: "Le ministère de l'Environnement publie le manuel du programme pilote de paiement pour services écosystémiques destiné à la pêche artisanale (résolution 586 du 18 septembre, La Gaceta n° 179 du 23 septembre) : cent pêcheurs regroupés dans au plus dix organisations, dans les aires de pêche responsable et les aires protégées marines du golfe de Nicoya ; les organisations choisissent les participants et retiennent 12 % des paiements pour leurs frais (art. 4 et 5)."}
 fiabilite:
   verifie:
     - "Texte du décret 35502-MAG (art. 1 à 16) dans la version publiée par l'INCOPESCA."
     - "Liste des 13 aires et accords de création, lus sur les pages de l'INCOPESCA (consultées en octobre 2026)."
     - "Surfaces de Puerto Níspero (2,6 km²), d'Isla Caballo (1,48 km²) et de Costa de Pájaros (1 056 ha) lues dans les accords de création."
     - "Mention des aires dans le cinquième rapport national à la CDB (2014), tableau 16."
+    - "Décret 35502-MAG toujours en vigueur au 6 octobre 2026 : le système national de législation en vigueur (SINALEVI) le donne en version 1 de 1, sans norme modificatrice."
+    - "Textes des lois 10507 (2024) et 10533 (2024), du décret 45141 (2025) et des résolutions R-SINAC-CONAC-0002-2026 et 586-2026, lus sur SINALEVI."
+    - "Aucun accord de création ou de suppression d'aire postérieur à 2021 trouvé sur SINALEVI ni sur la page de l'INCOPESCA (13 aires listées en octobre 2026)."
   non_confirme:
-    - "Composition de la commission de suivi : le décret (art. 11) prévoit des représentants de l'INCOPESCA et un représentant de la communauté de pêcheurs ; la présentation de l'INCOPESCA (2020) indique un représentant de l'INCOPESCA, un du SINAC (système national des aires de conservation) et deux des pêcheurs, sans citer le texte qui aurait modifié l'article 11."
+    - "Composition de la commission de suivi : le décret (art. 11) prévoit des représentants de l'INCOPESCA et un représentant de la communauté de pêcheurs ; la présentation de l'INCOPESCA (2020) indique un représentant de l'INCOPESCA, un du SINAC (système national des aires de conservation) et deux des pêcheurs, sans citer le texte qui aurait modifié l'article 11 ; SINALEVI ne recense aucune modification du décret."
     - "Surface totale : chiffre arrondi « plus de 1 500 km² » de 2020, antérieur à la création des aires 201 et Papagayo."
     - "Nombre de pêcheurs et d'organisations membres : aucun chiffre agrégé trouvé."
     - "Fonctionnement actuel des commissions de suivi et remise des rapports semestriels prévus à l'article 13."
     - "Population : non trouvé."
     - "Nombre de villages : non trouvé."
+    - "Veille de presse 2025-2026 : non faite par recherche générale ; seuls les sites officiels (SINALEVI, INCOPESCA) et les sources déjà citées ont été consultés."
+    - "Mise en œuvre du programme pilote de paiement (résolution 586-2026) et des fonds créés par les lois 10507 et 10533 dans les aires : aucune donnée trouvée."
 sources:
   - {titre: "Áreas Marinas de Pesca Responsable — INCOPESCA", url: "https://www.incopesca.go.cr/pesca/ampr.aspx"}
   - {titre: "Décret exécutif 35502-MAG, Reglamento para el establecimiento de las Áreas Marinas de Pesca Responsable — INCOPESCA", url: "https://www.incopesca.go.cr/pesca/pesca_responsable/01-reglamento_areas_marinas_pesca_responsable.pdf"}
@@ -66,3 +76,10 @@ sources:
   - {titre: "Accord AJDIP/191-2010, création de l'AMPR du golfe Dulce — INCOPESCA", url: "https://www.incopesca.go.cr/pesca/pesca_responsable/AMPR%20Golfo%20Dulce/archivos/AJDIP-191-2010-aprueba-creacion-ampr-Golfo-Dulce.pdf"}
   - {titre: "V Informe Nacional al Convenio sobre la Diversidad Biológica, Costa Rica (2014) — CDB", url: "https://www.cbd.int/doc/world/cr/cr-nr-05-es.pdf"}
   - {titre: "Análisis legal de los territorios de vida marino-costeros en Mesoamérica — Consortium TICCA (2024)", url: "https://www.iccaconsortium.org/wp-content/uploads/2024/10/analisis-legal-de-los-territorios-de-vida-marino-costeros-en-mesoamerica.pdf"}
+  - {titre: "Décret exécutif 35502-MAG, fiche et texte en vigueur — SINALEVI (Procuraduría General de la República)", url: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=66353&param2=77994&param3=1"}
+  - {titre: "Loi 10507, Incentivo para la protección de la biodiversidad marino-costera (2024) — SINALEVI", url: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=102643&param2=141970&param3=1"}
+  - {titre: "Loi 10533, Creación del Fondo Azul de los Servicios Ecosistémicos Marino-Costeros (2024) — SINALEVI", url: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=102977&param2=142711&param3=1"}
+  - {titre: "Décret exécutif 45141, règlement de la loi 10507 (2025) — SINALEVI", url: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=105070&param2=147234&param3=1"}
+  - {titre: "Résolution R-SINAC-CONAC-0002-2026, plan général de gestion de l'aire marine de gestion de Barra del Colorado — SINALEVI", url: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=106543&param2=150080&param3=1"}
+  - {titre: "Résolution 586 du ministère de l'Environnement (2026), manuel du programme pilote de paiement pour services écosystémiques pour la pêche artisanale — SINALEVI", url: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=107899&param2=152476&param3=1"}
+  - {titre: "Décret exécutif 42955-MAG (2021) — SINALEVI", url: "https://sinalevi.go.cr/ResultadosNormativa/Informacion?param1=94216&param2=125330&param3=1"}

@@ -43,20 +43,27 @@ chronologie:
   - {annee: 2014, evenement: "Cinquième rapport national du Niger à la Convention sur la diversité biologique : l'ordonnance 2010-29 figure parmi les mesures juridiques prises depuis 2009."}
   - {annee: 2016, evenement: "Adoption de deux textes d'application : normes des pistes de transhumance et couloirs de passage, ramassage et commercialisation de la paille."}
   - {annee: 2017, evenement: "Selon l'Aren et Care, 516 ha de terres pastorales récupérés en justice sur 2 806 contestés à fin octobre ; immatriculation annulée pour 2 500 ha sur 2 921 réclamés."}
+  - {annee: 2026, evenement: "Note de la FAO sur le pastoralisme au Niger : depuis 2023, la mobilité des troupeaux s'exerce sous des contraintes accrues liées au contexte sécuritaire, et les fermetures de frontières ont désorganisé les marchés du bétail."}
+  - {annee: 2026, evenement: "Le 22 avril, le Conseil des ministres adopte un projet d'ordonnance portant régime du foncier national : il réaffirme la coexistence des droits fonciers écrits et coutumiers, fait de l'État le « propriétaire exclusif des ressources naturelles » et le seul législateur en matière foncière, et laisse le domaine pastoral à des textes spécifiques ; le communiqué ne cite pas l'ordonnance 2010-29."}
 fiabilite:
   verifie:
     - "Texte de l'ordonnance 2010-29 (recueil du Code rural, édition 2013, FAOLEX) : définitions du terroir d'attache et des droits d'usage pastoraux prioritaires (art. 2), reconnaissance par arrêté du président de la commission foncière départementale (art. 11), privation pour utilité publique avec indemnisation préalable (art. 12), accord des communautés titulaires pour les puits (art. 18), cahiers des charges (art. 26 et 28), indemnisation minière et pétrolière (art. 52), conciliation paritaire (art. 66)."
     - "Mention de l'ordonnance 2010-29 et de l'adoption de ses textes d'application dans le cinquième rapport national du Niger à la Convention sur la diversité biologique (2014)."
     - "Rencontres de Niamey de 2003 et adoption de deux textes d'application en 2016, selon Avella et Reounodji (2009) et Aubague et Sani Baaré (2017)."
     - "Antériorité du terroir d'attache dans l'ordonnance 93-015 et le décret 97-007, selon Avella et Reounodji (2009)."
+    - "Adoption en Conseil des ministres, le 22 avril 2026, du projet d'ordonnance portant régime du foncier national, qui exclut de son champ les dépendances du domaine pastoral régies par des textes spécifiques (Agence nigérienne de presse, 23 avril 2026)."
+    - "Contraintes sur la mobilité pastorale depuis 2023, selon la note de la FAO de 2026 fondée sur une enquête de 2022 auprès de 1 038 ménages pastoraux et agropastoraux."
   non_confirme:
     - "Nombre de terroirs d'attache ayant fait l'objet d'un arrêté de reconnaissance d'un droit d'usage prioritaire : aucune liste ni statistique officielle trouvée ; pas de tableau des sites."
     - "Texte du décret 97-007 et contenu exact de l'ordonnance 93-015 sur le terroir d'attache : non consultés directement."
     - "Population, nombre de villages et surface concernés : aucune source trouvée."
     - "Chiffres d'accaparement de 2008 à 2014 : repris d'un article d'une organisation d'éleveurs et d'une ONG, non recoupés avec une source officielle."
     - "Effets de la crise sécuritaire dans les régions de Tillabéri, Tahoua et Diffa sur l'exercice de ces droits : non documentés."
+    - "Numéro, signature et publication de l'ordonnance portant régime du foncier national, et ses effets sur la procédure de confirmation des droits coutumiers et sur les droits d'usage pastoraux prioritaires : non connus au 6 octobre 2026 ; aucune source trouvée sur une modification ou une abrogation de l'ordonnance 2010-29."
 sources:
   - {titre: "Ordonnance n° 2010-29 du 20 mai 2010 relative au pastoralisme — Code rural, recueil des textes, édition 2013 (FAOLEX)", url: "https://faolex.fao.org/docs/pdf/NER131292.pdf"}
   - {titre: "Cinquième rapport national du Niger sur la diversité biologique (2014) — Convention sur la diversité biologique", url: "https://www.cbd.int/doc/world/ne/ne-nr-05-fr.pdf"}
   - {titre: "Avella et Reounodji, La législation foncière pastorale au Niger et au Tchad. Une analyse comparative, colloque de Garoua, 2009 (HAL)", url: "https://hal.science/cirad-00471281v1"}
   - {titre: "Aubague et Sani Baaré, Terres pastorales au Niger : les éleveurs face à la défense de leurs droits, Grain de sel n° 73-74, Inter-réseaux, 2017", url: "https://www.inter-reseaux.org/wp-content/uploads/gds73-74_terrespastoralesniger_p10-11.pdf"}
+  - {titre: "Niger : l'État se réserve un pouvoir exclusif sur le régime du foncier national, Agence nigérienne de presse, 23 avril 2026", url: "https://anp.ne/niger-letat-se-reserve-un-pouvoir-exclusif-sur-le-regime-du-foncier-national/"}
+  - {titre: "FAO, Renforcer le pastoralisme au Niger : un pilier économique qui s'adapte, 2026 (Foncier & Développement)", url: "https://www.foncier-developpement.fr/wp-content/uploads/2026_FAO_Renforcer-le-pastoralisme-au-Niger.pdf"}
