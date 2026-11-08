@@ -1,13 +1,3 @@
-Copyright (c) 2026 Cedric Mabilotte
-
-Textes, données et code de communautes.actitude.org sous licence
-Creative Commons Attribution - Pas d’utilisation commerciale - Partage dans les mêmes conditions 4.0 International (CC BY-NC-SA 4.0).
-https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
-
-Exceptions : les polices (assets/fonts/) sont sous SIL Open Font License 1.1 ; le fond de carte dérive de Natural Earth (domaine public) ; les textes juridiques et documents des Nations unies cités restent soumis à leurs propres conditions.
-
------------------------------------------------------------------------
-
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
