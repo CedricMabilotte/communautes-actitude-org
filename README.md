@@ -31,3 +31,12 @@ Ajouter une communauté : créer `data/communautes/<uid>.yml` sur le modèle de 
 ## Corrections
 
 Voir la page [Droit de réponse](https://communautes.actitude.org/droit-de-reponse/) ou ouvrir un ticket.
+
+## Réutiliser
+
+- **Fiches** : `data/communautes/<slug>.yml` (une fiche par communauté), tables dans `data/tables/`, dossiers dans `data/dossiers/`. Adresse stable sur le site : https://communautes.actitude.org/c/<slug>/ (site hors ligne au 08/11 : certificat, ticket Support en cours).
+- **Téléchargement** : https://communautes.actitude.org/donnees/communautes.json et communautes.csv (régénérés au build).
+- **Licences** (`LICENSE`) : textes CC BY-NC-SA 4.0 ; données ODbL 1.0 ; code AGPL-3.0-or-later ; sources tierces à leur licence.
+- **Citer** : `CITATION.cff` (GitHub : « Cite this repository »). Archive pérenne : Software Heritage,
+  https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/CedricMabilotte/communautes-actitude-org
+- **Corriger** : `CONTRIBUTING.md` — une issue ou une PR par fiche, source citée, réponse sous un mois.
